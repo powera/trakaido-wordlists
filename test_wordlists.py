@@ -7,7 +7,7 @@ Simple test script to verify the wordlists package works correctly.
 def test_imports():
     """Test that all imports work correctly."""
     try:
-        from trakaido_wordlists import (
+        from lang_lt import (
             all_words, 
             nouns_one, 
             phrases_one, 
@@ -23,7 +23,7 @@ def test_imports():
 
 def test_data_structure():
     """Test that the data structures are properly formatted."""
-    from trakaido_wordlists import all_words, get_all_word_pairs_flat
+    from lang_lt import all_words, get_all_word_pairs_flat
     
     # Test all_words structure
     expected_keys = {'nouns_one', 'nouns_two', 'nouns_three', 'nouns_four', 
@@ -59,7 +59,7 @@ def test_data_structure():
 
 def test_utility_functions():
     """Test utility functions."""
-    from trakaido_wordlists import check_for_duplicates, find_missing_words
+    from lang_lt import check_for_duplicates, find_missing_words
     
     # Test duplicate checking
     try:
