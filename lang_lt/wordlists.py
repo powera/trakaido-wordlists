@@ -14,6 +14,7 @@ all_words = {
   "common_words": common_words,
   "verbs_present": verbs_present,
   "verbs_past": verbs_past,
+  "verbs_future": verbs_future,
   "phrases_one": phrases_one,
 }
 
