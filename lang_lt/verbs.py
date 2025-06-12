@@ -1,5 +1,11 @@
+#!/usr/bin/python3
 
-# New verb structure with table format
+"""
+Restructured verb conjugations for Trakaido Lithuanian learning app.
+Each verb is organized by infinitive with all tenses grouped together.
+"""
+
+# New verb structure with table format - all verbs organized by infinitive
 verbs_new = {
   "valgyti": {
     "english": "to eat",
@@ -25,17 +31,6 @@ verbs_new = {
       "3p-m": {"english": "they(m.) ate", "lithuanian": "jie valgė"},
       "3p-f": {"english": "they(f.) ate", "lithuanian": "jos valgė"}
     },
-    "past_perfect": {
-      "1s": {"english": "I had eaten", "lithuanian": "aš buvau valgęs/valgiusi"},
-      "2s": {"english": "you(s.) had eaten", "lithuanian": "tu buvai valgęs/valgiusi"},
-      "3s-m": {"english": "he had eaten", "lithuanian": "jis buvo valgęs"},
-      "3s-f": {"english": "she had eaten", "lithuanian": "ji buvo valgiusi"},
-      "3s-n": {"english": "it had eaten", "lithuanian": "tai buvo valgę"},
-      "1p": {"english": "we had eaten", "lithuanian": "mes buvome valgę/valgiusios"},
-      "2p": {"english": "you(pl.) had eaten", "lithuanian": "jūs buvote valgę/valgiusios"},
-      "3p-m": {"english": "they(m.) had eaten", "lithuanian": "jie buvo valgę"},
-      "3p-f": {"english": "they(f.) had eaten", "lithuanian": "jos buvo valgiusios"}
-    },
     "future": {
       "1s": {"english": "I will eat", "lithuanian": "aš valgysiu"},
       "2s": {"english": "you(s.) will eat", "lithuanian": "tu valgysi"},
@@ -48,6 +43,303 @@ verbs_new = {
       "3p-f": {"english": "they(f.) will eat", "lithuanian": "jos valgys"}
     }
   },
+  
+  "gyventi": {
+    "english": "to live",
+    "present_tense": {
+      "1s": {"english": "I live", "lithuanian": "aš gyvenu"},
+      "2s": {"english": "you(s.) live", "lithuanian": "tu gyveni"},
+      "3s-m": {"english": "he lives", "lithuanian": "jis gyvena"},
+      "3s-f": {"english": "she lives", "lithuanian": "ji gyvena"},
+      "3s-n": {"english": "it lives", "lithuanian": "tai gyvena"},
+      "1p": {"english": "we live", "lithuanian": "mes gyvename"},
+      "2p": {"english": "you(pl.) live", "lithuanian": "jūs gyvenate"},
+      "3p-m": {"english": "they(m.) live", "lithuanian": "jie gyvena"},
+      "3p-f": {"english": "they(f.) live", "lithuanian": "jos gyvena"}
+    },
+    "past_tense": {
+      "1s": {"english": "I lived", "lithuanian": "aš gyvenau"},
+      "2s": {"english": "you(s.) lived", "lithuanian": "tu gyvenai"},
+      "3s-m": {"english": "he lived", "lithuanian": "jis gyveno"},
+      "3s-f": {"english": "she lived", "lithuanian": "ji gyveno"},
+      "3s-n": {"english": "it lived", "lithuanian": "tai gyveno"},
+      "1p": {"english": "we lived", "lithuanian": "mes gyvenome"},
+      "2p": {"english": "you(pl.) lived", "lithuanian": "jūs gyvenote"},
+      "3p-m": {"english": "they(m.) lived", "lithuanian": "jie gyveno"},
+      "3p-f": {"english": "they(f.) lived", "lithuanian": "jos gyveno"}
+    },
+    "future": {
+      "1s": {"english": "I will live", "lithuanian": "aš gyvensiu"},
+      "2s": {"english": "you(s.) will live", "lithuanian": "tu gyvensi"},
+      "3s-m": {"english": "he will live", "lithuanian": "jis gyvens"},
+      "3s-f": {"english": "she will live", "lithuanian": "ji gyvens"},
+      "3s-n": {"english": "it will live", "lithuanian": "tai gyvens"},
+      "1p": {"english": "we will live", "lithuanian": "mes gyvensime"},
+      "2p": {"english": "you(pl.) will live", "lithuanian": "jūs gyvensite"},
+      "3p-m": {"english": "they(m.) will live", "lithuanian": "jie gyvens"},
+      "3p-f": {"english": "they(f.) will live", "lithuanian": "jos gyvens"}
+    }
+  },
+  
+  "mokytis": {
+    "english": "to learn",
+    "present_tense": {
+      "1s": {"english": "I learn", "lithuanian": "aš mokausi"},
+      "2s": {"english": "you(s.) learn", "lithuanian": "tu mokais"},
+      "3s-m": {"english": "he learns", "lithuanian": "jis mokosi"},
+      "3s-f": {"english": "she learns", "lithuanian": "ji mokosi"},
+      "3s-n": {"english": "it learns", "lithuanian": "tai mokosi"},
+      "1p": {"english": "we learn", "lithuanian": "mes mokomės"},
+      "2p": {"english": "you(pl.) learn", "lithuanian": "jūs mokotės"},
+      "3p-m": {"english": "they(m.) learn", "lithuanian": "jie mokosi"},
+      "3p-f": {"english": "they(f.) learn", "lithuanian": "jos mokosi"}
+    },
+    "past_tense": {
+      "1s": {"english": "I learned", "lithuanian": "aš mokiausi"},
+      "2s": {"english": "you(s.) learned", "lithuanian": "tu mokeisi"},
+      "3s-m": {"english": "he learned", "lithuanian": "jis mokėsi"},
+      "3s-f": {"english": "she learned", "lithuanian": "ji mokėsi"},
+      "3s-n": {"english": "it learned", "lithuanian": "tai mokėsi"},
+      "1p": {"english": "we learned", "lithuanian": "mes mokėmės"},
+      "2p": {"english": "you(pl.) learned", "lithuanian": "jūs mokėtės"},
+      "3p-m": {"english": "they(m.) learned", "lithuanian": "jie mokėsi"},
+      "3p-f": {"english": "they(f.) learned", "lithuanian": "jos mokėsi"}
+    },
+    "future": {
+      "1s": {"english": "I will learn", "lithuanian": "aš mokysious"},
+      "2s": {"english": "you(s.) will learn", "lithuanian": "tu mokysiesi"},
+      "3s-m": {"english": "he will learn", "lithuanian": "jis mokysis"},
+      "3s-f": {"english": "she will learn", "lithuanian": "ji mokysis"},
+      "3s-n": {"english": "it will learn", "lithuanian": "tai mokysis"},
+      "1p": {"english": "we will learn", "lithuanian": "mes mokysimės"},
+      "2p": {"english": "you(pl.) will learn", "lithuanian": "jūs mokysitės"},
+      "3p-m": {"english": "they(m.) will learn", "lithuanian": "jie mokysis"},
+      "3p-f": {"english": "they(f.) will learn", "lithuanian": "jos mokysis"}
+    }
+  },
+  
+  "mokyti": {
+    "english": "to teach",
+    "present_tense": {
+      "1s": {"english": "I teach", "lithuanian": "aš mokau"},
+      "2s": {"english": "you(s.) teach", "lithuanian": "tu mokai"},
+      "3s-m": {"english": "he teaches", "lithuanian": "jis moko"},
+      "3s-f": {"english": "she teaches", "lithuanian": "ji moko"},
+      "3s-n": {"english": "it teaches", "lithuanian": "tai moko"},
+      "1p": {"english": "we teach", "lithuanian": "mes mokome"},
+      "2p": {"english": "you(pl.) teach", "lithuanian": "jūs mokote"},
+      "3p-m": {"english": "they(m.) teach", "lithuanian": "jie moko"},
+      "3p-f": {"english": "they(f.) teach", "lithuanian": "jos moko"}
+    },
+    "past_tense": {
+      "1s": {"english": "I taught", "lithuanian": "aš mokiau"},
+      "2s": {"english": "you(s.) taught", "lithuanian": "tu mokai"},
+      "3s-m": {"english": "he taught", "lithuanian": "jis mokė"},
+      "3s-f": {"english": "she taught", "lithuanian": "ji mokė"},
+      "3s-n": {"english": "it taught", "lithuanian": "tai mokė"},
+      "1p": {"english": "we taught", "lithuanian": "mes mokėme"},
+      "2p": {"english": "you(pl.) taught", "lithuanian": "jūs mokėte"},
+      "3p-m": {"english": "they(m.) taught", "lithuanian": "jie mokė"},
+      "3p-f": {"english": "they(f.) taught", "lithuanian": "jos mokė"}
+    },
+    "future": {
+      "1s": {"english": "I will teach", "lithuanian": "aš mokysiu"},
+      "2s": {"english": "you(s.) will teach", "lithuanian": "tu mokysi"},
+      "3s-m": {"english": "he will teach", "lithuanian": "jis mokys"},
+      "3s-f": {"english": "she will teach", "lithuanian": "ji mokys"},
+      "3s-n": {"english": "it will teach", "lithuanian": "tai mokys"},
+      "1p": {"english": "we will teach", "lithuanian": "mes mokysime"},
+      "2p": {"english": "you(pl.) will teach", "lithuanian": "jūs mokysite"},
+      "3p-m": {"english": "they(m.) will teach", "lithuanian": "jie mokys"},
+      "3p-f": {"english": "they(f.) will teach", "lithuanian": "jos mokys"}
+    }
+  },
+  
+  "žaisti": {
+    "english": "to play",
+    "present_tense": {
+      "1s": {"english": "I play", "lithuanian": "aš žaidžiu"},
+      "2s": {"english": "you(s.) play", "lithuanian": "tu žaidi"},
+      "3s-m": {"english": "he plays", "lithuanian": "jis žaidžia"},
+      "3s-f": {"english": "she plays", "lithuanian": "ji žaidžia"},
+      "3s-n": {"english": "it plays", "lithuanian": "tai žaidžia"},
+      "1p": {"english": "we play", "lithuanian": "mes žaidžiame"},
+      "2p": {"english": "you(pl.) play", "lithuanian": "jūs žaidžiate"},
+      "3p-m": {"english": "they(m.) play", "lithuanian": "jie žaidžia"},
+      "3p-f": {"english": "they(f.) play", "lithuanian": "jos žaidžia"}
+    },
+    "past_tense": {
+      "1s": {"english": "I played", "lithuanian": "aš žaidžiau"},
+      "2s": {"english": "you(s.) played", "lithuanian": "tu žaidei"},
+      "3s-m": {"english": "he played", "lithuanian": "jis žaidė"},
+      "3s-f": {"english": "she played", "lithuanian": "ji žaidė"},
+      "3s-n": {"english": "it played", "lithuanian": "tai žaidė"},
+      "1p": {"english": "we played", "lithuanian": "mes žaidėme"},
+      "2p": {"english": "you(pl.) played", "lithuanian": "jūs žaidėte"},
+      "3p-m": {"english": "they(m.) played", "lithuanian": "jie žaidė"},
+      "3p-f": {"english": "they(f.) played", "lithuanian": "jos žaidė"}
+    },
+    "future": {
+      "1s": {"english": "I will play", "lithuanian": "aš žaisiu"},
+      "2s": {"english": "you(s.) will play", "lithuanian": "tu žaisi"},
+      "3s-m": {"english": "he will play", "lithuanian": "jis žais"},
+      "3s-f": {"english": "she will play", "lithuanian": "ji žais"},
+      "3s-n": {"english": "it will play", "lithuanian": "tai žais"},
+      "1p": {"english": "we will play", "lithuanian": "mes žaisime"},
+      "2p": {"english": "you(pl.) will play", "lithuanian": "jūs žaisite"},
+      "3p-m": {"english": "they(m.) will play", "lithuanian": "jie žais"},
+      "3p-f": {"english": "they(f.) will play", "lithuanian": "jos žais"}
+    }
+  },
+  
+  "skaityti": {
+    "english": "to read",
+    "present_tense": {
+      "1s": {"english": "I read", "lithuanian": "aš skaitau"},
+      "2s": {"english": "you(s.) read", "lithuanian": "tu skaitai"},
+      "3s-m": {"english": "he reads", "lithuanian": "jis skaito"},
+      "3s-f": {"english": "she reads", "lithuanian": "ji skaito"},
+      "3s-n": {"english": "it reads", "lithuanian": "tai skaito"},
+      "1p": {"english": "we read", "lithuanian": "mes skaitome"},
+      "2p": {"english": "you(pl.) read", "lithuanian": "jūs skaitote"},
+      "3p-m": {"english": "they(m.) read", "lithuanian": "jie skaito"},
+      "3p-f": {"english": "they(f.) read", "lithuanian": "jos skaito"}
+    },
+    "past_tense": {
+      "1s": {"english": "I read", "lithuanian": "aš skaičiau"},
+      "2s": {"english": "you(s.) read", "lithuanian": "tu skaitei"},
+      "3s-m": {"english": "he read", "lithuanian": "jis skaitė"},
+      "3s-f": {"english": "she read", "lithuanian": "ji skaitė"},
+      "3s-n": {"english": "it read", "lithuanian": "tai skaitė"},
+      "1p": {"english": "we read", "lithuanian": "mes skaitėme"},
+      "2p": {"english": "you(pl.) read", "lithuanian": "jūs skaitėte"},
+      "3p-m": {"english": "they(m.) read", "lithuanian": "jie skaitė"},
+      "3p-f": {"english": "they(f.) read", "lithuanian": "jos skaitė"}
+    },
+    "future": {
+      "1s": {"english": "I will read", "lithuanian": "aš skaitysiu"},
+      "2s": {"english": "you(s.) will read", "lithuanian": "tu skaitysi"},
+      "3s-m": {"english": "he will read", "lithuanian": "jis skaitys"},
+      "3s-f": {"english": "she will read", "lithuanian": "ji skaitys"},
+      "3s-n": {"english": "it will read", "lithuanian": "tai skaitys"},
+      "1p": {"english": "we will read", "lithuanian": "mes skaitysime"},
+      "2p": {"english": "you(pl.) will read", "lithuanian": "jūs skaitysite"},
+      "3p-m": {"english": "they(m.) will read", "lithuanian": "jie skaitys"},
+      "3p-f": {"english": "they(f.) will read", "lithuanian": "jos skaitys"}
+    }
+  },
+  
+  "rašyti": {
+    "english": "to write",
+    "present_tense": {
+      "1s": {"english": "I write", "lithuanian": "aš rašau"},
+      "2s": {"english": "you(s.) write", "lithuanian": "tu rašai"},
+      "3s-m": {"english": "he writes", "lithuanian": "jis rašo"},
+      "3s-f": {"english": "she writes", "lithuanian": "ji rašo"},
+      "3s-n": {"english": "it writes", "lithuanian": "tai rašo"},
+      "1p": {"english": "we write", "lithuanian": "mes rašome"},
+      "2p": {"english": "you(pl.) write", "lithuanian": "jūs rašote"},
+      "3p-m": {"english": "they(m.) write", "lithuanian": "jie rašo"},
+      "3p-f": {"english": "they(f.) write", "lithuanian": "jos rašo"}
+    },
+    "past_tense": {
+      "1s": {"english": "I wrote", "lithuanian": "aš rašiau"},
+      "2s": {"english": "you(s.) wrote", "lithuanian": "tu rašei"},
+      "3s-m": {"english": "he wrote", "lithuanian": "jis rašė"},
+      "3s-f": {"english": "she wrote", "lithuanian": "ji rašė"},
+      "3s-n": {"english": "it wrote", "lithuanian": "tai rašė"},
+      "1p": {"english": "we wrote", "lithuanian": "mes rašėme"},
+      "2p": {"english": "you(pl.) wrote", "lithuanian": "jūs rašėte"},
+      "3p-m": {"english": "they(m.) wrote", "lithuanian": "jie rašė"},
+      "3p-f": {"english": "they(f.) wrote", "lithuanian": "jos rašė"}
+    },
+    "future": {
+      "1s": {"english": "I will write", "lithuanian": "aš rašysiu"},
+      "2s": {"english": "you(s.) will write", "lithuanian": "tu rašysi"},
+      "3s-m": {"english": "he will write", "lithuanian": "jis rašys"},
+      "3s-f": {"english": "she will write", "lithuanian": "ji rašys"},
+      "3s-n": {"english": "it will write", "lithuanian": "tai rašys"},
+      "1p": {"english": "we will write", "lithuanian": "mes rašysime"},
+      "2p": {"english": "you(pl.) will write", "lithuanian": "jūs rašysite"},
+      "3p-m": {"english": "they(m.) will write", "lithuanian": "jie rašys"},
+      "3p-f": {"english": "they(f.) will write", "lithuanian": "jos rašys"}
+    }
+  },
+  
+  "klausyti": {
+    "english": "to listen",
+    "present_tense": {
+      "1s": {"english": "I listen", "lithuanian": "aš klausau"},
+      "2s": {"english": "you(s.) listen", "lithuanian": "tu klausai"},
+      "3s-m": {"english": "he listens", "lithuanian": "jis klauso"},
+      "3s-f": {"english": "she listens", "lithuanian": "ji klauso"},
+      "3s-n": {"english": "it listens", "lithuanian": "tai klauso"},
+      "1p": {"english": "we listen", "lithuanian": "mes klausome"},
+      "2p": {"english": "you(pl.) listen", "lithuanian": "jūs klausote"},
+      "3p-m": {"english": "they(m.) listen", "lithuanian": "jie klauso"},
+      "3p-f": {"english": "they(f.) listen", "lithuanian": "jos klauso"}
+    },
+    "past_tense": {
+      "1s": {"english": "I listened", "lithuanian": "aš klausiau"},
+      "2s": {"english": "you(s.) listened", "lithuanian": "tu klausei"},
+      "3s-m": {"english": "he listened", "lithuanian": "jis klausė"},
+      "3s-f": {"english": "she listened", "lithuanian": "ji klausė"},
+      "3s-n": {"english": "it listened", "lithuanian": "tai klausė"},
+      "1p": {"english": "we listened", "lithuanian": "mes klausėme"},
+      "2p": {"english": "you(pl.) listened", "lithuanian": "jūs klausėte"},
+      "3p-m": {"english": "they(m.) listened", "lithuanian": "jie klausė"},
+      "3p-f": {"english": "they(f.) listened", "lithuanian": "jos klausė"}
+    },
+    "future": {
+      "1s": {"english": "I will listen", "lithuanian": "aš klausysiu"},
+      "2s": {"english": "you(s.) will listen", "lithuanian": "tu klausysi"},
+      "3s-m": {"english": "he will listen", "lithuanian": "jis klausys"},
+      "3s-f": {"english": "she will listen", "lithuanian": "ji klausys"},
+      "3s-n": {"english": "it will listen", "lithuanian": "tai klausys"},
+      "1p": {"english": "we will listen", "lithuanian": "mes klausysime"},
+      "2p": {"english": "you(pl.) will listen", "lithuanian": "jūs klausysite"},
+      "3p-m": {"english": "they(m.) will listen", "lithuanian": "jie klausys"},
+      "3p-f": {"english": "they(f.) will listen", "lithuanian": "jos klausys"}
+    }
+  },
+
+  "dirbti": {
+    "english": "to work",
+    "present_tense": {
+      "1s": {"english": "I work", "lithuanian": "aš dirbu"},
+      "2s": {"english": "you(s.) work", "lithuanian": "tu dirbi"},
+      "3s-m": {"english": "he works", "lithuanian": "jis dirba"},
+      "3s-f": {"english": "she works", "lithuanian": "ji dirba"},
+      "3s-n": {"english": "it works", "lithuanian": "tai dirba"},
+      "1p": {"english": "we work", "lithuanian": "mes dirbame"},
+      "2p": {"english": "you(pl.) work", "lithuanian": "jūs dirbate"},
+      "3p-m": {"english": "they(m.) work", "lithuanian": "jie dirba"},
+      "3p-f": {"english": "they(f.) work", "lithuanian": "jos dirba"}
+    },
+    "past_tense": {
+      "1s": {"english": "I worked", "lithuanian": "aš dirbau"},
+      "2s": {"english": "you(s.) worked", "lithuanian": "tu dirbai"},
+      "3s-m": {"english": "he worked", "lithuanian": "jis dirbo"},
+      "3s-f": {"english": "she worked", "lithuanian": "ji dirbo"},
+      "3s-n": {"english": "it worked", "lithuanian": "tai dirbo"},
+      "1p": {"english": "we worked", "lithuanian": "mes dirbome"},
+      "2p": {"english": "you(pl.) worked", "lithuanian": "jūs dirbote"},
+      "3p-m": {"english": "they(m.) worked", "lithuanian": "jie dirbo"},
+      "3p-f": {"english": "they(f.) worked", "lithuanian": "jos dirbo"}
+    },
+    "future": {
+      "1s": {"english": "I will work", "lithuanian": "aš dirbsiu"},
+      "2s": {"english": "you(s.) will work", "lithuanian": "tu dirbsi"},
+      "3s-m": {"english": "he eats", "lithuanian": "jis valgo"},
+      "3s-f": {"english": "she eats", "lithuanian": "ji valgo"},
+      "3s-n": {"english": "it eats", "lithuanian": "tai valgo"},
+      "1p": {"english": "we eat", "lithuanian": "mes valgome"},
+      "2p": {"english": "you(pl.) eat", "lithuanian": "jūs valgote"},
+      "3p-m": {"english": "they(m.) eat", "lithuanian": "jie valgo"},
+      "3p-f": {"english": "they(f.) eat", "lithuanian": "jos valgo"}
+    },
+  },
+  
   "gerti": {
     "english": "to drink",
     "present_tense": {
@@ -72,17 +364,6 @@ verbs_new = {
       "3p-m": {"english": "they(m.) drank", "lithuanian": "jie gėrė"},
       "3p-f": {"english": "they(f.) drank", "lithuanian": "jos gėrė"}
     },
-    "past_perfect": {
-      "1s": {"english": "I had drunk", "lithuanian": "aš buvau gėręs/gėrusi"},
-      "2s": {"english": "you(s.) had drunk", "lithuanian": "tu buvai gėręs/gėrusi"},
-      "3s-m": {"english": "he had drunk", "lithuanian": "jis buvo gėręs"},
-      "3s-f": {"english": "she had drunk", "lithuanian": "ji buvo gėrusi"},
-      "3s-n": {"english": "it had drunk", "lithuanian": "tai buvo gėrę"},
-      "1p": {"english": "we had drunk", "lithuanian": "mes buvome gėrę/gėrusios"},
-      "2p": {"english": "you(pl.) had drunk", "lithuanian": "jūs buvote gėrę/gėrusios"},
-      "3p-m": {"english": "they(m.) had drunk", "lithuanian": "jie buvo gėrę"},
-      "3p-f": {"english": "they(f.) had drunk", "lithuanian": "jos buvo gėrusios"}
-    },
     "future": {
       "1s": {"english": "I will drink", "lithuanian": "aš gersiu"},
       "2s": {"english": "you(s.) will drink", "lithuanian": "tu gersi"},
@@ -94,659 +375,837 @@ verbs_new = {
       "3p-m": {"english": "they(m.) will drink", "lithuanian": "jie gers"},
       "3p-f": {"english": "they(f.) will drink", "lithuanian": "jos gers"}
     }
-  }
+  },
+  
+  "miegoti": {
+    "english": "to sleep",
+    "present_tense": {
+      "1s": {"english": "I sleep", "lithuanian": "aš miegu"},
+      "2s": {"english": "you(s.) sleep", "lithuanian": "tu miegi"},
+      "3s-m": {"english": "he sleeps", "lithuanian": "jis miega"},
+      "3s-f": {"english": "she sleeps", "lithuanian": "ji miega"},
+      "3s-n": {"english": "it sleeps", "lithuanian": "tai miega"},
+      "1p": {"english": "we sleep", "lithuanian": "mes miegame"},
+      "2p": {"english": "you(pl.) sleep", "lithuanian": "jūs miegate"},
+      "3p-m": {"english": "they(m.) sleep", "lithuanian": "jie miega"},
+      "3p-f": {"english": "they(f.) sleep", "lithuanian": "jos miega"}
+    },
+    "past_tense": {
+      "1s": {"english": "I slept", "lithuanian": "aš miegojau"},
+      "2s": {"english": "you(s.) slept", "lithuanian": "tu miegojai"},
+      "3s-m": {"english": "he slept", "lithuanian": "jis miegojo"},
+      "3s-f": {"english": "she slept", "lithuanian": "ji miegojo"},
+      "3s-n": {"english": "it slept", "lithuanian": "tai miegojo"},
+      "1p": {"english": "we slept", "lithuanian": "mes miegojome"},
+      "2p": {"english": "you(pl.) slept", "lithuanian": "jūs miegojote"},
+      "3p-m": {"english": "they(m.) slept", "lithuanian": "jie miegojo"},
+      "3p-f": {"english": "they(f.) slept", "lithuanian": "jos miegojo"}
+    },
+    "future": {
+      "1s": {"english": "I will sleep", "lithuanian": "aš miegosiu"},
+      "2s": {"english": "you(s.) will sleep", "lithuanian": "tu miegosi"},
+      "3s-m": {"english": "he will sleep", "lithuanian": "jis miegos"},
+      "3s-f": {"english": "she will sleep", "lithuanian": "ji miegos"},
+      "3s-n": {"english": "it will sleep", "lithuanian": "tai miegos"},
+      "1p": {"english": "we will sleep", "lithuanian": "mes miegosime"},
+      "2p": {"english": "you(pl.) will sleep", "lithuanian": "jūs miegosite"},
+      "3p-m": {"english": "they(m.) will sleep", "lithuanian": "jie miegos"},
+      "3p-f": {"english": "they(f.) will sleep", "lithuanian": "jos miegos"}
+    }
+  },
+  
+  "būti": {
+    "english": "to be",
+    "present_tense": {
+      "1s": {"english": "I am", "lithuanian": "aš esu"},
+      "2s": {"english": "you(s.) are", "lithuanian": "tu esi"},
+      "3s-m": {"english": "he is", "lithuanian": "jis yra"},
+      "3s-f": {"english": "she is", "lithuanian": "ji yra"},
+      "3s-n": {"english": "it is", "lithuanian": "tai yra"},
+      "1p": {"english": "we are", "lithuanian": "mes esame"},
+      "2p": {"english": "you(pl.) are", "lithuanian": "jūs esate"},
+      "3p-m": {"english": "they(m.) are", "lithuanian": "jie yra"},
+      "3p-f": {"english": "they(f.) are", "lithuanian": "jos yra"}
+    },
+    "past_tense": {
+      "1s": {"english": "I was", "lithuanian": "aš buvau"},
+      "2s": {"english": "you(s.) were", "lithuanian": "tu buvai"},
+      "3s-m": {"english": "he was", "lithuanian": "jis buvo"},
+      "3s-f": {"english": "she was", "lithuanian": "ji buvo"},
+      "3s-n": {"english": "it was", "lithuanian": "tai buvo"},
+      "1p": {"english": "we were", "lithuanian": "mes buvome"},
+      "2p": {"english": "you(pl.) were", "lithuanian": "jūs buvote"},
+      "3p-m": {"english": "they(m.) were", "lithuanian": "jie buvo"},
+      "3p-f": {"english": "they(f.) were", "lithuanian": "jos buvo"}
+    },
+    "future": {
+      "1s": {"english": "I will be", "lithuanian": "aš būsiu"},
+      "2s": {"english": "you(s.) will be", "lithuanian": "tu būsi"},
+      "3s-m": {"english": "he will be", "lithuanian": "jis bus"},
+      "3s-f": {"english": "she will be", "lithuanian": "ji bus"},
+      "3s-n": {"english": "it will be", "lithuanian": "tai bus"},
+      "1p": {"english": "we will be", "lithuanian": "mes būsime"},
+      "2p": {"english": "you(pl.) will be", "lithuanian": "jūs būsite"},
+      "3p-m": {"english": "they(m.) will be", "lithuanian": "jie bus"},
+      "3p-f": {"english": "they(f.) will be", "lithuanian": "jos bus"}
+    }
+  },
+  
+  "turėti": {
+    "english": "to have",
+    "present_tense": {
+      "1s": {"english": "I have", "lithuanian": "aš turiu"},
+      "2s": {"english": "you(s.) have", "lithuanian": "tu turi"},
+      "3s-m": {"english": "he has", "lithuanian": "jis turi"},
+      "3s-f": {"english": "she has", "lithuanian": "ji turi"},
+      "3s-n": {"english": "it has", "lithuanian": "tai turi"},
+      "1p": {"english": "we have", "lithuanian": "mes turime"},
+      "2p": {"english": "you(pl.) have", "lithuanian": "jūs turite"},
+      "3p-m": {"english": "they(m.) have", "lithuanian": "jie turi"},
+      "3p-f": {"english": "they(f.) have", "lithuanian": "jos turi"}
+    },
+    "past_tense": {
+      "1s": {"english": "I had", "lithuanian": "aš turėjau"},
+      "2s": {"english": "you(s.) had", "lithuanian": "tu turėjai"},
+      "3s-m": {"english": "he had", "lithuanian": "jis turėjo"},
+      "3s-f": {"english": "she had", "lithuanian": "ji turėjo"},
+      "3s-n": {"english": "it had", "lithuanian": "tai turėjo"},
+      "1p": {"english": "we had", "lithuanian": "mes turėjome"},
+      "2p": {"english": "you(pl.) had", "lithuanian": "jūs turėjote"},
+      "3p-m": {"english": "they(m.) had", "lithuanian": "jie turėjo"},
+      "3p-f": {"english": "they(f.) had", "lithuanian": "jos turėjo"}
+    },
+    "future": {
+      "1s": {"english": "I will have", "lithuanian": "aš turėsiu"},
+      "2s": {"english": "you(s.) will have", "lithuanian": "tu turėsi"},
+      "3s-m": {"english": "he will have", "lithuanian": "jis turės"},
+      "3s-f": {"english": "she will have", "lithuanian": "ji turės"},
+      "3s-n": {"english": "it will have", "lithuanian": "tai turės"},
+      "1p": {"english": "we will have", "lithuanian": "mes turėsime"},
+      "2p": {"english": "you(pl.) will have", "lithuanian": "jūs turėsite"},
+      "3p-m": {"english": "they(m.) will have", "lithuanian": "jie turės"},
+      "3p-f": {"english": "they(f.) will have", "lithuanian": "jos turės"}
+    }
+  },
+  
+  "mėgti": {
+    "english": "to like",
+    "present_tense": {
+      "1s": {"english": "I like", "lithuanian": "aš mėgstu"},
+      "2s": {"english": "you(s.) like", "lithuanian": "tu mėgsti"},
+      "3s-m": {"english": "he likes", "lithuanian": "jis mėgsta"},
+      "3s-f": {"english": "she likes", "lithuanian": "ji mėgsta"},
+      "3s-n": {"english": "it likes", "lithuanian": "tai mėgsta"},
+      "1p": {"english": "we like", "lithuanian": "mes mėgstame"},
+      "2p": {"english": "you(pl.) like", "lithuanian": "jūs mėgstate"},
+      "3p-m": {"english": "they(m.) like", "lithuanian": "jie mėgsta"},
+      "3p-f": {"english": "they(f.) like", "lithuanian": "jos mėgsta"}
+    },
+    "past_tense": {
+      "1s": {"english": "I liked", "lithuanian": "aš mėgau"},
+      "2s": {"english": "you(s.) liked", "lithuanian": "tu mėgai"},
+      "3s-m": {"english": "he liked", "lithuanian": "jis mėgo"},
+      "3s-f": {"english": "she liked", "lithuanian": "ji mėgo"},
+      "3s-n": {"english": "it liked", "lithuanian": "tai mėgo"},
+      "1p": {"english": "we liked", "lithuanian": "mes mėgome"},
+      "2p": {"english": "you(pl.) liked", "lithuanian": "jūs mėgote"},
+      "3p-m": {"english": "they(m.) liked", "lithuanian": "jie mėgo"},
+      "3p-f": {"english": "they(f.) liked", "lithuanian": "jos mėgo"}
+    },
+    "future": {
+      "1s": {"english": "I will like", "lithuanian": "aš mėgsiu"},
+      "2s": {"english": "you(s.) will like", "lithuanian": "tu mėgsi"},
+      "3s-m": {"english": "he will like", "lithuanian": "jis mėgs"},
+      "3s-f": {"english": "she will like", "lithuanian": "ji mėgs"},
+      "3s-n": {"english": "it will like", "lithuanian": "tai mėgs"},
+      "1p": {"english": "we will like", "lithuanian": "mes mėgsime"},
+      "2p": {"english": "you(pl.) will like", "lithuanian": "jūs mėgsite"},
+      "3p-m": {"english": "they(m.) will like", "lithuanian": "jie mėgs"},
+      "3p-f": {"english": "they(f.) will like", "lithuanian": "jos mėgs"}
+    }
+  },
+  
+  "gaminti": {
+    "english": "to make",
+    "present_tense": {
+      "1s": {"english": "I make", "lithuanian": "aš gaminu"},
+      "2s": {"english": "you(s.) make", "lithuanian": "tu gamini"},
+      "3s-m": {"english": "he makes", "lithuanian": "jis gamina"},
+      "3s-f": {"english": "she makes", "lithuanian": "ji gamina"},
+      "3s-n": {"english": "it makes", "lithuanian": "tai gamina"},
+      "1p": {"english": "we make", "lithuanian": "mes gaminame"},
+      "2p": {"english": "you(pl.) make", "lithuanian": "jūs gaminate"},
+      "3p-m": {"english": "they(m.) make", "lithuanian": "jie gamina"},
+      "3p-f": {"english": "they(f.) make", "lithuanian": "jos gamina"}
+    },
+    "past_tense": {
+      "1s": {"english": "I made", "lithuanian": "aš gaminau"},
+      "2s": {"english": "you(s.) made", "lithuanian": "tu gaminai"},
+      "3s-m": {"english": "he made", "lithuanian": "jis gamino"},
+      "3s-f": {"english": "she made", "lithuanian": "ji gamino"},
+      "3s-n": {"english": "it made", "lithuanian": "tai gamino"},
+      "1p": {"english": "we made", "lithuanian": "mes gaminome"},
+      "2p": {"english": "you(pl.) made", "lithuanian": "jūs gaminote"},
+      "3p-m": {"english": "they(m.) made", "lithuanian": "jie gamino"},
+      "3p-f": {"english": "they(f.) made", "lithuanian": "jos gamino"}
+    },
+    "future": {
+      "1s": {"english": "I will make", "lithuanian": "aš gaminsiu"},
+      "2s": {"english": "you(s.) will make", "lithuanian": "tu gaminsi"},
+      "3s-m": {"english": "he will make", "lithuanian": "jis gamins"},
+      "3s-f": {"english": "she will make", "lithuanian": "ji gamins"},
+      "3s-n": {"english": "it will make", "lithuanian": "tai gamins"},
+      "1p": {"english": "we will make", "lithuanian": "mes gaminsime"},
+      "2p": {"english": "you(pl.) will make", "lithuanian": "jūs gaminsite"},
+      "3p-m": {"english": "they(m.) will make", "lithuanian": "jie gamins"},
+      "3p-f": {"english": "they(f.) will make", "lithuanian": "jos gamins"}
+    }
+  },
+  
+  "pirkti": {
+    "english": "to buy",
+    "present_tense": {
+      "1s": {"english": "I buy", "lithuanian": "aš perku"},
+      "2s": {"english": "you(s.) buy", "lithuanian": "tu perki"},
+      "3s-m": {"english": "he buys", "lithuanian": "jis perka"},
+      "3s-f": {"english": "she buys", "lithuanian": "ji perka"},
+      "3s-n": {"english": "it buys", "lithuanian": "tai perka"},
+      "1p": {"english": "we buy", "lithuanian": "mes perkame"},
+      "2p": {"english": "you(pl.) buy", "lithuanian": "jūs perkate"},
+      "3p-m": {"english": "they(m.) buy", "lithuanian": "jie perka"},
+      "3p-f": {"english": "they(f.) buy", "lithuanian": "jos perka"}
+    },
+    "past_tense": {
+      "1s": {"english": "I bought", "lithuanian": "aš pirkau"},
+      "2s": {"english": "you(s.) bought", "lithuanian": "tu pirkai"},
+      "3s-m": {"english": "he bought", "lithuanian": "jis pirko"},
+      "3s-f": {"english": "she bought", "lithuanian": "ji pirko"},
+      "3s-n": {"english": "it bought", "lithuanian": "tai pirko"},
+      "1p": {"english": "we bought", "lithuanian": "mes pirkome"},
+      "2p": {"english": "you(pl.) bought", "lithuanian": "jūs pirkote"},
+      "3p-m": {"english": "they(m.) bought", "lithuanian": "jie pirko"},
+      "3p-f": {"english": "they(f.) bought", "lithuanian": "jos pirko"}
+    },
+    "future": {
+      "1s": {"english": "I will buy", "lithuanian": "aš pirksiu"},
+      "2s": {"english": "you(s.) will buy", "lithuanian": "tu pirksi"},
+      "3s-m": {"english": "he will buy", "lithuanian": "jis pirks"},
+      "3s-f": {"english": "she will buy", "lithuanian": "ji pirks"},
+      "3s-n": {"english": "it will buy", "lithuanian": "tai pirks"},
+      "1p": {"english": "we will buy", "lithuanian": "mes pirksime"},
+      "2p": {"english": "you(pl.) will buy", "lithuanian": "jūs pirksite"},
+      "3p-m": {"english": "they(m.) will buy", "lithuanian": "jie pirks"},
+      "3p-f": {"english": "they(f.) will buy", "lithuanian": "jos pirks"}
+    }
+  },
+  
+  "duoti": {
+    "english": "to give",
+    "present_tense": {
+      "1s": {"english": "I give", "lithuanian": "aš duodu"},
+      "2s": {"english": "you(s.) give", "lithuanian": "tu duodi"},
+      "3s-m": {"english": "he gives", "lithuanian": "jis duoda"},
+      "3s-f": {"english": "she gives", "lithuanian": "ji duoda"},
+      "3s-n": {"english": "it gives", "lithuanian": "tai duoda"},
+      "1p": {"english": "we give", "lithuanian": "mes duodame"},
+      "2p": {"english": "you(pl.) give", "lithuanian": "jūs duodate"},
+      "3p-m": {"english": "they(m.) give", "lithuanian": "jie duoda"},
+      "3p-f": {"english": "they(f.) give", "lithuanian": "jos duoda"}
+    },
+    "past_tense": {
+      "1s": {"english": "I gave", "lithuanian": "aš daviau"},
+      "2s": {"english": "you(s.) gave", "lithuanian": "tu davei"},
+      "3s-m": {"english": "he gave", "lithuanian": "jis davė"},
+      "3s-f": {"english": "she gave", "lithuanian": "ji davė"},
+      "3s-n": {"english": "it gave", "lithuanian": "tai davė"},
+      "1p": {"english": "we gave", "lithuanian": "mes davėme"},
+      "2p": {"english": "you(pl.) gave", "lithuanian": "jūs davėte"},
+      "3p-m": {"english": "they(m.) gave", "lithuanian": "jie davė"},
+      "3p-f": {"english": "they(f.) gave", "lithuanian": "jos davė"}
+    },
+    "future": {
+      "1s": {"english": "I will give", "lithuanian": "aš duosiu"},
+      "2s": {"english": "you(s.) will give", "lithuanian": "tu duosi"},
+      "3s-m": {"english": "he will give", "lithuanian": "jis duos"},
+      "3s-f": {"english": "she will give", "lithuanian": "ji duos"},
+      "3s-n": {"english": "it will give", "lithuanian": "tai duos"},
+      "1p": {"english": "we will give", "lithuanian": "mes duosime"},
+      "2p": {"english": "you(pl.) will give", "lithuanian": "jūs duosite"},
+      "3p-m": {"english": "they(m.) will give", "lithuanian": "jie duos"},
+      "3p-f": {"english": "they(f.) will give", "lithuanian": "jos duos"}
+    }
+  },
+  
+  "imti": {
+    "english": "to take",
+    "present_tense": {
+      "1s": {"english": "I take", "lithuanian": "aš imu"},
+      "2s": {"english": "you(s.) take", "lithuanian": "tu imi"},
+      "3s-m": {"english": "he takes", "lithuanian": "jis ima"},
+      "3s-f": {"english": "she takes", "lithuanian": "ji ima"},
+      "3s-n": {"english": "it takes", "lithuanian": "tai ima"},
+      "1p": {"english": "we take", "lithuanian": "mes imame"},
+      "2p": {"english": "you(pl.) take", "lithuanian": "jūs imate"},
+      "3p-m": {"english": "they(m.) take", "lithuanian": "jie ima"},
+      "3p-f": {"english": "they(f.) take", "lithuanian": "jos ima"}
+    },
+    "past_tense": {
+      "1s": {"english": "I took", "lithuanian": "aš ėmiau"},
+      "2s": {"english": "you(s.) took", "lithuanian": "tu ėmei"},
+      "3s-m": {"english": "he took", "lithuanian": "jis ėmė"},
+      "3s-f": {"english": "she took", "lithuanian": "ji ėmė"},
+      "3s-n": {"english": "it took", "lithuanian": "tai ėmė"},
+      "1p": {"english": "we took", "lithuanian": "mes ėmėme"},
+      "2p": {"english": "you(pl.) took", "lithuanian": "jūs ėmėte"},
+      "3p-m": {"english": "they(m.) took", "lithuanian": "jie ėmė"},
+      "3p-f": {"english": "they(f.) took", "lithuanian": "jos ėmė"}
+    },
+    "future": {
+      "1s": {"english": "I will take", "lithuanian": "aš imsiu"},
+      "2s": {"english": "you(s.) will take", "lithuanian": "tu imsi"},
+      "3s-m": {"english": "he will take", "lithuanian": "jis ims"},
+      "3s-f": {"english": "she will take", "lithuanian": "ji ims"},
+      "3s-n": {"english": "it will take", "lithuanian": "tai ims"},
+      "1p": {"english": "we will take", "lithuanian": "mes imsime"},
+      "2p": {"english": "you(pl.) will take", "lithuanian": "jūs imsite"},
+      "3p-m": {"english": "they(m.) will take", "lithuanian": "jie ims"},
+      "3p-f": {"english": "they(f.) will take", "lithuanian": "jos ims"}
+    }
+  },
+  
+  "eiti": {
+    "english": "to walk/go",
+    "present_tense": {
+      "1s": {"english": "I walk", "lithuanian": "aš einu"},
+      "2s": {"english": "you(s.) walk", "lithuanian": "tu eini"},
+      "3s-m": {"english": "he walks", "lithuanian": "jis eina"},
+      "3s-f": {"english": "she walks", "lithuanian": "ji eina"},
+      "3s-n": {"english": "it walks", "lithuanian": "tai eina"},
+      "1p": {"english": "we walk", "lithuanian": "mes einame"},
+      "2p": {"english": "you(pl.) walk", "lithuanian": "jūs einate"},
+      "3p-m": {"english": "they(m.) walk", "lithuanian": "jie eina"},
+      "3p-f": {"english": "they(f.) walk", "lithuanian": "jos eina"}
+    },
+    "past_tense": {
+      "1s": {"english": "I walked", "lithuanian": "aš ėjau"},
+      "2s": {"english": "you(s.) walked", "lithuanian": "tu ėjai"},
+      "3s-m": {"english": "he walked", "lithuanian": "jis ėjo"},
+      "3s-f": {"english": "she walked", "lithuanian": "ji ėjo"},
+      "3s-n": {"english": "it walked", "lithuanian": "tai ėjo"},
+      "1p": {"english": "we walked", "lithuanian": "mes ėjome"},
+      "2p": {"english": "you(pl.) walked", "lithuanian": "jūs ėjote"},
+      "3p-m": {"english": "they(m.) walked", "lithuanian": "jie ėjo"},
+      "3p-f": {"english": "they(f.) walked", "lithuanian": "jos ėjo"}
+    },
+    "future": {
+      "1s": {"english": "I will walk", "lithuanian": "aš eisiu"},
+      "2s": {"english": "you(s.) will walk", "lithuanian": "tu eisi"},
+      "3s-m": {"english": "he will walk", "lithuanian": "jis eis"},
+      "3s-f": {"english": "she will walk", "lithuanian": "ji eis"},
+      "3s-n": {"english": "it will walk", "lithuanian": "tai eis"},
+      "1p": {"english": "we will walk", "lithuanian": "mes eisime"},
+      "2p": {"english": "you(pl.) will walk", "lithuanian": "jūs eisite"},
+      "3p-m": {"english": "they(m.) will walk", "lithuanian": "jie eis"},
+      "3p-f": {"english": "they(f.) will walk", "lithuanian": "jos eis"}
+    }
+  },
+  
+  "važiuoti": {
+    "english": "to drive/travel",
+    "present_tense": {
+      "1s": {"english": "I drive", "lithuanian": "aš važiuoju"},
+      "2s": {"english": "you(s.) drive", "lithuanian": "tu važiuoji"},
+      "3s-m": {"english": "he drives", "lithuanian": "jis važiuoja"},
+      "3s-f": {"english": "she drives", "lithuanian": "ji važiuoja"},
+      "3s-n": {"english": "it drives", "lithuanian": "tai važiuoja"},
+      "1p": {"english": "we drive", "lithuanian": "mes važiuojame"},
+      "2p": {"english": "you(pl.) drive", "lithuanian": "jūs važiuojate"},
+      "3p-m": {"english": "they(m.) drive", "lithuanian": "jie važiuoja"},
+      "3p-f": {"english": "they(f.) drive", "lithuanian": "jos važiuoja"}
+    },
+    "past_tense": {
+      "1s": {"english": "I drove", "lithuanian": "aš važiavau"},
+      "2s": {"english": "you(s.) drove", "lithuanian": "tu važiavai"},
+      "3s-m": {"english": "he drove", "lithuanian": "jis važiavo"},
+      "3s-f": {"english": "she drove", "lithuanian": "ji važiavo"},
+      "3s-n": {"english": "it drove", "lithuanian": "tai važiavo"},
+      "1p": {"english": "we drove", "lithuanian": "mes važiavome"},
+      "2p": {"english": "you(pl.) drove", "lithuanian": "jūs važiavote"},
+      "3p-m": {"english": "they(m.) drove", "lithuanian": "jie važiavo"},
+      "3p-f": {"english": "they(f.) drove", "lithuanian": "jos važiavo"}
+    },
+    "future": {
+      "1s": {"english": "I will drive", "lithuanian": "aš važiuosiu"},
+      "2s": {"english": "you(s.) will drive", "lithuanian": "tu važiuosi"},
+      "3s-m": {"english": "he will drive", "lithuanian": "jis važiuos"},
+      "3s-f": {"english": "she will drive", "lithuanian": "ji važiuos"},
+      "3s-n": {"english": "it will drive", "lithuanian": "tai važiuos"},
+      "1p": {"english": "we will drive", "lithuanian": "mes važiuosime"},
+      "2p": {"english": "you(pl.) will drive", "lithuanian": "jūs važiuosite"},
+      "3p-m": {"english": "they(m.) will drive", "lithuanian": "jie važiuos"},
+      "3p-f": {"english": "they(f.) will drive", "lithuanian": "jos važiuos"}
+    }
+  },
+  
+  "bėgti": {
+    "english": "to run",
+    "present_tense": {
+      "1s": {"english": "I run", "lithuanian": "aš bėgu"},
+      "2s": {"english": "you(s.) run", "lithuanian": "tu bėgi"},
+      "3s-m": {"english": "he runs", "lithuanian": "jis bėga"},
+      "3s-f": {"english": "she runs", "lithuanian": "ji bėga"},
+      "3s-n": {"english": "it runs", "lithuanian": "tai bėga"},
+      "1p": {"english": "we run", "lithuanian": "mes bėgame"},
+      "2p": {"english": "you(pl.) run", "lithuanian": "jūs bėgate"},
+      "3p-m": {"english": "they(m.) run", "lithuanian": "jie bėga"},
+      "3p-f": {"english": "they(f.) run", "lithuanian": "jos bėga"}
+    },
+    "past_tense": {
+      "1s": {"english": "I ran", "lithuanian": "aš bėgau"},
+      "2s": {"english": "you(s.) ran", "lithuanian": "tu bėgai"},
+      "3s-m": {"english": "he ran", "lithuanian": "jis bėgo"},
+      "3s-f": {"english": "she ran", "lithuanian": "ji bėgo"},
+      "3s-n": {"english": "it ran", "lithuanian": "tai bėgo"},
+      "1p": {"english": "we ran", "lithuanian": "mes bėgome"},
+      "2p": {"english": "you(pl.) ran", "lithuanian": "jūs bėgote"},
+      "3p-m": {"english": "they(m.) ran", "lithuanian": "jie bėgo"},
+      "3p-f": {"english": "they(f.) ran", "lithuanian": "jos bėgo"}
+    },
+    "future": {
+      "1s": {"english": "I will run", "lithuanian": "aš bėgsiu"},
+      "2s": {"english": "you(s.) will run", "lithuanian": "tu bėgsi"},
+      "3s-m": {"english": "he will run", "lithuanian": "jis bėgs"},
+      "3s-f": {"english": "she will run", "lithuanian": "ji bėgs"},
+      "3s-n": {"english": "it will run", "lithuanian": "tai bėgs"},
+      "1p": {"english": "we will run", "lithuanian": "mes bėgsime"},
+      "2p": {"english": "you(pl.) will run", "lithuanian": "jūs bėgsite"},
+      "3p-m": {"english": "they(m.) will run", "lithuanian": "jie bėgs"},
+      "3p-f": {"english": "they(f.) will run", "lithuanian": "jos bėgs"}
+    }
+  },
+  
+  "vykti": {
+    "english": "to go/proceed",
+    "present_tense": {
+      "1s": {"english": "I go", "lithuanian": "aš vykstu"},
+      "2s": {"english": "you(s.) go", "lithuanian": "tu vyksti"},
+      "3s-m": {"english": "he goes", "lithuanian": "jis vyksta"},
+      "3s-f": {"english": "she goes", "lithuanian": "ji vyksta"},
+      "3s-n": {"english": "it goes", "lithuanian": "tai vyksta"},
+      "1p": {"english": "we go", "lithuanian": "mes vykstame"},
+      "2p": {"english": "you(pl.) go", "lithuanian": "jūs vykstate"},
+      "3p-m": {"english": "they(m.) go", "lithuanian": "jie vyksta"},
+      "3p-f": {"english": "they(f.) go", "lithuanian": "jos vyksta"}
+    },
+    "past_tense": {
+      "1s": {"english": "I went", "lithuanian": "aš vykau"},
+      "2s": {"english": "you(s.) went", "lithuanian": "tu vykai"},
+      "3s-m": {"english": "he went", "lithuanian": "jis vyko"},
+      "3s-f": {"english": "she went", "lithuanian": "ji vyko"},
+      "3s-n": {"english": "it went", "lithuanian": "tai vyko"},
+      "1p": {"english": "we went", "lithuanian": "mes vykome"},
+      "2p": {"english": "you(pl.) went", "lithuanian": "jūs vykote"},
+      "3p-m": {"english": "they(m.) went", "lithuanian": "jie vyko"},
+      "3p-f": {"english": "they(f.) went", "lithuanian": "jos vyko"}
+    },
+    "future": {
+      "1s": {"english": "I will go", "lithuanian": "aš vyksiu"},
+      "2s": {"english": "you(s.) will go", "lithuanian": "tu vyksi"},
+      "3s-m": {"english": "he will go", "lithuanian": "jis vyks"},
+      "3s-f": {"english": "she will go", "lithuanian": "ji vyks"},
+      "3s-n": {"english": "it will go", "lithuanian": "tai vyks"},
+      "1p": {"english": "we will go", "lithuanian": "mes vyksime"},
+      "2p": {"english": "you(pl.) will go", "lithuanian": "jūs vyksite"},
+      "3p-m": {"english": "they(m.) will go", "lithuanian": "jie vyks"},
+      "3p-f": {"english": "they(f.) will go", "lithuanian": "jos vyks"}
+    }
+  },
+  
+  "ateiti": {
+    "english": "to come",
+    "present_tense": {
+      "1s": {"english": "I come", "lithuanian": "aš ateinu"},
+      "2s": {"english": "you(s.) come", "lithuanian": "tu ateini"},
+      "3s-m": {"english": "he comes", "lithuanian": "jis ateina"},
+      "3s-f": {"english": "she comes", "lithuanian": "ji ateina"},
+      "3s-n": {"english": "it comes", "lithuanian": "tai ateina"},
+      "1p": {"english": "we come", "lithuanian": "mes ateiname"},
+      "2p": {"english": "you(pl.) come", "lithuanian": "jūs ateinate"},
+      "3p-m": {"english": "they(m.) come", "lithuanian": "jie ateina"},
+      "3p-f": {"english": "they(f.) come", "lithuanian": "jos ateina"}
+    },
+    "past_tense": {
+      "1s": {"english": "I came", "lithuanian": "aš atėjau"},
+      "2s": {"english": "you(s.) came", "lithuanian": "tu atėjai"},
+      "3s-m": {"english": "he came", "lithuanian": "jis atėjo"},
+      "3s-f": {"english": "she came", "lithuanian": "ji atėjo"},
+      "3s-n": {"english": "it came", "lithuanian": "tai atėjo"},
+      "1p": {"english": "we came", "lithuanian": "mes atėjome"},
+      "2p": {"english": "you(pl.) came", "lithuanian": "jūs atėjote"},
+      "3p-m": {"english": "they(m.) came", "lithuanian": "jie atėjo"},
+      "3p-f": {"english": "they(f.) came", "lithuanian": "jos atėjo"}
+    },
+    "future": {
+      "1s": {"english": "I will come", "lithuanian": "aš ateisiu"},
+      "2s": {"english": "you(s.) will come", "lithuanian": "tu ateisi"},
+      "3s-m": {"english": "he will come", "lithuanian": "jis ateis"},
+      "3s-f": {"english": "she will come", "lithuanian": "ji ateis"},
+      "3s-n": {"english": "it will come", "lithuanian": "tai ateis"},
+      "1p": {"english": "we will come", "lithuanian": "mes ateisime"},
+      "2p": {"english": "you(pl.) will come", "lithuanian": "jūs ateisite"},
+      "3p-m": {"english": "they(m.) will come", "lithuanian": "jie ateis"},
+      "3p-f": {"english": "they(f.) will come", "lithuanian": "jos ateis"}
+    }
+  },
+  
+  "grįžti": {
+    "english": "to return",
+    "present_tense": {
+      "1s": {"english": "I return", "lithuanian": "aš grįžtu"},
+      "2s": {"english": "you(s.) return", "lithuanian": "tu grįžti"},
+      "3s-m": {"english": "he returns", "lithuanian": "jis grįžta"},
+      "3s-f": {"english": "she returns", "lithuanian": "ji grįžta"},
+      "3s-n": {"english": "it returns", "lithuanian": "tai grįžta"},
+      "1p": {"english": "we return", "lithuanian": "mes grįžtame"},
+      "2p": {"english": "you(pl.) return", "lithuanian": "jūs grįžtate"},
+      "3p-m": {"english": "they(m.) return", "lithuanian": "jie grįžta"},
+      "3p-f": {"english": "they(f.) return", "lithuanian": "jos grįžta"}
+    },
+    "past_tense": {
+      "1s": {"english": "I returned", "lithuanian": "aš grįžau"},
+      "2s": {"english": "you(s.) returned", "lithuanian": "tu grįžai"},
+      "3s-m": {"english": "he returned", "lithuanian": "jis grįžo"},
+      "3s-f": {"english": "she returned", "lithuanian": "ji grįžo"},
+      "3s-n": {"english": "it returned", "lithuanian": "tai grįžo"},
+      "1p": {"english": "we returned", "lithuanian": "mes grįžome"},
+      "2p": {"english": "you(pl.) returned", "lithuanian": "jūs grįžote"},
+      "3p-m": {"english": "they(m.) returned", "lithuanian": "jie grįžo"},
+      "3p-f": {"english": "they(f.) returned", "lithuanian": "jos grįžo"}
+    },
+    "future": {
+      "1s": {"english": "I will return", "lithuanian": "aš grįšiu"},
+      "2s": {"english": "you(s.) will return", "lithuanian": "tu grįši"},
+      "3s-m": {"english": "he will return", "lithuanian": "jis grįš"},
+      "3s-f": {"english": "she will return", "lithuanian": "ji grįš"},
+      "3s-n": {"english": "it will return", "lithuanian": "tai grįš"},
+      "1p": {"english": "we will return", "lithuanian": "mes grįšime"},
+      "2p": {"english": "you(pl.) will return", "lithuanian": "jūs grįšite"},
+      "3p-m": {"english": "they(m.) will return", "lithuanian": "jie grįš"},
+      "3p-f": {"english": "they(f.) will return", "lithuanian": "jos grįš"}
+    }
+  },
+  
+  "kalbėti": {
+    "english": "to speak",
+    "present_tense": {
+      "1s": {"english": "I speak", "lithuanian": "aš kalbu"},
+      "2s": {"english": "you(s.) speak", "lithuanian": "tu kalbi"},
+      "3s-m": {"english": "he speaks", "lithuanian": "jis kalba"},
+      "3s-f": {"english": "she speaks", "lithuanian": "ji kalba"},
+      "3s-n": {"english": "it speaks", "lithuanian": "tai kalba"},
+      "1p": {"english": "we speak", "lithuanian": "mes kalbame"},
+      "2p": {"english": "you(pl.) speak", "lithuanian": "jūs kalbate"},
+      "3p-m": {"english": "they(m.) speak", "lithuanian": "jie kalba"},
+      "3p-f": {"english": "they(f.) speak", "lithuanian": "jos kalba"}
+    },
+    "past_tense": {
+      "1s": {"english": "I spoke", "lithuanian": "aš kalbėjau"},
+      "2s": {"english": "you(s.) spoke", "lithuanian": "tu kalbėjai"},
+      "3s-m": {"english": "he spoke", "lithuanian": "jis kalbėjo"},
+      "3s-f": {"english": "she spoke", "lithuanian": "ji kalbėjo"},
+      "3s-n": {"english": "it spoke", "lithuanian": "tai kalbėjo"},
+      "1p": {"english": "we spoke", "lithuanian": "mes kalbėjome"},
+      "2p": {"english": "you(pl.) spoke", "lithuanian": "jūs kalbėjote"},
+      "3p-m": {"english": "they(m.) spoke", "lithuanian": "jie kalbėjo"},
+      "3p-f": {"english": "they(f.) spoke", "lithuanian": "jos kalbėjo"}
+    },
+    "future": {
+      "1s": {"english": "I will speak", "lithuanian": "aš kalbėsiu"},
+      "2s": {"english": "you(s.) will speak", "lithuanian": "tu kalbėsi"},
+      "3s-m": {"english": "he will speak", "lithuanian": "jis kalbės"},
+      "3s-f": {"english": "she will speak", "lithuanian": "ji kalbės"},
+      "3s-n": {"english": "it will speak", "lithuanian": "tai kalbės"},
+      "1p": {"english": "we will speak", "lithuanian": "mes kalbėsime"},
+      "2p": {"english": "you(pl.) will speak", "lithuanian": "jūs kalbėsite"},
+      "3p-m": {"english": "they(m.) will speak", "lithuanian": "jie kalbės"},
+      "3p-f": {"english": "they(f.) will speak", "lithuanian": "jos kalbės"}
+    }
+  },
+  
+  "žinoti": {
+    "english": "to know",
+    "present_tense": {
+      "1s": {"english": "I know", "lithuanian": "aš žinau"},
+      "2s": {"english": "you(s.) know", "lithuanian": "tu žinai"},
+      "3s-m": {"english": "he knows", "lithuanian": "jis žino"},
+      "3s-f": {"english": "she knows", "lithuanian": "ji žino"},
+      "3s-n": {"english": "it knows", "lithuanian": "tai žino"},
+      "1p": {"english": "we know", "lithuanian": "mes žinome"},
+      "2p": {"english": "you(pl.) know", "lithuanian": "jūs žinote"},
+      "3p-m": {"english": "they(m.) know", "lithuanian": "jie žino"},
+      "3p-f": {"english": "they(f.) know", "lithuanian": "jos žino"}
+    },
+    "past_tense": {
+      "1s": {"english": "I knew", "lithuanian": "aš žinojau"},
+      "2s": {"english": "you(s.) knew", "lithuanian": "tu žinojai"},
+      "3s-m": {"english": "he knew", "lithuanian": "jis žinojo"},
+      "3s-f": {"english": "she knew", "lithuanian": "ji žinojo"},
+      "3s-n": {"english": "it knew", "lithuanian": "tai žinojo"},
+      "1p": {"english": "we knew", "lithuanian": "mes žinojome"},
+      "2p": {"english": "you(pl.) knew", "lithuanian": "jūs žinojote"},
+      "3p-m": {"english": "they(m.) knew", "lithuanian": "jie žinojo"},
+      "3p-f": {"english": "they(f.) knew", "lithuanian": "jos žinojo"}
+    },
+    "future": {
+      "1s": {"english": "I will know", "lithuanian": "aš žinosiu"},
+      "2s": {"english": "you(s.) will know", "lithuanian": "tu žinosi"},
+      "3s-m": {"english": "he will know", "lithuanian": "jis žinos"},
+      "3s-f": {"english": "she will know", "lithuanian": "ji žinos"},
+      "3s-n": {"english": "it will know", "lithuanian": "tai žinos"},
+      "1p": {"english": "we will know", "lithuanian": "mes žinosime"},
+      "2p": {"english": "you(pl.) will know", "lithuanian": "jūs žinosite"},
+      "3p-m": {"english": "they(m.) will know", "lithuanian": "jie žinos"},
+      "3p-f": {"english": "they(f.) will know", "lithuanian": "jos žinos"}
+    }
+  },
+  
+  "galėti": {
+    "english": "to be able/can",
+    "present_tense": {
+      "1s": {"english": "I can", "lithuanian": "aš galiu"},
+      "2s": {"english": "you(s.) can", "lithuanian": "tu gali"},
+      "3s-m": {"english": "he can", "lithuanian": "jis gali"},
+      "3s-f": {"english": "she can", "lithuanian": "ji gali"},
+      "3s-n": {"english": "it can", "lithuanian": "tai gali"},
+      "1p": {"english": "we can", "lithuanian": "mes galime"},
+      "2p": {"english": "you(pl.) can", "lithuanian": "jūs galite"},
+      "3p-m": {"english": "they(m.) can", "lithuanian": "jie gali"},
+      "3p-f": {"english": "they(f.) can", "lithuanian": "jos gali"}
+    },
+    "past_tense": {
+      "1s": {"english": "I could", "lithuanian": "aš galėjau"},
+      "2s": {"english": "you(s.) could", "lithuanian": "tu galėjai"},
+      "3s-m": {"english": "he could", "lithuanian": "jis galėjo"},
+      "3s-f": {"english": "she could", "lithuanian": "ji galėjo"},
+      "3s-n": {"english": "it could", "lithuanian": "tai galėjo"},
+      "1p": {"english": "we could", "lithuanian": "mes galėjome"},
+      "2p": {"english": "you(pl.) could", "lithuanian": "jūs galėjote"},
+      "3p-m": {"english": "they(m.) could", "lithuanian": "jie galėjo"},
+      "3p-f": {"english": "they(f.) could", "lithuanian": "jos galėjo"}
+    },
+    "future": {
+      "1s": {"english": "I will be able", "lithuanian": "aš galėsiu"},
+      "2s": {"english": "you(s.) will be able", "lithuanian": "tu galėsi"},
+      "3s-m": {"english": "he will be able", "lithuanian": "jis galės"},
+      "3s-f": {"english": "she will be able", "lithuanian": "ji galės"},
+      "3s-n": {"english": "it will be able", "lithuanian": "tai galės"},
+      "1p": {"english": "we will be able", "lithuanian": "mes galėsime"},
+      "2p": {"english": "you(pl.) will be able", "lithuanian": "jūs galėsite"},
+      "3p-m": {"english": "they(m.) will be able", "lithuanian": "jie galės"},
+      "3p-f": {"english": "they(f.) will be able", "lithuanian": "jos galės"}
+    }
+  },
+  
+  "norėti": {
+    "english": "to want",
+    "present_tense": {
+      "1s": {"english": "I want", "lithuanian": "aš noriu"},
+      "2s": {"english": "you(s.) want", "lithuanian": "tu nori"},
+      "3s-m": {"english": "he wants", "lithuanian": "jis nori"},
+      "3s-f": {"english": "she wants", "lithuanian": "ji nori"},
+      "3s-n": {"english": "it wants", "lithuanian": "tai nori"},
+      "1p": {"english": "we want", "lithuanian": "mes norime"},
+      "2p": {"english": "you(pl.) want", "lithuanian": "jūs norite"},
+      "3p-m": {"english": "they(m.) want", "lithuanian": "jie nori"},
+      "3p-f": {"english": "they(f.) want", "lithuanian": "jos nori"}
+    },
+    "past_tense": {
+      "1s": {"english": "I wanted", "lithuanian": "aš norėjau"},
+      "2s": {"english": "you(s.) wanted", "lithuanian": "tu norėjai"},
+      "3s-m": {"english": "he wanted", "lithuanian": "jis norėjo"},
+      "3s-f": {"english": "she wanted", "lithuanian": "ji norėjo"},
+      "3s-n": {"english": "it wanted", "lithuanian": "tai norėjo"},
+      "1p": {"english": "we wanted", "lithuanian": "mes norėjome"},
+      "2p": {"english": "you(pl.) wanted", "lithuanian": "jūs norėjote"},
+      "3p-m": {"english": "they(m.) wanted", "lithuanian": "jie norėjo"},
+      "3p-f": {"english": "they(f.) wanted", "lithuanian": "jos norėjo"}
+    },
+    "future": {
+      "1s": {"english": "I will want", "lithuanian": "aš norėsiu"},
+      "2s": {"english": "you(s.) will want", "lithuanian": "tu norėsi"},
+      "3s-m": {"english": "he will want", "lithuanian": "jis norės"},
+      "3s-f": {"english": "she will want", "lithuanian": "ji norės"},
+      "3s-n": {"english": "it will want", "lithuanian": "tai norės"},
+      "1p": {"english": "we will want", "lithuanian": "mes norėsime"},
+      "2p": {"english": "you(pl.) will want", "lithuanian": "jūs norėsite"},
+      "3p-m": {"english": "they(m.) will want", "lithuanian": "jie norės"},
+      "3p-f": {"english": "they(f.) will want", "lithuanian": "jos norės"}
+    }
+  },
+  
+  "matyti": {
+    "english": "to see",
+    "present_tense": {
+      "1s": {"english": "I see", "lithuanian": "aš matau"},
+      "2s": {"english": "you(s.) see", "lithuanian": "tu matai"},
+      "3s-m": {"english": "he sees", "lithuanian": "jis mato"},
+      "3s-f": {"english": "she sees", "lithuanian": "ji mato"},
+      "3s-n": {"english": "it sees", "lithuanian": "tai mato"},
+      "1p": {"english": "we see", "lithuanian": "mes matome"},
+      "2p": {"english": "you(pl.) see", "lithuanian": "jūs matote"},
+      "3p-m": {"english": "they(m.) see", "lithuanian": "jie mato"},
+      "3p-f": {"english": "they(f.) see", "lithuanian": "jos mato"}
+    },
+    "past_tense": {
+      "1s": {"english": "I saw", "lithuanian": "aš mačiau"},
+      "2s": {"english": "you(s.) saw", "lithuanian": "tu matei"},
+      "3s-m": {"english": "he saw", "lithuanian": "jis matė"},
+      "3s-f": {"english": "she saw", "lithuanian": "ji matė"},
+      "3s-n": {"english": "it saw", "lithuanian": "tai matė"},
+      "1p": {"english": "we saw", "lithuanian": "mes matėme"},
+      "2p": {"english": "you(pl.) saw", "lithuanian": "jūs matėte"},
+      "3p-m": {"english": "they(m.) saw", "lithuanian": "jie matė"},
+      "3p-f": {"english": "they(f.) saw", "lithuanian": "jos matė"}
+    },
+    "future": {
+      "1s": {"english": "I will see", "lithuanian": "aš matysiu"},
+      "2s": {"english": "you(s.) will see", "lithuanian": "tu matysi"},
+      "3s-m": {"english": "he will see", "lithuanian": "jis matys"},
+      "3s-f": {"english": "she will see", "lithuanian": "ji matys"},
+      "3s-n": {"english": "it will see", "lithuanian": "tai matys"},
+      "1p": {"english": "we will see", "lithuanian": "mes matysime"},
+      "2p": {"english": "you(pl.) will see", "lithuanian": "jūs matysite"},
+      "3p-m": {"english": "they(m.) will see", "lithuanian": "jie matys"},
+      "3p-f": {"english": "they(f.) will see", "lithuanian": "jos matys"}
+    }
+  },
 }
 
+# Helper functions to work with the new verb structure
 
-verbs_present = {
-  "Basic Daily Verbs": [
-    # valgyti (to eat)
-    { "english": "I eat", "lithuanian": "aš valgau" },
-    { "english": "you(s.) eat", "lithuanian": "tu valgai" },
-    { "english": "he eats", "lithuanian": "jis valgo" },
-    { "english": "she eats", "lithuanian": "ji valgo" },
-    { "english": "it eats", "lithuanian": "tai valgo" },
-    { "english": "we eat", "lithuanian": "mes valgome" },
-    { "english": "you(pl.) eat", "lithuanian": "jūs valgote" },
-    { "english": "they(m.) eat", "lithuanian": "jie valgo" },
-    { "english": "they(f.) eat", "lithuanian": "jos valgo" },
+def get_all_verbs():
+    """
+    Get a list of all verb infinitives.
     
-    # gerti (to drink)
-    { "english": "I drink", "lithuanian": "aš geriu" },
-    { "english": "you(s.) drink", "lithuanian": "tu geri" },
-    { "english": "he drinks", "lithuanian": "jis geria" },
-    { "english": "she drinks", "lithuanian": "ji geria" },
-    { "english": "it drinks", "lithuanian": "tai geria" },
-    { "english": "we drink", "lithuanian": "mes geriame" },
-    { "english": "you(pl.) drink", "lithuanian": "jūs geriate" },
-    { "english": "they(m.) drink", "lithuanian": "jie geria" },
-    { "english": "they(f.) drink", "lithuanian": "jos geria" },
-    
-    # miegoti (to sleep)
-    { "english": "I sleep", "lithuanian": "aš miegu" },
-    { "english": "you(s.) sleep", "lithuanian": "tu miegi" },
-    { "english": "he sleeps", "lithuanian": "jis miega" },
-    { "english": "she sleeps", "lithuanian": "ji miega" },
-    { "english": "it sleeps", "lithuanian": "tai miega" },
-    { "english": "we sleep", "lithuanian": "mes miegame" },
-    { "english": "you(pl.) sleep", "lithuanian": "jūs miegate" },
-    { "english": "they(m.) sleep", "lithuanian": "jie miega" },
-    { "english": "they(f.) sleep", "lithuanian": "jos miega" },
-    
-    # būti (to be)
-    { "english": "I am", "lithuanian": "aš esu" },
-    { "english": "you(s.) are", "lithuanian": "tu esi" },
-    { "english": "he is", "lithuanian": "jis yra" },
-    { "english": "she is", "lithuanian": "ji yra" },
-    { "english": "it is", "lithuanian": "tai yra" },
-    { "english": "we are", "lithuanian": "mes esame" },
-    { "english": "you(pl.) are", "lithuanian": "jūs esate" },
-    { "english": "they(m.) are", "lithuanian": "jie yra" },
-    { "english": "they(f.) are", "lithuanian": "jos yra" },
-    
-    # turėti (to have)
-    { "english": "I have", "lithuanian": "aš turiu" },
-    { "english": "you(s.) have", "lithuanian": "tu turi" },
-    { "english": "he has", "lithuanian": "jis turi" },
-    { "english": "she has", "lithuanian": "ji turi" },
-    { "english": "it has", "lithuanian": "tai turi" },
-    { "english": "we have", "lithuanian": "mes turime" },
-    { "english": "you(pl.) have", "lithuanian": "jūs turite" },
-    { "english": "they(m.) have", "lithuanian": "jie turi" },
-    { "english": "they(f.) have", "lithuanian": "jos turi" }
-  ],
-  
-  "Action Verbs": [
-    # mėgti (to like)
-    { "english": "I like", "lithuanian": "aš mėgstu" },
-    { "english": "you(s.) like", "lithuanian": "tu mėgsti" },
-    { "english": "he likes", "lithuanian": "jis mėgsta" },
-    { "english": "she likes", "lithuanian": "ji mėgsta" },
-    { "english": "it likes", "lithuanian": "tai mėgsta" },
-    { "english": "we like", "lithuanian": "mes mėgstame" },
-    { "english": "you(pl.) like", "lithuanian": "jūs mėgstate" },
-    { "english": "they(m.) like", "lithuanian": "jie mėgsta" },
-    { "english": "they(f.) like", "lithuanian": "jos mėgsta" },
-    
-    # gaminti (to make/produce)
-    { "english": "I make", "lithuanian": "aš gaminu" },
-    { "english": "you(s.) make", "lithuanian": "tu gamini" },
-    { "english": "he makes", "lithuanian": "jis gamina" },
-    { "english": "she makes", "lithuanian": "ji gamina" },
-    { "english": "it makes", "lithuanian": "tai gamina" },
-    { "english": "we make", "lithuanian": "mes gaminame" },
-    { "english": "you(pl.) make", "lithuanian": "jūs gaminate" },
-    { "english": "they(m.) make", "lithuanian": "jie gamina" },
-    { "english": "they(f.) make", "lithuanian": "jos gamina" },
-    
-    # pirkti (to buy)
-    { "english": "I buy", "lithuanian": "aš perku" },
-    { "english": "you(s.) buy", "lithuanian": "tu perki" },
-    { "english": "he buys", "lithuanian": "jis perka" },
-    { "english": "she buys", "lithuanian": "ji perka" },
-    { "english": "it buys", "lithuanian": "tai perka" },
-    { "english": "we buy", "lithuanian": "mes perkame" },
-    { "english": "you(pl.) buy", "lithuanian": "jūs perkate" },
-    { "english": "they(m.) buy", "lithuanian": "jie perka" },
-    { "english": "they(f.) buy", "lithuanian": "jos perka" },
-    
-    # duoti (to give)
-    { "english": "I give", "lithuanian": "aš duodu" },
-    { "english": "you(s.) give", "lithuanian": "tu duodi" },
-    { "english": "he gives", "lithuanian": "jis duoda" },
-    { "english": "she gives", "lithuanian": "ji duoda" },
-    { "english": "it gives", "lithuanian": "tai duoda" },
-    { "english": "we give", "lithuanian": "mes duodame" },
-    { "english": "you(pl.) give", "lithuanian": "jūs duodate" },
-    { "english": "they(m.) give", "lithuanian": "jie duoda" },
-    { "english": "they(f.) give", "lithuanian": "jos duoda" },
-    
-    # imti (to take)
-    { "english": "I take", "lithuanian": "aš imu" },
-    { "english": "you(s.) take", "lithuanian": "tu imi" },
-    { "english": "he takes", "lithuanian": "jis ima" },
-    { "english": "she takes", "lithuanian": "ji ima" },
-    { "english": "it takes", "lithuanian": "tai ima" },
-    { "english": "we take", "lithuanian": "mes imame" },
-    { "english": "you(pl.) take", "lithuanian": "jūs imate" },
-    { "english": "they(m.) take", "lithuanian": "jie ima" },
-    { "english": "they(f.) take", "lithuanian": "jos ima" }
-  ],
-  
-  "Movement Verbs": [
-    # eiti (to walk)
-    { "english": "I walk", "lithuanian": "aš einu" },
-    { "english": "you(s.) walk", "lithuanian": "tu eini" },
-    { "english": "he walks", "lithuanian": "jis eina" },
-    { "english": "she walks", "lithuanian": "ji eina" },
-    { "english": "it walks", "lithuanian": "tai eina" },
-    { "english": "we walk", "lithuanian": "mes einame" },
-    { "english": "you(pl.) walk", "lithuanian": "jūs einate" },
-    { "english": "they(m.) walk", "lithuanian": "jie eina" },
-    { "english": "they(f.) walk", "lithuanian": "jos eina" },
-    
-    # važiuoti (to drive/travel)
-    { "english": "I drive", "lithuanian": "aš važiuoju" },
-    { "english": "you(s.) drive", "lithuanian": "tu važiuoji" },
-    { "english": "he drives", "lithuanian": "jis važiuoja" },
-    { "english": "she drives", "lithuanian": "ji važiuoja" },
-    { "english": "it drives", "lithuanian": "tai važiuoja" },
-    { "english": "we drive", "lithuanian": "mes važiuojame" },
-    { "english": "you(pl.) drive", "lithuanian": "jūs važiuojate" },
-    { "english": "they(m.) drive", "lithuanian": "jie važiuoja" },
-    { "english": "they(f.) drive", "lithuanian": "jos važiuoja" },
-    
-    # bėgti (to run)
-    { "english": "I run", "lithuanian": "aš bėgu" },
-    { "english": "you(s.) run", "lithuanian": "tu bėgi" },
-    { "english": "he runs", "lithuanian": "jis bėga" },
-    { "english": "she runs", "lithuanian": "ji bėga" },
-    { "english": "it runs", "lithuanian": "tai bėga" },
-    { "english": "we run", "lithuanian": "mes bėgame" },
-    { "english": "you(pl.) run", "lithuanian": "jūs bėgate" },
-    { "english": "they(m.) run", "lithuanian": "jie bėga" },
-    { "english": "they(f.) run", "lithuanian": "jos bėga" },
-    
-    # vykti (to go/proceed)
-    { "english": "I go", "lithuanian": "aš vykstu" },
-    { "english": "you(s.) go", "lithuanian": "tu vyksti" },
-    { "english": "he goes", "lithuanian": "jis vyksta" },
-    { "english": "she goes", "lithuanian": "ji vyksta" },
-    { "english": "it goes", "lithuanian": "tai vyksta" },
-    { "english": "we go", "lithuanian": "mes vykstame" },
-    { "english": "you(pl.) go", "lithuanian": "jūs vykstate" },
-    { "english": "they(m.) go", "lithuanian": "jie vyksta" },
-    { "english": "they(f.) go", "lithuanian": "jos vyksta" },
-    
-    # ateiti (to come)
-    { "english": "I come", "lithuanian": "aš ateinu" },
-    { "english": "you(s.) come", "lithuanian": "tu ateini" },
-    { "english": "he comes", "lithuanian": "jis ateina" },
-    { "english": "she comes", "lithuanian": "ji ateina" },
-    { "english": "it comes", "lithuanian": "tai ateina" },
-    { "english": "we come", "lithuanian": "mes ateiname" },
-    { "english": "you(pl.) come", "lithuanian": "jūs ateinate" },
-    { "english": "they(m.) come", "lithuanian": "jie ateina" },
-    { "english": "they(f.) come", "lithuanian": "jos ateina" },
-    
-    # grįžti (to return)
-    { "english": "I return", "lithuanian": "aš grįžtu" },
-    { "english": "you(s.) return", "lithuanian": "tu grįžti" },
-    { "english": "he returns", "lithuanian": "jis grįžta" },
-    { "english": "she returns", "lithuanian": "ji grįžta" },
-    { "english": "it returns", "lithuanian": "tai grįžta" },
-    { "english": "we return", "lithuanian": "mes grįžtame" },
-    { "english": "you(pl.) return", "lithuanian": "jūs grįžtate" },
-    { "english": "they(m.) return", "lithuanian": "jie grįžta" },
-    { "english": "they(f.) return", "lithuanian": "jos grįžta" }
-  ],
-  
-  "Communication & Mental Verbs": [
-    # kalbėti (to speak)
-    { "english": "I speak", "lithuanian": "aš kalbu" },
-    { "english": "you(s.) speak", "lithuanian": "tu kalbi" },
-    { "english": "he speaks", "lithuanian": "jis kalba" },
-    { "english": "she speaks", "lithuanian": "ji kalba" },
-    { "english": "it speaks", "lithuanian": "tai kalba" },
-    { "english": "we speak", "lithuanian": "mes kalbame" },
-    { "english": "you(pl.) speak", "lithuanian": "jūs kalbate" },
-    { "english": "they(m.) speak", "lithuanian": "jie kalba" },
-    { "english": "they(f.) speak", "lithuanian": "jos kalba" },
-    
-    # žinoti (to know)
-    { "english": "I know", "lithuanian": "aš žinau" },
-    { "english": "you(s.) know", "lithuanian": "tu žinai" },
-    { "english": "he knows", "lithuanian": "jis žino" },
-    { "english": "she knows", "lithuanian": "ji žino" },
-    { "english": "it knows", "lithuanian": "tai žino" },
-    { "english": "we know", "lithuanian": "mes žinome" },
-    { "english": "you(pl.) know", "lithuanian": "jūs žinote" },
-    { "english": "they(m.) know", "lithuanian": "jie žino" },
-    { "english": "they(f.) know", "lithuanian": "jos žino" },
-    
-    # galėti (to be able/can)
-    { "english": "I can", "lithuanian": "aš galiu" },
-    { "english": "you(s.) can", "lithuanian": "tu gali" },
-    { "english": "he can", "lithuanian": "jis gali" },
-    { "english": "she can", "lithuanian": "ji gali" },
-    { "english": "it can", "lithuanian": "tai gali" },
-    { "english": "we can", "lithuanian": "mes galime" },
-    { "english": "you(pl.) can", "lithuanian": "jūs galite" },
-    { "english": "they(m.) can", "lithuanian": "jie gali" },
-    { "english": "they(f.) can", "lithuanian": "jos gali" },
-    
-    # norėti (to want)
-    { "english": "I want", "lithuanian": "aš noriu" },
-    { "english": "you(s.) want", "lithuanian": "tu nori" },
-    { "english": "he wants", "lithuanian": "jis nori" },
-    { "english": "she wants", "lithuanian": "ji nori" },
-    { "english": "it wants", "lithuanian": "tai nori" },
-    { "english": "we want", "lithuanian": "mes norime" },
-    { "english": "you(pl.) want", "lithuanian": "jūs norite" },
-    { "english": "they(m.) want", "lithuanian": "jie nori" },
-    { "english": "they(f.) want", "lithuanian": "jos nori" },
-    
-    # matyti (to see)
-    { "english": "I see", "lithuanian": "aš matau" },
-    { "english": "you(s.) see", "lithuanian": "tu matai" },
-    { "english": "he sees", "lithuanian": "jis mato" },
-    { "english": "she sees", "lithuanian": "ji mato" },
-    { "english": "it sees", "lithuanian": "tai mato" },
-    { "english": "we see", "lithuanian": "mes matome" },
-    { "english": "you(pl.) see", "lithuanian": "jūs matote" },
-    { "english": "they(m.) see", "lithuanian": "jie mato" },
-    { "english": "they(f.) see", "lithuanian": "jos mato" }
-  ],
-  
-  "Work & Life Verbs": [
-    # dirbti (to work)
-    { "english": "I work", "lithuanian": "aš dirbu" },
-    { "english": "you(s.) work", "lithuanian": "tu dirbi" },
-    { "english": "he works", "lithuanian": "jis dirba" },
-    { "english": "she works", "lithuanian": "ji dirba" },
-    { "english": "it works", "lithuanian": "tai dirba" },
-    { "english": "we work", "lithuanian": "mes dirbame" },
-    { "english": "you(pl.) work", "lithuanian": "jūs dirbate" },
-    { "english": "they(m.) work", "lithuanian": "jie dirba" },
-    { "english": "they(f.) work", "lithuanian": "jos dirba" },
-    
-    # gyventi (to live)
-    { "english": "I live", "lithuanian": "aš gyvenu" },
-    { "english": "you(s.) live", "lithuanian": "tu gyveni" },
-    { "english": "he lives", "lithuanian": "jis gyvena" },
-    { "english": "she lives", "lithuanian": "ji gyvena" },
-    { "english": "it lives", "lithuanian": "tai gyvena" },
-    { "english": "we live", "lithuanian": "mes gyvename" },
-    { "english": "you(pl.) live", "lithuanian": "jūs gyvenate" },
-    { "english": "they(m.) live", "lithuanian": "jie gyvena" },
-    { "english": "they(f.) live", "lithuanian": "jos gyvena" },
-    
-    # mokytis (to learn)
-    { "english": "I learn", "lithuanian": "aš mokausi" },
-    { "english": "you(s.) learn", "lithuanian": "tu mokais" },
-    { "english": "he learns", "lithuanian": "jis mokosi" },
-    { "english": "she learns", "lithuanian": "ji mokosi" },
-    { "english": "it learns", "lithuanian": "tai mokosi" },
-    { "english": "we learn", "lithuanian": "mes mokomės" },
-    { "english": "you(pl.) learn", "lithuanian": "jūs mokotės" },
-    { "english": "they(m.) learn", "lithuanian": "jie mokosi" },
-    { "english": "they(f.) learn", "lithuanian": "jos mokosi" },
-    
-    # mokyti (to teach)
-    { "english": "I teach", "lithuanian": "aš mokau" },
-    { "english": "you(s.) teach", "lithuanian": "tu mokai" },
-    { "english": "he teaches", "lithuanian": "jis moko" },
-    { "english": "she teaches", "lithuanian": "ji moko" },
-    { "english": "it teaches", "lithuanian": "tai moko" },
-    { "english": "we teach", "lithuanian": "mes mokome" },
-    { "english": "you(pl.) teach", "lithuanian": "jūs mokote" },
-    { "english": "they(m.) teach", "lithuanian": "jie moko" },
-    { "english": "they(f.) teach", "lithuanian": "jos moko" },
-    
-    # žaisti (to play)
-    { "english": "I play", "lithuanian": "aš žaidžiu" },
-    { "english": "you(s.) play", "lithuanian": "tu žaidi" },
-    { "english": "he plays", "lithuanian": "jis žaidžia" },
-    { "english": "she plays", "lithuanian": "ji žaidžia" },
-    { "english": "it plays", "lithuanian": "tai žaidžia" },
-    { "english": "we play", "lithuanian": "mes žaidžiame" },
-    { "english": "you(pl.) play", "lithuanian": "jūs žaidžiate" },
-    { "english": "they(m.) play", "lithuanian": "jie žaidžia" },
-    { "english": "they(f.) play", "lithuanian": "jos žaidžia" }
-  ]
-}
+    Returns:
+        list: List of verb infinitives
+    """
+    return list(verbs_new.keys())
 
-verbs_past = {
-  "Basic Daily Verbs - Past": [
-    # valgyti (to eat) - past tense
-    { "english": "I ate", "lithuanian": "aš valgiau" },
-    { "english": "you(s.) ate", "lithuanian": "tu valgei" },
-    { "english": "he ate", "lithuanian": "jis valgė" },
-    { "english": "she ate", "lithuanian": "ji valgė" },
-    { "english": "it ate", "lithuanian": "tai valgė" },
-    { "english": "we ate", "lithuanian": "mes valgėme" },
-    { "english": "you(pl.) ate", "lithuanian": "jūs valgėte" },
-    { "english": "they(m.) ate", "lithuanian": "jie valgė" },
-    { "english": "they(f.) ate", "lithuanian": "jos valgė" },
+def get_verb_conjugations(verb_infinitive):
+    """
+    Get all conjugations for a specific verb.
     
-    # gerti (to drink) - past tense
-    { "english": "I drank", "lithuanian": "aš gėriau" },
-    { "english": "you(s.) drank", "lithuanian": "tu gėrei" },
-    { "english": "he drank", "lithuanian": "jis gėrė" },
-    { "english": "she drank", "lithuanian": "ji gėrė" },
-    { "english": "it drank", "lithuanian": "tai gėrė" },
-    { "english": "we drank", "lithuanian": "mes gėrėme" },
-    { "english": "you(pl.) drank", "lithuanian": "jūs gėrėte" },
-    { "english": "they(m.) drank", "lithuanian": "jie gėrė" },
-    { "english": "they(f.) drank", "lithuanian": "jos gėrė" },
+    Args:
+        verb_infinitive (str): The infinitive form of the verb
+        
+    Returns:
+        dict: Conjugation data for the verb, or None if not found
+    """
+    return verbs_new.get(verb_infinitive)
+
+def get_all_conjugation_forms():
+    """
+    Get all conjugation forms in a flat list (for backward compatibility).
     
-    # miegoti (to sleep) - past tense
-    { "english": "I slept", "lithuanian": "aš miegojau" },
-    { "english": "you(s.) slept", "lithuanian": "tu miegojai" },
-    { "english": "he slept", "lithuanian": "jis miegojo" },
-    { "english": "she slept", "lithuanian": "ji miegojo" },
-    { "english": "it slept", "lithuanian": "tai miegojo" },
-    { "english": "we slept", "lithuanian": "mes miegojome" },
-    { "english": "you(pl.) slept", "lithuanian": "jūs miegojote" },
-    { "english": "they(m.) slept", "lithuanian": "jie miegojo" },
-    { "english": "they(f.) slept", "lithuanian": "jos miegojo" },
+    Returns:
+        list: List of all conjugation forms with corpus and group info
+    """
+    flat_forms = []
     
-    # būti (to be) - past tense
-    { "english": "I was", "lithuanian": "aš buvau" },
-    { "english": "you(s.) were", "lithuanian": "tu buvai" },
-    { "english": "he was", "lithuanian": "jis buvo" },
-    { "english": "she was", "lithuanian": "ji buvo" },
-    { "english": "it was", "lithuanian": "tai buvo" },
-    { "english": "we were", "lithuanian": "mes buvome" },
-    { "english": "you(pl.) were", "lithuanian": "jūs buvote" },
-    { "english": "they(m.) were", "lithuanian": "jie buvo" },
-    { "english": "they(f.) were", "lithuanian": "jos buvo" },
+    for infinitive, verb_data in verbs_new.items():
+        for tense_name, tense_forms in verb_data.items():
+            if tense_name == "english":  # Skip the English translation
+                continue
+                
+            for person_key, form_data in tense_forms.items():
+                flat_form = form_data.copy()
+                flat_form['infinitive'] = infinitive
+                flat_form['tense'] = tense_name
+                flat_form['person'] = person_key
+                flat_form['corpus'] = 'verbs'
+                flat_form['group'] = f"{infinitive}_{tense_name}"
+                flat_forms.append(flat_form)
     
-    # turėti (to have) - past tense
-    { "english": "I had", "lithuanian": "aš turėjau" },
-    { "english": "you(s.) had", "lithuanian": "tu turėjai" },
-    { "english": "he had", "lithuanian": "jis turėjo" },
-    { "english": "she had", "lithuanian": "ji turėjo" },
-    { "english": "it had", "lithuanian": "tai turėjo" },
-    { "english": "we had", "lithuanian": "mes turėjome" },
-    { "english": "you(pl.) had", "lithuanian": "jūs turėjote" },
-    { "english": "they(m.) had", "lithuanian": "jie turėjo" },
-    { "english": "they(f.) had", "lithuanian": "jos turėjo" }
-  ],
-  
-  "Action Verbs - Past": [
-    # mėgti (to like) - past tense
-    { "english": "I liked", "lithuanian": "aš mėgau" },
-    { "english": "you(s.) liked", "lithuanian": "tu mėgai" },
-    { "english": "he liked", "lithuanian": "jis mėgo" },
-    { "english": "she liked", "lithuanian": "ji mėgo" },
-    { "english": "it liked", "lithuanian": "tai mėgo" },
-    { "english": "we liked", "lithuanian": "mes mėgome" },
-    { "english": "you(pl.) liked", "lithuanian": "jūs mėgote" },
-    { "english": "they(m.) liked", "lithuanian": "jie mėgo" },
-    { "english": "they(f.) liked", "lithuanian": "jos mėgo" },
+    return flat_forms
+
+def get_conjugations_by_tense(tense):
+    """
+    Get all conjugations for a specific tense organized by verb categories.
     
-    # gaminti (to make/produce) - past tense
-    { "english": "I made", "lithuanian": "aš gaminau" },
-    { "english": "you(s.) made", "lithuanian": "tu gaminai" },
-    { "english": "he made", "lithuanian": "jis gamino" },
-    { "english": "she made", "lithuanian": "ji gamino" },
-    { "english": "it made", "lithuanian": "tai gamino" },
-    { "english": "we made", "lithuanian": "mes gaminome" },
-    { "english": "you(pl.) made", "lithuanian": "jūs gaminote" },
-    { "english": "they(m.) made", "lithuanian": "jie gamino" },
-    { "english": "they(f.) made", "lithuanian": "jos gamino" },
+    Args:
+        tense (str): The tense ('present_tense', 'past_tense', 'future')
+        
+    Returns:
+        dict: Dictionary with verb categories as keys and lists of conjugation forms as values
+    """
+    # Define verb categories
+    verb_categories = {
+      "Movement & Travel": [
+        "eiti",      # to walk/go
+        "bėgti",     # to run
+        "ateiti",    # to come
+        "grįžti",    # to return
+        "važiuoti",  # to drive/travel
+        "vykti"      # to go/proceed
+      ],
+      
+      "Basic Needs & Daily Life": [
+        "valgyti",   # to eat
+        "gerti",     # to drink
+        "miegoti",   # to sleep
+        "gyventi",   # to live
+        "dirbti",    # to work
+        "žaisti"     # to play
+      ],
+      
+      "Mental & Emotional": [
+        "mėgti",     # to like
+        "žinoti",    # to know
+        "norėti",    # to want
+        "galėti",    # to be able/can
+      ],
+      
+      "Sensory Perception": [
+        "matyti",    # to see
+        "kalbėti",   # to speak
+        "klausyti",  # to listen
+      ],
+
+      "Learning & Knowledge": [
+        "skaityti",  # to read
+        "rašyti",    # to write
+        "mokyti",    # to teach
+        "mokytis",   # to learn
+      ],
+      
+      "Actions & Transactions": [
+        "būti",      # to be
+        "turėti",    # to have
+        "pirkti",    # to buy
+        "duoti",     # to give
+        "imti",      # to take
+        "gaminti"    # to make/produce
+      ]
+    }
     
-    # pirkti (to buy) - past tense
-    { "english": "I bought", "lithuanian": "aš pirkau" },
-    { "english": "you(s.) bought", "lithuanian": "tu pirkai" },
-    { "english": "he bought", "lithuanian": "jis pirko" },
-    { "english": "she bought", "lithuanian": "ji pirko" },
-    { "english": "it bought", "lithuanian": "tai pirko" },
-    { "english": "we bought", "lithuanian": "mes pirkome" },
-    { "english": "you(pl.) bought", "lithuanian": "jūs pirkote" },
-    { "english": "they(m.) bought", "lithuanian": "jie pirko" },
-    { "english": "they(f.) bought", "lithuanian": "jos pirko" },
+    result = {}
     
-    # duoti (to give) - past tense
-    { "english": "I gave", "lithuanian": "aš daviau" },
-    { "english": "you(s.) gave", "lithuanian": "tu davei" },
-    { "english": "he gave", "lithuanian": "jis davė" },
-    { "english": "she gave", "lithuanian": "ji davė" },
-    { "english": "it gave", "lithuanian": "tai davė" },
-    { "english": "we gave", "lithuanian": "mes davėme" },
-    { "english": "you(pl.) gave", "lithuanian": "jūs davėte" },
-    { "english": "they(m.) gave", "lithuanian": "jie davė" },
-    { "english": "they(f.) gave", "lithuanian": "jos davė" },
+    for category, verb_list in verb_categories.items():
+        result[category] = []
+        
+        for infinitive in verb_list:
+            if infinitive in verbs_new and tense in verbs_new[infinitive]:
+                # Add all conjugation forms for this verb in the specified tense
+                for person_key, form_data in verbs_new[infinitive][tense].items():
+                    result[category].append({
+                        "english": form_data["english"],
+                        "lithuanian": form_data["lithuanian"]
+                    })
     
-    # imti (to take) - past tense
-    { "english": "I took", "lithuanian": "aš ėmiau" },
-    { "english": "you(s.) took", "lithuanian": "tu ėmei" },
-    { "english": "he took", "lithuanian": "jis ėmė" },
-    { "english": "she took", "lithuanian": "ji ėmė" },
-    { "english": "it took", "lithuanian": "tai ėmė" },
-    { "english": "we took", "lithuanian": "mes ėmėme" },
-    { "english": "you(pl.) took", "lithuanian": "jūs ėmėte" },
-    { "english": "they(m.) took", "lithuanian": "jie ėmė" },
-    { "english": "they(f.) took", "lithuanian": "jos ėmė" }
-  ],
-  
-  "Movement Verbs - Past": [
-    # eiti (to walk) - past tense
-    { "english": "I walked", "lithuanian": "aš ėjau" },
-    { "english": "you(s.) walked", "lithuanian": "tu ėjai" },
-    { "english": "he walked", "lithuanian": "jis ėjo" },
-    { "english": "she walked", "lithuanian": "ji ėjo" },
-    { "english": "it walked", "lithuanian": "tai ėjo" },
-    { "english": "we walked", "lithuanian": "mes ėjome" },
-    { "english": "you(pl.) walked", "lithuanian": "jūs ėjote" },
-    { "english": "they(m.) walked", "lithuanian": "jie ėjo" },
-    { "english": "they(f.) walked", "lithuanian": "jos ėjo" },
-    
-    # važiuoti (to drive/travel) - past tense
-    { "english": "I drove", "lithuanian": "aš važiavau" },
-    { "english": "you(s.) drove", "lithuanian": "tu važiavai" },
-    { "english": "he drove", "lithuanian": "jis važiavo" },
-    { "english": "she drove", "lithuanian": "ji važiavo" },
-    { "english": "it drove", "lithuanian": "tai važiavo" },
-    { "english": "we drove", "lithuanian": "mes važiavome" },
-    { "english": "you(pl.) drove", "lithuanian": "jūs važiavote" },
-    { "english": "they(m.) drove", "lithuanian": "jie važiavo" },
-    { "english": "they(f.) drove", "lithuanian": "jos važiavo" },
-    
-    # bėgti (to run) - past tense
-    { "english": "I ran", "lithuanian": "aš bėgau" },
-    { "english": "you(s.) ran", "lithuanian": "tu bėgai" },
-    { "english": "he ran", "lithuanian": "jis bėgo" },
-    { "english": "she ran", "lithuanian": "ji bėgo" },
-    { "english": "it ran", "lithuanian": "tai bėgo" },
-    { "english": "we ran", "lithuanian": "mes bėgome" },
-    { "english": "you(pl.) ran", "lithuanian": "jūs bėgote" },
-    { "english": "they(m.) ran", "lithuanian": "jie bėgo" },
-    { "english": "they(f.) ran", "lithuanian": "jos bėgo" },
-    
-    # vykti (to go/proceed) - past tense
-    { "english": "I went", "lithuanian": "aš vykau" },
-    { "english": "you(s.) went", "lithuanian": "tu vykai" },
-    { "english": "he went", "lithuanian": "jis vyko" },
-    { "english": "she went", "lithuanian": "ji vyko" },
-    { "english": "it went", "lithuanian": "tai vyko" },
-    { "english": "we went", "lithuanian": "mes vykome" },
-    { "english": "you(pl.) went", "lithuanian": "jūs vykote" },
-    { "english": "they(m.) went", "lithuanian": "jie vyko" },
-    { "english": "they(f.) went", "lithuanian": "jos vyko" },
-    
-    # ateiti (to come) - past tense
-    { "english": "I came", "lithuanian": "aš atėjau" },
-    { "english": "you(s.) came", "lithuanian": "tu atėjai" },
-    { "english": "he came", "lithuanian": "jis atėjo" },
-    { "english": "she came", "lithuanian": "ji atėjo" },
-    { "english": "it came", "lithuanian": "tai atėjo" },
-    { "english": "we came", "lithuanian": "mes atėjome" },
-    { "english": "you(pl.) came", "lithuanian": "jūs atėjote" },
-    { "english": "they(m.) came", "lithuanian": "jie atėjo" },
-    { "english": "they(f.) came", "lithuanian": "jos atėjo" },
-    
-    # grįžti (to return) - past tense
-    { "english": "I returned", "lithuanian": "aš grįžau" },
-    { "english": "you(s.) returned", "lithuanian": "tu grįžai" },
-    { "english": "he returned", "lithuanian": "jis grįžo" },
-    { "english": "she returned", "lithuanian": "ji grįžo" },
-    { "english": "it returned", "lithuanian": "tai grįžo" },
-    { "english": "we returned", "lithuanian": "mes grįžome" },
-    { "english": "you(pl.) returned", "lithuanian": "jūs grįžote" },
-    { "english": "they(m.) returned", "lithuanian": "jie grįžo" },
-    { "english": "they(f.) returned", "lithuanian": "jos grįžo" }
-  ],
-  
-  "Communication & Mental Verbs - Past": [
-    # kalbėti (to speak) - past tense
-    { "english": "I spoke", "lithuanian": "aš kalbėjau" },
-    { "english": "you(s.) spoke", "lithuanian": "tu kalbėjai" },
-    { "english": "he spoke", "lithuanian": "jis kalbėjo" },
-    { "english": "she spoke", "lithuanian": "ji kalbėjo" },
-    { "english": "it spoke", "lithuanian": "tai kalbėjo" },
-    { "english": "we spoke", "lithuanian": "mes kalbėjome" },
-    { "english": "you(pl.) spoke", "lithuanian": "jūs kalbėjote" },
-    { "english": "they(m.) spoke", "lithuanian": "jie kalbėjo" },
-    { "english": "they(f.) spoke", "lithuanian": "jos kalbėjo" },
-    
-    # žinoti (to know) - past tense
-    { "english": "I knew", "lithuanian": "aš žinojau" },
-    { "english": "you(s.) knew", "lithuanian": "tu žinojai" },
-    { "english": "he knew", "lithuanian": "jis žinojo" },
-    { "english": "she knew", "lithuanian": "ji žinojo" },
-    { "english": "it knew", "lithuanian": "tai žinojo" },
-    { "english": "we knew", "lithuanian": "mes žinojome" },
-    { "english": "you(pl.) knew", "lithuanian": "jūs žinojote" },
-    { "english": "they(m.) knew", "lithuanian": "jie žinojo" },
-    { "english": "they(f.) knew", "lithuanian": "jos žinojo" },
-    
-    # galėti (to be able/can) - past tense
-    { "english": "I could", "lithuanian": "aš galėjau" },
-    { "english": "you(s.) could", "lithuanian": "tu galėjai" },
-    { "english": "he could", "lithuanian": "jis galėjo" },
-    { "english": "she could", "lithuanian": "ji galėjo" },
-    { "english": "it could", "lithuanian": "tai galėjo" },
-    { "english": "we could", "lithuanian": "mes galėjome" },
-    { "english": "you(pl.) could", "lithuanian": "jūs galėjote" },
-    { "english": "they(m.) could", "lithuanian": "jie galėjo" },
-    { "english": "they(f.) could", "lithuanian": "jos galėjo" },
-    
-    # norėti (to want) - past tense
-    { "english": "I wanted", "lithuanian": "aš norėjau" },
-    { "english": "you(s.) wanted", "lithuanian": "tu norėjai" },
-    { "english": "he wanted", "lithuanian": "jis norėjo" },
-    { "english": "she wanted", "lithuanian": "ji norėjo" },
-    { "english": "it wanted", "lithuanian": "tai norėjo" },
-    { "english": "we wanted", "lithuanian": "mes norėjome" },
-    { "english": "you(pl.) wanted", "lithuanian": "jūs norėjote" },
-    { "english": "they(m.) wanted", "lithuanian": "jie norėjo" },
-    { "english": "they(f.) wanted", "lithuanian": "jos norėjo" },
-    
-    # matyti (to see) - past tense
-    { "english": "I saw", "lithuanian": "aš mačiau" },
-    { "english": "you(s.) saw", "lithuanian": "tu matei" },
-    { "english": "he saw", "lithuanian": "jis matė" },
-    { "english": "she saw", "lithuanian": "ji matė" },
-    { "english": "it saw", "lithuanian": "tai matė" },
-    { "english": "we saw", "lithuanian": "mes matėme" },
-    { "english": "you(pl.) saw", "lithuanian": "jūs matėte" },
-    { "english": "they(m.) saw", "lithuanian": "jie matė" },
-    { "english": "they(f.) saw", "lithuanian": "jos matė" }
-  ],
-  
-  "Work & Life Verbs - Past": [
-    # dirbti (to work) - past tense
-    { "english": "I worked", "lithuanian": "aš dirbau" },
-    { "english": "you(s.) worked", "lithuanian": "tu dirbai" },
-    { "english": "he worked", "lithuanian": "jis dirbo" },
-    { "english": "she worked", "lithuanian": "ji dirbo" },
-    { "english": "it worked", "lithuanian": "tai dirbo" },
-    { "english": "we worked", "lithuanian": "mes dirbome" },
-    { "english": "you(pl.) worked", "lithuanian": "jūs dirbote" },
-    { "english": "they(m.) worked", "lithuanian": "jie dirbo" },
-    { "english": "they(f.) worked", "lithuanian": "jos dirbo" },
-    
-    # gyventi (to live) - past tense
-    { "english": "I lived", "lithuanian": "aš gyvenau" },
-    { "english": "you(s.) lived", "lithuanian": "tu gyvenai" },
-    { "english": "he lived", "lithuanian": "jis gyveno" },
-    { "english": "she lived", "lithuanian": "ji gyveno" },
-    { "english": "it lived", "lithuanian": "tai gyveno" },
-    { "english": "we lived", "lithuanian": "mes gyvenome" },
-    { "english": "you(pl.) lived", "lithuanian": "jūs gyvenote" },
-    { "english": "they(m.) lived", "lithuanian": "jie gyveno" },
-    { "english": "they(f.) lived", "lithuanian": "jos gyveno" },
-    
-    # mokytis (to learn) - past tense
-    { "english": "I learned", "lithuanian": "aš mokiausi" },
-    { "english": "you(s.) learned", "lithuanian": "tu mokeisi" },
-    { "english": "he learned", "lithuanian": "jis mokėsi" },
-    { "english": "she learned", "lithuanian": "ji mokėsi" },
-    { "english": "it learned", "lithuanian": "tai mokėsi" },
-    { "english": "we learned", "lithuanian": "mes mokėmės" },
-    { "english": "you(pl.) learned", "lithuanian": "jūs mokėtės" },
-    { "english": "they(m.) learned", "lithuanian": "jie mokėsi" },
-    { "english": "they(f.) learned", "lithuanian": "jos mokėsi" },
-    
-    # mokyti (to teach) - past tense
-    { "english": "I taught", "lithuanian": "aš mokiau" },
-    { "english": "you(s.) taught", "lithuanian": "tu mokai" },
-    { "english": "he taught", "lithuanian": "jis mokė" },
-    { "english": "she taught", "lithuanian": "ji mokė" },
-    { "english": "it taught", "lithuanian": "tai mokė" },
-    { "english": "we taught", "lithuanian": "mes mokėme" },
-    { "english": "you(pl.) taught", "lithuanian": "jūs mokėte" },
-    { "english": "they(m.) taught", "lithuanian": "jie mokė" },
-    { "english": "they(f.) taught", "lithuanian": "jos mokė" },
-    
-    # žaisti (to play) - past tense
-    { "english": "I played", "lithuanian": "aš žaidžiau" },
-    { "english": "you(s.) played", "lithuanian": "tu žaidei" },
-    { "english": "he played", "lithuanian": "jis žaidė" },
-    { "english": "she played", "lithuanian": "ji žaidė" },
-    { "english": "it played", "lithuanian": "tai žaidė" },
-    { "english": "we played", "lithuanian": "mes žaidėme" },
-    { "english": "you(pl.) played", "lithuanian": "jūs žaidėte" },
-    { "english": "they(m.) played", "lithuanian": "jie žaidė" },
-    { "english": "they(f.) played", "lithuanian": "jos žaidė" }
-  ],
-  
-  "Additional Common Verbs - Past": [
-    # skaityti (to read) - past tense
-    { "english": "I read", "lithuanian": "aš skaičiau" },
-    { "english": "you(s.) read", "lithuanian": "tu skaitei" },
-    { "english": "he read", "lithuanian": "jis skaitė" },
-    { "english": "she read", "lithuanian": "ji skaitė" },
-    { "english": "it read", "lithuanian": "tai skaitė" },
-    { "english": "we read", "lithuanian": "mes skaitėme" },
-    { "english": "you(pl.) read", "lithuanian": "jūs skaitėte" },
-    { "english": "they(m.) read", "lithuanian": "jie skaitė" },
-    { "english": "they(f.) read", "lithuanian": "jos skaitė" },
-    
-    # rašyti (to write) - past tense
-    { "english": "I wrote", "lithuanian": "aš rašiau" },
-    { "english": "you(s.) wrote", "lithuanian": "tu rašei" },
-    { "english": "he wrote", "lithuanian": "jis rašė" },
-    { "english": "she wrote", "lithuanian": "ji rašė" },
-    { "english": "it wrote", "lithuanian": "tai rašė" },
-    { "english": "we wrote", "lithuanian": "mes rašėme" },
-    { "english": "you(pl.) wrote", "lithuanian": "jūs rašėte" },
-    { "english": "they(m.) wrote", "lithuanian": "jie rašė" },
-    { "english": "they(f.) wrote", "lithuanian": "jos rašė" },
-    
-    # klausyti (to listen) - past tense
-    { "english": "I listened", "lithuanian": "aš klausiau" },
-    { "english": "you(s.) listened", "lithuanian": "tu klausei" },
-    { "english": "he listened", "lithuanian": "jis klausė" },
-    { "english": "she listened", "lithuanian": "ji klausė" },
-    { "english": "it listened", "lithuanian": "tai klausė" },
-    { "english": "we listened", "lithuanian": "mes klausėme" },
-    { "english": "you(pl.) listened", "lithuanian": "jūs klausėte" },
-    { "english": "they(m.) listened", "lithuanian": "jie klausė" },
-    { "english": "they(f.) listened", "lithuanian": "jos klausė" },
-    
-    # verstis (to work/deal with) - past tense
-    { "english": "I dealt with", "lithuanian": "aš verčiausi" },
-    { "english": "you(s.) dealt with", "lithuanian": "tu verteisi" },
-    { "english": "he dealt with", "lithuanian": "jis vertėsi" },
-    { "english": "she dealt with", "lithuanian": "ji vertėsi" },
-    { "english": "it dealt with", "lithuanian": "tai vertėsi" },
-    { "english": "we dealt with", "lithuanian": "mes vertėmės" },
-    { "english": "you(pl.) dealt with", "lithuanian": "jūs vertėtės" },
-    { "english": "they(m.) dealt with", "lithuanian": "jie vertėsi" },
-    { "english": "they(f.) dealt with", "lithuanian": "jos vertėsi" },
-    
-    # pažinti (to know/be acquainted) - past tense
-    { "english": "I knew (person)", "lithuanian": "aš pažinojau" },
-    { "english": "you(s.) knew (person)", "lithuanian": "tu pažinojai" },
-    { "english": "he knew (person)", "lithuanian": "jis pažinojo" },
-    { "english": "she knew (person)", "lithuanian": "ji pažinojo" },
-    { "english": "it knew (person)", "lithuanian": "tai pažinojo" },
-    { "english": "we knew (person)", "lithuanian": "mes pažinojome" },
-    { "english": "you(pl.) knew (person)", "lithuanian": "jūs pažinojote" },
-    { "english": "they(m.) knew (person)", "lithuanian": "jie pažinojo" },
-    { "english": "they(f.) knew (person)", "lithuanian": "jos pažinojo" }
-  ]
-}
+    return result
+
+
+verbs_present = get_conjugations_by_tense('present_tense')
+verbs_past = get_conjugations_by_tense('past_tense')
+verbs_future = get_conjugations_by_tense('future')
