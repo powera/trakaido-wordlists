@@ -98,3 +98,6 @@ laivas
 taksi
 sunkvežimis
 motociklas
+gaisrinė
+kėdė
+rankšluostis
