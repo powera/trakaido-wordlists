@@ -106,7 +106,7 @@ verbs_new = {
       "3p-f": {"english": "they(f.) learned", "lithuanian": "jos mokėsi"}
     },
     "future": {
-      "1s": {"english": "I will learn", "lithuanian": "aš mokysious"},
+      "1s": {"english": "I will learn", "lithuanian": "aš mokysiuos"},
       "2s": {"english": "you(s.) will learn", "lithuanian": "tu mokysiesi"},
       "3s-m": {"english": "he will learn", "lithuanian": "jis mokysis"},
       "3s-f": {"english": "she will learn", "lithuanian": "ji mokysis"},
@@ -133,7 +133,7 @@ verbs_new = {
     },
     "past_tense": {
       "1s": {"english": "I taught", "lithuanian": "aš mokiau"},
-      "2s": {"english": "you(s.) taught", "lithuanian": "tu mokai"},
+      "2s": {"english": "you(s.) taught", "lithuanian": "tu mokei"},
       "3s-m": {"english": "he taught", "lithuanian": "jis mokė"},
       "3s-f": {"english": "she taught", "lithuanian": "ji mokė"},
       "3s-n": {"english": "it taught", "lithuanian": "tai mokė"},
@@ -195,26 +195,26 @@ verbs_new = {
   "skaityti": {
     "english": "to read",
     "present_tense": {
-      "1s": {"english": "I read", "lithuanian": "aš skaitau"},
-      "2s": {"english": "you(s.) read", "lithuanian": "tu skaitai"},
+      "1s": {"english": "I read (pres. tense)", "lithuanian": "aš skaitau"},
+      "2s": {"english": "you(s.) read (pres. tense)", "lithuanian": "tu skaitai"},
       "3s-m": {"english": "he reads", "lithuanian": "jis skaito"},
       "3s-f": {"english": "she reads", "lithuanian": "ji skaito"},
       "3s-n": {"english": "it reads", "lithuanian": "tai skaito"},
-      "1p": {"english": "we read", "lithuanian": "mes skaitome"},
-      "2p": {"english": "you(pl.) read", "lithuanian": "jūs skaitote"},
-      "3p-m": {"english": "they(m.) read", "lithuanian": "jie skaito"},
-      "3p-f": {"english": "they(f.) read", "lithuanian": "jos skaito"}
+      "1p": {"english": "we read (pres. tense)", "lithuanian": "mes skaitome"},
+      "2p": {"english": "you(pl.) read (pres. tense)", "lithuanian": "jūs skaitote"},
+      "3p-m": {"english": "they(m.) read (pres. tense)", "lithuanian": "jie skaito"},
+      "3p-f": {"english": "they(f.) read (pres. tense)", "lithuanian": "jos skaito"}
     },
     "past_tense": {
-      "1s": {"english": "I read", "lithuanian": "aš skaičiau"},
-      "2s": {"english": "you(s.) read", "lithuanian": "tu skaitei"},
-      "3s-m": {"english": "he read", "lithuanian": "jis skaitė"},
-      "3s-f": {"english": "she read", "lithuanian": "ji skaitė"},
-      "3s-n": {"english": "it read", "lithuanian": "tai skaitė"},
-      "1p": {"english": "we read", "lithuanian": "mes skaitėme"},
-      "2p": {"english": "you(pl.) read", "lithuanian": "jūs skaitėte"},
-      "3p-m": {"english": "they(m.) read", "lithuanian": "jie skaitė"},
-      "3p-f": {"english": "they(f.) read", "lithuanian": "jos skaitė"}
+      "1s": {"english": "I read (past tense)", "lithuanian": "aš skaičiau"},
+      "2s": {"english": "you(s.) read (past tense)", "lithuanian": "tu skaitei"},
+      "3s-m": {"english": "he read (past tense)", "lithuanian": "jis skaitė"},
+      "3s-f": {"english": "she read (past tense)", "lithuanian": "ji skaitė"},
+      "3s-n": {"english": "it read (past tense)", "lithuanian": "tai skaitė"},
+      "1p": {"english": "we read (past tense)", "lithuanian": "mes skaitėme"},
+      "2p": {"english": "you(pl.) read (past tense)", "lithuanian": "jūs skaitėte"},
+      "3p-m": {"english": "they(m.) read (past tense)", "lithuanian": "jie skaitė"},
+      "3p-f": {"english": "they(f.) read (past tense)", "lithuanian": "jos skaitė"}
     },
     "future": {
       "1s": {"english": "I will read", "lithuanian": "aš skaitysiu"},
@@ -330,13 +330,13 @@ verbs_new = {
     "future": {
       "1s": {"english": "I will work", "lithuanian": "aš dirbsiu"},
       "2s": {"english": "you(s.) will work", "lithuanian": "tu dirbsi"},
-      "3s-m": {"english": "he eats", "lithuanian": "jis valgo"},
-      "3s-f": {"english": "she eats", "lithuanian": "ji valgo"},
-      "3s-n": {"english": "it eats", "lithuanian": "tai valgo"},
-      "1p": {"english": "we eat", "lithuanian": "mes valgome"},
-      "2p": {"english": "you(pl.) eat", "lithuanian": "jūs valgote"},
-      "3p-m": {"english": "they(m.) eat", "lithuanian": "jie valgo"},
-      "3p-f": {"english": "they(f.) eat", "lithuanian": "jos valgo"}
+      "3s-m": {"english": "he will work", "lithuanian": "jis dirbs"},
+      "3s-f": {"english": "she will work", "lithuanian": "ji dirbs"},
+      "3s-n": {"english": "it will work", "lithuanian": "tai dirbs"},
+      "1p": {"english": "we will work", "lithuanian": "mes dirbsime"},
+      "2p": {"english": "you(pl.) will work", "lithuanian": "jūs dirbsite"},
+      "3p-m": {"english": "they(m.) will work", "lithuanian": "jie dirbs"},
+      "3p-f": {"english": "they(f.) will work", "lithuanian": "jos dirbs"}
     },
   },
   

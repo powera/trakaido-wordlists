@@ -6,6 +6,7 @@ apie
 arba
 audra
 ausinės
+aš mokysiuos
 bailus
 baimė
 baterija
@@ -38,7 +39,12 @@ ir
 išmanusis telefonas
 jau
 jei
+ji dirbs
+jie dirbs
+jis dirbs
+jos dirbs
 juokingas
+jūs dirbsite
 kad
 kamera
 kartais
@@ -59,6 +65,7 @@ malonus
 mandagus
 meilė
 mergina
+mes dirbsime
 muzika
 mėnulis
 naujas
@@ -116,6 +123,7 @@ sėkmė
 sūnėnas
 tad
 tada
+tai dirbs
 tapyba
 teisingas
 televizorius
@@ -125,6 +133,7 @@ teta
 tikras
 tingus
 tinklas
+tu mokei
 tuščias
 tyliai
 vaikinas
