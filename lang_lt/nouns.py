@@ -102,7 +102,7 @@ nouns_one = {
     { "english": "truck", "lithuanian": "sunkvežimis" },
     { "english": "motorcycle", "lithuanian": "motociklas" }
   ],
-    "Colors": [
+  "Colors": [
     { "english": "black", "lithuanian": "juodas" },
     { "english": "white", "lithuanian": "baltas" },
     { "english": "red", "lithuanian": "raudonas" },
