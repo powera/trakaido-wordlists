@@ -38,6 +38,10 @@ from .phrases import (
     phrases_one
 )
 
+from .sentences import (
+    sentences_one,
+)
+
 # Make commonly used items available at package level
 __all__ = [
     # Main data structures
