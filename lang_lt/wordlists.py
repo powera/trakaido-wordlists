@@ -65,6 +65,7 @@ levels = {
         {"corpus": "verbs_present", "group": "Movement & Travel"},
         {"corpus": "verbs_past", "group": "Movement & Travel"},
         {"corpus": "verbs_past", "group": "Sensory Perception"},
+        {"corpus": "common_words_two", "group": "Question Words"},
     ],
     "level_9": [
         {"corpus": "nouns_five", "group": "Personality"},

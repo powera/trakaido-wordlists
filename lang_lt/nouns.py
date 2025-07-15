@@ -809,5 +809,17 @@ common_words_two = {
         {"english": "free", "lithuanian": "laisvas"},
         {"english": "full", "lithuanian": "pilnas"},
         {"english": "empty", "lithuanian": "tuščias"}
-    ]
+    ],
+    "Question Words": [
+        {"english": "who", "lithuanian": "kas"},
+        {"english": "what", "lithuanian": "ką"},
+        {"english": "where", "lithuanian": "kur"},
+        {"english": "when", "lithuanian": "kada"},
+        {"english": "why", "lithuanian": "kodėl"},
+        {"english": "how", "lithuanian": "kaip"},
+        {"english": "which", "lithuanian": "kuris"},
+        {"english": "whose", "lithuanian": "kieno"},
+        {"english": "how many", "lithuanian": "kiek"},
+        {"english": "whom", "lithuanian": "kam"},
+    ],
 }
