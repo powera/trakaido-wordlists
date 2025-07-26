@@ -2,7 +2,7 @@
 
 """Wordlists for Trakaido, a language learning app for Lithuanian."""
 
-from .nouns import *
+from .nouns_enhanced import *
 from .verbs import *
 from .phrases import *
 
@@ -310,3 +310,69 @@ def find_lithuanian_words_not_in_audiobatches():
             missing_from_audiobatches.append(lithuanian_word)
     
     return missing_from_audiobatches
+
+
+def print_words_by_frequency():
+    """
+    Print all words from the wordlists sorted by frequency_rank.
+    
+    Words with frequency_rank of None (null) will be printed at the end.
+    For each word, prints: frequency_rank, English word, Lithuanian word, corpus, group
+    """
+    flat_words = get_all_word_pairs_flat()
+    
+    # Separate words with frequency_rank from those without
+    words_with_rank = []
+    words_without_rank = []
+    
+    for word_pair in flat_words:
+        frequency_rank = word_pair.get('metadata', {}).get('frequency_rank')
+        if frequency_rank is not None:
+            words_with_rank.append(word_pair)
+        else:
+            words_without_rank.append(word_pair)
+    
+    # Sort words with frequency_rank by their rank (lower rank = more frequent)
+    words_with_rank.sort(key=lambda x: x['metadata']['frequency_rank'])
+    
+    # Sort words without frequency_rank alphabetically by English word
+    words_without_rank.sort(key=lambda x: x['english'].lower())
+    
+    # Print header
+    print(f"{'Rank':<8} {'English':<20} {'Lithuanian':<20} {'Corpus':<20} {'Group':<30}")
+    print("-" * 98)
+    
+    # Print words with frequency_rank
+    for word_pair in words_with_rank:
+        rank = word_pair['metadata']['frequency_rank']
+        english = word_pair['english']
+        lithuanian = word_pair['lithuanian']
+        corpus = word_pair['corpus']
+        group = word_pair['group']
+        
+        print(f"{rank:<8} {english:<20} {lithuanian:<20} {corpus:<20} {group:<30}")
+    
+    # Print separator for words without rank
+    if words_without_rank:
+        print("\n" + "=" * 98)
+        print("WORDS WITHOUT FREQUENCY RANK:")
+        print("=" * 98)
+        
+        # Print words without frequency_rank
+        for word_pair in words_without_rank:
+            english = word_pair['english']
+            lithuanian = word_pair['lithuanian']
+            corpus = word_pair['corpus']
+            group = word_pair['group']
+            
+            print(f"{'N/A':<8} {english:<20} {lithuanian:<20} {corpus:<20} {group:<30}")
+    
+    # Print summary
+    total_words = len(flat_words)
+    words_with_rank_count = len(words_with_rank)
+    words_without_rank_count = len(words_without_rank)
+    
+    print(f"\nSUMMARY:")
+    print(f"Total words: {total_words}")
+    print(f"Words with frequency rank: {words_with_rank_count}")
+    print(f"Words without frequency rank: {words_without_rank_count}")
