@@ -9,10 +9,10 @@ from .levels import levels
 
 class WordListManager:
     """
-    Manages word lists using the enhanced directory structure.
+    Manages word lists using the generated directory structure.
     
-    This class lazily loads dictionary files from enhanced/dictionary/ and
-    structure files from enhanced/structure/, then compiles word lists by
+    This class lazily loads dictionary files from generated/dictionary/ and
+    structure files from generated/structure/, then compiles word lists by
     matching GUIDs to dictionary entries.
     """
     
@@ -21,11 +21,11 @@ class WordListManager:
         self._structure_cache: Dict[str, Dict[str, List[str]]] = {}
         self._compiled_cache: Dict[str, Dict[str, List[Dict[str, Any]]]] = {}
         
-        # Get the directory path for enhanced files
+        # Get the directory path for generated files
         current_dir = os.path.dirname(os.path.abspath(__file__))
-        self.enhanced_dir = os.path.join(current_dir, 'enhanced')
-        self.dictionary_dir = os.path.join(self.enhanced_dir, 'dictionary')
-        self.structure_dir = os.path.join(self.enhanced_dir, 'structure')
+        self.generated_dir = os.path.join(current_dir, 'generated')
+        self.dictionary_dir = os.path.join(self.generated_dir, 'dictionary')
+        self.structure_dir = os.path.join(self.generated_dir, 'structure')
     
     def _load_dictionary_file(self, filename: str) -> Dict[str, Any]:
         """Load a dictionary file and return all GUID entries."""
@@ -36,24 +36,26 @@ class WordListManager:
         if not os.path.exists(file_path):
             return {}
         
-        # Load the module dynamically
-        spec = importlib.util.spec_from_file_location(f"dict_{filename[:-3]}", file_path)
-        if spec is None or spec.loader is None:
+        try:
+            # Import the dictionary module using the package path
+            dict_name = filename[:-3]  # Remove '.py'
+            module_path = f"data.trakaido_wordlists.lang_lt.generated.dictionary.{dict_name}"
+            module = importlib.import_module(module_path)
+            
+            # Extract all GUID entries (variables that start with N, V, P, A, C, D, etc.)
+            guid_entries = {}
+            for attr_name in dir(module):
+                if attr_name.startswith(('N', 'V', 'P', 'A', 'C', 'D')) and not attr_name.startswith('_'):
+                    attr_value = getattr(module, attr_name)
+                    if isinstance(attr_value, dict) and 'guid' in attr_value:
+                        guid_entries[attr_name] = attr_value
+            
+            self._dictionary_cache[filename] = guid_entries
+            return guid_entries
+            
+        except ImportError as e:
+            print(f"Failed to import dictionary module {module_path}: {e}")
             return {}
-        
-        module = importlib.util.module_from_spec(spec)
-        spec.loader.exec_module(module)
-        
-        # Extract all GUID entries (variables that start with N, V, P, etc.)
-        guid_entries = {}
-        for attr_name in dir(module):
-            if attr_name.startswith(('N', 'V', 'P')) and not attr_name.startswith('_'):
-                attr_value = getattr(module, attr_name)
-                if isinstance(attr_value, dict) and 'guid' in attr_value:
-                    guid_entries[attr_name] = attr_value
-        
-        self._dictionary_cache[filename] = guid_entries
-        return guid_entries
     
     def _load_structure_file(self, filename: str) -> Dict[str, List[str]]:
         """Load a structure file and return the structure mapping."""
@@ -64,23 +66,41 @@ class WordListManager:
         if not os.path.exists(file_path):
             return {}
         
-        # Load the module dynamically
-        spec = importlib.util.spec_from_file_location(f"struct_{filename[:-3]}", file_path)
-        if spec is None or spec.loader is None:
+        try:
+            # Import the structure module using the package path
+            corpus_name = filename[:-13]  # Remove '_structure.py'
+            module_path = f"data.trakaido_wordlists.lang_lt.generated.structure.{corpus_name}_structure"
+            module = importlib.import_module(module_path)
+            
+            # Find the structure variable (should be named like "words_one_structure")
+            raw_structure_data = {}
+            for attr_name in dir(module):
+                if attr_name.endswith('_structure') and not attr_name.startswith('_'):
+                    raw_structure_data = getattr(module, attr_name, {})
+                    break
+            
+            # Convert the new format to the old format expected by compile_corpus
+            # New format: {"Category": {"display_name": "...", "words": [word_objects]}}
+            # Old format: {"Category": [guid_strings]}
+            structure_data = {}
+            for category_name, category_data in raw_structure_data.items():
+                if isinstance(category_data, dict) and 'words' in category_data:
+                    # Extract GUIDs from word objects
+                    guid_list = []
+                    for word_obj in category_data['words']:
+                        if hasattr(word_obj, 'get') and 'guid' in word_obj:
+                            guid_list.append(word_obj['guid'])
+                        elif hasattr(word_obj, '__name__'):
+                            # If it's a variable reference, use the variable name as GUID
+                            guid_list.append(word_obj.__name__)
+                    structure_data[category_name] = guid_list
+            
+            self._structure_cache[filename] = structure_data
+            return structure_data
+            
+        except ImportError as e:
+            print(f"Failed to import structure module {module_path}: {e}")
             return {}
-        
-        module = importlib.util.module_from_spec(spec)
-        spec.loader.exec_module(module)
-        
-        # Find the structure variable (should be named like "nouns_one_structure")
-        structure_data = {}
-        for attr_name in dir(module):
-            if attr_name.endswith('_structure') and not attr_name.startswith('_'):
-                structure_data = getattr(module, attr_name, {})
-                break
-        
-        self._structure_cache[filename] = structure_data
-        return structure_data
     
     def _get_all_dictionary_entries(self) -> Dict[str, Any]:
         """Load all dictionary entries from all dictionary files."""
@@ -91,7 +111,7 @@ class WordListManager:
         
         # Load all dictionary files
         for filename in os.listdir(self.dictionary_dir):
-            if filename.endswith('_dictionary.py'):
+            if filename.endswith('_dictionary.py') and not filename.startswith('__'):
                 entries = self._load_dictionary_file(filename)
                 all_entries.update(entries)
         
@@ -143,41 +163,31 @@ class WordListManager:
 # Create global instance
 _word_manager = WordListManager()
 
-# Legacy compatibility - load from enhanced structure for nouns
-def _get_enhanced_nouns():
-    """Get noun corpora from enhanced structure."""
-    enhanced_nouns = {}
-    for corpus_name in ["nouns_one", "nouns_two", "nouns_three", "nouns_four", "nouns_five"]:
-        enhanced_nouns[corpus_name] = _word_manager.get_corpus(corpus_name)
-    return enhanced_nouns
+# Load from generated structure for words (non-verbs)
+def _get_generated_words():
+    """Get word corpora from generated structure."""
+    generated_words = {}
+    for corpus_name in ["words_one", "words_two", "words_three", "words_four", "words_five", "words_six", "words_seven"]:
+        generated_words[corpus_name] = _word_manager.get_corpus(corpus_name)
+    return generated_words
 
-# Load enhanced nouns
-_enhanced_nouns = _get_enhanced_nouns()
+# Load generated words
+_generated_words = _get_generated_words()
 
 # Import legacy data for non-noun corpora (until they're migrated)
 from .verbs import *
 from .phrases import *
 
-# Try to get common_words from enhanced structure, fall back to legacy
-try:
-    common_words = _word_manager.get_corpus("common_words")
-    common_words_two = _word_manager.get_corpus("common_words_two")
-except:
-    # Fall back to legacy imports if enhanced structure doesn't exist yet
-    try:
-        from .nouns_enhanced import common_words, common_words_two
-    except ImportError:
-        common_words = {}
-        common_words_two = {}
-
 all_words = {
-  "nouns_one": _enhanced_nouns.get("nouns_one", {}),
-  "nouns_two": _enhanced_nouns.get("nouns_two", {}),
-  "nouns_three": _enhanced_nouns.get("nouns_three", {}),
-  "nouns_four": _enhanced_nouns.get("nouns_four", {}),
-  "nouns_five": _enhanced_nouns.get("nouns_five", {}),
-  "common_words": common_words,
-  "common_words_two": common_words_two,
+  # New generated word corpora (replacing nouns_* and common_words*)
+  "words_one": _generated_words.get("words_one", {}),
+  "words_two": _generated_words.get("words_two", {}),
+  "words_three": _generated_words.get("words_three", {}),
+  "words_four": _generated_words.get("words_four", {}),
+  "words_five": _generated_words.get("words_five", {}),
+  "words_six": _generated_words.get("words_six", {}),
+  "words_seven": _generated_words.get("words_seven", {}),
+  # Keep verbs and phrases as they are for now
   "verbs_present": verbs_present,
   "verbs_past": verbs_past,
   "verbs_future": verbs_future,
@@ -208,6 +218,7 @@ def get_all_word_pairs_flat():
                             flat_word = {
                                 'english': word_entry.get('english', ''),
                                 'lithuanian': word_entry.get('lithuanian', ''),
+                                'alternatives': word_entry.get('alternatives', {'english': [], 'lithuanian': []}),
                                 'corpus': corpus_name,
                                 'group': group_name,
                                 'metadata': word_entry.get('metadata', {})
