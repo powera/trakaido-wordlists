@@ -206,6 +206,7 @@ def get_all_word_pairs_flat():
             - corpus: Name of the corpus
             - group: Name of the group within the corpus
             - metadata: Metadata dictionary (if available)
+            - guid: Unique identifier for the word entry
     """
     flat_words = []
     
@@ -221,7 +222,8 @@ def get_all_word_pairs_flat():
                                 'alternatives': word_entry.get('alternatives', {'english': [], 'lithuanian': []}),
                                 'corpus': corpus_name,
                                 'group': group_name,
-                                'metadata': word_entry.get('metadata', {})
+                                'metadata': word_entry.get('metadata', {}),
+                                'guid': word_entry.get('guid', '')
                             }
                             flat_words.append(flat_word)
     
@@ -304,7 +306,7 @@ def get_words_by_level_enhanced(level_name):
         level_name: The level name (e.g., "level_1")
     
     Returns:
-        list: List of word objects with all enhanced fields
+        list: List of word objects with all enhanced fields including GUID
     """
     if level_name not in levels:
         return []
