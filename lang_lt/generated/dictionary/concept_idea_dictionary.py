@@ -302,6 +302,566 @@ N17_018 = {
 
 N17_019 = {
   'guid': 'N17_019',
+  'english': 'mind',
+  'lithuanian': 'protas',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 236,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_020 = {
+  'guid': 'N17_020',
+  'english': 'idea',
+  'lithuanian': 'idėja',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 343,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_021 = {
+  'guid': 'N17_021',
+  'english': 'thought',
+  'lithuanian': 'mintis',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 134,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_022 = {
+  'guid': 'N17_022',
+  'english': 'word',
+  'lithuanian': 'žodis',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 264,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_023 = {
+  'guid': 'N17_023',
+  'english': 'language',
+  'lithuanian': 'kalba',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 447,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_024 = {
+  'guid': 'N17_024',
+  'english': 'voice',
+  'lithuanian': 'balsas',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 391,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_025 = {
+  'guid': 'N17_025',
+  'english': 'question',
+  'lithuanian': 'klausimas',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 481,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_026 = {
+  'guid': 'N17_026',
+  'english': 'answer',
+  'lithuanian': 'atsakymas',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 534,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_027 = {
+  'guid': 'N17_027',
+  'english': 'reason',
+  'lithuanian': 'priežastis',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 441,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_028 = {
+  'guid': 'N17_028',
+  'english': 'truth',
+  'lithuanian': 'tiesa',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 547,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_029 = {
+  'guid': 'N17_029',
+  'english': 'story',
+  'lithuanian': 'istorija',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 528,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_030 = {
+  'guid': 'N17_030',
+  'english': 'example',
+  'lithuanian': 'pavyzdys',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 435,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_031 = {
+  'guid': 'N17_031',
+  'english': 'sense',
+  'lithuanian': 'pojūtis',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 452,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_032 = {
+  'guid': 'N17_032',
+  'english': 'feeling',
+  'lithuanian': 'jausmas',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 567,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_033 = {
+  'guid': 'N17_033',
+  'english': 'information',
+  'lithuanian': 'informacija',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 624,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_034 = {
+  'guid': 'N17_034',
+  'english': 'news',
+  'lithuanian': 'naujienos',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 545,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_035 = {
+  'guid': 'N17_035',
+  'english': 'problem',
+  'lithuanian': 'problema',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 669,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_036 = {
+  'guid': 'N17_036',
+  'english': 'government',
+  'lithuanian': 'vyriausybė',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 446,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_037 = {
+  'guid': 'N17_037',
+  'english': 'law',
+  'lithuanian': 'įstatymas',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 406,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_038 = {
+  'guid': 'N17_038',
+  'english': 'society',
+  'lithuanian': 'visuomenė',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 597,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_039 = {
+  'guid': 'N17_039',
+  'english': 'public',
+  'lithuanian': 'viešas',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 484,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_040 = {
+  'guid': 'N17_040',
+  'english': 'social',
+  'lithuanian': 'socialinis',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 564,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_041 = {
+  'guid': 'N17_041',
+  'english': 'political',
+  'lithuanian': 'politinis',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 647,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_042 = {
+  'guid': 'N17_042',
+  'english': 'international',
+  'lithuanian': 'tarptautinis',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 1186,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_043 = {
+  'guid': 'N17_043',
+  'english': 'national',
+  'lithuanian': 'nacionalinis',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 792,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_044 = {
+  'guid': 'N17_044',
+  'english': 'business',
+  'lithuanian': 'verslas',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 434,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_045 = {
+  'guid': 'N17_045',
+  'english': 'company',
+  'lithuanian': 'įmonė',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 509,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_046 = {
+  'guid': 'N17_046',
+  'english': 'money',
+  'lithuanian': 'pinigai',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 400,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_047 = {
+  'guid': 'N17_047',
+  'english': 'service',
+  'lithuanian': 'paslauga',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 636,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_048 = {
+  'guid': 'N17_048',
+  'english': 'trade',
+  'lithuanian': 'prekyba',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 802,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_049 = {
+  'guid': 'N17_049',
+  'english': 'war',
+  'lithuanian': 'karas',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 222,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_050 = {
+  'guid': 'N17_050',
+  'english': 'peace',
+  'lithuanian': 'taika',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 707,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_051 = {
+  'guid': 'N17_051',
+  'english': 'military',
+  'lithuanian': 'karinis',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 626,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_052 = {
+  'guid': 'N17_052',
+  'english': 'army',
+  'lithuanian': 'armija',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 565,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_053 = {
+  'guid': 'N17_053',
+  'english': 'navy',
+  'lithuanian': 'jūrų laivynas',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 3872,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N17_054 = {
+  'guid': 'N17_054',
   'english': 'love',
   'lithuanian': 'meilė',
   'alternatives': {
@@ -316,8 +876,8 @@ N17_019 = {
   }
 }
 
-N17_020 = {
-  'guid': 'N17_020',
+N17_055 = {
+  'guid': 'N17_055',
   'english': 'hate',
   'lithuanian': 'neapykanta',
   'alternatives': {
@@ -332,8 +892,8 @@ N17_020 = {
   }
 }
 
-N17_021 = {
-  'guid': 'N17_021',
+N17_056 = {
+  'guid': 'N17_056',
   'english': 'dream',
   'lithuanian': 'sapnas',
   'alternatives': {
@@ -348,8 +908,8 @@ N17_021 = {
   }
 }
 
-N17_022 = {
-  'guid': 'N17_022',
+N17_057 = {
+  'guid': 'N17_057',
   'english': 'fear',
   'lithuanian': 'baimė',
   'alternatives': {
@@ -364,8 +924,8 @@ N17_022 = {
   }
 }
 
-N17_023 = {
-  'guid': 'N17_023',
+N17_058 = {
+  'guid': 'N17_058',
   'english': 'hope',
   'lithuanian': 'viltis',
   'alternatives': {
@@ -380,8 +940,8 @@ N17_023 = {
   }
 }
 
-N17_024 = {
-  'guid': 'N17_024',
+N17_059 = {
+  'guid': 'N17_059',
   'english': 'luck',
   'lithuanian': 'sėkmė',
   'alternatives': {
@@ -396,8 +956,8 @@ N17_024 = {
   }
 }
 
-N17_025 = {
-  'guid': 'N17_025',
+N17_060 = {
+  'guid': 'N17_060',
   'english': 'solution',
   'lithuanian': 'sprendimas',
   'alternatives': {
@@ -412,8 +972,8 @@ N17_025 = {
   }
 }
 
-N17_026 = {
-  'guid': 'N17_026',
+N17_061 = {
+  'guid': 'N17_061',
   'english': 'knowledge',
   'lithuanian': 'žinios',
   'alternatives': {
@@ -428,8 +988,8 @@ N17_026 = {
   }
 }
 
-N17_027 = {
-  'guid': 'N17_027',
+N17_062 = {
+  'guid': 'N17_062',
   'english': 'power',
   'lithuanian': 'galia',
   'alternatives': {
@@ -444,8 +1004,8 @@ N17_027 = {
   }
 }
 
-N17_028 = {
-  'guid': 'N17_028',
+N17_063 = {
+  'guid': 'N17_063',
   'english': 'meaning',
   'lithuanian': 'prasmė',
   'alternatives': {

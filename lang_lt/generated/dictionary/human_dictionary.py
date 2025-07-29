@@ -94,7 +94,7 @@ N01_005 = {
 
 N01_006 = {
   'guid': 'N01_006',
-  'english': 'cop',
+  'english': 'police officer',
   'lithuanian': 'policininkas',
   'alternatives': {
     'english': ['cop', 'policeman', 'policewoman'],
@@ -366,7 +366,7 @@ N01_022 = {
 
 N01_023 = {
   'guid': 'N01_023',
-  'english': 'vet',
+  'english': 'veterinarian',
   'lithuanian': 'veterinaras',
   'alternatives': {
     'english': ['vet'],
@@ -487,6 +487,550 @@ N01_030 = {
   'metadata': {
     'difficulty_level': 2,
     'frequency_rank': 1962,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N01_031 = {
+  'guid': 'N01_031',
+  'english': 'family',
+  'lithuanian': 'šeima',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 6,
+    'frequency_rank': 287,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N01_032 = {
+  'guid': 'N01_032',
+  'english': 'mother',
+  'lithuanian': 'motina',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 6,
+    'frequency_rank': 298,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N01_033 = {
+  'guid': 'N01_033',
+  'english': 'father',
+  'lithuanian': 'tėvas',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 6,
+    'frequency_rank': 280,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N01_034 = {
+  'guid': 'N01_034',
+  'english': 'brother',
+  'lithuanian': 'brolis',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 6,
+    'frequency_rank': 618,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N01_035 = {
+  'guid': 'N01_035',
+  'english': 'sister',
+  'lithuanian': 'sesuo',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 6,
+    'frequency_rank': 829,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N01_036 = {
+  'guid': 'N01_036',
+  'english': 'son',
+  'lithuanian': 'sūnus',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 6,
+    'frequency_rank': 353,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N01_037 = {
+  'guid': 'N01_037',
+  'english': 'daughter',
+  'lithuanian': 'dukra',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 6,
+    'frequency_rank': 757,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N01_038 = {
+  'guid': 'N01_038',
+  'english': 'uncle',
+  'lithuanian': 'dėdė',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 6,
+    'frequency_rank': 1205,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N01_039 = {
+  'guid': 'N01_039',
+  'english': 'aunt',
+  'lithuanian': 'teta',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 6,
+    'frequency_rank': 1873,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N01_040 = {
+  'guid': 'N01_040',
+  'english': 'child',
+  'lithuanian': 'vaikas',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 6,
+    'frequency_rank': 495,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N01_041 = {
+  'guid': 'N01_041',
+  'english': 'partner',
+  'lithuanian': 'partneris',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 6,
+    'frequency_rank': 2722,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N01_042 = {
+  'guid': 'N01_042',
+  'english': 'spouse',
+  'lithuanian': 'sutuoktinis',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 6,
+    'frequency_rank': 9495,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N01_043 = {
+  'guid': 'N01_043',
+  'english': 'grandfather',
+  'lithuanian': 'senelis',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 6,
+    'frequency_rank': 3134,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N01_044 = {
+  'guid': 'N01_044',
+  'english': 'grandmother',
+  'lithuanian': 'senelė',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 6,
+    'frequency_rank': 3919,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N01_045 = {
+  'guid': 'N01_045',
+  'english': 'grandson',
+  'lithuanian': 'anūkas',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 6,
+    'frequency_rank': 6789,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N01_046 = {
+  'guid': 'N01_046',
+  'english': 'granddaughter',
+  'lithuanian': 'anūkė',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 6,
+    'frequency_rank': 10422,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N01_047 = {
+  'guid': 'N01_047',
+  'english': 'cousin',
+  'lithuanian': 'pusbrolis',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 6,
+    'frequency_rank': 2545,
+    'tags': [],
+    'notes': 'Original form: cousin (m)'
+  }
+}
+
+N01_048 = {
+  'guid': 'N01_048',
+  'english': 'cousin',
+  'lithuanian': 'pusseserė',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 6,
+    'frequency_rank': 2545,
+    'tags': [],
+    'notes': 'Original form: cousin (f)'
+  }
+}
+
+N01_049 = {
+  'guid': 'N01_049',
+  'english': 'nephew',
+  'lithuanian': 'sūnėnas',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 6,
+    'frequency_rank': 3569,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N01_050 = {
+  'guid': 'N01_050',
+  'english': 'niece',
+  'lithuanian': 'dukterėčia',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 6,
+    'frequency_rank': 6086,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N01_051 = {
+  'guid': 'N01_051',
+  'english': 'fiancé',
+  'lithuanian': 'sužadėtinis',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 6,
+    'frequency_rank': None,
+    'tags': [],
+    'notes': 'Original form: fiancé (m)'
+  }
+}
+
+N01_052 = {
+  'guid': 'N01_052',
+  'english': 'fiancée',
+  'lithuanian': 'sužadėtinė',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 6,
+    'frequency_rank': None,
+    'tags': [],
+    'notes': 'Original form: fiancée (f)'
+  }
+}
+
+N01_053 = {
+  'guid': 'N01_053',
+  'english': 'boyfriend',
+  'lithuanian': 'vaikinas',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 6,
+    'frequency_rank': 3999,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N01_054 = {
+  'guid': 'N01_054',
+  'english': 'girlfriend',
+  'lithuanian': 'mergina',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 6,
+    'frequency_rank': 3907,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N01_055 = {
+  'guid': 'N01_055',
+  'english': 'man',
+  'lithuanian': 'vyras',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 126,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N01_056 = {
+  'guid': 'N01_056',
+  'english': 'woman',
+  'lithuanian': 'moteris',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 334,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N01_057 = {
+  'guid': 'N01_057',
+  'english': 'boy',
+  'lithuanian': 'berniukas',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 453,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N01_058 = {
+  'guid': 'N01_058',
+  'english': 'girl',
+  'lithuanian': 'mergaitė',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 474,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N01_059 = {
+  'guid': 'N01_059',
+  'english': 'friend',
+  'lithuanian': 'draugas',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 405,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N01_060 = {
+  'guid': 'N01_060',
+  'english': 'person',
+  'lithuanian': 'žmogus',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 370,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N01_061 = {
+  'guid': 'N01_061',
+  'english': 'someone',
+  'lithuanian': 'kažkas',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 570,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N01_062 = {
+  'guid': 'N01_062',
+  'english': 'anyone',
+  'lithuanian': 'bet kas',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 642,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N01_063 = {
+  'guid': 'N01_063',
+  'english': 'everyone',
+  'lithuanian': 'visi',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 726,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N01_064 = {
+  'guid': 'N01_064',
+  'english': 'nobody',
+  'lithuanian': 'niekas',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 893,
     'tags': [],
     'notes': ''
   }

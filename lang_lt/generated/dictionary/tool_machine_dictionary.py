@@ -17,7 +17,7 @@ N12_001 = {
   'english': 'car',
   'lithuanian': 'automobilis',
   'alternatives': {
-    'english': [],
+    'english': ['automobile'],
     'lithuanian': []
   },
   'metadata': {
@@ -190,7 +190,7 @@ N12_011 = {
 
 N12_012 = {
   'guid': 'N12_012',
-  'english': 'mobile',
+  'english': 'smartphone',
   'lithuanian': 'išmanusis telefonas',
   'alternatives': {
     'english': ['mobile', 'phone'],

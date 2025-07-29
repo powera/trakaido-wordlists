@@ -25,7 +25,7 @@ from ..dictionary.style_dictionary import *
 words_five_structure = {
   'Concept Idea': {
     "display_name": 'Concept Idea',
-    "words": [N17_027, N17_019, N17_023, N17_022, N17_026, N17_028, N17_021, N17_020, N17_024, N17_025]
+    "words": [N17_062, N17_054, N17_058, N17_057, N17_061, N17_063, N17_056, N17_055, N17_059, N17_060]
   },
   'Quality': {
     "display_name": 'Quality',

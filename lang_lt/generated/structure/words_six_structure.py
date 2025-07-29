@@ -16,8 +16,8 @@ Format: "Category": {
 """
 
 from ..dictionary.concept_idea_dictionary import *
+from ..dictionary.human_dictionary import *
 from ..dictionary.natural_feature_dictionary import *
-from ..dictionary.noun_other_dictionary import *
 from ..dictionary.quality_dictionary import *
 from ..dictionary.tool_machine_dictionary import *
 
@@ -25,6 +25,10 @@ words_six_structure = {
   'Tool Machine': {
     "display_name": 'Tool Machine',
     "words": [N12_011, N12_021, N12_033, N12_020, N12_019, N12_034, N12_026, N12_015, N12_025, N12_017, N12_028, N12_022, N12_031, N12_013, N12_012, N12_014, N12_016, N12_018, N12_023, N12_024, N12_027, N12_029, N12_030, N12_032, N12_035]
+  },
+  'Human': {
+    "display_name": 'Human',
+    "words": [N01_033, N01_031, N01_032, N01_036, N01_040, N01_034, N01_037, N01_035, N01_038, N01_039, N01_047, N01_048, N01_041, N01_043, N01_049, N01_054, N01_044, N01_053, N01_050, N01_045, N01_042, N01_046, N01_051, N01_052]
   },
   'Natural Feature': {
     "display_name": 'Natural Feature',
@@ -37,9 +41,5 @@ words_six_structure = {
   'Quality': {
     "display_name": 'Quality',
     "words": [A05_001, A05_003, A05_006, A05_002, A05_011, A05_009, A05_005, A05_014, A05_013, A05_004, A05_007, A05_010, A05_008, A05_012]
-  },
-  'Noun Other': {
-    "display_name": 'Noun Other',
-    "words": [N99_003, N99_001, N99_002, N99_006, N99_010, N99_004, N99_007, N99_005, N99_008, N99_009, N99_017, N99_018, N99_011, N99_013, N99_019, N99_024, N99_014, N99_023, N99_020, N99_015, N99_012, N99_016, N99_021, N99_022]
   },
 }

@@ -571,3 +571,291 @@ N30_035 = {
     'notes': ''
   }
 }
+
+N30_036 = {
+  'guid': 'N30_036',
+  'english': 'place',
+  'lithuanian': 'vieta',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 96,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N30_037 = {
+  'guid': 'N30_037',
+  'english': 'room',
+  'lithuanian': 'kambarys',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 221,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N30_038 = {
+  'guid': 'N30_038',
+  'english': 'door',
+  'lithuanian': 'durys',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 368,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N30_039 = {
+  'guid': 'N30_039',
+  'english': 'city',
+  'lithuanian': 'miestas',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 226,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N30_040 = {
+  'guid': 'N30_040',
+  'english': 'country',
+  'lithuanian': 'šalis',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 292,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N30_041 = {
+  'guid': 'N30_041',
+  'english': 'state',
+  'lithuanian': 'valstija',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 268,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N30_042 = {
+  'guid': 'N30_042',
+  'english': 'area',
+  'lithuanian': 'sritis',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 671,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N30_043 = {
+  'guid': 'N30_043',
+  'english': 'land',
+  'lithuanian': 'žemė',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 363,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N30_044 = {
+  'guid': 'N30_044',
+  'english': 'road',
+  'lithuanian': 'kelias',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 428,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N30_045 = {
+  'guid': 'N30_045',
+  'english': 'street',
+  'lithuanian': 'gatvė',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 696,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N30_046 = {
+  'guid': 'N30_046',
+  'english': 'wall',
+  'lithuanian': 'siena',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 504,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N30_047 = {
+  'guid': 'N30_047',
+  'english': 'north',
+  'lithuanian': 'šiaurė',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 404,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N30_048 = {
+  'guid': 'N30_048',
+  'english': 'south',
+  'lithuanian': 'pietūs',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 360,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N30_049 = {
+  'guid': 'N30_049',
+  'english': 'east',
+  'lithuanian': 'rytai',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 456,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N30_050 = {
+  'guid': 'N30_050',
+  'english': 'west',
+  'lithuanian': 'vakarai',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 522,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N30_051 = {
+  'guid': 'N30_051',
+  'english': 'inside',
+  'lithuanian': 'viduje',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 515,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N30_052 = {
+  'guid': 'N30_052',
+  'english': 'outside',
+  'lithuanian': 'lauke',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 413,
+    'tags': [],
+    'notes': ''
+  }
+}
+
+N30_053 = {
+  'guid': 'N30_053',
+  'english': 'behind',
+  'lithuanian': 'už',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 3,
+    'frequency_rank': 318,
+    'tags': [],
+    'notes': ''
+  }
+}

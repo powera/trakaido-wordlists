@@ -174,7 +174,7 @@ N08_010 = {
 
 N08_011 = {
   'guid': 'N08_011',
-  'english': 'spectacles',
+  'english': 'eyeglasses',
   'lithuanian': 'akiniai',
   'alternatives': {
     'english': ['spectacles', 'glasses'],

@@ -15,16 +15,31 @@ Format: "Category": {
 }
 """
 
-from ..dictionary.noun_other_dictionary import *
+from ..dictionary.concept_idea_dictionary import *
+from ..dictionary.human_dictionary import *
+from ..dictionary.place_name_dictionary import *
 from ..dictionary.quality_dictionary import *
+from ..dictionary.time_period_dictionary import *
 
 words_three_structure = {
+  'Human': {
+    "display_name": 'Human',
+    "words": [N01_055, N01_056, N01_060, N01_059, N01_057, N01_058, N01_061, N01_062, N01_063, N01_064]
+  },
+  'Place Name': {
+    "display_name": 'Place Name',
+    "words": [N30_036, N30_037, N30_039, N30_041, N30_040, N30_053, N30_048, N30_043, N30_038, N30_047, N30_052, N30_044, N30_049, N30_046, N30_051, N30_050, N30_042, N30_045]
+  },
+  'Concept Idea': {
+    "display_name": 'Concept Idea',
+    "words": [N17_021, N17_049, N17_019, N17_022, N17_020, N17_024, N17_046, N17_037, N17_044, N17_030, N17_027, N17_036, N17_023, N17_031, N17_025, N17_039, N17_045, N17_029, N17_026, N17_034, N17_028, N17_040, N17_052, N17_032, N17_038, N17_033, N17_051, N17_047, N17_041, N17_035, N17_050, N17_043, N17_048, N17_042, N17_053]
+  },
   'Quality': {
     "display_name": 'Quality',
     "words": [A05_015, A05_021, A05_018, A05_019, A05_030, A05_031, A05_032, A05_017, A05_020, A05_024, A05_022, A05_016, A05_025, A05_034, A05_029, A05_023, A05_026, A05_028, A05_027, A05_033]
   },
-  'Noun Other': {
-    "display_name": 'Noun Other',
-    "words": [N99_045, N99_026, N99_063, N99_042, N99_075, N99_025, N99_027, N99_046, N99_103, N99_048, N99_031, N99_073, N99_038, N99_037, N99_076, N99_041, N99_050, N99_043, N99_049, N99_039, N99_034, N99_062, N99_028, N99_064, N99_036, N99_074, N99_057, N99_052, N99_047, N99_068, N99_078, N99_100, N99_056, N99_067, N99_091, N99_061, N99_040, N99_053, N99_098, N99_084, N99_081, N99_044, N99_090, N99_077, N99_085, N99_065, N99_058, N99_066, N99_079, N99_093, N99_055, N99_099, N99_060, N99_059, N99_083, N99_035, N99_080, N99_088, N99_082, N99_094, N99_106, N99_086, N99_069, N99_029, N99_092, N99_087, N99_105, N99_101, N99_070, N99_095, N99_089, N99_051, N99_054, N99_104, N99_033, N99_071, N99_097, N99_102, N99_072, N99_032, N99_096, N99_107, N99_030]
+  'Time Period': {
+    "display_name": 'Time Period',
+    "words": [N25_002, N25_018, N25_001, N25_003, N25_007, N25_014, N25_013, N25_017, N25_019, N25_015, N25_010, N25_004, N25_012, N25_016, N25_020, N25_011, N25_005, N25_009, N25_008, N25_006]
   },
 }

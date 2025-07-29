@@ -1198,7 +1198,7 @@ N06_074 = {
 
 N06_075 = {
   'guid': 'N06_075',
-  'english': 'chicken',
+  'english': 'chicken meat',
   'lithuanian': 'vištiena',
   'alternatives': {
     'english': ['chicken'],
