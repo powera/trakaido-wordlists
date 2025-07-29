@@ -25,6 +25,7 @@ levels = {
         {"corpus": "verbs_present", "group": "Mental & Emotional"},
     ],
     "level_5": [
+        {"corpus": "words_three", "group": "Human"},
         {"corpus": "words_four", "group": "Unit Of Measurement"},
         {"corpus": "words_four", "group": "Material Substance"},
         {"corpus": "verbs_present", "group": "Actions & Transactions"},
@@ -43,6 +44,7 @@ levels = {
     "level_8": [
         {"corpus": "words_six", "group": "Natural Feature"},
         {"corpus": "words_six", "group": "Tool Machine"},
+        {"corpus": "words_six", "group": "Human"},
         {"corpus": "verbs_present", "group": "Movement & Travel"},
         {"corpus": "verbs_past", "group": "Movement & Travel"},
         {"corpus": "verbs_past", "group": "Sensory Perception"},
@@ -72,10 +74,11 @@ levels = {
         {"corpus": "verbs_future", "group": "Sensory Perception"},
         {"corpus": "verbs_future", "group": "Learning & Knowledge"},
         {"corpus": "verbs_future", "group": "Actions & Transactions"},
+        {"corpus": "words_three", "group": "Time Period"},
     ],
     "level_13": [
-        {"corpus": "words_three", "group": "Noun Other"},
-        {"corpus": "words_six", "group": "Noun Other"},
+        {"corpus": "words_three", "group": "Place Name"},
+        {"corpus": "words_three", "group": "Concept Idea"},
     ],
     "level_14": [
         {"corpus": "words_seven", "group": "Place Name"},
