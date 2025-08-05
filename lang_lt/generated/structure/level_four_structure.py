@@ -16,23 +16,33 @@ Format: "Category": {
 """
 
 from ..dictionary.body_part_dictionary import *
+from ..dictionary.emotion_feeling_dictionary import *
 from ..dictionary.food_drink_dictionary import *
+from ..dictionary.human_dictionary import *
 from ..dictionary.material_substance_dictionary import *
 from ..dictionary.natural_feature_dictionary import *
 from ..dictionary.unit_of_measurement_dictionary import *
 
-words_four_structure = {
+level_four_structure = {
   'Food Drink': {
     "display_name": 'Food Drink',
-    "words": [N06_039, N06_038, N06_066, N06_030, N06_076, N06_028, N06_042, N06_040, N06_077, N06_074, N06_073, N06_068, N06_036, N06_033, N06_078, N06_060, N06_062, N06_031, N06_041, N06_061, N06_079, N06_048, N06_049, N06_026, N06_058, N06_027, N06_063, N06_045, N06_053, N06_083, N06_065, N06_035, N06_082, N06_044, N06_057, N06_067, N06_056, N06_047, N06_081, N06_032, N06_080, N06_072, N06_025, N06_034, N06_024, N06_029, N06_037, N06_043, N06_046, N06_050, N06_051, N06_052, N06_054, N06_055, N06_059, N06_064, N06_069, N06_070, N06_071, N06_075]
+    "words": [N06_024, N06_029, N06_037, N06_043, N06_046, N06_050, N06_051, N06_052, N06_054, N06_055, N06_059, N06_064, N06_069, N06_070, N06_071, N06_075]
+  },
+  'Human': {
+    "display_name": 'Human',
+    "words": [N01_002, N01_030, N01_001, N01_025, N01_003, N01_018, N01_011, N01_005, N01_009, N01_010, N01_019, N01_004, N01_026, N01_016, N01_008, N01_022, N01_021, N01_029, N01_017, N01_024, N01_020, N01_012, N01_028, N01_014]
+  },
+  'Emotion Feeling': {
+    "display_name": 'Emotion Feeling',
+    "words": [N23_001, N23_005, N23_003, N23_007, N23_013, N23_010, N23_002, N23_009, N23_008, N23_006, N23_004, N23_020, N23_015, N23_011, N23_024, N23_016, N23_023, N23_014, N23_019, N23_022, N23_012, N23_021, N23_017]
   },
   'Unit Of Measurement': {
     "display_name": 'Unit Of Measurement',
-    "words": [N34_009, N34_004, N34_001, N34_002, N34_003, N34_005, N34_006, N34_007, N34_008, N34_010, N34_011]
+    "words": [N34_002, N34_003, N34_005, N34_006, N34_007, N34_008, N34_010, N34_011]
   },
   'Natural Feature': {
     "display_name": 'Natural Feature',
-    "words": [N11_007, N11_004, N11_010, N11_006, N11_002, N11_001, N11_012, N11_005, N11_003, N11_009, N11_016, N11_008, N11_015, N11_011, N11_014, N11_018, N11_013, N11_017, N11_019]
+    "words": [N11_017, N11_019]
   },
   'Body Part': {
     "display_name": 'Body Part',
@@ -40,6 +50,6 @@ words_four_structure = {
   },
   'Material Substance': {
     "display_name": 'Material Substance',
-    "words": [N14_018, N14_011, N14_007, N14_003, N14_008, N14_001, N14_024, N14_002, N14_004, N14_013, N14_016, N14_009, N14_006, N14_017, N14_010, N14_014, N14_021, N14_019, N14_023, N14_020, N14_022, N14_005, N14_012, N14_015]
+    "words": [N14_005, N14_012, N14_015]
   },
 }

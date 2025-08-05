@@ -69,7 +69,7 @@ N30_004 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 14,
     'frequency_rank': 4159,
     'tags': [],
     'notes': ''
@@ -85,7 +85,7 @@ N30_005 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 14,
     'frequency_rank': 1794,
     'tags': [],
     'notes': ''
@@ -101,7 +101,7 @@ N30_006 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 14,
     'frequency_rank': 1436,
     'tags': [],
     'notes': ''
@@ -117,7 +117,7 @@ N30_007 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 14,
     'frequency_rank': 2580,
     'tags': [],
     'notes': ''
@@ -133,7 +133,7 @@ N30_008 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 14,
     'frequency_rank': 2625,
     'tags': [],
     'notes': ''
@@ -149,7 +149,7 @@ N30_009 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 14,
     'frequency_rank': 2106,
     'tags': [],
     'notes': ''
@@ -165,7 +165,7 @@ N30_010 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 14,
     'frequency_rank': 2086,
     'tags': [],
     'notes': ''
@@ -181,7 +181,7 @@ N30_011 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 14,
     'frequency_rank': 1294,
     'tags': [],
     'notes': ''
@@ -197,7 +197,7 @@ N30_012 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 14,
     'frequency_rank': 2809,
     'tags': [],
     'notes': ''
@@ -213,7 +213,7 @@ N30_013 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 14,
     'frequency_rank': 2114,
     'tags': [],
     'notes': ''
@@ -229,7 +229,7 @@ N30_014 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 14,
     'frequency_rank': 894,
     'tags': [],
     'notes': ''
@@ -245,7 +245,7 @@ N30_015 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 14,
     'frequency_rank': 1847,
     'tags': [],
     'notes': ''
@@ -261,7 +261,7 @@ N30_016 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 14,
     'frequency_rank': 3753,
     'tags': [],
     'notes': ''
@@ -277,7 +277,7 @@ N30_017 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 14,
     'frequency_rank': 2805,
     'tags': [],
     'notes': ''
@@ -293,7 +293,7 @@ N30_018 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 14,
     'frequency_rank': 6220,
     'tags': [],
     'notes': ''
@@ -309,7 +309,7 @@ N30_019 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 14,
     'frequency_rank': 7409,
     'tags': [],
     'notes': ''
@@ -325,7 +325,7 @@ N30_020 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 14,
     'frequency_rank': 6744,
     'tags': [],
     'notes': ''
@@ -341,7 +341,7 @@ N30_021 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 14,
     'frequency_rank': 8046,
     'tags': [],
     'notes': ''
@@ -357,7 +357,7 @@ N30_022 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 14,
     'frequency_rank': 4415,
     'tags': [],
     'notes': ''
@@ -373,7 +373,7 @@ N30_023 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 14,
     'frequency_rank': 1793,
     'tags': [],
     'notes': ''
@@ -389,7 +389,7 @@ N30_024 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 14,
     'frequency_rank': 1599,
     'tags': [],
     'notes': ''
@@ -405,7 +405,7 @@ N30_025 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 14,
     'frequency_rank': 2337,
     'tags': [],
     'notes': ''
@@ -421,7 +421,7 @@ N30_026 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 14,
     'frequency_rank': 9883,
     'tags': [],
     'notes': ''
@@ -437,7 +437,7 @@ N30_027 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 14,
     'frequency_rank': 3580,
     'tags': [],
     'notes': ''
@@ -469,7 +469,7 @@ N30_029 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 14,
     'frequency_rank': 3656,
     'tags': [],
     'notes': ''
@@ -501,7 +501,7 @@ N30_031 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 14,
     'frequency_rank': 4424,
     'tags': [],
     'notes': ''
@@ -517,7 +517,7 @@ N30_032 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 14,
     'frequency_rank': 4944,
     'tags': [],
     'notes': ''
@@ -581,7 +581,7 @@ N30_036 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 3,
+    'difficulty_level': 13,
     'frequency_rank': 96,
     'tags': [],
     'notes': ''
@@ -597,7 +597,7 @@ N30_037 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 3,
+    'difficulty_level': 13,
     'frequency_rank': 221,
     'tags': [],
     'notes': ''
@@ -613,7 +613,7 @@ N30_038 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 3,
+    'difficulty_level': 13,
     'frequency_rank': 368,
     'tags': [],
     'notes': ''
@@ -629,7 +629,7 @@ N30_039 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 3,
+    'difficulty_level': 13,
     'frequency_rank': 226,
     'tags': [],
     'notes': ''
@@ -645,7 +645,7 @@ N30_040 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 3,
+    'difficulty_level': 13,
     'frequency_rank': 292,
     'tags': [],
     'notes': ''
@@ -661,7 +661,7 @@ N30_041 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 3,
+    'difficulty_level': 13,
     'frequency_rank': 268,
     'tags': [],
     'notes': ''
@@ -677,7 +677,7 @@ N30_042 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 3,
+    'difficulty_level': 13,
     'frequency_rank': 671,
     'tags': [],
     'notes': ''
@@ -693,7 +693,7 @@ N30_043 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 3,
+    'difficulty_level': 13,
     'frequency_rank': 363,
     'tags': [],
     'notes': ''
@@ -709,7 +709,7 @@ N30_044 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 3,
+    'difficulty_level': 13,
     'frequency_rank': 428,
     'tags': [],
     'notes': ''
@@ -725,7 +725,7 @@ N30_045 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 3,
+    'difficulty_level': 13,
     'frequency_rank': 696,
     'tags': [],
     'notes': ''
@@ -741,7 +741,7 @@ N30_046 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 3,
+    'difficulty_level': 13,
     'frequency_rank': 504,
     'tags': [],
     'notes': ''
@@ -757,7 +757,7 @@ N30_047 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 3,
+    'difficulty_level': 13,
     'frequency_rank': 404,
     'tags': [],
     'notes': ''
@@ -773,7 +773,7 @@ N30_048 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 3,
+    'difficulty_level': 13,
     'frequency_rank': 360,
     'tags': [],
     'notes': ''
@@ -789,7 +789,7 @@ N30_049 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 3,
+    'difficulty_level': 13,
     'frequency_rank': 456,
     'tags': [],
     'notes': ''
@@ -805,7 +805,7 @@ N30_050 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 3,
+    'difficulty_level': 13,
     'frequency_rank': 522,
     'tags': [],
     'notes': ''
@@ -821,7 +821,7 @@ N30_051 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 3,
+    'difficulty_level': 13,
     'frequency_rank': 515,
     'tags': [],
     'notes': ''
@@ -837,7 +837,7 @@ N30_052 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 3,
+    'difficulty_level': 13,
     'frequency_rank': 413,
     'tags': [],
     'notes': ''
@@ -853,7 +853,7 @@ N30_053 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 3,
+    'difficulty_level': 13,
     'frequency_rank': 318,
     'tags': [],
     'notes': ''

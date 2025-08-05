@@ -21,7 +21,7 @@ N34_001 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 4,
+    'difficulty_level': 5,
     'frequency_rank': 6784,
     'tags': [],
     'notes': ''
@@ -69,7 +69,7 @@ N34_004 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 4,
+    'difficulty_level': 5,
     'frequency_rank': 2519,
     'tags': [],
     'notes': ''
@@ -149,7 +149,7 @@ N34_009 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 4,
+    'difficulty_level': 5,
     'frequency_rank': 1964,
     'tags': [],
     'notes': 'Original form: degree (temp.)'
