@@ -2,197 +2,104 @@
 
 """Wordlists for Trakaido, a language learning app for Lithuanian."""
 
-import os
-import importlib.util
 from typing import Dict, List, Any, Optional
 from .levels import levels
+from .generated.structure import level_structures
 
 class WordListManager:
     """
     Manages word lists using the generated directory structure.
     
-    This class lazily loads dictionary files from generated/dictionary/ and
-    structure files from generated/structure/, then compiles word lists by
-    matching GUIDs to dictionary entries.
+    This class loads per-level structure files that contain pre-compiled 
+    word lists organized by level.
     """
     
     def __init__(self):
-        self._dictionary_cache: Dict[str, Dict[str, Any]] = {}
-        self._structure_cache: Dict[str, Dict[str, List[str]]] = {}
-        self._compiled_cache: Dict[str, Dict[str, List[Dict[str, Any]]]] = {}
-        
-        # Get the directory path for generated files
-        current_dir = os.path.dirname(os.path.abspath(__file__))
-        self.generated_dir = os.path.join(current_dir, 'generated')
-        self.dictionary_dir = os.path.join(self.generated_dir, 'dictionary')
-        self.structure_dir = os.path.join(self.generated_dir, 'structure')
+        self._level_cache: Dict[str, Dict[str, List[Dict[str, Any]]]] = {}
     
-    def _load_dictionary_file(self, filename: str) -> Dict[str, Any]:
-        """Load a dictionary file and return all GUID entries."""
-        if filename in self._dictionary_cache:
-            return self._dictionary_cache[filename]
+    def _load_level_structure(self, level_name: str) -> Dict[str, List[Dict[str, Any]]]:
+        """Load a per-level structure file and return compiled word lists."""
+        if level_name in self._level_cache:
+            return self._level_cache[level_name]
         
-        file_path = os.path.join(self.dictionary_dir, filename)
-        if not os.path.exists(file_path):
+        # Convert level_1 to level_one format
+        level_number = level_name.split('_')[1]
+        level_word_map = {
+            '1': 'one', '2': 'two', '3': 'three', '4': 'four', '5': 'five',
+            '6': 'six', '7': 'seven', '8': 'eight', '9': 'nine', '10': 'ten',
+            '11': 'eleven', '12': 'twelve', '13': 'thirteen', '14': 'fourteen', '15': 'fifteen'
+        }
+        
+        if level_number not in level_word_map:
+            self._level_cache[level_name] = {}
             return {}
         
-        try:
-            # Import the dictionary module using the package path
-            dict_name = filename[:-3]  # Remove '.py'
-            module_path = f"data.trakaido_wordlists.lang_lt.generated.dictionary.{dict_name}"
-            module = importlib.import_module(module_path)
-            
-            # Extract all GUID entries (variables that start with N, V, P, A, C, D, etc.)
-            guid_entries = {}
-            for attr_name in dir(module):
-                if attr_name.startswith(('N', 'V', 'P', 'A', 'C', 'D')) and not attr_name.startswith('_'):
-                    attr_value = getattr(module, attr_name)
-                    if isinstance(attr_value, dict) and 'guid' in attr_value:
-                        guid_entries[attr_name] = attr_value
-            
-            self._dictionary_cache[filename] = guid_entries
-            return guid_entries
-            
-        except ImportError as e:
-            print(f"Failed to import dictionary module {module_path}: {e}")
-            return {}
-    
-    def _load_structure_file(self, filename: str) -> Dict[str, List[str]]:
-        """Load a structure file and return the structure mapping."""
-        if filename in self._structure_cache:
-            return self._structure_cache[filename]
+        level_word = level_word_map[level_number]
+        level_key = f"level_{level_word}"
         
-        file_path = os.path.join(self.structure_dir, filename)
-        if not os.path.exists(file_path):
+        # Get the structure data from the imported level_structures
+        if level_key not in level_structures:
+            self._level_cache[level_name] = {}
             return {}
         
-        try:
-            # Import the structure module using the package path
-            corpus_name = filename[:-13]  # Remove '_structure.py'
-            module_path = f"data.trakaido_wordlists.lang_lt.generated.structure.{corpus_name}_structure"
-            module = importlib.import_module(module_path)
-            
-            # Find the structure variable (should be named like "words_one_structure")
-            raw_structure_data = {}
-            for attr_name in dir(module):
-                if attr_name.endswith('_structure') and not attr_name.startswith('_'):
-                    raw_structure_data = getattr(module, attr_name, {})
-                    break
-            
-            # Convert the new format to the old format expected by compile_corpus
-            # New format: {"Category": {"display_name": "...", "words": [word_objects]}}
-            # Old format: {"Category": [guid_strings]}
-            structure_data = {}
-            for category_name, category_data in raw_structure_data.items():
-                if isinstance(category_data, dict) and 'words' in category_data:
-                    # Extract GUIDs from word objects
-                    guid_list = []
-                    for word_obj in category_data['words']:
-                        if hasattr(word_obj, 'get') and 'guid' in word_obj:
-                            guid_list.append(word_obj['guid'])
-                        elif hasattr(word_obj, '__name__'):
-                            # If it's a variable reference, use the variable name as GUID
-                            guid_list.append(word_obj.__name__)
-                    structure_data[category_name] = guid_list
-            
-            self._structure_cache[filename] = structure_data
-            return structure_data
-            
-        except ImportError as e:
-            print(f"Failed to import structure module {module_path}: {e}")
-            return {}
+        raw_structure_data = level_structures[level_key]
+        
+        # Convert the structure format to compiled word lists
+        # Format: {"Category": {"display_name": "...", "words": [word_objects]}}
+        compiled_level = {}
+        for category_name, category_data in raw_structure_data.items():
+            if isinstance(category_data, dict) and 'words' in category_data:
+                # Convert word objects to dictionaries
+                word_list = []
+                for word_obj in category_data['words']:
+                    if hasattr(word_obj, '__dict__'):
+                        # Convert object to dictionary
+                        word_dict = word_obj.__dict__.copy()
+                        word_list.append(word_dict)
+                    elif isinstance(word_obj, dict):
+                        word_list.append(word_obj)
+                compiled_level[category_name] = word_list
+        
+        self._level_cache[level_name] = compiled_level
+        return compiled_level
     
-    def _get_all_dictionary_entries(self) -> Dict[str, Any]:
-        """Load all dictionary entries from all dictionary files."""
-        all_entries = {}
-        
-        if not os.path.exists(self.dictionary_dir):
-            return all_entries
-        
-        # Load all dictionary files
-        for filename in os.listdir(self.dictionary_dir):
-            if filename.endswith('_dictionary.py') and not filename.startswith('__'):
-                entries = self._load_dictionary_file(filename)
-                all_entries.update(entries)
-        
-        return all_entries
-    
-    def compile_corpus(self, corpus_name: str) -> Dict[str, List[Dict[str, Any]]]:
-        """
-        Compile a corpus by loading its structure and matching GUIDs to dictionary entries.
-        
-        Args:
-            corpus_name: Name of the corpus (e.g., "nouns_one")
-            
-        Returns:
-            Dictionary mapping group names to lists of word entries
-        """
-        if corpus_name in self._compiled_cache:
-            return self._compiled_cache[corpus_name]
-        
-        # Load structure file
-        structure_filename = f"{corpus_name}_structure.py"
-        structure = self._load_structure_file(structure_filename)
-        
-        if not structure:
-            self._compiled_cache[corpus_name] = {}
-            return {}
-        
-        # Load all dictionary entries
-        all_entries = self._get_all_dictionary_entries()
-        
-        # Compile the corpus
-        compiled_corpus = {}
-        for group_name, guid_list in structure.items():
-            compiled_group = []
-            for guid in guid_list:
-                if guid in all_entries:
-                    compiled_group.append(all_entries[guid])
-                else:
-                    # Log missing GUID but continue
-                    print(f"Warning: GUID {guid} not found in dictionary files")
-            compiled_corpus[group_name] = compiled_group
-        
-        self._compiled_cache[corpus_name] = compiled_corpus
-        return compiled_corpus
-    
-    def get_corpus(self, corpus_name: str) -> Dict[str, List[Dict[str, Any]]]:
-        """Get a compiled corpus."""
-        return self.compile_corpus(corpus_name)
+    def get_level(self, level_name: str) -> Dict[str, List[Dict[str, Any]]]:
+        """Get compiled word lists for a specific level."""
+        return self._load_level_structure(level_name)
 
 # Create global instance
 _word_manager = WordListManager()
 
-# Load from generated structure for words (non-verbs)
-def _get_generated_words():
-    """Get word corpora from generated structure."""
-    generated_words = {}
-    for corpus_name in ["words_one", "words_two", "words_three", "words_four", "words_five", "words_six", "words_seven"]:
-        generated_words[corpus_name] = _word_manager.get_corpus(corpus_name)
-    return generated_words
+# Load from generated per-level structure for nouns
+def _get_generated_levels():
+    """Get word lists from generated per-level structure."""
+    generated_levels = {}
+    for level_num in range(1, 16):  # levels 1-15
+        level_name = f"level_{level_num}"
+        generated_levels[level_name] = _word_manager.get_level(level_name)
+    return generated_levels
 
-# Load generated words
-_generated_words = _get_generated_words()
+# Load generated levels
+_generated_levels = _get_generated_levels()
 
 # Import legacy data for non-noun corpora (until they're migrated)
 from .verbs import *
 from .phrases import *
 
-all_words = {
-  # New generated word corpora (replacing nouns_* and common_words*)
-  "words_one": _generated_words.get("words_one", {}),
-  "words_two": _generated_words.get("words_two", {}),
-  "words_three": _generated_words.get("words_three", {}),
-  "words_four": _generated_words.get("words_four", {}),
-  "words_five": _generated_words.get("words_five", {}),
-  "words_six": _generated_words.get("words_six", {}),
-  "words_seven": _generated_words.get("words_seven", {}),
-  # Keep verbs and phrases as they are for now
-  "verbs_present": verbs_present,
-  "verbs_past": verbs_past,
-  "verbs_future": verbs_future,
-  "phrases_one": phrases_one,
-}
+# Create all_words structure with per-level nouns and legacy verbs/phrases
+all_words = {}
+
+# Add per-level noun data
+for level_name, level_data in _generated_levels.items():
+    all_words[level_name] = level_data
+
+# Add legacy verbs and phrases
+all_words.update({
+    "verbs_present": verbs_present,
+    "verbs_past": verbs_past,
+    "verbs_future": verbs_future,
+    "phrases_one": phrases_one,
+})
 
 # Utility functions for backward compatibility
 def get_all_word_pairs_flat():
@@ -308,21 +215,32 @@ def get_words_by_level_enhanced(level_name):
     Returns:
         list: List of word objects with all enhanced fields including GUID
     """
-    if level_name not in levels:
-        return []
-    
     level_words = []
-    for level_item in levels[level_name]:
-        corpus = level_item["corpus"]
-        group = level_item["group"]
-        
-        if corpus in all_words and group in all_words[corpus]:
-            # Add corpus and group info to each word
-            for word_pair in all_words[corpus][group]:
+    
+    # Check if this is a noun level (has per-level data)
+    if level_name in all_words:
+        # Add noun words from per-level structure
+        for group_name, word_list in all_words[level_name].items():
+            for word_pair in word_list:
                 enhanced_word = word_pair.copy()
-                enhanced_word['corpus'] = corpus
-                enhanced_word['group'] = group
+                enhanced_word['corpus'] = level_name
+                enhanced_word['group'] = group_name
                 level_words.append(enhanced_word)
+    
+    # Also check levels.py for verb/phrase mappings
+    if level_name in levels:
+        for level_item in levels[level_name]:
+            corpus = level_item["corpus"]
+            group = level_item["group"]
+            
+            # Only process verbs and phrases (skip noun corpora that are now per-level)
+            if corpus.startswith(('verbs_', 'phrases_')) and corpus in all_words and group in all_words[corpus]:
+                # Add corpus and group info to each word
+                for word_pair in all_words[corpus][group]:
+                    enhanced_word = word_pair.copy()
+                    enhanced_word['corpus'] = corpus
+                    enhanced_word['group'] = group
+                    level_words.append(enhanced_word)
     
     return level_words
 
