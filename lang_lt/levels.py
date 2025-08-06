@@ -14,26 +14,26 @@ levels = {
         # No verbs or phrases in level 3
     ],
     "level_4": [
-        {"corpus": "verbs_present", "group": "Mental & Emotional"},
     ],
     "level_5": [
-        {"corpus": "verbs_present", "group": "Actions & Transactions"},
     ],
     "level_6": [
+        {"corpus": "verbs_present", "group": "Actions & Transactions"},
         {"corpus": "verbs_present", "group": "Basic Needs & Daily Life"},
+        {"corpus": "verbs_present", "group": "Mental & Emotional"},
         {"corpus": "verbs_present", "group": "Sensory Perception"},
     ],
     "level_7": [
         {"corpus": "verbs_past", "group": "Mental & Emotional"},
         {"corpus": "verbs_past", "group": "Actions & Transactions"},
         {"corpus": "verbs_past", "group": "Basic Needs & Daily Life"},
-    ],
-    "level_8": [
-        {"corpus": "verbs_present", "group": "Movement & Travel"},
-        {"corpus": "verbs_past", "group": "Movement & Travel"},
         {"corpus": "verbs_past", "group": "Sensory Perception"},
     ],
+    "level_8": [
+    ],
     "level_9": [
+        {"corpus": "verbs_present", "group": "Movement & Travel"},
+        {"corpus": "verbs_past", "group": "Movement & Travel"},
         {"corpus": "verbs_present", "group": "Learning & Knowledge"},
         {"corpus": "verbs_past", "group": "Learning & Knowledge"},
     ],
