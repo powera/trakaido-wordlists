@@ -1,8 +1,8 @@
 """
-Level Fifteen - Category Structure
+Nouns Fifteen - Category Structure
 
-This file contains the organizational structure for level 15.
-Currently empty as no nouns are assigned to this level.
+This file contains the organizational structure mapping categories to word objects.
+Each category contains a list of word objects imported from the dictionary files.
 
 Structure:
 - Each category has a "display_name" for pretty printing
@@ -15,8 +15,6 @@ Format: "Category": {
 }
 """
 
-# No dictionary imports needed for empty level
-
 level_fifteen_structure = {
-    # Level 15 contains only phrases, no nouns
+  # No words available at this difficulty level
 }
