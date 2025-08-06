@@ -133,7 +133,7 @@ A05_008 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 6,
+    'difficulty_level': 9,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -197,7 +197,7 @@ A05_012 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 6,
+    'difficulty_level': 9,
     'frequency_rank': None,
     'tags': [],
     'notes': ''

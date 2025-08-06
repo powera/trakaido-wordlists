@@ -26,7 +26,7 @@ level_two_structure = {
   },
   'Small Movable Object': {
     "display_name": 'Small Movable Object',
-    "words": [N08_005, N08_003, N08_013, N08_006, N08_018, N08_007, N08_009, N08_004, N08_012, N08_016, N08_002, N08_001, N08_017, N08_010, N08_015, N08_011]
+    "words": [N08_005, N08_003, N08_006, N08_018, N08_007, N08_009, N08_004, N08_012, N08_016, N08_002, N08_001, N08_017, N08_010, N08_015, N08_011]
   },
   'Tool Machine': {
     "display_name": 'Tool Machine',

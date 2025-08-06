@@ -16,13 +16,18 @@ Format: "Category": {
 """
 
 from ..dictionary.concept_idea_dictionary import *
+from ..dictionary.emotion_feeling_dictionary import *
 from ..dictionary.quality_dictionary import *
 from ..dictionary.small_movable_object_dictionary import *
 
 level_nine_structure = {
   'Small Movable Object': {
     "display_name": 'Small Movable Object',
-    "words": [N08_014, N08_008]
+    "words": [N08_014, N08_008, N08_013]
+  },
+  'Emotion Feeling': {
+    "display_name": 'Emotion Feeling',
+    "words": [N23_013, N23_010, N23_009, N23_008, N23_015, N23_024, N23_016, N23_023, N23_014, N23_019, N23_012, N23_017, N23_018]
   },
   'Concept Idea': {
     "display_name": 'Concept Idea',
@@ -30,6 +35,6 @@ level_nine_structure = {
   },
   'Quality': {
     "display_name": 'Quality',
-    "words": [A05_015, A05_021, A05_018, A05_019, A05_030, A05_031, A05_032, A05_017, A05_020, A05_024, A05_022, A05_016, A05_025, A05_034, A05_029, A05_023, A05_026, A05_028, A05_027, A05_033]
+    "words": [A05_015, A05_021, A05_018, A05_019, A05_030, A05_031, A05_032, A05_017, A05_020, A05_024, A05_022, A05_016, A05_025, A05_034, A05_029, A05_023, A05_026, A05_028, A05_027, A05_033, A05_008, A05_012]
   },
 }

@@ -277,7 +277,7 @@ N11_017 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 4,
+    'difficulty_level': 8,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -309,7 +309,7 @@ N11_019 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 4,
+    'difficulty_level': 8,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -517,7 +517,7 @@ N11_032 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 6,
+    'difficulty_level': 8,
     'frequency_rank': None,
     'tags': [],
     'notes': ''

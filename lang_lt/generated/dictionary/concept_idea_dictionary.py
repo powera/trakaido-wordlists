@@ -149,7 +149,7 @@ N17_009 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 6,
+    'difficulty_level': 13,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -181,7 +181,7 @@ N17_011 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 6,
+    'difficulty_level': 13,
     'frequency_rank': None,
     'tags': [],
     'notes': ''

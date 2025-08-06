@@ -357,7 +357,7 @@ N03_022 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 8,
+    'difficulty_level': 3,
     'frequency_rank': 3153,
     'tags': [],
     'notes': ''
@@ -389,7 +389,7 @@ N03_024 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 8,
+    'difficulty_level': 3,
     'frequency_rank': 818,
     'tags': [],
     'notes': 'Original form: foot (body)'
@@ -437,7 +437,7 @@ N03_027 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 8,
+    'difficulty_level': 3,
     'frequency_rank': 607,
     'tags': [],
     'notes': ''

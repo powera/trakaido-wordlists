@@ -149,7 +149,7 @@ P99_009 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 5,
+    'difficulty_level': 8,
     'frequency_rank': None,
     'tags': [],
     'notes': ''

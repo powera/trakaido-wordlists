@@ -15,31 +15,6 @@ Format: "Category": {
 }
 """
 
-from ..dictionary.concept_idea_dictionary import *
-from ..dictionary.human_dictionary import *
-from ..dictionary.natural_feature_dictionary import *
-from ..dictionary.quality_dictionary import *
-from ..dictionary.tool_machine_dictionary import *
-
 level_six_structure = {
-  'Tool Machine': {
-    "display_name": 'Tool Machine',
-    "words": [N12_012, N12_014, N12_016, N12_018, N12_023, N12_024, N12_027, N12_029, N12_030, N12_032, N12_035]
-  },
-  'Human': {
-    "display_name": 'Human',
-    "words": [N01_051, N01_052]
-  },
-  'Natural Feature': {
-    "display_name": 'Natural Feature',
-    "words": [N11_032]
-  },
-  'Concept Idea': {
-    "display_name": 'Concept Idea',
-    "words": [N17_009, N17_011]
-  },
-  'Quality': {
-    "display_name": 'Quality',
-    "words": [A05_008, A05_012]
-  },
+  # No words available at this difficulty level
 }
