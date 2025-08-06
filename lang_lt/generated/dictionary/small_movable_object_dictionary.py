@@ -133,7 +133,7 @@ N08_008 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 2,
+    'difficulty_level': 9,
     'frequency_rank': 608,
     'tags': [],
     'notes': ''
@@ -181,7 +181,7 @@ N08_011 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 1,
+    'difficulty_level': 2,
     'frequency_rank': 7865,
     'tags': [],
     'notes': ''
@@ -229,7 +229,7 @@ N08_014 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 2,
+    'difficulty_level': 9,
     'frequency_rank': 461,
     'tags': [],
     'notes': ''

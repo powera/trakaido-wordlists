@@ -18,23 +18,18 @@ Format: "Category": {
 from ..dictionary.building_structure_dictionary import *
 from ..dictionary.clothing_accessory_dictionary import *
 from ..dictionary.food_drink_dictionary import *
-from ..dictionary.small_movable_object_dictionary import *
 
 level_one_structure = {
   'Food Drink': {
     "display_name": 'Food Drink',
-    "words": [N06_002, N06_001, N06_008, N06_012, N06_013, N06_007, N06_003, N06_006, N06_004, N06_011, N06_009, N06_005, N06_022, N06_010, N06_017, N06_015, N06_020, N06_021, N06_014, N06_023, N06_019, N06_018, N06_016]
+    "words": [N06_002, N06_001, N06_012, N06_013, N06_007, N06_003, N06_006, N06_004, N06_005, N06_015, N06_020, N06_021, N06_014, N06_018, N06_016]
   },
   'Clothing Accessory': {
     "display_name": 'Clothing Accessory',
-    "words": [N09_003, N09_008, N09_004, N09_006, N09_001, N09_010, N09_005, N09_002, N09_009, N09_012, N09_007, N09_011]
-  },
-  'Small Movable Object': {
-    "display_name": 'Small Movable Object',
-    "words": [N08_011]
+    "words": [N09_003, N09_008, N09_006, N09_001, N09_005, N09_002, N09_009, N09_012, N09_007, N09_011]
   },
   'Building Structure': {
     "display_name": 'Building Structure',
-    "words": [N07_001, N07_002, N07_004, N07_008, N07_003, N07_009, N07_005, N07_007, N07_010, N07_006, N07_011]
+    "words": [N07_001, N07_002, N07_008, N07_003, N07_009, N07_005, N07_007, N07_010, N07_006, N07_011]
   },
 }

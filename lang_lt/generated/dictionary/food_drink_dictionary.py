@@ -133,7 +133,7 @@ N06_008 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 1,
+    'difficulty_level': 7,
     'frequency_rank': 552,
     'tags': [],
     'notes': ''
@@ -149,7 +149,7 @@ N06_009 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 1,
+    'difficulty_level': 7,
     'frequency_rank': 1263,
     'tags': [],
     'notes': ''
@@ -165,7 +165,7 @@ N06_010 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 1,
+    'difficulty_level': 7,
     'frequency_rank': 1464,
     'tags': [],
     'notes': ''
@@ -181,7 +181,7 @@ N06_011 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 1,
+    'difficulty_level': 7,
     'frequency_rank': 1059,
     'tags': [],
     'notes': ''
@@ -277,7 +277,7 @@ N06_017 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 1,
+    'difficulty_level': 7,
     'frequency_rank': 1542,
     'tags': [],
     'notes': 'Original form: orange (fruit)'
@@ -309,7 +309,7 @@ N06_019 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 1,
+    'difficulty_level': 7,
     'frequency_rank': 2832,
     'tags': [],
     'notes': ''
@@ -357,7 +357,7 @@ N06_022 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 1,
+    'difficulty_level': 7,
     'frequency_rank': 1452,
     'tags': [],
     'notes': ''
@@ -373,7 +373,7 @@ N06_023 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 1,
+    'difficulty_level': 7,
     'frequency_rank': 2644,
     'tags': [],
     'notes': ''

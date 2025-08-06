@@ -17,13 +17,18 @@ Format: "Category": {
 
 from ..dictionary.human_dictionary import *
 from ..dictionary.material_substance_dictionary import *
+from ..dictionary.plant_dictionary import *
 from ..dictionary.pronoun_other_dictionary import *
 from ..dictionary.unit_of_measurement_dictionary import *
 
 level_five_structure = {
+  'Plant': {
+    "display_name": 'Plant',
+    "words": [N05_001, N05_005, N05_003, N05_006, N05_002, N05_004]
+  },
   'Human': {
     "display_name": 'Human',
-    "words": [N01_055, N01_056, N01_060, N01_059, N01_057, N01_058, N01_061, N01_062, N01_063, N01_064]
+    "words": [N01_055, N01_056, N01_060, N01_059, N01_057, N01_058, N01_061, N01_062, N01_063, N01_064, N01_006, N01_007, N01_013, N01_015, N01_023, N01_027]
   },
   'Unit Of Measurement': {
     "display_name": 'Unit Of Measurement',

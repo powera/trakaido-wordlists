@@ -69,7 +69,7 @@ N09_004 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 1,
+    'difficulty_level': 8,
     'frequency_rank': 1402,
     'tags': [],
     'notes': ''
@@ -165,7 +165,7 @@ N09_010 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 1,
+    'difficulty_level': 8,
     'frequency_rank': 2959,
     'tags': [],
     'notes': ''

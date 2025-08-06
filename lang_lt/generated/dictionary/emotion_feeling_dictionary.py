@@ -293,7 +293,7 @@ N23_018 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 2,
+    'difficulty_level': 4,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
