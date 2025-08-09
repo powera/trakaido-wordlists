@@ -1,4 +1,4 @@
-from .lang_lt.wordlists import get_all_word_pairs_flat
+from lang_lt.wordlists import get_all_word_pairs_flat
 
 
 def find_missing_words(input_words):
@@ -239,3 +239,64 @@ def print_words_by_frequency():
     print(f"Total words: {total_words}")
     print(f"Words with frequency rank: {words_with_rank_count}")
     print(f"Words without frequency rank: {words_without_rank_count}")
+
+
+def create_audiobatch_file():
+    """
+    Create a new audiobatch file with all missing Lithuanian words, alphabetically sorted.
+    
+    This function finds all Lithuanian words that are not in any existing audiobatch file
+    and creates a new audiobatch file (e.g., words8.txt) with all missing words in 
+    alphabetical order.
+    
+    Returns:
+        str: The filename of the created file, or None if no words were missing.
+    """
+    import os
+    import glob
+    
+    # Find words missing from audiobatches (already sorted alphabetically)
+    missing_words = find_lithuanian_words_not_in_audiobatches()
+    
+    if not missing_words:
+        print("No missing words found. All Lithuanian words are already in audiobatch files.")
+        return None
+    
+    print(f"Found {len(missing_words)} words missing from audiobatch files.")
+    
+    # Determine the next batch file number
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    audiobatches_dir = os.path.join(current_dir, 'lang_lt', 'audiobatches')
+    
+    # Find existing batch files and determine the next number
+    existing_files = glob.glob(os.path.join(audiobatches_dir, 'words*.txt'))
+    batch_numbers = []
+    
+    for file_path in existing_files:
+        filename = os.path.basename(file_path)
+        # Extract number from filename like "words7.txt"
+        if filename.startswith('words') and filename.endswith('.txt'):
+            try:
+                number_str = filename[5:-4]  # Remove "words" and ".txt"
+                batch_numbers.append(int(number_str))
+            except ValueError:
+                continue
+    
+    next_batch_number = max(batch_numbers) + 1 if batch_numbers else 1
+    new_filename = f"words{next_batch_number}.txt"
+    new_file_path = os.path.join(audiobatches_dir, new_filename)
+    
+    try:
+        # Create the new audiobatch file with all missing words
+        with open(new_file_path, 'w', encoding='utf-8') as file:
+            for word in missing_words:
+                file.write(f"{word}\n")
+        
+        print(f"Created new audiobatch file: {new_filename}")
+        print(f"Added {len(missing_words)} words to the new batch file.")
+        
+        return new_filename
+        
+    except Exception as e:
+        print(f"Error creating audiobatch file: {e}")
+        return None
