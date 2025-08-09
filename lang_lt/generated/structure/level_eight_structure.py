@@ -26,7 +26,7 @@ from ..dictionary.tool_machine_dictionary import *
 level_eight_structure = {
   'Clothing Accessory': {
     "display_name": 'Clothing Accessory',
-    "words": [N09_004, N09_010]
+    "words": [N09_004, N09_010, N09_013]
   },
   'Tool Machine': {
     "display_name": 'Tool Machine',

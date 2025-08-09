@@ -203,3 +203,19 @@ N09_012 = {
     'notes': ''
   }
 }
+
+N09_013 = {
+  'guid': 'N09_013',
+  'english': 'skirt',
+  'lithuanian': ' sijonas',
+  'alternatives': {
+    'english': [],
+    'lithuanian': ['sijonas']
+  },
+  'metadata': {
+    'difficulty_level': 8,
+    'frequency_rank': 7750,
+    'tags': [],
+    'notes': "The primary meaning refers to the clothing item. 'Skirt' as a verb (to go around the edge of something) is less common and not analyzed here."
+  }
+}

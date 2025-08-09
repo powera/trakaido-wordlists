@@ -389,7 +389,7 @@ N06_024 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 5,
+    'difficulty_level': 7,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -469,7 +469,7 @@ N06_029 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 5,
+    'difficulty_level': 7,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -597,7 +597,7 @@ N06_037 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 5,
+    'difficulty_level': 7,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -693,7 +693,7 @@ N06_043 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 5,
+    'difficulty_level': 7,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -741,7 +741,7 @@ N06_046 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 5,
+    'difficulty_level': 7,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -805,7 +805,7 @@ N06_050 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 5,
+    'difficulty_level': 7,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -821,7 +821,7 @@ N06_051 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 5,
+    'difficulty_level': 7,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -837,7 +837,7 @@ N06_052 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 5,
+    'difficulty_level': 7,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -869,7 +869,7 @@ N06_054 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 5,
+    'difficulty_level': 7,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -885,7 +885,7 @@ N06_055 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 5,
+    'difficulty_level': 7,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -949,7 +949,7 @@ N06_059 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 5,
+    'difficulty_level': 7,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -1029,7 +1029,7 @@ N06_064 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 5,
+    'difficulty_level': 7,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -1109,7 +1109,7 @@ N06_069 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 5,
+    'difficulty_level': 7,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -1125,7 +1125,7 @@ N06_070 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 5,
+    'difficulty_level': 7,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -1141,7 +1141,7 @@ N06_071 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 5,
+    'difficulty_level': 7,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -1205,7 +1205,7 @@ N06_075 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 5,
+    'difficulty_level': 7,
     'frequency_rank': 2130,
     'tags': [],
     'notes': ''
@@ -1337,5 +1337,21 @@ N06_083 = {
     'frequency_rank': 6304,
     'tags': [],
     'notes': ''
+  }
+}
+
+N06_084 = {
+  'guid': 'N06_084',
+  'english': 'carrot',
+  'lithuanian': 'morka',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 7,
+    'frequency_rank': 7722,
+    'tags': [],
+    'notes': "The word 'carrot' refers specifically to the edible root vegetable, typically orange in color. The Lithuanian 'morka' corresponds directly to this meaning. No plural or alternative forms are provided as the lemma is singular."
   }
 }

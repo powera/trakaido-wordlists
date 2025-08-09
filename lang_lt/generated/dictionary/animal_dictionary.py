@@ -171,3 +171,99 @@ N02_010 = {
     'notes': ''
   }
 }
+
+N02_011 = {
+  'guid': 'N02_011',
+  'english': 'rabbit',
+  'lithuanian': 'triušis',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 10,
+    'frequency_rank': 2182,
+    'tags': [],
+    'notes': 'Commonly refers to the small mammal known for its long ears and hopping movement.'
+  }
+}
+
+N02_012 = {
+  'guid': 'N02_012',
+  'english': 'whale',
+  'lithuanian': 'banginis',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 10,
+    'frequency_rank': 3206,
+    'tags': [],
+    'notes': "'Whale' refers specifically to the large marine mammals of the order Cetacea. The Lithuanian term 'banginis' is the standard translation."
+  }
+}
+
+N02_013 = {
+  'guid': 'N02_013',
+  'english': 'tiger',
+  'lithuanian': 'tigras',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 10,
+    'frequency_rank': 7302,
+    'tags': [],
+    'notes': 'A common wild feline found in Asia, recognized for its distinctive striped coat.'
+  }
+}
+
+N02_014 = {
+  'guid': 'N02_014',
+  'english': 'snake',
+  'lithuanian': 'gyvatė',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 10,
+    'frequency_rank': 4221,
+    'tags': [],
+    'notes': 'Commonly refers to the legless reptile. No significant alternative forms.'
+  }
+}
+
+N02_015 = {
+  'guid': 'N02_015',
+  'english': 'elephant',
+  'lithuanian': 'dramblys',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 10,
+    'frequency_rank': 8518,
+    'tags': [],
+    'notes': 'Common noun for the large herbivorous mammal. Base form; no plural or variant meanings included.'
+  }
+}
+
+N02_016 = {
+  'guid': 'N02_016',
+  'english': 'shark',
+  'lithuanian': 'ryklis',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 10,
+    'frequency_rank': 9419,
+    'tags': [],
+    'notes': "Base form analysis focused on the animal noun; singular in Lithuanian is 'ryklis'. Swahili translation provided as general 'samaki' (fish) when a precise term for 'shark' is not universally standardized in all dialects."
+  }
+}
