@@ -15,7 +15,6 @@ Format: "Category": {
 }
 """
 
-from ..dictionary.concept_idea_dictionary import *
 from ..dictionary.emotion_feeling_dictionary import *
 from ..dictionary.quality_dictionary import *
 from ..dictionary.small_movable_object_dictionary import *
@@ -28,10 +27,6 @@ level_nine_structure = {
   'Emotion Feeling': {
     "display_name": 'Emotion Feeling',
     "words": [N23_013, N23_010, N23_009, N23_008, N23_015, N23_024, N23_016, N23_023, N23_014, N23_019, N23_012, N23_017, N23_018]
-  },
-  'Concept Idea': {
-    "display_name": 'Concept Idea',
-    "words": [N17_021, N17_049, N17_062, N17_019, N17_022, N17_054, N17_020, N17_024, N17_046, N17_037, N17_058, N17_044, N17_030, N17_027, N17_036, N17_023, N17_031, N17_025, N17_039, N17_045, N17_029, N17_026, N17_034, N17_028, N17_057, N17_040, N17_052, N17_032, N17_038, N17_033, N17_051, N17_047, N17_041, N17_035, N17_050, N17_061, N17_063, N17_043, N17_048, N17_056, N17_055, N17_042, N17_059, N17_060, N17_053]
   },
   'Quality': {
     "display_name": 'Quality',

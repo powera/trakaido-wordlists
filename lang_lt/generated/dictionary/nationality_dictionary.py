@@ -21,7 +21,7 @@ N33_001 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 14,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -37,7 +37,7 @@ N33_002 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 14,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -53,7 +53,7 @@ N33_003 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 14,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -277,7 +277,7 @@ N33_017 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 14,
     'frequency_rank': None,
     'tags': [],
     'notes': ''

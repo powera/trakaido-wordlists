@@ -69,7 +69,7 @@ N07_004 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 8,
     'frequency_rank': 615,
     'tags': [],
     'notes': ''

@@ -15,6 +15,11 @@ from .level_twelve_structure import level_twelve_structure
 from .level_thirteen_structure import level_thirteen_structure
 from .level_fourteen_structure import level_fourteen_structure
 from .level_fifteen_structure import level_fifteen_structure
+from .level_sixteen_structure import level_sixteen_structure
+from .level_seventeen_structure import level_seventeen_structure
+from .level_eighteen_structure import level_eighteen_structure
+from .level_nineteen_structure import level_nineteen_structure
+from .level_twenty_structure import level_twenty_structure
 
 # Create a mapping for easy access
 level_structures = {
@@ -33,4 +38,9 @@ level_structures = {
     'level_thirteen': level_thirteen_structure,
     'level_fourteen': level_fourteen_structure,
     'level_fifteen': level_fifteen_structure,
+    'level_sixteen': level_sixteen_structure,
+    'level_seventeen': level_seventeen_structure,
+    'level_eighteen': level_eighteen_structure,
+    'level_nineteen': level_nineteen_structure,
+    'level_twenty': level_twenty_structure,
 }

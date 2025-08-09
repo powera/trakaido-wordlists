@@ -31,7 +31,7 @@ level_fourteen_structure = {
   },
   'Nationality': {
     "display_name": 'Nationality',
-    "words": [N33_011, N33_010, N33_006, N33_014, N33_005, N33_009, N33_007, N33_013, N33_008, N33_004, N33_012, N33_015, N33_016]
+    "words": [N33_011, N33_010, N33_006, N33_014, N33_005, N33_009, N33_007, N33_013, N33_008, N33_004, N33_012, N33_015, N33_016, N33_001, N33_002, N33_003, N33_017]
   },
   'Personal Name': {
     "display_name": 'Personal Name',

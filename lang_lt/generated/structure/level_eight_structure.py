@@ -16,17 +16,26 @@ Format: "Category": {
 """
 
 from ..dictionary.body_part_dictionary import *
+from ..dictionary.building_structure_dictionary import *
 from ..dictionary.clothing_accessory_dictionary import *
 from ..dictionary.human_dictionary import *
 from ..dictionary.material_substance_dictionary import *
-from ..dictionary.natural_feature_dictionary import *
+from ..dictionary.plant_dictionary import *
 from ..dictionary.pronoun_other_dictionary import *
 from ..dictionary.tool_machine_dictionary import *
 
 level_eight_structure = {
+  'Plant': {
+    "display_name": 'Plant',
+    "words": [N05_001, N05_005, N05_003, N05_006, N05_002, N05_004, N05_007, N05_008]
+  },
   'Clothing Accessory': {
     "display_name": 'Clothing Accessory',
     "words": [N09_004, N09_010, N09_013]
+  },
+  'Building Structure': {
+    "display_name": 'Building Structure',
+    "words": [N07_004]
   },
   'Tool Machine': {
     "display_name": 'Tool Machine',
@@ -35,10 +44,6 @@ level_eight_structure = {
   'Human': {
     "display_name": 'Human',
     "words": [N01_033, N01_031, N01_032, N01_036, N01_040, N01_034, N01_037, N01_035, N01_038, N01_039, N01_047, N01_048, N01_041, N01_043, N01_049, N01_054, N01_044, N01_053, N01_050, N01_045, N01_042, N01_046, N01_051, N01_052]
-  },
-  'Natural Feature': {
-    "display_name": 'Natural Feature',
-    "words": [N11_007, N11_004, N11_010, N11_006, N11_002, N11_001, N11_012, N11_005, N11_003, N11_009, N11_016, N11_008, N11_015, N11_011, N11_014, N11_018, N11_013, N11_017, N11_019, N11_032]
   },
   'Body Part': {
     "display_name": 'Body Part',

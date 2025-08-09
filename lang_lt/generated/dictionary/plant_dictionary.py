@@ -21,7 +21,7 @@ N05_001 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 8,
     'frequency_rank': 673,
     'tags': [],
     'notes': ''
@@ -37,7 +37,7 @@ N05_002 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 8,
     'frequency_rank': 2387,
     'tags': [],
     'notes': ''
@@ -53,7 +53,7 @@ N05_003 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 8,
     'frequency_rank': 1462,
     'tags': [],
     'notes': ''
@@ -69,7 +69,7 @@ N05_004 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 8,
     'frequency_rank': 2610,
     'tags': [],
     'notes': ''
@@ -85,7 +85,7 @@ N05_005 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 8,
     'frequency_rank': 1144,
     'tags': [],
     'notes': ''
@@ -101,9 +101,41 @@ N05_006 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 7,
+    'difficulty_level': 8,
     'frequency_rank': 1693,
     'tags': [],
     'notes': ''
+  }
+}
+
+N05_007 = {
+  'guid': 'N05_007',
+  'english': 'oak',
+  'lithuanian': 'ąžuolas',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 8,
+    'frequency_rank': 4873,
+    'tags': [],
+    'notes': 'Oaks are commonly found in temperate regions and are valued for their wood and ecological importance.'
+  }
+}
+
+N05_008 = {
+  'guid': 'N05_008',
+  'english': 'rose',
+  'lithuanian': 'rožė',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 8,
+    'frequency_rank': 736,
+    'tags': [],
+    'notes': 'Roses are popular in gardens and as cut flowers, often given as gifts.'
   }
 }

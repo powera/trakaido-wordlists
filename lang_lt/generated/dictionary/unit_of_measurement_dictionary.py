@@ -21,7 +21,7 @@ N34_001 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 12,
+    'difficulty_level': 17,
     'frequency_rank': 6784,
     'tags': [],
     'notes': ''
@@ -37,7 +37,7 @@ N34_002 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 12,
+    'difficulty_level': 17,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -53,7 +53,7 @@ N34_003 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 12,
+    'difficulty_level': 17,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -69,7 +69,7 @@ N34_004 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 12,
+    'difficulty_level': 17,
     'frequency_rank': 2519,
     'tags': [],
     'notes': ''
@@ -85,7 +85,7 @@ N34_005 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 12,
+    'difficulty_level': 17,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -101,7 +101,7 @@ N34_006 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 12,
+    'difficulty_level': 17,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -117,7 +117,7 @@ N34_007 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 12,
+    'difficulty_level': 17,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -133,7 +133,7 @@ N34_008 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 12,
+    'difficulty_level': 17,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -149,7 +149,7 @@ N34_009 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 12,
+    'difficulty_level': 17,
     'frequency_rank': 1964,
     'tags': [],
     'notes': 'Original form: degree (temp.)'
@@ -165,7 +165,7 @@ N34_010 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 12,
+    'difficulty_level': 17,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -181,7 +181,7 @@ N34_011 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 12,
+    'difficulty_level': 17,
     'frequency_rank': None,
     'tags': [],
     'notes': ''

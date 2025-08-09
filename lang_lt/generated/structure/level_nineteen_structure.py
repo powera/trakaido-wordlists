@@ -1,5 +1,5 @@
 """
-Nouns Seven - Category Structure
+Nouns Nineteen - Category Structure
 
 This file contains the organizational structure mapping categories to word objects.
 Each category contains a list of word objects imported from the dictionary files.
@@ -15,6 +15,11 @@ Format: "Category": {
 }
 """
 
-level_seven_structure = {
-  # No words available at this difficulty level
+from ..dictionary.personal_name_dictionary import *
+
+level_nineteen_structure = {
+  'Personal Name': {
+    "display_name": 'Personal Name',
+    "words": [N29_004, N29_005, N29_006, N29_007, N29_008, N29_009, N29_012, N29_013]
+  },
 }

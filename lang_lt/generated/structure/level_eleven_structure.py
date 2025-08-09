@@ -15,21 +15,11 @@ Format: "Category": {
 }
 """
 
-from ..dictionary.conjunction_other_dictionary import *
-from ..dictionary.quality_dictionary import *
-from ..dictionary.temporal_name_dictionary import *
+from ..dictionary.food_drink_dictionary import *
 
 level_eleven_structure = {
-  'Temporal Name': {
-    "display_name": 'Temporal Name',
-    "words": [N32_012, N32_010, N32_015, N32_013, N32_014, N32_011, N32_017, N32_016, N32_019, N32_008, N32_018, N32_009, N32_006, N32_005, N32_007, N32_001, N32_004, N32_002, N32_003]
-  },
-  'Quality': {
-    "display_name": 'Quality',
-    "words": [A05_035, A05_046, A05_001, A05_045, A05_040, A05_036, A05_038, A05_041, A05_044, A05_042, A05_037, A05_003, A05_039, A05_047, A05_006, A05_002, A05_043, A05_011, A05_009, A05_005, A05_014, A05_013, A05_004, A05_007, A05_010]
-  },
-  'Conjunction Other': {
-    "display_name": 'Conjunction Other',
-    "words": [C99_001, C99_011, C99_008, C99_006, C99_017, C99_004, C99_009, C99_010, C99_003, C99_002, C99_007, C99_016, C99_015, C99_014, C99_012, C99_013, C99_005]
+  'Food Drink': {
+    "display_name": 'Food Drink',
+    "words": [N06_008, N06_011, N06_009, N06_039, N06_022, N06_010, N06_017, N06_038, N06_066, N06_030, N06_076, N06_028, N06_042, N06_023, N06_019, N06_040, N06_077, N06_074, N06_073, N06_068, N06_036, N06_033, N06_078, N06_060, N06_062, N06_031, N06_041, N06_061, N06_079, N06_048, N06_049, N06_026, N06_058, N06_027, N06_063, N06_045, N06_053, N06_083, N06_065, N06_035, N06_082, N06_044, N06_057, N06_067, N06_056, N06_047, N06_081, N06_032, N06_080, N06_072, N06_025, N06_034, N06_024, N06_029, N06_037, N06_043, N06_046, N06_050, N06_051, N06_052, N06_054, N06_055, N06_059, N06_064, N06_069, N06_070, N06_071, N06_075, N06_084]
   },
 }

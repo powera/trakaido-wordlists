@@ -63,4 +63,19 @@ levels = {
         {"corpus": "phrases_one", "group": "Restaurant"},
         {"corpus": "phrases_one", "group": "Personal Comfort"},
     ],
+    "level_16": [
+        # No verbs or phrases in level 16
+    ],
+    "level_17": [
+        # No verbs or phrases in level 17
+    ],
+    "level_18": [
+        # No verbs or phrases in level 18
+    ],
+    "level_19": [
+        # No verbs or phrases in level 19
+    ],
+    "level_20": [
+        # No verbs or phrases in level 20
+    ],
 }

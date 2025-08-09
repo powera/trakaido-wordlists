@@ -1,5 +1,5 @@
 """
-Nouns Seven - Category Structure
+Nouns Twenty - Category Structure
 
 This file contains the organizational structure mapping categories to word objects.
 Each category contains a list of word objects imported from the dictionary files.
@@ -15,6 +15,6 @@ Format: "Category": {
 }
 """
 
-level_seven_structure = {
+level_twenty_structure = {
   # No words available at this difficulty level
 }

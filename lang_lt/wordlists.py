@@ -24,17 +24,29 @@ class WordListManager:
         
         # Convert level_1 to level_one format
         level_number = level_name.split('_')[1]
-        level_word_map = {
-            '1': 'one', '2': 'two', '3': 'three', '4': 'four', '5': 'five',
-            '6': 'six', '7': 'seven', '8': 'eight', '9': 'nine', '10': 'ten',
-            '11': 'eleven', '12': 'twelve', '13': 'thirteen', '14': 'fourteen', '15': 'fifteen'
-        }
         
-        if level_number not in level_word_map:
+        # More scalable approach using a function for number-to-word conversion
+        def number_to_word(n):
+            """Convert number to word form for levels 1-100."""
+            ones = ['', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine',
+                   'ten', 'eleven', 'twelve', 'thirteen', 'fourteen', 'fifteen', 'sixteen',
+                   'seventeen', 'eighteen', 'nineteen']
+            tens = ['', '', 'twenty', 'thirty', 'forty', 'fifty', 'sixty', 'seventy', 'eighty', 'ninety']
+            
+            if n < 20:
+                return ones[n]
+            elif n < 100:
+                return tens[n // 10] + ('' if n % 10 == 0 else '_' + ones[n % 10])
+            else:
+                return str(n)  # Fallback for numbers > 99
+        
+        try:
+            level_num = int(level_number)
+            level_word = number_to_word(level_num)
+        except ValueError:
             self._level_cache[level_name] = {}
             return {}
         
-        level_word = level_word_map[level_number]
         level_key = f"level_{level_word}"
         
         # Get the structure data from the imported level_structures
@@ -74,7 +86,7 @@ _word_manager = WordListManager()
 def _get_generated_levels():
     """Get word lists from generated per-level structure."""
     generated_levels = {}
-    for level_num in range(1, 16):  # levels 1-15
+    for level_num in range(1, 21):  # levels 1-20
         level_name = f"level_{level_num}"
         generated_levels[level_name] = _word_manager.get_level(level_name)
     return generated_levels
