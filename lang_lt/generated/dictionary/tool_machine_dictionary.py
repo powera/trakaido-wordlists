@@ -571,3 +571,35 @@ N12_035 = {
     'notes': ''
   }
 }
+
+N12_036 = {
+  'guid': 'N12_036',
+  'english': 'calculator',
+  'lithuanian': 'skaičiuotuvas',
+  'alternatives': {
+    'english': ['electronic calculator', 'pocket calculator'],
+    'lithuanian': ['elektroninis skaičiuotuvas', 'kalkuliatorius', 'kišeninis skaičiuotuvas']
+  },
+  'metadata': {
+    'difficulty_level': 8,
+    'frequency_rank': None,
+    'tags': [],
+    'notes': 'Translations given refer to the common device meaning (a calculating machine). Lithuanian: skaičiuotuvas is the standard term; kalkuliatorius is a less common variant. French calculatrice is the usual feminine noun (calculateur exists but is less common). Vietnamese máy tính can also mean "computer"; more specific "máy tính bỏ túi" or "máy tính cầm tay" = pocket calculator. Swahili kikokotoo is the common word for a (pocket) calculator. All forms are provided in their base/lemma forms.'
+  }
+}
+
+N12_037 = {
+  'guid': 'N12_037',
+  'english': 'blender',
+  'lithuanian': 'blenderis',
+  'alternatives': {
+    'english': ['liquidizer', 'mixer'],
+    'lithuanian': ['maišytuvas']
+  },
+  'metadata': {
+    'difficulty_level': 8,
+    'frequency_rank': None,
+    'tags': [],
+    'notes': "Commonly refers to an upright, countertop appliance for blending liquids and soft solids. Many languages also use loanwords (e.g., 'blenderis' in Lithuanian). Distinct from a food processor, which is usually for thicker chopping/slicing tasks."
+  }
+}

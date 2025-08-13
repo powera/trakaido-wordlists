@@ -16,10 +16,15 @@ Format: "Category": {
 """
 
 from ..dictionary.animal_dictionary import *
+from ..dictionary.food_drink_dictionary import *
 from ..dictionary.location_dictionary import *
 from ..dictionary.style_dictionary import *
 
 level_ten_structure = {
+  'Food Drink': {
+    "display_name": 'Food Drink',
+    "words": [N06_085, N06_086, N06_087, N06_088]
+  },
   'Animal': {
     "display_name": 'Animal',
     "words": [N02_011, N02_012, N02_013, N02_014, N02_015, N02_016]

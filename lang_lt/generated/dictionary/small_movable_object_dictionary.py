@@ -299,3 +299,131 @@ N08_018 = {
     'notes': ''
   }
 }
+
+N08_019 = {
+  'guid': 'N08_019',
+  'english': 'pen',
+  'lithuanian': 'rašiklis',
+  'alternatives': {
+    'english': ['ballpoint pen', 'fountain pen', 'writing instrument'],
+    'lithuanian': ['plunksnakotis', 'tušinukas']
+  },
+  'metadata': {
+    'difficulty_level': 9,
+    'frequency_rank': 3778,
+    'tags': [],
+    'notes': "This entry focuses on 'pen' as a writing instrument (Lithuanian 'rašiklis'). The English word 'pen' has other meanings (e.g., an enclosure for animals or the verb 'to pen'), which are excluded here per instructions. In Lithuanian, 'rašiklis' is the general term; 'tušinukas' commonly denotes a ballpoint pen and 'plunksnakotis' an older/quill-style pen. All translations provided are base (lemma) forms."
+  }
+}
+
+N08_020 = {
+  'guid': 'N08_020',
+  'english': 'pencil',
+  'lithuanian': 'pieštukas',
+  'alternatives': {
+    'english': [],
+    'lithuanian': ['grafitinis pieštukas']
+  },
+  'metadata': {
+    'difficulty_level': 9,
+    'frequency_rank': 5506,
+    'tags': [],
+    'notes': 'Primary meaning treated as the common, countable noun (singular). Do not confuse with the verbal idiom "to pencil (in)" (to provisionally schedule), which is a different POS (verb). Lithuanian pieštukas is the standard term; "grafitinis pieštukas" specifies a graphite pencil. French crayon is the usual translation but can also mean other drawing sticks (context distinguishes). Swahili often borrows \'penseli\' for pencil.'
+  }
+}
+
+N08_021 = {
+  'guid': 'N08_021',
+  'english': 'knife',
+  'lithuanian': 'peilis',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 9,
+    'frequency_rank': 971,
+    'tags': [],
+    'notes': "Primary meaning treated as a countable noun (singular lemma 'knife'). The word can refer to many specific types (kitchen knife, pocketknife, butcher's knife, dagger) but those are separate lemmas. In English 'knife' can also be used as a verb ('to knife' = to stab), but this entry focuses only on the noun. Chinese often uses 刀子 (刀子) in colloquial speech and specific knives have names like 菜刀 (cleaver). All translations are given in base/lemma form."
+  }
+}
+
+N08_022 = {
+  'guid': 'N08_022',
+  'english': 'comb',
+  'lithuanian': 'šukos',
+  'alternatives': {
+    'english': ['comb (verb: to comb)'],
+    'lithuanian': ['šukė (retai, singuliarinė forma)']
+  },
+  'metadata': {
+    'difficulty_level': 9,
+    'frequency_rank': 10053,
+    'tags': [],
+    'notes': "Primary meaning given: the grooming tool. Lithuanian šukos is commonly used as a plural-form lemma (pluralia tantum) for 'comb'; a singular form šukė exists but is less common. Chinese and Korean also have related verb forms (梳, 빗다) and French has the verb peigner — those are not the focus here. Swahili single-word equivalents vary by region; a descriptive phrase (kifaa cha kupamba nywele = 'tool for arranging hair') is provided to avoid incorrect single-word guesses."
+  }
+}
+
+N08_023 = {
+  'guid': 'N08_023',
+  'english': 'toothbrush',
+  'lithuanian': 'dantų šepetėlis',
+  'alternatives': {
+    'english': ['tooth brush'],
+    'lithuanian': ['dantų šepetukas', 'šepetėlis (kol.)']
+  },
+  'metadata': {
+    'difficulty_level': 9,
+    'frequency_rank': 10555,
+    'tags': [],
+    'notes': 'Countable, everyday personal hygiene item. Variants include electric toothbrush (electric dantų šepetėlis / 電動牙刷 / 전동칫솔 / brosse à dents électrique / mswaki wa umeme / bàn chải đánh răng điện) and toothbrush head (replaceable part). Translations given are the common, base-form equivalents in each language.'
+  }
+}
+
+N08_024 = {
+  'guid': 'N08_024',
+  'english': 'string',
+  'lithuanian': 'vervelė',
+  'alternatives': {
+    'english': ['cord', 'thread', 'twine'],
+    'lithuanian': ['siūlas', 'virvutė']
+  },
+  'metadata': {
+    'difficulty_level': 9,
+    'frequency_rank': 9304,
+    'tags': [],
+    'notes': 'This entry focuses on the physical object sense of "string" (as translated by Lithuanian "vervelė"). The English lemma "string" also has other senses (e.g., a sequence of characters in computing, a series of items, or a musical instrument string) which are not covered here; those senses map to different translations in other languages. Translations provided are the most common, base-form equivalents for the physical cord/thread sense.'
+  }
+}
+
+N08_025 = {
+  'guid': 'N08_025',
+  'english': 'candle',
+  'lithuanian': 'žvakė',
+  'alternatives': {
+    'english': ['taper', 'tealight', 'votive'],
+    'lithuanian': ['žvakutė']
+  },
+  'metadata': {
+    'difficulty_level': 9,
+    'frequency_rank': 3786,
+    'tags': [],
+    'notes': 'Common materials: paraffin, beeswax, soy. Types include tapers (long thin), votive, pillar, and tealight. Candles are used for lighting, decoration, ceremonies, and scent. All translations are given in base (lemma) form and the entry focuses on the primary, literal meaning (an object that produces light when lit).'
+  }
+}
+
+N08_026 = {
+  'guid': 'N08_026',
+  'english': 'spatula',
+  'lithuanian': 'mentelė',
+  'alternatives': {
+    'english': ['scraper', 'turner'],
+    'lithuanian': ['kepimo mentelė', 'lopetėlė']
+  },
+  'metadata': {
+    'difficulty_level': 9,
+    'frequency_rank': 10808,
+    'tags': [],
+    'notes': "'Spatula' covers several related kitchen tools: rubber/silicone spatulas used for scraping and mixing (often called 刮刀/抹刀 in Chinese or 'rubber spatula' in English), and flat metal or plastic turners used for flipping (often called 锅铲/铲子 or 'turner'). Translations vary by type and region—e.g., Chinese: 刮刀 (scraper/rubber spatula) vs. 锅铲 (wok/turner); Korean: 주걱 (general scoop/scraper) vs. 뒤집개 (turner); French 'spatule' covers both. Swahili often borrows 'spatula' from English. Provided translations are base/lemma forms and focus on the common kitchen-tool meaning."
+  }
+}
