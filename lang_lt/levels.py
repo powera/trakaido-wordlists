@@ -75,6 +75,6 @@ levels = {
         # No verbs or phrases in level 19
     ],
     "level_20": [
-        # No verbs or phrases in level 20
+        {"corpus": "sentences_twenty", "group": "Generated Sentences"},
     ],
 }

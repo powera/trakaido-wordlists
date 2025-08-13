@@ -97,6 +97,7 @@ _generated_levels = _get_generated_levels()
 # Import legacy data for non-noun corpora (until they're migrated)
 from .verbs import *
 from .phrases import *
+from .sentences_integration import load_sentences
 
 # Create all_words structure with per-level nouns and legacy verbs/phrases
 all_words = {}
@@ -105,12 +106,13 @@ all_words = {}
 for level_name, level_data in _generated_levels.items():
     all_words[level_name] = level_data
 
-# Add legacy verbs and phrases
+# Add legacy verbs, phrases, and sentences
 all_words.update({
     "verbs_present": verbs_present,
     "verbs_past": verbs_past,
     "verbs_future": verbs_future,
     "phrases_one": phrases_one,
+    "sentences_twenty": {"Generated Sentences": load_sentences(20)},
 })
 
 # Utility functions for backward compatibility
@@ -245,8 +247,8 @@ def get_words_by_level_enhanced(level_name):
             corpus = level_item["corpus"]
             group = level_item["group"]
             
-            # Only process verbs and phrases (skip noun corpora that are now per-level)
-            if corpus.startswith(('verbs_', 'phrases_')) and corpus in all_words and group in all_words[corpus]:
+            # Only process verbs, phrases, and sentences (skip noun corpora that are now per-level)
+            if corpus.startswith(('verbs_', 'phrases_', 'sentences_')) and corpus in all_words and group in all_words[corpus]:
                 # Add corpus and group info to each word
                 for word_pair in all_words[corpus][group]:
                     enhanced_word = word_pair.copy()

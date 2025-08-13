@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "level": "level_20",
+    "total_sentences": 10,
+    "generated_date": "2025-08-01",
+    "description": "Simple sentences for Lithuanian learning level 20 - SVO and SVAO patterns only",
+    "version": "final",
+    "patterns_used": [
+      "SVO",
+      "SVAO"
+    ],
+    "llm_quality_control": true,
+    "dictionaries_used": {
+      "animals": 16,
+      "foods": 88,
+      "buildings": 17,
+      "colors": 8,
+      "objects": 26,
+      "humans": 63
+    }
+  },
+  "sentences": [
+    {
+      "english": "She will eat a red cherry.",
+      "lithuanian": "Ji valgys raudoną vyšnią.",
+      "color_used": "raudona",
+      "llm_generated": true,
+      "subject": "she",
+      "verb": "eat",
+      "object": "cherry",
+      "tense": "future",
+      "pattern": "SVAO"
+    },
+    {
+      "english": "The doctor will find the tiger.",
+      "lithuanian": "Gydytojas ras tigrą.",
+      "color_used": "",
+      "llm_generated": true,
+      "subject": "doctor",
+      "verb": "find",
+      "object": "tiger",
+      "tense": "future",
+      "pattern": "SVO"
+    },
+    {
+      "english": "The nurse buys a black wallet.",
+      "lithuanian": "Slaugytoja pirka juodą piniginę.",
+      "color_used": "black",
+      "llm_generated": true,
+      "subject": "nurse",
+      "verb": "buy",
+      "object": "wallet",
+      "tense": "present",
+      "pattern": "SVAO",
+      "adjective": "black",
+      "adjective_guid": "A02_001"
+    },
+    {
+      "english": "You have a red grape.",
+      "lithuanian": "Tu turi raudoną vynuogę.",
+      "color_used": "red",
+      "llm_generated": true,
+      "subject": "you",
+      "verb": "have",
+      "object": "grape",
+      "tense": "present",
+      "pattern": "SVAO",
+      "adjective": "red",
+      "adjective_guid": "A02_003"
+    },
+    {
+      "english": "The nurse will see a red cherry.",
+      "lithuanian": "Slaugytoja pamatys raudoną vyšnią.",
+      "color_used": "red",
+      "llm_generated": true,
+      "subject": "nurse",
+      "verb": "see",
+      "object": "cherry",
+      "tense": "future",
+      "pattern": "SVAO",
+      "adjective": "red",
+      "adjective_guid": "A02_003"
+    },
+    {
+      "english": "The baker will find broccoli.",
+      "lithuanian": "Kepėjas ras brokoliai.",
+      "color_used": "",
+      "llm_generated": true,
+      "subject": "baker",
+      "verb": "find",
+      "object": "broccoli",
+      "tense": "future",
+      "pattern": "SVO"
+    },
+    {
+      "english": "The doctor has a red string.",
+      "lithuanian": "Gydytojas turi raudoną vervelę.",
+      "color_used": "red",
+      "llm_generated": true,
+      "subject": "doctor",
+      "verb": "have",
+      "object": "string",
+      "tense": "present",
+      "pattern": "SVAO",
+      "adjective": "red",
+      "adjective_guid": "A02_003"
+    },
+    {
+      "english": "The baker has a yellow banana.",
+      "lithuanian": "Kepėjas turi geltoną bananą.",
+      "color_used": "yellow",
+      "llm_generated": true,
+      "subject": "baker",
+      "verb": "have",
+      "object": "banana",
+      "tense": "present",
+      "pattern": "SVAO",
+      "adjective": "yellow",
+      "adjective_guid": "A02_006"
+    },
+    {
+      "english": "The black horse finds lamb meat.",
+      "lithuanian": "Juodas arklys randa ėrieną.",
+      "color_used": "black",
+      "llm_generated": true,
+      "subject": "horse",
+      "verb": "find",
+      "object": "lamb",
+      "tense": "present",
+      "pattern": "SVAO",
+      "adjective": "black",
+      "adjective_guid": "A02_001"
+    },
+    {
+      "english": "The nurse will buy a gray sandwich.",
+      "lithuanian": "Slaugytoja pirks pilką sumuštinį.",
+      "color_used": "gray",
+      "llm_generated": true,
+      "subject": "nurse",
+      "verb": "buy",
+      "object": "sandwich",
+      "tense": "future",
+      "pattern": "SVAO",
+      "adjective": "gray",
+      "adjective_guid": "A02_008"
+    }
+  ]
+}
