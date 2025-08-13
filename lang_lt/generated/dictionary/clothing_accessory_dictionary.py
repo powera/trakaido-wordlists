@@ -56,7 +56,7 @@ N09_003 = {
     'difficulty_level': 1,
     'frequency_rank': 1231,
     'tags': [],
-    'notes': ''
+    'notes': '[2025-08-12 20:48] Updated with gpt-5-nano'
   }
 }
 
@@ -217,5 +217,69 @@ N09_013 = {
     'frequency_rank': 7750,
     'tags': [],
     'notes': "The primary meaning refers to the clothing item. 'Skirt' as a verb (to go around the edge of something) is less common and not analyzed here."
+  }
+}
+
+N09_014 = {
+  'guid': 'N09_014',
+  'english': 'bra',
+  'lithuanian': 'liemenėlė',
+  'alternatives': {
+    'english': ['brassiere'],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 8,
+    'frequency_rank': 8382,
+    'tags': [],
+    'notes': "Primary, common meaning: an undergarment for supporting women's breasts. Many languages borrow the English form (e.g., Korean '브라', Swahili 'bra'). Chinese also commonly uses the synonym '文胸'. French uses the compound 'soutien-gorge'. Be aware of register and cultural contexts when discussing intimate apparel."
+  }
+}
+
+N09_015 = {
+  'guid': 'N09_015',
+  'english': 'belt',
+  'lithuanian': 'diržas',
+  'alternatives': {
+    'english': ['girdle', 'sash'],
+    'lithuanian': ['dirželis', 'juosta']
+  },
+  'metadata': {
+    'difficulty_level': 8,
+    'frequency_rank': 2234,
+    'tags': [],
+    'notes': "This entry treats 'belt' in its primary, most common sense as a clothing accessory. 'Belt' can also be a verb (e.g., to hit or to sing loudly) or refer to other belt-like objects (e.g., conveyor belt); those senses are outside this analysis. Translations given are the common, generic terms for a waist belt in each language."
+  }
+}
+
+N09_016 = {
+  'guid': 'N09_016',
+  'english': 'earring',
+  'lithuanian': 'auskaras',
+  'alternatives': {
+    'english': ['earrings'],
+    'lithuanian': ['auskarai']
+  },
+  'metadata': {
+    'difficulty_level': 8,
+    'frequency_rank': 10500,
+    'tags': [],
+    'notes': "Lemma provided as singular noun (earring / auskaras). Common types include stud, hoop, and drop earrings; they may be worn on the earlobe or other ear cartilage. Swahili translation is descriptive ('piece of jewelry') and regional usage may vary; confidence slightly lower for that specific term."
+  }
+}
+
+N09_017 = {
+  'guid': 'N09_017',
+  'english': 'ring',
+  'lithuanian': 'žiedas',
+  'alternatives': {
+    'english': ['band'],
+    'lithuanian': ['piršto žiedas', 'žiedelis']
+  },
+  'metadata': {
+    'difficulty_level': 8,
+    'frequency_rank': 1723,
+    'tags': [],
+    'notes': "This entry focuses on the noun sense meaning a finger-worn circular jewel (English 'ring' = Lithuanian 'žiedas'). 'Ring' has other senses (e.g., the verb 'to ring', the sound 'a ring', or a circular shape/structure) which are not covered here. In Lithuanian, 'žiedas' can also refer to circular structures (e.g., ring road) depending on context; 'piršto žiedas' explicitly means 'finger ring'. The noun is countable (one ring, two rings)."
   }
 }

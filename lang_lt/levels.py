@@ -32,20 +32,17 @@ levels = {
     "level_8": [
     ],
     "level_9": [
-        {"corpus": "verbs_present", "group": "Movement & Travel"},
-        {"corpus": "verbs_past", "group": "Movement & Travel"},
-        {"corpus": "verbs_present", "group": "Learning & Knowledge"},
-        {"corpus": "verbs_past", "group": "Learning & Knowledge"},
     ],
     "level_10": [
         {"corpus": "phrases_one", "group": "Greetings"},
+        {"corpus": "verbs_present", "group": "Learning & Knowledge"},
+        {"corpus": "verbs_past", "group": "Learning & Knowledge"},
     ],
     "level_11": [
         # No verbs or phrases in level 11
     ],
     "level_12": [
         {"corpus": "verbs_future", "group": "Basic Needs & Daily Life"},
-        {"corpus": "verbs_future", "group": "Movement & Travel"},
         {"corpus": "verbs_future", "group": "Mental & Emotional"},
         {"corpus": "verbs_future", "group": "Sensory Perception"},
         {"corpus": "verbs_future", "group": "Learning & Knowledge"},
@@ -55,7 +52,9 @@ levels = {
         # No verbs or phrases in level 13
     ],
     "level_14": [
-        # No verbs or phrases in level 14
+        {"corpus": "verbs_future", "group": "Movement & Travel"},
+        {"corpus": "verbs_present", "group": "Movement & Travel"},
+        {"corpus": "verbs_past", "group": "Movement & Travel"},
     ],
     "level_15": [
         {"corpus": "phrases_one", "group": "Asking for Directions"},

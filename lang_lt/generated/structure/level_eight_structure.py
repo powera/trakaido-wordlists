@@ -31,7 +31,7 @@ level_eight_structure = {
   },
   'Clothing Accessory': {
     "display_name": 'Clothing Accessory',
-    "words": [N09_004, N09_010, N09_013]
+    "words": [N09_004, N09_010, N09_013, N09_014, N09_015, N09_016, N09_017]
   },
   'Building Structure': {
     "display_name": 'Building Structure',

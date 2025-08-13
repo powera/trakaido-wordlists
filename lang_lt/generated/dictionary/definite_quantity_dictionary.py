@@ -472,7 +472,7 @@ A11_029 = {
     'difficulty_level': 4,
     'frequency_rank': None,
     'tags': [],
-    'notes': ''
+    'notes': '[2025-08-12 20:53] Updated with gpt-5-nano'
   }
 }
 
@@ -488,6 +488,6 @@ A11_030 = {
     'difficulty_level': 4,
     'frequency_rank': None,
     'tags': [],
-    'notes': ''
+    'notes': '[2025-08-12 20:53] Updated with gpt-5-nano'
   }
 }

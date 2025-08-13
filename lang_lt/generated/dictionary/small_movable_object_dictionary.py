@@ -120,7 +120,7 @@ N08_007 = {
     'difficulty_level': 2,
     'frequency_rank': 1233,
     'tags': [],
-    'notes': ''
+    'notes': '[2025-08-12 20:54] Updated with gpt-5-mini'
   }
 }
 
