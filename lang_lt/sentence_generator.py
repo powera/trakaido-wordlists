@@ -56,9 +56,14 @@ class SimpleSentenceGenerator:
         self.colors = self._load_dictionary("color_dictionary.py")
         self.objects = self._load_dictionary("small_movable_object_dictionary.py")
         self.humans = self._load_dictionary("human_dictionary.py")
+        self.clothing = self._load_dictionary("clothing_accessory_dictionary.py")
+        self.body_parts = self._load_dictionary("body_part_dictionary.py")
+        self.tools = self._load_dictionary("tool_machine_dictionary.py")
+        self.locations = self._load_dictionary("location_dictionary.py")
         
         # Debug log dictionary sizes
         logger.debug(f"Loaded dictionaries: animals={len(self.animals)}, foods={len(self.foods)}, buildings={len(self.buildings)}, colors={len(self.colors)}, objects={len(self.objects)}, humans={len(self.humans)}")
+        logger.debug(f"Additional dictionaries: clothing={len(self.clothing)}, body_parts={len(self.body_parts)}, tools={len(self.tools)}, locations={len(self.locations)}")
         
         # Load adjective dictionaries
         self.quality_raw = self._load_dictionary("quality_dictionary.py")
@@ -74,23 +79,6 @@ class SimpleSentenceGenerator:
         
         # Debug log filtered dictionary sizes
         logger.debug(f"Filtered dictionaries: quality={len(self.quality)} (from {len(self.quality_raw)}), numbers={len(self.numbers)} (from {len(self.numbers_raw)})")
-        
-        # Add hard-coded GUIDs for numbers (in case they're missing from the dictionary)
-        number_guids = {
-            "one": "A11_002",
-            "two": "A11_003", 
-            "three": "A11_004",
-            "four": "A11_005",
-            "five": "A11_006",
-            "six": "A11_007",
-            "seven": "A11_008",
-            "eight": "A11_009"
-        }
-        
-        # Ensure all numbers have GUIDs
-        for num_en, guid in number_guids.items():
-            if num_en in self.numbers and 'guid' not in self.numbers[num_en]:
-                self.numbers[num_en]['guid'] = guid
         
         # Subjects with cases and GUIDs
         self.pronouns = {
@@ -129,7 +117,11 @@ class SimpleSentenceGenerator:
                     "humans": self.humans,
                     "colors": self.colors,
                     "quality": self.quality,
-                    "numbers": self.numbers
+                    "numbers": self.numbers,
+                    "clothing": self.clothing,
+                    "body_parts": self.body_parts,
+                    "tools": self.tools,
+                    "locations": self.locations
                 }
                 
                 # Prepare Lithuanian grammar rules
@@ -201,14 +193,11 @@ class SimpleSentenceGenerator:
     def _load_verbs_from_file(self) -> Dict[str, Dict]:
         """Load verb conjugations from verbs.py"""
         # Define which verbs to use for level 20 and their compatibility
+        # ALL THESE VERBS SHOULD BE USED - comprehensive list for Lithuanian learning
         verb_config = {
-            "buy": {
-                "infinitive": "pirkti",
-                "compatible_objects": ["foods", "objects"],
-                "compatible_subjects": ["pronouns", "humans"]
-            },
+            # Basic Needs & Daily Life
             "eat": {
-                "infinitive": "valgyti", 
+                "infinitive": "valgyti",
                 "compatible_objects": ["foods"],
                 "compatible_subjects": ["pronouns", "humans"]
             },
@@ -217,15 +206,96 @@ class SimpleSentenceGenerator:
                 "compatible_objects": ["drinks"],
                 "compatible_subjects": ["pronouns", "humans"]
             },
+            "sleep": {
+                "infinitive": "miegoti",
+                "compatible_objects": [],
+                "compatible_subjects": ["pronouns", "humans", "animals"]
+            },
+            "live": {
+                "infinitive": "gyventi",
+                "compatible_objects": ["locations"],
+                "compatible_subjects": ["pronouns", "humans", "animals"]
+            },
+            "work": {
+                "infinitive": "dirbti",
+                "compatible_objects": ["locations"],
+                "compatible_subjects": ["pronouns", "humans"]
+            },
+            "play": {
+                "infinitive": "žaisti",
+                "compatible_objects": ["objects", "tools"],
+                "compatible_subjects": ["pronouns", "humans", "animals"]
+            },
+            
+            # Mental & Emotional
+            "like": {
+                "infinitive": "mėgti",
+                "compatible_objects": ["foods", "objects", "animals", "clothing"],
+                "compatible_subjects": ["pronouns", "humans"]
+            },
+            "know": {
+                "infinitive": "žinoti",
+                "compatible_objects": ["humans", "locations"],
+                "compatible_subjects": ["pronouns", "humans"]
+            },
+            "want": {
+                "infinitive": "norėti",
+                "compatible_objects": ["foods", "objects", "clothing", "tools"],
+                "compatible_subjects": ["pronouns", "humans"]
+            },
+            "can": {
+                "infinitive": "galėti",
+                "compatible_objects": [],
+                "compatible_subjects": ["pronouns", "humans"]
+            },
+            
+            # Sensory Perception
             "see": {
                 "infinitive": "matyti",
-                "compatible_objects": ["foods", "objects", "animals"],
+                "compatible_objects": ["foods", "objects", "animals", "clothing", "body_parts", "locations"],
                 "compatible_subjects": ["pronouns", "humans", "animals"]
+            },
+            "speak": {
+                "infinitive": "kalbėti",
+                "compatible_objects": [],
+                "compatible_subjects": ["pronouns", "humans"]
+            },
+            "listen": {
+                "infinitive": "klausyti",
+                "compatible_objects": ["humans"],
+                "compatible_subjects": ["pronouns", "humans"]
+            },
+            
+            # Actions & Transactions
+            "be": {
+                "infinitive": "būti",
+                "compatible_objects": ["locations"],
+                "compatible_subjects": ["pronouns", "humans", "animals", "objects"]
             },
             "have": {
                 "infinitive": "turėti",
-                "compatible_objects": ["foods", "objects"],
+                "compatible_objects": ["foods", "objects", "clothing", "tools", "body_parts"],
                 "compatible_subjects": ["pronouns", "humans", "animals"]
+            },
+            "buy": {
+                "infinitive": "pirkti",
+                "compatible_objects": ["foods", "objects", "clothing", "tools"],
+                "compatible_subjects": ["pronouns", "humans"]
+            },
+            "give": {
+                "infinitive": "duoti",
+                "compatible_objects": ["foods", "objects", "clothing", "tools"],
+                "compatible_subjects": ["pronouns", "humans"]
+            },
+            "take": {
+                "infinitive": "imti",
+                "compatible_objects": ["foods", "objects", "clothing", "tools"],
+                "compatible_subjects": ["pronouns", "humans"]
+            },
+            "make": {
+                "infinitive": "gaminti",
+                "compatible_objects": ["foods", "objects", "tools"],
+                "compatible_subjects": ["pronouns", "humans"]
             }
         }
         
@@ -320,6 +390,14 @@ class SimpleSentenceGenerator:
                 compatible_objects.extend(list(self.objects.items()))
             elif obj_type == "animals":
                 compatible_objects.extend(list(self.animals.items()))
+            elif obj_type == "clothing":
+                compatible_objects.extend(list(self.clothing.items()))
+            elif obj_type == "body_parts":
+                compatible_objects.extend(list(self.body_parts.items()))
+            elif obj_type == "tools":
+                compatible_objects.extend(list(self.tools.items()))
+            elif obj_type == "locations":
+                compatible_objects.extend(list(self.locations.items()))
         
         return compatible_objects
 
@@ -356,22 +434,42 @@ class SimpleSentenceGenerator:
         """Get correct English verb form"""
         if tense == "present":
             if subject in ["I", "you", "we", "they"]:
-                return verb
-            else:
-                if verb == "buy": return "buys"
+                # Special cases for irregular present forms
+                if verb == "be": return "am" if subject == "I" else ("are" if subject in ["you", "we", "they"] else "are")
+                elif verb == "can": return "can"
+                else: return verb
+            else:  # 3rd person singular (he, she, it, names)
+                # Irregular present 3rd person forms
+                if verb == "be": return "is"
                 elif verb == "have": return "has"
+                elif verb == "can": return "can"
+                elif verb == "buy": return "buys"
                 elif verb == "drink": return "drinks"
+                elif verb == "play": return "plays"
+                elif verb == "like": return "likes"
+                elif verb == "live": return "lives"
+                elif verb == "give": return "gives"
+                elif verb == "take": return "takes"
+                elif verb == "make": return "makes"
                 elif verb.endswith(('s', 'sh', 'ch', 'x', 'z')):
                     return verb + "es"
                 else: 
                     return verb + "s"
         elif tense == "past":
-            if verb == "buy": return "bought"
+            # Irregular past forms
+            if verb == "be": return "was" if subject in ["I", "he", "she"] else "were"
+            elif verb == "buy": return "bought"
             elif verb == "eat": return "ate"
             elif verb == "drink": return "drank"
             elif verb == "see": return "saw"
             elif verb == "have": return "had"
-            elif verb == "find": return "found"
+            elif verb == "sleep": return "slept"
+            elif verb == "know": return "knew"
+            elif verb == "speak": return "spoke"
+            elif verb == "give": return "gave"
+            elif verb == "take": return "took"
+            elif verb == "make": return "made"
+            elif verb == "can": return "could"
             else: return verb + "ed"
         else:  # future
             return f"will {verb}"
@@ -431,12 +529,8 @@ class SimpleSentenceGenerator:
 
     def _generate_sentence_with_llm(self, pattern: Dict[str, Any]) -> Optional[Dict[str, Any]]:
         """Use LLM to generate a complete sentence from the pattern"""
-        # Try to use the library's Lithuanian LLM generation if available
-        if hasattr(self.sentence_generator, 'generate_lithuanian_with_llm'):
-            return self.sentence_generator.generate_lithuanian_with_llm(pattern)
-        
-        # If library is not available, this method shouldn't be called
-        raise RuntimeError("Lithuanian sentence generation library not available")
+        # Use our own Lithuanian LLM generation method
+        return self.generate_lithuanian_with_llm(pattern)
 
     def generate_with_sentence_library(self, count: int = 10, model: str = "gpt-5-mini") -> List[Dict[str, Any]]:
         """Generate sentences using the sentence generation library"""
@@ -619,6 +713,77 @@ class SimpleSentenceGenerator:
         print(f"Generated {len(sentences)} sentences in {attempts} attempts")
         logger.debug(f"Sentence generation completed: generated={len(sentences)}, target={count}, attempts={attempts}, success_rate={len(sentences)/attempts*100:.1f}%")
         return sentences
+
+    def generate_lithuanian_with_llm(self, pattern: Dict[str, Any], 
+                                     model: str = "gpt-4o-mini") -> Optional[Dict[str, Any]]:
+        """
+        Use LLM to generate a Lithuanian sentence with proper grammar checking.
+        
+        Args:
+            pattern: Sentence pattern with word components
+            model: LLM model to use
+            
+        Returns:
+            Dictionary with generated sentences and metadata, or None if failed
+        """
+        if not self.llm_client:
+            return None
+            
+        # Get context about the words
+        subject_info = pattern['subject']['data'] if 'data' in pattern['subject'] else {}
+        verb_info = pattern['verb']
+        object_info = pattern['object']['data'] if 'data' in pattern['object'] else {}
+        
+        prompt = f"""Create a natural Lithuanian sentence for language learning using these components:
+
+Subject: {pattern['subject']['english']} (Lithuanian: {subject_info.get('lithuanian', 'unknown')})
+Verb: {pattern['verb']['english']} ({verb_info.get('infinitive', 'unknown')})
+Tense: {pattern['tense']}
+Object: {pattern['object']['english']} (Lithuanian: {object_info.get('lithuanian', 'unknown')})
+
+Requirements:
+1. Create a grammatically correct Lithuanian sentence using proper cases (nominative for subject, accusative for object)
+2. Use the correct verb conjugation for the tense and subject
+3. Other forms of the verb (such as prefixed or modified forms) are permitted if they are more natural
+4. Make sure the sentence is logical and natural
+5. Provide both English and Lithuanian versions"""
+        
+        # Define response schema
+        schema = Schema(
+            "LithuanianSentenceGeneration",
+            "Generated Lithuanian sentence with proper grammar",
+            {
+                "makes_sense": SchemaProperty("boolean", "Whether the sentence combination makes logical sense"),
+                "english": SchemaProperty("string", "Natural English sentence", required=False),
+                "lithuanian": SchemaProperty("string", "Grammatically correct Lithuanian sentence", required=False)
+            }
+        )
+        
+        try:
+            response = self.llm_client.generate_chat(
+                prompt=prompt,
+                model=model,
+                json_schema=schema
+            )
+            
+            result = response.structured_data
+            
+            if result.get("makes_sense", False):
+                return {
+                    "english": result.get("english", ""),
+                    "lithuanian": result.get("lithuanian", ""),
+                    "llm_generated": True,
+                    "pattern": pattern
+                }
+            else:
+                logger.debug(f"LLM rejected Lithuanian pattern: {result.get('reason', 'Unknown reason')}")
+                return None
+                
+        except Exception as e:
+            logger.debug(f"Lithuanian LLM generation failed: {e}")
+            return None
+    
+
 
 def main():
     """Main function with user interaction"""
