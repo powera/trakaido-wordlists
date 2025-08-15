@@ -21,7 +21,7 @@ from pathlib import Path
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-# Add the src directory to the path to import LLM clients
+# Add the src directory to the path to import LLM clients and sentence generation library
 sys.path.append(str(Path(__file__).parent.parent.parent.parent / "src"))
 
 try:
@@ -29,8 +29,18 @@ try:
     from clients.types import Schema, SchemaProperty
     LLM_AVAILABLE = True
 except ImportError:
-    print("Warning: LLM client not available. Running without LLM integration.")
+    print("LLM client not available. Running without LLM integration.")
     LLM_AVAILABLE = False
+
+try:
+    from lib.sentence_generation import SentenceGenerator
+    SENTENCE_LIB_AVAILABLE = True
+except ImportError:
+    print("Sentence generation library not available.")
+    SENTENCE_LIB_AVAILABLE = False
+
+# Import verb conjugations from verbs.py
+from verbs import verbs_new
 
 class SimpleSentenceGenerator:
     def __init__(self):
@@ -90,75 +100,8 @@ class SimpleSentenceGenerator:
             "they": {"nom": "jie", "acc": "juos", "gen": "jų", "guid": "PRON_006"},
         }
         
-        # Simple verbs for level 20 - only basic actions
-        self.verbs = {
-            "buy": {
-                "infinitive": "pirkti",
-                "present": {"I": "perku", "you": "perki", "he": "perka", "she": "perka", 
-                          "we": "perkame", "they": "perka", "animal": "perka", "person": "perka"},
-                "past": {"I": "pirkau", "you": "pirkai", "he": "pirko", "she": "pirko",
-                        "we": "pirkome", "they": "pirko", "animal": "pirko", "person": "pirko"},
-                "future": {"I": "pirksiu", "you": "pirksi", "he": "pirks", "she": "pirks",
-                          "we": "pirksime", "they": "pirks", "animal": "pirks", "person": "pirks"},
-                "compatible_objects": ["foods", "objects"],
-                "compatible_subjects": ["pronouns", "humans"]
-            },
-            "eat": {
-                "infinitive": "valgyti",
-                "present": {"I": "valgau", "you": "valgai", "he": "valgo", "she": "valgo",
-                          "we": "valgome", "they": "valgo", "animal": "valgo", "person": "valgo"},
-                "past": {"I": "valgiau", "you": "valgei", "he": "valgė", "she": "valgė",
-                        "we": "valgėme", "they": "valgė", "animal": "valgė", "person": "valgė"},
-                "future": {"I": "valgysiu", "you": "valgysi", "he": "valgys", "she": "valgys",
-                          "we": "valgysime", "they": "valgys", "animal": "valgys", "person": "valgys"},
-                "compatible_objects": ["foods"],
-                "compatible_subjects": ["pronouns", "humans"]
-            },
-            "drink": {
-                "infinitive": "gerti",
-                "present": {"I": "geriu", "you": "geri", "he": "geria", "she": "geria",
-                          "we": "geriame", "they": "geria", "animal": "geria", "person": "geria"},
-                "past": {"I": "gėriau", "you": "gėrei", "he": "gėrė", "she": "gėrė",
-                        "we": "gėrėme", "they": "gėrė", "animal": "gėrė", "person": "gėrė"},
-                "future": {"I": "gersiu", "you": "gersi", "he": "gers", "she": "gers",
-                          "we": "gersime", "they": "gers", "animal": "gers", "person": "gers"},
-                "compatible_objects": ["drinks"],
-                "compatible_subjects": ["pronouns", "humans"]
-            },
-            "see": {
-                "infinitive": "matyti",
-                "present": {"I": "matau", "you": "matai", "he": "mato", "she": "mato",
-                          "we": "matome", "they": "mato", "animal": "mato", "person": "mato"},
-                "past": {"I": "mačiau", "you": "matei", "he": "matė", "she": "matė",
-                        "we": "matėme", "they": "matė", "animal": "matė", "person": "matė"},
-                "future": {"I": "matysiu", "you": "matysi", "he": "matys", "she": "matys",
-                          "we": "matysime", "they": "matys", "animal": "matys", "person": "matys"},
-                "compatible_objects": ["foods", "objects", "animals"],
-                "compatible_subjects": ["pronouns", "humans", "animals"]
-            },
-            "have": {
-                "infinitive": "turėti",
-                "present": {"I": "turiu", "you": "turi", "he": "turi", "she": "turi",
-                          "we": "turime", "they": "turi", "animal": "turi", "person": "turi"},
-                "past": {"I": "turėjau", "you": "turėjai", "he": "turėjo", "she": "turėjo",
-                        "we": "turėjome", "they": "turėjo", "animal": "turėjo", "person": "turėjo"},
-                "future": {"I": "turėsiu", "you": "turėsi", "he": "turės", "she": "turės",
-                          "we": "turėsime", "they": "turės", "animal": "turės", "person": "turės"},
-                "compatible_objects": ["foods", "objects"],
-                "compatible_subjects": ["pronouns", "humans", "animals"]
-            },
-            "find": {
-                "infinitive": "rasti",
-                "present": {"I": "randu", "you": "randi", "he": "randa", "she": "randa",
-                          "we": "randame", "they": "randa", "animal": "randa", "person": "randa"},
-                "past": {"I": "radau", "you": "radai", "he": "rado", "she": "rado",
-                        "we": "radome", "they": "rado", "animal": "rado", "person": "rado"},
-                "future": {"I": "rasiu", "you": "rasi", "he": "ras", "she": "ras",
-                          "we": "rasime", "they": "ras", "animal": "ras", "person": "ras"},
-                "compatible_objects": ["foods", "objects", "animals"],
-                "compatible_subjects": ["pronouns", "humans", "animals"]
-            }
-        }
+        # Load verbs from verbs.py or use fallback
+        self.verbs = self._load_verbs_from_file()
         
         # Gender mapping for common words (simplified)
         self.word_genders = {
@@ -191,6 +134,49 @@ class SimpleSentenceGenerator:
                 self.llm_client = UnifiedLLMClient()
             except Exception as e:
                 print(f"Warning: Could not initialize LLM client: {e}")
+        
+        # Initialize sentence generation library if available
+        self.sentence_generator = None
+        if SENTENCE_LIB_AVAILABLE and self.llm_client:
+            try:
+                # Prepare word matrices for the sentence generation library
+                word_matrices = {
+                    "verbs": self.verbs,
+                    "pronouns": self.pronouns,
+                    "animals": self.animals,
+                    "foods": self.foods,
+                    "objects": self.objects,
+                    "humans": self.humans,
+                    "colors": self.colors,
+                    "quality": self.quality,
+                    "numbers": self.numbers
+                }
+                
+                # Prepare Lithuanian grammar rules
+                grammar_rules = {
+                    "lt": {
+                        "cases": {
+                            "accusative": {
+                                "endings": {"default": "ą"}  # Simplified
+                            }
+                        },
+                        "verb_conjugation": {
+                            "present": {"default": ""},
+                            "past": {"default": ""},
+                            "future": {"default": ""}
+                        }
+                    }
+                }
+                
+                self.sentence_generator = SentenceGenerator(
+                    word_matrices=word_matrices,
+                    grammar_rules=grammar_rules,
+                    llm_client=self.llm_client
+                )
+                logger.debug("Sentence generation library initialized successfully")
+            except Exception as e:
+                print(f"Warning: Could not initialize sentence generation library: {e}")
+                logger.debug(f"Sentence generation library initialization failed: {e}")
 
     def _load_dictionary(self, filename: str) -> Dict[str, Dict]:
         """Load a dictionary file and extract word entries"""
@@ -221,6 +207,90 @@ class SimpleSentenceGenerator:
             
         logger.debug(f"Dictionary loaded: {filename} contains {len(words)} words")
         return words
+
+    def _load_verbs_from_file(self) -> Dict[str, Dict]:
+        """Load verb conjugations from verbs.py"""
+        # Define which verbs to use for level 20 and their compatibility
+        verb_config = {
+            "buy": {
+                "infinitive": "pirkti",
+                "compatible_objects": ["foods", "objects"],
+                "compatible_subjects": ["pronouns", "humans"]
+            },
+            "eat": {
+                "infinitive": "valgyti", 
+                "compatible_objects": ["foods"],
+                "compatible_subjects": ["pronouns", "humans"]
+            },
+            "drink": {
+                "infinitive": "gerti",
+                "compatible_objects": ["drinks"],
+                "compatible_subjects": ["pronouns", "humans"]
+            },
+            "see": {
+                "infinitive": "matyti",
+                "compatible_objects": ["foods", "objects", "animals"],
+                "compatible_subjects": ["pronouns", "humans", "animals"]
+            },
+            "have": {
+                "infinitive": "turėti",
+                "compatible_objects": ["foods", "objects"],
+                "compatible_subjects": ["pronouns", "humans", "animals"]
+            }
+        }
+        
+        verbs = {}
+        
+        for english_verb, config in verb_config.items():
+            infinitive = config["infinitive"]
+            
+            if infinitive in verbs_new:
+                verb_data = verbs_new[infinitive]
+                
+                # Convert from verbs.py format to sentence generator format
+                verbs[english_verb] = {
+                    "infinitive": infinitive,
+                    "present": self._convert_tense_conjugations(verb_data.get("present_tense", {})),
+                    "past": self._convert_tense_conjugations(verb_data.get("past_tense", {})),
+                    "future": self._convert_tense_conjugations(verb_data.get("future", {})),
+                    "compatible_objects": config["compatible_objects"],
+                    "compatible_subjects": config["compatible_subjects"]
+                }
+            else:
+                logger.debug(f"Verb {infinitive} not found in verbs.py, skipping")
+        
+        logger.debug(f"Loaded {len(verbs)} verbs from verbs.py")
+        return verbs
+    
+    def _convert_tense_conjugations(self, tense_data: Dict[str, Dict]) -> Dict[str, str]:
+        """Convert verbs.py tense format to sentence generator format"""
+        # Map from verbs.py person codes to sentence generator keys
+        person_mapping = {
+            "1s": "I",
+            "2s": "you", 
+            "3s-m": "he",
+            "3s-f": "she",
+            "1p": "we",
+            "3p-m": "they",
+            "3p-f": "they"  # Use same as 3p-m for simplicity
+        }
+        
+        conjugations = {}
+        
+        for person_code, conjugation_data in tense_data.items():
+            if person_code in person_mapping:
+                key = person_mapping[person_code]
+                lithuanian_form = conjugation_data.get("lithuanian", "").replace("aš ", "").replace("tu ", "").replace("jis ", "").replace("ji ", "").replace("mes ", "").replace("jie ", "").replace("jos ", "")
+                conjugations[key] = lithuanian_form
+        
+        # Add animal and person forms (use 3rd person singular)
+        if "he" in conjugations:
+            conjugations["animal"] = conjugations["he"]
+            conjugations["person"] = conjugations["he"]
+        
+        return conjugations
+    
+
 
     def _get_accusative_form(self, word: str, lithuanian: str) -> str:
         """Get accusative form of Lithuanian word"""
@@ -292,17 +362,13 @@ class SimpleSentenceGenerator:
                 for pronoun, data in self.pronouns.items():
                     compatible_subjects.append((pronoun, {"lithuanian": data["nom"], "guid": data["guid"]}))
             elif subj_type == "humans":
-                # Limit to common professions
-                common_humans = ["teacher", "doctor", "nurse", "student", "farmer", "baker"]
-                for human in common_humans:
-                    if human in self.humans:
-                        compatible_subjects.append((human, self.humans[human]))
+                # Use all available humans from the loaded dictionary
+                for human_en, human_data in self.humans.items():
+                    compatible_subjects.append((human_en, human_data))
             elif subj_type == "animals":
-                # Limit to common animals
-                common_animals = ["dog", "cat", "horse", "bird", "cow", "pig"]
-                for animal in common_animals:
-                    if animal in self.animals:
-                        compatible_subjects.append((animal, self.animals[animal]))
+                # Use all available animals from the loaded dictionary
+                for animal_en, animal_data in self.animals.items():
+                    compatible_subjects.append((animal_en, animal_data))
         
         return compatible_subjects
 
@@ -575,8 +641,107 @@ class SimpleSentenceGenerator:
             print(f"LLM sentence generation failed: {e}")
             return None
 
-    def generate_simple_sentences(self, count: int = 10, use_llm: bool = False) -> List[Dict[str, Any]]:
+    def generate_with_sentence_library(self, count: int = 10, model: str = "gpt-4o-mini") -> List[Dict[str, Any]]:
+        """Generate sentences using the sentence generation library"""
+        if not self.sentence_generator:
+            print("Sentence generation library not available. Falling back to simple generation.")
+            return self.generate_simple_sentences(count=count, use_llm=True)
+        
+        sentences = []
+        attempts = 0
+        max_attempts = count * 3
+        
+        print(f"Generating {count} sentences using sentence generation library...")
+        logger.debug(f"Starting library-based sentence generation: target={count}, max_attempts={max_attempts}")
+        
+        while len(sentences) < count and attempts < max_attempts:
+            attempts += 1
+            
+            # Create pattern using the library
+            pattern = self.sentence_generator.create_sentence_pattern("SVO")
+            if not pattern:
+                logger.debug(f"Library sentence generation attempt {attempts}: Pattern creation failed")
+                continue
+            
+            # Generate sentence using the library's LLM method
+            result = self.sentence_generator.generate_with_llm(pattern, "lt", model)
+            if result:
+                # Convert library result to our format
+                sentence = {
+                    "english": result["english"],
+                    "lithuanian": result["target_sentence"],
+                    "subject": pattern["subject"]["key"],
+                    "verb": pattern["verb"]["key"],
+                    "object": pattern["object"]["key"],
+                    "tense": pattern["tense"],
+                    "pattern": pattern["pattern_type"],
+                    "llm_generated": True,
+                    "library_generated": True
+                }
+                
+                # Build words_used array
+                words_used = []
+                
+                # Add subject
+                subject_data = pattern["subject"]["data"]
+                words_used.append({
+                    "english": pattern["subject"]["key"],
+                    "lithuanian": subject_data.get("lithuanian", subject_data.get("nom", "")),
+                    "type": "subject",
+                    "guid": subject_data.get("guid", "")
+                })
+                
+                # Add verb
+                verb_data = pattern["verb"]["data"]
+                words_used.append({
+                    "english": pattern["verb"]["key"],
+                    "lithuanian": verb_data.get("infinitive", verb_data.get("lithuanian", "")),
+                    "type": "verb"
+                })
+                
+                # Add adjective if used
+                if result.get("adjective_used"):
+                    adj_key = result["adjective_used"]
+                    if "adjective" in pattern:
+                        adj_data = pattern["adjective"]["data"]
+                        words_used.append({
+                            "english": adj_key,
+                            "lithuanian": adj_data.get("lithuanian", ""),
+                            "type": "adjective",
+                            "guid": adj_data.get("guid", "")
+                        })
+                        sentence["adjective"] = adj_key
+                        sentence["adjective_guid"] = adj_data.get("guid", "")
+                
+                # Add object
+                object_data = pattern["object"]["data"]
+                words_used.append({
+                    "english": pattern["object"]["key"],
+                    "lithuanian": object_data.get("lithuanian", ""),
+                    "type": "object",
+                    "guid": object_data.get("guid", "")
+                })
+                
+                sentence["words_used"] = words_used
+                sentences.append(sentence)
+                logger.debug(f"Library sentence generation attempt {attempts}: Successfully generated sentence")
+            else:
+                logger.debug(f"Library sentence generation attempt {attempts}: Library rejected pattern")
+                continue
+            
+            if len(sentences) % 10 == 0:
+                print(f"  Generated {len(sentences)}/{count} sentences...")
+        
+        print(f"Generated {len(sentences)} sentences in {attempts} attempts using library")
+        logger.debug(f"Library sentence generation completed: generated={len(sentences)}, target={count}, attempts={attempts}")
+        return sentences
+
+    def generate_simple_sentences(self, count: int = 10, use_llm: bool = False, use_library: bool = False) -> List[Dict[str, Any]]:
         """Generate simple sentences for level 20"""
+        # Use sentence generation library if requested and available
+        if use_library and self.sentence_generator:
+            return self.generate_with_sentence_library(count)
+        
         sentences = []
         attempts = 0
         max_attempts = count * 2
@@ -692,9 +857,36 @@ def main():
         print("Debug logging enabled - you will see detailed rejection reasons.")
         print()
     
-    # Ask about LLM usage
+    # Ask about sentence generation method
     use_llm = False
-    if LLM_AVAILABLE and generator.llm_client:
+    use_library = False
+    
+    if SENTENCE_LIB_AVAILABLE and generator.sentence_generator:
+        print("Sentence generation options:")
+        print("1. Simple pattern-based generation (no API calls)")
+        print("2. LLM-enhanced generation with GPT-5-nano (API calls)")
+        print("3. Use sentence generation library with GPT-4o-mini (API calls)")
+        
+        choice = input("Choose generation method (1/2/3): ").strip()
+        
+        if choice == "2":
+            use_llm = True
+            print("Warning: This will make API calls to GPT-5-nano for each sentence.")
+            confirm = input("Continue? (y/n): ").lower()
+            if not confirm.startswith('y'):
+                use_llm = False
+                print("Proceeding with simple pattern-based generation.")
+        elif choice == "3":
+            use_library = True
+            print("Warning: This will make API calls to GPT-4o-mini for each sentence.")
+            confirm = input("Continue? (y/n): ").lower()
+            if not confirm.startswith('y'):
+                use_library = False
+                print("Proceeding with simple pattern-based generation.")
+        else:
+            print("Using simple pattern-based generation.")
+            
+    elif LLM_AVAILABLE and generator.llm_client:
         response = input("Use LLM (GPT-5-nano) for quality control and color selection? This will make API calls. (y/n): ").lower()
         use_llm = response.startswith('y')
         
@@ -708,7 +900,7 @@ def main():
         print("LLM not available. Proceeding with simple pattern-based generation only.")
     
     # Generate sentences
-    sentences = generator.generate_simple_sentences(count=10, use_llm=use_llm)
+    sentences = generator.generate_simple_sentences(count=10, use_llm=use_llm, use_library=use_library)
     
     # Create output
     output = {
@@ -720,6 +912,8 @@ def main():
             "version": "final",
             "patterns_used": ["SVO", "SVAO"],
             "llm_quality_control": use_llm,
+            "sentence_library_used": use_library,
+            "generation_method": "library" if use_library else ("llm" if use_llm else "pattern"),
             "dictionaries_used": {
                 "animals": len(generator.animals),
                 "foods": len(generator.foods),
@@ -745,7 +939,11 @@ def main():
         print(f"{i+1}. EN: {sentence['english']}")
         print(f"   LT: {sentence['lithuanian']}")
         print(f"   Pattern: {sentence['pattern']}, Tense: {sentence['tense']}")
-        if sentence.get('llm_improved'):
+        if sentence.get('library_generated'):
+            print("   (Generated using sentence library)")
+        elif sentence.get('llm_generated'):
+            print("   (LLM generated)")
+        elif sentence.get('llm_improved'):
             print("   (LLM improved)")
         print()
 
