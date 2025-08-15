@@ -13,6 +13,7 @@ import logging
 import random
 import sys
 import os
+import time
 from typing import List, Dict, Any, Optional, Tuple
 from pathlib import Path
 
@@ -33,7 +34,7 @@ except ImportError:
     LLM_AVAILABLE = False
 
 try:
-    from lib.sentence_generation import SentenceGenerator
+    from lib.sentence_generation import SentenceGenerator, LithuanianSentenceGenerator
     SENTENCE_LIB_AVAILABLE = True
 except ImportError:
     print("Sentence generation library not available.")
@@ -43,9 +44,10 @@ except ImportError:
 from verbs import verbs_new
 
 class SimpleSentenceGenerator:
-    def __init__(self):
+    def __init__(self, debug_http: bool = False):
         self.base_path = Path(__file__).parent
         self.dictionary_path = self.base_path / "generated" / "dictionary"
+        self.debug_http = debug_http
         
         # Load dictionaries
         self.animals = self._load_dictionary("animal_dictionary.py")
@@ -102,36 +104,14 @@ class SimpleSentenceGenerator:
         
         # Load verbs from verbs.py or use fallback
         self.verbs = self._load_verbs_from_file()
-        
-        # Gender mapping for common words (simplified)
-        self.word_genders = {
-            # Foods - mostly feminine
-            "bread": "f", "coffee": "f", "milk": "m", "water": "m", "apple": "m",
-            "cheese": "m", "fish": "f", "meat": "f", "soup": "f", "cake": "m",
-            "beer": "m", "tea": "f", "juice": "m", "wine": "m", "egg": "m",
-            
-            # Objects - mixed
-            "book": "f", "paper": "m", "pen": "m", "table": "m", "chair": "f",
-            "car": "m", "house": "m", "phone": "m", "computer": "m", "bag": "m",
-            
-            # Animals - based on Lithuanian gender
-            "dog": "m", "cat": "f", "horse": "m", "bird": "m", "cow": "f",
-            "pig": "f", "rabbit": "m", "mouse": "f",
-            
-            # Quality adjectives - Lithuanian gender
-            "big": "m", "small": "m", "good": "m", "bad": "m", "hot": "m", "cold": "m",
-            "new": "m", "long": "m", "short": "m", "high": "m", "low": "m", "dark": "m",
-            
-            # Numbers - Lithuanian gender (masculine forms)
-            "one": "m", "two": "m", "three": "m", "four": "m", 
-            "five": "m", "six": "m", "seven": "m", "eight": "m"
-        }
 
         # Initialize LLM client if available
         self.llm_client = None
         if LLM_AVAILABLE:
             try:
-                self.llm_client = UnifiedLLMClient()
+                self.llm_client = UnifiedLLMClient(debug=self.debug_http)
+                if self.debug_http:
+                    print("HTTP request logging enabled - you will see full JSON responses with 1-second delays.")
             except Exception as e:
                 print(f"Warning: Could not initialize LLM client: {e}")
         
@@ -168,11 +148,21 @@ class SimpleSentenceGenerator:
                     }
                 }
                 
-                self.sentence_generator = SentenceGenerator(
+                self.sentence_generator = LithuanianSentenceGenerator(
                     word_matrices=word_matrices,
                     grammar_rules=grammar_rules,
                     llm_client=self.llm_client
                 )
+                
+                # Debug: Check if the sentence generator is using our LLM client
+                if self.debug_http:
+                    print(f"Debug: Main LLM client debug flag: {self.llm_client.debug}")
+                    if hasattr(self.sentence_generator, 'llm_client'):
+                        print(f"Debug: Sentence generator LLM client debug flag: {self.sentence_generator.llm_client.debug}")
+                        print(f"Debug: Same client instance? {self.sentence_generator.llm_client is self.llm_client}")
+                    else:
+                        print("Debug: Sentence generator has no llm_client attribute")
+                
                 logger.debug("Sentence generation library initialized successfully")
             except Exception as e:
                 print(f"Warning: Could not initialize sentence generation library: {e}")
@@ -289,46 +279,28 @@ class SimpleSentenceGenerator:
             conjugations["person"] = conjugations["he"]
         
         return conjugations
-    
 
+    def _llm_generate_with_delay(self, *args, **kwargs):
+        """Call LLM generate_chat with optional delay for HTTP request logging."""
+        if self.debug_http:
+            # Add 1-second delay before HTTP request to limit log spam
+            time.sleep(1.0)
+        return self.llm_client.generate_chat(*args, **kwargs)
+    
+    def _library_generate_with_delay(self, pattern, language, model):
+        """Call sentence library generate_with_llm with optional delay for HTTP request logging."""
+        if self.debug_http:
+            # Add 1-second delay before HTTP request to limit log spam
+            time.sleep(1.0)
+        return self.sentence_generator.generate_with_llm(pattern, language, model)
 
     def _get_accusative_form(self, word: str, lithuanian: str) -> str:
-        """Get accusative form of Lithuanian word"""
-        # Special cases for numbers (irregular accusative forms)
-        number_accusatives = {
-            "vienas": "vieną",
-            "du": "du",  # "du" stays the same in accusative
-            "trys": "tris",
-            "keturi": "keturis",
-            "penki": "penkis",
-            "šeši": "šešis",
-            "septyni": "septynis",
-            "aštuoni": "aštuonis"
-        }
+        """Get accusative form of Lithuanian word - delegates to library"""
+        if hasattr(self.sentence_generator, 'get_accusative_form'):
+            return self.sentence_generator.get_accusative_form(word, lithuanian)
         
-        if lithuanian in number_accusatives:
-            return number_accusatives[lithuanian]
-        
-        gender = self.word_genders.get(word, "m")
-        
-        if gender == "m":
-            if lithuanian.endswith("as"):
-                return lithuanian[:-2] + "ą"
-            elif lithuanian.endswith("is") or lithuanian.endswith("ys"):
-                return lithuanian[:-2] + "į"
-            elif lithuanian.endswith("us"):
-                return lithuanian[:-2] + "ų"
-            else:
-                return lithuanian + "ą"
-        else:
-            if lithuanian.endswith("a"):
-                return lithuanian[:-1] + "ą"
-            elif lithuanian.endswith("ė"):
-                return lithuanian[:-1] + "ę"
-            elif lithuanian.endswith("is"):
-                return lithuanian[:-2] + "į"
-            else:
-                return lithuanian + "ą"
+        # If library is not available, this method shouldn't be called
+        raise RuntimeError("Lithuanian sentence generation library not available")
 
     def _get_compatible_objects(self, verb: str) -> List[Tuple[str, Dict]]:
         """Get objects compatible with a given verb"""
@@ -373,13 +345,12 @@ class SimpleSentenceGenerator:
         return compatible_subjects
 
     def _get_subject_type(self, subject_en: str) -> str:
-        """Determine subject type for verb conjugation"""
-        if subject_en in ["I", "you", "he", "she", "we", "they"]:
-            return subject_en
-        elif subject_en in self.animals:
-            return "animal"
-        else:
-            return "person"
+        """Determine subject type for verb conjugation - delegates to library"""
+        if hasattr(self.sentence_generator, 'get_subject_type'):
+            return self.sentence_generator.get_subject_type(subject_en)
+        
+        # If library is not available, this method shouldn't be called
+        raise RuntimeError("Lithuanian sentence generation library not available")
 
     def _get_english_verb_form(self, verb: str, subject: str, tense: str) -> str:
         """Get correct English verb form"""
@@ -451,197 +422,23 @@ class SimpleSentenceGenerator:
 
     def _pattern_to_sentence(self, pattern: Dict[str, Any]) -> Dict[str, Any]:
         """Convert a pattern to English and Lithuanian sentences"""
-        subject_en = pattern["subject"]["english"]
-        verb_en = pattern["verb"]["english"]
-        obj_en = pattern["object"]["english"]
-        tense = pattern["tense"]
+        # Try to use the library's Lithuanian sentence builder if available
+        if hasattr(self.sentence_generator, 'build_lithuanian_sentence'):
+            return self.sentence_generator.build_lithuanian_sentence(pattern)
         
-        # Build English sentence
-        verb_form = self._get_english_verb_form(verb_en, subject_en, tense)
-        
-        parts = []
-        
-        # Handle "the" prefix for subjects
-        if subject_en in self.animals or subject_en in self.humans:
-            parts.append(f"The {subject_en}")
-        else:
-            parts.append(subject_en.capitalize())
-        
-        parts.append(verb_form)
-        
-        # Handle adjectives and objects
-        if "adjective" in pattern:
-            adj_type = pattern["adjective"].get("type", "colors")
-            adj_en = pattern["adjective"]["english"]
-            
-            if adj_type == "numbers":
-                # Numbers come before the noun, no "the" article
-                parts.append(adj_en)
-                # Make noun plural for numbers > 1
-                if adj_en in ["two", "three", "four", "five", "six", "seven", "eight"]:
-                    # Simple pluralization (this could be improved)
-                    if obj_en.endswith('y'):
-                        obj_plural = obj_en[:-1] + "ies"
-                    elif obj_en.endswith(('s', 'sh', 'ch', 'x', 'z')):
-                        obj_plural = obj_en + "es"
-                    else:
-                        obj_plural = obj_en + "s"
-                    parts.append(obj_plural)
-                else:
-                    parts.append(obj_en)
-            else:
-                # Regular adjectives (colors, quality)
-                parts.append(adj_en)
-                # Handle "the" prefix for objects when needed
-                if obj_en in self.animals:
-                    parts.append(f"the {obj_en}")
-                else:
-                    parts.append(obj_en)
-        else:
-            # No adjective
-            if obj_en in self.animals:
-                parts.append(f"the {obj_en}")
-            else:
-                parts.append(obj_en)
-        
-        english = " ".join(parts) + "."
-        
-        # Build Lithuanian sentence
-        subject_type = self._get_subject_type(subject_en)
-        
-        # Get Lithuanian forms
-        if subject_en in self.pronouns:
-            subject_lt = self.pronouns[subject_en]["nom"]
-        else:
-            subject_lt = pattern["subject"]["data"]["lithuanian"]
-        
-        verb_lt = pattern["verb"]["data"][tense][subject_type]
-        obj_lt_nom = pattern["object"]["data"]["lithuanian"]
-        obj_lt_acc = self._get_accusative_form(obj_en, obj_lt_nom)
-        
-        lt_parts = []
-        lt_parts.append(subject_lt.capitalize())
-        lt_parts.append(verb_lt)
-        
-        if "adjective" in pattern:
-            adj_lt = pattern["adjective"]["data"]["lithuanian"]
-            adj_acc = self._get_accusative_form(pattern["adjective"]["english"], adj_lt)
-            lt_parts.append(adj_acc)
-        
-        lt_parts.append(obj_lt_acc)
-        
-        lithuanian = " ".join(lt_parts) + "."
-        
-        # Track words used
-        words_used = []
-        
-        words_used.extend([
-            {"english": subject_en, "lithuanian": subject_lt, "type": "subject", "guid": pattern["subject"]["data"].get("guid", "")},
-            {"english": verb_en, "lithuanian": pattern["verb"]["data"]["infinitive"], "type": "verb"},
-        ])
-        
-        if "adjective" in pattern:
-            words_used.append({
-                "english": pattern["adjective"]["english"],
-                "lithuanian": pattern["adjective"]["data"]["lithuanian"],
-                "type": "adjective",
-                "guid": pattern["adjective"]["data"]["guid"]
-            })
-        
-        words_used.append({
-            "english": obj_en,
-            "lithuanian": obj_lt_nom,
-            "type": "object",
-            "guid": pattern["object"]["data"]["guid"]
-        })
-        
-        return {
-            "english": english,
-            "lithuanian": lithuanian,
-            "words_used": words_used,
-            "pattern": "SVAO" if "adjective" in pattern else "SVO",
-            "tense": tense
-        }
+        # If library is not available, this method shouldn't be called
+        raise RuntimeError("Lithuanian sentence generation library not available")
 
     def _generate_sentence_with_llm(self, pattern: Dict[str, Any]) -> Optional[Dict[str, Any]]:
         """Use LLM to generate a complete sentence from the pattern"""
-        if not self.llm_client:
-            logger.debug("Sentence generation rejected: LLM client not available")
-            return None
+        # Try to use the library's Lithuanian LLM generation if available
+        if hasattr(self.sentence_generator, 'generate_lithuanian_with_llm'):
+            return self.sentence_generator.generate_lithuanian_with_llm(pattern)
         
-        # Get available colors for LLM to choose from
-        available_colors = list(self.colors.keys()) if self.colors else []
-        color_list = ", ".join(available_colors)
-        
-        # Get some context about the words to help LLM
-        subject_info = pattern['subject']['data'] if 'data' in pattern['subject'] else {}
-        verb_info = pattern['verb']
-        object_info = pattern['object']['data'] if 'data' in pattern['object'] else {}
-        
-        prompt = f"""
-        Create a natural Lithuanian sentence for language learning (Level 20 - beginner) using these components:
-        
-        Subject: {pattern['subject']['english']} (Lithuanian: {subject_info.get('lithuanian', 'unknown')})
-        Verb: {pattern['verb']['english']} in {pattern['tense']} tense
-        Object: {pattern['object']['english']} (Lithuanian: {object_info.get('lithuanian', 'unknown')})
-        
-        Available colors to optionally include: {color_list}
-        
-        Requirements:
-        1. Create a grammatically correct Lithuanian sentence using proper cases (nominative for subject, accusative for object)
-        2. Use the correct verb conjugation for the tense and subject
-        3. Optionally include ONE appropriate color from the list if it makes sense contextually
-        4. Make sure the sentence is logical and natural
-        5. Provide both English and Lithuanian versions
-        
-        If the combination doesn't make logical sense, explain why.
-        """
-        
-        # Define the schema for the expected response
-        sentence_generation_schema = Schema(
-            "SentenceGeneration",
-            "Generated Lithuanian sentence with proper grammar",
-            {
-                "makes_sense": SchemaProperty("boolean", "Whether the sentence combination makes logical sense"),
-                "reason": SchemaProperty("string", "Explanation if the sentence doesn't make sense", required=False),
-                "english": SchemaProperty("string", "Natural English sentence", required=False),
-                "lithuanian": SchemaProperty("string", "Grammatically correct Lithuanian sentence", required=False),
-                "color_used": SchemaProperty("string", "Color that was included in the sentence, or null", required=False)
-            }
-        )
-        
-        # Debug log the sentence pattern being generated
-        logger.debug(f"Requesting sentence generation from LLM: {pattern['subject']['english']} / {pattern['verb']['english']} / {pattern['tense']} / {pattern['object']['english']}")
-        
-        try:
-            logger.debug(f"Calling LLM generate_chat with model=gpt-5-nano, schema=SentenceGeneration")
-            response = self.llm_client.generate_chat(
-                prompt=prompt,
-                model="gpt-5-nano",
-                json_schema=sentence_generation_schema
-            )
-            
-            # Get structured data from the response
-            result = response.structured_data
-            logger.debug(f"LLM response result: {result}")
-            
-            if result.get("makes_sense", False):
-                return {
-                    "english": result.get("english", ""),
-                    "lithuanian": result.get("lithuanian", ""),
-                    "color_used": result.get("color_used"),
-                    "llm_generated": True
-                }
-            else:
-                logger.debug(f"Sentence generation rejected by LLM: {result.get('reason', 'Unknown reason')} (Pattern: {pattern['subject']['english']} {pattern['verb']['english']} {pattern['object']['english']})")
-                return None
-                
-        except Exception as e:
-            logger.debug(f"Sentence generation rejected due to LLM error: {e} (Pattern: {pattern['subject']['english']} {pattern['verb']['english']} {pattern['object']['english']})")
-            print(f"LLM sentence generation failed: {e}")
-            return None
+        # If library is not available, this method shouldn't be called
+        raise RuntimeError("Lithuanian sentence generation library not available")
 
-    def generate_with_sentence_library(self, count: int = 10, model: str = "gpt-4o-mini") -> List[Dict[str, Any]]:
+    def generate_with_sentence_library(self, count: int = 10, model: str = "gpt-5-mini") -> List[Dict[str, Any]]:
         """Generate sentences using the sentence generation library"""
         if not self.sentence_generator:
             print("Sentence generation library not available. Falling back to simple generation.")
@@ -664,7 +461,7 @@ class SimpleSentenceGenerator:
                 continue
             
             # Generate sentence using the library's LLM method
-            result = self.sentence_generator.generate_with_llm(pattern, "lt", model)
+            result = self._library_generate_with_delay(pattern, "lt", model)
             if result:
                 # Convert library result to our format
                 sentence = {
@@ -748,7 +545,7 @@ class SimpleSentenceGenerator:
         
         print(f"Generating {count} simple sentences for level 20...")
         if use_llm:
-            print("Using LLM for quality control and color selection...")
+            print("Using LLM for quality control...")
         
         logger.debug(f"Starting sentence generation: target={count}, use_llm={use_llm}, max_attempts={max_attempts}")
         
@@ -771,7 +568,7 @@ class SimpleSentenceGenerator:
                         "verb": pattern["verb"]["english"],
                         "object": pattern["object"]["english"],
                         "tense": pattern["tense"],
-                        "pattern": "SVAO" if llm_sentence.get("color_used") else "SVO"
+                        "pattern": "SVO"
                     })
                     
                     # Build words_used array with GUIDs for LLM sentences
@@ -792,18 +589,6 @@ class SimpleSentenceGenerator:
                         "lithuanian": pattern["verb"]["data"]["infinitive"],
                         "type": "verb"
                     })
-                    
-                    # Add color/adjective if used
-                    if llm_sentence.get("color_used") and llm_sentence["color_used"] in self.colors:
-                        color_data = self.colors[llm_sentence["color_used"]]
-                        llm_sentence["adjective"] = llm_sentence["color_used"]
-                        llm_sentence["adjective_guid"] = color_data.get("guid", "")
-                        words_used.append({
-                            "english": llm_sentence["color_used"],
-                            "lithuanian": color_data["lithuanian"],
-                            "type": "adjective",
-                            "guid": color_data.get("guid", "")
-                        })
                     
                     # Add object with GUID
                     words_used.append({
@@ -837,10 +622,27 @@ class SimpleSentenceGenerator:
 
 def main():
     """Main function with user interaction"""
-    generator = SimpleSentenceGenerator()
-    
     print("Simple Lithuanian Sentence Generator for Level 20")
     print("================================================")
+    
+    # Ask about debug logging first
+    debug_response = input("Enable debug logging to see rejection reasons? (y/n): ").lower()
+    enable_debug = debug_response.startswith('y')
+    if enable_debug:
+        logging.getLogger().setLevel(logging.DEBUG)
+        print("Debug logging enabled - you will see detailed rejection reasons.")
+        print()
+    
+    # Ask about HTTP request logging
+    http_debug_response = input("Enable full HTTP request logging with JSON responses? (y/n): ").lower()
+    enable_http_debug = http_debug_response.startswith('y')
+    if enable_http_debug:
+        print("HTTP request logging enabled - you will see full JSON responses with 1-second delays.")
+        print()
+    
+    # Create generator with debug flags
+    generator = SimpleSentenceGenerator(debug_http=enable_http_debug)
+    
     print(f"Loaded dictionaries:")
     print(f"  Animals: {len(generator.animals)} words")
     print(f"  Foods: {len(generator.foods)} words") 
@@ -850,13 +652,6 @@ def main():
     print(f"  Humans: {len(generator.humans)} words")
     print()
     
-    # Ask about debug logging
-    debug_response = input("Enable debug logging to see rejection reasons? (y/n): ").lower()
-    if debug_response.startswith('y'):
-        logging.getLogger().setLevel(logging.DEBUG)
-        print("Debug logging enabled - you will see detailed rejection reasons.")
-        print()
-    
     # Ask about sentence generation method
     use_llm = False
     use_library = False
@@ -864,21 +659,21 @@ def main():
     if SENTENCE_LIB_AVAILABLE and generator.sentence_generator:
         print("Sentence generation options:")
         print("1. Simple pattern-based generation (no API calls)")
-        print("2. LLM-enhanced generation with GPT-5-nano (API calls)")
-        print("3. Use sentence generation library with GPT-4o-mini (API calls)")
+        print("2. LLM-enhanced generation with gpt-5-mini (API calls)")
+        print("3. Use sentence generation library with gpt-5-mini (API calls)")
         
         choice = input("Choose generation method (1/2/3): ").strip()
         
         if choice == "2":
             use_llm = True
-            print("Warning: This will make API calls to GPT-5-nano for each sentence.")
+            print("Warning: This will make API calls to gpt-5-mini for each sentence.")
             confirm = input("Continue? (y/n): ").lower()
             if not confirm.startswith('y'):
                 use_llm = False
                 print("Proceeding with simple pattern-based generation.")
         elif choice == "3":
             use_library = True
-            print("Warning: This will make API calls to GPT-4o-mini for each sentence.")
+            print("Warning: This will make API calls to gpt-5-mini for each sentence.")
             confirm = input("Continue? (y/n): ").lower()
             if not confirm.startswith('y'):
                 use_library = False
@@ -887,11 +682,11 @@ def main():
             print("Using simple pattern-based generation.")
             
     elif LLM_AVAILABLE and generator.llm_client:
-        response = input("Use LLM (GPT-5-nano) for quality control and color selection? This will make API calls. (y/n): ").lower()
+        response = input("Use LLM (gpt-5-mini) for quality control? This will make API calls. (y/n): ").lower()
         use_llm = response.startswith('y')
         
         if use_llm:
-            print("Warning: This will make API calls to GPT-5-nano for each sentence.")
+            print("Warning: This will make API calls to gpt-5-mini for each sentence.")
             confirm = input("Continue? (y/n): ").lower()
             if not confirm.startswith('y'):
                 use_llm = False
