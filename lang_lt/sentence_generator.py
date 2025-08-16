@@ -430,49 +430,7 @@ class SimpleSentenceGenerator:
         # If library is not available, this method shouldn't be called
         raise RuntimeError("Lithuanian sentence generation library not available")
 
-    def _get_english_verb_form(self, verb: str, subject: str, tense: str) -> str:
-        """Get correct English verb form"""
-        if tense == "present":
-            if subject in ["I", "you", "we", "they"]:
-                # Special cases for irregular present forms
-                if verb == "be": return "am" if subject == "I" else ("are" if subject in ["you", "we", "they"] else "are")
-                elif verb == "can": return "can"
-                else: return verb
-            else:  # 3rd person singular (he, she, it, names)
-                # Irregular present 3rd person forms
-                if verb == "be": return "is"
-                elif verb == "have": return "has"
-                elif verb == "can": return "can"
-                elif verb == "buy": return "buys"
-                elif verb == "drink": return "drinks"
-                elif verb == "play": return "plays"
-                elif verb == "like": return "likes"
-                elif verb == "live": return "lives"
-                elif verb == "give": return "gives"
-                elif verb == "take": return "takes"
-                elif verb == "make": return "makes"
-                elif verb.endswith(('s', 'sh', 'ch', 'x', 'z')):
-                    return verb + "es"
-                else: 
-                    return verb + "s"
-        elif tense == "past":
-            # Irregular past forms
-            if verb == "be": return "was" if subject in ["I", "he", "she"] else "were"
-            elif verb == "buy": return "bought"
-            elif verb == "eat": return "ate"
-            elif verb == "drink": return "drank"
-            elif verb == "see": return "saw"
-            elif verb == "have": return "had"
-            elif verb == "sleep": return "slept"
-            elif verb == "know": return "knew"
-            elif verb == "speak": return "spoke"
-            elif verb == "give": return "gave"
-            elif verb == "take": return "took"
-            elif verb == "make": return "made"
-            elif verb == "can": return "could"
-            else: return verb + "ed"
-        else:  # future
-            return f"will {verb}"
+
 
     def _create_simple_sentence_pattern(self) -> Optional[Dict[str, Any]]:
         """Create a simple sentence pattern (SVO or SVAO only)"""
