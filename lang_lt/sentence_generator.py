@@ -28,17 +28,10 @@ sys.path.append(str(Path(__file__).parent.parent.parent.parent / "src"))
 try:
     from clients.unified_client import UnifiedLLMClient
     from clients.types import Schema, SchemaProperty
-    LLM_AVAILABLE = True
-except ImportError:
-    print("LLM client not available. Running without LLM integration.")
-    LLM_AVAILABLE = False
-
-try:
     from lib.sentence_generation import SentenceGenerator, LithuanianSentenceGenerator
-    SENTENCE_LIB_AVAILABLE = True
+
 except ImportError:
-    print("Sentence generation library not available.")
-    SENTENCE_LIB_AVAILABLE = False
+    raise( ImportError("Required libraries not found. Please ensure you have the LLM client and sentence generation library installed."))
 
 # Import verb conjugations from verbs.py
 from verbs import verbs_new
@@ -95,17 +88,16 @@ class SimpleSentenceGenerator:
 
         # Initialize LLM client if available
         self.llm_client = None
-        if LLM_AVAILABLE:
-            try:
-                self.llm_client = UnifiedLLMClient(debug=self.debug_http)
-                if self.debug_http:
-                    print("HTTP request logging enabled - you will see full JSON responses with 1-second delays.")
-            except Exception as e:
-                print(f"Warning: Could not initialize LLM client: {e}")
+        try:
+            self.llm_client = UnifiedLLMClient(debug=self.debug_http)
+            if self.debug_http:
+                print("HTTP request logging enabled - you will see full JSON responses with 1-second delays.")
+        except Exception as e:
+            print(f"Warning: Could not initialize LLM client: {e}")
         
         # Initialize sentence generation library if available
         self.sentence_generator = None
-        if SENTENCE_LIB_AVAILABLE and self.llm_client:
+        if self.llm_client:
             try:
                 # Prepare word matrices for the sentence generation library
                 word_matrices = {
@@ -431,7 +423,6 @@ class SimpleSentenceGenerator:
         raise RuntimeError("Lithuanian sentence generation library not available")
 
 
-
     def _create_simple_sentence_pattern(self) -> Optional[Dict[str, Any]]:
         """Create a simple sentence pattern (SVO or SVAO only)"""
         verb = random.choice(list(self.verbs.keys()))
@@ -743,117 +734,81 @@ Requirements:
     
 
 
+def load_existing_sentences(file_path):
+    """Load existing sentences from a JSON file"""
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            return data
+    except (FileNotFoundError, json.JSONDecodeError):
+        # Return empty structure if file doesn't exist or is invalid
+        return {
+            "metadata": {
+                "level": "level_20",
+                "total_sentences": 0,
+                "generated_date": "2025-08-01",
+                "description": "Simple sentences for Lithuanian learning level 20 - SVO and SVAO patterns only",
+                "version": "final",
+                "patterns_used": ["SVO", "SVAO"],
+                "llm_quality_control": False,
+                "sentence_library_used": False,
+                "generation_method": "pattern",
+                "dictionaries_used": {}
+            },
+            "sentences": []
+        }
+
 def main():
-    """Main function with user interaction"""
+    """Main function that adds 10 sentences to the existing file"""
     print("Simple Lithuanian Sentence Generator for Level 20")
     print("================================================")
+    print("Adding 10 new sentences to the existing file...")
     
-    # Ask about debug logging first
-    debug_response = input("Enable debug logging to see rejection reasons? (y/n): ").lower()
-    enable_debug = debug_response.startswith('y')
-    if enable_debug:
-        logging.getLogger().setLevel(logging.DEBUG)
-        print("Debug logging enabled - you will see detailed rejection reasons.")
-        print()
+    # Create generator with default settings
+    generator = SimpleSentenceGenerator(debug_http=False)
     
-    # Ask about HTTP request logging
-    http_debug_response = input("Enable full HTTP request logging with JSON responses? (y/n): ").lower()
-    enable_http_debug = http_debug_response.startswith('y')
-    if enable_http_debug:
-        print("HTTP request logging enabled - you will see full JSON responses with 1-second delays.")
-        print()
+    # Determine if we can use the sentence library
+    use_library = generator.sentence_generator is not None
+    use_llm = False  # Default to not using LLM for quality control
     
-    # Create generator with debug flags
-    generator = SimpleSentenceGenerator(debug_http=enable_http_debug)
+    # Load existing sentences
+    output_path = generator.base_path / "level_20_sentences.json"
+    existing_data = load_existing_sentences(output_path)
+    existing_sentences = existing_data["sentences"]
     
-    print(f"Loaded dictionaries:")
-    print(f"  Animals: {len(generator.animals)} words")
-    print(f"  Foods: {len(generator.foods)} words") 
-    print(f"  Buildings: {len(generator.buildings)} words")
-    print(f"  Colors: {len(generator.colors)} words")
-    print(f"  Objects: {len(generator.objects)} words")
-    print(f"  Humans: {len(generator.humans)} words")
-    print()
+    # Generate 10 new sentences
+    new_sentences = generator.generate_simple_sentences(count=10, use_llm=use_llm, use_library=use_library)
     
-    # Ask about sentence generation method
-    use_llm = False
-    use_library = False
+    # Combine existing and new sentences
+    all_sentences = existing_sentences + new_sentences
     
-    if SENTENCE_LIB_AVAILABLE and generator.sentence_generator:
-        print("Sentence generation options:")
-        print("1. Simple pattern-based generation (no API calls)")
-        print("2. LLM-enhanced generation with gpt-5-mini (API calls)")
-        print("3. Use sentence generation library with gpt-5-mini (API calls)")
-        
-        choice = input("Choose generation method (1/2/3): ").strip()
-        
-        if choice == "2":
-            use_llm = True
-            print("Warning: This will make API calls to gpt-5-mini for each sentence.")
-            confirm = input("Continue? (y/n): ").lower()
-            if not confirm.startswith('y'):
-                use_llm = False
-                print("Proceeding with simple pattern-based generation.")
-        elif choice == "3":
-            use_library = True
-            print("Warning: This will make API calls to gpt-5-mini for each sentence.")
-            confirm = input("Continue? (y/n): ").lower()
-            if not confirm.startswith('y'):
-                use_library = False
-                print("Proceeding with simple pattern-based generation.")
-        else:
-            print("Using simple pattern-based generation.")
-            
-    elif LLM_AVAILABLE and generator.llm_client:
-        response = input("Use LLM (gpt-5-mini) for quality control? This will make API calls. (y/n): ").lower()
-        use_llm = response.startswith('y')
-        
-        if use_llm:
-            print("Warning: This will make API calls to gpt-5-mini for each sentence.")
-            confirm = input("Continue? (y/n): ").lower()
-            if not confirm.startswith('y'):
-                use_llm = False
-                print("Proceeding without LLM quality control.")
-    else:
-        print("LLM not available. Proceeding with simple pattern-based generation only.")
-    
-    # Generate sentences
-    sentences = generator.generate_simple_sentences(count=10, use_llm=use_llm, use_library=use_library)
-    
-    # Create output
-    output = {
-        "metadata": {
-            "level": "level_20",
-            "total_sentences": len(sentences),
-            "generated_date": "2025-08-01",
-            "description": "Simple sentences for Lithuanian learning level 20 - SVO and SVAO patterns only",
-            "version": "final",
-            "patterns_used": ["SVO", "SVAO"],
-            "llm_quality_control": use_llm,
-            "sentence_library_used": use_library,
-            "generation_method": "library" if use_library else ("llm" if use_llm else "pattern"),
-            "dictionaries_used": {
-                "animals": len(generator.animals),
-                "foods": len(generator.foods),
-                "buildings": len(generator.buildings),
-                "colors": len(generator.colors),
-                "objects": len(generator.objects),
-                "humans": len(generator.humans)
-            }
-        },
-        "sentences": sentences
+    # Update metadata
+    existing_data["metadata"]["total_sentences"] = len(all_sentences)
+    existing_data["metadata"]["llm_quality_control"] = use_llm
+    existing_data["metadata"]["sentence_library_used"] = use_library
+    existing_data["metadata"]["generation_method"] = "library" if use_library else ("llm" if use_llm else "pattern")
+    existing_data["metadata"]["dictionaries_used"] = {
+        "animals": len(generator.animals),
+        "foods": len(generator.foods),
+        "buildings": len(generator.buildings),
+        "colors": len(generator.colors),
+        "objects": len(generator.objects),
+        "humans": len(generator.humans)
     }
     
+    # Update sentences
+    existing_data["sentences"] = all_sentences
+    
     # Save to JSON file
-    output_path = generator.base_path / "level_20_sentences_final.json"
     with open(output_path, 'w', encoding='utf-8') as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
+        json.dump(existing_data, f, ensure_ascii=False, indent=2)
     
-    print(f"\nGenerated {len(sentences)} sentences and saved to {output_path}")
+    print(f"\nAdded {len(new_sentences)} new sentences to {output_path}")
+    print(f"Total sentences in file: {len(all_sentences)}")
     
-    # Print some examples
-    print("\nExample sentences:")
-    for i, sentence in enumerate(sentences[:10]):
+    # Print examples of new sentences
+    print("\nNew sentences added:")
+    for i, sentence in enumerate(new_sentences[:5]):
         print(f"{i+1}. EN: {sentence['english']}")
         print(f"   LT: {sentence['lithuanian']}")
         print(f"   Pattern: {sentence['pattern']}, Tense: {sentence['tense']}")
