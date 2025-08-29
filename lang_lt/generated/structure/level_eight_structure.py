@@ -22,7 +22,6 @@ from ..dictionary.human_dictionary import *
 from ..dictionary.material_substance_dictionary import *
 from ..dictionary.plant_dictionary import *
 from ..dictionary.pronoun_other_dictionary import *
-from ..dictionary.tool_machine_dictionary import *
 
 level_eight_structure = {
   'Plant': {
@@ -36,10 +35,6 @@ level_eight_structure = {
   'Building Structure': {
     "display_name": 'Building Structure',
     "words": [N07_004, N07_012, N07_013, N07_014, N07_015, N07_016, N07_017]
-  },
-  'Tool Machine': {
-    "display_name": 'Tool Machine',
-    "words": [N12_011, N12_021, N12_033, N12_020, N12_019, N12_034, N12_026, N12_015, N12_025, N12_017, N12_028, N12_022, N12_031, N12_013, N12_012, N12_014, N12_016, N12_018, N12_023, N12_024, N12_027, N12_029, N12_030, N12_032, N12_035, N12_036, N12_037]
   },
   'Human': {
     "display_name": 'Human',

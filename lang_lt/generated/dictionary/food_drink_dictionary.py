@@ -1365,7 +1365,7 @@ N06_085 = {
     'lithuanian': ['puota']
   },
   'metadata': {
-    'difficulty_level': 10,
+    'difficulty_level': 9,
     'frequency_rank': 4401,
     'tags': [],
     'notes': 'Primary meaning treated as a noun (singular, countable). Formal register; common collocations include "hold a banquet", "banquet hall". Lithuanian "banketas" is a direct equivalent for a formal banquet; "puota" is a more general word for feast. Translations chosen as common base/lemma forms.'
@@ -1381,7 +1381,7 @@ N06_086 = {
     'lithuanian': ['pusryčiai (pluralia tantum - common form)', 'pusryčiauti (verb related)']
   },
   'metadata': {
-    'difficulty_level': 10,
+    'difficulty_level': 9,
     'frequency_rank': 1045,
     'tags': [],
     'notes': "Primary meaning: the meal eaten in the morning. Lithuanian 'pusryčiai' is commonly used in the plural (pluralia tantum). Chinese alternative '早饭' is also common. Korean often uses '아침' informally to mean the meal. French sometimes hyphenates to 'petit-déjeuner'. Swahili also uses 'chakula cha asubuhi' as an alternative phrase. Vietnamese has noun 'bữa sáng' and verb phrase 'ăn sáng' (to have breakfast). Cultural variations exist in meal size and typical foods."
@@ -1397,7 +1397,7 @@ N06_087 = {
     'lithuanian': ['vidurdienio valgymas']
   },
   'metadata': {
-    'difficulty_level': 10,
+    'difficulty_level': 9,
     'frequency_rank': 2163,
     'tags': [],
     'notes': "Primary meaning: the midday meal. In English 'lunch' is usually uncountable (have lunch) but can be countable when referring to a specific meal or event (a lunch). There is also a verb 'to lunch' (to eat lunch), but this entry analyzes only the noun lemma. Lithuanian 'pietūs' is the standard term for lunch and is commonly used in the singular/pluralia-tantum form. Regional differences: in some dialects or contexts (e.g., UK regional usage), 'dinner' may refer to the midday meal, but the common, basic meaning of 'lunch' is the midday meal."
@@ -1413,7 +1413,7 @@ N06_088 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 10,
+    'difficulty_level': 9,
     'frequency_rank': 2358,
     'tags': [],
     'notes': 'Primary meaning: evening meal. Regional variation: in some dialects or historical/ rural usage, "dinner" can refer to the main mid-day meal. "Supper" is a common English synonym (sometimes slightly less formal or later/ lighter meal). Use in collocations: "have dinner", "dinner party", "dinner table". Translations provided are base (lemma) forms appropriate for the common meaning.'

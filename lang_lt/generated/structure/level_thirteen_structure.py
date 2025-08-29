@@ -23,7 +23,7 @@ from ..dictionary.time_period_dictionary import *
 level_thirteen_structure = {
   'Place Name': {
     "display_name": 'Place Name',
-    "words": [N30_036, N30_037, N30_039, N30_041, N30_040, N30_053, N30_048, N30_043, N30_038, N30_047, N30_052, N30_044, N30_049, N30_046, N30_051, N30_050, N30_042, N30_045, N30_001, N30_002, N30_003, N30_028, N30_030, N30_033, N30_034, N30_035]
+    "words": [N30_036, N30_037, N30_039, N30_041, N30_040, N30_053, N30_048, N30_043, N30_038, N30_047, N30_052, N30_044, N30_049, N30_046, N30_051, N30_050, N30_042, N30_045]
   },
   'Concept Idea': {
     "display_name": 'Concept Idea',

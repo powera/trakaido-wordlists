@@ -181,7 +181,7 @@ N12_011 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 8,
+    'difficulty_level': 9,
     'frequency_rank': 1035,
     'tags': [],
     'notes': ''
@@ -197,7 +197,7 @@ N12_012 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 8,
+    'difficulty_level': 9,
     'frequency_rank': 4009,
     'tags': [],
     'notes': ''
@@ -213,7 +213,7 @@ N12_013 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 8,
+    'difficulty_level': 9,
     'frequency_rank': 10270,
     'tags': [],
     'notes': ''
@@ -229,7 +229,7 @@ N12_014 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 8,
+    'difficulty_level': 9,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -245,7 +245,7 @@ N12_015 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 8,
+    'difficulty_level': 9,
     'frequency_rank': 3425,
     'tags': [],
     'notes': 'Original form: mouse (computer)'
@@ -261,7 +261,7 @@ N12_016 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 8,
+    'difficulty_level': 9,
     'frequency_rank': None,
     'tags': [],
     'notes': 'Original form: keyboard (computer)'
@@ -277,7 +277,7 @@ N12_017 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 8,
+    'difficulty_level': 9,
     'frequency_rank': 4793,
     'tags': [],
     'notes': 'Original form: monitor (computer)'
@@ -293,7 +293,7 @@ N12_018 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 8,
+    'difficulty_level': 9,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -309,7 +309,7 @@ N12_019 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 8,
+    'difficulty_level': 9,
     'frequency_rank': 2567,
     'tags': [],
     'notes': ''
@@ -325,7 +325,7 @@ N12_020 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 8,
+    'difficulty_level': 9,
     'frequency_rank': 1776,
     'tags': [],
     'notes': ''
@@ -341,7 +341,7 @@ N12_021 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 8,
+    'difficulty_level': 9,
     'frequency_rank': 1388,
     'tags': [],
     'notes': ''
@@ -357,7 +357,7 @@ N12_022 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 8,
+    'difficulty_level': 9,
     'frequency_rank': 6683,
     'tags': [],
     'notes': ''
@@ -373,7 +373,7 @@ N12_023 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 8,
+    'difficulty_level': 9,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -389,7 +389,7 @@ N12_024 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 8,
+    'difficulty_level': 9,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -405,7 +405,7 @@ N12_025 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 8,
+    'difficulty_level': 9,
     'frequency_rank': 4259,
     'tags': [],
     'notes': ''
@@ -421,7 +421,7 @@ N12_026 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 8,
+    'difficulty_level': 9,
     'frequency_rank': 3355,
     'tags': [],
     'notes': ''
@@ -437,7 +437,7 @@ N12_027 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 8,
+    'difficulty_level': 9,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -453,7 +453,7 @@ N12_028 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 8,
+    'difficulty_level': 9,
     'frequency_rank': 6651,
     'tags': [],
     'notes': ''
@@ -469,7 +469,7 @@ N12_029 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 8,
+    'difficulty_level': 9,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -485,7 +485,7 @@ N12_030 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 8,
+    'difficulty_level': 9,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -501,7 +501,7 @@ N12_031 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 8,
+    'difficulty_level': 9,
     'frequency_rank': 7096,
     'tags': [],
     'notes': ''
@@ -517,7 +517,7 @@ N12_032 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 8,
+    'difficulty_level': 9,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -533,7 +533,7 @@ N12_033 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 8,
+    'difficulty_level': 9,
     'frequency_rank': 1411,
     'tags': [],
     'notes': ''
@@ -549,7 +549,7 @@ N12_034 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 8,
+    'difficulty_level': 9,
     'frequency_rank': 2898,
     'tags': [],
     'notes': ''
@@ -565,7 +565,7 @@ N12_035 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 8,
+    'difficulty_level': 9,
     'frequency_rank': None,
     'tags': [],
     'notes': ''
@@ -581,7 +581,7 @@ N12_036 = {
     'lithuanian': ['elektroninis skaičiuotuvas', 'kalkuliatorius', 'kišeninis skaičiuotuvas']
   },
   'metadata': {
-    'difficulty_level': 8,
+    'difficulty_level': 9,
     'frequency_rank': None,
     'tags': [],
     'notes': 'Translations given refer to the common device meaning (a calculating machine). Lithuanian: skaičiuotuvas is the standard term; kalkuliatorius is a less common variant. French calculatrice is the usual feminine noun (calculateur exists but is less common). Vietnamese máy tính can also mean "computer"; more specific "máy tính bỏ túi" or "máy tính cầm tay" = pocket calculator. Swahili kikokotoo is the common word for a (pocket) calculator. All forms are provided in their base/lemma forms.'
@@ -597,7 +597,7 @@ N12_037 = {
     'lithuanian': ['maišytuvas']
   },
   'metadata': {
-    'difficulty_level': 8,
+    'difficulty_level': 9,
     'frequency_rank': None,
     'tags': [],
     'notes': "Commonly refers to an upright, countertop appliance for blending liquids and soft solids. Many languages also use loanwords (e.g., 'blenderis' in Lithuanian). Distinct from a food processor, which is usually for thicker chopping/slicing tasks."

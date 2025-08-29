@@ -21,7 +21,7 @@ D07_001 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 10,
+    'difficulty_level': 9,
     'frequency_rank': 52,
     'tags': [],
     'notes': ''
@@ -37,7 +37,7 @@ D07_002 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 10,
+    'difficulty_level': 9,
     'frequency_rank': 192,
     'tags': [],
     'notes': ''
@@ -53,7 +53,7 @@ D07_003 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 10,
+    'difficulty_level': 9,
     'frequency_rank': 130,
     'tags': [],
     'notes': ''
@@ -69,7 +69,7 @@ D07_004 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 10,
+    'difficulty_level': 9,
     'frequency_rank': 202,
     'tags': [],
     'notes': ''
@@ -85,7 +85,7 @@ D07_005 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 10,
+    'difficulty_level': 9,
     'frequency_rank': 325,
     'tags': [],
     'notes': ''
@@ -101,7 +101,7 @@ D07_006 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 10,
+    'difficulty_level': 9,
     'frequency_rank': 94,
     'tags': [],
     'notes': ''
@@ -117,7 +117,7 @@ D07_007 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 10,
+    'difficulty_level': 9,
     'frequency_rank': 34,
     'tags': [],
     'notes': ''
@@ -133,7 +133,7 @@ D07_008 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 10,
+    'difficulty_level': 9,
     'frequency_rank': 1822,
     'tags': [],
     'notes': ''
@@ -149,7 +149,7 @@ D07_009 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 10,
+    'difficulty_level': 9,
     'frequency_rank': 2685,
     'tags': [],
     'notes': ''
@@ -165,7 +165,7 @@ D07_010 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 10,
+    'difficulty_level': 9,
     'frequency_rank': 291,
     'tags': [],
     'notes': ''
@@ -181,7 +181,7 @@ D07_011 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 10,
+    'difficulty_level': 9,
     'frequency_rank': 252,
     'tags': [],
     'notes': ''
@@ -197,7 +197,7 @@ D07_012 = {
     'lithuanian': []
   },
   'metadata': {
-    'difficulty_level': 10,
+    'difficulty_level': 9,
     'frequency_rank': 2206,
     'tags': [],
     'notes': ''

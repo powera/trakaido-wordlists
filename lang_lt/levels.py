@@ -1,5 +1,4 @@
-
-
+#!/usr/bin/python
 
 # Levels configuration for verbs and phrases only
 # Nouns are now loaded per-level from generated structure files
@@ -57,10 +56,7 @@ levels = {
         {"corpus": "verbs_past", "group": "Movement & Travel"},
     ],
     "level_15": [
-        {"corpus": "phrases_one", "group": "Asking for Directions"},
-        {"corpus": "phrases_one", "group": "Transportation"},
-        {"corpus": "phrases_one", "group": "Restaurant"},
-        {"corpus": "phrases_one", "group": "Personal Comfort"},
+        # No verbs or phrases in level 15
     ],
     "level_16": [
         # No verbs or phrases in level 16
@@ -75,6 +71,10 @@ levels = {
         # No verbs or phrases in level 19
     ],
     "level_20": [
+        {"corpus": "phrases_one", "group": "Asking for Directions"},
+        {"corpus": "phrases_one", "group": "Transportation"},
+        {"corpus": "phrases_one", "group": "Restaurant"},
+        {"corpus": "phrases_one", "group": "Personal Comfort"},
         {"corpus": "sentences_twenty", "group": "Generated Sentences"},
     ],
 }
