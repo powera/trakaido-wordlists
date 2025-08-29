@@ -146,6 +146,9 @@ def get_all_word_pairs_flat():
                                 'metadata': word_entry.get('metadata', {}),
                                 'guid': word_entry.get('guid', '')
                             }
+                            # Add person field for verbs
+                            if corpus_name.startswith('verbs_') and 'person' in word_entry:
+                                flat_word['person'] = word_entry['person']
                             flat_words.append(flat_word)
     
     return flat_words
@@ -254,6 +257,7 @@ def get_words_by_level_enhanced(level_name):
                     enhanced_word = word_pair.copy()
                     enhanced_word['corpus'] = corpus
                     enhanced_word['group'] = group
+                    # Person field is already included in word_pair for verbs from the updated verbs.py
                     level_words.append(enhanced_word)
     
     return level_words

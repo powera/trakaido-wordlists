@@ -1113,7 +1113,8 @@ def get_conjugations_by_tense(tense):
                 for person_key, form_data in verbs_new[infinitive][tense].items():
                     result[category].append({
                         "english": form_data["english"],
-                        "lithuanian": form_data["lithuanian"]
+                        "lithuanian": form_data["lithuanian"],
+                        "person": person_key
                     })
     
     return result
