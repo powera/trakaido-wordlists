@@ -6,6 +6,11 @@ from typing import Dict, List, Any, Optional
 from .levels import levels
 from .generated.structure import level_structures
 
+# Import legacy data for non-noun corpora (until they're migrated)
+from .verbs import *
+from .phrases import *
+from .sentences_integration import load_sentences
+
 class WordListManager:
     """
     Manages word lists using the generated directory structure.
@@ -93,11 +98,6 @@ def _get_generated_levels():
 
 # Load generated levels
 _generated_levels = _get_generated_levels()
-
-# Import legacy data for non-noun corpora (until they're migrated)
-from .verbs import *
-from .phrases import *
-from .sentences_integration import load_sentences
 
 # Create all_words structure with per-level nouns and legacy verbs/phrases
 all_words = {}
