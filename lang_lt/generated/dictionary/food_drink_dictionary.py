@@ -24,7 +24,7 @@ N06_001 = {
     'difficulty_level': 1,
     'frequency_rank': 469,
     'tags': [],
-    'notes': ''
+    'notes': '[2025-08-30 15:55] Updated with gpt-5-mini'
   }
 }
 
@@ -40,7 +40,7 @@ N06_002 = {
     'difficulty_level': 1,
     'frequency_rank': 77,
     'tags': [],
-    'notes': ''
+    'notes': '[2025-08-30 15:55] Updated with gpt-5-mini'
   }
 }
 
@@ -56,7 +56,7 @@ N06_003 = {
     'difficulty_level': 1,
     'frequency_rank': 602,
     'tags': [],
-    'notes': ''
+    'notes': '[2025-08-30 15:56] Updated with gpt-5-mini'
   }
 }
 
@@ -72,7 +72,7 @@ N06_004 = {
     'difficulty_level': 1,
     'frequency_rank': 866,
     'tags': [],
-    'notes': ''
+    'notes': '[2025-08-30 15:56] Updated with gpt-5-mini'
   }
 }
 
@@ -88,7 +88,7 @@ N06_005 = {
     'difficulty_level': 1,
     'frequency_rank': 1448,
     'tags': [],
-    'notes': ''
+    'notes': '[2025-08-30 15:56] Updated with gpt-5-mini'
   }
 }
 
@@ -104,7 +104,7 @@ N06_006 = {
     'difficulty_level': 1,
     'frequency_rank': 745,
     'tags': [],
-    'notes': ''
+    'notes': '[2025-08-30 15:56] Updated with gpt-5-mini'
   }
 }
 
@@ -120,7 +120,7 @@ N06_007 = {
     'difficulty_level': 1,
     'frequency_rank': 598,
     'tags': [],
-    'notes': ''
+    'notes': '[2025-08-30 15:57] Updated with gpt-5-mini'
   }
 }
 
@@ -136,7 +136,7 @@ N06_008 = {
     'difficulty_level': 11,
     'frequency_rank': 552,
     'tags': [],
-    'notes': ''
+    'notes': '[2025-08-30 15:57] Updated with gpt-5-mini'
   }
 }
 
@@ -152,7 +152,7 @@ N06_009 = {
     'difficulty_level': 11,
     'frequency_rank': 1263,
     'tags': [],
-    'notes': ''
+    'notes': '[2025-08-30 15:57] Updated with gpt-5-mini'
   }
 }
 
@@ -168,7 +168,7 @@ N06_010 = {
     'difficulty_level': 11,
     'frequency_rank': 1464,
     'tags': [],
-    'notes': ''
+    'notes': '[2025-08-30 15:58] Updated with gpt-5-mini'
   }
 }
 
@@ -184,7 +184,7 @@ N06_011 = {
     'difficulty_level': 11,
     'frequency_rank': 1059,
     'tags': [],
-    'notes': ''
+    'notes': '[2025-08-30 15:58] Updated with gpt-5-mini'
   }
 }
 
@@ -200,7 +200,7 @@ N06_012 = {
     'difficulty_level': 1,
     'frequency_rank': 573,
     'tags': [],
-    'notes': ''
+    'notes': '[2025-08-30 15:58] Updated with gpt-5-mini'
   }
 }
 
@@ -216,7 +216,7 @@ N06_013 = {
     'difficulty_level': 1,
     'frequency_rank': 576,
     'tags': [],
-    'notes': ''
+    'notes': '[2025-08-30 15:58] Updated with gpt-5-mini'
   }
 }
 
@@ -232,7 +232,7 @@ N06_014 = {
     'difficulty_level': 1,
     'frequency_rank': 2402,
     'tags': [],
-    'notes': ''
+    'notes': '[2025-08-30 15:58] Updated with gpt-5-mini'
   }
 }
 
@@ -248,7 +248,7 @@ N06_015 = {
     'difficulty_level': 1,
     'frequency_rank': 1630,
     'tags': [],
-    'notes': ''
+    'notes': '[2025-08-30 15:59] Updated with gpt-5-mini'
   }
 }
 
@@ -264,7 +264,7 @@ N06_016 = {
     'difficulty_level': 1,
     'frequency_rank': 5636,
     'tags': [],
-    'notes': ''
+    'notes': '[2025-08-30 15:59] Updated with gpt-5-mini'
   }
 }
 
@@ -280,7 +280,7 @@ N06_017 = {
     'difficulty_level': 11,
     'frequency_rank': 1542,
     'tags': [],
-    'notes': 'Original form: orange (fruit)'
+    'notes': 'Original form: orange (fruit)\n[2025-08-30 15:59] Updated with gpt-5-mini'
   }
 }
 
@@ -296,7 +296,7 @@ N06_018 = {
     'difficulty_level': 1,
     'frequency_rank': 3421,
     'tags': [],
-    'notes': ''
+    'notes': '[2025-08-30 15:59] Updated with gpt-5-mini'
   }
 }
 
@@ -312,7 +312,7 @@ N06_019 = {
     'difficulty_level': 11,
     'frequency_rank': 2832,
     'tags': [],
-    'notes': ''
+    'notes': '[2025-08-30 15:59] Updated with gpt-5-mini'
   }
 }
 
@@ -328,7 +328,7 @@ N06_020 = {
     'difficulty_level': 1,
     'frequency_rank': 1682,
     'tags': [],
-    'notes': ''
+    'notes': '[2025-08-30 16:00] Updated with gpt-5-mini'
   }
 }
 
@@ -344,7 +344,7 @@ N06_021 = {
     'difficulty_level': 1,
     'frequency_rank': 1979,
     'tags': [],
-    'notes': ''
+    'notes': "[2025-08-30 16:10] Updated with gpt-5-mini: Focuses on the common culinary meaning (liquid food). 'Broth' and 'consommé' are related English terms; Lithuanian 'buljonas' refers specifically to meat/vegetable stock."
   }
 }
 
@@ -360,7 +360,7 @@ N06_022 = {
     'difficulty_level': 11,
     'frequency_rank': 1452,
     'tags': [],
-    'notes': ''
+    'notes': "[2025-08-30 16:11] Updated with gpt-5-mini: Here 'cake' refers to the common sweet baked dessert (Lithuanian 'tortas' often denotes layered celebration cakes; 'pyragas' is a broader term for cake/pastry). All forms given are base (lemma) forms."
   }
 }
 
@@ -376,7 +376,7 @@ N06_023 = {
     'difficulty_level': 11,
     'frequency_rank': 2644,
     'tags': [],
-    'notes': ''
+    'notes': "[2025-08-30 16:12] Updated with gpt-5-mini: Refers to the food/product made from cacao; does not cover figurative uses (e.g., color described as 'chocolate')."
   }
 }
 
@@ -1378,7 +1378,7 @@ N06_086 = {
   'lithuanian': 'pusryčiai',
   'alternatives': {
     'english': ['brekkie', 'morning meal'],
-    'lithuanian': ['pusryčiai (pluralia tantum - common form)', 'pusryčiauti (verb related)']
+    'lithuanian': []
   },
   'metadata': {
     'difficulty_level': 9,

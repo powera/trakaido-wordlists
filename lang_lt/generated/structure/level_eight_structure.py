@@ -34,7 +34,7 @@ level_eight_structure = {
   },
   'Building Structure': {
     "display_name": 'Building Structure',
-    "words": [N07_004, N07_012, N07_013, N07_014, N07_015, N07_016, N07_017]
+    "words": [N07_004, N07_012, N07_013, N07_014, N07_015, N07_016, N07_017, N07_026, N07_028, N07_030]
   },
   'Human': {
     "display_name": 'Human',

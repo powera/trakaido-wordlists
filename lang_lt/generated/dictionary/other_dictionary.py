@@ -81,7 +81,7 @@ N99_005 = {
   'english': 'please',
   'lithuanian': 'prašau',
   'alternatives': {
-    'english': ['please (polite request)'],
+    'english': [],
     'lithuanian': ['prašyti (verb)']
   },
   'metadata': {

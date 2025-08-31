@@ -283,3 +283,211 @@ N07_017 = {
     'notes': "Primary meaning: an industrial site for producing goods. Countable noun (one factory, two factories). Lithuanian 'gamykla' is the common native term; 'fabrikas' is a direct loanword and also used. In English, 'factory' can sometimes refer metonymically to the company or organization that operates the production site (e.g., 'the factory announced...'), but the core meaning is the physical production building."
   }
 }
+
+N07_018 = {
+  'guid': 'N07_018',
+  'english': 'tent',
+  'lithuanian': 'palapinė',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 15,
+    'frequency_rank': 3509,
+    'tags': [],
+    'notes': 'Commonly refers to a temporary, portable shelter for camping; not the military or ceremonial sense specifically.'
+  }
+}
+
+N07_019 = {
+  'guid': 'N07_019',
+  'english': 'barn',
+  'lithuanian': 'kūtis',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 15,
+    'frequency_rank': 4780,
+    'tags': [],
+    'notes': "Primary meaning: agricultural building for storage or animals. Regional variants (e.g., 'barn' vs. 'shed') exist; translations chosen reflect standard farmhouse storage building."
+  }
+}
+
+N07_020 = {
+  'guid': 'N07_020',
+  'english': 'gym',
+  'lithuanian': 'sporto salė',
+  'alternatives': {
+    'english': ['gymnasium'],
+    'lithuanian': ['sporto centras']
+  },
+  'metadata': {
+    'difficulty_level': 15,
+    'frequency_rank': 6755,
+    'tags': [],
+    'notes': "Commonly shortened form of 'gymnasium' in English; can refer to a school gym or a commercial fitness center. Lithuanian 'sporto centras' is an alternative when referring to larger commercial facilities."
+  }
+}
+
+N07_021 = {
+  'guid': 'N07_021',
+  'english': 'theater',
+  'lithuanian': 'teatras',
+  'alternatives': {
+    'english': ['theatre'],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 15,
+    'frequency_rank': 2932,
+    'tags': [],
+    'notes': "Primary meaning is a physical venue for performances; American English spelling 'theater' vs British 'theatre' (alternative form provided). Translations given are for the venue sense, not the art form."
+  }
+}
+
+N07_022 = {
+  'guid': 'N07_022',
+  'english': 'airport',
+  'lithuanian': 'oro uostas',
+  'alternatives': {
+    'english': ['aerodrome', 'airfield'],
+    'lithuanian': ['aerodromas']
+  },
+  'metadata': {
+    'difficulty_level': 15,
+    'frequency_rank': 3407,
+    'tags': [],
+    'notes': "Use 'airport' to refer to commercial passenger or cargo facilities; smaller facilities may be called 'airfield' or 'aerodrome'."
+  }
+}
+
+N07_023 = {
+  'guid': 'N07_023',
+  'english': 'bridge',
+  'lithuanian': 'tiltas',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 15,
+    'frequency_rank': 1102,
+    'tags': [],
+    'notes': "This entry refers to the physical structure meaning of 'bridge' (Lithuanian 'tiltas'). Does not cover metaphorical uses (e.g., 'bridge the gap') or other senses such as a dental bridge; those would be separate lemmas."
+  }
+}
+
+N07_024 = {
+  'guid': 'N07_024',
+  'english': 'tunnel',
+  'lithuanian': 'tunelis',
+  'alternatives': {
+    'english': [],
+    'lithuanian': ['tunnelis']
+  },
+  'metadata': {
+    'difficulty_level': 15,
+    'frequency_rank': 3524,
+    'tags': [],
+    'notes': "Primary meaning is an underground passage. 'Tunnel' can also be a verb (to tunnel) but this entry covers the noun lemma only."
+  }
+}
+
+N07_025 = {
+  'guid': 'N07_025',
+  'english': 'cafeteria',
+  'lithuanian': 'valgykla',
+  'alternatives': {
+    'english': ['canteen'],
+    'lithuanian': ['kavinė']
+  },
+  'metadata': {
+    'difficulty_level': 15,
+    'frequency_rank': 10121,
+    'tags': [],
+    'notes': "Here 'cafeteria' is used in the institutional/self-service sense corresponding to Lithuanian 'valgykla'. Alternative English 'canteen' and Lithuanian 'kavinė' differ slightly in formality and service style; all forms given are base/lemma forms."
+  }
+}
+
+N07_026 = {
+  'guid': 'N07_026',
+  'english': 'apartment',
+  'lithuanian': 'butas',
+  'alternatives': {
+    'english': ['flat'],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 8,
+    'frequency_rank': 1109,
+    'tags': [],
+    'notes': "This entry targets the residential sense of 'apartment' corresponding to Lithuanian 'butas'. In British English, 'flat' is a common synonym. 'Apartment' can also refer to a unit in a building (single-family dwelling within a multi-unit structure)."
+  }
+}
+
+N07_027 = {
+  'guid': 'N07_027',
+  'english': 'cemetery',
+  'lithuanian': 'kapinės',
+  'alternatives': {
+    'english': [],
+    'lithuanian': ['kapas', 'kapėnai']
+  },
+  'metadata': {
+    'difficulty_level': 15,
+    'frequency_rank': 9148,
+    'tags': [],
+    'notes': "Use focuses on public or communal burial grounds. Lithuanian 'kapinės' is the common term for a cemetery; singular less common in everyday use is 'kapas' (grave) rather than a singular for cemetery."
+  }
+}
+
+N07_028 = {
+  'guid': 'N07_028',
+  'english': 'market',
+  'lithuanian': 'turgus',
+  'alternatives': {
+    'english': ['marketplace'],
+    'lithuanian': ['prekyvietė', 'turgavietė']
+  },
+  'metadata': {
+    'difficulty_level': 8,
+    'frequency_rank': 1207,
+    'tags': [],
+    'notes': "Focuses on physical, public marketplace (as opposed to abstract market meaning like 'the market for stocks'). 'Turgus' corresponds to an open or traditional market; related Lithuanian alternatives include 'prekyvietė' (trading place)."
+  }
+}
+
+N07_029 = {
+  'guid': 'N07_029',
+  'english': 'castle',
+  'lithuanian': 'pilis',
+  'alternatives': {
+    'english': ['castle (fortress)'],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 15,
+    'frequency_rank': 1842,
+    'tags': [],
+    'notes': "Focuses on the historical/architectural meaning (fortified noble residence or stronghold). Does not include metaphorical uses (e.g., 'castle in the air'). The French 'château' can also mean manor house; context determines exact nuance."
+  }
+}
+
+N07_030 = {
+  'guid': 'N07_030',
+  'english': 'office',
+  'lithuanian': 'biuras',
+  'alternatives': {
+    'english': ['office (organization)'],
+    'lithuanian': ['ofisas']
+  },
+  'metadata': {
+    'difficulty_level': 8,
+    'frequency_rank': 701,
+    'tags': [],
+    'notes': "This analysis focuses on the physical workplace meaning of 'office' (Lithuanian 'biuras'). Do not include meanings such as a government office or official position; those senses may use different translations or terms."
+  }
+}

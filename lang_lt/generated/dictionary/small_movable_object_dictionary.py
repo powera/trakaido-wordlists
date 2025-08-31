@@ -427,3 +427,163 @@ N08_026 = {
     'notes': "'Spatula' covers several related kitchen tools: rubber/silicone spatulas used for scraping and mixing (often called 刮刀/抹刀 in Chinese or 'rubber spatula' in English), and flat metal or plastic turners used for flipping (often called 锅铲/铲子 or 'turner'). Translations vary by type and region—e.g., Chinese: 刮刀 (scraper/rubber spatula) vs. 锅铲 (wok/turner); Korean: 주걱 (general scoop/scraper) vs. 뒤집개 (turner); French 'spatule' covers both. Swahili often borrows 'spatula' from English. Provided translations are base/lemma forms and focus on the common kitchen-tool meaning."
   }
 }
+
+N08_027 = {
+  'guid': 'N08_027',
+  'english': 'umbrella',
+  'lithuanian': 'skėtis',
+  'alternatives': {
+    'english': ['parasol'],
+    'lithuanian': ['parasolė', 'skėstas']
+  },
+  'metadata': {
+    'difficulty_level': 15,
+    'frequency_rank': 10342,
+    'tags': [],
+    'notes': "Here 'umbrella' refers to the common handheld rain/sun shield (skėtis). 'Parasol' denotes a sun-specific umbrella in English; Lithuanian alternatives include less common or dialectal forms."
+  }
+}
+
+N08_028 = {
+  'guid': 'N08_028',
+  'english': 'stapler',
+  'lithuanian': 'segtuvas',
+  'alternatives': {
+    'english': ['paper stapler'],
+    'lithuanian': ['segtukas']
+  },
+  'metadata': {
+    'difficulty_level': 15,
+    'frequency_rank': None,
+    'tags': [],
+    'notes': "Focuses on common office stapler (handheld or desktop). Lithuanian 'segtuvas' is the standard term; 'segtukas' can also be used but sometimes refers to a small clip or safety pin."
+  }
+}
+
+N08_029 = {
+  'guid': 'N08_029',
+  'english': 'pillow',
+  'lithuanian': 'pagalvė',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 15,
+    'frequency_rank': 3543,
+    'tags': [],
+    'notes': "Refers to the common bedding item for head support during sleep; does not cover metaphorical uses (e.g., 'pillow of air') or specialized cushions like decorative cushions (which can also be called 'cushion')."
+  }
+}
+
+N08_030 = {
+  'guid': 'N08_030',
+  'english': 'blanket',
+  'lithuanian': 'antklodė',
+  'alternatives': {
+    'english': ['comforter', 'coverlet', 'quilt'],
+    'lithuanian': ['antklodė (storesnių rūšių: pūkinė antklodė)', 'pledukas']
+  },
+  'metadata': {
+    'difficulty_level': 15,
+    'frequency_rank': 4679,
+    'tags': [],
+    'notes': "This entry treats 'blanket' in the primary sense of a bed covering (Lithuanian 'antklodė'). Other senses (e.g., blanket statement, blanket coverage as adjective) are excluded per instructions."
+  }
+}
+
+N08_031 = {
+  'guid': 'N08_031',
+  'english': 'pan',
+  'lithuanian': 'keptuvė',
+  'alternatives': {
+    'english': ['frying pan', 'skillet'],
+    'lithuanian': ['frying pan (loan)']
+  },
+  'metadata': {
+    'difficulty_level': 15,
+    'frequency_rank': 9174,
+    'tags': [],
+    'notes': "Analysis focuses on 'pan' meaning a cooking pan (Lithuanian keptuvė). Other meanings (e.g., to pan a camera, to criticize) are excluded per instructions."
+  }
+}
+
+N08_032 = {
+  'guid': 'N08_032',
+  'english': 'vase',
+  'lithuanian': 'vaza',
+  'alternatives': {
+    'english': ['urn'],
+    'lithuanian': ['urna']
+  },
+  'metadata': {
+    'difficulty_level': 15,
+    'frequency_rank': None,
+    'tags': [],
+    'notes': "Here 'vase' refers to a decorative flower container. 'Urn' can be a larger or funerary container; included as a related alternative. All translations are in base (singular/lemma) form."
+  }
+}
+
+N08_033 = {
+  'guid': 'N08_033',
+  'english': 'soap',
+  'lithuanian': 'muilas',
+  'alternatives': {
+    'english': ['soap (bar)', 'soap (liquid)'],
+    'lithuanian': ['skystas muilas']
+  },
+  'metadata': {
+    'difficulty_level': 15,
+    'frequency_rank': 4972,
+    'tags': [],
+    'notes': "This entry covers the common cleaning product (solid or liquid). Does not cover metaphorical uses (e.g., 'soap' as a genre: soap opera). All forms given as base/lemma."
+  }
+}
+
+N08_034 = {
+  'guid': 'N08_034',
+  'english': 'razor',
+  'lithuanian': 'skustuvas',
+  'alternatives': {
+    'english': ['razor (safety razor)', 'razor (straight razor)'],
+    'lithuanian': ['skustuvas (saugos skustuvas)', 'skustuvas (taisytas skustuvas)']
+  },
+  'metadata': {
+    'difficulty_level': 15,
+    'frequency_rank': 9507,
+    'tags': [],
+    'notes': "Analysis focuses on the personal shaving device meaning (Lithuanian 'skustuvas'). Does not cover figurative uses (e.g., 'razor' in compound names) or other senses like 'razor blade' as separate noun."
+  }
+}
+
+N08_035 = {
+  'guid': 'N08_035',
+  'english': 'doll',
+  'lithuanian': 'lėlė',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 15,
+    'frequency_rank': 4816,
+    'tags': [],
+    'notes': "Primary meaning: toy resembling a human. 'Doll' can have figurative uses (affectionate term), but those are excluded per lemma focus."
+  }
+}
+
+N08_036 = {
+  'guid': 'N08_036',
+  'english': 'toy',
+  'lithuanian': 'žaislas',
+  'alternatives': {
+    'english': ['toy (also verb: toying)'],
+    'lithuanian': ['žaisti (verb form)']
+  },
+  'metadata': {
+    'difficulty_level': 15,
+    'frequency_rank': 6621,
+    'tags': [],
+    'notes': "Primary meaning as a noun (children's play object). 'Toy' can also be a verb meaning to play with or treat lightly, but that reading is excluded per instructions."
+  }
+}
