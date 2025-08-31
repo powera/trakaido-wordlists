@@ -16,6 +16,7 @@ Format: "Category": {
 """
 
 from ..dictionary.animal_dictionary import *
+from ..dictionary.body_part_dictionary import *
 from ..dictionary.building_structure_dictionary import *
 from ..dictionary.clothing_accessory_dictionary import *
 from ..dictionary.plant_dictionary import *
@@ -41,5 +42,9 @@ level_fifteen_structure = {
   'Building Structure': {
     "display_name": 'Building Structure',
     "words": [N07_018, N07_019, N07_020, N07_021, N07_022, N07_023, N07_024, N07_025, N07_027, N07_029]
+  },
+  'Body Part': {
+    "display_name": 'Body Part',
+    "words": [N03_031, N03_032, N03_033, N03_034, N03_035, N03_036, N03_037, N03_038, N03_039, N03_040, N03_041, N03_042, N03_043, N03_044, N03_045]
   },
 }

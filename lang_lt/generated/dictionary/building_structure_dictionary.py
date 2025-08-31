@@ -491,3 +491,179 @@ N07_030 = {
     'notes': "This analysis focuses on the physical workplace meaning of 'office' (Lithuanian 'biuras'). Do not include meanings such as a government office or official position; those senses may use different translations or terms."
   }
 }
+
+N07_031 = {
+  'guid': 'N07_031',
+  'english': 'kitchen',
+  'lithuanian': 'virtuvė',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 16,
+    'frequency_rank': 1277,
+    'tags': [],
+    'notes': "Refers to the room for preparing and cooking food (singular, base form). 'Jiko' in Swahili can also mean a stove; context may vary regionally."
+  }
+}
+
+N07_032 = {
+  'guid': 'N07_032',
+  'english': 'bedroom',
+  'lithuanian': 'miegamasis',
+  'alternatives': {
+    'english': [],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 16,
+    'frequency_rank': 2393,
+    'tags': [],
+    'notes': "Commonly refers to a private room for sleeping; in some contexts 'bedroom' can imply ownership (e.g., 'master bedroom') but those are derivations not analyzed here."
+  }
+}
+
+N07_033 = {
+  'guid': 'N07_033',
+  'english': 'basement',
+  'lithuanian': 'rūsys',
+  'alternatives': {
+    'english': [],
+    'lithuanian': ['pamatų rūsys']
+  },
+  'metadata': {
+    'difficulty_level': 16,
+    'frequency_rank': 6128,
+    'tags': [],
+    'notes': 'Here \'basement\' refers to the common residential/commercial underground floor (Lithuanian \'rūsys\'). Does not cover figurative senses (e.g., "the basement level of quality").'
+  }
+}
+
+N07_034 = {
+  'guid': 'N07_034',
+  'english': 'closet',
+  'lithuanian': 'spinta',
+  'alternatives': {
+    'english': ['closet (US)', 'cupboard (UK)'],
+    'lithuanian': ['spintelė']
+  },
+  'metadata': {
+    'difficulty_level': 16,
+    'frequency_rank': 5485,
+    'tags': [],
+    'notes': "Primary meaning: an indoor storage cupboard for clothes or items. 'Closet' can be regionally synonymous with 'wardrobe' or 'cupboard'. Provided translations reflect common household storage item in each language."
+  }
+}
+
+N07_035 = {
+  'guid': 'N07_035',
+  'english': 'living room',
+  'lithuanian': 'svetainė',
+  'alternatives': {
+    'english': ['sitting room'],
+    'lithuanian': ['svetainė (svetainė)']
+  },
+  'metadata': {
+    'difficulty_level': 16,
+    'frequency_rank': None,
+    'tags': [],
+    'notes': "Focuses on the common domestic room for receiving guests and family relaxation. 'Sitting room' is a close English variant; Lithuanian 'svetainė' is the standard equivalent."
+  }
+}
+
+N07_036 = {
+  'guid': 'N07_036',
+  'english': 'bathroom',
+  'lithuanian': 'vonios kambarys',
+  'alternatives': {
+    'english': ['restroom', 'toilet (US/UK distinctions)', 'washroom'],
+    'lithuanian': ['tualetas']
+  },
+  'metadata': {
+    'difficulty_level': 16,
+    'frequency_rank': 3066,
+    'tags': [],
+    'notes': "In English, 'bathroom' commonly refers to a room with a bath or shower; in public contexts 'restroom' or 'toilet' may be used. Lithuanian 'vonios kambarys' is the literal base form; 'tualetas' specifically denotes a toilet."
+  }
+}
+
+N07_037 = {
+  'guid': 'N07_037',
+  'english': 'patio',
+  'lithuanian': 'patijas',
+  'alternatives': {
+    'english': [],
+    'lithuanian': ['terasa']
+  },
+  'metadata': {
+    'difficulty_level': 16,
+    'frequency_rank': None,
+    'tags': [],
+    'notes': "In English, 'patio' commonly refers to a paved outdoor area; synonyms include 'terrace' or 'deck' depending on region. Lithuanian 'patijas' is a direct borrowing; 'terasa' is also common."
+  }
+}
+
+N07_038 = {
+  'guid': 'N07_038',
+  'english': 'hallway',
+  'lithuanian': 'koridorius',
+  'alternatives': {
+    'english': ['corridor', 'passage'],
+    'lithuanian': ['holas']
+  },
+  'metadata': {
+    'difficulty_level': 16,
+    'frequency_rank': 3010,
+    'tags': [],
+    'notes': "Primary sense is an interior passage in buildings. 'Hall' can be related but may denote a larger room or entrance area; 'hallway' specifically indicates a passage/corridor."
+  }
+}
+
+N07_039 = {
+  'guid': 'N07_039',
+  'english': 'attic',
+  'lithuanian': 'palėpė',
+  'alternatives': {
+    'english': [],
+    'lithuanian': ['stoginė']
+  },
+  'metadata': {
+    'difficulty_level': 16,
+    'frequency_rank': 9758,
+    'tags': [],
+    'notes': "Primary meaning: the space under a roof used as storage or an extra room. 'Attic' can sometimes refer to an architectural style (Attic Greek), but that sense is not included here. Lithuanian 'palėpė' is the common term; 'stoginė' may be used regionally or for different roofed structures."
+  }
+}
+
+N07_040 = {
+  'guid': 'N07_040',
+  'english': 'dining room',
+  'lithuanian': 'valgomasis',
+  'alternatives': {
+    'english': ['dining-room'],
+    'lithuanian': []
+  },
+  'metadata': {
+    'difficulty_level': 16,
+    'frequency_rank': None,
+    'tags': [],
+    'notes': "Compound noun; single, base form refers to the room itself. In some dialects 'dining room' may be shortened to 'dining' in informal contexts, but that is not the base lemma."
+  }
+}
+
+N07_041 = {
+  'guid': 'N07_041',
+  'english': 'laundry room',
+  'lithuanian': 'skalbykla',
+  'alternatives': {
+    'english': ['laundryroom'],
+    'lithuanian': ['skalbykla (namuose)']
+  },
+  'metadata': {
+    'difficulty_level': 16,
+    'frequency_rank': None,
+    'tags': [],
+    'notes': "Use singular base form. Some dialects use 'laundry' to mean the same; in buildings it may be called 'common laundry' or 'laundry room'."
+  }
+}

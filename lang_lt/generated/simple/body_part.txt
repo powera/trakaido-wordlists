@@ -28,5 +28,20 @@
   {"en": "toe", "lt": "kojos pirštas"},
   {"en": "tongue", "lt": "liežuvis"},
   {"en": "tooth", "lt": "dantis"},
-  {"en": "wrist", "lt": "riešas"}
+  {"en": "wrist", "lt": "riešas"},
+  {"en": "blood", "lt": "kraujas"},
+  {"en": "brain", "lt": "smegenys"},
+  {"en": "cheek", "lt": "skruostas"},
+  {"en": "chin", "lt": "smakras"},
+  {"en": "fingernail", "lt": "nagas"},
+  {"en": "jaw", "lt": "žandas"},
+  {"en": "kidney", "lt": "inkstas"},
+  {"en": "liver", "lt": "kepenys"},
+  {"en": "lung", "lt": "plautis"},
+  {"en": "spine", "lt": "stuburas"},
+  {"en": "sweat", "lt": "prakaitas"},
+  {"en": "tail", "lt": "uodega"},
+  {"en": "tear", "lt": "ašara"},
+  {"en": "throat", "lt": "gerklė"},
+  {"en": "wing", "lt": "sparnas"}
 ]

@@ -28,5 +28,16 @@
   {"en": "gym", "lt": "sporto salė"},
   {"en": "tent", "lt": "palapinė"},
   {"en": "theater", "lt": "teatras"},
-  {"en": "tunnel", "lt": "tunelis"}
+  {"en": "tunnel", "lt": "tunelis"},
+  {"en": "attic", "lt": "palėpė"},
+  {"en": "basement", "lt": "rūsys"},
+  {"en": "bathroom", "lt": "vonios kambarys"},
+  {"en": "bedroom", "lt": "miegamasis"},
+  {"en": "closet", "lt": "spinta"},
+  {"en": "dining room", "lt": "valgomasis"},
+  {"en": "hallway", "lt": "koridorius"},
+  {"en": "kitchen", "lt": "virtuvė"},
+  {"en": "laundry room", "lt": "skalbykla"},
+  {"en": "living room", "lt": "svetainė"},
+  {"en": "patio", "lt": "patijas"}
 ]
