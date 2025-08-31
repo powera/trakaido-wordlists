@@ -53,5 +53,4 @@ __all__ = [
     'get_all_word_pairs_flat',
     'check_for_duplicates',
     'find_missing_words',
-    'find_lithuanian_words_not_in_audiobatches',
 ]
