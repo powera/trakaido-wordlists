@@ -8,122 +8,122 @@
     "level": 6,
     "word_type": "verb",
     "grammatical_forms": {
-      "1sg_pres": {
+      "1s_pres": {
         "level": 6,
         "lithuanian": "aš esu",
         "english": "I am"
       },
-      "2sg_pres": {
+      "2s_pres": {
         "level": 6,
         "lithuanian": "tu esi",
         "english": "you(s.) are"
       },
-      "3sg_m_pres": {
+      "3s-m_pres": {
         "level": 6,
         "lithuanian": "jis yra",
         "english": "he is"
       },
-      "3sg_f_pres": {
+      "3s-f_pres": {
         "level": 6,
         "lithuanian": "ji yra",
         "english": "she is"
       },
-      "1pl_pres": {
+      "1p_pres": {
         "level": 6,
         "lithuanian": "mes esame",
         "english": "we are"
       },
-      "2pl_pres": {
+      "2p_pres": {
         "level": 6,
         "lithuanian": "jūs esate",
         "english": "you(pl.) are"
       },
-      "3pl_m_pres": {
+      "3p-m_pres": {
         "level": 6,
         "lithuanian": "jie yra",
         "english": "they(m.) are"
       },
-      "3pl_f_pres": {
+      "3p-f_pres": {
         "level": 6,
         "lithuanian": "jos yra",
         "english": "they(f.) are"
       },
-      "1sg_past": {
+      "1s_past": {
         "level": 7,
         "lithuanian": "aš buvau",
         "english": "I was"
       },
-      "2sg_past": {
+      "2s_past": {
         "level": 7,
         "lithuanian": "tu buvai",
         "english": "you(s.) were"
       },
-      "3sg_m_past": {
+      "3s-m_past": {
         "level": 7,
         "lithuanian": "jis buvo",
         "english": "he was"
       },
-      "3sg_f_past": {
+      "3s-f_past": {
         "level": 7,
         "lithuanian": "ji buvo",
         "english": "she was"
       },
-      "1pl_past": {
+      "1p_past": {
         "level": 7,
         "lithuanian": "mes buvome",
         "english": "we were"
       },
-      "2pl_past": {
+      "2p_past": {
         "level": 7,
         "lithuanian": "jūs buvote",
         "english": "you(pl.) were"
       },
-      "3pl_m_past": {
+      "3p-m_past": {
         "level": 7,
         "lithuanian": "jie buvo",
         "english": "they(m.) were"
       },
-      "3pl_f_past": {
+      "3p-f_past": {
         "level": 7,
         "lithuanian": "jos buvo",
         "english": "they(f.) were"
       },
-      "1sg_fut": {
+      "1s_fut": {
         "level": 12,
         "lithuanian": "aš būsiu",
         "english": "I will be"
       },
-      "2sg_fut": {
+      "2s_fut": {
         "level": 12,
         "lithuanian": "tu būsi",
         "english": "you(s.) will be"
       },
-      "3sg_m_fut": {
+      "3s-m_fut": {
         "level": 12,
         "lithuanian": "jis bus",
         "english": "he will be"
       },
-      "3sg_f_fut": {
+      "3s-f_fut": {
         "level": 12,
         "lithuanian": "ji bus",
         "english": "she will be"
       },
-      "1pl_fut": {
+      "1p_fut": {
         "level": 12,
         "lithuanian": "mes būsime",
         "english": "we will be"
       },
-      "2pl_fut": {
+      "2p_fut": {
         "level": 12,
         "lithuanian": "jūs būsite",
         "english": "you(pl.) will be"
       },
-      "3pl_m_fut": {
+      "3p-m_fut": {
         "level": 12,
         "lithuanian": "jie bus",
         "english": "they(m.) will be"
       },
-      "3pl_f_fut": {
+      "3p-f_fut": {
         "level": 12,
         "lithuanian": "jos bus",
         "english": "they(f.) will be"
@@ -147,122 +147,122 @@
     "level": 6,
     "word_type": "verb",
     "grammatical_forms": {
-      "1sg_pres": {
+      "1s_pres": {
         "level": 6,
         "lithuanian": "aš duodu",
         "english": "I give"
       },
-      "2sg_pres": {
+      "2s_pres": {
         "level": 6,
         "lithuanian": "tu duodi",
         "english": "you(s.) give"
       },
-      "3sg_m_pres": {
+      "3s-m_pres": {
         "level": 6,
         "lithuanian": "jis duoda",
         "english": "he gives"
       },
-      "3sg_f_pres": {
+      "3s-f_pres": {
         "level": 6,
         "lithuanian": "ji duoda",
         "english": "she gives"
       },
-      "1pl_pres": {
+      "1p_pres": {
         "level": 6,
         "lithuanian": "mes duodame",
         "english": "we give"
       },
-      "2pl_pres": {
+      "2p_pres": {
         "level": 6,
         "lithuanian": "jūs duodate",
         "english": "you(pl.) give"
       },
-      "3pl_m_pres": {
+      "3p-m_pres": {
         "level": 6,
         "lithuanian": "jie duoda",
         "english": "they(m.) give"
       },
-      "3pl_f_pres": {
+      "3p-f_pres": {
         "level": 6,
         "lithuanian": "jos duoda",
         "english": "they(f.) give"
       },
-      "1sg_past": {
+      "1s_past": {
         "level": 7,
         "lithuanian": "aš daviau",
         "english": "I gave"
       },
-      "2sg_past": {
+      "2s_past": {
         "level": 7,
         "lithuanian": "tu davei",
         "english": "you(s.) gave"
       },
-      "3sg_m_past": {
+      "3s-m_past": {
         "level": 7,
         "lithuanian": "jis davė",
         "english": "he gave"
       },
-      "3sg_f_past": {
+      "3s-f_past": {
         "level": 7,
         "lithuanian": "ji davė",
         "english": "she gave"
       },
-      "1pl_past": {
+      "1p_past": {
         "level": 7,
         "lithuanian": "mes davėme",
         "english": "we gave"
       },
-      "2pl_past": {
+      "2p_past": {
         "level": 7,
         "lithuanian": "jūs davėte",
         "english": "you(pl.) gave"
       },
-      "3pl_m_past": {
+      "3p-m_past": {
         "level": 7,
         "lithuanian": "jie davė",
         "english": "they(m.) gave"
       },
-      "3pl_f_past": {
+      "3p-f_past": {
         "level": 7,
         "lithuanian": "jos davė",
         "english": "they(f.) gave"
       },
-      "1sg_fut": {
+      "1s_fut": {
         "level": 12,
         "lithuanian": "aš duosiu",
         "english": "I will give"
       },
-      "2sg_fut": {
+      "2s_fut": {
         "level": 12,
         "lithuanian": "tu duosi",
         "english": "you(s.) will give"
       },
-      "3sg_m_fut": {
+      "3s-m_fut": {
         "level": 12,
         "lithuanian": "jis duos",
         "english": "he will give"
       },
-      "3sg_f_fut": {
+      "3s-f_fut": {
         "level": 12,
         "lithuanian": "ji duos",
         "english": "she will give"
       },
-      "1pl_fut": {
+      "1p_fut": {
         "level": 12,
         "lithuanian": "mes duosime",
         "english": "we will give"
       },
-      "2pl_fut": {
+      "2p_fut": {
         "level": 12,
         "lithuanian": "jūs duosite",
         "english": "you(pl.) will give"
       },
-      "3pl_m_fut": {
+      "3p-m_fut": {
         "level": 12,
         "lithuanian": "jie duos",
         "english": "they(m.) will give"
       },
-      "3pl_f_fut": {
+      "3p-f_fut": {
         "level": 12,
         "lithuanian": "jos duos",
         "english": "they(f.) will give"
@@ -283,122 +283,122 @@
     "level": 6,
     "word_type": "verb",
     "grammatical_forms": {
-      "1sg_pres": {
+      "1s_pres": {
         "level": 6,
         "lithuanian": "aš gaminu",
         "english": "I make"
       },
-      "2sg_pres": {
+      "2s_pres": {
         "level": 6,
         "lithuanian": "tu gamini",
         "english": "you(s.) make"
       },
-      "3sg_m_pres": {
+      "3s-m_pres": {
         "level": 6,
         "lithuanian": "jis gamina",
         "english": "he makes"
       },
-      "3sg_f_pres": {
+      "3s-f_pres": {
         "level": 6,
         "lithuanian": "ji gamina",
         "english": "she makes"
       },
-      "1pl_pres": {
+      "1p_pres": {
         "level": 6,
         "lithuanian": "mes gaminame",
         "english": "we make"
       },
-      "2pl_pres": {
+      "2p_pres": {
         "level": 6,
         "lithuanian": "jūs gaminate",
         "english": "you(pl.) make"
       },
-      "3pl_m_pres": {
+      "3p-m_pres": {
         "level": 6,
         "lithuanian": "jie gamina",
         "english": "they(m.) make"
       },
-      "3pl_f_pres": {
+      "3p-f_pres": {
         "level": 6,
         "lithuanian": "jos gamina",
         "english": "they(f.) make"
       },
-      "1sg_past": {
+      "1s_past": {
         "level": 7,
         "lithuanian": "aš gaminau",
         "english": "I made"
       },
-      "2sg_past": {
+      "2s_past": {
         "level": 7,
         "lithuanian": "tu gaminai",
         "english": "you(s.) made"
       },
-      "3sg_m_past": {
+      "3s-m_past": {
         "level": 7,
         "lithuanian": "jis gamino",
         "english": "he made"
       },
-      "3sg_f_past": {
+      "3s-f_past": {
         "level": 7,
         "lithuanian": "ji gamino",
         "english": "she made"
       },
-      "1pl_past": {
+      "1p_past": {
         "level": 7,
         "lithuanian": "mes gaminome",
         "english": "we made"
       },
-      "2pl_past": {
+      "2p_past": {
         "level": 7,
         "lithuanian": "jūs gaminote",
         "english": "you(pl.) made"
       },
-      "3pl_m_past": {
+      "3p-m_past": {
         "level": 7,
         "lithuanian": "jie gamino",
         "english": "they(m.) made"
       },
-      "3pl_f_past": {
+      "3p-f_past": {
         "level": 7,
         "lithuanian": "jos gamino",
         "english": "they(f.) made"
       },
-      "1sg_fut": {
+      "1s_fut": {
         "level": 12,
         "lithuanian": "aš gaminsiu",
         "english": "I will make"
       },
-      "2sg_fut": {
+      "2s_fut": {
         "level": 12,
         "lithuanian": "tu gaminsi",
         "english": "you(s.) will make"
       },
-      "3sg_m_fut": {
+      "3s-m_fut": {
         "level": 12,
         "lithuanian": "jis gamins",
         "english": "he will make"
       },
-      "3sg_f_fut": {
+      "3s-f_fut": {
         "level": 12,
         "lithuanian": "ji gamins",
         "english": "she will make"
       },
-      "1pl_fut": {
+      "1p_fut": {
         "level": 12,
         "lithuanian": "mes gaminsime",
         "english": "we will make"
       },
-      "2pl_fut": {
+      "2p_fut": {
         "level": 12,
         "lithuanian": "jūs gaminsite",
         "english": "you(pl.) will make"
       },
-      "3pl_m_fut": {
+      "3p-m_fut": {
         "level": 12,
         "lithuanian": "jie gamins",
         "english": "they(m.) will make"
       },
-      "3pl_f_fut": {
+      "3p-f_fut": {
         "level": 12,
         "lithuanian": "jos gamins",
         "english": "they(f.) will make"
@@ -419,122 +419,122 @@
     "level": 6,
     "word_type": "verb",
     "grammatical_forms": {
-      "1sg_pres": {
+      "1s_pres": {
         "level": 6,
         "lithuanian": "aš imu",
         "english": "I take"
       },
-      "2sg_pres": {
+      "2s_pres": {
         "level": 6,
         "lithuanian": "tu imi",
         "english": "you(s.) take"
       },
-      "3sg_m_pres": {
+      "3s-m_pres": {
         "level": 6,
         "lithuanian": "jis ima",
         "english": "he takes"
       },
-      "3sg_f_pres": {
+      "3s-f_pres": {
         "level": 6,
         "lithuanian": "ji ima",
         "english": "she takes"
       },
-      "1pl_pres": {
+      "1p_pres": {
         "level": 6,
         "lithuanian": "mes imame",
         "english": "we take"
       },
-      "2pl_pres": {
+      "2p_pres": {
         "level": 6,
         "lithuanian": "jūs imate",
         "english": "you(pl.) take"
       },
-      "3pl_m_pres": {
+      "3p-m_pres": {
         "level": 6,
         "lithuanian": "jie ima",
         "english": "they(m.) take"
       },
-      "3pl_f_pres": {
+      "3p-f_pres": {
         "level": 6,
         "lithuanian": "jos ima",
         "english": "they(f.) take"
       },
-      "1sg_past": {
+      "1s_past": {
         "level": 7,
         "lithuanian": "aš ėmiau",
         "english": "I took"
       },
-      "2sg_past": {
+      "2s_past": {
         "level": 7,
         "lithuanian": "tu ėmei",
         "english": "you(s.) took"
       },
-      "3sg_m_past": {
+      "3s-m_past": {
         "level": 7,
         "lithuanian": "jis ėmė",
         "english": "he took"
       },
-      "3sg_f_past": {
+      "3s-f_past": {
         "level": 7,
         "lithuanian": "ji ėmė",
         "english": "she took"
       },
-      "1pl_past": {
+      "1p_past": {
         "level": 7,
         "lithuanian": "mes ėmėme",
         "english": "we took"
       },
-      "2pl_past": {
+      "2p_past": {
         "level": 7,
         "lithuanian": "jūs ėmėte",
         "english": "you(pl.) took"
       },
-      "3pl_m_past": {
+      "3p-m_past": {
         "level": 7,
         "lithuanian": "jie ėmė",
         "english": "they(m.) took"
       },
-      "3pl_f_past": {
+      "3p-f_past": {
         "level": 7,
         "lithuanian": "jos ėmė",
         "english": "they(f.) took"
       },
-      "1sg_fut": {
+      "1s_fut": {
         "level": 12,
         "lithuanian": "aš imsiu",
         "english": "I will take"
       },
-      "2sg_fut": {
+      "2s_fut": {
         "level": 12,
         "lithuanian": "tu imsi",
         "english": "you(s.) will take"
       },
-      "3sg_m_fut": {
+      "3s-m_fut": {
         "level": 12,
         "lithuanian": "jis ims",
         "english": "he will take"
       },
-      "3sg_f_fut": {
+      "3s-f_fut": {
         "level": 12,
         "lithuanian": "ji ims",
         "english": "she will take"
       },
-      "1pl_fut": {
+      "1p_fut": {
         "level": 12,
         "lithuanian": "mes imsime",
         "english": "we will take"
       },
-      "2pl_fut": {
+      "2p_fut": {
         "level": 12,
         "lithuanian": "jūs imsite",
         "english": "you(pl.) will take"
       },
-      "3pl_m_fut": {
+      "3p-m_fut": {
         "level": 12,
         "lithuanian": "jie ims",
         "english": "they(m.) will take"
       },
-      "3pl_f_fut": {
+      "3p-f_fut": {
         "level": 12,
         "lithuanian": "jos ims",
         "english": "they(f.) will take"
@@ -555,122 +555,122 @@
     "level": 6,
     "word_type": "verb",
     "grammatical_forms": {
-      "1sg_pres": {
+      "1s_pres": {
         "level": 6,
         "lithuanian": "aš perku",
         "english": "I buy"
       },
-      "2sg_pres": {
+      "2s_pres": {
         "level": 6,
         "lithuanian": "tu perki",
         "english": "you(s.) buy"
       },
-      "3sg_m_pres": {
+      "3s-m_pres": {
         "level": 6,
         "lithuanian": "jis perka",
         "english": "he buys"
       },
-      "3sg_f_pres": {
+      "3s-f_pres": {
         "level": 6,
         "lithuanian": "ji perka",
         "english": "she buys"
       },
-      "1pl_pres": {
+      "1p_pres": {
         "level": 6,
         "lithuanian": "mes perkame",
         "english": "we buy"
       },
-      "2pl_pres": {
+      "2p_pres": {
         "level": 6,
         "lithuanian": "jūs perkate",
         "english": "you(pl.) buy"
       },
-      "3pl_m_pres": {
+      "3p-m_pres": {
         "level": 6,
         "lithuanian": "jie perka",
         "english": "they(m.) buy"
       },
-      "3pl_f_pres": {
+      "3p-f_pres": {
         "level": 6,
         "lithuanian": "jos perka",
         "english": "they(f.) buy"
       },
-      "1sg_past": {
+      "1s_past": {
         "level": 7,
         "lithuanian": "aš pirkau",
         "english": "I bought"
       },
-      "2sg_past": {
+      "2s_past": {
         "level": 7,
         "lithuanian": "tu pirkai",
         "english": "you(s.) bought"
       },
-      "3sg_m_past": {
+      "3s-m_past": {
         "level": 7,
         "lithuanian": "jis pirko",
         "english": "he bought"
       },
-      "3sg_f_past": {
+      "3s-f_past": {
         "level": 7,
         "lithuanian": "ji pirko",
         "english": "she bought"
       },
-      "1pl_past": {
+      "1p_past": {
         "level": 7,
         "lithuanian": "mes pirkome",
         "english": "we bought"
       },
-      "2pl_past": {
+      "2p_past": {
         "level": 7,
         "lithuanian": "jūs pirkote",
         "english": "you(pl.) bought"
       },
-      "3pl_m_past": {
+      "3p-m_past": {
         "level": 7,
         "lithuanian": "jie pirko",
         "english": "they(m.) bought"
       },
-      "3pl_f_past": {
+      "3p-f_past": {
         "level": 7,
         "lithuanian": "jos pirko",
         "english": "they(f.) bought"
       },
-      "1sg_fut": {
+      "1s_fut": {
         "level": 12,
         "lithuanian": "aš pirksiu",
         "english": "I will buy"
       },
-      "2sg_fut": {
+      "2s_fut": {
         "level": 12,
         "lithuanian": "tu pirksi",
         "english": "you(s.) will buy"
       },
-      "3sg_m_fut": {
+      "3s-m_fut": {
         "level": 12,
         "lithuanian": "jis pirks",
         "english": "he will buy"
       },
-      "3sg_f_fut": {
+      "3s-f_fut": {
         "level": 12,
         "lithuanian": "ji pirks",
         "english": "she will buy"
       },
-      "1pl_fut": {
+      "1p_fut": {
         "level": 12,
         "lithuanian": "mes pirksime",
         "english": "we will buy"
       },
-      "2pl_fut": {
+      "2p_fut": {
         "level": 12,
         "lithuanian": "jūs pirksite",
         "english": "you(pl.) will buy"
       },
-      "3pl_m_fut": {
+      "3p-m_fut": {
         "level": 12,
         "lithuanian": "jie pirks",
         "english": "they(m.) will buy"
       },
-      "3pl_f_fut": {
+      "3p-f_fut": {
         "level": 12,
         "lithuanian": "jos pirks",
         "english": "they(f.) will buy"
@@ -691,122 +691,122 @@
     "level": 6,
     "word_type": "verb",
     "grammatical_forms": {
-      "1sg_pres": {
+      "1s_pres": {
         "level": 6,
         "lithuanian": "aš turiu",
         "english": "I have"
       },
-      "2sg_pres": {
+      "2s_pres": {
         "level": 6,
         "lithuanian": "tu turi",
         "english": "you(s.) have"
       },
-      "3sg_m_pres": {
+      "3s-m_pres": {
         "level": 6,
         "lithuanian": "jis turi",
         "english": "he has"
       },
-      "3sg_f_pres": {
+      "3s-f_pres": {
         "level": 6,
         "lithuanian": "ji turi",
         "english": "she has"
       },
-      "1pl_pres": {
+      "1p_pres": {
         "level": 6,
         "lithuanian": "mes turime",
         "english": "we have"
       },
-      "2pl_pres": {
+      "2p_pres": {
         "level": 6,
         "lithuanian": "jūs turite",
         "english": "you(pl.) have"
       },
-      "3pl_m_pres": {
+      "3p-m_pres": {
         "level": 6,
         "lithuanian": "jie turi",
         "english": "they(m.) have"
       },
-      "3pl_f_pres": {
+      "3p-f_pres": {
         "level": 6,
         "lithuanian": "jos turi",
         "english": "they(f.) have"
       },
-      "1sg_past": {
+      "1s_past": {
         "level": 7,
         "lithuanian": "aš turėjau",
         "english": "I had"
       },
-      "2sg_past": {
+      "2s_past": {
         "level": 7,
         "lithuanian": "tu turėjai",
         "english": "you(s.) had"
       },
-      "3sg_m_past": {
+      "3s-m_past": {
         "level": 7,
         "lithuanian": "jis turėjo",
         "english": "he had"
       },
-      "3sg_f_past": {
+      "3s-f_past": {
         "level": 7,
         "lithuanian": "ji turėjo",
         "english": "she had"
       },
-      "1pl_past": {
+      "1p_past": {
         "level": 7,
         "lithuanian": "mes turėjome",
         "english": "we had"
       },
-      "2pl_past": {
+      "2p_past": {
         "level": 7,
         "lithuanian": "jūs turėjote",
         "english": "you(pl.) had"
       },
-      "3pl_m_past": {
+      "3p-m_past": {
         "level": 7,
         "lithuanian": "jie turėjo",
         "english": "they(m.) had"
       },
-      "3pl_f_past": {
+      "3p-f_past": {
         "level": 7,
         "lithuanian": "jos turėjo",
         "english": "they(f.) had"
       },
-      "1sg_fut": {
+      "1s_fut": {
         "level": 12,
         "lithuanian": "aš turėsiu",
         "english": "I will have"
       },
-      "2sg_fut": {
+      "2s_fut": {
         "level": 12,
         "lithuanian": "tu turėsi",
         "english": "you(s.) will have"
       },
-      "3sg_m_fut": {
+      "3s-m_fut": {
         "level": 12,
         "lithuanian": "jis turės",
         "english": "he will have"
       },
-      "3sg_f_fut": {
+      "3s-f_fut": {
         "level": 12,
         "lithuanian": "ji turės",
         "english": "she will have"
       },
-      "1pl_fut": {
+      "1p_fut": {
         "level": 12,
         "lithuanian": "mes turėsime",
         "english": "we will have"
       },
-      "2pl_fut": {
+      "2p_fut": {
         "level": 12,
         "lithuanian": "jūs turėsite",
         "english": "you(pl.) will have"
       },
-      "3pl_m_fut": {
+      "3p-m_fut": {
         "level": 12,
         "lithuanian": "jie turės",
         "english": "they(m.) will have"
       },
-      "3pl_f_fut": {
+      "3p-f_fut": {
         "level": 12,
         "lithuanian": "jos turės",
         "english": "they(f.) will have"
@@ -830,122 +830,122 @@
     "level": 6,
     "word_type": "verb",
     "grammatical_forms": {
-      "1sg_pres": {
+      "1s_pres": {
         "level": 6,
         "lithuanian": "aš dirbu",
         "english": "I work"
       },
-      "2sg_pres": {
+      "2s_pres": {
         "level": 6,
         "lithuanian": "tu dirbi",
         "english": "you(s.) work"
       },
-      "3sg_m_pres": {
+      "3s-m_pres": {
         "level": 6,
         "lithuanian": "jis dirba",
         "english": "he works"
       },
-      "3sg_f_pres": {
+      "3s-f_pres": {
         "level": 6,
         "lithuanian": "ji dirba",
         "english": "she works"
       },
-      "1pl_pres": {
+      "1p_pres": {
         "level": 6,
         "lithuanian": "mes dirbame",
         "english": "we work"
       },
-      "2pl_pres": {
+      "2p_pres": {
         "level": 6,
         "lithuanian": "jūs dirbate",
         "english": "you(pl.) work"
       },
-      "3pl_m_pres": {
+      "3p-m_pres": {
         "level": 6,
         "lithuanian": "jie dirba",
         "english": "they(m.) work"
       },
-      "3pl_f_pres": {
+      "3p-f_pres": {
         "level": 6,
         "lithuanian": "jos dirba",
         "english": "they(f.) work"
       },
-      "1sg_past": {
+      "1s_past": {
         "level": 7,
         "lithuanian": "aš dirbau",
         "english": "I worked"
       },
-      "2sg_past": {
+      "2s_past": {
         "level": 7,
         "lithuanian": "tu dirbai",
         "english": "you(s.) worked"
       },
-      "3sg_m_past": {
+      "3s-m_past": {
         "level": 7,
         "lithuanian": "jis dirbo",
         "english": "he worked"
       },
-      "3sg_f_past": {
+      "3s-f_past": {
         "level": 7,
         "lithuanian": "ji dirbo",
         "english": "she worked"
       },
-      "1pl_past": {
+      "1p_past": {
         "level": 7,
         "lithuanian": "mes dirbome",
         "english": "we worked"
       },
-      "2pl_past": {
+      "2p_past": {
         "level": 7,
         "lithuanian": "jūs dirbote",
         "english": "you(pl.) worked"
       },
-      "3pl_m_past": {
+      "3p-m_past": {
         "level": 7,
         "lithuanian": "jie dirbo",
         "english": "they(m.) worked"
       },
-      "3pl_f_past": {
+      "3p-f_past": {
         "level": 7,
         "lithuanian": "jos dirbo",
         "english": "they(f.) worked"
       },
-      "1sg_fut": {
+      "1s_fut": {
         "level": 12,
         "lithuanian": "aš dirbsiu",
         "english": "I will work"
       },
-      "2sg_fut": {
+      "2s_fut": {
         "level": 12,
         "lithuanian": "tu dirbsi",
         "english": "you(s.) will work"
       },
-      "3sg_m_fut": {
+      "3s-m_fut": {
         "level": 12,
         "lithuanian": "jis dirbs",
         "english": "he will work"
       },
-      "3sg_f_fut": {
+      "3s-f_fut": {
         "level": 12,
         "lithuanian": "ji dirbs",
         "english": "she will work"
       },
-      "1pl_fut": {
+      "1p_fut": {
         "level": 12,
         "lithuanian": "mes dirbsime",
         "english": "we will work"
       },
-      "2pl_fut": {
+      "2p_fut": {
         "level": 12,
         "lithuanian": "jūs dirbsite",
         "english": "you(pl.) will work"
       },
-      "3pl_m_fut": {
+      "3p-m_fut": {
         "level": 12,
         "lithuanian": "jie dirbs",
         "english": "they(m.) will work"
       },
-      "3pl_f_fut": {
+      "3p-f_fut": {
         "level": 12,
         "lithuanian": "jos dirbs",
         "english": "they(f.) will work"
@@ -967,122 +967,122 @@
     "level": 6,
     "word_type": "verb",
     "grammatical_forms": {
-      "1sg_pres": {
+      "1s_pres": {
         "level": 6,
         "lithuanian": "aš geriu",
         "english": "I drink"
       },
-      "2sg_pres": {
+      "2s_pres": {
         "level": 6,
         "lithuanian": "tu geri",
         "english": "you(s.) drink"
       },
-      "3sg_m_pres": {
+      "3s-m_pres": {
         "level": 6,
         "lithuanian": "jis geria",
         "english": "he drinks"
       },
-      "3sg_f_pres": {
+      "3s-f_pres": {
         "level": 6,
         "lithuanian": "ji geria",
         "english": "she drinks"
       },
-      "1pl_pres": {
+      "1p_pres": {
         "level": 6,
         "lithuanian": "mes geriame",
         "english": "we drink"
       },
-      "2pl_pres": {
+      "2p_pres": {
         "level": 6,
         "lithuanian": "jūs geriate",
         "english": "you(pl.) drink"
       },
-      "3pl_m_pres": {
+      "3p-m_pres": {
         "level": 6,
         "lithuanian": "jie geria",
         "english": "they(m.) drink"
       },
-      "3pl_f_pres": {
+      "3p-f_pres": {
         "level": 6,
         "lithuanian": "jos geria",
         "english": "they(f.) drink"
       },
-      "1sg_past": {
+      "1s_past": {
         "level": 7,
         "lithuanian": "aš gėriau",
         "english": "I drank"
       },
-      "2sg_past": {
+      "2s_past": {
         "level": 7,
         "lithuanian": "tu gėrei",
         "english": "you(s.) drank"
       },
-      "3sg_m_past": {
+      "3s-m_past": {
         "level": 7,
         "lithuanian": "jis gėrė",
         "english": "he drank"
       },
-      "3sg_f_past": {
+      "3s-f_past": {
         "level": 7,
         "lithuanian": "ji gėrė",
         "english": "she drank"
       },
-      "1pl_past": {
+      "1p_past": {
         "level": 7,
         "lithuanian": "mes gėrėme",
         "english": "we drank"
       },
-      "2pl_past": {
+      "2p_past": {
         "level": 7,
         "lithuanian": "jūs gėrėte",
         "english": "you(pl.) drank"
       },
-      "3pl_m_past": {
+      "3p-m_past": {
         "level": 7,
         "lithuanian": "jie gėrė",
         "english": "they(m.) drank"
       },
-      "3pl_f_past": {
+      "3p-f_past": {
         "level": 7,
         "lithuanian": "jos gėrė",
         "english": "they(f.) drank"
       },
-      "1sg_fut": {
+      "1s_fut": {
         "level": 12,
         "lithuanian": "aš gersiu",
         "english": "I will drink"
       },
-      "2sg_fut": {
+      "2s_fut": {
         "level": 12,
         "lithuanian": "tu gersi",
         "english": "you(s.) will drink"
       },
-      "3sg_m_fut": {
+      "3s-m_fut": {
         "level": 12,
         "lithuanian": "jis gers",
         "english": "he will drink"
       },
-      "3sg_f_fut": {
+      "3s-f_fut": {
         "level": 12,
         "lithuanian": "ji gers",
         "english": "she will drink"
       },
-      "1pl_fut": {
+      "1p_fut": {
         "level": 12,
         "lithuanian": "mes gersime",
         "english": "we will drink"
       },
-      "2pl_fut": {
+      "2p_fut": {
         "level": 12,
         "lithuanian": "jūs gersite",
         "english": "you(pl.) will drink"
       },
-      "3pl_m_fut": {
+      "3p-m_fut": {
         "level": 12,
         "lithuanian": "jie gers",
         "english": "they(m.) will drink"
       },
-      "3pl_f_fut": {
+      "3p-f_fut": {
         "level": 12,
         "lithuanian": "jos gers",
         "english": "they(f.) will drink"
@@ -1104,122 +1104,122 @@
     "level": 6,
     "word_type": "verb",
     "grammatical_forms": {
-      "1sg_pres": {
+      "1s_pres": {
         "level": 6,
         "lithuanian": "aš gyvenu",
         "english": "I live"
       },
-      "2sg_pres": {
+      "2s_pres": {
         "level": 6,
         "lithuanian": "tu gyveni",
         "english": "you(s.) live"
       },
-      "3sg_m_pres": {
+      "3s-m_pres": {
         "level": 6,
         "lithuanian": "jis gyvena",
         "english": "he lives"
       },
-      "3sg_f_pres": {
+      "3s-f_pres": {
         "level": 6,
         "lithuanian": "ji gyvena",
         "english": "she lives"
       },
-      "1pl_pres": {
+      "1p_pres": {
         "level": 6,
         "lithuanian": "mes gyvename",
         "english": "we live"
       },
-      "2pl_pres": {
+      "2p_pres": {
         "level": 6,
         "lithuanian": "jūs gyvenate",
         "english": "you(pl.) live"
       },
-      "3pl_m_pres": {
+      "3p-m_pres": {
         "level": 6,
         "lithuanian": "jie gyvena",
         "english": "they(m.) live"
       },
-      "3pl_f_pres": {
+      "3p-f_pres": {
         "level": 6,
         "lithuanian": "jos gyvena",
         "english": "they(f.) live"
       },
-      "1sg_past": {
+      "1s_past": {
         "level": 7,
         "lithuanian": "aš gyvenau",
         "english": "I lived"
       },
-      "2sg_past": {
+      "2s_past": {
         "level": 7,
         "lithuanian": "tu gyvenai",
         "english": "you(s.) lived"
       },
-      "3sg_m_past": {
+      "3s-m_past": {
         "level": 7,
         "lithuanian": "jis gyveno",
         "english": "he lived"
       },
-      "3sg_f_past": {
+      "3s-f_past": {
         "level": 7,
         "lithuanian": "ji gyveno",
         "english": "she lived"
       },
-      "1pl_past": {
+      "1p_past": {
         "level": 7,
         "lithuanian": "mes gyvenome",
         "english": "we lived"
       },
-      "2pl_past": {
+      "2p_past": {
         "level": 7,
         "lithuanian": "jūs gyvenote",
         "english": "you(pl.) lived"
       },
-      "3pl_m_past": {
+      "3p-m_past": {
         "level": 7,
         "lithuanian": "jie gyveno",
         "english": "they(m.) lived"
       },
-      "3pl_f_past": {
+      "3p-f_past": {
         "level": 7,
         "lithuanian": "jos gyveno",
         "english": "they(f.) lived"
       },
-      "1sg_fut": {
+      "1s_fut": {
         "level": 12,
         "lithuanian": "aš gyvensiu",
         "english": "I will live"
       },
-      "2sg_fut": {
+      "2s_fut": {
         "level": 12,
         "lithuanian": "tu gyvensi",
         "english": "you(s.) will live"
       },
-      "3sg_m_fut": {
+      "3s-m_fut": {
         "level": 12,
         "lithuanian": "jis gyvens",
         "english": "he will live"
       },
-      "3sg_f_fut": {
+      "3s-f_fut": {
         "level": 12,
         "lithuanian": "ji gyvens",
         "english": "she will live"
       },
-      "1pl_fut": {
+      "1p_fut": {
         "level": 12,
         "lithuanian": "mes gyvensime",
         "english": "we will live"
       },
-      "2pl_fut": {
+      "2p_fut": {
         "level": 12,
         "lithuanian": "jūs gyvensite",
         "english": "you(pl.) will live"
       },
-      "3pl_m_fut": {
+      "3p-m_fut": {
         "level": 12,
         "lithuanian": "jie gyvens",
         "english": "they(m.) will live"
       },
-      "3pl_f_fut": {
+      "3p-f_fut": {
         "level": 12,
         "lithuanian": "jos gyvens",
         "english": "they(f.) will live"
@@ -1241,122 +1241,122 @@
     "level": 6,
     "word_type": "verb",
     "grammatical_forms": {
-      "1sg_pres": {
+      "1s_pres": {
         "level": 6,
         "lithuanian": "aš miegu",
         "english": "I sleep"
       },
-      "2sg_pres": {
+      "2s_pres": {
         "level": 6,
         "lithuanian": "tu miegi",
         "english": "you(s.) sleep"
       },
-      "3sg_m_pres": {
+      "3s-m_pres": {
         "level": 6,
         "lithuanian": "jis miega",
         "english": "he sleeps"
       },
-      "3sg_f_pres": {
+      "3s-f_pres": {
         "level": 6,
         "lithuanian": "ji miega",
         "english": "she sleeps"
       },
-      "1pl_pres": {
+      "1p_pres": {
         "level": 6,
         "lithuanian": "mes miegame",
         "english": "we sleep"
       },
-      "2pl_pres": {
+      "2p_pres": {
         "level": 6,
         "lithuanian": "jūs miegate",
         "english": "you(pl.) sleep"
       },
-      "3pl_m_pres": {
+      "3p-m_pres": {
         "level": 6,
         "lithuanian": "jie miega",
         "english": "they(m.) sleep"
       },
-      "3pl_f_pres": {
+      "3p-f_pres": {
         "level": 6,
         "lithuanian": "jos miega",
         "english": "they(f.) sleep"
       },
-      "1sg_past": {
+      "1s_past": {
         "level": 7,
         "lithuanian": "aš miegojau",
         "english": "I slept"
       },
-      "2sg_past": {
+      "2s_past": {
         "level": 7,
         "lithuanian": "tu miegojai",
         "english": "you(s.) slept"
       },
-      "3sg_m_past": {
+      "3s-m_past": {
         "level": 7,
         "lithuanian": "jis miegojo",
         "english": "he slept"
       },
-      "3sg_f_past": {
+      "3s-f_past": {
         "level": 7,
         "lithuanian": "ji miegojo",
         "english": "she slept"
       },
-      "1pl_past": {
+      "1p_past": {
         "level": 7,
         "lithuanian": "mes miegojome",
         "english": "we slept"
       },
-      "2pl_past": {
+      "2p_past": {
         "level": 7,
         "lithuanian": "jūs miegojote",
         "english": "you(pl.) slept"
       },
-      "3pl_m_past": {
+      "3p-m_past": {
         "level": 7,
         "lithuanian": "jie miegojo",
         "english": "they(m.) slept"
       },
-      "3pl_f_past": {
+      "3p-f_past": {
         "level": 7,
         "lithuanian": "jos miegojo",
         "english": "they(f.) slept"
       },
-      "1sg_fut": {
+      "1s_fut": {
         "level": 12,
         "lithuanian": "aš miegosiu",
         "english": "I will sleep"
       },
-      "2sg_fut": {
+      "2s_fut": {
         "level": 12,
         "lithuanian": "tu miegosi",
         "english": "you(s.) will sleep"
       },
-      "3sg_m_fut": {
+      "3s-m_fut": {
         "level": 12,
         "lithuanian": "jis miegos",
         "english": "he will sleep"
       },
-      "3sg_f_fut": {
+      "3s-f_fut": {
         "level": 12,
         "lithuanian": "ji miegos",
         "english": "she will sleep"
       },
-      "1pl_fut": {
+      "1p_fut": {
         "level": 12,
         "lithuanian": "mes miegosime",
         "english": "we will sleep"
       },
-      "2pl_fut": {
+      "2p_fut": {
         "level": 12,
         "lithuanian": "jūs miegosite",
         "english": "you(pl.) will sleep"
       },
-      "3pl_m_fut": {
+      "3p-m_fut": {
         "level": 12,
         "lithuanian": "jie miegos",
         "english": "they(m.) will sleep"
       },
-      "3pl_f_fut": {
+      "3p-f_fut": {
         "level": 12,
         "lithuanian": "jos miegos",
         "english": "they(f.) will sleep"
@@ -1378,122 +1378,122 @@
     "level": 6,
     "word_type": "verb",
     "grammatical_forms": {
-      "1sg_pres": {
+      "1s_pres": {
         "level": 6,
         "lithuanian": "aš valgau",
         "english": "I eat"
       },
-      "2sg_pres": {
+      "2s_pres": {
         "level": 6,
         "lithuanian": "tu valgai",
         "english": "you(s.) eat"
       },
-      "3sg_m_pres": {
+      "3s-m_pres": {
         "level": 6,
         "lithuanian": "jis valgo",
         "english": "he eats"
       },
-      "3sg_f_pres": {
+      "3s-f_pres": {
         "level": 6,
         "lithuanian": "ji valgo",
         "english": "she eats"
       },
-      "1pl_pres": {
+      "1p_pres": {
         "level": 6,
         "lithuanian": "mes valgome",
         "english": "we eat"
       },
-      "2pl_pres": {
+      "2p_pres": {
         "level": 6,
         "lithuanian": "jūs valgote",
         "english": "you(pl.) eat"
       },
-      "3pl_m_pres": {
+      "3p-m_pres": {
         "level": 6,
         "lithuanian": "jie valgo",
         "english": "they(m.) eat"
       },
-      "3pl_f_pres": {
+      "3p-f_pres": {
         "level": 6,
         "lithuanian": "jos valgo",
         "english": "they(f.) eat"
       },
-      "1sg_past": {
+      "1s_past": {
         "level": 7,
         "lithuanian": "aš valgiau",
         "english": "I ate"
       },
-      "2sg_past": {
+      "2s_past": {
         "level": 7,
         "lithuanian": "tu valgei",
         "english": "you(s.) ate"
       },
-      "3sg_m_past": {
+      "3s-m_past": {
         "level": 7,
         "lithuanian": "jis valgė",
         "english": "he ate"
       },
-      "3sg_f_past": {
+      "3s-f_past": {
         "level": 7,
         "lithuanian": "ji valgė",
         "english": "she ate"
       },
-      "1pl_past": {
+      "1p_past": {
         "level": 7,
         "lithuanian": "mes valgėme",
         "english": "we ate"
       },
-      "2pl_past": {
+      "2p_past": {
         "level": 7,
         "lithuanian": "jūs valgėte",
         "english": "you(pl.) ate"
       },
-      "3pl_m_past": {
+      "3p-m_past": {
         "level": 7,
         "lithuanian": "jie valgė",
         "english": "they(m.) ate"
       },
-      "3pl_f_past": {
+      "3p-f_past": {
         "level": 7,
         "lithuanian": "jos valgė",
         "english": "they(f.) ate"
       },
-      "1sg_fut": {
+      "1s_fut": {
         "level": 12,
         "lithuanian": "aš valgysiu",
         "english": "I will eat"
       },
-      "2sg_fut": {
+      "2s_fut": {
         "level": 12,
         "lithuanian": "tu valgysi",
         "english": "you(s.) will eat"
       },
-      "3sg_m_fut": {
+      "3s-m_fut": {
         "level": 12,
         "lithuanian": "jis valgys",
         "english": "he will eat"
       },
-      "3sg_f_fut": {
+      "3s-f_fut": {
         "level": 12,
         "lithuanian": "ji valgys",
         "english": "she will eat"
       },
-      "1pl_fut": {
+      "1p_fut": {
         "level": 12,
         "lithuanian": "mes valgysime",
         "english": "we will eat"
       },
-      "2pl_fut": {
+      "2p_fut": {
         "level": 12,
         "lithuanian": "jūs valgysite",
         "english": "you(pl.) will eat"
       },
-      "3pl_m_fut": {
+      "3p-m_fut": {
         "level": 12,
         "lithuanian": "jie valgys",
         "english": "they(m.) will eat"
       },
-      "3pl_f_fut": {
+      "3p-f_fut": {
         "level": 12,
         "lithuanian": "jos valgys",
         "english": "they(f.) will eat"
@@ -1515,122 +1515,122 @@
     "level": 6,
     "word_type": "verb",
     "grammatical_forms": {
-      "1sg_pres": {
+      "1s_pres": {
         "level": 6,
         "lithuanian": "aš žaidžiu",
         "english": "I play"
       },
-      "2sg_pres": {
+      "2s_pres": {
         "level": 6,
         "lithuanian": "tu žaidi",
         "english": "you(s.) play"
       },
-      "3sg_m_pres": {
+      "3s-m_pres": {
         "level": 6,
         "lithuanian": "jis žaidžia",
         "english": "he plays"
       },
-      "3sg_f_pres": {
+      "3s-f_pres": {
         "level": 6,
         "lithuanian": "ji žaidžia",
         "english": "she plays"
       },
-      "1pl_pres": {
+      "1p_pres": {
         "level": 6,
         "lithuanian": "mes žaidžiame",
         "english": "we play"
       },
-      "2pl_pres": {
+      "2p_pres": {
         "level": 6,
         "lithuanian": "jūs žaidžiate",
         "english": "you(pl.) play"
       },
-      "3pl_m_pres": {
+      "3p-m_pres": {
         "level": 6,
         "lithuanian": "jie žaidžia",
         "english": "they(m.) play"
       },
-      "3pl_f_pres": {
+      "3p-f_pres": {
         "level": 6,
         "lithuanian": "jos žaidžia",
         "english": "they(f.) play"
       },
-      "1sg_past": {
+      "1s_past": {
         "level": 7,
         "lithuanian": "aš žaidžiau",
         "english": "I played"
       },
-      "2sg_past": {
+      "2s_past": {
         "level": 7,
         "lithuanian": "tu žaidei",
         "english": "you(s.) played"
       },
-      "3sg_m_past": {
+      "3s-m_past": {
         "level": 7,
         "lithuanian": "jis žaidė",
         "english": "he played"
       },
-      "3sg_f_past": {
+      "3s-f_past": {
         "level": 7,
         "lithuanian": "ji žaidė",
         "english": "she played"
       },
-      "1pl_past": {
+      "1p_past": {
         "level": 7,
         "lithuanian": "mes žaidėme",
         "english": "we played"
       },
-      "2pl_past": {
+      "2p_past": {
         "level": 7,
         "lithuanian": "jūs žaidėte",
         "english": "you(pl.) played"
       },
-      "3pl_m_past": {
+      "3p-m_past": {
         "level": 7,
         "lithuanian": "jie žaidė",
         "english": "they(m.) played"
       },
-      "3pl_f_past": {
+      "3p-f_past": {
         "level": 7,
         "lithuanian": "jos žaidė",
         "english": "they(f.) played"
       },
-      "1sg_fut": {
+      "1s_fut": {
         "level": 12,
         "lithuanian": "aš žaisiu",
         "english": "I will play"
       },
-      "2sg_fut": {
+      "2s_fut": {
         "level": 12,
         "lithuanian": "tu žaisi",
         "english": "you(s.) will play"
       },
-      "3sg_m_fut": {
+      "3s-m_fut": {
         "level": 12,
         "lithuanian": "jis žais",
         "english": "he will play"
       },
-      "3sg_f_fut": {
+      "3s-f_fut": {
         "level": 12,
         "lithuanian": "ji žais",
         "english": "she will play"
       },
-      "1pl_fut": {
+      "1p_fut": {
         "level": 12,
         "lithuanian": "mes žaisime",
         "english": "we will play"
       },
-      "2pl_fut": {
+      "2p_fut": {
         "level": 12,
         "lithuanian": "jūs žaisite",
         "english": "you(pl.) will play"
       },
-      "3pl_m_fut": {
+      "3p-m_fut": {
         "level": 12,
         "lithuanian": "jie žais",
         "english": "they(m.) will play"
       },
-      "3pl_f_fut": {
+      "3p-f_fut": {
         "level": 12,
         "lithuanian": "jos žais",
         "english": "they(f.) will play"
@@ -1652,122 +1652,122 @@
     "level": 6,
     "word_type": "verb",
     "grammatical_forms": {
-      "1sg_pres": {
+      "1s_pres": {
         "level": 6,
         "lithuanian": "aš galiu",
         "english": "I can"
       },
-      "2sg_pres": {
+      "2s_pres": {
         "level": 6,
         "lithuanian": "tu gali",
         "english": "you(s.) can"
       },
-      "3sg_m_pres": {
+      "3s-m_pres": {
         "level": 6,
         "lithuanian": "jis gali",
         "english": "he can"
       },
-      "3sg_f_pres": {
+      "3s-f_pres": {
         "level": 6,
         "lithuanian": "ji gali",
         "english": "she can"
       },
-      "1pl_pres": {
+      "1p_pres": {
         "level": 6,
         "lithuanian": "mes galime",
         "english": "we can"
       },
-      "2pl_pres": {
+      "2p_pres": {
         "level": 6,
         "lithuanian": "jūs galite",
         "english": "you(pl.) can"
       },
-      "3pl_m_pres": {
+      "3p-m_pres": {
         "level": 6,
         "lithuanian": "jie gali",
         "english": "they(m.) can"
       },
-      "3pl_f_pres": {
+      "3p-f_pres": {
         "level": 6,
         "lithuanian": "jos gali",
         "english": "they(f.) can"
       },
-      "1sg_past": {
+      "1s_past": {
         "level": 7,
         "lithuanian": "aš galėjau",
         "english": "I could"
       },
-      "2sg_past": {
+      "2s_past": {
         "level": 7,
         "lithuanian": "tu galėjai",
         "english": "you(s.) could"
       },
-      "3sg_m_past": {
+      "3s-m_past": {
         "level": 7,
         "lithuanian": "jis galėjo",
         "english": "he could"
       },
-      "3sg_f_past": {
+      "3s-f_past": {
         "level": 7,
         "lithuanian": "ji galėjo",
         "english": "she could"
       },
-      "1pl_past": {
+      "1p_past": {
         "level": 7,
         "lithuanian": "mes galėjome",
         "english": "we could"
       },
-      "2pl_past": {
+      "2p_past": {
         "level": 7,
         "lithuanian": "jūs galėjote",
         "english": "you(pl.) could"
       },
-      "3pl_m_past": {
+      "3p-m_past": {
         "level": 7,
         "lithuanian": "jie galėjo",
         "english": "they(m.) could"
       },
-      "3pl_f_past": {
+      "3p-f_past": {
         "level": 7,
         "lithuanian": "jos galėjo",
         "english": "they(f.) could"
       },
-      "1sg_fut": {
+      "1s_fut": {
         "level": 12,
         "lithuanian": "aš galėsiu",
         "english": "I will be able"
       },
-      "2sg_fut": {
+      "2s_fut": {
         "level": 12,
         "lithuanian": "tu galėsi",
         "english": "you(s.) will be able"
       },
-      "3sg_m_fut": {
+      "3s-m_fut": {
         "level": 12,
         "lithuanian": "jis galės",
         "english": "he will be able"
       },
-      "3sg_f_fut": {
+      "3s-f_fut": {
         "level": 12,
         "lithuanian": "ji galės",
         "english": "she will be able"
       },
-      "1pl_fut": {
+      "1p_fut": {
         "level": 12,
         "lithuanian": "mes galėsime",
         "english": "we will be able"
       },
-      "2pl_fut": {
+      "2p_fut": {
         "level": 12,
         "lithuanian": "jūs galėsite",
         "english": "you(pl.) will be able"
       },
-      "3pl_m_fut": {
+      "3p-m_fut": {
         "level": 12,
         "lithuanian": "jie galės",
         "english": "they(m.) will be able"
       },
-      "3pl_f_fut": {
+      "3p-f_fut": {
         "level": 12,
         "lithuanian": "jos galės",
         "english": "they(f.) will be able"
@@ -1790,122 +1790,122 @@
     "level": 6,
     "word_type": "verb",
     "grammatical_forms": {
-      "1sg_pres": {
+      "1s_pres": {
         "level": 6,
         "lithuanian": "aš kalbu",
         "english": "I speak"
       },
-      "2sg_pres": {
+      "2s_pres": {
         "level": 6,
         "lithuanian": "tu kalbi",
         "english": "you(s.) speak"
       },
-      "3sg_m_pres": {
+      "3s-m_pres": {
         "level": 6,
         "lithuanian": "jis kalba",
         "english": "he speaks"
       },
-      "3sg_f_pres": {
+      "3s-f_pres": {
         "level": 6,
         "lithuanian": "ji kalba",
         "english": "she speaks"
       },
-      "1pl_pres": {
+      "1p_pres": {
         "level": 6,
         "lithuanian": "mes kalbame",
         "english": "we speak"
       },
-      "2pl_pres": {
+      "2p_pres": {
         "level": 6,
         "lithuanian": "jūs kalbate",
         "english": "you(pl.) speak"
       },
-      "3pl_m_pres": {
+      "3p-m_pres": {
         "level": 6,
         "lithuanian": "jie kalba",
         "english": "they(m.) speak"
       },
-      "3pl_f_pres": {
+      "3p-f_pres": {
         "level": 6,
         "lithuanian": "jos kalba",
         "english": "they(f.) speak"
       },
-      "1sg_past": {
+      "1s_past": {
         "level": 7,
         "lithuanian": "aš kalbėjau",
         "english": "I spoke"
       },
-      "2sg_past": {
+      "2s_past": {
         "level": 7,
         "lithuanian": "tu kalbėjai",
         "english": "you(s.) spoke"
       },
-      "3sg_m_past": {
+      "3s-m_past": {
         "level": 7,
         "lithuanian": "jis kalbėjo",
         "english": "he spoke"
       },
-      "3sg_f_past": {
+      "3s-f_past": {
         "level": 7,
         "lithuanian": "ji kalbėjo",
         "english": "she spoke"
       },
-      "1pl_past": {
+      "1p_past": {
         "level": 7,
         "lithuanian": "mes kalbėjome",
         "english": "we spoke"
       },
-      "2pl_past": {
+      "2p_past": {
         "level": 7,
         "lithuanian": "jūs kalbėjote",
         "english": "you(pl.) spoke"
       },
-      "3pl_m_past": {
+      "3p-m_past": {
         "level": 7,
         "lithuanian": "jie kalbėjo",
         "english": "they(m.) spoke"
       },
-      "3pl_f_past": {
+      "3p-f_past": {
         "level": 7,
         "lithuanian": "jos kalbėjo",
         "english": "they(f.) spoke"
       },
-      "1sg_fut": {
+      "1s_fut": {
         "level": 12,
         "lithuanian": "aš kalbėsiu",
         "english": "I will speak"
       },
-      "2sg_fut": {
+      "2s_fut": {
         "level": 12,
         "lithuanian": "tu kalbėsi",
         "english": "you(s.) will speak"
       },
-      "3sg_m_fut": {
+      "3s-m_fut": {
         "level": 12,
         "lithuanian": "jis kalbės",
         "english": "he will speak"
       },
-      "3sg_f_fut": {
+      "3s-f_fut": {
         "level": 12,
         "lithuanian": "ji kalbės",
         "english": "she will speak"
       },
-      "1pl_fut": {
+      "1p_fut": {
         "level": 12,
         "lithuanian": "mes kalbėsime",
         "english": "we will speak"
       },
-      "2pl_fut": {
+      "2p_fut": {
         "level": 12,
         "lithuanian": "jūs kalbėsite",
         "english": "you(pl.) will speak"
       },
-      "3pl_m_fut": {
+      "3p-m_fut": {
         "level": 12,
         "lithuanian": "jie kalbės",
         "english": "they(m.) will speak"
       },
-      "3pl_f_fut": {
+      "3p-f_fut": {
         "level": 12,
         "lithuanian": "jos kalbės",
         "english": "they(f.) will speak"
@@ -1927,122 +1927,122 @@
     "level": 6,
     "word_type": "verb",
     "grammatical_forms": {
-      "1sg_pres": {
+      "1s_pres": {
         "level": 6,
         "lithuanian": "aš mėgstu",
         "english": "I like"
       },
-      "2sg_pres": {
+      "2s_pres": {
         "level": 6,
         "lithuanian": "tu mėgsti",
         "english": "you(s.) like"
       },
-      "3sg_m_pres": {
+      "3s-m_pres": {
         "level": 6,
         "lithuanian": "jis mėgsta",
         "english": "he likes"
       },
-      "3sg_f_pres": {
+      "3s-f_pres": {
         "level": 6,
         "lithuanian": "ji mėgsta",
         "english": "she likes"
       },
-      "1pl_pres": {
+      "1p_pres": {
         "level": 6,
         "lithuanian": "mes mėgstame",
         "english": "we like"
       },
-      "2pl_pres": {
+      "2p_pres": {
         "level": 6,
         "lithuanian": "jūs mėgstate",
         "english": "you(pl.) like"
       },
-      "3pl_m_pres": {
+      "3p-m_pres": {
         "level": 6,
         "lithuanian": "jie mėgsta",
         "english": "they(m.) like"
       },
-      "3pl_f_pres": {
+      "3p-f_pres": {
         "level": 6,
         "lithuanian": "jos mėgsta",
         "english": "they(f.) like"
       },
-      "1sg_past": {
+      "1s_past": {
         "level": 7,
         "lithuanian": "aš mėgau",
         "english": "I liked"
       },
-      "2sg_past": {
+      "2s_past": {
         "level": 7,
         "lithuanian": "tu mėgai",
         "english": "you(s.) liked"
       },
-      "3sg_m_past": {
+      "3s-m_past": {
         "level": 7,
         "lithuanian": "jis mėgo",
         "english": "he liked"
       },
-      "3sg_f_past": {
+      "3s-f_past": {
         "level": 7,
         "lithuanian": "ji mėgo",
         "english": "she liked"
       },
-      "1pl_past": {
+      "1p_past": {
         "level": 7,
         "lithuanian": "mes mėgome",
         "english": "we liked"
       },
-      "2pl_past": {
+      "2p_past": {
         "level": 7,
         "lithuanian": "jūs mėgote",
         "english": "you(pl.) liked"
       },
-      "3pl_m_past": {
+      "3p-m_past": {
         "level": 7,
         "lithuanian": "jie mėgo",
         "english": "they(m.) liked"
       },
-      "3pl_f_past": {
+      "3p-f_past": {
         "level": 7,
         "lithuanian": "jos mėgo",
         "english": "they(f.) liked"
       },
-      "1sg_fut": {
+      "1s_fut": {
         "level": 12,
         "lithuanian": "aš mėgsiu",
         "english": "I will like"
       },
-      "2sg_fut": {
+      "2s_fut": {
         "level": 12,
         "lithuanian": "tu mėgsi",
         "english": "you(s.) will like"
       },
-      "3sg_m_fut": {
+      "3s-m_fut": {
         "level": 12,
         "lithuanian": "jis mėgs",
         "english": "he will like"
       },
-      "3sg_f_fut": {
+      "3s-f_fut": {
         "level": 12,
         "lithuanian": "ji mėgs",
         "english": "she will like"
       },
-      "1pl_fut": {
+      "1p_fut": {
         "level": 12,
         "lithuanian": "mes mėgsime",
         "english": "we will like"
       },
-      "2pl_fut": {
+      "2p_fut": {
         "level": 12,
         "lithuanian": "jūs mėgsite",
         "english": "you(pl.) will like"
       },
-      "3pl_m_fut": {
+      "3p-m_fut": {
         "level": 12,
         "lithuanian": "jie mėgs",
         "english": "they(m.) will like"
       },
-      "3pl_f_fut": {
+      "3p-f_fut": {
         "level": 12,
         "lithuanian": "jos mėgs",
         "english": "they(f.) will like"
@@ -2064,122 +2064,122 @@
     "level": 6,
     "word_type": "verb",
     "grammatical_forms": {
-      "1sg_pres": {
+      "1s_pres": {
         "level": 6,
         "lithuanian": "aš noriu",
         "english": "I want"
       },
-      "2sg_pres": {
+      "2s_pres": {
         "level": 6,
         "lithuanian": "tu nori",
         "english": "you(s.) want"
       },
-      "3sg_m_pres": {
+      "3s-m_pres": {
         "level": 6,
         "lithuanian": "jis nori",
         "english": "he wants"
       },
-      "3sg_f_pres": {
+      "3s-f_pres": {
         "level": 6,
         "lithuanian": "ji nori",
         "english": "she wants"
       },
-      "1pl_pres": {
+      "1p_pres": {
         "level": 6,
         "lithuanian": "mes norime",
         "english": "we want"
       },
-      "2pl_pres": {
+      "2p_pres": {
         "level": 6,
         "lithuanian": "jūs norite",
         "english": "you(pl.) want"
       },
-      "3pl_m_pres": {
+      "3p-m_pres": {
         "level": 6,
         "lithuanian": "jie nori",
         "english": "they(m.) want"
       },
-      "3pl_f_pres": {
+      "3p-f_pres": {
         "level": 6,
         "lithuanian": "jos nori",
         "english": "they(f.) want"
       },
-      "1sg_past": {
+      "1s_past": {
         "level": 7,
         "lithuanian": "aš norėjau",
         "english": "I wanted"
       },
-      "2sg_past": {
+      "2s_past": {
         "level": 7,
         "lithuanian": "tu norėjai",
         "english": "you(s.) wanted"
       },
-      "3sg_m_past": {
+      "3s-m_past": {
         "level": 7,
         "lithuanian": "jis norėjo",
         "english": "he wanted"
       },
-      "3sg_f_past": {
+      "3s-f_past": {
         "level": 7,
         "lithuanian": "ji norėjo",
         "english": "she wanted"
       },
-      "1pl_past": {
+      "1p_past": {
         "level": 7,
         "lithuanian": "mes norėjome",
         "english": "we wanted"
       },
-      "2pl_past": {
+      "2p_past": {
         "level": 7,
         "lithuanian": "jūs norėjote",
         "english": "you(pl.) wanted"
       },
-      "3pl_m_past": {
+      "3p-m_past": {
         "level": 7,
         "lithuanian": "jie norėjo",
         "english": "they(m.) wanted"
       },
-      "3pl_f_past": {
+      "3p-f_past": {
         "level": 7,
         "lithuanian": "jos norėjo",
         "english": "they(f.) wanted"
       },
-      "1sg_fut": {
+      "1s_fut": {
         "level": 12,
         "lithuanian": "aš norėsiu",
         "english": "I will want"
       },
-      "2sg_fut": {
+      "2s_fut": {
         "level": 12,
         "lithuanian": "tu norėsi",
         "english": "you(s.) will want"
       },
-      "3sg_m_fut": {
+      "3s-m_fut": {
         "level": 12,
         "lithuanian": "jis norės",
         "english": "he will want"
       },
-      "3sg_f_fut": {
+      "3s-f_fut": {
         "level": 12,
         "lithuanian": "ji norės",
         "english": "she will want"
       },
-      "1pl_fut": {
+      "1p_fut": {
         "level": 12,
         "lithuanian": "mes norėsime",
         "english": "we will want"
       },
-      "2pl_fut": {
+      "2p_fut": {
         "level": 12,
         "lithuanian": "jūs norėsite",
         "english": "you(pl.) will want"
       },
-      "3pl_m_fut": {
+      "3p-m_fut": {
         "level": 12,
         "lithuanian": "jie norės",
         "english": "they(m.) will want"
       },
-      "3pl_f_fut": {
+      "3p-f_fut": {
         "level": 12,
         "lithuanian": "jos norės",
         "english": "they(f.) will want"
@@ -2202,122 +2202,122 @@
     "level": 6,
     "word_type": "verb",
     "grammatical_forms": {
-      "1sg_pres": {
+      "1s_pres": {
         "level": 6,
         "lithuanian": "aš klausau",
         "english": "I listen"
       },
-      "2sg_pres": {
+      "2s_pres": {
         "level": 6,
         "lithuanian": "tu klausai",
         "english": "you(s.) listen"
       },
-      "3sg_m_pres": {
+      "3s-m_pres": {
         "level": 6,
         "lithuanian": "jis klauso",
         "english": "he listens"
       },
-      "3sg_f_pres": {
+      "3s-f_pres": {
         "level": 6,
         "lithuanian": "ji klauso",
         "english": "she listens"
       },
-      "1pl_pres": {
+      "1p_pres": {
         "level": 6,
         "lithuanian": "mes klausome",
         "english": "we listen"
       },
-      "2pl_pres": {
+      "2p_pres": {
         "level": 6,
         "lithuanian": "jūs klausote",
         "english": "you(pl.) listen"
       },
-      "3pl_m_pres": {
+      "3p-m_pres": {
         "level": 6,
         "lithuanian": "jie klauso",
         "english": "they(m.) listen"
       },
-      "3pl_f_pres": {
+      "3p-f_pres": {
         "level": 6,
         "lithuanian": "jos klauso",
         "english": "they(f.) listen"
       },
-      "1sg_past": {
+      "1s_past": {
         "level": 7,
         "lithuanian": "aš klausiau",
         "english": "I listened"
       },
-      "2sg_past": {
+      "2s_past": {
         "level": 7,
         "lithuanian": "tu klausei",
         "english": "you(s.) listened"
       },
-      "3sg_m_past": {
+      "3s-m_past": {
         "level": 7,
         "lithuanian": "jis klausė",
         "english": "he listened"
       },
-      "3sg_f_past": {
+      "3s-f_past": {
         "level": 7,
         "lithuanian": "ji klausė",
         "english": "she listened"
       },
-      "1pl_past": {
+      "1p_past": {
         "level": 7,
         "lithuanian": "mes klausėme",
         "english": "we listened"
       },
-      "2pl_past": {
+      "2p_past": {
         "level": 7,
         "lithuanian": "jūs klausėte",
         "english": "you(pl.) listened"
       },
-      "3pl_m_past": {
+      "3p-m_past": {
         "level": 7,
         "lithuanian": "jie klausė",
         "english": "they(m.) listened"
       },
-      "3pl_f_past": {
+      "3p-f_past": {
         "level": 7,
         "lithuanian": "jos klausė",
         "english": "they(f.) listened"
       },
-      "1sg_fut": {
+      "1s_fut": {
         "level": 12,
         "lithuanian": "aš klausysiu",
         "english": "I will listen"
       },
-      "2sg_fut": {
+      "2s_fut": {
         "level": 12,
         "lithuanian": "tu klausysi",
         "english": "you(s.) will listen"
       },
-      "3sg_m_fut": {
+      "3s-m_fut": {
         "level": 12,
         "lithuanian": "jis klausys",
         "english": "he will listen"
       },
-      "3sg_f_fut": {
+      "3s-f_fut": {
         "level": 12,
         "lithuanian": "ji klausys",
         "english": "she will listen"
       },
-      "1pl_fut": {
+      "1p_fut": {
         "level": 12,
         "lithuanian": "mes klausysime",
         "english": "we will listen"
       },
-      "2pl_fut": {
+      "2p_fut": {
         "level": 12,
         "lithuanian": "jūs klausysite",
         "english": "you(pl.) will listen"
       },
-      "3pl_m_fut": {
+      "3p-m_fut": {
         "level": 12,
         "lithuanian": "jie klausys",
         "english": "they(m.) will listen"
       },
-      "3pl_f_fut": {
+      "3p-f_fut": {
         "level": 12,
         "lithuanian": "jos klausys",
         "english": "they(f.) will listen"
@@ -2338,122 +2338,122 @@
     "level": 6,
     "word_type": "verb",
     "grammatical_forms": {
-      "1sg_pres": {
+      "1s_pres": {
         "level": 6,
         "lithuanian": "aš matau",
         "english": "I see"
       },
-      "2sg_pres": {
+      "2s_pres": {
         "level": 6,
         "lithuanian": "tu matai",
         "english": "you(s.) see"
       },
-      "3sg_m_pres": {
+      "3s-m_pres": {
         "level": 6,
         "lithuanian": "jis mato",
         "english": "he sees"
       },
-      "3sg_f_pres": {
+      "3s-f_pres": {
         "level": 6,
         "lithuanian": "ji mato",
         "english": "she sees"
       },
-      "1pl_pres": {
+      "1p_pres": {
         "level": 6,
         "lithuanian": "mes matome",
         "english": "we see"
       },
-      "2pl_pres": {
+      "2p_pres": {
         "level": 6,
         "lithuanian": "jūs matote",
         "english": "you(pl.) see"
       },
-      "3pl_m_pres": {
+      "3p-m_pres": {
         "level": 6,
         "lithuanian": "jie mato",
         "english": "they(m.) see"
       },
-      "3pl_f_pres": {
+      "3p-f_pres": {
         "level": 6,
         "lithuanian": "jos mato",
         "english": "they(f.) see"
       },
-      "1sg_past": {
+      "1s_past": {
         "level": 7,
         "lithuanian": "aš mačiau",
         "english": "I saw"
       },
-      "2sg_past": {
+      "2s_past": {
         "level": 7,
         "lithuanian": "tu matei",
         "english": "you(s.) saw"
       },
-      "3sg_m_past": {
+      "3s-m_past": {
         "level": 7,
         "lithuanian": "jis matė",
         "english": "he saw"
       },
-      "3sg_f_past": {
+      "3s-f_past": {
         "level": 7,
         "lithuanian": "ji matė",
         "english": "she saw"
       },
-      "1pl_past": {
+      "1p_past": {
         "level": 7,
         "lithuanian": "mes matėme",
         "english": "we saw"
       },
-      "2pl_past": {
+      "2p_past": {
         "level": 7,
         "lithuanian": "jūs matėte",
         "english": "you(pl.) saw"
       },
-      "3pl_m_past": {
+      "3p-m_past": {
         "level": 7,
         "lithuanian": "jie matė",
         "english": "they(m.) saw"
       },
-      "3pl_f_past": {
+      "3p-f_past": {
         "level": 7,
         "lithuanian": "jos matė",
         "english": "they(f.) saw"
       },
-      "1sg_fut": {
+      "1s_fut": {
         "level": 12,
         "lithuanian": "aš matysiu",
         "english": "I will see"
       },
-      "2sg_fut": {
+      "2s_fut": {
         "level": 12,
         "lithuanian": "tu matysi",
         "english": "you(s.) will see"
       },
-      "3sg_m_fut": {
+      "3s-m_fut": {
         "level": 12,
         "lithuanian": "jis matys",
         "english": "he will see"
       },
-      "3sg_f_fut": {
+      "3s-f_fut": {
         "level": 12,
         "lithuanian": "ji matys",
         "english": "she will see"
       },
-      "1pl_fut": {
+      "1p_fut": {
         "level": 12,
         "lithuanian": "mes matysime",
         "english": "we will see"
       },
-      "2pl_fut": {
+      "2p_fut": {
         "level": 12,
         "lithuanian": "jūs matysite",
         "english": "you(pl.) will see"
       },
-      "3pl_m_fut": {
+      "3p-m_fut": {
         "level": 12,
         "lithuanian": "jie matys",
         "english": "they(m.) will see"
       },
-      "3pl_f_fut": {
+      "3p-f_fut": {
         "level": 12,
         "lithuanian": "jos matys",
         "english": "they(f.) will see"
@@ -2474,122 +2474,122 @@
     "level": 10,
     "word_type": "verb",
     "grammatical_forms": {
-      "1sg_pres": {
+      "1s_pres": {
         "level": 10,
         "lithuanian": "aš mokau",
         "english": "I teach"
       },
-      "2sg_pres": {
+      "2s_pres": {
         "level": 10,
         "lithuanian": "tu mokai",
         "english": "you(s.) teach"
       },
-      "3sg_m_pres": {
+      "3s-m_pres": {
         "level": 10,
         "lithuanian": "jis moko",
         "english": "he teaches"
       },
-      "3sg_f_pres": {
+      "3s-f_pres": {
         "level": 10,
         "lithuanian": "ji moko",
         "english": "she teaches"
       },
-      "1pl_pres": {
+      "1p_pres": {
         "level": 10,
         "lithuanian": "mes mokome",
         "english": "we teach"
       },
-      "2pl_pres": {
+      "2p_pres": {
         "level": 10,
         "lithuanian": "jūs mokote",
         "english": "you(pl.) teach"
       },
-      "3pl_m_pres": {
+      "3p-m_pres": {
         "level": 10,
         "lithuanian": "jie moko",
         "english": "they(m.) teach"
       },
-      "3pl_f_pres": {
+      "3p-f_pres": {
         "level": 10,
         "lithuanian": "jos moko",
         "english": "they(f.) teach"
       },
-      "1sg_past": {
+      "1s_past": {
         "level": 10,
         "lithuanian": "aš mokiau",
         "english": "I taught"
       },
-      "2sg_past": {
+      "2s_past": {
         "level": 10,
         "lithuanian": "tu mokei",
         "english": "you(s.) taught"
       },
-      "3sg_m_past": {
+      "3s-m_past": {
         "level": 10,
         "lithuanian": "jis mokė",
         "english": "he taught"
       },
-      "3sg_f_past": {
+      "3s-f_past": {
         "level": 10,
         "lithuanian": "ji mokė",
         "english": "she taught"
       },
-      "1pl_past": {
+      "1p_past": {
         "level": 10,
         "lithuanian": "mes mokėme",
         "english": "we taught"
       },
-      "2pl_past": {
+      "2p_past": {
         "level": 10,
         "lithuanian": "jūs mokėte",
         "english": "you(pl.) taught"
       },
-      "3pl_m_past": {
+      "3p-m_past": {
         "level": 10,
         "lithuanian": "jie mokė",
         "english": "they(m.) taught"
       },
-      "3pl_f_past": {
+      "3p-f_past": {
         "level": 10,
         "lithuanian": "jos mokė",
         "english": "they(f.) taught"
       },
-      "1sg_fut": {
+      "1s_fut": {
         "level": 12,
         "lithuanian": "aš mokysiu",
         "english": "I will teach"
       },
-      "2sg_fut": {
+      "2s_fut": {
         "level": 12,
         "lithuanian": "tu mokysi",
         "english": "you(s.) will teach"
       },
-      "3sg_m_fut": {
+      "3s-m_fut": {
         "level": 12,
         "lithuanian": "jis mokys",
         "english": "he will teach"
       },
-      "3sg_f_fut": {
+      "3s-f_fut": {
         "level": 12,
         "lithuanian": "ji mokys",
         "english": "she will teach"
       },
-      "1pl_fut": {
+      "1p_fut": {
         "level": 12,
         "lithuanian": "mes mokysime",
         "english": "we will teach"
       },
-      "2pl_fut": {
+      "2p_fut": {
         "level": 12,
         "lithuanian": "jūs mokysite",
         "english": "you(pl.) will teach"
       },
-      "3pl_m_fut": {
+      "3p-m_fut": {
         "level": 12,
         "lithuanian": "jie mokys",
         "english": "they(m.) will teach"
       },
-      "3pl_f_fut": {
+      "3p-f_fut": {
         "level": 12,
         "lithuanian": "jos mokys",
         "english": "they(f.) will teach"
@@ -2611,122 +2611,122 @@
     "level": 10,
     "word_type": "verb",
     "grammatical_forms": {
-      "1sg_pres": {
+      "1s_pres": {
         "level": 10,
         "lithuanian": "aš mokausi",
         "english": "I learn"
       },
-      "2sg_pres": {
+      "2s_pres": {
         "level": 10,
         "lithuanian": "tu mokais",
         "english": "you(s.) learn"
       },
-      "3sg_m_pres": {
+      "3s-m_pres": {
         "level": 10,
         "lithuanian": "jis mokosi",
         "english": "he learns"
       },
-      "3sg_f_pres": {
+      "3s-f_pres": {
         "level": 10,
         "lithuanian": "ji mokosi",
         "english": "she learns"
       },
-      "1pl_pres": {
+      "1p_pres": {
         "level": 10,
         "lithuanian": "mes mokomės",
         "english": "we learn"
       },
-      "2pl_pres": {
+      "2p_pres": {
         "level": 10,
         "lithuanian": "jūs mokotės",
         "english": "you(pl.) learn"
       },
-      "3pl_m_pres": {
+      "3p-m_pres": {
         "level": 10,
         "lithuanian": "jie mokosi",
         "english": "they(m.) learn"
       },
-      "3pl_f_pres": {
+      "3p-f_pres": {
         "level": 10,
         "lithuanian": "jos mokosi",
         "english": "they(f.) learn"
       },
-      "1sg_past": {
+      "1s_past": {
         "level": 10,
         "lithuanian": "aš mokiausi",
         "english": "I learned"
       },
-      "2sg_past": {
+      "2s_past": {
         "level": 10,
         "lithuanian": "tu mokeisi",
         "english": "you(s.) learned"
       },
-      "3sg_m_past": {
+      "3s-m_past": {
         "level": 10,
         "lithuanian": "jis mokėsi",
         "english": "he learned"
       },
-      "3sg_f_past": {
+      "3s-f_past": {
         "level": 10,
         "lithuanian": "ji mokėsi",
         "english": "she learned"
       },
-      "1pl_past": {
+      "1p_past": {
         "level": 10,
         "lithuanian": "mes mokėmės",
         "english": "we learned"
       },
-      "2pl_past": {
+      "2p_past": {
         "level": 10,
         "lithuanian": "jūs mokėtės",
         "english": "you(pl.) learned"
       },
-      "3pl_m_past": {
+      "3p-m_past": {
         "level": 10,
         "lithuanian": "jie mokėsi",
         "english": "they(m.) learned"
       },
-      "3pl_f_past": {
+      "3p-f_past": {
         "level": 10,
         "lithuanian": "jos mokėsi",
         "english": "they(f.) learned"
       },
-      "1sg_fut": {
+      "1s_fut": {
         "level": 12,
         "lithuanian": "aš mokysiuos",
         "english": "I will learn"
       },
-      "2sg_fut": {
+      "2s_fut": {
         "level": 12,
         "lithuanian": "tu mokysiesi",
         "english": "you(s.) will learn"
       },
-      "3sg_m_fut": {
+      "3s-m_fut": {
         "level": 12,
         "lithuanian": "jis mokysis",
         "english": "he will learn"
       },
-      "3sg_f_fut": {
+      "3s-f_fut": {
         "level": 12,
         "lithuanian": "ji mokysis",
         "english": "she will learn"
       },
-      "1pl_fut": {
+      "1p_fut": {
         "level": 12,
         "lithuanian": "mes mokysimės",
         "english": "we will learn"
       },
-      "2pl_fut": {
+      "2p_fut": {
         "level": 12,
         "lithuanian": "jūs mokysitės",
         "english": "you(pl.) will learn"
       },
-      "3pl_m_fut": {
+      "3p-m_fut": {
         "level": 12,
         "lithuanian": "jie mokysis",
         "english": "they(m.) will learn"
       },
-      "3pl_f_fut": {
+      "3p-f_fut": {
         "level": 12,
         "lithuanian": "jos mokysis",
         "english": "they(f.) will learn"
@@ -2748,122 +2748,122 @@
     "level": 10,
     "word_type": "verb",
     "grammatical_forms": {
-      "1sg_pres": {
+      "1s_pres": {
         "level": 10,
         "lithuanian": "aš rašau",
         "english": "I write"
       },
-      "2sg_pres": {
+      "2s_pres": {
         "level": 10,
         "lithuanian": "tu rašai",
         "english": "you(s.) write"
       },
-      "3sg_m_pres": {
+      "3s-m_pres": {
         "level": 10,
         "lithuanian": "jis rašo",
         "english": "he writes"
       },
-      "3sg_f_pres": {
+      "3s-f_pres": {
         "level": 10,
         "lithuanian": "ji rašo",
         "english": "she writes"
       },
-      "1pl_pres": {
+      "1p_pres": {
         "level": 10,
         "lithuanian": "mes rašome",
         "english": "we write"
       },
-      "2pl_pres": {
+      "2p_pres": {
         "level": 10,
         "lithuanian": "jūs rašote",
         "english": "you(pl.) write"
       },
-      "3pl_m_pres": {
+      "3p-m_pres": {
         "level": 10,
         "lithuanian": "jie rašo",
         "english": "they(m.) write"
       },
-      "3pl_f_pres": {
+      "3p-f_pres": {
         "level": 10,
         "lithuanian": "jos rašo",
         "english": "they(f.) write"
       },
-      "1sg_past": {
+      "1s_past": {
         "level": 10,
         "lithuanian": "aš rašiau",
         "english": "I wrote"
       },
-      "2sg_past": {
+      "2s_past": {
         "level": 10,
         "lithuanian": "tu rašei",
         "english": "you(s.) wrote"
       },
-      "3sg_m_past": {
+      "3s-m_past": {
         "level": 10,
         "lithuanian": "jis rašė",
         "english": "he wrote"
       },
-      "3sg_f_past": {
+      "3s-f_past": {
         "level": 10,
         "lithuanian": "ji rašė",
         "english": "she wrote"
       },
-      "1pl_past": {
+      "1p_past": {
         "level": 10,
         "lithuanian": "mes rašėme",
         "english": "we wrote"
       },
-      "2pl_past": {
+      "2p_past": {
         "level": 10,
         "lithuanian": "jūs rašėte",
         "english": "you(pl.) wrote"
       },
-      "3pl_m_past": {
+      "3p-m_past": {
         "level": 10,
         "lithuanian": "jie rašė",
         "english": "they(m.) wrote"
       },
-      "3pl_f_past": {
+      "3p-f_past": {
         "level": 10,
         "lithuanian": "jos rašė",
         "english": "they(f.) wrote"
       },
-      "1sg_fut": {
+      "1s_fut": {
         "level": 12,
         "lithuanian": "aš rašysiu",
         "english": "I will write"
       },
-      "2sg_fut": {
+      "2s_fut": {
         "level": 12,
         "lithuanian": "tu rašysi",
         "english": "you(s.) will write"
       },
-      "3sg_m_fut": {
+      "3s-m_fut": {
         "level": 12,
         "lithuanian": "jis rašys",
         "english": "he will write"
       },
-      "3sg_f_fut": {
+      "3s-f_fut": {
         "level": 12,
         "lithuanian": "ji rašys",
         "english": "she will write"
       },
-      "1pl_fut": {
+      "1p_fut": {
         "level": 12,
         "lithuanian": "mes rašysime",
         "english": "we will write"
       },
-      "2pl_fut": {
+      "2p_fut": {
         "level": 12,
         "lithuanian": "jūs rašysite",
         "english": "you(pl.) will write"
       },
-      "3pl_m_fut": {
+      "3p-m_fut": {
         "level": 12,
         "lithuanian": "jie rašys",
         "english": "they(m.) will write"
       },
-      "3pl_f_fut": {
+      "3p-f_fut": {
         "level": 12,
         "lithuanian": "jos rašys",
         "english": "they(f.) will write"
@@ -2885,122 +2885,122 @@
     "level": 10,
     "word_type": "verb",
     "grammatical_forms": {
-      "1sg_pres": {
+      "1s_pres": {
         "level": 10,
         "lithuanian": "aš skaitau",
         "english": "I read (pres. tense)"
       },
-      "2sg_pres": {
+      "2s_pres": {
         "level": 10,
         "lithuanian": "tu skaitai",
         "english": "you(s.) read (pres. tense)"
       },
-      "3sg_m_pres": {
+      "3s-m_pres": {
         "level": 10,
         "lithuanian": "jis skaito",
         "english": "he reads"
       },
-      "3sg_f_pres": {
+      "3s-f_pres": {
         "level": 10,
         "lithuanian": "ji skaito",
         "english": "she reads"
       },
-      "1pl_pres": {
+      "1p_pres": {
         "level": 10,
         "lithuanian": "mes skaitome",
         "english": "we read (pres. tense)"
       },
-      "2pl_pres": {
+      "2p_pres": {
         "level": 10,
         "lithuanian": "jūs skaitote",
         "english": "you(pl.) read (pres. tense)"
       },
-      "3pl_m_pres": {
+      "3p-m_pres": {
         "level": 10,
         "lithuanian": "jie skaito",
         "english": "they(m.) read (pres. tense)"
       },
-      "3pl_f_pres": {
+      "3p-f_pres": {
         "level": 10,
         "lithuanian": "jos skaito",
         "english": "they(f.) read (pres. tense)"
       },
-      "1sg_past": {
+      "1s_past": {
         "level": 10,
         "lithuanian": "aš skaičiau",
         "english": "I read (past tense)"
       },
-      "2sg_past": {
+      "2s_past": {
         "level": 10,
         "lithuanian": "tu skaitei",
         "english": "you(s.) read (past tense)"
       },
-      "3sg_m_past": {
+      "3s-m_past": {
         "level": 10,
         "lithuanian": "jis skaitė",
         "english": "he read (past tense)"
       },
-      "3sg_f_past": {
+      "3s-f_past": {
         "level": 10,
         "lithuanian": "ji skaitė",
         "english": "she read (past tense)"
       },
-      "1pl_past": {
+      "1p_past": {
         "level": 10,
         "lithuanian": "mes skaitėme",
         "english": "we read (past tense)"
       },
-      "2pl_past": {
+      "2p_past": {
         "level": 10,
         "lithuanian": "jūs skaitėte",
         "english": "you(pl.) read (past tense)"
       },
-      "3pl_m_past": {
+      "3p-m_past": {
         "level": 10,
         "lithuanian": "jie skaitė",
         "english": "they(m.) read (past tense)"
       },
-      "3pl_f_past": {
+      "3p-f_past": {
         "level": 10,
         "lithuanian": "jos skaitė",
         "english": "they(f.) read (past tense)"
       },
-      "1sg_fut": {
+      "1s_fut": {
         "level": 12,
         "lithuanian": "aš skaitysiu",
         "english": "I will read"
       },
-      "2sg_fut": {
+      "2s_fut": {
         "level": 12,
         "lithuanian": "tu skaitysi",
         "english": "you(s.) will read"
       },
-      "3sg_m_fut": {
+      "3s-m_fut": {
         "level": 12,
         "lithuanian": "jis skaitys",
         "english": "he will read"
       },
-      "3sg_f_fut": {
+      "3s-f_fut": {
         "level": 12,
         "lithuanian": "ji skaitys",
         "english": "she will read"
       },
-      "1pl_fut": {
+      "1p_fut": {
         "level": 12,
         "lithuanian": "mes skaitysime",
         "english": "we will read"
       },
-      "2pl_fut": {
+      "2p_fut": {
         "level": 12,
         "lithuanian": "jūs skaitysite",
         "english": "you(pl.) will read"
       },
-      "3pl_m_fut": {
+      "3p-m_fut": {
         "level": 12,
         "lithuanian": "jie skaitys",
         "english": "they(m.) will read"
       },
-      "3pl_f_fut": {
+      "3p-f_fut": {
         "level": 12,
         "lithuanian": "jos skaitys",
         "english": "they(f.) will read"
@@ -3022,122 +3022,122 @@
     "level": 10,
     "word_type": "verb",
     "grammatical_forms": {
-      "1sg_pres": {
+      "1s_pres": {
         "level": 10,
         "lithuanian": "aš žinau",
         "english": "I know"
       },
-      "2sg_pres": {
+      "2s_pres": {
         "level": 10,
         "lithuanian": "tu žinai",
         "english": "you(s.) know"
       },
-      "3sg_m_pres": {
+      "3s-m_pres": {
         "level": 10,
         "lithuanian": "jis žino",
         "english": "he knows"
       },
-      "3sg_f_pres": {
+      "3s-f_pres": {
         "level": 10,
         "lithuanian": "ji žino",
         "english": "she knows"
       },
-      "1pl_pres": {
+      "1p_pres": {
         "level": 10,
         "lithuanian": "mes žinome",
         "english": "we know"
       },
-      "2pl_pres": {
+      "2p_pres": {
         "level": 10,
         "lithuanian": "jūs žinote",
         "english": "you(pl.) know"
       },
-      "3pl_m_pres": {
+      "3p-m_pres": {
         "level": 10,
         "lithuanian": "jie žino",
         "english": "they(m.) know"
       },
-      "3pl_f_pres": {
+      "3p-f_pres": {
         "level": 10,
         "lithuanian": "jos žino",
         "english": "they(f.) know"
       },
-      "1sg_past": {
+      "1s_past": {
         "level": 10,
         "lithuanian": "aš žinojau",
         "english": "I knew"
       },
-      "2sg_past": {
+      "2s_past": {
         "level": 10,
         "lithuanian": "tu žinojai",
         "english": "you(s.) knew"
       },
-      "3sg_m_past": {
+      "3s-m_past": {
         "level": 10,
         "lithuanian": "jis žinojo",
         "english": "he knew"
       },
-      "3sg_f_past": {
+      "3s-f_past": {
         "level": 10,
         "lithuanian": "ji žinojo",
         "english": "she knew"
       },
-      "1pl_past": {
+      "1p_past": {
         "level": 10,
         "lithuanian": "mes žinojome",
         "english": "we knew"
       },
-      "2pl_past": {
+      "2p_past": {
         "level": 10,
         "lithuanian": "jūs žinojote",
         "english": "you(pl.) knew"
       },
-      "3pl_m_past": {
+      "3p-m_past": {
         "level": 10,
         "lithuanian": "jie žinojo",
         "english": "they(m.) knew"
       },
-      "3pl_f_past": {
+      "3p-f_past": {
         "level": 10,
         "lithuanian": "jos žinojo",
         "english": "they(f.) knew"
       },
-      "1sg_fut": {
+      "1s_fut": {
         "level": 12,
         "lithuanian": "aš žinosiu",
         "english": "I will know"
       },
-      "2sg_fut": {
+      "2s_fut": {
         "level": 12,
         "lithuanian": "tu žinosi",
         "english": "you(s.) will know"
       },
-      "3sg_m_fut": {
+      "3s-m_fut": {
         "level": 12,
         "lithuanian": "jis žinos",
         "english": "he will know"
       },
-      "3sg_f_fut": {
+      "3s-f_fut": {
         "level": 12,
         "lithuanian": "ji žinos",
         "english": "she will know"
       },
-      "1pl_fut": {
+      "1p_fut": {
         "level": 12,
         "lithuanian": "mes žinosime",
         "english": "we will know"
       },
-      "2pl_fut": {
+      "2p_fut": {
         "level": 12,
         "lithuanian": "jūs žinosite",
         "english": "you(pl.) will know"
       },
-      "3pl_m_fut": {
+      "3p-m_fut": {
         "level": 12,
         "lithuanian": "jie žinos",
         "english": "they(m.) will know"
       },
-      "3pl_f_fut": {
+      "3p-f_fut": {
         "level": 12,
         "lithuanian": "jos žinos",
         "english": "they(f.) will know"
@@ -3159,122 +3159,122 @@
     "level": 14,
     "word_type": "verb",
     "grammatical_forms": {
-      "1sg_pres": {
+      "1s_pres": {
         "level": 14,
         "lithuanian": "aš ateinu",
         "english": "I come"
       },
-      "2sg_pres": {
+      "2s_pres": {
         "level": 14,
         "lithuanian": "tu ateini",
         "english": "you(s.) come"
       },
-      "3sg_m_pres": {
+      "3s-m_pres": {
         "level": 14,
         "lithuanian": "jis ateina",
         "english": "he comes"
       },
-      "3sg_f_pres": {
+      "3s-f_pres": {
         "level": 14,
         "lithuanian": "ji ateina",
         "english": "she comes"
       },
-      "1pl_pres": {
+      "1p_pres": {
         "level": 14,
         "lithuanian": "mes ateiname",
         "english": "we come"
       },
-      "2pl_pres": {
+      "2p_pres": {
         "level": 14,
         "lithuanian": "jūs ateinate",
         "english": "you(pl.) come"
       },
-      "3pl_m_pres": {
+      "3p-m_pres": {
         "level": 14,
         "lithuanian": "jie ateina",
         "english": "they(m.) come"
       },
-      "3pl_f_pres": {
+      "3p-f_pres": {
         "level": 14,
         "lithuanian": "jos ateina",
         "english": "they(f.) come"
       },
-      "1sg_past": {
+      "1s_past": {
         "level": 14,
         "lithuanian": "aš atėjau",
         "english": "I came"
       },
-      "2sg_past": {
+      "2s_past": {
         "level": 14,
         "lithuanian": "tu atėjai",
         "english": "you(s.) came"
       },
-      "3sg_m_past": {
+      "3s-m_past": {
         "level": 14,
         "lithuanian": "jis atėjo",
         "english": "he came"
       },
-      "3sg_f_past": {
+      "3s-f_past": {
         "level": 14,
         "lithuanian": "ji atėjo",
         "english": "she came"
       },
-      "1pl_past": {
+      "1p_past": {
         "level": 14,
         "lithuanian": "mes atėjome",
         "english": "we came"
       },
-      "2pl_past": {
+      "2p_past": {
         "level": 14,
         "lithuanian": "jūs atėjote",
         "english": "you(pl.) came"
       },
-      "3pl_m_past": {
+      "3p-m_past": {
         "level": 14,
         "lithuanian": "jie atėjo",
         "english": "they(m.) came"
       },
-      "3pl_f_past": {
+      "3p-f_past": {
         "level": 14,
         "lithuanian": "jos atėjo",
         "english": "they(f.) came"
       },
-      "1sg_fut": {
+      "1s_fut": {
         "level": 14,
         "lithuanian": "aš ateisiu",
         "english": "I will come"
       },
-      "2sg_fut": {
+      "2s_fut": {
         "level": 14,
         "lithuanian": "tu ateisi",
         "english": "you(s.) will come"
       },
-      "3sg_m_fut": {
+      "3s-m_fut": {
         "level": 14,
         "lithuanian": "jis ateis",
         "english": "he will come"
       },
-      "3sg_f_fut": {
+      "3s-f_fut": {
         "level": 14,
         "lithuanian": "ji ateis",
         "english": "she will come"
       },
-      "1pl_fut": {
+      "1p_fut": {
         "level": 14,
         "lithuanian": "mes ateisime",
         "english": "we will come"
       },
-      "2pl_fut": {
+      "2p_fut": {
         "level": 14,
         "lithuanian": "jūs ateisite",
         "english": "you(pl.) will come"
       },
-      "3pl_m_fut": {
+      "3p-m_fut": {
         "level": 14,
         "lithuanian": "jie ateis",
         "english": "they(m.) will come"
       },
-      "3pl_f_fut": {
+      "3p-f_fut": {
         "level": 14,
         "lithuanian": "jos ateis",
         "english": "they(f.) will come"
@@ -3296,122 +3296,122 @@
     "level": 14,
     "word_type": "verb",
     "grammatical_forms": {
-      "1sg_pres": {
+      "1s_pres": {
         "level": 14,
         "lithuanian": "aš bėgu",
         "english": "I run"
       },
-      "2sg_pres": {
+      "2s_pres": {
         "level": 14,
         "lithuanian": "tu bėgi",
         "english": "you(s.) run"
       },
-      "3sg_m_pres": {
+      "3s-m_pres": {
         "level": 14,
         "lithuanian": "jis bėga",
         "english": "he runs"
       },
-      "3sg_f_pres": {
+      "3s-f_pres": {
         "level": 14,
         "lithuanian": "ji bėga",
         "english": "she runs"
       },
-      "1pl_pres": {
+      "1p_pres": {
         "level": 14,
         "lithuanian": "mes bėgame",
         "english": "we run"
       },
-      "2pl_pres": {
+      "2p_pres": {
         "level": 14,
         "lithuanian": "jūs bėgate",
         "english": "you(pl.) run"
       },
-      "3pl_m_pres": {
+      "3p-m_pres": {
         "level": 14,
         "lithuanian": "jie bėga",
         "english": "they(m.) run"
       },
-      "3pl_f_pres": {
+      "3p-f_pres": {
         "level": 14,
         "lithuanian": "jos bėga",
         "english": "they(f.) run"
       },
-      "1sg_past": {
+      "1s_past": {
         "level": 14,
         "lithuanian": "aš bėgau",
         "english": "I ran"
       },
-      "2sg_past": {
+      "2s_past": {
         "level": 14,
         "lithuanian": "tu bėgai",
         "english": "you(s.) ran"
       },
-      "3sg_m_past": {
+      "3s-m_past": {
         "level": 14,
         "lithuanian": "jis bėgo",
         "english": "he ran"
       },
-      "3sg_f_past": {
+      "3s-f_past": {
         "level": 14,
         "lithuanian": "ji bėgo",
         "english": "she ran"
       },
-      "1pl_past": {
+      "1p_past": {
         "level": 14,
         "lithuanian": "mes bėgome",
         "english": "we ran"
       },
-      "2pl_past": {
+      "2p_past": {
         "level": 14,
         "lithuanian": "jūs bėgote",
         "english": "you(pl.) ran"
       },
-      "3pl_m_past": {
+      "3p-m_past": {
         "level": 14,
         "lithuanian": "jie bėgo",
         "english": "they(m.) ran"
       },
-      "3pl_f_past": {
+      "3p-f_past": {
         "level": 14,
         "lithuanian": "jos bėgo",
         "english": "they(f.) ran"
       },
-      "1sg_fut": {
+      "1s_fut": {
         "level": 14,
         "lithuanian": "aš bėgsiu",
         "english": "I will run"
       },
-      "2sg_fut": {
+      "2s_fut": {
         "level": 14,
         "lithuanian": "tu bėgsi",
         "english": "you(s.) will run"
       },
-      "3sg_m_fut": {
+      "3s-m_fut": {
         "level": 14,
         "lithuanian": "jis bėgs",
         "english": "he will run"
       },
-      "3sg_f_fut": {
+      "3s-f_fut": {
         "level": 14,
         "lithuanian": "ji bėgs",
         "english": "she will run"
       },
-      "1pl_fut": {
+      "1p_fut": {
         "level": 14,
         "lithuanian": "mes bėgsime",
         "english": "we will run"
       },
-      "2pl_fut": {
+      "2p_fut": {
         "level": 14,
         "lithuanian": "jūs bėgsite",
         "english": "you(pl.) will run"
       },
-      "3pl_m_fut": {
+      "3p-m_fut": {
         "level": 14,
         "lithuanian": "jie bėgs",
         "english": "they(m.) will run"
       },
-      "3pl_f_fut": {
+      "3p-f_fut": {
         "level": 14,
         "lithuanian": "jos bėgs",
         "english": "they(f.) will run"
@@ -3433,122 +3433,122 @@
     "level": 14,
     "word_type": "verb",
     "grammatical_forms": {
-      "1sg_pres": {
+      "1s_pres": {
         "level": 14,
         "lithuanian": "aš einu",
         "english": "I walk"
       },
-      "2sg_pres": {
+      "2s_pres": {
         "level": 14,
         "lithuanian": "tu eini",
         "english": "you(s.) walk"
       },
-      "3sg_m_pres": {
+      "3s-m_pres": {
         "level": 14,
         "lithuanian": "jis eina",
         "english": "he walks"
       },
-      "3sg_f_pres": {
+      "3s-f_pres": {
         "level": 14,
         "lithuanian": "ji eina",
         "english": "she walks"
       },
-      "1pl_pres": {
+      "1p_pres": {
         "level": 14,
         "lithuanian": "mes einame",
         "english": "we walk"
       },
-      "2pl_pres": {
+      "2p_pres": {
         "level": 14,
         "lithuanian": "jūs einate",
         "english": "you(pl.) walk"
       },
-      "3pl_m_pres": {
+      "3p-m_pres": {
         "level": 14,
         "lithuanian": "jie eina",
         "english": "they(m.) walk"
       },
-      "3pl_f_pres": {
+      "3p-f_pres": {
         "level": 14,
         "lithuanian": "jos eina",
         "english": "they(f.) walk"
       },
-      "1sg_past": {
+      "1s_past": {
         "level": 14,
         "lithuanian": "aš ėjau",
         "english": "I walked"
       },
-      "2sg_past": {
+      "2s_past": {
         "level": 14,
         "lithuanian": "tu ėjai",
         "english": "you(s.) walked"
       },
-      "3sg_m_past": {
+      "3s-m_past": {
         "level": 14,
         "lithuanian": "jis ėjo",
         "english": "he walked"
       },
-      "3sg_f_past": {
+      "3s-f_past": {
         "level": 14,
         "lithuanian": "ji ėjo",
         "english": "she walked"
       },
-      "1pl_past": {
+      "1p_past": {
         "level": 14,
         "lithuanian": "mes ėjome",
         "english": "we walked"
       },
-      "2pl_past": {
+      "2p_past": {
         "level": 14,
         "lithuanian": "jūs ėjote",
         "english": "you(pl.) walked"
       },
-      "3pl_m_past": {
+      "3p-m_past": {
         "level": 14,
         "lithuanian": "jie ėjo",
         "english": "they(m.) walked"
       },
-      "3pl_f_past": {
+      "3p-f_past": {
         "level": 14,
         "lithuanian": "jos ėjo",
         "english": "they(f.) walked"
       },
-      "1sg_fut": {
+      "1s_fut": {
         "level": 14,
         "lithuanian": "aš eisiu",
         "english": "I will walk"
       },
-      "2sg_fut": {
+      "2s_fut": {
         "level": 14,
         "lithuanian": "tu eisi",
         "english": "you(s.) will walk"
       },
-      "3sg_m_fut": {
+      "3s-m_fut": {
         "level": 14,
         "lithuanian": "jis eis",
         "english": "he will walk"
       },
-      "3sg_f_fut": {
+      "3s-f_fut": {
         "level": 14,
         "lithuanian": "ji eis",
         "english": "she will walk"
       },
-      "1pl_fut": {
+      "1p_fut": {
         "level": 14,
         "lithuanian": "mes eisime",
         "english": "we will walk"
       },
-      "2pl_fut": {
+      "2p_fut": {
         "level": 14,
         "lithuanian": "jūs eisite",
         "english": "you(pl.) will walk"
       },
-      "3pl_m_fut": {
+      "3p-m_fut": {
         "level": 14,
         "lithuanian": "jie eis",
         "english": "they(m.) will walk"
       },
-      "3pl_f_fut": {
+      "3p-f_fut": {
         "level": 14,
         "lithuanian": "jos eis",
         "english": "they(f.) will walk"
@@ -3570,122 +3570,122 @@
     "level": 14,
     "word_type": "verb",
     "grammatical_forms": {
-      "1sg_pres": {
+      "1s_pres": {
         "level": 14,
         "lithuanian": "aš grįžtu",
         "english": "I return"
       },
-      "2sg_pres": {
+      "2s_pres": {
         "level": 14,
         "lithuanian": "tu grįžti",
         "english": "you(s.) return"
       },
-      "3sg_m_pres": {
+      "3s-m_pres": {
         "level": 14,
         "lithuanian": "jis grįžta",
         "english": "he returns"
       },
-      "3sg_f_pres": {
+      "3s-f_pres": {
         "level": 14,
         "lithuanian": "ji grįžta",
         "english": "she returns"
       },
-      "1pl_pres": {
+      "1p_pres": {
         "level": 14,
         "lithuanian": "mes grįžtame",
         "english": "we return"
       },
-      "2pl_pres": {
+      "2p_pres": {
         "level": 14,
         "lithuanian": "jūs grįžtate",
         "english": "you(pl.) return"
       },
-      "3pl_m_pres": {
+      "3p-m_pres": {
         "level": 14,
         "lithuanian": "jie grįžta",
         "english": "they(m.) return"
       },
-      "3pl_f_pres": {
+      "3p-f_pres": {
         "level": 14,
         "lithuanian": "jos grįžta",
         "english": "they(f.) return"
       },
-      "1sg_past": {
+      "1s_past": {
         "level": 14,
         "lithuanian": "aš grįžau",
         "english": "I returned"
       },
-      "2sg_past": {
+      "2s_past": {
         "level": 14,
         "lithuanian": "tu grįžai",
         "english": "you(s.) returned"
       },
-      "3sg_m_past": {
+      "3s-m_past": {
         "level": 14,
         "lithuanian": "jis grįžo",
         "english": "he returned"
       },
-      "3sg_f_past": {
+      "3s-f_past": {
         "level": 14,
         "lithuanian": "ji grįžo",
         "english": "she returned"
       },
-      "1pl_past": {
+      "1p_past": {
         "level": 14,
         "lithuanian": "mes grįžome",
         "english": "we returned"
       },
-      "2pl_past": {
+      "2p_past": {
         "level": 14,
         "lithuanian": "jūs grįžote",
         "english": "you(pl.) returned"
       },
-      "3pl_m_past": {
+      "3p-m_past": {
         "level": 14,
         "lithuanian": "jie grįžo",
         "english": "they(m.) returned"
       },
-      "3pl_f_past": {
+      "3p-f_past": {
         "level": 14,
         "lithuanian": "jos grįžo",
         "english": "they(f.) returned"
       },
-      "1sg_fut": {
+      "1s_fut": {
         "level": 14,
         "lithuanian": "aš grįšiu",
         "english": "I will return"
       },
-      "2sg_fut": {
+      "2s_fut": {
         "level": 14,
         "lithuanian": "tu grįši",
         "english": "you(s.) will return"
       },
-      "3sg_m_fut": {
+      "3s-m_fut": {
         "level": 14,
         "lithuanian": "jis grįš",
         "english": "he will return"
       },
-      "3sg_f_fut": {
+      "3s-f_fut": {
         "level": 14,
         "lithuanian": "ji grįš",
         "english": "she will return"
       },
-      "1pl_fut": {
+      "1p_fut": {
         "level": 14,
         "lithuanian": "mes grįšime",
         "english": "we will return"
       },
-      "2pl_fut": {
+      "2p_fut": {
         "level": 14,
         "lithuanian": "jūs grįšite",
         "english": "you(pl.) will return"
       },
-      "3pl_m_fut": {
+      "3p-m_fut": {
         "level": 14,
         "lithuanian": "jie grįš",
         "english": "they(m.) will return"
       },
-      "3pl_f_fut": {
+      "3p-f_fut": {
         "level": 14,
         "lithuanian": "jos grįš",
         "english": "they(f.) will return"
@@ -3707,122 +3707,122 @@
     "level": 14,
     "word_type": "verb",
     "grammatical_forms": {
-      "1sg_pres": {
+      "1s_pres": {
         "level": 14,
         "lithuanian": "aš važiuoju",
         "english": "I drive"
       },
-      "2sg_pres": {
+      "2s_pres": {
         "level": 14,
         "lithuanian": "tu važiuoji",
         "english": "you(s.) drive"
       },
-      "3sg_m_pres": {
+      "3s-m_pres": {
         "level": 14,
         "lithuanian": "jis važiuoja",
         "english": "he drives"
       },
-      "3sg_f_pres": {
+      "3s-f_pres": {
         "level": 14,
         "lithuanian": "ji važiuoja",
         "english": "she drives"
       },
-      "1pl_pres": {
+      "1p_pres": {
         "level": 14,
         "lithuanian": "mes važiuojame",
         "english": "we drive"
       },
-      "2pl_pres": {
+      "2p_pres": {
         "level": 14,
         "lithuanian": "jūs važiuojate",
         "english": "you(pl.) drive"
       },
-      "3pl_m_pres": {
+      "3p-m_pres": {
         "level": 14,
         "lithuanian": "jie važiuoja",
         "english": "they(m.) drive"
       },
-      "3pl_f_pres": {
+      "3p-f_pres": {
         "level": 14,
         "lithuanian": "jos važiuoja",
         "english": "they(f.) drive"
       },
-      "1sg_past": {
+      "1s_past": {
         "level": 14,
         "lithuanian": "aš važiavau",
         "english": "I drove"
       },
-      "2sg_past": {
+      "2s_past": {
         "level": 14,
         "lithuanian": "tu važiavai",
         "english": "you(s.) drove"
       },
-      "3sg_m_past": {
+      "3s-m_past": {
         "level": 14,
         "lithuanian": "jis važiavo",
         "english": "he drove"
       },
-      "3sg_f_past": {
+      "3s-f_past": {
         "level": 14,
         "lithuanian": "ji važiavo",
         "english": "she drove"
       },
-      "1pl_past": {
+      "1p_past": {
         "level": 14,
         "lithuanian": "mes važiavome",
         "english": "we drove"
       },
-      "2pl_past": {
+      "2p_past": {
         "level": 14,
         "lithuanian": "jūs važiavote",
         "english": "you(pl.) drove"
       },
-      "3pl_m_past": {
+      "3p-m_past": {
         "level": 14,
         "lithuanian": "jie važiavo",
         "english": "they(m.) drove"
       },
-      "3pl_f_past": {
+      "3p-f_past": {
         "level": 14,
         "lithuanian": "jos važiavo",
         "english": "they(f.) drove"
       },
-      "1sg_fut": {
+      "1s_fut": {
         "level": 14,
         "lithuanian": "aš važiuosiu",
         "english": "I will drive"
       },
-      "2sg_fut": {
+      "2s_fut": {
         "level": 14,
         "lithuanian": "tu važiuosi",
         "english": "you(s.) will drive"
       },
-      "3sg_m_fut": {
+      "3s-m_fut": {
         "level": 14,
         "lithuanian": "jis važiuos",
         "english": "he will drive"
       },
-      "3sg_f_fut": {
+      "3s-f_fut": {
         "level": 14,
         "lithuanian": "ji važiuos",
         "english": "she will drive"
       },
-      "1pl_fut": {
+      "1p_fut": {
         "level": 14,
         "lithuanian": "mes važiuosime",
         "english": "we will drive"
       },
-      "2pl_fut": {
+      "2p_fut": {
         "level": 14,
         "lithuanian": "jūs važiuosite",
         "english": "you(pl.) will drive"
       },
-      "3pl_m_fut": {
+      "3p-m_fut": {
         "level": 14,
         "lithuanian": "jie važiuos",
         "english": "they(m.) will drive"
       },
-      "3pl_f_fut": {
+      "3p-f_fut": {
         "level": 14,
         "lithuanian": "jos važiuos",
         "english": "they(f.) will drive"
@@ -3844,122 +3844,122 @@
     "level": 14,
     "word_type": "verb",
     "grammatical_forms": {
-      "1sg_pres": {
+      "1s_pres": {
         "level": 14,
         "lithuanian": "aš vykstu",
         "english": "I go"
       },
-      "2sg_pres": {
+      "2s_pres": {
         "level": 14,
         "lithuanian": "tu vyksti",
         "english": "you(s.) go"
       },
-      "3sg_m_pres": {
+      "3s-m_pres": {
         "level": 14,
         "lithuanian": "jis vyksta",
         "english": "he goes"
       },
-      "3sg_f_pres": {
+      "3s-f_pres": {
         "level": 14,
         "lithuanian": "ji vyksta",
         "english": "she goes"
       },
-      "1pl_pres": {
+      "1p_pres": {
         "level": 14,
         "lithuanian": "mes vykstame",
         "english": "we go"
       },
-      "2pl_pres": {
+      "2p_pres": {
         "level": 14,
         "lithuanian": "jūs vykstate",
         "english": "you(pl.) go"
       },
-      "3pl_m_pres": {
+      "3p-m_pres": {
         "level": 14,
         "lithuanian": "jie vyksta",
         "english": "they(m.) go"
       },
-      "3pl_f_pres": {
+      "3p-f_pres": {
         "level": 14,
         "lithuanian": "jos vyksta",
         "english": "they(f.) go"
       },
-      "1sg_past": {
+      "1s_past": {
         "level": 14,
         "lithuanian": "aš vykau",
         "english": "I went"
       },
-      "2sg_past": {
+      "2s_past": {
         "level": 14,
         "lithuanian": "tu vykai",
         "english": "you(s.) went"
       },
-      "3sg_m_past": {
+      "3s-m_past": {
         "level": 14,
         "lithuanian": "jis vyko",
         "english": "he went"
       },
-      "3sg_f_past": {
+      "3s-f_past": {
         "level": 14,
         "lithuanian": "ji vyko",
         "english": "she went"
       },
-      "1pl_past": {
+      "1p_past": {
         "level": 14,
         "lithuanian": "mes vykome",
         "english": "we went"
       },
-      "2pl_past": {
+      "2p_past": {
         "level": 14,
         "lithuanian": "jūs vykote",
         "english": "you(pl.) went"
       },
-      "3pl_m_past": {
+      "3p-m_past": {
         "level": 14,
         "lithuanian": "jie vyko",
         "english": "they(m.) went"
       },
-      "3pl_f_past": {
+      "3p-f_past": {
         "level": 14,
         "lithuanian": "jos vyko",
         "english": "they(f.) went"
       },
-      "1sg_fut": {
+      "1s_fut": {
         "level": 14,
         "lithuanian": "aš vyksiu",
         "english": "I will go"
       },
-      "2sg_fut": {
+      "2s_fut": {
         "level": 14,
         "lithuanian": "tu vyksi",
         "english": "you(s.) will go"
       },
-      "3sg_m_fut": {
+      "3s-m_fut": {
         "level": 14,
         "lithuanian": "jis vyks",
         "english": "he will go"
       },
-      "3sg_f_fut": {
+      "3s-f_fut": {
         "level": 14,
         "lithuanian": "ji vyks",
         "english": "she will go"
       },
-      "1pl_fut": {
+      "1p_fut": {
         "level": 14,
         "lithuanian": "mes vyksime",
         "english": "we will go"
       },
-      "2pl_fut": {
+      "2p_fut": {
         "level": 14,
         "lithuanian": "jūs vyksite",
         "english": "you(pl.) will go"
       },
-      "3pl_m_fut": {
+      "3p-m_fut": {
         "level": 14,
         "lithuanian": "jie vyks",
         "english": "they(m.) will go"
       },
-      "3pl_f_fut": {
+      "3p-f_fut": {
         "level": 14,
         "lithuanian": "jos vyks",
         "english": "they(f.) will go"
