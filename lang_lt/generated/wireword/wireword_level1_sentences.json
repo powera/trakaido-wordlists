@@ -1,0 +1,1692 @@
+{
+  "metadata": {
+    "description": "Two sentences for each level 1 wireword noun",
+    "total_sentences": 70,
+    "level_1_nouns_covered": 35,
+    "generated_date": "2025-10-21",
+    "version": "1.0",
+    "source": "wireword level 1 nouns and existing verbs"
+  },
+  "sentences": [
+    {
+      "english": "I see the bank.",
+      "lithuanian": "Aš matau banką.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "see",
+          "lithuanian": "matyti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "bank",
+          "lithuanian": "bankas",
+          "type": "object",
+          "guid": "N07_008"
+        }
+      ]
+    },
+    {
+      "english": "The bank is here.",
+      "lithuanian": "Bankas yra čia.",
+      "pattern": "SV",
+      "words_used": [
+        {
+          "english": "bank",
+          "lithuanian": "bankas",
+          "type": "subject",
+          "guid": "N07_008"
+        },
+        {
+          "english": "be",
+          "lithuanian": "būti",
+          "type": "verb",
+          "form": "3s_pres"
+        },
+        {
+          "english": "here",
+          "lithuanian": "čia",
+          "type": "adverb"
+        }
+      ]
+    },
+    {
+      "english": "I go to the fire station.",
+      "lithuanian": "Aš einu į gaisrinę.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "go",
+          "lithuanian": "eiti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "fire station",
+          "lithuanian": "gaisrinė",
+          "type": "object",
+          "guid": "N07_011"
+        }
+      ]
+    },
+    {
+      "english": "I work at the fire station.",
+      "lithuanian": "Aš dirbu gaisrinėje.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "work",
+          "lithuanian": "dirbti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "fire station",
+          "lithuanian": "gaisrinė",
+          "type": "object",
+          "guid": "N07_011"
+        }
+      ]
+    },
+    {
+      "english": "I see the hospital.",
+      "lithuanian": "Aš matau ligoninę.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "see",
+          "lithuanian": "matyti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "hospital",
+          "lithuanian": "ligoninė",
+          "type": "object",
+          "guid": "N07_003"
+        }
+      ]
+    },
+    {
+      "english": "I work at the hospital.",
+      "lithuanian": "Aš dirbu ligoninėje.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "work",
+          "lithuanian": "dirbti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "hospital",
+          "lithuanian": "ligoninė",
+          "type": "object",
+          "guid": "N07_003"
+        }
+      ]
+    },
+    {
+      "english": "I see the hotel.",
+      "lithuanian": "Aš matau viešbutį.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "see",
+          "lithuanian": "matyti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "hotel",
+          "lithuanian": "viešbutis",
+          "type": "object",
+          "guid": "N07_007"
+        }
+      ]
+    },
+    {
+      "english": "I live at the hotel.",
+      "lithuanian": "Aš gyvenu viešbutyje.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "live",
+          "lithuanian": "gyventi",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "hotel",
+          "lithuanian": "viešbutis",
+          "type": "object",
+          "guid": "N07_007"
+        }
+      ]
+    },
+    {
+      "english": "I see the house.",
+      "lithuanian": "Aš matau namą.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "see",
+          "lithuanian": "matyti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "house",
+          "lithuanian": "namas",
+          "type": "object",
+          "guid": "N07_001"
+        }
+      ]
+    },
+    {
+      "english": "I live in a house.",
+      "lithuanian": "Aš gyvenu name.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "live",
+          "lithuanian": "gyventi",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "house",
+          "lithuanian": "namas",
+          "type": "object",
+          "guid": "N07_001"
+        }
+      ]
+    },
+    {
+      "english": "I go to the library.",
+      "lithuanian": "Aš einu į biblioteką.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "go",
+          "lithuanian": "eiti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "library",
+          "lithuanian": "biblioteka",
+          "type": "object",
+          "guid": "N07_009"
+        }
+      ]
+    },
+    {
+      "english": "I work at the library.",
+      "lithuanian": "Aš dirbu bibliotekoje.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "work",
+          "lithuanian": "dirbti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "library",
+          "lithuanian": "biblioteka",
+          "type": "object",
+          "guid": "N07_009"
+        }
+      ]
+    },
+    {
+      "english": "I see the museum.",
+      "lithuanian": "Aš matau muziejų.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "see",
+          "lithuanian": "matyti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "museum",
+          "lithuanian": "muziejus",
+          "type": "object",
+          "guid": "N07_010"
+        }
+      ]
+    },
+    {
+      "english": "I like the museum.",
+      "lithuanian": "Aš mėgstu muziejų.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "like",
+          "lithuanian": "mėgti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "museum",
+          "lithuanian": "muziejus",
+          "type": "object",
+          "guid": "N07_010"
+        }
+      ]
+    },
+    {
+      "english": "I go to the restaurant.",
+      "lithuanian": "Aš einu į restoraną.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "go",
+          "lithuanian": "eiti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "restaurant",
+          "lithuanian": "restoranas",
+          "type": "object",
+          "guid": "N07_006"
+        }
+      ]
+    },
+    {
+      "english": "I eat at the restaurant.",
+      "lithuanian": "Aš valgau restorane.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "eat",
+          "lithuanian": "valgyti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "restaurant",
+          "lithuanian": "restoranas",
+          "type": "object",
+          "guid": "N07_006"
+        }
+      ]
+    },
+    {
+      "english": "I go to school.",
+      "lithuanian": "Aš einu į mokyklą.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "go",
+          "lithuanian": "eiti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "school",
+          "lithuanian": "mokykla",
+          "type": "object",
+          "guid": "N07_002"
+        }
+      ]
+    },
+    {
+      "english": "I work at the school.",
+      "lithuanian": "Aš dirbu mokykloje.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "work",
+          "lithuanian": "dirbti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "school",
+          "lithuanian": "mokykla",
+          "type": "object",
+          "guid": "N07_002"
+        }
+      ]
+    },
+    {
+      "english": "I see the store.",
+      "lithuanian": "Aš matau parduotuvę.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "see",
+          "lithuanian": "matyti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "store",
+          "lithuanian": "parduotuvė",
+          "type": "object",
+          "guid": "N07_005"
+        }
+      ]
+    },
+    {
+      "english": "I work at the store.",
+      "lithuanian": "Aš dirbu parduotuvėje.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "work",
+          "lithuanian": "dirbti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "store",
+          "lithuanian": "parduotuvė",
+          "type": "object",
+          "guid": "N07_005"
+        }
+      ]
+    },
+    {
+      "english": "I see the dress.",
+      "lithuanian": "Aš matau suknelę.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "see",
+          "lithuanian": "matyti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "dress",
+          "lithuanian": "suknelė",
+          "type": "object",
+          "guid": "N09_003"
+        }
+      ]
+    },
+    {
+      "english": "I buy a dress.",
+      "lithuanian": "Aš perku suknelę.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "buy",
+          "lithuanian": "pirkti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "dress",
+          "lithuanian": "suknelė",
+          "type": "object",
+          "guid": "N09_003"
+        }
+      ]
+    },
+    {
+      "english": "I have gloves.",
+      "lithuanian": "Aš turiu pirštines.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "have",
+          "lithuanian": "turėti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "gloves",
+          "lithuanian": "pirštinės",
+          "type": "object",
+          "guid": "N09_009"
+        }
+      ]
+    },
+    {
+      "english": "I buy gloves.",
+      "lithuanian": "Aš perku pirštines.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "buy",
+          "lithuanian": "pirkti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "gloves",
+          "lithuanian": "pirštinės",
+          "type": "object",
+          "guid": "N09_009"
+        }
+      ]
+    },
+    {
+      "english": "I have a hat.",
+      "lithuanian": "Aš turiu kepurę.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "have",
+          "lithuanian": "turėti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "hat",
+          "lithuanian": "kepurė",
+          "type": "object",
+          "guid": "N09_008"
+        }
+      ]
+    },
+    {
+      "english": "I like the hat.",
+      "lithuanian": "Aš mėgstu kepurę.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "like",
+          "lithuanian": "mėgti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "hat",
+          "lithuanian": "kepurė",
+          "type": "object",
+          "guid": "N09_008"
+        }
+      ]
+    },
+    {
+      "english": "I have a jacket.",
+      "lithuanian": "Aš turiu striukę.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "have",
+          "lithuanian": "turėti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "jacket",
+          "lithuanian": "striukė",
+          "type": "object",
+          "guid": "N09_005"
+        }
+      ]
+    },
+    {
+      "english": "I buy a jacket.",
+      "lithuanian": "Aš perku striukę.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "buy",
+          "lithuanian": "pirkti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "jacket",
+          "lithuanian": "striukė",
+          "type": "object",
+          "guid": "N09_005"
+        }
+      ]
+    },
+    {
+      "english": "I have pants.",
+      "lithuanian": "Aš turiu kelnes.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "have",
+          "lithuanian": "turėti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "pants",
+          "lithuanian": "kelnės",
+          "type": "object",
+          "guid": "N09_002"
+        }
+      ]
+    },
+    {
+      "english": "I buy pants.",
+      "lithuanian": "Aš perku kelnes.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "buy",
+          "lithuanian": "pirkti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "pants",
+          "lithuanian": "kelnės",
+          "type": "object",
+          "guid": "N09_002"
+        }
+      ]
+    },
+    {
+      "english": "I have a shirt.",
+      "lithuanian": "Aš turiu marškinius.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "have",
+          "lithuanian": "turėti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "shirt",
+          "lithuanian": "marškiniai",
+          "type": "object",
+          "guid": "N09_001"
+        }
+      ]
+    },
+    {
+      "english": "I like the shirt.",
+      "lithuanian": "Aš mėgstu marškinius.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "like",
+          "lithuanian": "mėgti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "shirt",
+          "lithuanian": "marškiniai",
+          "type": "object",
+          "guid": "N09_001"
+        }
+      ]
+    },
+    {
+      "english": "I have shoes.",
+      "lithuanian": "Aš turiu batus.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "have",
+          "lithuanian": "turėti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "shoes",
+          "lithuanian": "batai",
+          "type": "object",
+          "guid": "N09_006"
+        }
+      ]
+    },
+    {
+      "english": "I buy shoes.",
+      "lithuanian": "Aš perku batus.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "buy",
+          "lithuanian": "pirkti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "shoes",
+          "lithuanian": "batai",
+          "type": "object",
+          "guid": "N09_006"
+        }
+      ]
+    },
+    {
+      "english": "I have socks.",
+      "lithuanian": "Aš turiu kojines.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "have",
+          "lithuanian": "turėti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "socks",
+          "lithuanian": "kojinės",
+          "type": "object",
+          "guid": "N09_007"
+        }
+      ]
+    },
+    {
+      "english": "I buy socks.",
+      "lithuanian": "Aš perku kojines.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "buy",
+          "lithuanian": "pirkti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "socks",
+          "lithuanian": "kojinės",
+          "type": "object",
+          "guid": "N09_007"
+        }
+      ]
+    },
+    {
+      "english": "I have a sweater.",
+      "lithuanian": "Aš turiu megztinį.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "have",
+          "lithuanian": "turėti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "sweater",
+          "lithuanian": "megztinis",
+          "type": "object",
+          "guid": "N09_011"
+        }
+      ]
+    },
+    {
+      "english": "I like the sweater.",
+      "lithuanian": "Aš mėgstu megztinį.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "like",
+          "lithuanian": "mėgti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "sweater",
+          "lithuanian": "megztinis",
+          "type": "object",
+          "guid": "N09_011"
+        }
+      ]
+    },
+    {
+      "english": "I have underwear.",
+      "lithuanian": "Aš turiu apatinius.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "have",
+          "lithuanian": "turėti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "underwear",
+          "lithuanian": "apatiniai",
+          "type": "object",
+          "guid": "N09_012"
+        }
+      ]
+    },
+    {
+      "english": "I buy underwear.",
+      "lithuanian": "Aš perku apatinius.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "buy",
+          "lithuanian": "pirkti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "underwear",
+          "lithuanian": "apatiniai",
+          "type": "object",
+          "guid": "N09_012"
+        }
+      ]
+    },
+    {
+      "english": "I eat an apple.",
+      "lithuanian": "Aš valgau obuolį.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "eat",
+          "lithuanian": "valgyti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "apple",
+          "lithuanian": "obuolys",
+          "type": "object",
+          "guid": "N06_015"
+        }
+      ]
+    },
+    {
+      "english": "I like apples.",
+      "lithuanian": "Aš mėgstu obuolius.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "like",
+          "lithuanian": "mėgti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "apple",
+          "lithuanian": "obuolys",
+          "type": "object",
+          "guid": "N06_015"
+        }
+      ]
+    },
+    {
+      "english": "I eat a banana.",
+      "lithuanian": "Aš valgau bananą.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "eat",
+          "lithuanian": "valgyti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "banana",
+          "lithuanian": "bananas",
+          "type": "object",
+          "guid": "N06_016"
+        }
+      ]
+    },
+    {
+      "english": "I buy a banana.",
+      "lithuanian": "Aš perku bananą.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "buy",
+          "lithuanian": "pirkti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "banana",
+          "lithuanian": "bananas",
+          "type": "object",
+          "guid": "N06_016"
+        }
+      ]
+    },
+    {
+      "english": "I drink beer.",
+      "lithuanian": "Aš geriu alų.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "drink",
+          "lithuanian": "gerti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "beer",
+          "lithuanian": "alus",
+          "type": "object",
+          "guid": "N06_005"
+        }
+      ]
+    },
+    {
+      "english": "I buy beer.",
+      "lithuanian": "Aš perku alų.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "buy",
+          "lithuanian": "pirkti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "beer",
+          "lithuanian": "alus",
+          "type": "object",
+          "guid": "N06_005"
+        }
+      ]
+    },
+    {
+      "english": "I eat bread.",
+      "lithuanian": "Aš valgau duoną.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "eat",
+          "lithuanian": "valgyti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "bread",
+          "lithuanian": "duona",
+          "type": "object",
+          "guid": "N06_001"
+        }
+      ]
+    },
+    {
+      "english": "I buy bread.",
+      "lithuanian": "Aš perku duoną.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "buy",
+          "lithuanian": "pirkti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "bread",
+          "lithuanian": "duona",
+          "type": "object",
+          "guid": "N06_001"
+        }
+      ]
+    },
+    {
+      "english": "I drink coffee.",
+      "lithuanian": "Aš geriu kavą.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "drink",
+          "lithuanian": "gerti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "coffee",
+          "lithuanian": "kava",
+          "type": "object",
+          "guid": "N06_003"
+        }
+      ]
+    },
+    {
+      "english": "I like coffee.",
+      "lithuanian": "Aš mėgstu kavą.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "like",
+          "lithuanian": "mėgti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "coffee",
+          "lithuanian": "kava",
+          "type": "object",
+          "guid": "N06_003"
+        }
+      ]
+    },
+    {
+      "english": "I eat meat.",
+      "lithuanian": "Aš valgau mėsą.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "eat",
+          "lithuanian": "valgyti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "meat",
+          "lithuanian": "mėsa",
+          "type": "object",
+          "guid": "N06_007"
+        }
+      ]
+    },
+    {
+      "english": "I buy meat.",
+      "lithuanian": "Aš perku mėsą.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "buy",
+          "lithuanian": "pirkti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "meat",
+          "lithuanian": "mėsa",
+          "type": "object",
+          "guid": "N06_007"
+        }
+      ]
+    },
+    {
+      "english": "I eat a potato.",
+      "lithuanian": "Aš valgau bulvę.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "eat",
+          "lithuanian": "valgyti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "potato",
+          "lithuanian": "bulvė",
+          "type": "object",
+          "guid": "N06_014"
+        }
+      ]
+    },
+    {
+      "english": "I like potatoes.",
+      "lithuanian": "Aš mėgstu bulves.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "like",
+          "lithuanian": "mėgti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "potato",
+          "lithuanian": "bulvė",
+          "type": "object",
+          "guid": "N06_014"
+        }
+      ]
+    },
+    {
+      "english": "I eat rice.",
+      "lithuanian": "Aš valgau ryžius.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "eat",
+          "lithuanian": "valgyti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "rice",
+          "lithuanian": "ryžiai",
+          "type": "object",
+          "guid": "N06_020"
+        }
+      ]
+    },
+    {
+      "english": "I like rice.",
+      "lithuanian": "Aš mėgstu ryžius.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "like",
+          "lithuanian": "mėgti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "rice",
+          "lithuanian": "ryžiai",
+          "type": "object",
+          "guid": "N06_020"
+        }
+      ]
+    },
+    {
+      "english": "I have salt.",
+      "lithuanian": "Aš turiu druskos.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "have",
+          "lithuanian": "turėti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "salt",
+          "lithuanian": "druska",
+          "type": "object",
+          "guid": "N06_013"
+        }
+      ]
+    },
+    {
+      "english": "I buy salt.",
+      "lithuanian": "Aš perku druskos.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "buy",
+          "lithuanian": "pirkti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "salt",
+          "lithuanian": "druska",
+          "type": "object",
+          "guid": "N06_013"
+        }
+      ]
+    },
+    {
+      "english": "I eat soup.",
+      "lithuanian": "Aš valgau sriubą.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "eat",
+          "lithuanian": "valgyti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "soup",
+          "lithuanian": "sriuba",
+          "type": "object",
+          "guid": "N06_021"
+        }
+      ]
+    },
+    {
+      "english": "I like soup.",
+      "lithuanian": "Aš mėgstu sriubą.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "like",
+          "lithuanian": "mėgti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "soup",
+          "lithuanian": "sriuba",
+          "type": "object",
+          "guid": "N06_021"
+        }
+      ]
+    },
+    {
+      "english": "I have sugar.",
+      "lithuanian": "Aš turiu cukraus.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "have",
+          "lithuanian": "turėti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "sugar",
+          "lithuanian": "cukrus",
+          "type": "object",
+          "guid": "N06_012"
+        }
+      ]
+    },
+    {
+      "english": "I buy sugar.",
+      "lithuanian": "Aš perku cukraus.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "buy",
+          "lithuanian": "pirkti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "sugar",
+          "lithuanian": "cukrus",
+          "type": "object",
+          "guid": "N06_012"
+        }
+      ]
+    },
+    {
+      "english": "I drink tea.",
+      "lithuanian": "Aš geriu arbatą.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "drink",
+          "lithuanian": "gerti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "tea",
+          "lithuanian": "arbata",
+          "type": "object",
+          "guid": "N06_004"
+        }
+      ]
+    },
+    {
+      "english": "I like tea.",
+      "lithuanian": "Aš mėgstu arbatą.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "like",
+          "lithuanian": "mėgti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "tea",
+          "lithuanian": "arbata",
+          "type": "object",
+          "guid": "N06_004"
+        }
+      ]
+    },
+    {
+      "english": "I eat a tomato.",
+      "lithuanian": "Aš valgau pomidorą.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "eat",
+          "lithuanian": "valgyti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "tomato",
+          "lithuanian": "pomidoras",
+          "type": "object",
+          "guid": "N06_018"
+        }
+      ]
+    },
+    {
+      "english": "I buy a tomato.",
+      "lithuanian": "Aš perku pomidorą.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "buy",
+          "lithuanian": "pirkti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "tomato",
+          "lithuanian": "pomidoras",
+          "type": "object",
+          "guid": "N06_018"
+        }
+      ]
+    },
+    {
+      "english": "I drink water.",
+      "lithuanian": "Aš geriu vandenį.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "drink",
+          "lithuanian": "gerti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "water",
+          "lithuanian": "vanduo",
+          "type": "object",
+          "guid": "N06_002"
+        }
+      ]
+    },
+    {
+      "english": "I want water.",
+      "lithuanian": "Aš noriu vandens.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "want",
+          "lithuanian": "norėti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "water",
+          "lithuanian": "vanduo",
+          "type": "object",
+          "guid": "N06_002"
+        }
+      ]
+    },
+    {
+      "english": "I drink wine.",
+      "lithuanian": "Aš geriu vyną.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "drink",
+          "lithuanian": "gerti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "wine",
+          "lithuanian": "vynas",
+          "type": "object",
+          "guid": "N06_006"
+        }
+      ]
+    },
+    {
+      "english": "I buy wine.",
+      "lithuanian": "Aš perku vyną.",
+      "pattern": "SVO",
+      "words_used": [
+        {
+          "english": "I",
+          "lithuanian": "aš",
+          "type": "pronoun"
+        },
+        {
+          "english": "buy",
+          "lithuanian": "pirkti",
+          "type": "verb",
+          "form": "1s_pres"
+        },
+        {
+          "english": "wine",
+          "lithuanian": "vynas",
+          "type": "object",
+          "guid": "N06_006"
+        }
+      ]
+    }
+  ]
+}
