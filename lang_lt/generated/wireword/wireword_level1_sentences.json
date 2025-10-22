@@ -16,7 +16,8 @@
       "accusative",
       "genitive",
       "locative"
-    ]
+    ],
+    "prefix": "sentence_a1"
   },
   "sentences": [
     {
@@ -44,7 +45,8 @@
           "case": "accusative",
           "declined_form": "banką"
         }
-      ]
+      ],
+      "filename": "sentence_a1_1"
     },
     {
       "english": "The bank is here.",
@@ -71,7 +73,8 @@
           "lithuanian": "čia",
           "type": "adverb"
         }
-      ]
+      ],
+      "filename": "sentence_a1_2"
     },
     {
       "english": "I will go to the fire station.",
@@ -98,7 +101,8 @@
           "case": "accusative",
           "declined_form": "gaisrinę"
         }
-      ]
+      ],
+      "filename": "sentence_a1_3"
     },
     {
       "english": "I worked at the fire station.",
@@ -125,7 +129,8 @@
           "case": "locative",
           "declined_form": "gaisrinėje"
         }
-      ]
+      ],
+      "filename": "sentence_a1_4"
     },
     {
       "english": "I see the hospital.",
@@ -152,7 +157,8 @@
           "case": "accusative",
           "declined_form": "ligoninę"
         }
-      ]
+      ],
+      "filename": "sentence_a1_5"
     },
     {
       "english": "I work at the hospital.",
@@ -179,7 +185,8 @@
           "case": "locative",
           "declined_form": "ligoninėje"
         }
-      ]
+      ],
+      "filename": "sentence_a1_6"
     },
     {
       "english": "I saw the hotel.",
@@ -206,7 +213,8 @@
           "case": "accusative",
           "declined_form": "viešbutį"
         }
-      ]
+      ],
+      "filename": "sentence_a1_7"
     },
     {
       "english": "I lived at the hotel.",
@@ -233,7 +241,8 @@
           "case": "locative",
           "declined_form": "viešbutyje"
         }
-      ]
+      ],
+      "filename": "sentence_a1_8"
     },
     {
       "english": "I see the house.",
@@ -260,7 +269,8 @@
           "case": "accusative",
           "declined_form": "namą"
         }
-      ]
+      ],
+      "filename": "sentence_a1_9"
     },
     {
       "english": "I live in a house.",
@@ -287,7 +297,8 @@
           "case": "locative",
           "declined_form": "name"
         }
-      ]
+      ],
+      "filename": "sentence_a1_10"
     },
     {
       "english": "I will go to the library.",
@@ -314,7 +325,8 @@
           "case": "accusative",
           "declined_form": "biblioteką"
         }
-      ]
+      ],
+      "filename": "sentence_a1_11"
     },
     {
       "english": "I worked at the library.",
@@ -341,7 +353,8 @@
           "case": "locative",
           "declined_form": "bibliotekoje"
         }
-      ]
+      ],
+      "filename": "sentence_a1_12"
     },
     {
       "english": "I saw the museum.",
@@ -368,7 +381,8 @@
           "case": "accusative",
           "declined_form": "muziejų"
         }
-      ]
+      ],
+      "filename": "sentence_a1_13"
     },
     {
       "english": "I liked the museum.",
@@ -395,7 +409,8 @@
           "case": "accusative",
           "declined_form": "muziejų"
         }
-      ]
+      ],
+      "filename": "sentence_a1_14"
     },
     {
       "english": "I will go to the restaurant.",
@@ -422,7 +437,8 @@
           "case": "accusative",
           "declined_form": "restoraną"
         }
-      ]
+      ],
+      "filename": "sentence_a1_15"
     },
     {
       "english": "I ate at the restaurant.",
@@ -449,7 +465,8 @@
           "case": "locative",
           "declined_form": "restorane"
         }
-      ]
+      ],
+      "filename": "sentence_a1_16"
     },
     {
       "english": "I go to school.",
@@ -476,7 +493,8 @@
           "case": "accusative",
           "declined_form": "mokyklą"
         }
-      ]
+      ],
+      "filename": "sentence_a1_17"
     },
     {
       "english": "I worked at the school.",
@@ -503,7 +521,8 @@
           "case": "locative",
           "declined_form": "mokykloje"
         }
-      ]
+      ],
+      "filename": "sentence_a1_18"
     },
     {
       "english": "I see the store.",
@@ -530,7 +549,8 @@
           "case": "accusative",
           "declined_form": "parduotuvę"
         }
-      ]
+      ],
+      "filename": "sentence_a1_19"
     },
     {
       "english": "I worked at the store.",
@@ -557,7 +577,8 @@
           "case": "locative",
           "declined_form": "parduotuvėje"
         }
-      ]
+      ],
+      "filename": "sentence_a1_20"
     },
     {
       "english": "I saw the dress.",
@@ -584,7 +605,8 @@
           "case": "accusative",
           "declined_form": "suknelę"
         }
-      ]
+      ],
+      "filename": "sentence_a1_21"
     },
     {
       "english": "I bought a dress.",
@@ -611,7 +633,8 @@
           "case": "accusative",
           "declined_form": "suknelę"
         }
-      ]
+      ],
+      "filename": "sentence_a1_22"
     },
     {
       "english": "I have gloves.",
@@ -638,7 +661,8 @@
           "case": "accusative",
           "declined_form": "pirštines"
         }
-      ]
+      ],
+      "filename": "sentence_a1_23"
     },
     {
       "english": "I will buy gloves.",
@@ -665,7 +689,8 @@
           "case": "accusative",
           "declined_form": "pirštines"
         }
-      ]
+      ],
+      "filename": "sentence_a1_24"
     },
     {
       "english": "I had a hat.",
@@ -692,7 +717,8 @@
           "case": "accusative",
           "declined_form": "kepurę"
         }
-      ]
+      ],
+      "filename": "sentence_a1_25"
     },
     {
       "english": "I like the hat.",
@@ -719,7 +745,8 @@
           "case": "accusative",
           "declined_form": "kepurę"
         }
-      ]
+      ],
+      "filename": "sentence_a1_26"
     },
     {
       "english": "I have a jacket.",
@@ -746,7 +773,8 @@
           "case": "accusative",
           "declined_form": "striukę"
         }
-      ]
+      ],
+      "filename": "sentence_a1_27"
     },
     {
       "english": "I bought a jacket.",
@@ -773,7 +801,8 @@
           "case": "accusative",
           "declined_form": "striukę"
         }
-      ]
+      ],
+      "filename": "sentence_a1_28"
     },
     {
       "english": "I have pants.",
@@ -800,7 +829,8 @@
           "case": "accusative",
           "declined_form": "kelnes"
         }
-      ]
+      ],
+      "filename": "sentence_a1_29"
     },
     {
       "english": "I will buy pants.",
@@ -827,7 +857,8 @@
           "case": "accusative",
           "declined_form": "kelnes"
         }
-      ]
+      ],
+      "filename": "sentence_a1_30"
     },
     {
       "english": "I had a shirt.",
@@ -854,7 +885,8 @@
           "case": "accusative",
           "declined_form": "marškinius"
         }
-      ]
+      ],
+      "filename": "sentence_a1_31"
     },
     {
       "english": "I liked the shirt.",
@@ -881,7 +913,8 @@
           "case": "accusative",
           "declined_form": "marškinius"
         }
-      ]
+      ],
+      "filename": "sentence_a1_32"
     },
     {
       "english": "I have shoes.",
@@ -908,7 +941,8 @@
           "case": "accusative",
           "declined_form": "batus"
         }
-      ]
+      ],
+      "filename": "sentence_a1_33"
     },
     {
       "english": "I bought shoes.",
@@ -935,7 +969,8 @@
           "case": "accusative",
           "declined_form": "batus"
         }
-      ]
+      ],
+      "filename": "sentence_a1_34"
     },
     {
       "english": "I had socks.",
@@ -962,7 +997,8 @@
           "case": "accusative",
           "declined_form": "kojines"
         }
-      ]
+      ],
+      "filename": "sentence_a1_35"
     },
     {
       "english": "I will buy socks.",
@@ -989,7 +1025,8 @@
           "case": "accusative",
           "declined_form": "kojines"
         }
-      ]
+      ],
+      "filename": "sentence_a1_36"
     },
     {
       "english": "I have a sweater.",
@@ -1016,7 +1053,8 @@
           "case": "accusative",
           "declined_form": "megztinį"
         }
-      ]
+      ],
+      "filename": "sentence_a1_37"
     },
     {
       "english": "I liked the sweater.",
@@ -1043,7 +1081,8 @@
           "case": "accusative",
           "declined_form": "megztinį"
         }
-      ]
+      ],
+      "filename": "sentence_a1_38"
     },
     {
       "english": "I have underwear.",
@@ -1070,7 +1109,8 @@
           "case": "accusative",
           "declined_form": "apatinius"
         }
-      ]
+      ],
+      "filename": "sentence_a1_39"
     },
     {
       "english": "I bought underwear.",
@@ -1097,7 +1137,8 @@
           "case": "accusative",
           "declined_form": "apatinius"
         }
-      ]
+      ],
+      "filename": "sentence_a1_40"
     },
     {
       "english": "I ate an apple.",
@@ -1124,7 +1165,8 @@
           "case": "accusative",
           "declined_form": "obuolį"
         }
-      ]
+      ],
+      "filename": "sentence_a1_41"
     },
     {
       "english": "I like apples.",
@@ -1151,7 +1193,8 @@
           "case": "accusative",
           "declined_form": "obuolius"
         }
-      ]
+      ],
+      "filename": "sentence_a1_42"
     },
     {
       "english": "I will eat a banana.",
@@ -1178,7 +1221,8 @@
           "case": "accusative",
           "declined_form": "bananą"
         }
-      ]
+      ],
+      "filename": "sentence_a1_43"
     },
     {
       "english": "I bought a banana.",
@@ -1205,7 +1249,8 @@
           "case": "accusative",
           "declined_form": "bananą"
         }
-      ]
+      ],
+      "filename": "sentence_a1_44"
     },
     {
       "english": "I drank beer.",
@@ -1232,7 +1277,8 @@
           "case": "accusative",
           "declined_form": "alų"
         }
-      ]
+      ],
+      "filename": "sentence_a1_45"
     },
     {
       "english": "I will buy beer.",
@@ -1259,7 +1305,8 @@
           "case": "accusative",
           "declined_form": "alų"
         }
-      ]
+      ],
+      "filename": "sentence_a1_46"
     },
     {
       "english": "I eat bread.",
@@ -1286,7 +1333,8 @@
           "case": "accusative",
           "declined_form": "duoną"
         }
-      ]
+      ],
+      "filename": "sentence_a1_47"
     },
     {
       "english": "I bought bread.",
@@ -1313,7 +1361,8 @@
           "case": "accusative",
           "declined_form": "duoną"
         }
-      ]
+      ],
+      "filename": "sentence_a1_48"
     },
     {
       "english": "I drink coffee.",
@@ -1340,7 +1389,8 @@
           "case": "accusative",
           "declined_form": "kavą"
         }
-      ]
+      ],
+      "filename": "sentence_a1_49"
     },
     {
       "english": "I liked the coffee.",
@@ -1367,7 +1417,8 @@
           "case": "accusative",
           "declined_form": "kavą"
         }
-      ]
+      ],
+      "filename": "sentence_a1_50"
     },
     {
       "english": "I ate meat.",
@@ -1394,7 +1445,8 @@
           "case": "accusative",
           "declined_form": "mėsą"
         }
-      ]
+      ],
+      "filename": "sentence_a1_51"
     },
     {
       "english": "I will buy meat.",
@@ -1421,7 +1473,8 @@
           "case": "accusative",
           "declined_form": "mėsą"
         }
-      ]
+      ],
+      "filename": "sentence_a1_52"
     },
     {
       "english": "I ate a potato.",
@@ -1448,7 +1501,8 @@
           "case": "accusative",
           "declined_form": "bulvę"
         }
-      ]
+      ],
+      "filename": "sentence_a1_53"
     },
     {
       "english": "I like potatoes.",
@@ -1475,7 +1529,8 @@
           "case": "accusative",
           "declined_form": "bulves"
         }
-      ]
+      ],
+      "filename": "sentence_a1_54"
     },
     {
       "english": "I eat rice.",
@@ -1502,7 +1557,8 @@
           "case": "accusative",
           "declined_form": "ryžius"
         }
-      ]
+      ],
+      "filename": "sentence_a1_55"
     },
     {
       "english": "I liked the rice.",
@@ -1529,7 +1585,8 @@
           "case": "accusative",
           "declined_form": "ryžius"
         }
-      ]
+      ],
+      "filename": "sentence_a1_56"
     },
     {
       "english": "I have salt.",
@@ -1556,7 +1613,8 @@
           "case": "genitive",
           "declined_form": "druskos"
         }
-      ]
+      ],
+      "filename": "sentence_a1_57"
     },
     {
       "english": "I bought salt.",
@@ -1583,7 +1641,8 @@
           "case": "genitive",
           "declined_form": "druskos"
         }
-      ]
+      ],
+      "filename": "sentence_a1_58"
     },
     {
       "english": "I will eat soup.",
@@ -1610,7 +1669,8 @@
           "case": "accusative",
           "declined_form": "sriubą"
         }
-      ]
+      ],
+      "filename": "sentence_a1_59"
     },
     {
       "english": "I like soup.",
@@ -1637,7 +1697,8 @@
           "case": "accusative",
           "declined_form": "sriubą"
         }
-      ]
+      ],
+      "filename": "sentence_a1_60"
     },
     {
       "english": "I have sugar.",
@@ -1664,7 +1725,8 @@
           "case": "genitive",
           "declined_form": "cukraus"
         }
-      ]
+      ],
+      "filename": "sentence_a1_61"
     },
     {
       "english": "I bought sugar.",
@@ -1691,7 +1753,8 @@
           "case": "genitive",
           "declined_form": "cukraus"
         }
-      ]
+      ],
+      "filename": "sentence_a1_62"
     },
     {
       "english": "I drank tea.",
@@ -1718,7 +1781,8 @@
           "case": "accusative",
           "declined_form": "arbatą"
         }
-      ]
+      ],
+      "filename": "sentence_a1_63"
     },
     {
       "english": "I like tea.",
@@ -1745,7 +1809,8 @@
           "case": "accusative",
           "declined_form": "arbatą"
         }
-      ]
+      ],
+      "filename": "sentence_a1_64"
     },
     {
       "english": "I ate a tomato.",
@@ -1772,7 +1837,8 @@
           "case": "accusative",
           "declined_form": "pomidorą"
         }
-      ]
+      ],
+      "filename": "sentence_a1_65"
     },
     {
       "english": "I will buy a tomato.",
@@ -1799,7 +1865,8 @@
           "case": "accusative",
           "declined_form": "pomidorą"
         }
-      ]
+      ],
+      "filename": "sentence_a1_66"
     },
     {
       "english": "I drink water.",
@@ -1826,7 +1893,8 @@
           "case": "accusative",
           "declined_form": "vandenį"
         }
-      ]
+      ],
+      "filename": "sentence_a1_67"
     },
     {
       "english": "I wanted water.",
@@ -1853,7 +1921,8 @@
           "case": "genitive",
           "declined_form": "vandens"
         }
-      ]
+      ],
+      "filename": "sentence_a1_68"
     },
     {
       "english": "I drank wine.",
@@ -1880,7 +1949,8 @@
           "case": "accusative",
           "declined_form": "vyną"
         }
-      ]
+      ],
+      "filename": "sentence_a1_69"
     },
     {
       "english": "I will buy wine.",
@@ -1907,7 +1977,8 @@
           "case": "accusative",
           "declined_form": "vyną"
         }
-      ]
+      ],
+      "filename": "sentence_a1_70"
     }
   ]
 }
