@@ -7,6 +7,7 @@
     "group": "Physical Action",
     "level": 6,
     "word_type": "verb",
+    "audio": {"alloy": "66154bae67907599605b2e55dbf6c106", "ash": "6843e7b0a3b5738fa4c15256a478fe8f", "nova": "2195bb26ebe414009341d485239a6e49"},
     "tags": ["physical_action", "level_6", "verified"],
     "grammatical_forms": {
       "1p_fut": {"level": 12, "target": "mes gyvensime", "english": "we will live"},
@@ -43,6 +44,7 @@
     "group": "Physical Action",
     "level": 6,
     "word_type": "verb",
+    "audio": {"alloy": "77112fef58999c1c7e88ec446176529d", "ash": "41e8bc146598cc03d22e56715cca2a44", "nova": "0ae57bec54a0a88c406026ead0705f55"},
     "tags": ["physical_action", "level_6", "verified"],
     "grammatical_forms": {
       "1p_fut": {"level": 12, "target": "mes žaisime", "english": "we will play"},
@@ -79,6 +81,7 @@
     "group": "Physical Action",
     "level": 6,
     "word_type": "verb",
+    "audio": {"alloy": "959920c3442793b40d0ea4ba400ca77e", "ash": "920db7c461cfc50ee3588d6e8b8647dc", "nova": "c1563c2a509a8ebb0a3738d480cccb99"},
     "tags": ["physical_action", "level_6", "verified"],
     "grammatical_forms": {
       "1p_fut": {"level": 12, "target": "mes dirbsime", "english": "we will work"},
@@ -115,6 +118,7 @@
     "group": "Physical Action",
     "level": 6,
     "word_type": "verb",
+    "audio": {"alloy": "19a07f163cfeaf6676ef412704d67758", "ash": "9a4823d89f087148b70e7abe5a5eadc2", "nova": "6af48ae955703b38f4064a281856cbcf"},
     "tags": ["physical_action", "level_6", "verified"],
     "grammatical_forms": {
       "1p_fut": {"level": 12, "target": "mes gersime", "english": "we will drink"},
@@ -151,6 +155,7 @@
     "group": "Physical Action",
     "level": 6,
     "word_type": "verb",
+    "audio": {"alloy": "fed8fb6548e9e49bee57c2b47d0dbfcc", "ash": "853c80a3d04cb2c41e0cf570087093b2", "nova": "dc8908cdf9717bd361d7a88b5c93fff1"},
     "tags": ["physical_action", "level_6", "verified"],
     "grammatical_forms": {
       "1p_fut": {"level": 12, "target": "mes miegosime", "english": "we will sleep"},
@@ -187,6 +192,7 @@
     "group": "Physical Action",
     "level": 6,
     "word_type": "verb",
+    "audio": {"alloy": "3baca5a7e54fde436aedc767b830a5c6", "ash": "d53eafbc03b0cccc591f383c01d09ebc", "nova": "cf2bc7d3e575d275ab4fe352ccd11063"},
     "tags": ["physical_action", "level_6", "verified"],
     "grammatical_forms": {
       "1p_fut": {"level": 12, "target": "mes valgysime", "english": "we will eat"},
@@ -223,6 +229,7 @@
     "group": "Mental State",
     "level": 10,
     "word_type": "verb",
+    "audio": {"alloy": "96b94ea2594a0f269bba66a053abe12f", "ash": "bb1fd2231308afad8eae52ea4068387c", "nova": "9de3595f5e1853acbdcc6072397a5d78"},
     "tags": ["mental_state", "level_10", "verified"],
     "grammatical_forms": {
       "1p_fut": {"level": 12, "target": "mes mokysimės", "english": "we will learn"},
@@ -259,6 +266,7 @@
     "group": "Mental State",
     "level": 10,
     "word_type": "verb",
+    "audio": {"alloy": "75e2944c4753c0480f65783b8a32d285", "ash": "22bafabd6c3166a4412a33a2b2949112", "nova": "b7623f93d41a6a40ca153b18f14ba0b5"},
     "tags": ["mental_state", "level_10", "verified"],
     "grammatical_forms": {
       "1p_fut": {"level": 12, "target": "mes mokysime", "english": "we will teach"},
@@ -295,6 +303,7 @@
     "group": "Mental State",
     "level": 10,
     "word_type": "verb",
+    "audio": {"alloy": "900e7464204f3e3eda5f7dd113ac01e8", "ash": "459a3afda5d828897a35d4073052d453", "nova": "957be304cfe1e71b88f5e6d9ee13e94f"},
     "tags": ["mental_state", "level_10", "verified"],
     "grammatical_forms": {
       "1p_fut": {"level": 12, "target": "mes skaitysime", "english": "we will read"},
@@ -331,6 +340,7 @@
     "group": "Mental State",
     "level": 10,
     "word_type": "verb",
+    "audio": {"alloy": "2d6fdba6542d3f42a0cbe8670542ff2e", "ash": "983add17e686cbdb4a5dfbbc5c43117c", "nova": "752c43f1104cf734b341209280808907"},
     "tags": ["mental_state", "level_10", "verified"],
     "grammatical_forms": {
       "1p_fut": {"level": 12, "target": "mes rašysime", "english": "we will write"},
@@ -367,6 +377,7 @@
     "group": "Mental State",
     "level": 10,
     "word_type": "verb",
+    "audio": {"alloy": "3dacbf939c42c497e14ee6830f2d7e9f", "ash": "d071bf3ced93db7cee185531f8bc45f0", "nova": "de3d75585c09f9112ff290a10f4ccba9"},
     "tags": ["mental_state", "level_10", "verified"],
     "grammatical_forms": {
       "1p_fut": {"level": 12, "target": "mes klausysime", "english": "we will listen"},
@@ -403,6 +414,7 @@
     "group": "Mental State",
     "level": 10,
     "word_type": "verb",
+    "audio": {"alloy": "a507c0dfbd3d841f525f1d45c68e9b70", "ash": "9f6062faa9589e14c67f4a53a786d080", "nova": "7baef6001eb050f08d9cc4d15cb544e7"},
     "tags": ["mental_state", "level_10", "verified"],
     "grammatical_forms": {
       "1p_fut": {"level": 12, "target": "mes žinosime", "english": "we will know"},
@@ -439,6 +451,7 @@
     "group": "Mental State",
     "level": 10,
     "word_type": "verb",
+    "audio": {"alloy": "d21f2d4053afdf0e703436d1e8c6c77a", "ash": "c202cfb7575215be219274ddaf962e28", "nova": "6f78d31378a83dc20013ba1fc3ad5431"},
     "tags": ["mental_state", "level_10", "verified"],
     "grammatical_forms": {
       "1p_fut": {"level": 12, "target": "mes matysime", "english": "we will see"},
@@ -475,6 +488,7 @@
     "group": "Emotional State",
     "level": 6,
     "word_type": "verb",
+    "audio": {"alloy": "ea6c173e36bc7b59999e355a8c317d99", "ash": "3c129c0b923a2502d809481c7b25bf98", "nova": "fd49f72a8598c756b29b0088cf628969"},
     "tags": ["emotional_state", "level_6", "verified"],
     "grammatical_forms": {
       "1p_fut": {"level": 12, "target": "mes mėgsime", "english": "we will like"},
@@ -511,6 +525,7 @@
     "group": "Emotional State",
     "level": 6,
     "word_type": "verb",
+    "audio": {"alloy": "c81a57019083baf47710bfc1c969eb5a", "ash": "31555b576b46f79ba239f7f1403a812c", "nova": "8faf3882804b44f21350a614ab05b6df"},
     "tags": ["emotional_state", "level_6", "verified"],
     "grammatical_forms": {
       "1p_fut": {"level": 12, "target": "mes kalbėsime", "english": "we will speak"},
@@ -547,6 +562,7 @@
     "group": "Emotional State",
     "level": 6,
     "word_type": "verb",
+    "audio": {"alloy": "413919d8dcd3d783234fc0dfc4d50d25", "ash": "d8a7d38fba21a338c89f2ae896c1b39e", "nova": "3175a7b801eb63a644d744e658cb3da1"},
     "tags": ["emotional_state", "level_6", "verified"],
     "grammatical_forms": {
       "1p_fut": {"level": 12, "target": "mes galėsime", "english": "we will be able"},
@@ -583,6 +599,7 @@
     "group": "Emotional State",
     "level": 6,
     "word_type": "verb",
+    "audio": {"alloy": "0bd3054960ecc64723abb249d1586ed3", "ash": "9d5e07ec43eb84405d52a97aab378fdf", "nova": "cd488916343e94f9e006825acacccd84"},
     "tags": ["emotional_state", "level_6", "verified"],
     "grammatical_forms": {
       "1p_fut": {"level": 12, "target": "mes norėsime", "english": "we will want"},
@@ -619,6 +636,7 @@
     "group": "Possession",
     "level": 6,
     "word_type": "verb",
+    "audio": {"alloy": "dd1961011c6e3f2ef174191a94bad94a", "ash": "be1363aa5138bb559e11789f993d42cb", "nova": "a733655a55b7a1d4c7a1ab5716bf12f0"},
     "tags": ["possession", "level_6", "verified"],
     "grammatical_forms": {
       "1p_fut": {"level": 12, "target": "mes būsime", "english": "we will be"},
@@ -655,6 +673,8 @@
     "group": "Possession",
     "level": 6,
     "word_type": "verb",
+    "audio": {"alloy": "88f7e34a9f80a0e47da7ba1c7de9eaa5", "ash": "18a7aeda9c7b0da91040ccfb8d9d4db0", "nova": "3f59fbb68252bd76aeb754c534cf6fad"},
+    "english_synonyms": ["own", "possess"],
     "tags": ["possession", "level_6", "verified"],
     "grammatical_forms": {
       "1p_fut": {"level": 12, "target": "mes turėsime", "english": "we will have"},
@@ -691,6 +711,7 @@
     "group": "Possession",
     "level": 6,
     "word_type": "verb",
+    "audio": {"alloy": "99090aa3fa2d0485cdd83e99ca4b6bd4", "ash": "f229b3f859fc84a9a2f1a9f8d1a5b580", "nova": "f839ae0e99480bd2877bfbde6f5a18b3"},
     "tags": ["possession", "level_6", "verified"],
     "grammatical_forms": {
       "1p_fut": {"level": 12, "target": "mes gaminsime", "english": "we will make"},
@@ -727,6 +748,7 @@
     "group": "Possession",
     "level": 6,
     "word_type": "verb",
+    "audio": {"alloy": "af488601b32ceef6e407a3b91e88c22d", "ash": "0552fb8a33bdf3fb988ae18caffcfe66", "nova": "0a2da713931b38da18b6fe5611e7569f"},
     "tags": ["possession", "level_6", "verified"],
     "grammatical_forms": {
       "1p_fut": {"level": 12, "target": "mes pirksime", "english": "we will buy"},
@@ -763,6 +785,7 @@
     "group": "Possession",
     "level": 6,
     "word_type": "verb",
+    "audio": {"alloy": "927c11ec7744faa354f02417507a6a5d", "ash": "9d6d1cb8faceb27f42b2e52afbf67d82", "nova": "eb53b84f425d3955ea2c2c79c4f52508"},
     "tags": ["possession", "level_6", "verified"],
     "grammatical_forms": {
       "1p_fut": {"level": 12, "target": "mes duosime", "english": "we will give"},
@@ -799,6 +822,7 @@
     "group": "Possession",
     "level": 6,
     "word_type": "verb",
+    "audio": {"alloy": "28c81ae7714111ab8f6923b41ed3d7ee", "ash": "48f8c9d733b69ad371f00f38c34a49e1", "nova": "df4c0a9c9a87f1187eeb6c3b9eccc767"},
     "tags": ["possession", "level_6", "verified"],
     "grammatical_forms": {
       "1p_fut": {"level": 12, "target": "mes imsime", "english": "we will take"},
@@ -835,6 +859,7 @@
     "group": "Directional Movement",
     "level": 10,
     "word_type": "verb",
+    "audio": {"alloy": "064c237f84fc4857a89f9dc9a1b8ab59", "ash": "f165ecb4c37c4913b24a1249a36d4e92", "nova": "3a4020d3c3c1a660bb8f3bdcadb22043"},
     "tags": ["directional_movement", "level_10", "verified"],
     "grammatical_forms": {
       "1p_fut": {"level": 12, "target": "mes eisime", "english": "we will walk"},
@@ -871,6 +896,7 @@
     "group": "Directional Movement",
     "level": 10,
     "word_type": "verb",
+    "audio": {"alloy": "a008cb58c4b5488dc4d82e60302b8be2", "ash": "6482efe011289793c614764cf60b2d64", "nova": "113080eb354b5ce23dc982ab30c73cbd"},
     "tags": ["directional_movement", "level_10", "verified"],
     "grammatical_forms": {
       "1p_fut": {"level": 12, "target": "mes važiuosime", "english": "we will drive"},
@@ -907,6 +933,7 @@
     "group": "Directional Movement",
     "level": 10,
     "word_type": "verb",
+    "audio": {"alloy": "2b27e288dcfdad282e66368b72685965", "ash": "17faacb43b685a8c6ff688bda14e971f", "nova": "6acd6d81a23c328a918e83710ddfb8db"},
     "tags": ["directional_movement", "level_10", "verified"],
     "grammatical_forms": {
       "1p_fut": {"level": 12, "target": "mes bėgsime", "english": "we will run"},
@@ -943,6 +970,7 @@
     "group": "Directional Movement",
     "level": 10,
     "word_type": "verb",
+    "audio": {"alloy": "d5b7acd39d333e01c1de4aaefd559286", "ash": "24c7b78e680ccfd51c8c3054b8e560c5", "nova": "4715ea4938bc738702d01450cedb7d96"},
     "tags": ["directional_movement", "level_10", "verified"],
     "grammatical_forms": {
       "1p_fut": {"level": 12, "target": "mes vyksime", "english": "we will go"},
@@ -979,6 +1007,7 @@
     "group": "Directional Movement",
     "level": 10,
     "word_type": "verb",
+    "audio": {"alloy": "5c756cbcdb6e12e7df540439eddfa1cf", "ash": "8d7023bc7f73950418bcc760f43b8f26", "nova": "e8ae933dd144e52f17ea7184d4a0d743"},
     "tags": ["directional_movement", "level_10", "verified"],
     "grammatical_forms": {
       "1p_fut": {"level": 12, "target": "mes ateisime", "english": "we will come"},
@@ -1015,6 +1044,7 @@
     "group": "Directional Movement",
     "level": 10,
     "word_type": "verb",
+    "audio": {"alloy": "f8158e0e9fd114d46d024c697864fb51", "ash": "bd402be165e5f9a135215bd9740dfc23", "nova": "11f3b370cbe62f226bbf52fed3aef921"},
     "tags": ["directional_movement", "level_10", "verified"],
     "grammatical_forms": {
       "1p_fut": {"level": 12, "target": "mes grįšime", "english": "we will return"},
