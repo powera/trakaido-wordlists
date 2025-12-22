@@ -204,18 +204,6 @@
     "tags": ["emotional_state", "level_6", "verified"],
   },
   {
-    "guid": "V06_001",
-    "base_target": "有",
-    "base_english": "be",
-    "corpus": "VERBS",
-    "group": "Possession",
-    "level": 6,
-    "word_type": "verb",
-    "audio": {"alloy": "77a01c7bd9e4040dca6ba4c902f60c3f", "ash": "5cc14d2c7865edc07e469a4fe4af0594", "echo": "78ea2ecc2099041ffc53edf9f4a74796"},
-    "target_pinyin": "yǒu",
-    "tags": ["possession", "level_6", "verified"],
-  },
-  {
     "guid": "V06_002",
     "base_target": "有",
     "base_english": "have",
