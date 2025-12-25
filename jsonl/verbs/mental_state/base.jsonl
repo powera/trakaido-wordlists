@@ -1,0 +1,7 @@
+{"guid": "V04_001", "pos_type": "verb", "pos_subtype": "mental_state", "concept_label": "learn", "concept_definition": "learn (verb)", "difficulty_level": 10}
+{"guid": "V04_002", "pos_type": "verb", "pos_subtype": "mental_state", "concept_label": "teach", "concept_definition": "teach (verb)", "difficulty_level": 10}
+{"guid": "V04_003", "pos_type": "verb", "pos_subtype": "mental_state", "concept_label": "read", "concept_definition": "read (verb)", "difficulty_level": 10}
+{"guid": "V04_004", "pos_type": "verb", "pos_subtype": "mental_state", "concept_label": "write", "concept_definition": "write (verb)", "difficulty_level": 10}
+{"guid": "V04_005", "pos_type": "verb", "pos_subtype": "mental_state", "concept_label": "listen", "concept_definition": "listen (verb)", "difficulty_level": 10}
+{"guid": "V04_006", "pos_type": "verb", "pos_subtype": "mental_state", "concept_label": "know", "concept_definition": "know (verb)", "difficulty_level": 10}
+{"guid": "V04_007", "pos_type": "verb", "pos_subtype": "mental_state", "concept_label": "see", "concept_definition": "see (verb)", "difficulty_level": 10}

@@ -1,0 +1,6 @@
+{"guid": "V12_001", "pos_type": "verb", "pos_subtype": "directional_movement", "concept_label": "walk/go", "concept_definition": "walk/go (verb)", "difficulty_level": 10}
+{"guid": "V12_002", "pos_type": "verb", "pos_subtype": "directional_movement", "concept_label": "drive/travel", "concept_definition": "drive/travel (verb)", "difficulty_level": 10}
+{"guid": "V12_003", "pos_type": "verb", "pos_subtype": "directional_movement", "concept_label": "run", "concept_definition": "run (verb)", "difficulty_level": 10}
+{"guid": "V12_004", "pos_type": "verb", "pos_subtype": "directional_movement", "concept_label": "go/proceed", "concept_definition": "go/proceed (verb)", "difficulty_level": 10}
+{"guid": "V12_005", "pos_type": "verb", "pos_subtype": "directional_movement", "concept_label": "come", "concept_definition": "come (verb)", "difficulty_level": 10}
+{"guid": "V12_006", "pos_type": "verb", "pos_subtype": "directional_movement", "concept_label": "return", "concept_definition": "return (verb)", "difficulty_level": 10}

@@ -1,0 +1,6 @@
+{"guid": "V01_006", "pos_type": "verb", "pos_subtype": "physical_action", "concept_label": "eat", "concept_definition": "eat (verb)", "difficulty_level": 6}
+{"guid": "V01_001", "pos_type": "verb", "pos_subtype": "physical_action", "concept_label": "live", "concept_definition": "live (verb)", "difficulty_level": 6}
+{"guid": "V01_002", "pos_type": "verb", "pos_subtype": "physical_action", "concept_label": "play", "concept_definition": "play (verb)", "difficulty_level": 6}
+{"guid": "V01_003", "pos_type": "verb", "pos_subtype": "physical_action", "concept_label": "work", "concept_definition": "work (verb)", "difficulty_level": 6}
+{"guid": "V01_004", "pos_type": "verb", "pos_subtype": "physical_action", "concept_label": "drink", "concept_definition": "drink (verb)", "difficulty_level": 6}
+{"guid": "V01_005", "pos_type": "verb", "pos_subtype": "physical_action", "concept_label": "sleep", "concept_definition": "sleep (verb)", "difficulty_level": 6}
