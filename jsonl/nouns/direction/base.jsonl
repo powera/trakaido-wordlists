@@ -1,5 +1,0 @@
-{"guid": "N38_001", "pos_type": "noun", "pos_subtype": "direction", "concept_label": "north", "concept_definition": "the direction toward the North Pole; the point on the compass at 0 degrees.", "difficulty_level": 2}
-{"guid": "N38_002", "pos_type": "noun", "pos_subtype": "direction", "concept_label": "south", "concept_definition": "the direction toward the South Pole; the point on the compass at 180 degrees.", "difficulty_level": 2}
-{"guid": "N38_003", "pos_type": "noun", "pos_subtype": "direction", "concept_label": "east", "concept_definition": "the direction where the sun rises; the point on the compass at 90 degrees.", "difficulty_level": 2}
-{"guid": "N38_004", "pos_type": "noun", "pos_subtype": "direction", "concept_label": "west", "concept_definition": "the direction where the sun sets; the point on the compass at 270 degrees.", "difficulty_level": 2}
-{"guid": "N38_005", "pos_type": "noun", "pos_subtype": "direction", "concept_label": "right", "concept_definition": "the side or direction opposite to left; that which is morally correct or just.", "difficulty_level": 2}

@@ -32,3 +32,4 @@
 {"guid": "D07_032", "pos_type": "adverb", "pos_subtype": "location", "concept_label": "outside", "concept_definition": "on or to the exterior; outdoors; beyond (e.g., \"go outside\", \"wait outside\").", "difficulty_level": 9}
 {"guid": "D07_033", "pos_type": "adverb", "pos_subtype": "location", "concept_label": "overhead", "concept_definition": "above one's head; in the sky (e.g., \"birds flying overhead\").", "difficulty_level": 9}
 {"guid": "D07_034", "pos_type": "adverb", "pos_subtype": "location", "concept_label": "somewhere", "concept_definition": "in or to some place; at an unspecified location (e.g., \"somewhere nearby\", \"go somewhere\").", "difficulty_level": 9}
+{"guid": "D07_035", "pos_type": "adverb", "pos_subtype": "location", "concept_label": "off", "concept_definition": "away from a place; not on or touching; so as to be removed or separated (e.g., \"turn off\", \"take off\", \"far off\").", "difficulty_level": 9}
