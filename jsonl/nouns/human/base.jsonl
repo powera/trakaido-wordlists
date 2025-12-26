@@ -61,3 +61,13 @@
 {"guid": "N01_062", "pos_type": "noun", "pos_subtype": "human", "concept_label": "anyone", "concept_definition": "anyone: any person; any individual, regardless of identity", "difficulty_level": 5}
 {"guid": "N01_063", "pos_type": "noun", "pos_subtype": "human", "concept_label": "everyone", "concept_definition": "all people; every person", "difficulty_level": 5}
 {"guid": "N01_064", "pos_type": "noun", "pos_subtype": "human", "concept_label": "nobody", "concept_definition": "a person who does not exist or is not specified; no person", "difficulty_level": 5}
+{"guid": "N01_065", "pos_type": "noun", "pos_subtype": "human", "concept_label": "human", "concept_definition": "a person; a member of the species Homo sapiens", "difficulty_level": 6}
+{"guid": "N01_066", "pos_type": "noun", "pos_subtype": "human", "concept_label": "enemy", "concept_definition": "a person who is hostile or opposed to someone", "difficulty_level": 6}
+{"guid": "N01_067", "pos_type": "noun", "pos_subtype": "human", "concept_label": "sir", "concept_definition": "a polite or formal term of address for a man", "difficulty_level": 6}
+{"guid": "N01_068", "pos_type": "noun", "pos_subtype": "human", "concept_label": "lady", "concept_definition": "a polite or formal term for a woman", "difficulty_level": 6}
+{"guid": "N01_069", "pos_type": "noun", "pos_subtype": "human", "concept_label": "folk", "concept_definition": "people in general", "difficulty_level": 6}
+{"guid": "N01_070", "pos_type": "noun", "pos_subtype": "human", "concept_label": "god", "concept_definition": "a supernatural being or deity", "difficulty_level": 6}
+{"guid": "N01_071", "pos_type": "noun", "pos_subtype": "human", "concept_label": "wife", "concept_definition": "a married woman", "difficulty_level": 6}
+{"guid": "N01_072", "pos_type": "noun", "pos_subtype": "human", "concept_label": "giant", "concept_definition": "an imaginary being of great size", "difficulty_level": 6}
+{"guid": "N01_073", "pos_type": "noun", "pos_subtype": "human", "concept_label": "fellow", "concept_definition": "a man or boy", "difficulty_level": 6}
+{"guid": "N01_074", "pos_type": "noun", "pos_subtype": "human", "concept_label": "companion", "concept_definition": "a person who accompanies another", "difficulty_level": 6}

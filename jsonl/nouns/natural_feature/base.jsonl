@@ -30,3 +30,18 @@
 {"guid": "N11_030", "pos_type": "noun", "pos_subtype": "natural_feature", "concept_label": "ice", "concept_definition": "Frozen water; a solid form of water produced when temperature falls below 0°C (32°F), often appearing as clear or opaque solid, used for cooling or forming ice sheets and icicles.", "difficulty_level": 14}
 {"guid": "N11_031", "pos_type": "noun", "pos_subtype": "natural_feature", "concept_label": "temperature", "concept_definition": "A measure of how hot or cold something is, typically determined by a thermometer and expressed in degrees on a standard scale (such as Celsius or Fahrenheit).", "difficulty_level": 14}
 {"guid": "N11_032", "pos_type": "noun", "pos_subtype": "natural_feature", "concept_label": "forecast", "concept_definition": "a prediction or estimate of future events, especially of weather or economic conditions", "difficulty_level": 18}
+{"guid": "N11_033", "pos_type": "noun", "pos_subtype": "natural_feature", "concept_label": "earth", "concept_definition": "the planet on which we live; soil or ground", "difficulty_level": 6}
+{"guid": "N11_034", "pos_type": "noun", "pos_subtype": "natural_feature", "concept_label": "ground", "concept_definition": "the solid surface of the earth", "difficulty_level": 6}
+{"guid": "N11_035", "pos_type": "noun", "pos_subtype": "natural_feature", "concept_label": "fire", "concept_definition": "combustion producing heat and light", "difficulty_level": 6}
+{"guid": "N11_036", "pos_type": "noun", "pos_subtype": "natural_feature", "concept_label": "rock", "concept_definition": "a solid mineral material; a stone", "difficulty_level": 6}
+{"guid": "N11_037", "pos_type": "noun", "pos_subtype": "natural_feature", "concept_label": "path", "concept_definition": "a way or track laid down for walking", "difficulty_level": 6}
+{"guid": "N11_038", "pos_type": "noun", "pos_subtype": "natural_feature", "concept_label": "planet", "concept_definition": "a celestial body orbiting a star", "difficulty_level": 6}
+{"guid": "N11_039", "pos_type": "noun", "pos_subtype": "natural_feature", "concept_label": "stream", "concept_definition": "a small narrow river", "difficulty_level": 6}
+{"guid": "N11_040", "pos_type": "noun", "pos_subtype": "natural_feature", "concept_label": "slope", "concept_definition": "a surface with one end higher than the other", "difficulty_level": 6}
+{"guid": "N11_041", "pos_type": "noun", "pos_subtype": "natural_feature", "concept_label": "flame", "concept_definition": "a hot glowing body of burning gas", "difficulty_level": 6}
+{"guid": "N11_042", "pos_type": "noun", "pos_subtype": "natural_feature", "concept_label": "mist", "concept_definition": "a cloud of tiny water droplets in the air", "difficulty_level": 6}
+{"guid": "N11_043", "pos_type": "noun", "pos_subtype": "natural_feature", "concept_label": "track", "concept_definition": "a rough path; a mark left by something", "difficulty_level": 6}
+{"guid": "N11_044", "pos_type": "noun", "pos_subtype": "natural_feature", "concept_label": "ditch", "concept_definition": "a narrow channel dug in the ground", "difficulty_level": 6}
+{"guid": "N11_045", "pos_type": "noun", "pos_subtype": "natural_feature", "concept_label": "wave", "concept_definition": "a ridge of water moving across the surface", "difficulty_level": 6}
+{"guid": "N11_046", "pos_type": "noun", "pos_subtype": "natural_feature", "concept_label": "trail", "concept_definition": "a path through wild areas", "difficulty_level": 6}
+{"guid": "N11_047", "pos_type": "noun", "pos_subtype": "natural_feature", "concept_label": "thunder", "concept_definition": "the loud noise following lightning", "difficulty_level": 6}

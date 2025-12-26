@@ -23,3 +23,8 @@
 {"guid": "N23_023", "pos_type": "noun", "pos_subtype": "emotion_feeling", "concept_label": "peaceful", "concept_definition": "peaceful (adjective): free from disturbance or conflict; calm and tranquil", "difficulty_level": 9}
 {"guid": "N23_024", "pos_type": "noun", "pos_subtype": "emotion_feeling", "concept_label": "anxious", "concept_definition": "feeling or showing worry, nervousness, or unease about an impending event or uncertain outcome", "difficulty_level": 9}
 {"guid": "N23_025", "pos_type": "noun", "pos_subtype": "emotion_feeling", "concept_label": "joyful", "concept_definition": "joyful (adjective): feeling, expressing, or causing great happiness and pleasure.", "difficulty_level": 3}
+{"guid": "N23_026", "pos_type": "noun", "pos_subtype": "emotion_feeling", "concept_label": "pain", "concept_definition": "physical suffering or discomfort", "difficulty_level": 6}
+{"guid": "N23_027", "pos_type": "noun", "pos_subtype": "emotion_feeling", "concept_label": "terror", "concept_definition": "extreme fear", "difficulty_level": 6}
+{"guid": "N23_028", "pos_type": "noun", "pos_subtype": "emotion_feeling", "concept_label": "desire", "concept_definition": "a strong feeling of wanting something", "difficulty_level": 6}
+{"guid": "N23_029", "pos_type": "noun", "pos_subtype": "emotion_feeling", "concept_label": "courage", "concept_definition": "the ability to do something despite fear", "difficulty_level": 6}
+{"guid": "N23_030", "pos_type": "noun", "pos_subtype": "emotion_feeling", "concept_label": "shock", "concept_definition": "a sudden upsetting experience", "difficulty_level": 6}

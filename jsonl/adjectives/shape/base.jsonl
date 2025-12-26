@@ -10,3 +10,5 @@
 {"guid": "A03_011", "pos_type": "adjective", "pos_subtype": "shape", "concept_label": "hexagon", "concept_definition": "Having six angles and six sides; shaped like a hexagon (also used attributively, e.g., hexagon tile).", "difficulty_level": 4}
 {"guid": "A03_012", "pos_type": "adjective", "pos_subtype": "shape", "concept_label": "pentagon", "concept_definition": "pentagon (noun): a plane figure with five straight sides and five angles.", "difficulty_level": 4}
 {"guid": "A03_013", "pos_type": "adjective", "pos_subtype": "shape", "concept_label": "octagon", "concept_definition": "having eight sides and eight angles; of, relating to, or shaped like an octagon", "difficulty_level": 4}
+{"guid": "A03_014", "pos_type": "adjective", "pos_subtype": "shape", "concept_label": "straight", "concept_definition": "extending in one direction without curving", "difficulty_level": 6}
+{"guid": "A03_015", "pos_type": "adjective", "pos_subtype": "shape", "concept_label": "shaped", "concept_definition": "having a particular form", "difficulty_level": 6}

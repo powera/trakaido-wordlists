@@ -51,3 +51,7 @@
 {"guid": "N30_051", "pos_type": "noun", "pos_subtype": "place_name", "concept_label": "inside", "concept_definition": "the inner surface or area of something; the interior part or space within an object or structure", "difficulty_level": 13}
 {"guid": "N30_052", "pos_type": "noun", "pos_subtype": "place_name", "concept_label": "outside", "concept_definition": "the external area beyond the boundaries of a building or structure; the outdoors", "difficulty_level": 13}
 {"guid": "N30_053", "pos_type": "noun", "pos_subtype": "place_name", "concept_label": "behind", "concept_definition": "the area or part that is at the back of something; the rear or hind part (e.g., “she stood at the behind of the group”); the buttocks (informal)", "difficulty_level": 13}
+{"guid": "N30_054", "pos_type": "noun", "pos_subtype": "place_name", "concept_label": "world", "concept_definition": "the earth and all its inhabitants; a particular sphere of activity", "difficulty_level": 6}
+{"guid": "N30_055", "pos_type": "noun", "pos_subtype": "place_name", "concept_label": "hell", "concept_definition": "a place of torment and punishment after death", "difficulty_level": 6}
+{"guid": "N30_056", "pos_type": "noun", "pos_subtype": "place_name", "concept_label": "town", "concept_definition": "a settlement larger than a village", "difficulty_level": 6}
+{"guid": "N30_057", "pos_type": "noun", "pos_subtype": "place_name", "concept_label": "village", "concept_definition": "a small settlement in a rural area", "difficulty_level": 6}
