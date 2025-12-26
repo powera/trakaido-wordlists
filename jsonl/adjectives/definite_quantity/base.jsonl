@@ -29,3 +29,7 @@
 {"guid": "A11_031", "pos_type": "adjective", "pos_subtype": "definite_quantity", "concept_label": "whole", "concept_definition": "entire or complete", "difficulty_level": 6}
 {"guid": "A11_032", "pos_type": "adjective", "pos_subtype": "definite_quantity", "concept_label": "single", "concept_definition": "only one; not married", "difficulty_level": 6}
 {"guid": "A11_033", "pos_type": "adjective", "pos_subtype": "definite_quantity", "concept_label": "entire", "concept_definition": "whole or complete", "difficulty_level": 6}
+{"guid": "A11_034", "pos_type": "adjective", "pos_subtype": "definite_quantity", "concept_label": "hundred", "concept_definition": "the number 100; ten times ten.", "difficulty_level": 2}
+{"guid": "A11_035", "pos_type": "adjective", "pos_subtype": "definite_quantity", "concept_label": "thousand", "concept_definition": "the number 1,000; ten times one hundred.", "difficulty_level": 2}
+{"guid": "A11_036", "pos_type": "adjective", "pos_subtype": "definite_quantity", "concept_label": "double", "concept_definition": "twice as much or as many; consisting of two parts.", "difficulty_level": 2}
+{"guid": "A11_037", "pos_type": "adjective", "pos_subtype": "definite_quantity", "concept_label": "half", "concept_definition": "being one of two equal parts; partial or incomplete.", "difficulty_level": 2}

@@ -71,3 +71,8 @@
 {"guid": "N01_072", "pos_type": "noun", "pos_subtype": "human", "concept_label": "giant", "concept_definition": "an imaginary being of great size", "difficulty_level": 6}
 {"guid": "N01_073", "pos_type": "noun", "pos_subtype": "human", "concept_label": "fellow", "concept_definition": "a man or boy", "difficulty_level": 6}
 {"guid": "N01_074", "pos_type": "noun", "pos_subtype": "human", "concept_label": "companion", "concept_definition": "a person who accompanies another", "difficulty_level": 6}
+{"guid": "N01_075", "pos_type": "noun", "pos_subtype": "human", "concept_label": "husband", "concept_definition": "a married man in relation to his spouse.", "difficulty_level": 2}
+{"guid": "N01_076", "pos_type": "noun", "pos_subtype": "human", "concept_label": "baby", "concept_definition": "a very young child or infant.", "difficulty_level": 2}
+{"guid": "N01_077", "pos_type": "noun", "pos_subtype": "human", "concept_label": "stranger", "concept_definition": "a person whom one does not know; a foreigner or outsider.", "difficulty_level": 2}
+{"guid": "N01_078", "pos_type": "noun", "pos_subtype": "human", "concept_label": "servant", "concept_definition": "a person employed to perform domestic duties in a household.", "difficulty_level": 2}
+{"guid": "N01_079", "pos_type": "noun", "pos_subtype": "human", "concept_label": "prisoner", "concept_definition": "a person confined in prison or held in captivity.", "difficulty_level": 2}
