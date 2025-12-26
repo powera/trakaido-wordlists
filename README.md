@@ -24,6 +24,10 @@ This repository contains structured wordlists for multiple languages:
   - Organized by topics (food, transport, colors, etc.)
   - ~300+ essential words and phrases
   - CSV format with English translations
+- **Frequency Lists**: Comprehensive vocabulary covering all CEFR levels (A1-C2)
+  - 50,000+ most common Spanish words
+  - Detailed POS tags and lemmatization
+  - Multiple sources for cross-reference
   - See [lang_es/README.md](lang_es/README.md) for details
 
 ### French (lang_fr)
@@ -31,6 +35,19 @@ This repository contains structured wordlists for multiple languages:
 
 ### Korean (lang_ko)
 - Generated wireword lists (verbs and nouns)
+
+### German (lang_de)
+- **A1/A2 Basic Vocabulary**: CEFR-aligned word lists for beginners
+  - Organized by topics (food, transport, colors, etc.)
+  - ~300+ essential words and phrases
+  - CSV format with English translations
+- **Goethe-Institut A1-B1**: Official vocabulary stems
+  - Word stems from Goethe-Zertifikat materials
+  - Covers A1, A2, and B1 certification levels
+- **Frequency Lists**: 50,000 most common German words
+  - OpenSubtitles corpus
+  - Suitable for all CEFR levels
+  - See [lang_de/README.md](lang_de/README.md) for details
 
 ## Installation
 
