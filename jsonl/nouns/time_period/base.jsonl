@@ -22,3 +22,9 @@
 {"guid": "N25_022", "pos_type": "noun", "pos_subtype": "time_period", "concept_label": "future", "concept_definition": "the time yet to come", "difficulty_level": 6}
 {"guid": "N25_023", "pos_type": "noun", "pos_subtype": "time_period", "concept_label": "winter", "concept_definition": "the coldest season of the year", "difficulty_level": 6}
 {"guid": "N25_024", "pos_type": "noun", "pos_subtype": "time_period", "concept_label": "summer", "concept_definition": "the warmest season of the year", "difficulty_level": 6}
+{"guid": "N25_025", "pos_type": "noun", "pos_subtype": "time_period", "concept_label": "spring", "concept_definition": "the season between winter and summer when plants begin to grow; a place where water rises naturally.", "difficulty_level": 2}
+{"guid": "N25_026", "pos_type": "noun", "pos_subtype": "time_period", "concept_label": "autumn", "concept_definition": "the season between summer and winter; fall.", "difficulty_level": 2}
+{"guid": "N25_027", "pos_type": "noun", "pos_subtype": "time_period", "concept_label": "season", "concept_definition": "one of the four divisions of the year; a period of the year characterized by particular conditions or activities.", "difficulty_level": 2}
+{"guid": "N25_028", "pos_type": "noun", "pos_subtype": "time_period", "concept_label": "century", "concept_definition": "a period of one hundred years.", "difficulty_level": 2}
+{"guid": "N25_029", "pos_type": "noun", "pos_subtype": "time_period", "concept_label": "period", "concept_definition": "a length or portion of time; an era or age; a punctuation mark (.).", "difficulty_level": 2}
+{"guid": "N25_030", "pos_type": "noun", "pos_subtype": "time_period", "concept_label": "second", "concept_definition": "a unit of time equal to one-sixtieth of a minute; coming after the first.", "difficulty_level": 2}
