@@ -1,15 +1,36 @@
 # Trakaido Wordlists
 
-A comprehensive collection of Lithuanian language wordlists for language learning applications.
+A comprehensive collection of multilingual wordlists for language learning applications.
 
 ## Overview
 
-This package contains structured wordlists for Lithuanian language learning, including:
+This repository contains structured wordlists for multiple languages:
 
+### Lithuanian (lang_lt)
 - **Nouns**: Organized by declension classes with full declension tables
 - **Verbs**: Present, past, and future tense conjugations
 - **Phrases**: Common expressions and conversational phrases
 - **Audio batches**: Word lists organized for audio generation
+
+### Chinese (lang_zh)
+- **HSK Vocabulary**: Complete HSK 2.0 and 3.0 word lists (汉语水平考试)
+  - 11,092 vocabulary words covering all HSK levels
+  - Multiple formats: JSON and CSV
+  - Includes pinyin, traditional/simplified characters, definitions
+  - See [lang_zh/hsk/README.md](lang_zh/hsk/README.md) for details
+
+### Spanish (lang_es)
+- **A1/A2 Basic Vocabulary**: CEFR-aligned word lists for beginners
+  - Organized by topics (food, transport, colors, etc.)
+  - ~300+ essential words and phrases
+  - CSV format with English translations
+  - See [lang_es/README.md](lang_es/README.md) for details
+
+### French (lang_fr)
+- Generated wireword lists (verbs and nouns)
+
+### Korean (lang_ko)
+- Generated wireword lists (verbs and nouns)
 
 ## Installation
 
