@@ -1,12 +1,12 @@
 {
-  "language": "zh",
-  "generated_date": "2026-01-09T12:19:41.898806",
+  "language": "fr",
+  "generated_date": "2026-01-09T12:19:42.536789",
   "sentences": [
     {
       "sentence_id": 15,
       "translations": {
         "en": "I will go to the restaurant.",
-        "zh": "我要去餐厅。"
+        "fr": "J'irai au restaurant."
       },
       "linked_words": [],
       "source": "sentence_a1",
@@ -16,23 +16,19 @@
       "sentence_id": 74,
       "translations": {
         "en": "She eats a banana every morning.",
-        "zh": "她每天早上吃一根香蕉。"
+        "fr": "Elle mange une banane tous les matins."
       },
       "linked_words": [
-        {
-          "guid": "N25_004",
-          "grammatical_form": null
-        },
         {
           "guid": "V01_006",
           "grammatical_form": null
         },
         {
-          "guid": "A11_002",
+          "guid": "N06_016",
           "grammatical_form": null
         },
         {
-          "guid": "N06_016",
+          "guid": "N25_004",
           "grammatical_form": null
         }
       ],
@@ -43,7 +39,7 @@
       "sentence_id": 78,
       "translations": {
         "en": "My anyone is black.",
-        "zh": "我的任何人是黑色的。"
+        "fr": "Mon n'importe qui est noir."
       },
       "linked_words": [
         {
@@ -61,7 +57,7 @@
       "sentence_id": 79,
       "translations": {
         "en": "My flower is black.",
-        "zh": "我的花是黑色的。"
+        "fr": "Ma fleur est noire."
       },
       "linked_words": [
         {
@@ -79,7 +75,7 @@
       "sentence_id": 80,
       "translations": {
         "en": "I have one hundred ring.",
-        "zh": "我有一百个戒指。"
+        "fr": "J'ai cent bagues."
       },
       "linked_words": [
         {
@@ -97,7 +93,7 @@
       "sentence_id": 81,
       "translations": {
         "en": "I have one thousand bird.",
-        "zh": "我有一千只鸟。"
+        "fr": "J'ai mille oiseaux."
       },
       "linked_words": [
         {
@@ -115,7 +111,7 @@
       "sentence_id": 82,
       "translations": {
         "en": "I want to read.",
-        "zh": "我想阅读。"
+        "fr": "Je veux lire."
       },
       "linked_words": [
         {
@@ -129,7 +125,7 @@
       "sentence_id": 83,
       "translations": {
         "en": "I want to be.",
-        "zh": "我想要有。"
+        "fr": "Je veux avoir."
       },
       "linked_words": [
         {
@@ -143,25 +139,39 @@
       "sentence_id": 84,
       "translations": {
         "en": "The fork is in the house.",
-        "zh": "叉子在房屋里。"
+        "fr": "La fourchette est dans la maison."
       },
-      "linked_words": [],
+      "linked_words": [
+        {
+          "guid": "N08_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": null
+        }
+      ],
       "source": "pattern:object_is_in_place"
     },
     {
       "sentence_id": 85,
       "translations": {
         "en": "The fork is in the school.",
-        "zh": "叉子在学校里。"
+        "fr": "La fourchette est à l'école."
       },
-      "linked_words": [],
+      "linked_words": [
+        {
+          "guid": "N08_001",
+          "grammatical_form": null
+        }
+      ],
       "source": "pattern:object_is_in_place"
     },
     {
       "sentence_id": 101,
       "translations": {
         "en": "The fork is in the apartment.",
-        "zh": "叉子在公寓里。"
+        "fr": "La fourchette est dans l'appartement."
       },
       "linked_words": [
         {
@@ -179,7 +189,7 @@
       "sentence_id": 184,
       "translations": {
         "en": "I like bread.",
-        "zh": "我喜欢面包。"
+        "fr": "J'aime le pain."
       },
       "linked_words": [
         {
@@ -193,7 +203,7 @@
       "sentence_id": 185,
       "translations": {
         "en": "I like water.",
-        "zh": "我喜欢水。"
+        "fr": "J'aime l'eau."
       },
       "linked_words": [
         {
@@ -207,16 +217,21 @@
       "sentence_id": 220,
       "translations": {
         "en": "Where is the fork?",
-        "zh": "叉子在哪里？"
+        "fr": "Où est la fourchette ?"
       },
-      "linked_words": [],
+      "linked_words": [
+        {
+          "guid": "N08_001",
+          "grammatical_form": null
+        }
+      ],
       "source": "pattern:where_is_object"
     },
     {
       "sentence_id": 221,
       "translations": {
         "en": "Where is the spoon?",
-        "zh": "勺子在哪里？"
+        "fr": "Où est la cuillère ?"
       },
       "linked_words": [
         {
@@ -230,7 +245,7 @@
       "sentence_id": 225,
       "translations": {
         "en": "My fork is black.",
-        "zh": "我的叉子是黑色的。"
+        "fr": "Ma fourchette est noire."
       },
       "linked_words": [
         {
@@ -248,7 +263,7 @@
       "sentence_id": 226,
       "translations": {
         "en": "My fork is white.",
-        "zh": "我的叉子是白色的。"
+        "fr": "Ma fourchette est blanche."
       },
       "linked_words": [
         {
@@ -266,7 +281,7 @@
       "sentence_id": 230,
       "translations": {
         "en": "What is this fork?",
-        "zh": "这把叉子是什么？"
+        "fr": "Quelle est cette fourchette ?"
       },
       "linked_words": [
         {
@@ -280,7 +295,7 @@
       "sentence_id": 231,
       "translations": {
         "en": "What is this spoon?",
-        "zh": "这是什么勺子？"
+        "fr": "Quelle est cette cuillère ?"
       },
       "linked_words": [
         {
@@ -294,7 +309,7 @@
       "sentence_id": 240,
       "translations": {
         "en": "This is a fork.",
-        "zh": "这是一把叉子。"
+        "fr": "C'est une fourchette."
       },
       "linked_words": [
         {
@@ -308,7 +323,7 @@
       "sentence_id": 241,
       "translations": {
         "en": "This is a spoon.",
-        "zh": "这是一把勺子。"
+        "fr": "C'est une cuillère."
       },
       "linked_words": [
         {
@@ -322,7 +337,7 @@
       "sentence_id": 244,
       "translations": {
         "en": "This is a book.",
-        "zh": "这是一本书。"
+        "fr": "Ceci est un livre."
       },
       "linked_words": [
         {
@@ -336,7 +351,7 @@
       "sentence_id": 246,
       "translations": {
         "en": "I like water.",
-        "zh": "我喜欢水。"
+        "fr": "J'aime l'eau."
       },
       "linked_words": [
         {
@@ -350,7 +365,7 @@
       "sentence_id": 250,
       "translations": {
         "en": "I need a car.",
-        "zh": "我需要一辆汽车。"
+        "fr": "J'ai besoin d'une voiture."
       },
       "linked_words": [
         {
@@ -364,7 +379,7 @@
       "sentence_id": 251,
       "translations": {
         "en": "I need a bus.",
-        "zh": "我需要一辆巴士。"
+        "fr": "J'ai besoin d'un autobus."
       },
       "linked_words": [
         {
@@ -378,7 +393,7 @@
       "sentence_id": 255,
       "translations": {
         "en": "The fork is black.",
-        "zh": "叉子是黑色的。"
+        "fr": "La fourchette est noire."
       },
       "linked_words": [
         {
@@ -396,7 +411,7 @@
       "sentence_id": 256,
       "translations": {
         "en": "The fork is white.",
-        "zh": "叉子是白色的。"
+        "fr": "La fourchette est blanche."
       },
       "linked_words": [
         {
@@ -414,7 +429,7 @@
       "sentence_id": 265,
       "translations": {
         "en": "How many forks are there?",
-        "zh": "有多少个叉子？"
+        "fr": "Combien de fourchettes y a-t-il ?"
       },
       "linked_words": [],
       "source": "pattern:how_many_objects"
@@ -423,7 +438,7 @@
       "sentence_id": 266,
       "translations": {
         "en": "How many spoons?",
-        "zh": "多少个勺子？"
+        "fr": "Combien de cuillères ?"
       },
       "linked_words": [],
       "source": "pattern:how_many_objects"
@@ -432,7 +447,7 @@
       "sentence_id": 270,
       "translations": {
         "en": "I want a shirt.",
-        "zh": "我想要一件衬衫。"
+        "fr": "Je veux une chemise."
       },
       "linked_words": [
         {
@@ -446,7 +461,7 @@
       "sentence_id": 271,
       "translations": {
         "en": "I want pants.",
-        "zh": "我想要裤子。"
+        "fr": "Je veux un pantalon."
       },
       "linked_words": [
         {
@@ -460,7 +475,7 @@
       "sentence_id": 275,
       "translations": {
         "en": "Where is the house?",
-        "zh": "房屋在哪里？"
+        "fr": "Où est la maison ?"
       },
       "linked_words": [
         {
@@ -474,21 +489,16 @@
       "sentence_id": 276,
       "translations": {
         "en": "Where is the school?",
-        "zh": "学校在哪里？"
+        "fr": "Où est l'école ?"
       },
-      "linked_words": [
-        {
-          "guid": "N07_002",
-          "grammatical_form": null
-        }
-      ],
+      "linked_words": [],
       "source": "pattern:where_is_building"
     },
     {
       "sentence_id": 280,
       "translations": {
         "en": "I eat bread.",
-        "zh": "我吃面包。"
+        "fr": "Je mange du pain."
       },
       "linked_words": [
         {
@@ -502,21 +512,16 @@
       "sentence_id": 281,
       "translations": {
         "en": "I drink water.",
-        "zh": "我喝水。"
+        "fr": "Je bois de l'eau."
       },
-      "linked_words": [
-        {
-          "guid": "N06_002",
-          "grammatical_form": null
-        }
-      ],
+      "linked_words": [],
       "source": "pattern:i_eat_food"
     },
     {
       "sentence_id": 285,
       "translations": {
         "en": "The dog is hardworking.",
-        "zh": "这只狗很勤勞。"
+        "fr": "Le chien est diligent."
       },
       "linked_words": [
         {
@@ -534,11 +539,15 @@
       "sentence_id": 286,
       "translations": {
         "en": "The dog is dishonest.",
-        "zh": "这只狗不诚实。"
+        "fr": "Le chien est malhonnête."
       },
       "linked_words": [
         {
           "guid": "N02_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A05_012",
           "grammatical_form": null
         }
       ],
@@ -548,7 +557,7 @@
       "sentence_id": 290,
       "translations": {
         "en": "I am hardworking.",
-        "zh": "我很勤勞。"
+        "fr": "Je suis diligent."
       },
       "linked_words": [
         {
@@ -562,16 +571,21 @@
       "sentence_id": 291,
       "translations": {
         "en": "I am dishonest.",
-        "zh": "我不诚实。"
+        "fr": "Je suis malhonnête."
       },
-      "linked_words": [],
+      "linked_words": [
+        {
+          "guid": "A05_012",
+          "grammatical_form": null
+        }
+      ],
       "source": "pattern:i_am_quality"
     },
     {
       "sentence_id": 295,
       "translations": {
         "en": "I feel happy.",
-        "zh": "我感到快乐。"
+        "fr": "Je me sens heureux."
       },
       "linked_words": [
         {
@@ -585,7 +599,7 @@
       "sentence_id": 296,
       "translations": {
         "en": "I feel sad.",
-        "zh": "我感到悲傷。"
+        "fr": "Je me sens triste."
       },
       "linked_words": [
         {
@@ -599,16 +613,21 @@
       "sentence_id": 300,
       "translations": {
         "en": "My head hurts.",
-        "zh": "我头痛。"
+        "fr": "J'ai mal à la tête."
       },
-      "linked_words": [],
+      "linked_words": [
+        {
+          "guid": "N03_001",
+          "grammatical_form": null
+        }
+      ],
       "source": "pattern:my_body_part_hurts"
     },
     {
       "sentence_id": 301,
       "translations": {
         "en": "My face hurts.",
-        "zh": "我的脸疼。"
+        "fr": "Mon visage me fait mal."
       },
       "linked_words": [
         {
@@ -622,7 +641,7 @@
       "sentence_id": 305,
       "translations": {
         "en": "I drink bread.",
-        "zh": "我喝面包。"
+        "fr": "Je bois du pain."
       },
       "linked_words": [
         {
@@ -636,21 +655,16 @@
       "sentence_id": 306,
       "translations": {
         "en": "I drink water.",
-        "zh": "我喝水。"
+        "fr": "Je bois de l'eau."
       },
-      "linked_words": [
-        {
-          "guid": "N06_002",
-          "grammatical_form": null
-        }
-      ],
+      "linked_words": [],
       "source": "pattern:i_drink_food"
     },
     {
       "sentence_id": 307,
       "translations": {
         "en": "I drink coffee.",
-        "zh": "我喝咖啡。"
+        "fr": "Je bois du café."
       },
       "linked_words": [
         {
@@ -664,30 +678,30 @@
       "sentence_id": 310,
       "translations": {
         "en": "I go to the house.",
-        "zh": "我去房子。"
-      },
-      "linked_words": [],
-      "source": "pattern:i_go_to_place"
-    },
-    {
-      "sentence_id": 311,
-      "translations": {
-        "en": "I go to the school.",
-        "zh": "我去学校。"
+        "fr": "Je vais à la maison."
       },
       "linked_words": [
         {
-          "guid": "N07_002",
+          "guid": "N07_001",
           "grammatical_form": null
         }
       ],
       "source": "pattern:i_go_to_place"
     },
     {
+      "sentence_id": 311,
+      "translations": {
+        "en": "I go to the school.",
+        "fr": "Je vais à l'école."
+      },
+      "linked_words": [],
+      "source": "pattern:i_go_to_place"
+    },
+    {
       "sentence_id": 314,
       "translations": {
         "en": "I am going to the store.",
-        "zh": "我去商店。"
+        "fr": "Je vais au magasin."
       },
       "linked_words": [
         {
@@ -702,9 +716,13 @@
       "sentence_id": 315,
       "translations": {
         "en": "The dog eats bread.",
-        "zh": "狗吃面包。"
+        "fr": "Le chien mange du pain."
       },
       "linked_words": [
+        {
+          "guid": "N02_001",
+          "grammatical_form": null
+        },
         {
           "guid": "N06_001",
           "grammatical_form": null
@@ -716,15 +734,11 @@
       "sentence_id": 316,
       "translations": {
         "en": "The dog drinks water.",
-        "zh": "狗喝水。"
+        "fr": "Le chien boit de l’eau."
       },
       "linked_words": [
         {
           "guid": "N02_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N06_002",
           "grammatical_form": null
         }
       ],
@@ -734,7 +748,7 @@
       "sentence_id": 320,
       "translations": {
         "en": "I wear a shirt.",
-        "zh": "我穿着衬衫。"
+        "fr": "Je porte une chemise."
       },
       "linked_words": [
         {
@@ -748,7 +762,7 @@
       "sentence_id": 321,
       "translations": {
         "en": "I wear pants.",
-        "zh": "我穿裤子。"
+        "fr": "Je porte un pantalon."
       },
       "linked_words": [
         {
@@ -762,7 +776,7 @@
       "sentence_id": 325,
       "translations": {
         "en": "I use a car.",
-        "zh": "我使用一辆汽车。"
+        "fr": "J'utilise une voiture."
       },
       "linked_words": [
         {
@@ -776,7 +790,7 @@
       "sentence_id": 326,
       "translations": {
         "en": "I use a bus.",
-        "zh": "我乘坐巴士。"
+        "fr": "J'utilise un autobus."
       },
       "linked_words": [
         {
@@ -790,7 +804,7 @@
       "sentence_id": 362,
       "translations": {
         "en": "The police officer works.",
-        "zh": "警察工作。"
+        "fr": "Le policier travaille."
       },
       "linked_words": [
         {
@@ -804,15 +818,15 @@
       "sentence_id": 377,
       "translations": {
         "en": "Where is the watch?",
-        "zh": "手表在哪裡？"
+        "fr": "Où est la montre ?"
       },
       "linked_words": [
         {
-          "guid": "N08_008",
+          "guid": "P99_003",
           "grammatical_form": null
         },
         {
-          "guid": "P99_003",
+          "guid": "N08_008",
           "grammatical_form": null
         }
       ],
@@ -823,7 +837,7 @@
       "sentence_id": 388,
       "translations": {
         "en": "The chicken drinks water.",
-        "zh": "鸡喝水。"
+        "fr": "La poule boit de l'eau."
       },
       "linked_words": [
         {
@@ -846,16 +860,16 @@
       "sentence_id": 391,
       "translations": {
         "en": "The fork is gray.",
-        "zh": "叉子是灰色的。"
+        "fr": "La fourchette est grise."
       },
       "linked_words": [
         {
           "guid": "N08_001",
-          "grammatical_form": null
+          "grammatical_form": "noun/fr_singular"
         },
         {
           "guid": "A02_008",
-          "grammatical_form": null
+          "grammatical_form": "adjective/fr_singular_f"
         }
       ],
       "source": "pattern:object_is_color"
@@ -864,7 +878,7 @@
       "sentence_id": 398,
       "translations": {
         "en": "My tongue hurts.",
-        "zh": "我的舌头疼。"
+        "fr": "Ma langue me fait mal."
       },
       "linked_words": [
         {
@@ -883,7 +897,7 @@
       "sentence_id": 432,
       "translations": {
         "en": "This is a wallet.",
-        "zh": "这是皮夾。"
+        "fr": "Ceci est le portefeuille."
       },
       "linked_words": [
         {
@@ -898,7 +912,7 @@
       "sentence_id": 447,
       "translations": {
         "en": "The wolf drinks water.",
-        "zh": "狼喝水。"
+        "fr": "Le loup boit de l'eau."
       },
       "linked_words": [
         {
@@ -920,7 +934,7 @@
       "sentence_id": 448,
       "translations": {
         "en": "The rabbit drinks water.",
-        "zh": "兔子喝水。"
+        "fr": "Le lapin boit de l'eau."
       },
       "linked_words": [
         {
@@ -943,7 +957,7 @@
       "sentence_id": 452,
       "translations": {
         "en": "The elephant drinks water.",
-        "zh": "大象喝水。"
+        "fr": "L'éléphant boit de l'eau."
       },
       "linked_words": [
         {
@@ -966,7 +980,7 @@
       "sentence_id": 479,
       "translations": {
         "en": "How many boxes?",
-        "zh": "多少盒子？"
+        "fr": "Combien de boîtes ?"
       },
       "linked_words": [
         {
@@ -981,7 +995,7 @@
       "sentence_id": 487,
       "translations": {
         "en": "I want a skirt.",
-        "zh": "我想要一条裙子。"
+        "fr": "Je veux une jupe."
       },
       "linked_words": [
         {
@@ -1000,16 +1014,16 @@
       "sentence_id": 499,
       "translations": {
         "en": "Where is the library?",
-        "zh": "图书馆在哪里？"
+        "fr": "Où est la bibliothèque ?"
       },
       "linked_words": [
         {
-          "guid": "N07_009",
-          "grammatical_form": null
+          "guid": "P99_003",
+          "grammatical_form": "adverb/fr_base"
         },
         {
-          "guid": "P99_003",
-          "grammatical_form": "adverb/zh_base"
+          "guid": "N07_009",
+          "grammatical_form": null
         }
       ],
       "source": "pattern:where_is_building",
@@ -1019,16 +1033,16 @@
       "sentence_id": 501,
       "translations": {
         "en": "Where is the fire station?",
-        "zh": "消防站在哪裡？"
+        "fr": "Où est la caserne de pompiers ?"
       },
       "linked_words": [
         {
-          "guid": "N07_011",
-          "grammatical_form": null
+          "guid": "P99_003",
+          "grammatical_form": "adverb/fr_base"
         },
         {
-          "guid": "P99_003",
-          "grammatical_form": "adverb/zh_base"
+          "guid": "N07_011",
+          "grammatical_form": "noun/fr_singular"
         }
       ],
       "source": "pattern:where_is_building",
@@ -1038,16 +1052,16 @@
       "sentence_id": 503,
       "translations": {
         "en": "Where is the bakery?",
-        "zh": "麵包店在哪裡？"
+        "fr": "Où est la boulangerie ?"
       },
       "linked_words": [
         {
-          "guid": "N07_013",
-          "grammatical_form": null
+          "guid": "P99_003",
+          "grammatical_form": "adverb/fr_base"
         },
         {
-          "guid": "P99_003",
-          "grammatical_form": "adverb/zh_base"
+          "guid": "N07_013",
+          "grammatical_form": "noun/fr_singular"
         }
       ],
       "source": "pattern:where_is_building",
@@ -1057,15 +1071,15 @@
       "sentence_id": 504,
       "translations": {
         "en": "Where is the gas station?",
-        "zh": "加油站在哪裡？"
+        "fr": "Où est la station-service ?"
       },
       "linked_words": [
         {
-          "guid": "N07_014",
+          "guid": "P99_003",
           "grammatical_form": null
         },
         {
-          "guid": "P99_003",
+          "guid": "N07_014",
           "grammatical_form": null
         }
       ],
@@ -1076,7 +1090,7 @@
       "sentence_id": 507,
       "translations": {
         "en": "I feel calm.",
-        "zh": "我感到平靜。"
+        "fr": "Je me sens calme."
       },
       "linked_words": [
         {
@@ -1095,15 +1109,11 @@
       "sentence_id": 515,
       "translations": {
         "en": "My neck hurts.",
-        "zh": "我的脖子疼。"
+        "fr": "J'ai mal au cou."
       },
       "linked_words": [
         {
           "guid": "N03_009",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_064",
           "grammatical_form": null
         }
       ],
@@ -1114,16 +1124,16 @@
       "sentence_id": 516,
       "translations": {
         "en": "My shoulder hurts.",
-        "zh": "我的肩膀疼。"
+        "fr": "Mon épaule me fait mal."
       },
       "linked_words": [
         {
           "guid": "N03_010",
-          "grammatical_form": null
+          "grammatical_form": "noun/fr_singular"
         },
         {
           "guid": "V01_064",
-          "grammatical_form": null
+          "grammatical_form": "adverb/fr_base"
         }
       ],
       "source": "pattern:my_body_part_hurts",
@@ -1133,7 +1143,7 @@
       "sentence_id": 517,
       "translations": {
         "en": "My arm hurts.",
-        "zh": "我的手臂疼。"
+        "fr": "Mon bras me fait mal."
       },
       "linked_words": [
         {
@@ -1152,11 +1162,15 @@
       "sentence_id": 527,
       "translations": {
         "en": "I go to the bakery.",
-        "zh": "我去麵包店。"
+        "fr": "Je vais à la boulangerie."
       },
       "linked_words": [
         {
           "guid": "V12_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "R99_006",
           "grammatical_form": null
         },
         {
@@ -1171,11 +1185,15 @@
       "sentence_id": 528,
       "translations": {
         "en": "I go to the gas station.",
-        "zh": "我去加油站。"
+        "fr": "Je vais à la station-service."
       },
       "linked_words": [
         {
           "guid": "V12_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "R99_006",
           "grammatical_form": null
         },
         {
@@ -1190,7 +1208,7 @@
       "sentence_id": 531,
       "translations": {
         "en": "I wear gloves.",
-        "zh": "我戴手套。"
+        "fr": "Je porte des gants."
       },
       "linked_words": [
         {
@@ -1209,7 +1227,7 @@
       "sentence_id": 536,
       "translations": {
         "en": "I wear a bra.",
-        "zh": "我穿胸罩。"
+        "fr": "Je porte un soutien-gorge."
       },
       "linked_words": [
         {
@@ -1227,7 +1245,7 @@
       "sentence_id": 541,
       "translations": {
         "en": "I use a computer.",
-        "zh": "我使用電腦。"
+        "fr": "J'utilise un ordinateur."
       },
       "linked_words": [
         {
@@ -1245,7 +1263,7 @@
       "sentence_id": 545,
       "translations": {
         "en": "I use a mouse (computer).",
-        "zh": "我使用鼠标。"
+        "fr": "J'utilise une souris."
       },
       "linked_words": [
         {

@@ -1,0 +1,32 @@
+[
+  {
+    "guid": "V01_005",
+    "base_target": "dormire",
+    "base_english": "sleep",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_6", "verified"],
+  },
+  {
+    "guid": "V01_006",
+    "base_target": "mangiare",
+    "base_english": "eat",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_6", "verified"],
+  },
+  {
+    "guid": "V06_004",
+    "base_target": "comprare",
+    "base_english": "buy",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["possession", "level_6", "verified"],
+  }
+]
