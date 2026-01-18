@@ -7,7 +7,7 @@
     "group": "Physical Action",
     "level": 6,
     "word_type": "verb",
-    "tags": ["physical_action", "level_6"],
+    "tags": ["physical_action", "level_6"]
   },
   {
     "guid": "V01_002",
@@ -17,7 +17,7 @@
     "group": "Physical Action",
     "level": 6,
     "word_type": "verb",
-    "tags": ["physical_action", "level_6"],
+    "tags": ["physical_action", "level_6"]
   },
   {
     "guid": "V01_003",
@@ -27,7 +27,7 @@
     "group": "Physical Action",
     "level": 6,
     "word_type": "verb",
-    "tags": ["physical_action", "level_6"],
+    "tags": ["physical_action", "level_6"]
   },
   {
     "guid": "V01_004",
@@ -37,7 +37,7 @@
     "group": "Physical Action",
     "level": 6,
     "word_type": "verb",
-    "tags": ["physical_action", "level_6"],
+    "tags": ["physical_action", "level_6"]
   },
   {
     "guid": "V01_005",
@@ -47,7 +47,7 @@
     "group": "Physical Action",
     "level": 6,
     "word_type": "verb",
-    "tags": ["physical_action", "level_6"],
+    "tags": ["physical_action", "level_6"]
   },
   {
     "guid": "V01_006",
@@ -57,7 +57,207 @@
     "group": "Physical Action",
     "level": 6,
     "word_type": "verb",
-    "tags": ["physical_action", "level_6"],
+    "tags": ["physical_action", "level_6"]
+  },
+  {
+    "guid": "V01_007",
+    "base_target": "receber",
+    "base_english": "get (receive)",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_12"]
+  },
+  {
+    "guid": "V01_008",
+    "base_target": "olhar",
+    "base_english": "look",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_12"]
+  },
+  {
+    "guid": "V01_009",
+    "base_target": "encontrar",
+    "base_english": "find",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_12"]
+  },
+  {
+    "guid": "V01_010",
+    "base_target": "pôr",
+    "base_english": "put",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_12"]
+  },
+  {
+    "guid": "V01_013",
+    "base_target": "usar",
+    "base_english": "use",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_12"]
+  },
+  {
+    "guid": "V01_019",
+    "base_target": "segurar",
+    "base_english": "hold",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_12"]
+  },
+  {
+    "guid": "V01_054",
+    "base_target": "usar",
+    "base_english": "wear (clothes)",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_12"]
+  },
+  {
+    "guid": "V01_056",
+    "base_target": "sentar-se",
+    "base_english": "sit",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_12"]
+  },
+  {
+    "guid": "V01_057",
+    "base_target": "estar de pé",
+    "base_english": "stand (be upright)",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_12"]
+  },
+  {
+    "guid": "V01_061",
+    "base_target": "transportar",
+    "base_english": "carry (transport)",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_12"]
+  },
+  {
+    "guid": "V01_068",
+    "base_target": "tocar",
+    "base_english": "touch (physical)",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_12"]
+  },
+  {
+    "guid": "V01_078",
+    "base_target": "observar",
+    "base_english": "watch (observe)",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_12"]
+  },
+  {
+    "guid": "V01_097",
+    "base_target": "abrir",
+    "base_english": "open",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_12"]
+  },
+  {
+    "guid": "V04_001",
+    "base_target": "aprender",
+    "base_english": "learn",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_002",
+    "base_target": "ensinar",
+    "base_english": "teach",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_003",
+    "base_target": "ler",
+    "base_english": "read",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_004",
+    "base_target": "escrever",
+    "base_english": "write",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_005",
+    "base_target": "ouvir",
+    "base_english": "listen",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_006",
+    "base_target": "saber",
+    "base_english": "know",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_007",
+    "base_target": "ver",
+    "base_english": "see",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
   },
   {
     "guid": "V05_001",
@@ -67,7 +267,7 @@
     "group": "Emotional State",
     "level": 6,
     "word_type": "verb",
-    "tags": ["emotional_state", "level_6"],
+    "tags": ["emotional_state", "level_6"]
   },
   {
     "guid": "V05_002",
@@ -77,7 +277,7 @@
     "group": "Emotional State",
     "level": 6,
     "word_type": "verb",
-    "tags": ["emotional_state", "level_6"],
+    "tags": ["emotional_state", "level_6"]
   },
   {
     "guid": "V05_003",
@@ -87,7 +287,7 @@
     "group": "Emotional State",
     "level": 6,
     "word_type": "verb",
-    "tags": ["emotional_state", "level_6"],
+    "tags": ["emotional_state", "level_6"]
   },
   {
     "guid": "V05_004",
@@ -97,7 +297,7 @@
     "group": "Emotional State",
     "level": 6,
     "word_type": "verb",
-    "tags": ["emotional_state", "level_6"],
+    "tags": ["emotional_state", "level_6"]
   },
   {
     "guid": "V06_001",
@@ -107,7 +307,7 @@
     "group": "Possession",
     "level": 3,
     "word_type": "verb",
-    "tags": ["possession", "level_3"],
+    "tags": ["possession", "level_3"]
   },
   {
     "guid": "V06_002",
@@ -117,7 +317,7 @@
     "group": "Possession",
     "level": 6,
     "word_type": "verb",
-    "tags": ["possession", "level_6"],
+    "tags": ["possession", "level_6"]
   },
   {
     "guid": "V06_003",
@@ -127,7 +327,7 @@
     "group": "Possession",
     "level": 6,
     "word_type": "verb",
-    "tags": ["possession", "level_6"],
+    "tags": ["possession", "level_6"]
   },
   {
     "guid": "V06_004",
@@ -137,7 +337,7 @@
     "group": "Possession",
     "level": 6,
     "word_type": "verb",
-    "tags": ["possession", "level_6"],
+    "tags": ["possession", "level_6"]
   },
   {
     "guid": "V06_005",
@@ -147,7 +347,7 @@
     "group": "Possession",
     "level": 6,
     "word_type": "verb",
-    "tags": ["possession", "level_6"],
+    "tags": ["possession", "level_6"]
   },
   {
     "guid": "V06_006",
@@ -157,6 +357,106 @@
     "group": "Possession",
     "level": 6,
     "word_type": "verb",
-    "tags": ["possession", "level_6"],
+    "tags": ["possession", "level_6"]
+  },
+  {
+    "guid": "V10_001",
+    "base_target": "ver",
+    "base_english": "see",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["perception", "level_12"]
+  },
+  {
+    "guid": "V12_001",
+    "base_target": "andar",
+    "base_english": "walk (go on foot)",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_10"]
+  },
+  {
+    "guid": "V12_002",
+    "base_target": "conduzir",
+    "base_english": "drive (travel by vehicle)",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_10"]
+  },
+  {
+    "guid": "V12_003",
+    "base_target": "correr",
+    "base_english": "run (move quickly)",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_10"]
+  },
+  {
+    "guid": "V12_004",
+    "base_target": "avançar",
+    "base_english": "proceed (go forward)",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_10"]
+  },
+  {
+    "guid": "V12_005",
+    "base_target": "vir",
+    "base_english": "come",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_10"]
+  },
+  {
+    "guid": "V12_006",
+    "base_target": "regressar",
+    "base_english": "return",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_10"]
+  },
+  {
+    "guid": "V12_010",
+    "base_target": "mover-se",
+    "base_english": "move",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_12"]
+  },
+  {
+    "guid": "V12_013",
+    "base_target": "trazer",
+    "base_english": "bring",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_12"]
+  },
+  {
+    "guid": "V12_025",
+    "base_target": "entrar",
+    "base_english": "enter",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_12"]
   }
 ]
