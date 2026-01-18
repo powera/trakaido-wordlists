@@ -45,13 +45,13 @@
   },
   {
     "guid": "V01_005",
-    "base_target": "睡觉",
+    "base_target": "睡覺",
     "base_english": "sleep",
     "corpus": "VERBS",
     "group": "Physical Action",
     "level": 6,
     "word_type": "verb",
-    "target_pinyin": "shuì jiào",
+    "target_pinyin": "shuì jué",
     "tags": ["physical_action", "level_6"]
   },
   {
@@ -166,7 +166,7 @@
   },
   {
     "guid": "V01_061",
-    "base_target": "搬运",
+    "base_target": "搬運",
     "base_english": "carry (transport)",
     "corpus": "VERBS",
     "group": "Physical Action",
@@ -177,7 +177,7 @@
   },
   {
     "guid": "V01_068",
-    "base_target": "触碰",
+    "base_target": "觸碰",
     "base_english": "touch (physical)",
     "corpus": "VERBS",
     "group": "Physical Action",
@@ -188,7 +188,7 @@
   },
   {
     "guid": "V01_078",
-    "base_target": "观看",
+    "base_target": "觀看",
     "base_english": "watch (observe)",
     "corpus": "VERBS",
     "group": "Physical Action",
@@ -199,7 +199,7 @@
   },
   {
     "guid": "V01_097",
-    "base_target": "打开",
+    "base_target": "打開",
     "base_english": "open",
     "corpus": "VERBS",
     "group": "Physical Action",
@@ -210,7 +210,7 @@
   },
   {
     "guid": "V04_001",
-    "base_target": "学习",
+    "base_target": "學習",
     "base_english": "learn",
     "corpus": "VERBS",
     "group": "Mental State",
@@ -232,7 +232,7 @@
   },
   {
     "guid": "V04_003",
-    "base_target": "阅读",
+    "base_target": "閱讀",
     "base_english": "read",
     "corpus": "VERBS",
     "group": "Mental State",
@@ -243,7 +243,7 @@
   },
   {
     "guid": "V04_004",
-    "base_target": "写字",
+    "base_target": "寫字",
     "base_english": "write",
     "corpus": "VERBS",
     "group": "Mental State",
@@ -254,7 +254,7 @@
   },
   {
     "guid": "V04_005",
-    "base_target": "听",
+    "base_target": "聽",
     "base_english": "listen",
     "corpus": "VERBS",
     "group": "Mental State",
@@ -276,7 +276,7 @@
   },
   {
     "guid": "V04_007",
-    "base_target": "看见",
+    "base_target": "看見",
     "base_english": "see",
     "corpus": "VERBS",
     "group": "Mental State",
@@ -287,7 +287,7 @@
   },
   {
     "guid": "V05_001",
-    "base_target": "喜欢",
+    "base_target": "喜歡",
     "base_english": "like",
     "corpus": "VERBS",
     "group": "Emotional State",
@@ -298,7 +298,7 @@
   },
   {
     "guid": "V05_002",
-    "base_target": "说话",
+    "base_target": "說話",
     "base_english": "speak",
     "corpus": "VERBS",
     "group": "Emotional State",
@@ -309,7 +309,7 @@
   },
   {
     "guid": "V05_003",
-    "base_target": "能够",
+    "base_target": "能夠",
     "base_english": "be able/can",
     "corpus": "VERBS",
     "group": "Emotional State",
@@ -353,7 +353,7 @@
   },
   {
     "guid": "V06_003",
-    "base_target": "赚",
+    "base_target": "賺",
     "base_english": "make (earn)",
     "corpus": "VERBS",
     "group": "Possession",
@@ -364,7 +364,7 @@
   },
   {
     "guid": "V06_004",
-    "base_target": "买",
+    "base_target": "買",
     "base_english": "buy",
     "corpus": "VERBS",
     "group": "Possession",
@@ -375,7 +375,7 @@
   },
   {
     "guid": "V06_005",
-    "base_target": "给",
+    "base_target": "給",
     "base_english": "give",
     "corpus": "VERBS",
     "group": "Possession",
@@ -397,7 +397,7 @@
   },
   {
     "guid": "V10_001",
-    "base_target": "看见",
+    "base_target": "看見",
     "base_english": "see",
     "corpus": "VERBS",
     "group": "Perception",
@@ -419,7 +419,7 @@
   },
   {
     "guid": "V12_002",
-    "base_target": "开车",
+    "base_target": "開車",
     "base_english": "drive (travel by vehicle)",
     "corpus": "VERBS",
     "group": "Directional Movement",
@@ -441,7 +441,7 @@
   },
   {
     "guid": "V12_004",
-    "base_target": "继续前进",
+    "base_target": "繼續前進",
     "base_english": "proceed (go forward)",
     "corpus": "VERBS",
     "group": "Directional Movement",
@@ -452,7 +452,7 @@
   },
   {
     "guid": "V12_005",
-    "base_target": "来",
+    "base_target": "來",
     "base_english": "come",
     "corpus": "VERBS",
     "group": "Directional Movement",
@@ -474,7 +474,7 @@
   },
   {
     "guid": "V12_010",
-    "base_target": "移动",
+    "base_target": "移動",
     "base_english": "move",
     "corpus": "VERBS",
     "group": "Directional Movement",
@@ -485,7 +485,7 @@
   },
   {
     "guid": "V12_013",
-    "base_target": "带来",
+    "base_target": "帶來",
     "base_english": "bring",
     "corpus": "VERBS",
     "group": "Directional Movement",
@@ -496,7 +496,7 @@
   },
   {
     "guid": "V12_025",
-    "base_target": "进去",
+    "base_target": "進去",
     "base_english": "enter",
     "corpus": "VERBS",
     "group": "Directional Movement",
