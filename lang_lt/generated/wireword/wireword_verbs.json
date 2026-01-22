@@ -1,83 +1,83 @@
 [
   {
     "guid": "V01_001",
-    "base_target": "gyventi",
-    "base_english": "live",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 6,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_6"]
-  },
-  {
-    "guid": "V01_002",
-    "base_target": "žaisti",
-    "base_english": "play (game)",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 6,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_6"]
-  },
-  {
-    "guid": "V01_003",
-    "base_target": "dirbti",
-    "base_english": "work (do a job)",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 6,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_6"]
-  },
-  {
-    "guid": "V01_004",
-    "base_target": "gerti",
-    "base_english": "drink",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 6,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_6"]
-  },
-  {
-    "guid": "V01_005",
-    "base_target": "miegoti",
-    "base_english": "sleep",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 6,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_6"]
-  },
-  {
-    "guid": "V01_006",
     "base_target": "valgyti",
     "base_english": "eat",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 6,
+    "level": 10,
     "word_type": "verb",
-    "tags": ["physical_action", "level_6"]
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_002",
+    "base_target": "gerti",
+    "base_english": "drink",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_003",
+    "base_target": "miegoti",
+    "base_english": "sleep",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_004",
+    "base_target": "pabusti",
+    "base_english": "wake",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_005",
+    "base_target": "kvėpuoti",
+    "base_english": "breathe",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_006",
+    "base_target": "žaisti",
+    "base_english": "play",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
   },
   {
     "guid": "V01_007",
-    "base_target": "gauti",
-    "base_english": "get (receive)",
+    "base_target": "dirbti",
+    "base_english": "work",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 12,
+    "level": 10,
     "word_type": "verb",
-    "tags": ["physical_action", "level_12"]
+    "tags": ["physical_action", "level_10"]
   },
   {
     "guid": "V01_008",
-    "base_target": "žiūrėti",
-    "base_english": "look",
+    "base_target": "gauti",
+    "base_english": "get",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 12,
+    "level": 10,
     "word_type": "verb",
-    "tags": ["physical_action", "level_12"]
+    "tags": ["physical_action", "level_10"]
   },
   {
     "guid": "V01_009",
@@ -85,9 +85,9 @@
     "base_english": "find",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 12,
+    "level": 10,
     "word_type": "verb",
-    "tags": ["physical_action", "level_12"]
+    "tags": ["physical_action", "level_10"]
   },
   {
     "guid": "V01_010",
@@ -95,99 +95,499 @@
     "base_english": "put",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 12,
+    "level": 10,
     "word_type": "verb",
-    "tags": ["physical_action", "level_12"]
+    "tags": ["physical_action", "level_10"]
   },
   {
-    "guid": "V01_013",
+    "guid": "V01_011",
+    "base_target": "laikyti",
+    "base_english": "keep",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_012",
     "base_target": "naudoti",
     "base_english": "use",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 12,
+    "level": 10,
     "word_type": "verb",
-    "tags": ["physical_action", "level_12"]
+    "tags": ["physical_action", "level_10"]
   },
   {
-    "guid": "V01_019",
-    "base_target": "laikyti",
-    "base_english": "hold",
+    "guid": "V01_013",
+    "base_target": "padėti",
+    "base_english": "help",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 12,
+    "level": 10,
     "word_type": "verb",
-    "tags": ["physical_action", "level_12"]
+    "tags": ["physical_action", "level_10"]
   },
   {
-    "guid": "V01_054",
-    "base_target": "dėvėti",
-    "base_english": "wear (clothes)",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 12,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_12"]
-  },
-  {
-    "guid": "V01_056",
-    "base_target": "sėdėti",
-    "base_english": "sit",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 12,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_12"]
-  },
-  {
-    "guid": "V01_057",
-    "base_target": "stovėti",
-    "base_english": "stand (be upright)",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 12,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_12"]
-  },
-  {
-    "guid": "V01_061",
-    "base_target": "nešti",
-    "base_english": "carry (transport)",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 12,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_12"]
-  },
-  {
-    "guid": "V01_068",
-    "base_target": "liesti",
-    "base_english": "touch (physical)",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 12,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_12"]
-  },
-  {
-    "guid": "V01_078",
-    "base_target": "stebėti",
-    "base_english": "watch (observe)",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 12,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_12"]
-  },
-  {
-    "guid": "V01_097",
+    "guid": "V01_014",
     "base_target": "atidaryti",
     "base_english": "open",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 12,
+    "level": 10,
     "word_type": "verb",
-    "tags": ["physical_action", "level_12"]
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_015",
+    "base_target": "uždaryti",
+    "base_english": "close",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_016",
+    "base_target": "sustoti",
+    "base_english": "stop",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_017",
+    "base_target": "bandyti",
+    "base_english": "try",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_018",
+    "base_target": "laikyti",
+    "base_english": "hold",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_019",
+    "base_target": "pagauti",
+    "base_english": "catch",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_020",
+    "base_target": "mesti",
+    "base_english": "throw",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_021",
+    "base_target": "traukti",
+    "base_english": "pull",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_022",
+    "base_target": "stumti",
+    "base_english": "push",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_023",
+    "base_target": "kelti",
+    "base_english": "lift",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_024",
+    "base_target": "numesti",
+    "base_english": "drop",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_025",
+    "base_target": "nešti",
+    "base_english": "carry",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_026",
+    "base_target": "liesti",
+    "base_english": "touch",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_027",
+    "base_target": "trenkti",
+    "base_english": "hit",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_028",
+    "base_target": "pjauti",
+    "base_english": "cut",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_029",
+    "base_target": "laužti",
+    "base_english": "break",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_030",
+    "base_target": "degti",
+    "base_english": "burn",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_031",
+    "base_target": "dėvėti",
+    "base_english": "wear",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_032",
+    "base_target": "sėdėti",
+    "base_english": "sit",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_033",
+    "base_target": "stovėti",
+    "base_english": "stand",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_034",
+    "base_target": "gulėti",
+    "base_english": "lie",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_035",
+    "base_target": "lenkti",
+    "base_english": "bend",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_036",
+    "base_target": "purtyti",
+    "base_english": "shake",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_037",
+    "base_target": "slėpti",
+    "base_english": "hide",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_038",
+    "base_target": "rodyti",
+    "base_english": "show",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_039",
+    "base_target": "uždengti",
+    "base_english": "cover",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_040",
+    "base_target": "kabinti",
+    "base_english": "hang",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_041",
+    "base_target": "laukti",
+    "base_english": "wait",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_042",
+    "base_target": "sutikti",
+    "base_english": "meet",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_043",
+    "base_target": "prisijungti",
+    "base_english": "join",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_044",
+    "base_target": "tikti",
+    "base_english": "fit",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_045",
+    "base_target": "prarasti",
+    "base_english": "lose",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_046",
+    "base_target": "laimėti",
+    "base_english": "win",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_047",
+    "base_target": "taupyti",
+    "base_english": "save",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_048",
+    "base_target": "skaudėti",
+    "base_english": "hurt",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_049",
+    "base_target": "mirti",
+    "base_english": "die",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_050",
+    "base_target": "žudyti",
+    "base_english": "kill",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_051",
+    "base_target": "kovoti",
+    "base_english": "fight",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_052",
+    "base_target": "rodyti",
+    "base_english": "point",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_053",
+    "base_target": "skleisti",
+    "base_english": "spread",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_054",
+    "base_target": "paslysti",
+    "base_english": "slip",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_055",
+    "base_target": "pridėti",
+    "base_english": "add",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_056",
+    "base_target": "šauti",
+    "base_english": "shoot",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_057",
+    "base_target": "piešti",
+    "base_english": "draw",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_058",
+    "base_target": "rinktis",
+    "base_english": "pick",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_059",
+    "base_target": "sunaikinti",
+    "base_english": "destroy",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
   },
   {
     "guid": "V04_001",
@@ -260,6 +660,316 @@
     "tags": ["mental_state", "level_10"]
   },
   {
+    "guid": "V04_008",
+    "base_target": "galvoti",
+    "base_english": "think",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_009",
+    "base_target": "leisti",
+    "base_english": "let",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_010",
+    "base_target": "reikėti",
+    "base_english": "need",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_011",
+    "base_target": "reikšti",
+    "base_english": "mean",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_012",
+    "base_target": "prisiminti",
+    "base_english": "remember",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_013",
+    "base_target": "suprasti",
+    "base_english": "understand",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_014",
+    "base_target": "norėti",
+    "base_english": "wish",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_015",
+    "base_target": "tikėti",
+    "base_english": "believe",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_016",
+    "base_target": "stebėtis",
+    "base_english": "wonder",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_017",
+    "base_target": "tapti",
+    "base_english": "become",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_018",
+    "base_target": "atrodyti",
+    "base_english": "seem",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_019",
+    "base_target": "manyti",
+    "base_english": "suppose",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_020",
+    "base_target": "spėti",
+    "base_english": "guess",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_021",
+    "base_target": "pamiršti",
+    "base_english": "forget",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_022",
+    "base_target": "tikėtis",
+    "base_english": "expect",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_023",
+    "base_target": "atsitikti",
+    "base_english": "happen",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_024",
+    "base_target": "skaičiuoti",
+    "base_english": "count",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_025",
+    "base_target": "pastebėti",
+    "base_english": "notice",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_026",
+    "base_target": "priimti",
+    "base_english": "accept",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_027",
+    "base_target": "pasirinkti",
+    "base_english": "choose",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_028",
+    "base_target": "įsivaizduoti",
+    "base_english": "imagine",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_029",
+    "base_target": "drįsti",
+    "base_english": "dare",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_030",
+    "base_target": "suvokti",
+    "base_english": "realize",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_031",
+    "base_target": "apsvarstyti",
+    "base_english": "consider",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_032",
+    "base_target": "studijuoti",
+    "base_english": "study",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_033",
+    "base_target": "nuspręsti",
+    "base_english": "decide",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_034",
+    "base_target": "atpažinti",
+    "base_english": "recognize",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_035",
+    "base_target": "sutikti",
+    "base_english": "agree",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_036",
+    "base_target": "linktelėti",
+    "base_english": "nod",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_037",
+    "base_target": "spoksoti",
+    "base_english": "stare",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_038",
+    "base_target": "žvilgtelėti",
+    "base_english": "glance",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
     "guid": "V05_001",
     "base_target": "patikti",
     "base_english": "like",
@@ -271,23 +981,23 @@
   },
   {
     "guid": "V05_002",
-    "base_target": "kalbėti",
-    "base_english": "speak",
+    "base_target": "mylėti",
+    "base_english": "love",
     "corpus": "VERBS",
     "group": "Emotional State",
-    "level": 6,
+    "level": 10,
     "word_type": "verb",
-    "tags": ["emotional_state", "level_6"]
+    "tags": ["emotional_state", "level_10"]
   },
   {
     "guid": "V05_003",
-    "base_target": "galėti",
-    "base_english": "be able/can",
+    "base_target": "nekęsti",
+    "base_english": "hate",
     "corpus": "VERBS",
     "group": "Emotional State",
-    "level": 6,
+    "level": 10,
     "word_type": "verb",
-    "tags": ["emotional_state", "level_6"]
+    "tags": ["emotional_state", "level_10"]
   },
   {
     "guid": "V05_004",
@@ -298,6 +1008,166 @@
     "level": 6,
     "word_type": "verb",
     "tags": ["emotional_state", "level_6"]
+  },
+  {
+    "guid": "V05_005",
+    "base_target": "jausti",
+    "base_english": "feel",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_10"]
+  },
+  {
+    "guid": "V05_006",
+    "base_target": "verkti",
+    "base_english": "cry",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_10"]
+  },
+  {
+    "guid": "V05_007",
+    "base_target": "šypsotis",
+    "base_english": "smile",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_10"]
+  },
+  {
+    "guid": "V05_008",
+    "base_target": "ilgėtis",
+    "base_english": "miss",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_10"]
+  },
+  {
+    "guid": "V05_009",
+    "base_target": "nerimauti",
+    "base_english": "worry",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_10"]
+  },
+  {
+    "guid": "V05_010",
+    "base_target": "juoktis",
+    "base_english": "laugh",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_10"]
+  },
+  {
+    "guid": "V05_011",
+    "base_target": "tikėtis",
+    "base_english": "hope",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_10"]
+  },
+  {
+    "guid": "V05_012",
+    "base_target": "bijoti",
+    "base_english": "fear",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_10"]
+  },
+  {
+    "guid": "V05_013",
+    "base_target": "mėgautis",
+    "base_english": "enjoy",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_10"]
+  },
+  {
+    "guid": "V05_014",
+    "base_target": "kentėti",
+    "base_english": "suffer",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_10"]
+  },
+  {
+    "guid": "V05_015",
+    "base_target": "nustebinti",
+    "base_english": "surprise",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_10"]
+  },
+  {
+    "guid": "V05_016",
+    "base_target": "pasitikėti",
+    "base_english": "trust",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_10"]
+  },
+  {
+    "guid": "V05_017",
+    "base_target": "teikti pirmenybę",
+    "base_english": "prefer",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_10"]
+  },
+  {
+    "guid": "V05_018",
+    "base_target": "gailėtis",
+    "base_english": "regret",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_10"]
+  },
+  {
+    "guid": "V05_019",
+    "base_target": "rūpintis",
+    "base_english": "care",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_10"]
+  },
+  {
+    "guid": "V05_020",
+    "base_target": "atleisti",
+    "base_english": "forgive",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_10"]
   },
   {
     "guid": "V06_001",
@@ -360,19 +1230,409 @@
     "tags": ["possession", "level_6"]
   },
   {
+    "guid": "V08_001",
+    "base_target": "tapti",
+    "base_english": "become",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["change", "level_10"]
+  },
+  {
+    "guid": "V08_002",
+    "base_target": "virsti",
+    "base_english": "turn",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["change", "level_10"]
+  },
+  {
+    "guid": "V08_003",
+    "base_target": "augti",
+    "base_english": "grow",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["change", "level_10"]
+  },
+  {
+    "guid": "V08_004",
+    "base_target": "keisti",
+    "base_english": "change",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["change", "level_10"]
+  },
+  {
+    "guid": "V08_005",
+    "base_target": "pradėti",
+    "base_english": "begin",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["change", "level_10"]
+  },
+  {
+    "guid": "V08_006",
+    "base_target": "pradėti",
+    "base_english": "start",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["change", "level_10"]
+  },
+  {
+    "guid": "V09_001",
+    "base_target": "kalbėti",
+    "base_english": "talk",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
+    "guid": "V09_002",
+    "base_target": "kalbėti",
+    "base_english": "speak",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
+    "guid": "V09_003",
+    "base_target": "pasakyti",
+    "base_english": "tell",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
+    "guid": "V09_004",
+    "base_target": "klausti",
+    "base_english": "ask",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
+    "guid": "V09_005",
+    "base_target": "atsakyti",
+    "base_english": "answer",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
+    "guid": "V09_006",
+    "base_target": "sakyti",
+    "base_english": "say",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
+    "guid": "V09_007",
+    "base_target": "šaukti",
+    "base_english": "call",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
+    "guid": "V09_008",
+    "base_target": "šaukti",
+    "base_english": "shout",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
+    "guid": "V09_009",
+    "base_target": "šnibždėti",
+    "base_english": "whisper",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
+    "guid": "V09_010",
+    "base_target": "atsakyti",
+    "base_english": "reply",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
+    "guid": "V09_011",
+    "base_target": "paaiškinti",
+    "base_english": "explain",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
+    "guid": "V09_012",
+    "base_target": "paskelbti",
+    "base_english": "announce",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
+    "guid": "V09_013",
+    "base_target": "aptarti",
+    "base_english": "discuss",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
+    "guid": "V09_014",
+    "base_target": "apibūdinti",
+    "base_english": "describe",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
+    "guid": "V09_015",
+    "base_target": "paminėti",
+    "base_english": "mention",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
+    "guid": "V09_016",
+    "base_target": "pasiūlyti",
+    "base_english": "suggest",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
+    "guid": "V09_017",
+    "base_target": "pažadėti",
+    "base_english": "promise",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
+    "guid": "V09_018",
+    "base_target": "įspėti",
+    "base_english": "warn",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
+    "guid": "V09_019",
+    "base_target": "skųstis",
+    "base_english": "complain",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
+    "guid": "V09_020",
+    "base_target": "dėkoti",
+    "base_english": "thank",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
     "guid": "V10_001",
     "base_target": "matyti",
     "base_english": "see",
     "corpus": "VERBS",
     "group": "Perception",
-    "level": 12,
+    "level": 10,
     "word_type": "verb",
-    "tags": ["perception", "level_12"]
+    "tags": ["perception", "level_10"]
+  },
+  {
+    "guid": "V10_002",
+    "base_target": "girdėti",
+    "base_english": "hear",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["perception", "level_10"]
+  },
+  {
+    "guid": "V10_003",
+    "base_target": "jausti",
+    "base_english": "feel",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["perception", "level_10"]
+  },
+  {
+    "guid": "V10_004",
+    "base_target": "uosti",
+    "base_english": "smell",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["perception", "level_10"]
+  },
+  {
+    "guid": "V10_005",
+    "base_target": "ragauti",
+    "base_english": "taste",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["perception", "level_10"]
+  },
+  {
+    "guid": "V10_006",
+    "base_target": "žiūrėti",
+    "base_english": "look",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["perception", "level_10"]
+  },
+  {
+    "guid": "V10_007",
+    "base_target": "stebėti",
+    "base_english": "watch",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["perception", "level_10"]
+  },
+  {
+    "guid": "V10_008",
+    "base_target": "pastebėti",
+    "base_english": "notice",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["perception", "level_10"]
+  },
+  {
+    "guid": "V11_001",
+    "base_target": "būti",
+    "base_english": "be",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["existence", "level_10"]
+  },
+  {
+    "guid": "V11_002",
+    "base_target": "egzistuoti",
+    "base_english": "exist",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["existence", "level_10"]
+  },
+  {
+    "guid": "V11_003",
+    "base_target": "likti",
+    "base_english": "remain",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["existence", "level_10"]
+  },
+  {
+    "guid": "V11_004",
+    "base_target": "gyventi",
+    "base_english": "live",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["existence", "level_10"]
+  },
+  {
+    "guid": "V11_005",
+    "base_target": "pasirodyti",
+    "base_english": "appear",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["existence", "level_10"]
+  },
+  {
+    "guid": "V11_006",
+    "base_target": "pasilikti",
+    "base_english": "stay",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["existence", "level_10"]
   },
   {
     "guid": "V12_001",
     "base_target": "eiti",
-    "base_english": "walk (go on foot)",
+    "base_english": "walk",
     "corpus": "VERBS",
     "group": "Directional Movement",
     "level": 10,
@@ -382,7 +1642,7 @@
   {
     "guid": "V12_002",
     "base_target": "važiuoti",
-    "base_english": "drive (travel by vehicle)",
+    "base_english": "drive",
     "corpus": "VERBS",
     "group": "Directional Movement",
     "level": 10,
@@ -392,7 +1652,7 @@
   {
     "guid": "V12_003",
     "base_target": "bėgti",
-    "base_english": "run (move quickly)",
+    "base_english": "run",
     "corpus": "VERBS",
     "group": "Directional Movement",
     "level": 10,
@@ -401,8 +1661,8 @@
   },
   {
     "guid": "V12_004",
-    "base_target": "tęsti",
-    "base_english": "proceed (go forward)",
+    "base_target": "eiti",
+    "base_english": "go",
     "corpus": "VERBS",
     "group": "Directional Movement",
     "level": 10,
@@ -430,33 +1690,183 @@
     "tags": ["directional_movement", "level_10"]
   },
   {
-    "guid": "V12_010",
+    "guid": "V12_007",
+    "base_target": "išeiti",
+    "base_english": "leave",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_10"]
+  },
+  {
+    "guid": "V12_008",
+    "base_target": "sukti",
+    "base_english": "turn",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_10"]
+  },
+  {
+    "guid": "V12_009",
     "base_target": "judėti",
     "base_english": "move",
     "corpus": "VERBS",
     "group": "Directional Movement",
-    "level": 12,
+    "level": 10,
     "word_type": "verb",
-    "tags": ["directional_movement", "level_12"]
+    "tags": ["directional_movement", "level_10"]
   },
   {
-    "guid": "V12_013",
+    "guid": "V12_010",
+    "base_target": "praeiti",
+    "base_english": "pass",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_10"]
+  },
+  {
+    "guid": "V12_011",
+    "base_target": "kristi",
+    "base_english": "fall",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_10"]
+  },
+  {
+    "guid": "V12_012",
     "base_target": "atnešti",
     "base_english": "bring",
     "corpus": "VERBS",
     "group": "Directional Movement",
-    "level": 12,
+    "level": 10,
     "word_type": "verb",
-    "tags": ["directional_movement", "level_12"]
+    "tags": ["directional_movement", "level_10"]
   },
   {
-    "guid": "V12_025",
+    "guid": "V12_013",
+    "base_target": "sekti",
+    "base_english": "follow",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_10"]
+  },
+  {
+    "guid": "V12_014",
+    "base_target": "pasiekti",
+    "base_english": "reach",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_10"]
+  },
+  {
+    "guid": "V12_015",
+    "base_target": "siųsti",
+    "base_english": "send",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_10"]
+  },
+  {
+    "guid": "V12_016",
+    "base_target": "joti",
+    "base_english": "ride",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_10"]
+  },
+  {
+    "guid": "V12_017",
+    "base_target": "vesti",
+    "base_english": "lead",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_10"]
+  },
+  {
+    "guid": "V12_018",
+    "base_target": "skristi",
+    "base_english": "fly",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_10"]
+  },
+  {
+    "guid": "V12_019",
+    "base_target": "kirsti",
+    "base_english": "cross",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_10"]
+  },
+  {
+    "guid": "V12_020",
+    "base_target": "skubėti",
+    "base_english": "hurry",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_10"]
+  },
+  {
+    "guid": "V12_021",
     "base_target": "įeiti",
     "base_english": "enter",
     "corpus": "VERBS",
     "group": "Directional Movement",
-    "level": 12,
+    "level": 10,
     "word_type": "verb",
-    "tags": ["directional_movement", "level_12"]
+    "tags": ["directional_movement", "level_10"]
+  },
+  {
+    "guid": "V12_022",
+    "base_target": "keliauti",
+    "base_english": "travel",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_10"]
+  },
+  {
+    "guid": "V12_023",
+    "base_target": "kilti",
+    "base_english": "rise",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_10"]
+  },
+  {
+    "guid": "V12_024",
+    "base_target": "lipti",
+    "base_english": "climb",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_10"]
   }
 ]
