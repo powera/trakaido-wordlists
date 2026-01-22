@@ -1,5 +1,25 @@
 {
   "language": "nl",
-  "generated_date": "2026-01-18T17:56:58.286833",
-  "sentences": []
+  "generated_date": "2026-01-22T14:23:27.540082",
+  "sentences": [
+    {
+      "sentence_id": 2,
+      "translations": {
+        "en": "I like apples.",
+        "nl": "Ik vind appels leuk."
+      },
+      "linked_words": [
+        {
+          "guid": "V05_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_015",
+          "grammatical_form": null
+        }
+      ],
+      "source": "pattern:i_like_food",
+      "minimum_level": 6
+    }
+  ]
 }

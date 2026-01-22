@@ -1,5 +1,52 @@
 {
   "language": "de",
-  "generated_date": "2026-01-18T17:56:56.870996",
-  "sentences": []
+  "generated_date": "2026-01-22T14:23:27.495443",
+  "sentences": [
+    {
+      "sentence_id": 2,
+      "translations": {
+        "en": "I like apples.",
+        "de": "Ich mag Äpfel."
+      },
+      "linked_words": [
+        {
+          "guid": "V05_001",
+          "grammatical_form": "verb/de_1s_present"
+        },
+        {
+          "guid": "N06_015",
+          "grammatical_form": "noun/de_accusative_plural"
+        }
+      ],
+      "source": "pattern:i_like_food",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 183,
+      "translations": {
+        "en": "I need coffee every morning.",
+        "de": "Ich brauche jeden Morgen Kaffee."
+      },
+      "linked_words": [
+        {
+          "guid": "V04_012",
+          "grammatical_form": "verb/de_1s_present"
+        },
+        {
+          "guid": "T99_017",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N25_004",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N42_002",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_N42_002",
+      "minimum_level": 7
+    }
+  ]
 }

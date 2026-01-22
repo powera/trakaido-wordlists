@@ -1,5 +1,52 @@
 {
   "language": "pt",
-  "generated_date": "2026-01-18T17:56:58.994074",
-  "sentences": []
+  "generated_date": "2026-01-22T14:23:27.562211",
+  "sentences": [
+    {
+      "sentence_id": 2,
+      "translations": {
+        "en": "I like apples.",
+        "pt": "Gosto de maçãs."
+      },
+      "linked_words": [
+        {
+          "guid": "V05_001",
+          "grammatical_form": "verb/pt_1s_present"
+        },
+        {
+          "guid": "N06_015",
+          "grammatical_form": "noun/pt_plural"
+        }
+      ],
+      "source": "pattern:i_like_food",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 183,
+      "translations": {
+        "en": "I need coffee every morning.",
+        "pt": "Preciso de café todas as manhãs."
+      },
+      "linked_words": [
+        {
+          "guid": "V04_012",
+          "grammatical_form": "verb/pt_1s_present"
+        },
+        {
+          "guid": "N42_002",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "T99_017",
+          "grammatical_form": "adjective/pt_plural_f"
+        },
+        {
+          "guid": "N25_004",
+          "grammatical_form": "noun/pt_plural"
+        }
+      ],
+      "source": "buivolas_N42_002",
+      "minimum_level": 7
+    }
+  ]
 }

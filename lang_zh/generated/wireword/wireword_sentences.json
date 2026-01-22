@@ -1,5 +1,742 @@
 {
   "language": "zh",
-  "generated_date": "2026-01-18T18:18:21.856607",
-  "sentences": []
+  "generated_date": "2026-01-22T14:23:27.388432",
+  "sentences": [
+    {
+      "sentence_id": 1,
+      "translations": {
+        "en": "I eat an apple.",
+        "zh": "我吃苹果。"
+      },
+      "linked_words": [
+        {
+          "guid": "V01_006",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_015",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ chī píng guǒ 。",
+      "source": "pattern:i_eat_food"
+    },
+    {
+      "sentence_id": 2,
+      "translations": {
+        "en": "I like apples.",
+        "zh": "我喜欢苹果。"
+      },
+      "linked_words": [
+        {
+          "guid": "V05_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_015",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ xǐ huān píng guǒ 。",
+      "source": "pattern:i_like_food",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 6,
+      "translations": {
+        "en": "The horse eats apple.",
+        "zh": "马吃苹果。"
+      },
+      "linked_words": [],
+      "pinyin": "mǎ chī píng guǒ 。",
+      "source": "pattern:the_animal_eats_food",
+      "audio": {
+        "ash": "325b158d80c02aaea18e5c8013b65179",
+        "alloy": "6cc0072be6c5c6255a22c030ce2cda23",
+        "nova": "b33114cd72d370b429441640f4570358"
+      }
+    },
+    {
+      "sentence_id": 11,
+      "translations": {
+        "en": "The bear eats apple.",
+        "zh": "熊吃苹果。"
+      },
+      "linked_words": [],
+      "pinyin": "xióng chī píng guǒ 。",
+      "source": "pattern:the_animal_eats_food"
+    },
+    {
+      "sentence_id": 22,
+      "translations": {
+        "en": "I eat bread.",
+        "zh": "我吃面包。"
+      },
+      "linked_words": [
+        {
+          "guid": "V01_006",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ chī miàn bāo 。",
+      "source": "pattern:i_eat_food"
+    },
+    {
+      "sentence_id": 23,
+      "translations": {
+        "en": "I like bread.",
+        "zh": "我喜欢面包。"
+      },
+      "linked_words": [
+        {
+          "guid": "V05_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ xǐ huān miàn bāo 。",
+      "source": "pattern:i_like_food"
+    },
+    {
+      "sentence_id": 31,
+      "translations": {
+        "en": "The watch is in the library.",
+        "zh": "手表在图书馆。"
+      },
+      "linked_words": [
+        {
+          "guid": "N08_008",
+          "grammatical_form": null
+        },
+        {
+          "guid": "R99_001",
+          "grammatical_form": "preposition/base"
+        },
+        {
+          "guid": "N07_009",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "shǒu biǎo zài tú shū guǎn 。",
+      "source": "pattern:object_is_in_place"
+    },
+    {
+      "sentence_id": 32,
+      "translations": {
+        "en": "The bag is in the library.",
+        "zh": "袋子在图书馆。"
+      },
+      "linked_words": [
+        {
+          "guid": "N08_009",
+          "grammatical_form": null
+        },
+        {
+          "guid": "R99_001",
+          "grammatical_form": "preposition/base"
+        },
+        {
+          "guid": "N07_009",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "dài zi zài tú shū guǎn 。",
+      "source": "pattern:object_is_in_place",
+      "audio": {
+        "ash": "000e3ecb87b348d12fc14413b844f5bb",
+        "alloy": "aa42e07272876db68edddbe67a3be5eb",
+        "nova": "b8215bf09663774e7e7e2225d8905d6d"
+      }
+    },
+    {
+      "sentence_id": 50,
+      "translations": {
+        "en": "Where is the library?",
+        "zh": "图书馆在哪里？"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_009",
+          "grammatical_form": null
+        },
+        {
+          "guid": "P99_003",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tú shū guǎn zài nǎ lǐ ？",
+      "source": "pattern:where_is_building"
+    },
+    {
+      "sentence_id": 74,
+      "translations": {
+        "en": "I want a hat.",
+        "zh": "我想要一顶帽子。"
+      },
+      "linked_words": [],
+      "pinyin": "wǒ xiǎng yào yī dǐng mào zi 。",
+      "source": "pattern:i_want_clothing"
+    },
+    {
+      "sentence_id": 75,
+      "translations": {
+        "en": "I am wearing a hat.",
+        "zh": "我戴着帽子。"
+      },
+      "linked_words": [
+        {
+          "guid": "N09_008",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ dài zhe mào zi 。",
+      "source": "pattern:i_wear_clothing"
+    },
+    {
+      "sentence_id": 79,
+      "translations": {
+        "en": "i want a shirt",
+        "zh": "我想要一件衬衫。"
+      },
+      "linked_words": [],
+      "pinyin": "wǒ xiǎng yào yī jiàn chèn shān 。",
+      "source": "pattern:clothing_accessory_01"
+    },
+    {
+      "sentence_id": 80,
+      "translations": {
+        "en": "i wear shirt",
+        "zh": "我穿着衬衫。"
+      },
+      "linked_words": [],
+      "pinyin": "wǒ chuān zhe chèn shān 。",
+      "source": "pattern:clothing_accessory_02"
+    },
+    {
+      "sentence_id": 84,
+      "translations": {
+        "en": "I want pants.",
+        "zh": "我想要裤子。"
+      },
+      "linked_words": [
+        {
+          "guid": "V05_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_002",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ xiǎng yào kù zi 。",
+      "source": "pattern:clothing_accessory_01"
+    },
+    {
+      "sentence_id": 85,
+      "translations": {
+        "en": "I wear pants.",
+        "zh": "我穿裤子。"
+      },
+      "linked_words": [
+        {
+          "guid": "N09_002",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ chuān kù zi 。",
+      "source": "pattern:clothing_accessory_02"
+    },
+    {
+      "sentence_id": 89,
+      "translations": {
+        "en": "I want a dress.",
+        "zh": "我想要一件洋装。"
+      },
+      "linked_words": [
+        {
+          "guid": "V05_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_003",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ xiǎng yào yī jiàn yáng zhuāng 。",
+      "source": "pattern:clothing_accessory_01"
+    },
+    {
+      "sentence_id": 90,
+      "translations": {
+        "en": "I wear a dress.",
+        "zh": "我穿洋装。"
+      },
+      "linked_words": [
+        {
+          "guid": "N09_003",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ chuān yáng zhuāng 。",
+      "source": "pattern:clothing_accessory_02"
+    },
+    {
+      "sentence_id": 98,
+      "translations": {
+        "en": "I like red (color).",
+        "zh": "我喜欢红色。"
+      },
+      "linked_words": [
+        {
+          "guid": "V05_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A02_003",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ xǐ huān hóng sè 。",
+      "source": "pattern:color_01"
+    },
+    {
+      "sentence_id": 99,
+      "translations": {
+        "en": "It is red",
+        "zh": "它是红色"
+      },
+      "linked_words": [
+        {
+          "guid": "A02_003",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā shì hóng sè",
+      "source": "pattern:color_02"
+    },
+    {
+      "sentence_id": 103,
+      "translations": {
+        "en": "I want a jacket",
+        "zh": "我想要夹克"
+      },
+      "linked_words": [
+        {
+          "guid": "V05_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_005",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ xiǎng yào jiá kè",
+      "source": "pattern:clothing_accessory_01"
+    },
+    {
+      "sentence_id": 104,
+      "translations": {
+        "en": "I wear a jacket",
+        "zh": "我穿夹克"
+      },
+      "linked_words": [
+        {
+          "guid": "N09_005",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ chuān jiá kè",
+      "source": "pattern:clothing_accessory_02"
+    },
+    {
+      "sentence_id": 108,
+      "translations": {
+        "en": "I want a pair of shoes.",
+        "zh": "我想要一双鞋子。"
+      },
+      "linked_words": [
+        {
+          "guid": "V05_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_006",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ xiǎng yào yī shuāng xié zi 。",
+      "source": "pattern:clothing_accessory_01"
+    },
+    {
+      "sentence_id": 109,
+      "translations": {
+        "en": "I wear shoes.",
+        "zh": "我穿鞋子。"
+      },
+      "linked_words": [
+        {
+          "guid": "N09_006",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ chuān xié zi 。",
+      "source": "pattern:clothing_accessory_02"
+    },
+    {
+      "sentence_id": 113,
+      "translations": {
+        "en": "I want socks.",
+        "zh": "我想要袜子。"
+      },
+      "linked_words": [
+        {
+          "guid": "V05_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_007",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ xiǎng yào wà zi 。",
+      "source": "pattern:clothing_accessory_01"
+    },
+    {
+      "sentence_id": 114,
+      "translations": {
+        "en": "I wear socks.",
+        "zh": "我穿袜子。"
+      },
+      "linked_words": [
+        {
+          "guid": "N09_007",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ chuān wà zi 。",
+      "source": "pattern:clothing_accessory_02"
+    },
+    {
+      "sentence_id": 118,
+      "translations": {
+        "en": "I eat a tomato.",
+        "zh": "我吃番茄。"
+      },
+      "linked_words": [
+        {
+          "guid": "V01_006",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_018",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ chī fān qié 。",
+      "source": "pattern:food_01"
+    },
+    {
+      "sentence_id": 119,
+      "translations": {
+        "en": "I like tomatoes.",
+        "zh": "我喜欢番茄。"
+      },
+      "linked_words": [
+        {
+          "guid": "V05_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_018",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ xǐ huān fān qié 。",
+      "source": "pattern:food_02"
+    },
+    {
+      "sentence_id": 123,
+      "translations": {
+        "en": "I see the horse.",
+        "zh": "我看见马。"
+      },
+      "linked_words": [
+        {
+          "guid": "V10_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N02_004",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ kàn jiàn mǎ 。",
+      "source": "pattern:animal_01",
+      "audio": {
+        "ash": "a3249b81fd416c24bbba2634ed6a52b0",
+        "alloy": "a1ce93027460a37ec82af7c68efa6299",
+        "nova": "cf10da15340085455c9f6988335e1153"
+      }
+    },
+    {
+      "sentence_id": 124,
+      "translations": {
+        "en": "The horse drinks water.",
+        "zh": "马喝水。"
+      },
+      "linked_words": [
+        {
+          "guid": "N02_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N42_001",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "mǎ hē shuǐ 。",
+      "source": "pattern:animal_02",
+      "audio": {
+        "ash": "8de60f4e56a3e8849c5601fe154953c4",
+        "alloy": "af9fe1359a0728f4882dd73fac46eb89",
+        "nova": "71ba1761a316bae6d0a46687d6c0513c"
+      }
+    },
+    {
+      "sentence_id": 128,
+      "translations": {
+        "en": "Where is the watch?",
+        "zh": "手表在哪里？"
+      },
+      "linked_words": [
+        {
+          "guid": "N08_008",
+          "grammatical_form": null
+        },
+        {
+          "guid": "P99_003",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "shǒu biǎo zài nǎ lǐ ？",
+      "source": "pattern:where_is_object"
+    },
+    {
+      "sentence_id": 129,
+      "translations": {
+        "en": "What is this watch?",
+        "zh": "这是什么手表？"
+      },
+      "linked_words": [
+        {
+          "guid": "N08_008",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "zhè shì shén me shǒu biǎo ？",
+      "source": "pattern:what_is_this_object"
+    },
+    {
+      "sentence_id": 130,
+      "translations": {
+        "en": "This is a watch.",
+        "zh": "这是一只手表。"
+      },
+      "linked_words": [
+        {
+          "guid": "N08_008",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "zhè shì yī zhī shǒu biǎo 。",
+      "source": "pattern:this_is_object"
+    },
+    {
+      "sentence_id": 131,
+      "translations": {
+        "en": "How many watches?",
+        "zh": "多少只手表？"
+      },
+      "linked_words": [
+        {
+          "guid": "N08_008",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "duō shǎo zhǐ shǒu biǎo ？",
+      "source": "pattern:how_many_objects"
+    },
+    {
+      "sentence_id": 135,
+      "translations": {
+        "en": "Where is the bag?",
+        "zh": "包在哪儿？"
+      },
+      "linked_words": [
+        {
+          "guid": "N08_009",
+          "grammatical_form": null
+        },
+        {
+          "guid": "P99_003",
+          "grammatical_form": "pronoun/zh_subjective"
+        }
+      ],
+      "pinyin": "bāo zài nǎ ér ？",
+      "source": "pattern:where_is_object",
+      "audio": {
+        "ash": "fb6db9246f136f60dc9ecdd6a84225dd",
+        "alloy": "cd206842f0cefec73b1fa2b585a184ad",
+        "nova": "3f0a84c5bdb96f63394ea43e1d07427f"
+      }
+    },
+    {
+      "sentence_id": 136,
+      "translations": {
+        "en": "What is this bag?",
+        "zh": "这个袋子是什么？"
+      },
+      "linked_words": [
+        {
+          "guid": "N08_009",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "zhè gè dài zi shì shén me ？",
+      "source": "pattern:what_is_this_object",
+      "audio": {
+        "ash": "5df7edb5eaae2ec27b2d28acb163153a",
+        "alloy": "f411fd88deb6d23831ca7f521db57ea7",
+        "nova": "051c9484a3f77e21e33aa4fa784ab042"
+      }
+    },
+    {
+      "sentence_id": 137,
+      "translations": {
+        "en": "This is a bag.",
+        "zh": "这是袋子。"
+      },
+      "linked_words": [
+        {
+          "guid": "N08_009",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "zhè shì dài zi 。",
+      "source": "pattern:this_is_object",
+      "audio": {
+        "ash": "50ccb668a78e92f7ce58ad8990bb4752",
+        "alloy": "526dd4efafca5ee89b4b26e3590c1ea2",
+        "nova": "9bf680165d8e830b01be657b0a6de403"
+      }
+    },
+    {
+      "sentence_id": 138,
+      "translations": {
+        "en": "How many bags?",
+        "zh": "多少个袋子？"
+      },
+      "linked_words": [
+        {
+          "guid": "N08_009",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "duō shǎo gè dài zi ？",
+      "source": "pattern:how_many_objects",
+      "audio": {
+        "ash": "3ac812e89c560085675be1dfb4aa591f",
+        "alloy": "6fd9b0419a40407badc61990cc50b25a",
+        "nova": "3eb160006ea9f0e7a977a07032a822dd"
+      }
+    },
+    {
+      "sentence_id": 142,
+      "translations": {
+        "en": "The chair is here.",
+        "zh": "椅子在这里。"
+      },
+      "linked_words": [
+        {
+          "guid": "N39_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "D07_006",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "yǐ zi zài zhè lǐ 。",
+      "source": "pattern:the_furniture_is_here"
+    },
+    {
+      "sentence_id": 146,
+      "translations": {
+        "en": "I see the bear.",
+        "zh": "我看见熊。"
+      },
+      "linked_words": [
+        {
+          "guid": "V10_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N02_009",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ kàn jiàn xióng 。",
+      "source": "pattern:animal_01"
+    },
+    {
+      "sentence_id": 147,
+      "translations": {
+        "en": "The bear drinks water.",
+        "zh": "熊在喝水。"
+      },
+      "linked_words": [
+        {
+          "guid": "N02_009",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N42_001",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "xióng zài hē shuǐ 。",
+      "source": "pattern:animal_02"
+    },
+    {
+      "sentence_id": 183,
+      "translations": {
+        "en": "I need coffee every morning.",
+        "zh": "我每天早上需要咖啡。"
+      },
+      "linked_words": [
+        {
+          "guid": "N42_002",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ měi tiān zǎo shàng xū yào kā fēi 。",
+      "source": "buivolas_N42_002",
+      "minimum_level": 7
+    }
+  ]
 }

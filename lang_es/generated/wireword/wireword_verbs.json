@@ -1,55 +1,5 @@
 [
   {
-    "guid": "V01_001",
-    "base_target": "vivir",
-    "base_english": "live",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 6,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_6"]
-  },
-  {
-    "guid": "V01_002",
-    "base_target": "jugar",
-    "base_english": "play (game)",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 6,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_6"]
-  },
-  {
-    "guid": "V01_003",
-    "base_target": "trabajar",
-    "base_english": "work (do a job)",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 6,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_6"]
-  },
-  {
-    "guid": "V01_004",
-    "base_target": "beber",
-    "base_english": "drink",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 6,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_6"]
-  },
-  {
-    "guid": "V01_005",
-    "base_target": "dormir",
-    "base_english": "sleep",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 6,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_6"]
-  },
-  {
     "guid": "V01_006",
     "base_target": "comer",
     "base_english": "eat",
@@ -58,206 +8,6 @@
     "level": 6,
     "word_type": "verb",
     "tags": ["physical_action", "level_6"]
-  },
-  {
-    "guid": "V01_007",
-    "base_target": "recibir",
-    "base_english": "get (receive)",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 12,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_12"]
-  },
-  {
-    "guid": "V01_008",
-    "base_target": "mirar",
-    "base_english": "look",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 12,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_12"]
-  },
-  {
-    "guid": "V01_009",
-    "base_target": "encontrar",
-    "base_english": "find",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 12,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_12"]
-  },
-  {
-    "guid": "V01_010",
-    "base_target": "poner",
-    "base_english": "put",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 12,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_12"]
-  },
-  {
-    "guid": "V01_013",
-    "base_target": "usar",
-    "base_english": "use",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 12,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_12"]
-  },
-  {
-    "guid": "V01_019",
-    "base_target": "sostener",
-    "base_english": "hold",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 12,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_12"]
-  },
-  {
-    "guid": "V01_054",
-    "base_target": "llevar",
-    "base_english": "wear (clothes)",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 12,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_12"]
-  },
-  {
-    "guid": "V01_056",
-    "base_target": "sentarse",
-    "base_english": "sit",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 12,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_12"]
-  },
-  {
-    "guid": "V01_057",
-    "base_target": "estar de pie",
-    "base_english": "stand (be upright)",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 12,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_12"]
-  },
-  {
-    "guid": "V01_061",
-    "base_target": "transportar",
-    "base_english": "carry (transport)",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 12,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_12"]
-  },
-  {
-    "guid": "V01_068",
-    "base_target": "tocar",
-    "base_english": "touch (physical)",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 12,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_12"]
-  },
-  {
-    "guid": "V01_078",
-    "base_target": "observar",
-    "base_english": "watch (observe)",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 12,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_12"]
-  },
-  {
-    "guid": "V01_097",
-    "base_target": "abrir",
-    "base_english": "open",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 12,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_12"]
-  },
-  {
-    "guid": "V04_001",
-    "base_target": "aprender",
-    "base_english": "learn",
-    "corpus": "VERBS",
-    "group": "Mental State",
-    "level": 10,
-    "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
-  },
-  {
-    "guid": "V04_002",
-    "base_target": "enseñar",
-    "base_english": "teach",
-    "corpus": "VERBS",
-    "group": "Mental State",
-    "level": 10,
-    "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
-  },
-  {
-    "guid": "V04_003",
-    "base_target": "leer",
-    "base_english": "read",
-    "corpus": "VERBS",
-    "group": "Mental State",
-    "level": 10,
-    "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
-  },
-  {
-    "guid": "V04_004",
-    "base_target": "escribir",
-    "base_english": "write",
-    "corpus": "VERBS",
-    "group": "Mental State",
-    "level": 10,
-    "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
-  },
-  {
-    "guid": "V04_005",
-    "base_target": "escuchar",
-    "base_english": "listen",
-    "corpus": "VERBS",
-    "group": "Mental State",
-    "level": 10,
-    "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
-  },
-  {
-    "guid": "V04_006",
-    "base_target": "saber",
-    "base_english": "know",
-    "corpus": "VERBS",
-    "group": "Mental State",
-    "level": 10,
-    "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
-  },
-  {
-    "guid": "V04_007",
-    "base_target": "ver",
-    "base_english": "see",
-    "corpus": "VERBS",
-    "group": "Mental State",
-    "level": 10,
-    "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
   },
   {
     "guid": "V05_001",
@@ -270,66 +20,6 @@
     "tags": ["emotional_state", "level_6"]
   },
   {
-    "guid": "V05_002",
-    "base_target": "hablar",
-    "base_english": "speak",
-    "corpus": "VERBS",
-    "group": "Emotional State",
-    "level": 6,
-    "word_type": "verb",
-    "tags": ["emotional_state", "level_6"]
-  },
-  {
-    "guid": "V05_003",
-    "base_target": "poder",
-    "base_english": "be able/can",
-    "corpus": "VERBS",
-    "group": "Emotional State",
-    "level": 6,
-    "word_type": "verb",
-    "tags": ["emotional_state", "level_6"]
-  },
-  {
-    "guid": "V05_004",
-    "base_target": "querer",
-    "base_english": "want",
-    "corpus": "VERBS",
-    "group": "Emotional State",
-    "level": 6,
-    "word_type": "verb",
-    "tags": ["emotional_state", "level_6"]
-  },
-  {
-    "guid": "V06_001",
-    "base_target": "ser",
-    "base_english": "be",
-    "corpus": "VERBS",
-    "group": "Possession",
-    "level": 3,
-    "word_type": "verb",
-    "tags": ["possession", "level_3"]
-  },
-  {
-    "guid": "V06_002",
-    "base_target": "tener",
-    "base_english": "have",
-    "corpus": "VERBS",
-    "group": "Possession",
-    "level": 6,
-    "word_type": "verb",
-    "tags": ["possession", "level_6"]
-  },
-  {
-    "guid": "V06_003",
-    "base_target": "ganar",
-    "base_english": "make (earn)",
-    "corpus": "VERBS",
-    "group": "Possession",
-    "level": 6,
-    "word_type": "verb",
-    "tags": ["possession", "level_6"]
-  },
-  {
     "guid": "V06_004",
     "base_target": "comprar",
     "base_english": "buy",
@@ -337,126 +27,27 @@
     "group": "Possession",
     "level": 6,
     "word_type": "verb",
-    "tags": ["possession", "level_6"]
-  },
-  {
-    "guid": "V06_005",
-    "base_target": "dar",
-    "base_english": "give",
-    "corpus": "VERBS",
-    "group": "Possession",
-    "level": 6,
-    "word_type": "verb",
-    "tags": ["possession", "level_6"]
-  },
-  {
-    "guid": "V06_006",
-    "base_target": "coger",
-    "base_english": "take",
-    "corpus": "VERBS",
-    "group": "Possession",
-    "level": 6,
-    "word_type": "verb",
-    "tags": ["possession", "level_6"]
-  },
-  {
-    "guid": "V10_001",
-    "base_target": "ver",
-    "base_english": "see",
-    "corpus": "VERBS",
-    "group": "Perception",
-    "level": 12,
-    "word_type": "verb",
-    "tags": ["perception", "level_12"]
-  },
-  {
-    "guid": "V12_001",
-    "base_target": "caminar",
-    "base_english": "walk (go on foot)",
-    "corpus": "VERBS",
-    "group": "Directional Movement",
-    "level": 10,
-    "word_type": "verb",
-    "tags": ["directional_movement", "level_10"]
-  },
-  {
-    "guid": "V12_002",
-    "base_target": "conducir",
-    "base_english": "drive (travel by vehicle)",
-    "corpus": "VERBS",
-    "group": "Directional Movement",
-    "level": 10,
-    "word_type": "verb",
-    "tags": ["directional_movement", "level_10"]
-  },
-  {
-    "guid": "V12_003",
-    "base_target": "correr",
-    "base_english": "run (move quickly)",
-    "corpus": "VERBS",
-    "group": "Directional Movement",
-    "level": 10,
-    "word_type": "verb",
-    "tags": ["directional_movement", "level_10"]
-  },
-  {
-    "guid": "V12_004",
-    "base_target": "avanzar",
-    "base_english": "proceed (go forward)",
-    "corpus": "VERBS",
-    "group": "Directional Movement",
-    "level": 10,
-    "word_type": "verb",
-    "tags": ["directional_movement", "level_10"]
-  },
-  {
-    "guid": "V12_005",
-    "base_target": "venir",
-    "base_english": "come",
-    "corpus": "VERBS",
-    "group": "Directional Movement",
-    "level": 10,
-    "word_type": "verb",
-    "tags": ["directional_movement", "level_10"]
-  },
-  {
-    "guid": "V12_006",
-    "base_target": "volver",
-    "base_english": "return",
-    "corpus": "VERBS",
-    "group": "Directional Movement",
-    "level": 10,
-    "word_type": "verb",
-    "tags": ["directional_movement", "level_10"]
-  },
-  {
-    "guid": "V12_010",
-    "base_target": "moverse",
-    "base_english": "move",
-    "corpus": "VERBS",
-    "group": "Directional Movement",
-    "level": 12,
-    "word_type": "verb",
-    "tags": ["directional_movement", "level_12"]
-  },
-  {
-    "guid": "V12_013",
-    "base_target": "traer",
-    "base_english": "bring",
-    "corpus": "VERBS",
-    "group": "Directional Movement",
-    "level": 12,
-    "word_type": "verb",
-    "tags": ["directional_movement", "level_12"]
-  },
-  {
-    "guid": "V12_025",
-    "base_target": "entrar",
-    "base_english": "enter",
-    "corpus": "VERBS",
-    "group": "Directional Movement",
-    "level": 12,
-    "word_type": "verb",
-    "tags": ["directional_movement", "level_12"]
+    "english_synonyms": ["acquire", "buy into", "get", "pay for", "pick up", "procure", "purchase", "secure", "shop for", "snap up"],
+    "target_synonyms": ["adquirir", "adquirir en tienda", "adquirir online", "comprar a crédito", "comprar en efectivo", "comprar online", "comprar por internet", "comprarse", "conseguir", "hacer la compra", "obtener", "pillar"],
+    "tags": ["possession", "level_6"],
+    "grammatical_forms": {
+      "1p_future": {"level": 6, "target": "compraremos", "english": "buy (verb es 1p future)"},
+      "1p_past": {"level": 6, "target": "compramos", "english": "buy (verb es 1p past)"},
+      "1p_present": {"level": 6, "target": "compramos", "english": "buy (verb es 1p present)"},
+      "1s_future": {"level": 6, "target": "compraré", "english": "buy (verb es 1s future)"},
+      "1s_past": {"level": 6, "target": "compré", "english": "buy (verb es 1s past)"},
+      "2p_future": {"level": 6, "target": "compraréis", "english": "buy (verb es 2p future)"},
+      "2p_past": {"level": 6, "target": "comprasteis", "english": "buy (verb es 2p past)"},
+      "2p_present": {"level": 6, "target": "compráis", "english": "buy (verb es 2p present)"},
+      "2s_future": {"level": 6, "target": "comprarás", "english": "buy (verb es 2s future)"},
+      "2s_past": {"level": 6, "target": "compraste", "english": "buy (verb es 2s past)"},
+      "2s_present": {"level": 6, "target": "compras", "english": "buy (verb es 2s present)"},
+      "3p_future": {"level": 6, "target": "comprarán", "english": "buy (verb es 3p future)"},
+      "3p_past": {"level": 6, "target": "compraron", "english": "buy (verb es 3p past)"},
+      "3p_present": {"level": 6, "target": "compran", "english": "buy (verb es 3p present)"},
+      "3s_future": {"level": 6, "target": "comprará", "english": "buy (verb es 3s future)"},
+      "3s_past": {"level": 6, "target": "compró", "english": "buy (verb es 3s past)"},
+      "3s_present": {"level": 6, "target": "compra", "english": "buy (verb es 3s present)"}
+    }
   }
 ]
