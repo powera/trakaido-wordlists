@@ -5,9 +5,9 @@
     "base_english": "eat",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 1,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_1"]
   },
   {
     "guid": "V01_002",
@@ -15,9 +15,9 @@
     "base_english": "drink",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 1,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_1"]
   },
   {
     "guid": "V01_003",
@@ -25,9 +25,9 @@
     "base_english": "sleep",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 2,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_2"]
   },
   {
     "guid": "V01_004",
@@ -35,9 +35,9 @@
     "base_english": "wake",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_17"]
   },
   {
     "guid": "V01_005",
@@ -45,9 +45,9 @@
     "base_english": "breathe",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_20"]
   },
   {
     "guid": "V01_006",
@@ -55,9 +55,9 @@
     "base_english": "play",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 6,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_6"]
   },
   {
     "guid": "V01_007",
@@ -65,9 +65,9 @@
     "base_english": "work",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 6,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_6"]
   },
   {
     "guid": "V01_008",
@@ -85,9 +85,9 @@
     "base_english": "find",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 6,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_6"]
   },
   {
     "guid": "V01_010",
@@ -95,9 +95,9 @@
     "base_english": "put",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 6,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_6"]
   },
   {
     "guid": "V01_011",
@@ -105,9 +105,9 @@
     "base_english": "keep",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_17"]
   },
   {
     "guid": "V01_012",
@@ -115,9 +115,9 @@
     "base_english": "use",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 12,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_12"]
   },
   {
     "guid": "V01_013",
@@ -125,9 +125,9 @@
     "base_english": "help",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_17"]
   },
   {
     "guid": "V01_014",
@@ -135,9 +135,9 @@
     "base_english": "open",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 5,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_5"]
   },
   {
     "guid": "V01_015",
@@ -145,9 +145,9 @@
     "base_english": "close",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 5,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_5"]
   },
   {
     "guid": "V01_016",
@@ -155,9 +155,9 @@
     "base_english": "stop",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_17"]
   },
   {
     "guid": "V01_017",
@@ -165,9 +165,9 @@
     "base_english": "try",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_17"]
   },
   {
     "guid": "V01_018",
@@ -175,9 +175,9 @@
     "base_english": "hold",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_17"]
   },
   {
     "guid": "V01_019",
@@ -185,9 +185,9 @@
     "base_english": "catch",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_17"]
   },
   {
     "guid": "V01_020",
@@ -195,9 +195,9 @@
     "base_english": "throw",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_17"]
   },
   {
     "guid": "V01_021",
@@ -205,9 +205,9 @@
     "base_english": "pull",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_17"]
   },
   {
     "guid": "V01_022",
@@ -215,9 +215,9 @@
     "base_english": "push",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_17"]
   },
   {
     "guid": "V01_023",
@@ -225,9 +225,9 @@
     "base_english": "lift",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_20"]
   },
   {
     "guid": "V01_024",
@@ -235,9 +235,9 @@
     "base_english": "drop",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_20"]
   },
   {
     "guid": "V01_025",
@@ -245,9 +245,9 @@
     "base_english": "carry",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_17"]
   },
   {
     "guid": "V01_026",
@@ -255,9 +255,9 @@
     "base_english": "touch",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_17"]
   },
   {
     "guid": "V01_027",
@@ -265,9 +265,9 @@
     "base_english": "hit",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_17"]
   },
   {
     "guid": "V01_028",
@@ -275,9 +275,9 @@
     "base_english": "cut",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_17"]
   },
   {
     "guid": "V01_029",
@@ -285,9 +285,9 @@
     "base_english": "break",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_17"]
   },
   {
     "guid": "V01_030",
@@ -295,9 +295,9 @@
     "base_english": "burn",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_20"]
   },
   {
     "guid": "V01_031",
@@ -305,9 +305,9 @@
     "base_english": "wear",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 3,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_3"]
   },
   {
     "guid": "V01_032",
@@ -315,9 +315,9 @@
     "base_english": "sit",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 3,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_3"]
   },
   {
     "guid": "V01_033",
@@ -325,9 +325,9 @@
     "base_english": "stand",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 3,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_3"]
   },
   {
     "guid": "V01_034",
@@ -335,9 +335,9 @@
     "base_english": "lie",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_17"]
   },
   {
     "guid": "V01_035",
@@ -345,9 +345,9 @@
     "base_english": "bend",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_20"]
   },
   {
     "guid": "V01_036",
@@ -355,9 +355,9 @@
     "base_english": "shake",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_20"]
   },
   {
     "guid": "V01_037",
@@ -365,9 +365,9 @@
     "base_english": "hide",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_17"]
   },
   {
     "guid": "V01_038",
@@ -375,9 +375,9 @@
     "base_english": "show",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_17"]
   },
   {
     "guid": "V01_039",
@@ -385,9 +385,9 @@
     "base_english": "cover",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_20"]
   },
   {
     "guid": "V01_040",
@@ -395,9 +395,9 @@
     "base_english": "hang",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_20"]
   },
   {
     "guid": "V01_041",
@@ -405,9 +405,9 @@
     "base_english": "wait",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_17"]
   },
   {
     "guid": "V01_042",
@@ -415,9 +415,9 @@
     "base_english": "meet",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_17"]
   },
   {
     "guid": "V01_043",
@@ -425,9 +425,9 @@
     "base_english": "join",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_20"]
   },
   {
     "guid": "V01_044",
@@ -435,9 +435,9 @@
     "base_english": "fit",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_20"]
   },
   {
     "guid": "V01_045",
@@ -445,9 +445,9 @@
     "base_english": "lose",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_17"]
   },
   {
     "guid": "V01_046",
@@ -455,9 +455,9 @@
     "base_english": "win",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_17"]
   },
   {
     "guid": "V01_047",
@@ -465,9 +465,9 @@
     "base_english": "save",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_20"]
   },
   {
     "guid": "V01_048",
@@ -475,9 +475,9 @@
     "base_english": "hurt",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_17"]
   },
   {
     "guid": "V01_049",
@@ -485,9 +485,9 @@
     "base_english": "die",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_17"]
   },
   {
     "guid": "V01_050",
@@ -495,9 +495,9 @@
     "base_english": "kill",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_20"]
   },
   {
     "guid": "V01_051",
@@ -505,9 +505,9 @@
     "base_english": "fight",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_20"]
   },
   {
     "guid": "V01_052",
@@ -515,9 +515,9 @@
     "base_english": "point",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_17"]
   },
   {
     "guid": "V01_053",
@@ -525,9 +525,9 @@
     "base_english": "spread",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_20"]
   },
   {
     "guid": "V01_054",
@@ -535,9 +535,9 @@
     "base_english": "slip",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_20"]
   },
   {
     "guid": "V01_055",
@@ -545,9 +545,9 @@
     "base_english": "add",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_17"]
   },
   {
     "guid": "V01_056",
@@ -555,9 +555,9 @@
     "base_english": "shoot",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_20"]
   },
   {
     "guid": "V01_057",
@@ -565,9 +565,9 @@
     "base_english": "draw",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_17"]
   },
   {
     "guid": "V01_058",
@@ -575,9 +575,9 @@
     "base_english": "pick",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_17"]
   },
   {
     "guid": "V01_059",
@@ -585,9 +585,9 @@
     "base_english": "destroy",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["physical_action", "level_10"]
+    "tags": ["physical_action", "level_20"]
   },
   {
     "guid": "V04_001",
@@ -605,9 +605,9 @@
     "base_english": "teach",
     "corpus": "VERBS",
     "group": "Mental State",
-    "level": 10,
+    "level": 12,
     "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
+    "tags": ["mental_state", "level_12"]
   },
   {
     "guid": "V04_003",
@@ -615,9 +615,9 @@
     "base_english": "read",
     "corpus": "VERBS",
     "group": "Mental State",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
+    "tags": ["mental_state", "level_17"]
   },
   {
     "guid": "V04_004",
@@ -625,9 +625,9 @@
     "base_english": "write",
     "corpus": "VERBS",
     "group": "Mental State",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
+    "tags": ["mental_state", "level_17"]
   },
   {
     "guid": "V04_005",
@@ -635,9 +635,9 @@
     "base_english": "listen",
     "corpus": "VERBS",
     "group": "Mental State",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
+    "tags": ["mental_state", "level_17"]
   },
   {
     "guid": "V04_006",
@@ -655,9 +655,9 @@
     "base_english": "see",
     "corpus": "VERBS",
     "group": "Mental State",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
+    "tags": ["mental_state", "level_17"]
   },
   {
     "guid": "V04_008",
@@ -675,9 +675,9 @@
     "base_english": "let",
     "corpus": "VERBS",
     "group": "Mental State",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
+    "tags": ["mental_state", "level_17"]
   },
   {
     "guid": "V04_010",
@@ -695,9 +695,9 @@
     "base_english": "mean",
     "corpus": "VERBS",
     "group": "Mental State",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
+    "tags": ["mental_state", "level_17"]
   },
   {
     "guid": "V04_012",
@@ -705,9 +705,9 @@
     "base_english": "remember",
     "corpus": "VERBS",
     "group": "Mental State",
-    "level": 10,
+    "level": 12,
     "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
+    "tags": ["mental_state", "level_12"]
   },
   {
     "guid": "V04_013",
@@ -725,9 +725,9 @@
     "base_english": "wish",
     "corpus": "VERBS",
     "group": "Mental State",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
+    "tags": ["mental_state", "level_17"]
   },
   {
     "guid": "V04_015",
@@ -735,9 +735,9 @@
     "base_english": "believe",
     "corpus": "VERBS",
     "group": "Mental State",
-    "level": 10,
+    "level": 12,
     "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
+    "tags": ["mental_state", "level_12"]
   },
   {
     "guid": "V04_016",
@@ -745,9 +745,9 @@
     "base_english": "wonder",
     "corpus": "VERBS",
     "group": "Mental State",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
+    "tags": ["mental_state", "level_17"]
   },
   {
     "guid": "V04_017",
@@ -755,9 +755,9 @@
     "base_english": "become",
     "corpus": "VERBS",
     "group": "Mental State",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
+    "tags": ["mental_state", "level_17"]
   },
   {
     "guid": "V04_018",
@@ -765,19 +765,9 @@
     "base_english": "seem",
     "corpus": "VERBS",
     "group": "Mental State",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
-  },
-  {
-    "guid": "V04_019",
-    "base_target": "suponer",
-    "base_english": "suppose",
-    "corpus": "VERBS",
-    "group": "Mental State",
-    "level": 10,
-    "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
+    "tags": ["mental_state", "level_17"]
   },
   {
     "guid": "V04_020",
@@ -785,9 +775,9 @@
     "base_english": "guess",
     "corpus": "VERBS",
     "group": "Mental State",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
+    "tags": ["mental_state", "level_20"]
   },
   {
     "guid": "V04_021",
@@ -795,9 +785,9 @@
     "base_english": "forget",
     "corpus": "VERBS",
     "group": "Mental State",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
+    "tags": ["mental_state", "level_20"]
   },
   {
     "guid": "V04_022",
@@ -805,9 +795,9 @@
     "base_english": "expect",
     "corpus": "VERBS",
     "group": "Mental State",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
+    "tags": ["mental_state", "level_17"]
   },
   {
     "guid": "V04_023",
@@ -815,9 +805,9 @@
     "base_english": "happen",
     "corpus": "VERBS",
     "group": "Mental State",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
+    "tags": ["mental_state", "level_17"]
   },
   {
     "guid": "V04_024",
@@ -825,9 +815,9 @@
     "base_english": "count",
     "corpus": "VERBS",
     "group": "Mental State",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
+    "tags": ["mental_state", "level_20"]
   },
   {
     "guid": "V04_025",
@@ -835,9 +825,9 @@
     "base_english": "notice",
     "corpus": "VERBS",
     "group": "Mental State",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
+    "tags": ["mental_state", "level_17"]
   },
   {
     "guid": "V04_026",
@@ -845,9 +835,9 @@
     "base_english": "accept",
     "corpus": "VERBS",
     "group": "Mental State",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
+    "tags": ["mental_state", "level_17"]
   },
   {
     "guid": "V04_027",
@@ -855,9 +845,9 @@
     "base_english": "choose",
     "corpus": "VERBS",
     "group": "Mental State",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
+    "tags": ["mental_state", "level_17"]
   },
   {
     "guid": "V04_028",
@@ -865,19 +855,9 @@
     "base_english": "imagine",
     "corpus": "VERBS",
     "group": "Mental State",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
-  },
-  {
-    "guid": "V04_029",
-    "base_target": "atreverse",
-    "base_english": "dare",
-    "corpus": "VERBS",
-    "group": "Mental State",
-    "level": 10,
-    "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
+    "tags": ["mental_state", "level_20"]
   },
   {
     "guid": "V04_030",
@@ -885,9 +865,9 @@
     "base_english": "realize",
     "corpus": "VERBS",
     "group": "Mental State",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
+    "tags": ["mental_state", "level_17"]
   },
   {
     "guid": "V04_031",
@@ -895,9 +875,9 @@
     "base_english": "consider",
     "corpus": "VERBS",
     "group": "Mental State",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
+    "tags": ["mental_state", "level_17"]
   },
   {
     "guid": "V04_032",
@@ -905,9 +885,9 @@
     "base_english": "study",
     "corpus": "VERBS",
     "group": "Mental State",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
+    "tags": ["mental_state", "level_17"]
   },
   {
     "guid": "V04_033",
@@ -915,9 +895,9 @@
     "base_english": "decide",
     "corpus": "VERBS",
     "group": "Mental State",
-    "level": 10,
+    "level": 12,
     "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
+    "tags": ["mental_state", "level_12"]
   },
   {
     "guid": "V04_034",
@@ -925,9 +905,9 @@
     "base_english": "recognize",
     "corpus": "VERBS",
     "group": "Mental State",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
+    "tags": ["mental_state", "level_17"]
   },
   {
     "guid": "V04_035",
@@ -935,39 +915,9 @@
     "base_english": "agree",
     "corpus": "VERBS",
     "group": "Mental State",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
-  },
-  {
-    "guid": "V04_036",
-    "base_target": "asentir",
-    "base_english": "nod",
-    "corpus": "VERBS",
-    "group": "Mental State",
-    "level": 10,
-    "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
-  },
-  {
-    "guid": "V04_037",
-    "base_target": "mirar fijamente",
-    "base_english": "stare",
-    "corpus": "VERBS",
-    "group": "Mental State",
-    "level": 10,
-    "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
-  },
-  {
-    "guid": "V04_038",
-    "base_target": "echar un vistazo",
-    "base_english": "glance",
-    "corpus": "VERBS",
-    "group": "Mental State",
-    "level": 10,
-    "word_type": "verb",
-    "tags": ["mental_state", "level_10"]
+    "tags": ["mental_state", "level_17"]
   },
   {
     "guid": "V05_001",
@@ -995,9 +945,9 @@
     "base_english": "hate",
     "corpus": "VERBS",
     "group": "Emotional State",
-    "level": 10,
+    "level": 12,
     "word_type": "verb",
-    "tags": ["emotional_state", "level_10"]
+    "tags": ["emotional_state", "level_12"]
   },
   {
     "guid": "V05_004",
@@ -1025,9 +975,9 @@
     "base_english": "cry",
     "corpus": "VERBS",
     "group": "Emotional State",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["emotional_state", "level_10"]
+    "tags": ["emotional_state", "level_17"]
   },
   {
     "guid": "V05_007",
@@ -1035,9 +985,9 @@
     "base_english": "smile",
     "corpus": "VERBS",
     "group": "Emotional State",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["emotional_state", "level_10"]
+    "tags": ["emotional_state", "level_17"]
   },
   {
     "guid": "V05_008",
@@ -1045,9 +995,9 @@
     "base_english": "miss",
     "corpus": "VERBS",
     "group": "Emotional State",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["emotional_state", "level_10"]
+    "tags": ["emotional_state", "level_17"]
   },
   {
     "guid": "V05_009",
@@ -1055,9 +1005,9 @@
     "base_english": "worry",
     "corpus": "VERBS",
     "group": "Emotional State",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["emotional_state", "level_10"]
+    "tags": ["emotional_state", "level_17"]
   },
   {
     "guid": "V05_010",
@@ -1065,9 +1015,9 @@
     "base_english": "laugh",
     "corpus": "VERBS",
     "group": "Emotional State",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["emotional_state", "level_10"]
+    "tags": ["emotional_state", "level_17"]
   },
   {
     "guid": "V05_011",
@@ -1075,9 +1025,9 @@
     "base_english": "hope",
     "corpus": "VERBS",
     "group": "Emotional State",
-    "level": 10,
+    "level": 12,
     "word_type": "verb",
-    "tags": ["emotional_state", "level_10"]
+    "tags": ["emotional_state", "level_12"]
   },
   {
     "guid": "V05_012",
@@ -1085,9 +1035,9 @@
     "base_english": "fear",
     "corpus": "VERBS",
     "group": "Emotional State",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["emotional_state", "level_10"]
+    "tags": ["emotional_state", "level_17"]
   },
   {
     "guid": "V05_013",
@@ -1095,9 +1045,9 @@
     "base_english": "enjoy",
     "corpus": "VERBS",
     "group": "Emotional State",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["emotional_state", "level_10"]
+    "tags": ["emotional_state", "level_17"]
   },
   {
     "guid": "V05_014",
@@ -1105,9 +1055,9 @@
     "base_english": "suffer",
     "corpus": "VERBS",
     "group": "Emotional State",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["emotional_state", "level_10"]
+    "tags": ["emotional_state", "level_20"]
   },
   {
     "guid": "V05_015",
@@ -1115,9 +1065,9 @@
     "base_english": "surprise",
     "corpus": "VERBS",
     "group": "Emotional State",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["emotional_state", "level_10"]
+    "tags": ["emotional_state", "level_20"]
   },
   {
     "guid": "V05_016",
@@ -1125,9 +1075,9 @@
     "base_english": "trust",
     "corpus": "VERBS",
     "group": "Emotional State",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["emotional_state", "level_10"]
+    "tags": ["emotional_state", "level_20"]
   },
   {
     "guid": "V05_017",
@@ -1135,9 +1085,9 @@
     "base_english": "prefer",
     "corpus": "VERBS",
     "group": "Emotional State",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["emotional_state", "level_10"]
+    "tags": ["emotional_state", "level_20"]
   },
   {
     "guid": "V05_018",
@@ -1145,9 +1095,9 @@
     "base_english": "regret",
     "corpus": "VERBS",
     "group": "Emotional State",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["emotional_state", "level_10"]
+    "tags": ["emotional_state", "level_20"]
   },
   {
     "guid": "V05_019",
@@ -1155,9 +1105,9 @@
     "base_english": "care",
     "corpus": "VERBS",
     "group": "Emotional State",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["emotional_state", "level_10"]
+    "tags": ["emotional_state", "level_17"]
   },
   {
     "guid": "V05_020",
@@ -1165,9 +1115,9 @@
     "base_english": "forgive",
     "corpus": "VERBS",
     "group": "Emotional State",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["emotional_state", "level_10"]
+    "tags": ["emotional_state", "level_20"]
   },
   {
     "guid": "V06_001",
@@ -1245,9 +1195,9 @@
     "base_english": "turn",
     "corpus": "VERBS",
     "group": "Change",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["change", "level_10"]
+    "tags": ["change", "level_17"]
   },
   {
     "guid": "V08_003",
@@ -1305,9 +1255,9 @@
     "base_english": "speak",
     "corpus": "VERBS",
     "group": "Communication",
-    "level": 10,
+    "level": 12,
     "word_type": "verb",
-    "tags": ["communication", "level_10"]
+    "tags": ["communication", "level_12"]
   },
   {
     "guid": "V09_003",
@@ -1335,9 +1285,9 @@
     "base_english": "answer",
     "corpus": "VERBS",
     "group": "Communication",
-    "level": 10,
+    "level": 12,
     "word_type": "verb",
-    "tags": ["communication", "level_10"]
+    "tags": ["communication", "level_12"]
   },
   {
     "guid": "V09_006",
@@ -1345,9 +1295,9 @@
     "base_english": "say",
     "corpus": "VERBS",
     "group": "Communication",
-    "level": 10,
+    "level": 4,
     "word_type": "verb",
-    "tags": ["communication", "level_10"]
+    "tags": ["communication", "level_4"]
   },
   {
     "guid": "V09_007",
@@ -1355,9 +1305,9 @@
     "base_english": "call",
     "corpus": "VERBS",
     "group": "Communication",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["communication", "level_10"]
+    "tags": ["communication", "level_17"]
   },
   {
     "guid": "V09_008",
@@ -1365,19 +1315,9 @@
     "base_english": "shout",
     "corpus": "VERBS",
     "group": "Communication",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["communication", "level_10"]
-  },
-  {
-    "guid": "V09_009",
-    "base_target": "susurrar",
-    "base_english": "whisper",
-    "corpus": "VERBS",
-    "group": "Communication",
-    "level": 10,
-    "word_type": "verb",
-    "tags": ["communication", "level_10"]
+    "tags": ["communication", "level_17"]
   },
   {
     "guid": "V09_010",
@@ -1385,9 +1325,9 @@
     "base_english": "reply",
     "corpus": "VERBS",
     "group": "Communication",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["communication", "level_10"]
+    "tags": ["communication", "level_17"]
   },
   {
     "guid": "V09_011",
@@ -1395,9 +1335,9 @@
     "base_english": "explain",
     "corpus": "VERBS",
     "group": "Communication",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["communication", "level_10"]
+    "tags": ["communication", "level_17"]
   },
   {
     "guid": "V09_012",
@@ -1405,9 +1345,9 @@
     "base_english": "announce",
     "corpus": "VERBS",
     "group": "Communication",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["communication", "level_10"]
+    "tags": ["communication", "level_20"]
   },
   {
     "guid": "V09_013",
@@ -1415,9 +1355,9 @@
     "base_english": "discuss",
     "corpus": "VERBS",
     "group": "Communication",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["communication", "level_10"]
+    "tags": ["communication", "level_17"]
   },
   {
     "guid": "V09_014",
@@ -1425,9 +1365,9 @@
     "base_english": "describe",
     "corpus": "VERBS",
     "group": "Communication",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["communication", "level_10"]
+    "tags": ["communication", "level_17"]
   },
   {
     "guid": "V09_015",
@@ -1435,9 +1375,9 @@
     "base_english": "mention",
     "corpus": "VERBS",
     "group": "Communication",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["communication", "level_10"]
+    "tags": ["communication", "level_17"]
   },
   {
     "guid": "V09_016",
@@ -1445,9 +1385,9 @@
     "base_english": "suggest",
     "corpus": "VERBS",
     "group": "Communication",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["communication", "level_10"]
+    "tags": ["communication", "level_17"]
   },
   {
     "guid": "V09_017",
@@ -1455,9 +1395,9 @@
     "base_english": "promise",
     "corpus": "VERBS",
     "group": "Communication",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["communication", "level_10"]
+    "tags": ["communication", "level_17"]
   },
   {
     "guid": "V09_018",
@@ -1465,9 +1405,9 @@
     "base_english": "warn",
     "corpus": "VERBS",
     "group": "Communication",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["communication", "level_10"]
+    "tags": ["communication", "level_20"]
   },
   {
     "guid": "V09_019",
@@ -1475,9 +1415,9 @@
     "base_english": "complain",
     "corpus": "VERBS",
     "group": "Communication",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["communication", "level_10"]
+    "tags": ["communication", "level_20"]
   },
   {
     "guid": "V09_020",
@@ -1485,9 +1425,9 @@
     "base_english": "thank",
     "corpus": "VERBS",
     "group": "Communication",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["communication", "level_10"]
+    "tags": ["communication", "level_17"]
   },
   {
     "guid": "V10_001",
@@ -1495,9 +1435,9 @@
     "base_english": "see",
     "corpus": "VERBS",
     "group": "Perception",
-    "level": 10,
+    "level": 2,
     "word_type": "verb",
-    "tags": ["perception", "level_10"]
+    "tags": ["perception", "level_2"]
   },
   {
     "guid": "V10_002",
@@ -1505,9 +1445,9 @@
     "base_english": "hear",
     "corpus": "VERBS",
     "group": "Perception",
-    "level": 10,
+    "level": 3,
     "word_type": "verb",
-    "tags": ["perception", "level_10"]
+    "tags": ["perception", "level_3"]
   },
   {
     "guid": "V10_003",
@@ -1515,9 +1455,9 @@
     "base_english": "feel",
     "corpus": "VERBS",
     "group": "Perception",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["perception", "level_10"]
+    "tags": ["perception", "level_17"]
   },
   {
     "guid": "V10_004",
@@ -1525,9 +1465,9 @@
     "base_english": "smell",
     "corpus": "VERBS",
     "group": "Perception",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["perception", "level_10"]
+    "tags": ["perception", "level_17"]
   },
   {
     "guid": "V10_005",
@@ -1535,9 +1475,9 @@
     "base_english": "taste",
     "corpus": "VERBS",
     "group": "Perception",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["perception", "level_10"]
+    "tags": ["perception", "level_17"]
   },
   {
     "guid": "V10_006",
@@ -1545,9 +1485,9 @@
     "base_english": "look",
     "corpus": "VERBS",
     "group": "Perception",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["perception", "level_10"]
+    "tags": ["perception", "level_17"]
   },
   {
     "guid": "V10_007",
@@ -1555,9 +1495,9 @@
     "base_english": "watch",
     "corpus": "VERBS",
     "group": "Perception",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["perception", "level_10"]
+    "tags": ["perception", "level_17"]
   },
   {
     "guid": "V10_008",
@@ -1565,9 +1505,9 @@
     "base_english": "notice",
     "corpus": "VERBS",
     "group": "Perception",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["perception", "level_10"]
+    "tags": ["perception", "level_17"]
   },
   {
     "guid": "V11_001",
@@ -1585,9 +1525,9 @@
     "base_english": "exist",
     "corpus": "VERBS",
     "group": "Existence",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["existence", "level_10"]
+    "tags": ["existence", "level_17"]
   },
   {
     "guid": "V11_003",
@@ -1595,9 +1535,9 @@
     "base_english": "remain",
     "corpus": "VERBS",
     "group": "Existence",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["existence", "level_10"]
+    "tags": ["existence", "level_17"]
   },
   {
     "guid": "V11_004",
@@ -1615,9 +1555,9 @@
     "base_english": "appear",
     "corpus": "VERBS",
     "group": "Existence",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["existence", "level_10"]
+    "tags": ["existence", "level_17"]
   },
   {
     "guid": "V11_006",
@@ -1625,9 +1565,9 @@
     "base_english": "stay",
     "corpus": "VERBS",
     "group": "Existence",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["existence", "level_10"]
+    "tags": ["existence", "level_17"]
   },
   {
     "guid": "V12_001",
@@ -1635,9 +1575,9 @@
     "base_english": "walk",
     "corpus": "VERBS",
     "group": "Directional Movement",
-    "level": 10,
+    "level": 4,
     "word_type": "verb",
-    "tags": ["directional_movement", "level_10"]
+    "tags": ["directional_movement", "level_4"]
   },
   {
     "guid": "V12_002",
@@ -1645,9 +1585,9 @@
     "base_english": "drive",
     "corpus": "VERBS",
     "group": "Directional Movement",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["directional_movement", "level_10"]
+    "tags": ["directional_movement", "level_17"]
   },
   {
     "guid": "V12_003",
@@ -1655,9 +1595,9 @@
     "base_english": "run",
     "corpus": "VERBS",
     "group": "Directional Movement",
-    "level": 10,
+    "level": 4,
     "word_type": "verb",
-    "tags": ["directional_movement", "level_10"]
+    "tags": ["directional_movement", "level_4"]
   },
   {
     "guid": "V12_004",
@@ -1685,9 +1625,9 @@
     "base_english": "return",
     "corpus": "VERBS",
     "group": "Directional Movement",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["directional_movement", "level_10"]
+    "tags": ["directional_movement", "level_17"]
   },
   {
     "guid": "V12_007",
@@ -1695,9 +1635,9 @@
     "base_english": "leave",
     "corpus": "VERBS",
     "group": "Directional Movement",
-    "level": 10,
+    "level": 12,
     "word_type": "verb",
-    "tags": ["directional_movement", "level_10"]
+    "tags": ["directional_movement", "level_12"]
   },
   {
     "guid": "V12_008",
@@ -1705,9 +1645,9 @@
     "base_english": "turn",
     "corpus": "VERBS",
     "group": "Directional Movement",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["directional_movement", "level_10"]
+    "tags": ["directional_movement", "level_17"]
   },
   {
     "guid": "V12_009",
@@ -1715,9 +1655,9 @@
     "base_english": "move",
     "corpus": "VERBS",
     "group": "Directional Movement",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["directional_movement", "level_10"]
+    "tags": ["directional_movement", "level_17"]
   },
   {
     "guid": "V12_010",
@@ -1725,9 +1665,9 @@
     "base_english": "pass",
     "corpus": "VERBS",
     "group": "Directional Movement",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["directional_movement", "level_10"]
+    "tags": ["directional_movement", "level_17"]
   },
   {
     "guid": "V12_011",
@@ -1735,9 +1675,9 @@
     "base_english": "fall",
     "corpus": "VERBS",
     "group": "Directional Movement",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["directional_movement", "level_10"]
+    "tags": ["directional_movement", "level_17"]
   },
   {
     "guid": "V12_012",
@@ -1745,9 +1685,9 @@
     "base_english": "bring",
     "corpus": "VERBS",
     "group": "Directional Movement",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["directional_movement", "level_10"]
+    "tags": ["directional_movement", "level_17"]
   },
   {
     "guid": "V12_013",
@@ -1755,9 +1695,9 @@
     "base_english": "follow",
     "corpus": "VERBS",
     "group": "Directional Movement",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["directional_movement", "level_10"]
+    "tags": ["directional_movement", "level_17"]
   },
   {
     "guid": "V12_014",
@@ -1765,9 +1705,9 @@
     "base_english": "reach",
     "corpus": "VERBS",
     "group": "Directional Movement",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["directional_movement", "level_10"]
+    "tags": ["directional_movement", "level_17"]
   },
   {
     "guid": "V12_015",
@@ -1775,9 +1715,9 @@
     "base_english": "send",
     "corpus": "VERBS",
     "group": "Directional Movement",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["directional_movement", "level_10"]
+    "tags": ["directional_movement", "level_17"]
   },
   {
     "guid": "V12_016",
@@ -1785,9 +1725,9 @@
     "base_english": "ride",
     "corpus": "VERBS",
     "group": "Directional Movement",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["directional_movement", "level_10"]
+    "tags": ["directional_movement", "level_20"]
   },
   {
     "guid": "V12_017",
@@ -1795,9 +1735,9 @@
     "base_english": "lead",
     "corpus": "VERBS",
     "group": "Directional Movement",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["directional_movement", "level_10"]
+    "tags": ["directional_movement", "level_20"]
   },
   {
     "guid": "V12_018",
@@ -1805,9 +1745,9 @@
     "base_english": "fly",
     "corpus": "VERBS",
     "group": "Directional Movement",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["directional_movement", "level_10"]
+    "tags": ["directional_movement", "level_20"]
   },
   {
     "guid": "V12_019",
@@ -1815,9 +1755,9 @@
     "base_english": "cross",
     "corpus": "VERBS",
     "group": "Directional Movement",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["directional_movement", "level_10"]
+    "tags": ["directional_movement", "level_20"]
   },
   {
     "guid": "V12_020",
@@ -1825,9 +1765,9 @@
     "base_english": "hurry",
     "corpus": "VERBS",
     "group": "Directional Movement",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["directional_movement", "level_10"]
+    "tags": ["directional_movement", "level_20"]
   },
   {
     "guid": "V12_021",
@@ -1835,9 +1775,9 @@
     "base_english": "enter",
     "corpus": "VERBS",
     "group": "Directional Movement",
-    "level": 10,
+    "level": 17,
     "word_type": "verb",
-    "tags": ["directional_movement", "level_10"]
+    "tags": ["directional_movement", "level_17"]
   },
   {
     "guid": "V12_022",
@@ -1845,9 +1785,9 @@
     "base_english": "travel",
     "corpus": "VERBS",
     "group": "Directional Movement",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["directional_movement", "level_10"]
+    "tags": ["directional_movement", "level_20"]
   },
   {
     "guid": "V12_023",
@@ -1855,9 +1795,9 @@
     "base_english": "rise",
     "corpus": "VERBS",
     "group": "Directional Movement",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["directional_movement", "level_10"]
+    "tags": ["directional_movement", "level_20"]
   },
   {
     "guid": "V12_024",
@@ -1865,8 +1805,8 @@
     "base_english": "climb",
     "corpus": "VERBS",
     "group": "Directional Movement",
-    "level": 10,
+    "level": 20,
     "word_type": "verb",
-    "tags": ["directional_movement", "level_10"]
+    "tags": ["directional_movement", "level_20"]
   }
 ]
