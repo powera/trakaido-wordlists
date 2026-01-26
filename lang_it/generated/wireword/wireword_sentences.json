@@ -1,9 +1,9 @@
 {
   "language": "it",
-  "generated_date": "2026-01-25T20:32:49.599485",
+  "generated_date": "2026-01-26T10:01:10.628374",
   "sentences": [
     {
-      "sentence_id": 1,
+      "sentence_id": "S_00001",
       "translations": {
         "en": "They walk to the house.",
         "it": "Loro camminano verso la casa."
@@ -22,7 +22,7 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": 3,
+      "sentence_id": "S_00003",
       "translations": {
         "en": "We open the house door.",
         "it": "Apriamo la porta di casa."
@@ -45,7 +45,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 4,
+      "sentence_id": "S_00004",
       "translations": {
         "en": "He bought a new house.",
         "it": "Lui ha comprato una casa nuova."
@@ -68,7 +68,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 5,
+      "sentence_id": "S_00005",
       "translations": {
         "en": "My son goes to school.",
         "it": "Mio figlio va a scuola."

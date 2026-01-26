@@ -1,9 +1,9 @@
 {
   "language": "zh",
-  "generated_date": "2026-01-25T20:32:49.322208",
+  "generated_date": "2026-01-26T10:01:10.365627",
   "sentences": [
     {
-      "sentence_id": 1,
+      "sentence_id": "S_00001",
       "translations": {
         "en": "They walk to the house.",
         "zh": "他们走到房子里。"
@@ -19,7 +19,7 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": 3,
+      "sentence_id": "S_00003",
       "translations": {
         "en": "We open the house door.",
         "zh": "我们打开房子的门。"
@@ -43,7 +43,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 4,
+      "sentence_id": "S_00004",
       "translations": {
         "en": "He bought a new house.",
         "zh": "他买了一所新的房子。"
@@ -67,10 +67,10 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 5,
+      "sentence_id": "S_00005",
       "translations": {
         "en": "My son goes to school.",
-        "zh": "我的 儿子 去 学校"
+        "zh": "我的 儿子 去 学校。"
       },
       "linked_words": [
         {
@@ -86,12 +86,12 @@
           "grammatical_form": null
         }
       ],
-      "pinyin": "wǒ de   ér zi   qù   xué xiào",
+      "pinyin": "wǒ de   ér zi   qù   xué xiào 。",
       "source": "buivolas_guided_N07_002",
       "minimum_level": 10
     },
     {
-      "sentence_id": 6,
+      "sentence_id": "S_00006",
       "translations": {
         "en": "She walks to school every day.",
         "zh": "她每天走路去学校。"
@@ -111,7 +111,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 9,
+      "sentence_id": "S_00009",
       "translations": {
         "en": "My friend works at the hospital.",
         "zh": "我的朋友在医院工作。"
@@ -135,7 +135,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 10,
+      "sentence_id": "S_00010",
       "translations": {
         "en": "She went to the hospital yesterday.",
         "zh": "她昨天去了医院。"
@@ -159,10 +159,10 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 13,
+      "sentence_id": "S_00013",
       "translations": {
         "en": "I buy bread at the store.",
-        "zh": "我在商店买面包"
+        "zh": "我在商店买面包。"
       },
       "linked_words": [
         {
@@ -178,12 +178,12 @@
           "grammatical_form": null
         }
       ],
-      "pinyin": "wǒ zài shāng diàn mǎi miàn bāo",
+      "pinyin": "wǒ zài shāng diàn mǎi miàn bāo 。",
       "source": "buivolas_guided_N07_005",
       "minimum_level": 6
     },
     {
-      "sentence_id": 14,
+      "sentence_id": "S_00014",
       "translations": {
         "en": "She found a toy in the store.",
         "zh": "她在商店里找到了一个玩具。"
@@ -207,7 +207,7 @@
       "minimum_level": 15
     },
     {
-      "sentence_id": 15,
+      "sentence_id": "S_00015",
       "translations": {
         "en": "We close the store at night.",
         "zh": "我们在夜晚关闭商店。"
@@ -231,10 +231,10 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 16,
+      "sentence_id": "S_00016",
       "translations": {
         "en": "They walked to the store yesterday.",
-        "zh": "他们昨天走路去商店"
+        "zh": "他们昨天走路去商店。"
       },
       "linked_words": [
         {
@@ -250,12 +250,12 @@
           "grammatical_form": null
         }
       ],
-      "pinyin": "tā men zuó tiān zǒu lù qù shāng diàn",
+      "pinyin": "tā men zuó tiān zǒu lù qù shāng diàn 。",
       "source": "buivolas_guided_N07_005",
       "minimum_level": 13
     },
     {
-      "sentence_id": 17,
+      "sentence_id": "S_00017",
       "translations": {
         "en": "We eat at the restaurant today.",
         "zh": "我们今天在餐厅吃饭。"
@@ -279,7 +279,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 20,
+      "sentence_id": "S_00020",
       "translations": {
         "en": "My friend works at a restaurant.",
         "zh": "我的朋友在餐厅工作。"
@@ -303,7 +303,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 25,
+      "sentence_id": "S_00025",
       "translations": {
         "en": "I am walking to the bank today.",
         "zh": "我今天走路去银行。"
@@ -327,7 +327,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 28,
+      "sentence_id": "S_00028",
       "translations": {
         "en": "My friend works at the bank.",
         "zh": "我的朋友在银行工作。"
@@ -351,7 +351,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 29,
+      "sentence_id": "S_00029",
       "translations": {
         "en": "She walks to the library today.",
         "zh": "她今天走路去图书馆。"
@@ -371,7 +371,7 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": 33,
+      "sentence_id": "S_00033",
       "translations": {
         "en": "We are visiting the museum today.",
         "zh": "我们今天参观博物馆。"
@@ -387,7 +387,7 @@
       "minimum_level": 1
     },
     {
-      "sentence_id": 34,
+      "sentence_id": "S_00034",
       "translations": {
         "en": "She walks to the museum.",
         "zh": "她走路去博物馆。"
@@ -407,7 +407,7 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": 35,
+      "sentence_id": "S_00035",
       "translations": {
         "en": "They saw paintings at the museum.",
         "zh": "他们在博物馆看见了绘画。"
@@ -431,7 +431,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 36,
+      "sentence_id": "S_00036",
       "translations": {
         "en": "My friend works at the museum.",
         "zh": "我的朋友在博物馆工作。"
@@ -455,10 +455,10 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 37,
+      "sentence_id": "S_00037",
       "translations": {
         "en": "The fire station is near the school.",
-        "zh": "消防局靠近学校"
+        "zh": "消防局靠近学校。"
       },
       "linked_words": [
         {
@@ -474,12 +474,12 @@
           "grammatical_form": null
         }
       ],
-      "pinyin": "xiāo fáng jú kào jìn xué xiào",
+      "pinyin": "xiāo fáng jú kào jìn xué xiào 。",
       "source": "buivolas_guided_N07_011",
       "minimum_level": 20
     },
     {
-      "sentence_id": 38,
+      "sentence_id": "S_00038",
       "translations": {
         "en": "My friend works at the fire station.",
         "zh": "我的朋友在消防局工作。"
@@ -503,7 +503,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 39,
+      "sentence_id": "S_00039",
       "translations": {
         "en": "They drove past the fire station.",
         "zh": "他们开车经过消防局。"
@@ -523,7 +523,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 42,
+      "sentence_id": "S_00042",
       "translations": {
         "en": "We ate warm bread with butter.",
         "zh": "我们吃了抹黄油的热面包。"
@@ -551,7 +551,7 @@
       "minimum_level": 14
     },
     {
-      "sentence_id": 45,
+      "sentence_id": "S_00045",
       "translations": {
         "en": "She buys meat at the market.",
         "zh": "她在市场买肉。"
@@ -575,7 +575,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 46,
+      "sentence_id": "S_00046",
       "translations": {
         "en": "They eat meat for dinner.",
         "zh": "他们晚餐吃肉。"
@@ -599,7 +599,7 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": 47,
+      "sentence_id": "S_00047",
       "translations": {
         "en": "My friend does not like meat.",
         "zh": "我的朋友不喜欢肉。"
@@ -623,7 +623,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 49,
+      "sentence_id": "S_00049",
       "translations": {
         "en": "She adds sugar to her tea.",
         "zh": "她给她的茶添加糖。"
@@ -647,7 +647,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 50,
+      "sentence_id": "S_00050",
       "translations": {
         "en": "We bought sugar at the store.",
         "zh": "我们在商店买了糖。"
@@ -671,7 +671,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 52,
+      "sentence_id": "S_00052",
       "translations": {
         "en": "They want sugar in their coffee.",
         "zh": "他们想要在自己的咖啡里放糖。"
@@ -695,7 +695,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 53,
+      "sentence_id": "S_00053",
       "translations": {
         "en": "She puts salt on the meat.",
         "zh": "她在肉上放盐。"
@@ -719,7 +719,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 54,
+      "sentence_id": "S_00054",
       "translations": {
         "en": "I need salt for the soup.",
         "zh": "我需要做汤用的盐。"
@@ -743,7 +743,7 @@
       "minimum_level": 10
     },
     {
-      "sentence_id": 55,
+      "sentence_id": "S_00055",
       "translations": {
         "en": "They bought salt at the store.",
         "zh": "他们在商店买了盐。"
@@ -767,7 +767,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 56,
+      "sentence_id": "S_00056",
       "translations": {
         "en": "My friend tastes salt on bread.",
         "zh": "我的朋友在面包上尝盐。"
@@ -795,7 +795,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 58,
+      "sentence_id": "S_00058",
       "translations": {
         "en": "They buy potatoes at the market.",
         "zh": "他们在市场买马铃薯。"
@@ -819,7 +819,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 62,
+      "sentence_id": "S_00062",
       "translations": {
         "en": "He bought three apples yesterday.",
         "zh": "他昨天买了三个苹果。"
@@ -847,7 +847,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 63,
+      "sentence_id": "S_00063",
       "translations": {
         "en": "My friend gave me an apple.",
         "zh": "我的朋友给了我一个苹果。"
@@ -871,7 +871,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 65,
+      "sentence_id": "S_00065",
       "translations": {
         "en": "I eat a banana every morning.",
         "zh": "我每天早晨吃一根香蕉。"
@@ -895,7 +895,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 70,
+      "sentence_id": "S_00070",
       "translations": {
         "en": "We bought tomatoes at the market.",
         "zh": "我们在市场买了番茄。"
@@ -919,7 +919,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 71,
+      "sentence_id": "S_00071",
       "translations": {
         "en": "He puts a tomato in the salad.",
         "zh": "他把番茄放在沙拉里。"
@@ -943,7 +943,7 @@
       "minimum_level": 11
     },
     {
-      "sentence_id": 73,
+      "sentence_id": "S_00073",
       "translations": {
         "en": "She eats rice every day.",
         "zh": "她每天吃米饭。"
@@ -967,7 +967,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 75,
+      "sentence_id": "S_00075",
       "translations": {
         "en": "My friend wants more rice.",
         "zh": "我的朋友想要更多米饭。"
@@ -991,7 +991,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 79,
+      "sentence_id": "S_00079",
       "translations": {
         "en": "They bought tomato soup at lunch.",
         "zh": "他们在午餐时买了番茄汤。"
@@ -1019,7 +1019,7 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": 80,
+      "sentence_id": "S_00080",
       "translations": {
         "en": "My friend ate soup with bread.",
         "zh": "我的朋友吃了汤和面包。"
@@ -1047,7 +1047,7 @@
       "minimum_level": 5
     },
     {
-      "sentence_id": 81,
+      "sentence_id": "S_00081",
       "translations": {
         "en": "I buy food at the market.",
         "zh": "我在市场买食物。"
@@ -1071,7 +1071,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 83,
+      "sentence_id": "S_00083",
       "translations": {
         "en": "They have food in their bags.",
         "zh": "他们的袋子里有食物。"
@@ -1095,7 +1095,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 84,
+      "sentence_id": "S_00084",
       "translations": {
         "en": "Do you like this food?",
         "zh": "你喜欢这份食物吗？"
@@ -1115,7 +1115,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 85,
+      "sentence_id": "S_00085",
       "translations": {
         "en": "He is wearing a clean shirt today.",
         "zh": "他今天穿着干净的衬衫。"
@@ -1139,7 +1139,7 @@
       "minimum_level": 14
     },
     {
-      "sentence_id": 86,
+      "sentence_id": "S_00086",
       "translations": {
         "en": "She bought a blue shirt.",
         "zh": "她买了一件蓝色的衬衫。"
@@ -1163,7 +1163,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 88,
+      "sentence_id": "S_00088",
       "translations": {
         "en": "They found a dirty shirt.",
         "zh": "他们找到了一个脏的衬衫。"
@@ -1187,7 +1187,7 @@
       "minimum_level": 14
     },
     {
-      "sentence_id": 89,
+      "sentence_id": "S_00089",
       "translations": {
         "en": "I bought new pants yesterday.",
         "zh": "我昨天买了新裤子。"
@@ -1211,7 +1211,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 92,
+      "sentence_id": "S_00092",
       "translations": {
         "en": "Do they have clean pants?",
         "zh": "他们有干净的裤子吗？"
@@ -1235,7 +1235,7 @@
       "minimum_level": 14
     },
     {
-      "sentence_id": 93,
+      "sentence_id": "S_00093",
       "translations": {
         "en": "She is wearing a red dress today.",
         "zh": "她今天穿红色的洋装。"
@@ -1259,7 +1259,7 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": 94,
+      "sentence_id": "S_00094",
       "translations": {
         "en": "My friend bought a blue dress.",
         "zh": "我的朋友买了一件蓝色的洋装。"
@@ -1287,7 +1287,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 95,
+      "sentence_id": "S_00095",
       "translations": {
         "en": "They see the dress in the store.",
         "zh": "他们在商店看见洋装。"
@@ -1311,7 +1311,7 @@
       "minimum_level": 2
     },
     {
-      "sentence_id": 97,
+      "sentence_id": "S_00097",
       "translations": {
         "en": "He wears a warm jacket today.",
         "zh": "他今天穿着一件温暖的夹克。"
@@ -1335,7 +1335,7 @@
       "minimum_level": 14
     },
     {
-      "sentence_id": 98,
+      "sentence_id": "S_00098",
       "translations": {
         "en": "She bought a new jacket yesterday.",
         "zh": "她昨天买了新夹克。"
@@ -1359,7 +1359,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 101,
+      "sentence_id": "S_00101",
       "translations": {
         "en": "My shoe is by the door.",
         "zh": "我的鞋子在门边。"
@@ -1379,10 +1379,10 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 104,
+      "sentence_id": "S_00104",
       "translations": {
         "en": "They wear the same shoes.",
-        "zh": "他们穿同样的鞋子"
+        "zh": "他们穿同样的鞋子。"
       },
       "linked_words": [
         {
@@ -1394,12 +1394,12 @@
           "grammatical_form": null
         }
       ],
-      "pinyin": "tā men chuān tóng yàng de xié zi",
+      "pinyin": "tā men chuān tóng yàng de xié zi 。",
       "source": "buivolas_guided_N09_006",
       "minimum_level": 3
     },
     {
-      "sentence_id": 106,
+      "sentence_id": "S_00106",
       "translations": {
         "en": "She lost one blue sock.",
         "zh": "她丢失了一只蓝色的袜子。"
@@ -1427,7 +1427,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 108,
+      "sentence_id": "S_00108",
       "translations": {
         "en": "He put on clean socks.",
         "zh": "他穿上了干净的袜子。"
@@ -1451,7 +1451,7 @@
       "minimum_level": 14
     },
     {
-      "sentence_id": 109,
+      "sentence_id": "S_00109",
       "translations": {
         "en": "She is wearing a black hat today.",
         "zh": "她今天穿一顶黑色的帽子。"
@@ -1475,7 +1475,7 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": 110,
+      "sentence_id": "S_00110",
       "translations": {
         "en": "He took off his hat.",
         "zh": "他脱下了他的帽子。"
@@ -1491,7 +1491,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 112,
+      "sentence_id": "S_00112",
       "translations": {
         "en": "Do you want my warm hat?",
         "zh": "你想要我的温暖的帽子吗？"
@@ -1515,7 +1515,7 @@
       "minimum_level": 14
     },
     {
-      "sentence_id": 115,
+      "sentence_id": "S_00115",
       "translations": {
         "en": "My friend bought warm gloves.",
         "zh": "我的朋友买了温暖的手套。"
@@ -1543,7 +1543,7 @@
       "minimum_level": 14
     },
     {
-      "sentence_id": 117,
+      "sentence_id": "S_00117",
       "translations": {
         "en": "She is wearing a blue sweater today.",
         "zh": "她今天穿一件蓝色的毛衣。"
@@ -1567,7 +1567,7 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": 118,
+      "sentence_id": "S_00118",
       "translations": {
         "en": "My friend bought a sweater yesterday.",
         "zh": "我的朋友昨天买了毛衣。"
@@ -1591,7 +1591,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 119,
+      "sentence_id": "S_00119",
       "translations": {
         "en": "They put the sweater on the chair.",
         "zh": "他们把毛衣放在椅子上。"
@@ -1615,7 +1615,7 @@
       "minimum_level": 10
     },
     {
-      "sentence_id": 122,
+      "sentence_id": "S_00122",
       "translations": {
         "en": "She bought new underwear yesterday.",
         "zh": "她昨天买了新的内衣。"
@@ -1643,7 +1643,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 127,
+      "sentence_id": "S_00127",
       "translations": {
         "en": "We ate pizza after school.",
         "zh": "我们放学后吃了披萨。"
@@ -1667,7 +1667,7 @@
       "minimum_level": 11
     },
     {
-      "sentence_id": 128,
+      "sentence_id": "S_00128",
       "translations": {
         "en": "The dog will not eat.",
         "zh": "狗不会吃。"
@@ -1687,7 +1687,7 @@
       "minimum_level": 2
     },
     {
-      "sentence_id": 129,
+      "sentence_id": "S_00129",
       "translations": {
         "en": "I drink water after running.",
         "zh": "我跑步后喝水。"
@@ -1711,7 +1711,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 130,
+      "sentence_id": "S_00130",
       "translations": {
         "en": "She drank coffee this morning.",
         "zh": "她今天早上喝了咖啡。"
@@ -1735,7 +1735,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 137,
+      "sentence_id": "S_00137",
       "translations": {
         "en": "He rides his bicycle to school.",
         "zh": "他骑他的自行车去学校。"
@@ -1759,7 +1759,7 @@
       "minimum_level": 20
     },
     {
-      "sentence_id": 138,
+      "sentence_id": "S_00138",
       "translations": {
         "en": "She bought a new bicycle yesterday.",
         "zh": "她昨天买了一辆新的自行车。"
@@ -1787,7 +1787,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 140,
+      "sentence_id": "S_00140",
       "translations": {
         "en": "They want a red bicycle.",
         "zh": "他们想要一辆红色的自行车。"
@@ -1811,7 +1811,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 149,
+      "sentence_id": "S_00149",
       "translations": {
         "en": "I took a taxi home.",
         "zh": "我坐出租车回家。"
@@ -1835,7 +1835,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 150,
+      "sentence_id": "S_00150",
       "translations": {
         "en": "She waits for a taxi.",
         "zh": "她在等出租车。"
@@ -1855,7 +1855,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 151,
+      "sentence_id": "S_00151",
       "translations": {
         "en": "We saw a yellow taxi.",
         "zh": "我们看见了一辆黄色的出租车。"
@@ -1879,7 +1879,7 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": 152,
+      "sentence_id": "S_00152",
       "translations": {
         "en": "They called a taxi yesterday.",
         "zh": "他们昨天叫了一辆出租车。"
@@ -1903,7 +1903,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 153,
+      "sentence_id": "S_00153",
       "translations": {
         "en": "The truck is loud today.",
         "zh": "卡车今天很大声。"
@@ -1927,7 +1927,7 @@
       "minimum_level": 14
     },
     {
-      "sentence_id": 156,
+      "sentence_id": "S_00156",
       "translations": {
         "en": "My friend bought a new truck.",
         "zh": "我的朋友买了一辆新卡车。"
@@ -1955,7 +1955,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 161,
+      "sentence_id": "S_00161",
       "translations": {
         "en": "She puts a fork beside her plate.",
         "zh": "她把叉子放在她的盘子旁边。"
@@ -1979,7 +1979,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 162,
+      "sentence_id": "S_00162",
       "translations": {
         "en": "I lost my fork at lunch.",
         "zh": "我午餐时丢失了我的叉子。"
@@ -2003,7 +2003,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 164,
+      "sentence_id": "S_00164",
       "translations": {
         "en": "They bought new forks for dinner.",
         "zh": "他们为晚餐买了新叉子。"
@@ -2027,7 +2027,7 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": 169,
+      "sentence_id": "S_00169",
       "translations": {
         "en": "She drinks tea from a cup.",
         "zh": "她从一个杯子里喝茶。"
@@ -2051,7 +2051,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 173,
+      "sentence_id": "S_00173",
       "translations": {
         "en": "She put the plate on the table.",
         "zh": "她把盘子放在桌子上。"
@@ -2075,7 +2075,7 @@
       "minimum_level": 10
     },
     {
-      "sentence_id": 177,
+      "sentence_id": "S_00177",
       "translations": {
         "en": "She reads a new book.",
         "zh": "她阅读一本新的书。"
@@ -2099,7 +2099,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 178,
+      "sentence_id": "S_00178",
       "translations": {
         "en": "I found the book yesterday.",
         "zh": "我昨天找到了书。"
@@ -2123,7 +2123,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 179,
+      "sentence_id": "S_00179",
       "translations": {
         "en": "My friend gave me a book.",
         "zh": "我的朋友给了我一本书。"
@@ -2147,7 +2147,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 180,
+      "sentence_id": "S_00180",
       "translations": {
         "en": "They put the book on the table.",
         "zh": "他们把书放在桌子上。"
@@ -2171,7 +2171,7 @@
       "minimum_level": 10
     },
     {
-      "sentence_id": 186,
+      "sentence_id": "S_00186",
       "translations": {
         "en": "My friend lost his cell phone.",
         "zh": "我的朋友丢了他的手机。"
@@ -2195,7 +2195,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 188,
+      "sentence_id": "S_00188",
       "translations": {
         "en": "He found a cell phone yesterday.",
         "zh": "他昨天找到了手机。"
@@ -2219,7 +2219,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 189,
+      "sentence_id": "S_00189",
       "translations": {
         "en": "She carries a bag to school.",
         "zh": "她把一个袋子带到学校。"
@@ -2243,7 +2243,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 192,
+      "sentence_id": "S_00192",
       "translations": {
         "en": "He bought a new bag today.",
         "zh": "他今天买了一个新的袋子。"
@@ -2271,7 +2271,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 194,
+      "sentence_id": "S_00194",
       "translations": {
         "en": "She opened her wallet and smiled.",
         "zh": "她打开了她的钱包并微笑。"
@@ -2295,7 +2295,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 195,
+      "sentence_id": "S_00195",
       "translations": {
         "en": "We lost our wallet at the market.",
         "zh": "我们在市场丢失了钱包。"
@@ -2319,7 +2319,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 198,
+      "sentence_id": "S_00198",
       "translations": {
         "en": "My friend lost his eyeglasses.",
         "zh": "我的朋友丢了他的眼镜。"
@@ -2343,7 +2343,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 201,
+      "sentence_id": "S_00201",
       "translations": {
         "en": "She opens the bottle now.",
         "zh": "她现在打开瓶子。"
@@ -2363,7 +2363,7 @@
       "minimum_level": 5
     },
     {
-      "sentence_id": 202,
+      "sentence_id": "S_00202",
       "translations": {
         "en": "He puts the bottle on the table.",
         "zh": "他把瓶子放在桌子上。"
@@ -2387,7 +2387,7 @@
       "minimum_level": 10
     },
     {
-      "sentence_id": 203,
+      "sentence_id": "S_00203",
       "translations": {
         "en": "We found an empty bottle.",
         "zh": "我们找到了一只空的瓶子。"
@@ -2411,7 +2411,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 204,
+      "sentence_id": "S_00204",
       "translations": {
         "en": "They drink from the bottle.",
         "zh": "他们从瓶子里喝。"
@@ -2431,7 +2431,7 @@
       "minimum_level": 2
     },
     {
-      "sentence_id": 205,
+      "sentence_id": "S_00205",
       "translations": {
         "en": "She looks in the mirror now.",
         "zh": "她现在照镜子。"
@@ -2451,7 +2451,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 206,
+      "sentence_id": "S_00206",
       "translations": {
         "en": "I put the mirror on the wall.",
         "zh": "我把镜子放在墙上。"
@@ -2475,7 +2475,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 210,
+      "sentence_id": "S_00210",
       "translations": {
         "en": "I left a towel on the chair.",
         "zh": "我把毛巾放在椅子上。"
@@ -2499,7 +2499,7 @@
       "minimum_level": 12
     },
     {
-      "sentence_id": 213,
+      "sentence_id": "S_00213",
       "translations": {
         "en": "My dog sleeps on the bed.",
         "zh": "我的狗在床上睡觉。"
@@ -2523,7 +2523,7 @@
       "minimum_level": 10
     },
     {
-      "sentence_id": 215,
+      "sentence_id": "S_00215",
       "translations": {
         "en": "She walked the dog yesterday.",
         "zh": "她昨天遛了狗。"
@@ -2547,7 +2547,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 216,
+      "sentence_id": "S_00216",
       "translations": {
         "en": "Do you see the dog?",
         "zh": "你看见那只狗吗？"
@@ -2567,7 +2567,7 @@
       "minimum_level": 2
     },
     {
-      "sentence_id": 218,
+      "sentence_id": "S_00218",
       "translations": {
         "en": "My friend has a black cat.",
         "zh": "我的朋友有一只黑色的猫。"
@@ -2595,7 +2595,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 219,
+      "sentence_id": "S_00219",
       "translations": {
         "en": "She saw a cat by the door.",
         "zh": "她在门边看见了一只猫。"
@@ -2619,7 +2619,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 221,
+      "sentence_id": "S_00221",
       "translations": {
         "en": "A bird sits on the fence.",
         "zh": "一只鸟坐在围栏上。"

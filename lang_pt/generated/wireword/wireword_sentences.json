@@ -1,9 +1,9 @@
 {
   "language": "pt",
-  "generated_date": "2026-01-25T20:32:49.757412",
+  "generated_date": "2026-01-26T10:01:10.788721",
   "sentences": [
     {
-      "sentence_id": 1,
+      "sentence_id": "S_00001",
       "translations": {
         "en": "They walk to the house.",
         "pt": "Eles andam até a casa."
@@ -22,7 +22,7 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": 3,
+      "sentence_id": "S_00003",
       "translations": {
         "en": "We open the house door.",
         "pt": "Abrimos a porta da casa."
@@ -45,7 +45,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 4,
+      "sentence_id": "S_00004",
       "translations": {
         "en": "He bought a new house.",
         "pt": "Ele comprou uma casa nova."
@@ -68,7 +68,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 5,
+      "sentence_id": "S_00005",
       "translations": {
         "en": "My son goes to school.",
         "pt": "Meu filho vai à escola."
@@ -91,7 +91,7 @@
       "minimum_level": 10
     },
     {
-      "sentence_id": 6,
+      "sentence_id": "S_00006",
       "translations": {
         "en": "She walks to school every day.",
         "pt": "Ela anda para a escola todos os dias."
@@ -114,7 +114,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 9,
+      "sentence_id": "S_00009",
       "translations": {
         "en": "My friend works at the hospital.",
         "pt": "Meu amigo trabalha no hospital."
@@ -137,7 +137,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 10,
+      "sentence_id": "S_00010",
       "translations": {
         "en": "She went to the hospital yesterday.",
         "pt": "Ela foi ao hospital ontem."
@@ -160,7 +160,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 13,
+      "sentence_id": "S_00013",
       "translations": {
         "en": "I buy bread at the store.",
         "pt": "Compro pão na loja."
@@ -183,7 +183,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 14,
+      "sentence_id": "S_00014",
       "translations": {
         "en": "She found a toy in the store.",
         "pt": "Ela encontrou um brinquedo na loja."
@@ -206,7 +206,7 @@
       "minimum_level": 15
     },
     {
-      "sentence_id": 15,
+      "sentence_id": "S_00015",
       "translations": {
         "en": "We close the store at night.",
         "pt": "Fechamos a loja à noite."
@@ -229,7 +229,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 16,
+      "sentence_id": "S_00016",
       "translations": {
         "en": "They walked to the store yesterday.",
         "pt": "Eles andaram até a loja ontem."
@@ -252,7 +252,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 17,
+      "sentence_id": "S_00017",
       "translations": {
         "en": "We eat at the restaurant today.",
         "pt": "Comemos no restaurante hoje."
@@ -275,7 +275,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 20,
+      "sentence_id": "S_00020",
       "translations": {
         "en": "My friend works at a restaurant.",
         "pt": "Meu amigo trabalha em um restaurante."
@@ -298,7 +298,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 25,
+      "sentence_id": "S_00025",
       "translations": {
         "en": "I am walking to the bank today.",
         "pt": "Vou ao banco hoje."
@@ -317,7 +317,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 28,
+      "sentence_id": "S_00028",
       "translations": {
         "en": "My friend works at the bank.",
         "pt": "Meu amigo trabalha no banco."
@@ -340,7 +340,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 29,
+      "sentence_id": "S_00029",
       "translations": {
         "en": "She walks to the library today.",
         "pt": "Ela caminha para a biblioteca hoje."
@@ -359,7 +359,7 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": 33,
+      "sentence_id": "S_00033",
       "translations": {
         "en": "We are visiting the museum today.",
         "pt": "Nós visitamos o museu hoje."
@@ -374,7 +374,7 @@
       "minimum_level": 1
     },
     {
-      "sentence_id": 34,
+      "sentence_id": "S_00034",
       "translations": {
         "en": "She walks to the museum.",
         "pt": "Ela anda até o museu."
@@ -393,7 +393,7 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": 35,
+      "sentence_id": "S_00035",
       "translations": {
         "en": "They saw paintings at the museum.",
         "pt": "Eles viram pinturas no museu."
@@ -416,7 +416,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 36,
+      "sentence_id": "S_00036",
       "translations": {
         "en": "My friend works at the museum.",
         "pt": "Meu amigo trabalha no museu."
@@ -439,7 +439,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 37,
+      "sentence_id": "S_00037",
       "translations": {
         "en": "The fire station is near the school.",
         "pt": "O quartel de bombeiros está perto da escola."
@@ -462,7 +462,7 @@
       "minimum_level": 20
     },
     {
-      "sentence_id": 38,
+      "sentence_id": "S_00038",
       "translations": {
         "en": "My friend works at the fire station.",
         "pt": "Meu amigo trabalha no quartel de bombeiros."
@@ -485,7 +485,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 39,
+      "sentence_id": "S_00039",
       "translations": {
         "en": "They drove past the fire station.",
         "pt": "Eles dirigiram pelo quartel de bombeiros."
@@ -504,7 +504,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 42,
+      "sentence_id": "S_00042",
       "translations": {
         "en": "We ate warm bread with butter.",
         "pt": "Comemos pão quente com manteiga."
@@ -531,7 +531,7 @@
       "minimum_level": 14
     },
     {
-      "sentence_id": 45,
+      "sentence_id": "S_00045",
       "translations": {
         "en": "She buys meat at the market.",
         "pt": "Ela compra carne no mercado."
@@ -554,7 +554,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 46,
+      "sentence_id": "S_00046",
       "translations": {
         "en": "They eat meat for dinner.",
         "pt": "Eles comem carne no jantar."
@@ -577,7 +577,7 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": 47,
+      "sentence_id": "S_00047",
       "translations": {
         "en": "My friend does not like meat.",
         "pt": "Meu amigo não gosta de carne."
@@ -600,7 +600,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 49,
+      "sentence_id": "S_00049",
       "translations": {
         "en": "She adds sugar to her tea.",
         "pt": "Ela adiciona açúcar ao seu chá."
@@ -623,7 +623,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 50,
+      "sentence_id": "S_00050",
       "translations": {
         "en": "We bought sugar at the store.",
         "pt": "Compramos açúcar na loja."
@@ -646,7 +646,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 52,
+      "sentence_id": "S_00052",
       "translations": {
         "en": "They want sugar in their coffee.",
         "pt": "Eles querem açúcar no café deles."
@@ -669,7 +669,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 53,
+      "sentence_id": "S_00053",
       "translations": {
         "en": "She puts salt on the meat.",
         "pt": "Ela põe sal na carne."
@@ -692,7 +692,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 54,
+      "sentence_id": "S_00054",
       "translations": {
         "en": "I need salt for the soup.",
         "pt": "Preciso de sal para a sopa."
@@ -715,7 +715,7 @@
       "minimum_level": 10
     },
     {
-      "sentence_id": 55,
+      "sentence_id": "S_00055",
       "translations": {
         "en": "They bought salt at the store.",
         "pt": "Eles compraram sal na loja."
@@ -738,7 +738,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 56,
+      "sentence_id": "S_00056",
       "translations": {
         "en": "My friend tastes salt on bread.",
         "pt": "Meu amigo prova sal no pão."
@@ -765,7 +765,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 58,
+      "sentence_id": "S_00058",
       "translations": {
         "en": "They buy potatoes at the market.",
         "pt": "Eles compram batatas no mercado."
@@ -788,7 +788,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 62,
+      "sentence_id": "S_00062",
       "translations": {
         "en": "He bought three apples yesterday.",
         "pt": "Ele comprou três maçãs ontem."
@@ -815,7 +815,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 63,
+      "sentence_id": "S_00063",
       "translations": {
         "en": "My friend gave me an apple.",
         "pt": "Meu amigo me deu uma maçã."
@@ -838,7 +838,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 65,
+      "sentence_id": "S_00065",
       "translations": {
         "en": "I eat a banana every morning.",
         "pt": "Eu como uma banana todas as manhãs."
@@ -861,7 +861,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 70,
+      "sentence_id": "S_00070",
       "translations": {
         "en": "We bought tomatoes at the market.",
         "pt": "Compramos tomates no mercado."
@@ -884,7 +884,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 71,
+      "sentence_id": "S_00071",
       "translations": {
         "en": "He puts a tomato in the salad.",
         "pt": "Ele põe um tomate na salada."
@@ -907,7 +907,7 @@
       "minimum_level": 11
     },
     {
-      "sentence_id": 73,
+      "sentence_id": "S_00073",
       "translations": {
         "en": "She eats rice every day.",
         "pt": "Ela come arroz todos os dias."
@@ -930,7 +930,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 75,
+      "sentence_id": "S_00075",
       "translations": {
         "en": "My friend wants more rice.",
         "pt": "Meu amigo quer mais arroz."
@@ -953,7 +953,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 79,
+      "sentence_id": "S_00079",
       "translations": {
         "en": "They bought tomato soup at lunch.",
         "pt": "Eles compraram sopa de tomate no almoço."
@@ -980,7 +980,7 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": 80,
+      "sentence_id": "S_00080",
       "translations": {
         "en": "My friend ate soup with bread.",
         "pt": "Meu amigo comeu sopa com pão."
@@ -1007,7 +1007,7 @@
       "minimum_level": 5
     },
     {
-      "sentence_id": 81,
+      "sentence_id": "S_00081",
       "translations": {
         "en": "I buy food at the market.",
         "pt": "Compro comida no mercado."
@@ -1030,7 +1030,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 83,
+      "sentence_id": "S_00083",
       "translations": {
         "en": "They have food in their bags.",
         "pt": "Eles têm comida nos seus sacos."
@@ -1053,7 +1053,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 84,
+      "sentence_id": "S_00084",
       "translations": {
         "en": "Do you like this food?",
         "pt": "Você gosta desta comida?"
@@ -1072,7 +1072,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 85,
+      "sentence_id": "S_00085",
       "translations": {
         "en": "He is wearing a clean shirt today.",
         "pt": "Ele veste uma camisa limpa hoje."
@@ -1095,7 +1095,7 @@
       "minimum_level": 14
     },
     {
-      "sentence_id": 86,
+      "sentence_id": "S_00086",
       "translations": {
         "en": "She bought a blue shirt.",
         "pt": "Ela comprou uma camisa azul."
@@ -1118,7 +1118,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 88,
+      "sentence_id": "S_00088",
       "translations": {
         "en": "They found a dirty shirt.",
         "pt": "Eles encontraram uma camisa suja."
@@ -1141,7 +1141,7 @@
       "minimum_level": 14
     },
     {
-      "sentence_id": 89,
+      "sentence_id": "S_00089",
       "translations": {
         "en": "I bought new pants yesterday.",
         "pt": "Comprei calças novas ontem."
@@ -1164,7 +1164,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 92,
+      "sentence_id": "S_00092",
       "translations": {
         "en": "Do they have clean pants?",
         "pt": "Eles têm calças limpas?"
@@ -1187,7 +1187,7 @@
       "minimum_level": 14
     },
     {
-      "sentence_id": 93,
+      "sentence_id": "S_00093",
       "translations": {
         "en": "She is wearing a red dress today.",
         "pt": "Ela está vestindo um vestido vermelho hoje."
@@ -1210,7 +1210,7 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": 94,
+      "sentence_id": "S_00094",
       "translations": {
         "en": "My friend bought a blue dress.",
         "pt": "Meu amigo comprou um vestido azul."
@@ -1237,7 +1237,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 95,
+      "sentence_id": "S_00095",
       "translations": {
         "en": "They see the dress in the store.",
         "pt": "Eles veem o vestido na loja."
@@ -1260,7 +1260,7 @@
       "minimum_level": 2
     },
     {
-      "sentence_id": 97,
+      "sentence_id": "S_00097",
       "translations": {
         "en": "He wears a warm jacket today.",
         "pt": "Ele veste uma jaqueta quente hoje."
@@ -1283,7 +1283,7 @@
       "minimum_level": 14
     },
     {
-      "sentence_id": 98,
+      "sentence_id": "S_00098",
       "translations": {
         "en": "She bought a new jacket yesterday.",
         "pt": "Ela comprou uma jaqueta nova ontem."
@@ -1306,7 +1306,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 101,
+      "sentence_id": "S_00101",
       "translations": {
         "en": "My shoe is by the door.",
         "pt": "Meu sapato está perto da porta."
@@ -1325,7 +1325,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 104,
+      "sentence_id": "S_00104",
       "translations": {
         "en": "They wear the same shoes.",
         "pt": "Eles vestem os mesmos sapatos."
@@ -1344,7 +1344,7 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": 106,
+      "sentence_id": "S_00106",
       "translations": {
         "en": "She lost one blue sock.",
         "pt": "Ela perdeu uma meia azul."
@@ -1371,7 +1371,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 108,
+      "sentence_id": "S_00108",
       "translations": {
         "en": "He put on clean socks.",
         "pt": "Ele pôs meias limpas."
@@ -1394,7 +1394,7 @@
       "minimum_level": 14
     },
     {
-      "sentence_id": 109,
+      "sentence_id": "S_00109",
       "translations": {
         "en": "She is wearing a black hat today.",
         "pt": "Ela veste um chapéu preto hoje."
@@ -1417,7 +1417,7 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": 110,
+      "sentence_id": "S_00110",
       "translations": {
         "en": "He took off his hat.",
         "pt": "Ele tirou o chapéu."
@@ -1432,7 +1432,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 112,
+      "sentence_id": "S_00112",
       "translations": {
         "en": "Do you want my warm hat?",
         "pt": "Queres o meu chapéu quente?"
@@ -1455,7 +1455,7 @@
       "minimum_level": 14
     },
     {
-      "sentence_id": 115,
+      "sentence_id": "S_00115",
       "translations": {
         "en": "My friend bought warm gloves.",
         "pt": "Meu amigo comprou luvas quentes."
@@ -1482,7 +1482,7 @@
       "minimum_level": 14
     },
     {
-      "sentence_id": 117,
+      "sentence_id": "S_00117",
       "translations": {
         "en": "She is wearing a blue sweater today.",
         "pt": "Ela está vestindo um suéter azul hoje."
@@ -1505,7 +1505,7 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": 118,
+      "sentence_id": "S_00118",
       "translations": {
         "en": "My friend bought a sweater yesterday.",
         "pt": "Meu amigo comprou um casaco ontem."
@@ -1528,7 +1528,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 119,
+      "sentence_id": "S_00119",
       "translations": {
         "en": "They put the sweater on the chair.",
         "pt": "Eles puseram a camisola na cadeira."
@@ -1551,7 +1551,7 @@
       "minimum_level": 10
     },
     {
-      "sentence_id": 122,
+      "sentence_id": "S_00122",
       "translations": {
         "en": "She bought new underwear yesterday.",
         "pt": "Ela comprou roupa íntima nova ontem."

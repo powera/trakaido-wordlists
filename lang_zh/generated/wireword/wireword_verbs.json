@@ -5,10 +5,10 @@
     "base_english": "eat",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 1,
+    "level": 3,
     "word_type": "verb",
     "target_pinyin": "chī",
-    "tags": ["physical_action", "level_1"]
+    "tags": ["physical_action", "level_3"]
   },
   {
     "guid": "V01_002",
@@ -16,10 +16,10 @@
     "base_english": "drink",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 1,
+    "level": 3,
     "word_type": "verb",
     "target_pinyin": "hē",
-    "tags": ["physical_action", "level_1"]
+    "tags": ["physical_action", "level_3"]
   },
   {
     "guid": "V01_003",
@@ -27,10 +27,10 @@
     "base_english": "sleep",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 2,
+    "level": 3,
     "word_type": "verb",
     "target_pinyin": "shuì jiào",
-    "tags": ["physical_action", "level_2"]
+    "tags": ["physical_action", "level_3"]
   },
   {
     "guid": "V01_004",
@@ -71,10 +71,10 @@
     "base_english": "work",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 6,
+    "level": 3,
     "word_type": "verb",
     "target_pinyin": "gōng zuò",
-    "tags": ["physical_action", "level_6"]
+    "tags": ["physical_action", "level_3"]
   },
   {
     "guid": "V01_008",
@@ -93,10 +93,10 @@
     "base_english": "find",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 6,
+    "level": 3,
     "word_type": "verb",
     "target_pinyin": "zhǎo dào",
-    "tags": ["physical_action", "level_6"]
+    "tags": ["physical_action", "level_3"]
   },
   {
     "guid": "V01_010",
@@ -148,10 +148,10 @@
     "base_english": "open",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 5,
+    "level": 3,
     "word_type": "verb",
     "target_pinyin": "dǎ kāi",
-    "tags": ["physical_action", "level_5"]
+    "tags": ["physical_action", "level_3"]
   },
   {
     "guid": "V01_015",
@@ -159,10 +159,10 @@
     "base_english": "close",
     "corpus": "VERBS",
     "group": "Physical Action",
-    "level": 5,
+    "level": 3,
     "word_type": "verb",
     "target_pinyin": "guān bì",
-    "tags": ["physical_action", "level_5"]
+    "tags": ["physical_action", "level_3"]
   },
   {
     "guid": "V01_016",
@@ -1270,10 +1270,10 @@
     "base_english": "buy",
     "corpus": "VERBS",
     "group": "Possession",
-    "level": 6,
+    "level": 3,
     "word_type": "verb",
     "target_pinyin": "mǎi",
-    "tags": ["possession", "level_6"]
+    "tags": ["possession", "level_3"]
   },
   {
     "guid": "V06_005",
@@ -1424,10 +1424,10 @@
     "base_english": "say",
     "corpus": "VERBS",
     "group": "Communication",
-    "level": 4,
+    "level": 3,
     "word_type": "verb",
     "target_pinyin": "shuō",
-    "tags": ["communication", "level_4"]
+    "tags": ["communication", "level_3"]
   },
   {
     "guid": "V09_007",
@@ -1578,10 +1578,10 @@
     "base_english": "see",
     "corpus": "VERBS",
     "group": "Perception",
-    "level": 2,
+    "level": 3,
     "word_type": "verb",
     "target_pinyin": "kàn jiàn",
-    "tags": ["perception", "level_2"]
+    "tags": ["perception", "level_3"]
   },
   {
     "guid": "V10_002",
@@ -1732,10 +1732,10 @@
     "base_english": "walk",
     "corpus": "VERBS",
     "group": "Directional Movement",
-    "level": 4,
+    "level": 3,
     "word_type": "verb",
     "target_pinyin": "zǒu lù",
-    "tags": ["directional_movement", "level_4"]
+    "tags": ["directional_movement", "level_3"]
   },
   {
     "guid": "V12_002",
@@ -1754,10 +1754,10 @@
     "base_english": "run",
     "corpus": "VERBS",
     "group": "Directional Movement",
-    "level": 4,
+    "level": 3,
     "word_type": "verb",
     "target_pinyin": "pǎo",
-    "tags": ["directional_movement", "level_4"]
+    "tags": ["directional_movement", "level_3"]
   },
   {
     "guid": "V12_004",

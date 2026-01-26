@@ -1,9 +1,9 @@
 {
   "language": "sv",
-  "generated_date": "2026-01-25T20:32:49.801970",
+  "generated_date": "2026-01-26T10:01:10.834795",
   "sentences": [
     {
-      "sentence_id": 1,
+      "sentence_id": "S_00001",
       "translations": {
         "en": "They walk to the house.",
         "sv": "De går till huset."
@@ -22,7 +22,7 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": 3,
+      "sentence_id": "S_00003",
       "translations": {
         "en": "We open the house door.",
         "sv": "Vi öppnar dörren till huset."
@@ -45,7 +45,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 4,
+      "sentence_id": "S_00004",
       "translations": {
         "en": "He bought a new house.",
         "sv": "Han köpte ett nytt hus."
@@ -68,7 +68,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 5,
+      "sentence_id": "S_00005",
       "translations": {
         "en": "My son goes to school.",
         "sv": "Min son går till skolan."

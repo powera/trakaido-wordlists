@@ -1,9 +1,9 @@
 {
   "language": "fr",
-  "generated_date": "2026-01-25T20:32:49.461032",
+  "generated_date": "2026-01-26T10:01:10.491247",
   "sentences": [
     {
-      "sentence_id": 1,
+      "sentence_id": "S_00001",
       "translations": {
         "en": "They walk to the house.",
         "fr": "Ils marchent jusqu'à la maison."
@@ -22,7 +22,7 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": 3,
+      "sentence_id": "S_00003",
       "translations": {
         "en": "We open the house door.",
         "fr": "Nous ouvrons la porte de la maison."
@@ -45,7 +45,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 4,
+      "sentence_id": "S_00004",
       "translations": {
         "en": "He bought a new house.",
         "fr": "Il a acheté une nouvelle maison."
@@ -68,7 +68,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 5,
+      "sentence_id": "S_00005",
       "translations": {
         "en": "My son goes to school.",
         "fr": "Mon fils va à l'école."
@@ -91,7 +91,7 @@
       "minimum_level": 10
     },
     {
-      "sentence_id": 6,
+      "sentence_id": "S_00006",
       "translations": {
         "en": "She walks to school every day.",
         "fr": "Elle marche jusqu'à l'école tous les jours."
@@ -114,7 +114,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 9,
+      "sentence_id": "S_00009",
       "translations": {
         "en": "My friend works at the hospital.",
         "fr": "Mon ami travaille à l'hôpital."
@@ -137,7 +137,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 10,
+      "sentence_id": "S_00010",
       "translations": {
         "en": "She went to the hospital yesterday.",
         "fr": "Elle est allée à l'hôpital hier."
@@ -160,7 +160,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 13,
+      "sentence_id": "S_00013",
       "translations": {
         "en": "I buy bread at the store.",
         "fr": "J'achète du pain au magasin."
@@ -183,7 +183,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 14,
+      "sentence_id": "S_00014",
       "translations": {
         "en": "She found a toy in the store.",
         "fr": "Elle a trouvé un jouet dans le magasin."
@@ -206,7 +206,7 @@
       "minimum_level": 15
     },
     {
-      "sentence_id": 15,
+      "sentence_id": "S_00015",
       "translations": {
         "en": "We close the store at night.",
         "fr": "Nous fermons le magasin la nuit."
@@ -229,7 +229,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 16,
+      "sentence_id": "S_00016",
       "translations": {
         "en": "They walked to the store yesterday.",
         "fr": "Ils ont marché au magasin hier."
@@ -252,7 +252,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 17,
+      "sentence_id": "S_00017",
       "translations": {
         "en": "We eat at the restaurant today.",
         "fr": "Nous mangeons au restaurant aujourd'hui."
@@ -275,7 +275,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 20,
+      "sentence_id": "S_00020",
       "translations": {
         "en": "My friend works at a restaurant.",
         "fr": "Mon ami travaille dans un restaurant."
@@ -298,7 +298,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 25,
+      "sentence_id": "S_00025",
       "translations": {
         "en": "I am walking to the bank today.",
         "fr": "Je marche à la banque aujourd'hui."
@@ -321,7 +321,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 28,
+      "sentence_id": "S_00028",
       "translations": {
         "en": "My friend works at the bank.",
         "fr": "Mon ami travaille à la banque."
@@ -344,7 +344,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 29,
+      "sentence_id": "S_00029",
       "translations": {
         "en": "She walks to the library today.",
         "fr": "Elle marche à la bibliothèque aujourd'hui."
@@ -363,7 +363,7 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": 33,
+      "sentence_id": "S_00033",
       "translations": {
         "en": "We are visiting the museum today.",
         "fr": "Nous visitons le musée aujourd'hui."
@@ -378,7 +378,7 @@
       "minimum_level": 1
     },
     {
-      "sentence_id": 34,
+      "sentence_id": "S_00034",
       "translations": {
         "en": "She walks to the museum.",
         "fr": "Elle marche au musée."
@@ -397,7 +397,7 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": 35,
+      "sentence_id": "S_00035",
       "translations": {
         "en": "They saw paintings at the museum.",
         "fr": "Ils ont vu des peintures au musée."
@@ -420,7 +420,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 36,
+      "sentence_id": "S_00036",
       "translations": {
         "en": "My friend works at the museum.",
         "fr": "Mon ami travaille au musée."
@@ -443,7 +443,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 37,
+      "sentence_id": "S_00037",
       "translations": {
         "en": "The fire station is near the school.",
         "fr": "La caserne de pompiers est près de l'école."
@@ -466,7 +466,7 @@
       "minimum_level": 20
     },
     {
-      "sentence_id": 38,
+      "sentence_id": "S_00038",
       "translations": {
         "en": "My friend works at the fire station.",
         "fr": "Mon ami travaille à la caserne de pompiers."
@@ -489,7 +489,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 39,
+      "sentence_id": "S_00039",
       "translations": {
         "en": "They drove past the fire station.",
         "fr": "Ils ont conduit devant la caserne de pompiers."
@@ -508,7 +508,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 42,
+      "sentence_id": "S_00042",
       "translations": {
         "en": "We ate warm bread with butter.",
         "fr": "Nous avons mangé du pain chaud avec du beurre."
@@ -535,7 +535,7 @@
       "minimum_level": 14
     },
     {
-      "sentence_id": 45,
+      "sentence_id": "S_00045",
       "translations": {
         "en": "She buys meat at the market.",
         "fr": "Elle achète de la viande au marché."
@@ -558,7 +558,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 46,
+      "sentence_id": "S_00046",
       "translations": {
         "en": "They eat meat for dinner.",
         "fr": "Ils mangent de la viande au dîner."
@@ -581,7 +581,7 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": 47,
+      "sentence_id": "S_00047",
       "translations": {
         "en": "My friend does not like meat.",
         "fr": "Mon ami n'aime pas la viande."
@@ -604,7 +604,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 49,
+      "sentence_id": "S_00049",
       "translations": {
         "en": "She adds sugar to her tea.",
         "fr": "Elle ajoute du sucre à son thé."
@@ -627,7 +627,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 50,
+      "sentence_id": "S_00050",
       "translations": {
         "en": "We bought sugar at the store.",
         "fr": "Nous avons acheté du sucre au magasin."
@@ -650,7 +650,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 52,
+      "sentence_id": "S_00052",
       "translations": {
         "en": "They want sugar in their coffee.",
         "fr": "Ils veulent du sucre dans leur café."
@@ -673,7 +673,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 53,
+      "sentence_id": "S_00053",
       "translations": {
         "en": "She puts salt on the meat.",
         "fr": "Elle met du sel sur la viande."
@@ -696,7 +696,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 54,
+      "sentence_id": "S_00054",
       "translations": {
         "en": "I need salt for the soup.",
         "fr": "J'ai besoin de sel pour la soupe."
@@ -719,7 +719,7 @@
       "minimum_level": 10
     },
     {
-      "sentence_id": 55,
+      "sentence_id": "S_00055",
       "translations": {
         "en": "They bought salt at the store.",
         "fr": "Ils ont acheté du sel au magasin."
@@ -742,7 +742,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 56,
+      "sentence_id": "S_00056",
       "translations": {
         "en": "My friend tastes salt on bread.",
         "fr": "Mon ami goûte le sel sur le pain."
@@ -769,7 +769,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 58,
+      "sentence_id": "S_00058",
       "translations": {
         "en": "They buy potatoes at the market.",
         "fr": "Ils achètent des pommes de terre au marché."
@@ -792,7 +792,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 62,
+      "sentence_id": "S_00062",
       "translations": {
         "en": "He bought three apples yesterday.",
         "fr": "Il a acheté trois pommes hier."
@@ -819,7 +819,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 63,
+      "sentence_id": "S_00063",
       "translations": {
         "en": "My friend gave me an apple.",
         "fr": "Mon ami m'a donné une pomme."
@@ -842,7 +842,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 65,
+      "sentence_id": "S_00065",
       "translations": {
         "en": "I eat a banana every morning.",
         "fr": "Je mange une banane tous les matins."
@@ -865,7 +865,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 70,
+      "sentence_id": "S_00070",
       "translations": {
         "en": "We bought tomatoes at the market.",
         "fr": "Nous avons acheté des tomates au marché."
@@ -888,7 +888,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 71,
+      "sentence_id": "S_00071",
       "translations": {
         "en": "He puts a tomato in the salad.",
         "fr": "Il met une tomate dans la salade."
@@ -911,7 +911,7 @@
       "minimum_level": 11
     },
     {
-      "sentence_id": 73,
+      "sentence_id": "S_00073",
       "translations": {
         "en": "She eats rice every day.",
         "fr": "Elle mange du riz tous les jours."
@@ -934,7 +934,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 75,
+      "sentence_id": "S_00075",
       "translations": {
         "en": "My friend wants more rice.",
         "fr": "Mon ami veut plus de riz."
@@ -957,7 +957,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 79,
+      "sentence_id": "S_00079",
       "translations": {
         "en": "They bought tomato soup at lunch.",
         "fr": "Ils ont acheté de la soupe à la tomate au déjeuner."
@@ -984,7 +984,7 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": 80,
+      "sentence_id": "S_00080",
       "translations": {
         "en": "My friend ate soup with bread.",
         "fr": "Mon ami a mangé de la soupe avec du pain."
@@ -1011,7 +1011,7 @@
       "minimum_level": 5
     },
     {
-      "sentence_id": 81,
+      "sentence_id": "S_00081",
       "translations": {
         "en": "I buy food at the market.",
         "fr": "J'achète de la nourriture au marché."
@@ -1034,7 +1034,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 83,
+      "sentence_id": "S_00083",
       "translations": {
         "en": "They have food in their bags.",
         "fr": "Ils ont de la nourriture dans leurs sacs."
@@ -1057,7 +1057,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 84,
+      "sentence_id": "S_00084",
       "translations": {
         "en": "Do you like this food?",
         "fr": "Aimes-tu cette nourriture ?"
@@ -1076,7 +1076,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 85,
+      "sentence_id": "S_00085",
       "translations": {
         "en": "He is wearing a clean shirt today.",
         "fr": "Il porte une chemise propre aujourd'hui."
@@ -1099,7 +1099,7 @@
       "minimum_level": 14
     },
     {
-      "sentence_id": 86,
+      "sentence_id": "S_00086",
       "translations": {
         "en": "She bought a blue shirt.",
         "fr": "Elle a acheté une chemise bleue."
@@ -1122,7 +1122,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 88,
+      "sentence_id": "S_00088",
       "translations": {
         "en": "They found a dirty shirt.",
         "fr": "Ils ont trouvé une chemise sale."
@@ -1145,7 +1145,7 @@
       "minimum_level": 14
     },
     {
-      "sentence_id": 89,
+      "sentence_id": "S_00089",
       "translations": {
         "en": "I bought new pants yesterday.",
         "fr": "J'ai acheté un pantalon neuf hier."
@@ -1168,7 +1168,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 92,
+      "sentence_id": "S_00092",
       "translations": {
         "en": "Do they have clean pants?",
         "fr": "Ont-ils des pantalons propres ?"
@@ -1191,7 +1191,7 @@
       "minimum_level": 14
     },
     {
-      "sentence_id": 93,
+      "sentence_id": "S_00093",
       "translations": {
         "en": "She is wearing a red dress today.",
         "fr": "Elle porte une robe rouge aujourd'hui."
@@ -1214,7 +1214,7 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": 94,
+      "sentence_id": "S_00094",
       "translations": {
         "en": "My friend bought a blue dress.",
         "fr": "Mon ami a acheté une robe bleue."
@@ -1241,7 +1241,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 95,
+      "sentence_id": "S_00095",
       "translations": {
         "en": "They see the dress in the store.",
         "fr": "Ils voient la robe dans le magasin."
@@ -1264,7 +1264,7 @@
       "minimum_level": 2
     },
     {
-      "sentence_id": 97,
+      "sentence_id": "S_00097",
       "translations": {
         "en": "He wears a warm jacket today.",
         "fr": "Il porte une veste chaude aujourd'hui."
@@ -1287,7 +1287,7 @@
       "minimum_level": 14
     },
     {
-      "sentence_id": 98,
+      "sentence_id": "S_00098",
       "translations": {
         "en": "She bought a new jacket yesterday.",
         "fr": "Elle a acheté une nouvelle veste hier."
@@ -1310,7 +1310,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 101,
+      "sentence_id": "S_00101",
       "translations": {
         "en": "My shoe is by the door.",
         "fr": "Ma chaussure est près de la porte."
@@ -1329,7 +1329,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 104,
+      "sentence_id": "S_00104",
       "translations": {
         "en": "They wear the same shoes.",
         "fr": "Ils portent les mêmes chaussures."
@@ -1348,7 +1348,7 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": 106,
+      "sentence_id": "S_00106",
       "translations": {
         "en": "She lost one blue sock.",
         "fr": "Elle a perdu une chaussette bleue."
@@ -1375,7 +1375,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 108,
+      "sentence_id": "S_00108",
       "translations": {
         "en": "He put on clean socks.",
         "fr": "Il a mis des chaussettes propres."
@@ -1398,7 +1398,7 @@
       "minimum_level": 14
     },
     {
-      "sentence_id": 109,
+      "sentence_id": "S_00109",
       "translations": {
         "en": "She is wearing a black hat today.",
         "fr": "Elle porte un chapeau noir aujourd'hui."
@@ -1421,7 +1421,7 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": 110,
+      "sentence_id": "S_00110",
       "translations": {
         "en": "He took off his hat.",
         "fr": "Il a enlevé son chapeau."
@@ -1436,7 +1436,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 112,
+      "sentence_id": "S_00112",
       "translations": {
         "en": "Do you want my warm hat?",
         "fr": "Veux-tu mon chapeau chaud ?"
@@ -1459,7 +1459,7 @@
       "minimum_level": 14
     },
     {
-      "sentence_id": 115,
+      "sentence_id": "S_00115",
       "translations": {
         "en": "My friend bought warm gloves.",
         "fr": "Mon ami a acheté des gants chauds."
@@ -1486,7 +1486,7 @@
       "minimum_level": 14
     },
     {
-      "sentence_id": 117,
+      "sentence_id": "S_00117",
       "translations": {
         "en": "She is wearing a blue sweater today.",
         "fr": "Elle porte un pull bleu aujourd'hui."
@@ -1509,7 +1509,7 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": 118,
+      "sentence_id": "S_00118",
       "translations": {
         "en": "My friend bought a sweater yesterday.",
         "fr": "Mon ami a acheté un pull hier."
@@ -1532,7 +1532,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 119,
+      "sentence_id": "S_00119",
       "translations": {
         "en": "They put the sweater on the chair.",
         "fr": "Ils ont mis le pull sur la chaise."
@@ -1555,7 +1555,7 @@
       "minimum_level": 10
     },
     {
-      "sentence_id": 122,
+      "sentence_id": "S_00122",
       "translations": {
         "en": "She bought new underwear yesterday.",
         "fr": "Elle a acheté des sous-vêtements neufs hier."
@@ -1586,7 +1586,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 127,
+      "sentence_id": "S_00127",
       "translations": {
         "en": "We ate pizza after school.",
         "fr": "Nous avons mangé de la pizza après l'école."
@@ -1609,7 +1609,7 @@
       "minimum_level": 11
     },
     {
-      "sentence_id": 128,
+      "sentence_id": "S_00128",
       "translations": {
         "en": "The dog will not eat.",
         "fr": "Le chien ne mangera pas."
@@ -1628,7 +1628,7 @@
       "minimum_level": 2
     },
     {
-      "sentence_id": 129,
+      "sentence_id": "S_00129",
       "translations": {
         "en": "I drink water after running.",
         "fr": "Je bois de l'eau après avoir couru."
@@ -1651,7 +1651,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 130,
+      "sentence_id": "S_00130",
       "translations": {
         "en": "She drank coffee this morning.",
         "fr": "Elle a bu du café ce matin."
@@ -1674,7 +1674,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 137,
+      "sentence_id": "S_00137",
       "translations": {
         "en": "He rides his bicycle to school.",
         "fr": "Il monte son vélo à l'école."
@@ -1697,7 +1697,7 @@
       "minimum_level": 20
     },
     {
-      "sentence_id": 138,
+      "sentence_id": "S_00138",
       "translations": {
         "en": "She bought a new bicycle yesterday.",
         "fr": "Elle a acheté un vélo neuf hier."
@@ -1724,7 +1724,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 140,
+      "sentence_id": "S_00140",
       "translations": {
         "en": "They want a red bicycle.",
         "fr": "Ils veulent un vélo rouge."
@@ -1747,7 +1747,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 149,
+      "sentence_id": "S_00149",
       "translations": {
         "en": "I took a taxi home.",
         "fr": "J'ai pris un taxi pour rentrer chez moi."
@@ -1766,7 +1766,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 150,
+      "sentence_id": "S_00150",
       "translations": {
         "en": "She waits for a taxi.",
         "fr": "Elle attend un taxi."
@@ -1785,7 +1785,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 151,
+      "sentence_id": "S_00151",
       "translations": {
         "en": "We saw a yellow taxi.",
         "fr": "Nous avons vu un taxi jaune."
@@ -1808,7 +1808,7 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": 152,
+      "sentence_id": "S_00152",
       "translations": {
         "en": "They called a taxi yesterday.",
         "fr": "Ils ont appelé un taxi hier."
@@ -1831,7 +1831,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 153,
+      "sentence_id": "S_00153",
       "translations": {
         "en": "The truck is loud today.",
         "fr": "Le camion est fort aujourd'hui."
@@ -1854,7 +1854,7 @@
       "minimum_level": 14
     },
     {
-      "sentence_id": 156,
+      "sentence_id": "S_00156",
       "translations": {
         "en": "My friend bought a new truck.",
         "fr": "Mon ami a acheté un camion neuf."
@@ -1881,7 +1881,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 161,
+      "sentence_id": "S_00161",
       "translations": {
         "en": "She puts a fork beside her plate.",
         "fr": "Elle met une fourchette à côté de son assiette."
@@ -1904,7 +1904,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 162,
+      "sentence_id": "S_00162",
       "translations": {
         "en": "I lost my fork at lunch.",
         "fr": "J'ai perdu ma fourchette au déjeuner."
@@ -1927,7 +1927,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 164,
+      "sentence_id": "S_00164",
       "translations": {
         "en": "They bought new forks for dinner.",
         "fr": "Ils ont acheté de nouvelles fourchettes pour le dîner."
@@ -1950,7 +1950,7 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": 169,
+      "sentence_id": "S_00169",
       "translations": {
         "en": "She drinks tea from a cup.",
         "fr": "Elle boit du thé dans une tasse."
@@ -1973,7 +1973,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 173,
+      "sentence_id": "S_00173",
       "translations": {
         "en": "She put the plate on the table.",
         "fr": "Elle a mis l'assiette sur la table."
@@ -1996,7 +1996,7 @@
       "minimum_level": 10
     },
     {
-      "sentence_id": 177,
+      "sentence_id": "S_00177",
       "translations": {
         "en": "She reads a new book.",
         "fr": "Elle lit un livre nouveau."
@@ -2019,7 +2019,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 178,
+      "sentence_id": "S_00178",
       "translations": {
         "en": "I found the book yesterday.",
         "fr": "J'ai trouvé le livre hier."
@@ -2042,7 +2042,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 179,
+      "sentence_id": "S_00179",
       "translations": {
         "en": "My friend gave me a book.",
         "fr": "Mon ami m'a donné un livre."
@@ -2065,7 +2065,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 180,
+      "sentence_id": "S_00180",
       "translations": {
         "en": "They put the book on the table.",
         "fr": "Ils ont mis le livre sur la table."
@@ -2088,7 +2088,7 @@
       "minimum_level": 10
     },
     {
-      "sentence_id": 186,
+      "sentence_id": "S_00186",
       "translations": {
         "en": "My friend lost his cell phone.",
         "fr": "Mon ami a perdu son téléphone portable."
@@ -2115,7 +2115,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 188,
+      "sentence_id": "S_00188",
       "translations": {
         "en": "He found a cell phone yesterday.",
         "fr": "Il a trouvé un téléphone portable hier."
@@ -2142,7 +2142,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 189,
+      "sentence_id": "S_00189",
       "translations": {
         "en": "She carries a bag to school.",
         "fr": "Elle porte un sac à l'école."
@@ -2165,7 +2165,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 192,
+      "sentence_id": "S_00192",
       "translations": {
         "en": "He bought a new bag today.",
         "fr": "Il a acheté un sac neuf aujourd'hui."
@@ -2192,7 +2192,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 194,
+      "sentence_id": "S_00194",
       "translations": {
         "en": "She opened her wallet and smiled.",
         "fr": "Elle a ouvert son portefeuille et a souri."
@@ -2215,7 +2215,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 195,
+      "sentence_id": "S_00195",
       "translations": {
         "en": "We lost our wallet at the market.",
         "fr": "Nous avons perdu notre portefeuille au marché."
@@ -2238,7 +2238,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 198,
+      "sentence_id": "S_00198",
       "translations": {
         "en": "My friend lost his eyeglasses.",
         "fr": "Mon ami a perdu ses lunettes."
@@ -2261,7 +2261,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 201,
+      "sentence_id": "S_00201",
       "translations": {
         "en": "She opens the bottle now.",
         "fr": "Elle ouvre la bouteille maintenant."
@@ -2280,7 +2280,7 @@
       "minimum_level": 5
     },
     {
-      "sentence_id": 202,
+      "sentence_id": "S_00202",
       "translations": {
         "en": "He puts the bottle on the table.",
         "fr": "Il met la bouteille sur la table."
@@ -2303,7 +2303,7 @@
       "minimum_level": 10
     },
     {
-      "sentence_id": 203,
+      "sentence_id": "S_00203",
       "translations": {
         "en": "We found an empty bottle.",
         "fr": "Nous avons trouvé une bouteille vide."
@@ -2326,7 +2326,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 204,
+      "sentence_id": "S_00204",
       "translations": {
         "en": "They drink from the bottle.",
         "fr": "Ils boivent de la bouteille."
@@ -2345,7 +2345,7 @@
       "minimum_level": 2
     },
     {
-      "sentence_id": 205,
+      "sentence_id": "S_00205",
       "translations": {
         "en": "She looks in the mirror now.",
         "fr": "Elle se regarde dans le miroir maintenant."
@@ -2364,7 +2364,7 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": 206,
+      "sentence_id": "S_00206",
       "translations": {
         "en": "I put the mirror on the wall.",
         "fr": "J'ai mis le miroir sur le mur."
@@ -2387,7 +2387,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 210,
+      "sentence_id": "S_00210",
       "translations": {
         "en": "I left a towel on the chair.",
         "fr": "J'ai laissé une serviette sur la chaise."
@@ -2410,7 +2410,7 @@
       "minimum_level": 12
     },
     {
-      "sentence_id": 213,
+      "sentence_id": "S_00213",
       "translations": {
         "en": "My dog sleeps on the bed.",
         "fr": "Mon chien dort sur le lit."
@@ -2433,7 +2433,7 @@
       "minimum_level": 10
     },
     {
-      "sentence_id": 215,
+      "sentence_id": "S_00215",
       "translations": {
         "en": "She walked the dog yesterday.",
         "fr": "Elle a marché le chien hier."
@@ -2456,7 +2456,7 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": 216,
+      "sentence_id": "S_00216",
       "translations": {
         "en": "Do you see the dog?",
         "fr": "Vois-tu le chien ?"
@@ -2475,7 +2475,7 @@
       "minimum_level": 2
     },
     {
-      "sentence_id": 218,
+      "sentence_id": "S_00218",
       "translations": {
         "en": "My friend has a black cat.",
         "fr": "Mon ami a un chat noir."
@@ -2502,7 +2502,7 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": 219,
+      "sentence_id": "S_00219",
       "translations": {
         "en": "She saw a cat by the door.",
         "fr": "Elle a vu un chat près de la porte."
@@ -2525,7 +2525,7 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": 221,
+      "sentence_id": "S_00221",
       "translations": {
         "en": "A bird sits on the fence.",
         "fr": "Un oiseau est posé sur la clôture."
