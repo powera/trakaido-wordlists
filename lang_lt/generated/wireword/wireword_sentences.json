@@ -1,6 +1,6 @@
 {
   "language": "lt",
-  "generated_date": "2026-01-26T10:01:10.218867",
+  "generated_date": "2026-01-26T11:02:17.448015",
   "sentences": [
     {
       "sentence_id": "S_00001",
@@ -19,7 +19,11 @@
         }
       ],
       "source": "buivolas_guided_N07_001",
-      "minimum_level": 4
+      "minimum_level": 4,
+      "audio": {
+        "ruta": "dab6d4a8fc262e8cf439b050bbe1e1c1",
+        "jonas": "9a0ff2d66905a5aa1ed3502f4fafdc9b"
+      }
     },
     {
       "sentence_id": "S_00003",
@@ -42,7 +46,11 @@
         }
       ],
       "source": "buivolas_guided_N07_001",
-      "minimum_level": 8
+      "minimum_level": 8,
+      "audio": {
+        "ruta": "b02aab29e189e700223922fcd3e03324",
+        "jonas": "fb9de53a913c8392c548ef2edd3b8d7b"
+      }
     },
     {
       "sentence_id": "S_00004",
@@ -65,7 +73,11 @@
         }
       ],
       "source": "buivolas_guided_N07_001",
-      "minimum_level": 13
+      "minimum_level": 13,
+      "audio": {
+        "ruta": "839943c181cb526147b92fd71c0d2ad6",
+        "jonas": "6f8c94eb385b670d91f56c03ef1e6b2f"
+      }
     },
     {
       "sentence_id": "S_00005",
@@ -88,7 +100,11 @@
         }
       ],
       "source": "buivolas_guided_N07_002",
-      "minimum_level": 10
+      "minimum_level": 10,
+      "audio": {
+        "ruta": "a47758fc2091a8a27e4365707807843b",
+        "jonas": "f8b31aa979ae7b0a0d63cbcfd9e12a82"
+      }
     },
     {
       "sentence_id": "S_00006",
@@ -111,7 +127,11 @@
         }
       ],
       "source": "buivolas_guided_N07_002",
-      "minimum_level": 13
+      "minimum_level": 13,
+      "audio": {
+        "ruta": "03f08f33e9dfe79a64aef702210ef0db",
+        "jonas": "130cf72a69fc31aef3f0b6dc1c2b7966"
+      }
     },
     {
       "sentence_id": "S_00009",
@@ -134,7 +154,11 @@
         }
       ],
       "source": "buivolas_guided_N07_003",
-      "minimum_level": 6
+      "minimum_level": 6,
+      "audio": {
+        "ruta": "7476345f22323e112506284219e46419",
+        "jonas": "51d9766807191ccff553fadeb12fe1f9"
+      }
     },
     {
       "sentence_id": "S_00010",
@@ -157,7 +181,11 @@
         }
       ],
       "source": "buivolas_guided_N07_003",
-      "minimum_level": 13
+      "minimum_level": 13,
+      "audio": {
+        "ruta": "e74513c092d293aa1f9c459c4250b668",
+        "jonas": "921d9bb5e3b86f9a45992ff9fb528786"
+      }
     },
     {
       "sentence_id": "S_00013",
@@ -180,7 +208,11 @@
         }
       ],
       "source": "buivolas_guided_N07_005",
-      "minimum_level": 6
+      "minimum_level": 6,
+      "audio": {
+        "ruta": "f295d2e52500c27c6f7219009a66a725",
+        "jonas": "2db6da9eff445286330c4a46553834c5"
+      }
     },
     {
       "sentence_id": "S_00014",
@@ -203,7 +235,11 @@
         }
       ],
       "source": "buivolas_guided_N07_005",
-      "minimum_level": 15
+      "minimum_level": 15,
+      "audio": {
+        "ruta": "beac48897781861e7fe735912875207d",
+        "jonas": "0bddd39f03b694fe24e75c13196a8b84"
+      }
     },
     {
       "sentence_id": "S_00015",
@@ -226,7 +262,11 @@
         }
       ],
       "source": "buivolas_guided_N07_005",
-      "minimum_level": 13
+      "minimum_level": 13,
+      "audio": {
+        "ruta": "b5abdd04a22288b7a77c87fa1b61ce61",
+        "jonas": "559ce6a18309387c13a09bfcdf4e128e"
+      }
     },
     {
       "sentence_id": "S_00016",
@@ -249,7 +289,11 @@
         }
       ],
       "source": "buivolas_guided_N07_005",
-      "minimum_level": 13
+      "minimum_level": 13,
+      "audio": {
+        "ruta": "5f80783f320a8a1aacedc29975dedfd9",
+        "jonas": "73a3d673956d5057e851c51b12c99c16"
+      }
     },
     {
       "sentence_id": "S_00017",
@@ -272,7 +316,11 @@
         }
       ],
       "source": "buivolas_guided_N07_006",
-      "minimum_level": 13
+      "minimum_level": 13,
+      "audio": {
+        "ruta": "860536f907d4e0ab5f9e5e38e28751e3",
+        "jonas": "81ea076bdd9216538a92e58fcc1026d6"
+      }
     },
     {
       "sentence_id": "S_00020",
@@ -295,7 +343,11 @@
         }
       ],
       "source": "buivolas_guided_N07_006",
-      "minimum_level": 6
+      "minimum_level": 6,
+      "audio": {
+        "ruta": "8256149444852e7b76fd750896b9c7a3",
+        "jonas": "c8ea5c8264733950fc9bce51ec5f619d"
+      }
     },
     {
       "sentence_id": "S_00025",
@@ -318,7 +370,11 @@
         }
       ],
       "source": "buivolas_guided_N07_008",
-      "minimum_level": 13
+      "minimum_level": 13,
+      "audio": {
+        "ruta": "d668e1f3886618a424d8ff0ac98701be",
+        "jonas": "5e8e448ff3bb8e9eb828dd7fc1b84302"
+      }
     },
     {
       "sentence_id": "S_00028",
@@ -341,7 +397,11 @@
         }
       ],
       "source": "buivolas_guided_N07_008",
-      "minimum_level": 6
+      "minimum_level": 6,
+      "audio": {
+        "ruta": "b7c83b37128997253e7c9b5ab06f40f3",
+        "jonas": "3e5d08e0004fd60c8722778c98c77919"
+      }
     },
     {
       "sentence_id": "S_00029",
@@ -360,7 +420,11 @@
         }
       ],
       "source": "buivolas_guided_N07_009",
-      "minimum_level": 4
+      "minimum_level": 4,
+      "audio": {
+        "ruta": "14ec7998a245230852d6e4320aa616dc",
+        "jonas": "5ae8e5054d69dd712df349cba4bcbffa"
+      }
     },
     {
       "sentence_id": "S_00033",
@@ -375,7 +439,11 @@
         }
       ],
       "source": "buivolas_guided_N07_010",
-      "minimum_level": 1
+      "minimum_level": 1,
+      "audio": {
+        "ruta": "27f693995cac514c2959d44fcc8a0657",
+        "jonas": "58114e1c9546545652bc56e1e3ffbffd"
+      }
     },
     {
       "sentence_id": "S_00034",
@@ -394,7 +462,11 @@
         }
       ],
       "source": "buivolas_guided_N07_010",
-      "minimum_level": 4
+      "minimum_level": 4,
+      "audio": {
+        "ruta": "cfad87bcb82d5a30e422f29499adede1",
+        "jonas": "cf3b316039404823385430fd0761a2fb"
+      }
     },
     {
       "sentence_id": "S_00035",
@@ -417,7 +489,11 @@
         }
       ],
       "source": "buivolas_guided_N07_010",
-      "minimum_level": 13
+      "minimum_level": 13,
+      "audio": {
+        "ruta": "218c5fc468a6f90fde86da6f62b0e921",
+        "jonas": "731edf1cfdfb82740da91dcbd6d66dee"
+      }
     },
     {
       "sentence_id": "S_00036",
@@ -440,7 +516,11 @@
         }
       ],
       "source": "buivolas_guided_N07_010",
-      "minimum_level": 6
+      "minimum_level": 6,
+      "audio": {
+        "ruta": "c7ceca2c3b6b5742a40e09b15217319c",
+        "jonas": "29e1e6424b7842fc36bfddd88fe20571"
+      }
     },
     {
       "sentence_id": "S_00037",
@@ -463,7 +543,11 @@
         }
       ],
       "source": "buivolas_guided_N07_011",
-      "minimum_level": 20
+      "minimum_level": 20,
+      "audio": {
+        "ruta": "a168383760b22d2fb4e5e06a9edaefa9",
+        "jonas": "345a03e747a38e5ca0ff9a669ea2dd2f"
+      }
     },
     {
       "sentence_id": "S_00038",
@@ -486,7 +570,11 @@
         }
       ],
       "source": "buivolas_guided_N07_011",
-      "minimum_level": 6
+      "minimum_level": 6,
+      "audio": {
+        "ruta": "094b6a851a9e3b79bc638f59bc0642ea",
+        "jonas": "67721fbf194c4e40db414c816985ca5b"
+      }
     },
     {
       "sentence_id": "S_00039",
@@ -505,7 +593,11 @@
         }
       ],
       "source": "buivolas_guided_N07_011",
-      "minimum_level": 17
+      "minimum_level": 17,
+      "audio": {
+        "ruta": "853c70b1cb07b3686dde5501bc65b470",
+        "jonas": "25efe7da4c097d8bb99f1ccc39430a67"
+      }
     },
     {
       "sentence_id": "S_00042",
