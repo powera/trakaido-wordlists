@@ -1,5 +1,2646 @@
 {
   "language": "zh",
-  "generated_date": "2026-01-25T08:43:51.890098",
-  "sentences": []
+  "generated_date": "2026-01-25T20:32:49.322208",
+  "sentences": [
+    {
+      "sentence_id": 1,
+      "translations": {
+        "en": "They walk to the house.",
+        "zh": "他们走到房子里。"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_001",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā men zǒu dào fáng zi lǐ 。",
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": 3,
+      "translations": {
+        "en": "We open the house door.",
+        "zh": "我们打开房子的门。"
+      },
+      "linked_words": [
+        {
+          "guid": "V01_014",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N47_001",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ men dǎ kāi fáng zi de mén 。",
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 4,
+      "translations": {
+        "en": "He bought a new house.",
+        "zh": "他买了一所新的房子。"
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā mǎi le yī suǒ xīn de fáng zi 。",
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 5,
+      "translations": {
+        "en": "My son goes to school.",
+        "zh": "我的 儿子 去 学校"
+      },
+      "linked_words": [
+        {
+          "guid": "N35_036",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V12_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ de   ér zi   qù   xué xiào",
+      "source": "buivolas_guided_N07_002",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": 6,
+      "translations": {
+        "en": "She walks to school every day.",
+        "zh": "她每天走路去学校。"
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā měi tiān zǒu lù qù xué xiào 。",
+      "source": "buivolas_guided_N07_002",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 9,
+      "translations": {
+        "en": "My friend works at the hospital.",
+        "zh": "我的朋友在医院工作。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_003",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ de péng yǒu zài yī yuàn gōng zuò 。",
+      "source": "buivolas_guided_N07_003",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 10,
+      "translations": {
+        "en": "She went to the hospital yesterday.",
+        "zh": "她昨天去了医院。"
+      },
+      "linked_words": [
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V12_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_003",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā zuó tiān qù le yī yuàn 。",
+      "source": "buivolas_guided_N07_003",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 13,
+      "translations": {
+        "en": "I buy bread at the store.",
+        "zh": "我在商店买面包"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ zài shāng diàn mǎi miàn bāo",
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 14,
+      "translations": {
+        "en": "She found a toy in the store.",
+        "zh": "她在商店里找到了一个玩具。"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_009",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N08_036",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā zài shāng diàn lǐ zhǎo dào le yí gè wán jù 。",
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 15
+    },
+    {
+      "sentence_id": 15,
+      "translations": {
+        "en": "We close the store at night.",
+        "zh": "我们在夜晚关闭商店。"
+      },
+      "linked_words": [
+        {
+          "guid": "N25_003",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_015",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ men zài yè wǎn guān bì shāng diàn 。",
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 16,
+      "translations": {
+        "en": "They walked to the store yesterday.",
+        "zh": "他们昨天走路去商店"
+      },
+      "linked_words": [
+        {
+          "guid": "D03_002",
+          "grammatical_form": "adverb/zh_base"
+        },
+        {
+          "guid": "V12_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā men zuó tiān zǒu lù qù shāng diàn",
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 17,
+      "translations": {
+        "en": "We eat at the restaurant today.",
+        "zh": "我们今天在餐厅吃饭。"
+      },
+      "linked_words": [
+        {
+          "guid": "D03_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_006",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_001",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ men jīn tiān zài cān tīng chī fàn 。",
+      "source": "buivolas_guided_N07_006",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 20,
+      "translations": {
+        "en": "My friend works at a restaurant.",
+        "zh": "我的朋友在餐厅工作。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_006",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ de péng yǒu zài cān tīng gōng zuò 。",
+      "source": "buivolas_guided_N07_006",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 25,
+      "translations": {
+        "en": "I am walking to the bank today.",
+        "zh": "我今天走路去银行。"
+      },
+      "linked_words": [
+        {
+          "guid": "D03_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V12_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_008",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ jīn tiān zǒu lù qù yín háng 。",
+      "source": "buivolas_guided_N07_008",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 28,
+      "translations": {
+        "en": "My friend works at the bank.",
+        "zh": "我的朋友在银行工作。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_008",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ de péng yǒu zài yín háng gōng zuò 。",
+      "source": "buivolas_guided_N07_008",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 29,
+      "translations": {
+        "en": "She walks to the library today.",
+        "zh": "她今天走路去图书馆。"
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_009",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā jīn tiān zǒu lù qù tú shū guǎn 。",
+      "source": "buivolas_guided_N07_009",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": 33,
+      "translations": {
+        "en": "We are visiting the museum today.",
+        "zh": "我们今天参观博物馆。"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_010",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ men jīn tiān cān guān bó wù guǎn 。",
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": 34,
+      "translations": {
+        "en": "She walks to the museum.",
+        "zh": "她走路去博物馆。"
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_010",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā zǒu lù qù bó wù guǎn 。",
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": 35,
+      "translations": {
+        "en": "They saw paintings at the museum.",
+        "zh": "他们在博物馆看见了绘画。"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_010",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V10_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N41_004",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā men zài bó wù guǎn kàn jiàn le huì huà 。",
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 36,
+      "translations": {
+        "en": "My friend works at the museum.",
+        "zh": "我的朋友在博物馆工作。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_010",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ de péng yǒu zài bó wù guǎn gōng zuò 。",
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 37,
+      "translations": {
+        "en": "The fire station is near the school.",
+        "zh": "消防局靠近学校"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_011",
+          "grammatical_form": null
+        },
+        {
+          "guid": "R99_026",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "xiāo fáng jú kào jìn xué xiào",
+      "source": "buivolas_guided_N07_011",
+      "minimum_level": 20
+    },
+    {
+      "sentence_id": 38,
+      "translations": {
+        "en": "My friend works at the fire station.",
+        "zh": "我的朋友在消防局工作。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_011",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ de péng yǒu zài xiāo fáng jú gōng zuò 。",
+      "source": "buivolas_guided_N07_011",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 39,
+      "translations": {
+        "en": "They drove past the fire station.",
+        "zh": "他们开车经过消防局。"
+      },
+      "linked_words": [
+        {
+          "guid": "V12_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_011",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā men kāi chē jīng guò xiāo fáng jú 。",
+      "source": "buivolas_guided_N07_011",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 42,
+      "translations": {
+        "en": "We ate warm bread with butter.",
+        "zh": "我们吃了抹黄油的热面包。"
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_011",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A18_061",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ men chī le mǒ huáng yóu de rè miàn bāo 。",
+      "source": "buivolas_guided_N06_001",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 45,
+      "translations": {
+        "en": "She buys meat at the market.",
+        "zh": "她在市场买肉。"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_028",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_007",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā zài shì chǎng mǎi ròu 。",
+      "source": "buivolas_guided_N06_007",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 46,
+      "translations": {
+        "en": "They eat meat for dinner.",
+        "zh": "他们晚餐吃肉。"
+      },
+      "linked_words": [
+        {
+          "guid": "N06_088",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_007",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā men wǎn cān chī ròu 。",
+      "source": "buivolas_guided_N06_007",
+      "minimum_level": 9
+    },
+    {
+      "sentence_id": 47,
+      "translations": {
+        "en": "My friend does not like meat.",
+        "zh": "我的朋友不喜欢肉。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V05_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_007",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ de péng yǒu bù xǐ huān ròu 。",
+      "source": "buivolas_guided_N06_007",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 49,
+      "translations": {
+        "en": "She adds sugar to her tea.",
+        "zh": "她给她的茶添加糖。"
+      },
+      "linked_words": [
+        {
+          "guid": "N42_003",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_055",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_012",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā gěi tā de chá tiān jiā táng 。",
+      "source": "buivolas_guided_N06_012",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 50,
+      "translations": {
+        "en": "We bought sugar at the store.",
+        "zh": "我们在商店买了糖。"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_012",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ men zài shāng diàn mǎi le táng 。",
+      "source": "buivolas_guided_N06_012",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 52,
+      "translations": {
+        "en": "They want sugar in their coffee.",
+        "zh": "他们想要在自己的咖啡里放糖。"
+      },
+      "linked_words": [
+        {
+          "guid": "V05_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N42_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_012",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā men xiǎng yào zài zì jǐ de kā fēi lǐ fàng táng 。",
+      "source": "buivolas_guided_N06_012",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 53,
+      "translations": {
+        "en": "She puts salt on the meat.",
+        "zh": "她在肉上放盐。"
+      },
+      "linked_words": [
+        {
+          "guid": "N06_007",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_010",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā zài ròu shàng fàng yán 。",
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 54,
+      "translations": {
+        "en": "I need salt for the soup.",
+        "zh": "我需要做汤用的盐。"
+      },
+      "linked_words": [
+        {
+          "guid": "V04_010",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_021",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ xū yào zuò tāng yòng de yán 。",
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": 55,
+      "translations": {
+        "en": "They bought salt at the store.",
+        "zh": "他们在商店买了盐。"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā men zài shāng diàn mǎi le yán 。",
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 56,
+      "translations": {
+        "en": "My friend tastes salt on bread.",
+        "zh": "我的朋友在面包上尝盐。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V10_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ de péng yǒu zài miàn bāo shàng cháng yán 。",
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 58,
+      "translations": {
+        "en": "They buy potatoes at the market.",
+        "zh": "他们在市场买马铃薯。"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_028",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_014",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā men zài shì chǎng mǎi mǎ líng shǔ 。",
+      "source": "buivolas_guided_N06_014",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 62,
+      "translations": {
+        "en": "He bought three apples yesterday.",
+        "zh": "他昨天买了三个苹果。"
+      },
+      "linked_words": [
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "Z01_004",
+          "grammatical_form": "numeral/zh_cardinal"
+        },
+        {
+          "guid": "N06_015",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā zuó tiān mǎi le sān gè píng guǒ 。",
+      "source": "buivolas_guided_N06_015",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 63,
+      "translations": {
+        "en": "My friend gave me an apple.",
+        "zh": "我的朋友给了我一个苹果。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_015",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ de péng yǒu gěi le wǒ yí gè píng guǒ 。",
+      "source": "buivolas_guided_N06_015",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 65,
+      "translations": {
+        "en": "I eat a banana every morning.",
+        "zh": "我每天早晨吃一根香蕉。"
+      },
+      "linked_words": [
+        {
+          "guid": "N25_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_016",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ měi tiān zǎo chén chī yī gēn xiāng jiāo 。",
+      "source": "buivolas_guided_N06_016",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 70,
+      "translations": {
+        "en": "We bought tomatoes at the market.",
+        "zh": "我们在市场买了番茄。"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_028",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_018",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ men zài shì chǎng mǎi le fān qié 。",
+      "source": "buivolas_guided_N06_018",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 71,
+      "translations": {
+        "en": "He puts a tomato in the salad.",
+        "zh": "他把番茄放在沙拉里。"
+      },
+      "linked_words": [
+        {
+          "guid": "N06_018",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_010",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_028",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā bǎ fān qié fàng zài shā là lǐ 。",
+      "source": "buivolas_guided_N06_018",
+      "minimum_level": 11
+    },
+    {
+      "sentence_id": 73,
+      "translations": {
+        "en": "She eats rice every day.",
+        "zh": "她每天吃米饭。"
+      },
+      "linked_words": [
+        {
+          "guid": "N25_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_020",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā měi tiān chī mǐ fàn 。",
+      "source": "buivolas_guided_N06_020",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 75,
+      "translations": {
+        "en": "My friend wants more rice.",
+        "zh": "我的朋友想要更多米饭。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V05_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_020",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ de péng yǒu xiǎng yào gèng duō mǐ fàn 。",
+      "source": "buivolas_guided_N06_020",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 79,
+      "translations": {
+        "en": "They bought tomato soup at lunch.",
+        "zh": "他们在午餐时买了番茄汤。"
+      },
+      "linked_words": [
+        {
+          "guid": "N06_087",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_018",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_021",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā men zài wǔ cān shí mǎi le fān qié tāng 。",
+      "source": "buivolas_guided_N06_021",
+      "minimum_level": 9
+    },
+    {
+      "sentence_id": 80,
+      "translations": {
+        "en": "My friend ate soup with bread.",
+        "zh": "我的朋友吃了汤和面包。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_021",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ de péng yǒu chī le tāng huó miàn bāo 。",
+      "source": "buivolas_guided_N06_021",
+      "minimum_level": 5
+    },
+    {
+      "sentence_id": 81,
+      "translations": {
+        "en": "I buy food at the market.",
+        "zh": "我在市场买食物。"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_028",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_092",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ zài shì chǎng mǎi shí wù 。",
+      "source": "buivolas_guided_N06_092",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 83,
+      "translations": {
+        "en": "They have food in their bags.",
+        "zh": "他们的袋子里有食物。"
+      },
+      "linked_words": [
+        {
+          "guid": "N08_009",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_092",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā men de dài zi lǐ yǒu shí wù 。",
+      "source": "buivolas_guided_N06_092",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 84,
+      "translations": {
+        "en": "Do you like this food?",
+        "zh": "你喜欢这份食物吗？"
+      },
+      "linked_words": [
+        {
+          "guid": "V05_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_092",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "nǐ xǐ huān zhè fèn shí wù ma ？",
+      "source": "buivolas_guided_N06_092",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 85,
+      "translations": {
+        "en": "He is wearing a clean shirt today.",
+        "zh": "他今天穿着干净的衬衫。"
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A18_027",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_001",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā jīn tiān chuān zhe gān jìng de chèn shān 。",
+      "source": "buivolas_guided_N09_001",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 86,
+      "translations": {
+        "en": "She bought a blue shirt.",
+        "zh": "她买了一件蓝色的衬衫。"
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A02_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_001",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā mǎi le yī jiàn lán sè de chèn shān 。",
+      "source": "buivolas_guided_N09_001",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 88,
+      "translations": {
+        "en": "They found a dirty shirt.",
+        "zh": "他们找到了一个脏的衬衫。"
+      },
+      "linked_words": [
+        {
+          "guid": "V01_009",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A18_070",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_001",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā men zhǎo dào le yí gè zàng de chèn shān 。",
+      "source": "buivolas_guided_N09_001",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 89,
+      "translations": {
+        "en": "I bought new pants yesterday.",
+        "zh": "我昨天买了新裤子。"
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_002",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ zuó tiān mǎi le xīn kù zi 。",
+      "source": "buivolas_guided_N09_002",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 92,
+      "translations": {
+        "en": "Do they have clean pants?",
+        "zh": "他们有干净的裤子吗？"
+      },
+      "linked_words": [
+        {
+          "guid": "V06_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A18_027",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_002",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā men yǒu gān jìng de kù zi ma ？",
+      "source": "buivolas_guided_N09_002",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 93,
+      "translations": {
+        "en": "She is wearing a red dress today.",
+        "zh": "她今天穿红色的洋装。"
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A02_003",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_003",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā jīn tiān chuān hóng sè de yáng zhuāng 。",
+      "source": "buivolas_guided_N09_003",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": 94,
+      "translations": {
+        "en": "My friend bought a blue dress.",
+        "zh": "我的朋友买了一件蓝色的洋装。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A02_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_003",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ de péng yǒu mǎi le yī jiàn lán sè de yáng zhuāng 。",
+      "source": "buivolas_guided_N09_003",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 95,
+      "translations": {
+        "en": "They see the dress in the store.",
+        "zh": "他们在商店看见洋装。"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V10_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_003",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā men zài shāng diàn kàn jiàn yáng zhuāng 。",
+      "source": "buivolas_guided_N09_003",
+      "minimum_level": 2
+    },
+    {
+      "sentence_id": 97,
+      "translations": {
+        "en": "He wears a warm jacket today.",
+        "zh": "他今天穿着一件温暖的夹克。"
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A18_061",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_005",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā jīn tiān chuān zhe yī jiàn wēn nuǎn de jiá kè 。",
+      "source": "buivolas_guided_N09_005",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 98,
+      "translations": {
+        "en": "She bought a new jacket yesterday.",
+        "zh": "她昨天买了新夹克。"
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_005",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā zuó tiān mǎi le xīn jiá kè 。",
+      "source": "buivolas_guided_N09_005",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 101,
+      "translations": {
+        "en": "My shoe is by the door.",
+        "zh": "我的鞋子在门边。"
+      },
+      "linked_words": [
+        {
+          "guid": "N09_006",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N47_001",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ de xié zi zài mén biān 。",
+      "source": "buivolas_guided_N09_006",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 104,
+      "translations": {
+        "en": "They wear the same shoes.",
+        "zh": "他们穿同样的鞋子"
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_006",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā men chuān tóng yàng de xié zi",
+      "source": "buivolas_guided_N09_006",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": 106,
+      "translations": {
+        "en": "She lost one blue sock.",
+        "zh": "她丢失了一只蓝色的袜子。"
+      },
+      "linked_words": [
+        {
+          "guid": "V01_045",
+          "grammatical_form": null
+        },
+        {
+          "guid": "Z01_002",
+          "grammatical_form": "numeral/zh_cardinal"
+        },
+        {
+          "guid": "A02_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_007",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā diū shī le yī zhī lán sè de wà zi 。",
+      "source": "buivolas_guided_N09_007",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 108,
+      "translations": {
+        "en": "He put on clean socks.",
+        "zh": "他穿上了干净的袜子。"
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A18_027",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_007",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā chuān shàng le gān jìng de wà zi 。",
+      "source": "buivolas_guided_N09_007",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 109,
+      "translations": {
+        "en": "She is wearing a black hat today.",
+        "zh": "她今天穿一顶黑色的帽子。"
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A02_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_008",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā jīn tiān chuān yī dǐng hēi sè de mào zi 。",
+      "source": "buivolas_guided_N09_008",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": 110,
+      "translations": {
+        "en": "He took off his hat.",
+        "zh": "他脱下了他的帽子。"
+      },
+      "linked_words": [
+        {
+          "guid": "N09_008",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā tuō xià le tā de mào zi 。",
+      "source": "buivolas_guided_N09_008",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 112,
+      "translations": {
+        "en": "Do you want my warm hat?",
+        "zh": "你想要我的温暖的帽子吗？"
+      },
+      "linked_words": [
+        {
+          "guid": "V05_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A18_061",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_008",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "nǐ xiǎng yào wǒ de wēn nuǎn de mào zi ma ？",
+      "source": "buivolas_guided_N09_008",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 115,
+      "translations": {
+        "en": "My friend bought warm gloves.",
+        "zh": "我的朋友买了温暖的手套。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A18_061",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_009",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ de péng yǒu mǎi le wēn nuǎn de shǒu tào 。",
+      "source": "buivolas_guided_N09_009",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 117,
+      "translations": {
+        "en": "She is wearing a blue sweater today.",
+        "zh": "她今天穿一件蓝色的毛衣。"
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A02_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_011",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā jīn tiān chuān yī jiàn lán sè de máo yī 。",
+      "source": "buivolas_guided_N09_011",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": 118,
+      "translations": {
+        "en": "My friend bought a sweater yesterday.",
+        "zh": "我的朋友昨天买了毛衣。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_011",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ de péng yǒu zuó tiān mǎi le máo yī 。",
+      "source": "buivolas_guided_N09_011",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 119,
+      "translations": {
+        "en": "They put the sweater on the chair.",
+        "zh": "他们把毛衣放在椅子上。"
+      },
+      "linked_words": [
+        {
+          "guid": "N09_011",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_010",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N39_001",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā men bǎ máo yī fàng zài yǐ zi shàng 。",
+      "source": "buivolas_guided_N09_011",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": 122,
+      "translations": {
+        "en": "She bought new underwear yesterday.",
+        "zh": "她昨天买了新的内衣。"
+      },
+      "linked_words": [
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_012",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā zuó tiān mǎi le xīn de nèi yī 。",
+      "source": "buivolas_guided_N09_012",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 127,
+      "translations": {
+        "en": "We ate pizza after school.",
+        "zh": "我们放学后吃了披萨。"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_026",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ men fàng xué hòu chī le pī sà 。",
+      "source": "buivolas_guided_V01_001",
+      "minimum_level": 11
+    },
+    {
+      "sentence_id": 128,
+      "translations": {
+        "en": "The dog will not eat.",
+        "zh": "狗不会吃。"
+      },
+      "linked_words": [
+        {
+          "guid": "N02_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_001",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "gǒu bú huì chī 。",
+      "source": "buivolas_guided_V01_001",
+      "minimum_level": 2
+    },
+    {
+      "sentence_id": 129,
+      "translations": {
+        "en": "I drink water after running.",
+        "zh": "我跑步后喝水。"
+      },
+      "linked_words": [
+        {
+          "guid": "V12_003",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N42_001",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ pǎo bù hòu hē shuǐ 。",
+      "source": "buivolas_guided_V01_002",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 130,
+      "translations": {
+        "en": "She drank coffee this morning.",
+        "zh": "她今天早上喝了咖啡。"
+      },
+      "linked_words": [
+        {
+          "guid": "N25_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N42_002",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā jīn tiān zǎo shàng hē le kā fēi 。",
+      "source": "buivolas_guided_V01_002",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 137,
+      "translations": {
+        "en": "He rides his bicycle to school.",
+        "zh": "他骑他的自行车去学校。"
+      },
+      "linked_words": [
+        {
+          "guid": "V12_016",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N40_007",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā qí tā de zì xíng chē qù xué xiào 。",
+      "source": "buivolas_guided_N40_007",
+      "minimum_level": 20
+    },
+    {
+      "sentence_id": 138,
+      "translations": {
+        "en": "She bought a new bicycle yesterday.",
+        "zh": "她昨天买了一辆新的自行车。"
+      },
+      "linked_words": [
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N40_007",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā zuó tiān mǎi le yī liàng xīn de zì xíng chē 。",
+      "source": "buivolas_guided_N40_007",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 140,
+      "translations": {
+        "en": "They want a red bicycle.",
+        "zh": "他们想要一辆红色的自行车。"
+      },
+      "linked_words": [
+        {
+          "guid": "V05_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A02_003",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N40_007",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā men xiǎng yào yī liàng hóng sè de zì xíng chē 。",
+      "source": "buivolas_guided_N40_007",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 149,
+      "translations": {
+        "en": "I took a taxi home.",
+        "zh": "我坐出租车回家。"
+      },
+      "linked_words": [
+        {
+          "guid": "V06_006",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N40_010",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_041",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ zuò chū zū chē huí jiā 。",
+      "source": "buivolas_guided_N40_010",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 150,
+      "translations": {
+        "en": "She waits for a taxi.",
+        "zh": "她在等出租车。"
+      },
+      "linked_words": [
+        {
+          "guid": "V01_041",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N40_010",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā zài děng chū zū chē 。",
+      "source": "buivolas_guided_N40_010",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 151,
+      "translations": {
+        "en": "We saw a yellow taxi.",
+        "zh": "我们看见了一辆黄色的出租车。"
+      },
+      "linked_words": [
+        {
+          "guid": "V10_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A02_006",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N40_010",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ men kàn jiàn le yī liàng huáng sè de chū zū chē 。",
+      "source": "buivolas_guided_N40_010",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": 152,
+      "translations": {
+        "en": "They called a taxi yesterday.",
+        "zh": "他们昨天叫了一辆出租车。"
+      },
+      "linked_words": [
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V09_007",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N40_010",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā men zuó tiān jiào le yī liàng chū zū chē 。",
+      "source": "buivolas_guided_N40_010",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 153,
+      "translations": {
+        "en": "The truck is loud today.",
+        "zh": "卡车今天很大声。"
+      },
+      "linked_words": [
+        {
+          "guid": "N40_011",
+          "grammatical_form": null
+        },
+        {
+          "guid": "D03_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A18_029",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "kǎ chē jīn tiān hěn dà shēng 。",
+      "source": "buivolas_guided_N40_011",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 156,
+      "translations": {
+        "en": "My friend bought a new truck.",
+        "zh": "我的朋友买了一辆新卡车。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N40_011",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ de péng yǒu mǎi le yī liàng xīn kǎ chē 。",
+      "source": "buivolas_guided_N40_011",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 161,
+      "translations": {
+        "en": "She puts a fork beside her plate.",
+        "zh": "她把叉子放在她的盘子旁边。"
+      },
+      "linked_words": [
+        {
+          "guid": "N08_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_010",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N08_004",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā bǎ chā zǐ fàng zài tā de pán zi páng biān 。",
+      "source": "buivolas_guided_N08_001",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 162,
+      "translations": {
+        "en": "I lost my fork at lunch.",
+        "zh": "我午餐时丢失了我的叉子。"
+      },
+      "linked_words": [
+        {
+          "guid": "N06_087",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_045",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N08_001",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ wǔ cān shí diū shī le wǒ de chā zǐ 。",
+      "source": "buivolas_guided_N08_001",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 164,
+      "translations": {
+        "en": "They bought new forks for dinner.",
+        "zh": "他们为晚餐买了新叉子。"
+      },
+      "linked_words": [
+        {
+          "guid": "N06_088",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N08_001",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā men wèi wǎn cān mǎi le xīn chā zǐ 。",
+      "source": "buivolas_guided_N08_001",
+      "minimum_level": 9
+    },
+    {
+      "sentence_id": 169,
+      "translations": {
+        "en": "She drinks tea from a cup.",
+        "zh": "她从一个杯子里喝茶。"
+      },
+      "linked_words": [
+        {
+          "guid": "N08_003",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N42_003",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā cóng yí gè bēi zi lǐ hē chá 。",
+      "source": "buivolas_guided_N08_003",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 173,
+      "translations": {
+        "en": "She put the plate on the table.",
+        "zh": "她把盘子放在桌子上。"
+      },
+      "linked_words": [
+        {
+          "guid": "N08_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_010",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N39_006",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā bǎ pán zi fàng zài zhuō zi shàng 。",
+      "source": "buivolas_guided_N08_004",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": 177,
+      "translations": {
+        "en": "She reads a new book.",
+        "zh": "她阅读一本新的书。"
+      },
+      "linked_words": [
+        {
+          "guid": "V04_003",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N08_005",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā yuè dú yī běn xīn de shū 。",
+      "source": "buivolas_guided_N08_005",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 178,
+      "translations": {
+        "en": "I found the book yesterday.",
+        "zh": "我昨天找到了书。"
+      },
+      "linked_words": [
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_009",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N08_005",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ zuó tiān zhǎo dào le shū 。",
+      "source": "buivolas_guided_N08_005",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 179,
+      "translations": {
+        "en": "My friend gave me a book.",
+        "zh": "我的朋友给了我一本书。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N08_005",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ de péng yǒu gěi le wǒ yī běn shū 。",
+      "source": "buivolas_guided_N08_005",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 180,
+      "translations": {
+        "en": "They put the book on the table.",
+        "zh": "他们把书放在桌子上。"
+      },
+      "linked_words": [
+        {
+          "guid": "N08_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_010",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N39_006",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā men bǎ shū fàng zài zhuō zi shàng 。",
+      "source": "buivolas_guided_N08_005",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": 186,
+      "translations": {
+        "en": "My friend lost his cell phone.",
+        "zh": "我的朋友丢了他的手机。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_045",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N08_007",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ de péng yǒu diū le tā de shǒu jī 。",
+      "source": "buivolas_guided_N08_007",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 188,
+      "translations": {
+        "en": "He found a cell phone yesterday.",
+        "zh": "他昨天找到了手机。"
+      },
+      "linked_words": [
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_009",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N08_007",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā zuó tiān zhǎo dào le shǒu jī 。",
+      "source": "buivolas_guided_N08_007",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 189,
+      "translations": {
+        "en": "She carries a bag to school.",
+        "zh": "她把一个袋子带到学校。"
+      },
+      "linked_words": [
+        {
+          "guid": "N08_009",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_025",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā bǎ yí gè dài zi dài dào xué xiào 。",
+      "source": "buivolas_guided_N08_009",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 192,
+      "translations": {
+        "en": "He bought a new bag today.",
+        "zh": "他今天买了一个新的袋子。"
+      },
+      "linked_words": [
+        {
+          "guid": "D03_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N08_009",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā jīn tiān mǎi le yí gè xīn de dài zi 。",
+      "source": "buivolas_guided_N08_009",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 194,
+      "translations": {
+        "en": "She opened her wallet and smiled.",
+        "zh": "她打开了她的钱包并微笑。"
+      },
+      "linked_words": [
+        {
+          "guid": "V01_014",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N08_010",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V05_007",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā dǎ kāi le tā de qián bāo bìng wēi xiào 。",
+      "source": "buivolas_guided_N08_010",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 195,
+      "translations": {
+        "en": "We lost our wallet at the market.",
+        "zh": "我们在市场丢失了钱包。"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_028",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_045",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N08_010",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ men zài shì chǎng diū shī le qián bāo 。",
+      "source": "buivolas_guided_N08_010",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 198,
+      "translations": {
+        "en": "My friend lost his eyeglasses.",
+        "zh": "我的朋友丢了他的眼镜。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_045",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N08_011",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ de péng yǒu diū le tā de yǎn jìng 。",
+      "source": "buivolas_guided_N08_011",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 201,
+      "translations": {
+        "en": "She opens the bottle now.",
+        "zh": "她现在打开瓶子。"
+      },
+      "linked_words": [
+        {
+          "guid": "V01_014",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N08_012",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā xiàn zài dǎ kāi píng zi 。",
+      "source": "buivolas_guided_N08_012",
+      "minimum_level": 5
+    },
+    {
+      "sentence_id": 202,
+      "translations": {
+        "en": "He puts the bottle on the table.",
+        "zh": "他把瓶子放在桌子上。"
+      },
+      "linked_words": [
+        {
+          "guid": "N08_012",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_010",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N39_006",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā bǎ píng zi fàng zài zhuō zi shàng 。",
+      "source": "buivolas_guided_N08_012",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": 203,
+      "translations": {
+        "en": "We found an empty bottle.",
+        "zh": "我们找到了一只空的瓶子。"
+      },
+      "linked_words": [
+        {
+          "guid": "V01_009",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A05_047",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N08_012",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ men zhǎo dào le yī zhī kōng de píng zi 。",
+      "source": "buivolas_guided_N08_012",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 204,
+      "translations": {
+        "en": "They drink from the bottle.",
+        "zh": "他们从瓶子里喝。"
+      },
+      "linked_words": [
+        {
+          "guid": "N08_012",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_002",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā men cóng píng zi lǐ hē 。",
+      "source": "buivolas_guided_N08_012",
+      "minimum_level": 2
+    },
+    {
+      "sentence_id": 205,
+      "translations": {
+        "en": "She looks in the mirror now.",
+        "zh": "她现在照镜子。"
+      },
+      "linked_words": [
+        {
+          "guid": "V10_006",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N08_016",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā xiàn zài zhào jìng zi 。",
+      "source": "buivolas_guided_N08_016",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 206,
+      "translations": {
+        "en": "I put the mirror on the wall.",
+        "zh": "我把镜子放在墙上。"
+      },
+      "linked_words": [
+        {
+          "guid": "N08_016",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_010",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N47_003",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ bǎ jìng zi fàng zài qiáng shàng 。",
+      "source": "buivolas_guided_N08_016",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 210,
+      "translations": {
+        "en": "I left a towel on the chair.",
+        "zh": "我把毛巾放在椅子上。"
+      },
+      "linked_words": [
+        {
+          "guid": "N08_017",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V12_007",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N39_001",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ bǎ máo jīn fàng zài yǐ zi shàng 。",
+      "source": "buivolas_guided_N08_017",
+      "minimum_level": 12
+    },
+    {
+      "sentence_id": 213,
+      "translations": {
+        "en": "My dog sleeps on the bed.",
+        "zh": "我的狗在床上睡觉。"
+      },
+      "linked_words": [
+        {
+          "guid": "N02_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N39_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_003",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ de gǒu zài chuáng shàng shuì jiào 。",
+      "source": "buivolas_guided_N02_001",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": 215,
+      "translations": {
+        "en": "She walked the dog yesterday.",
+        "zh": "她昨天遛了狗。"
+      },
+      "linked_words": [
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V12_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N02_001",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā zuó tiān liú le gǒu 。",
+      "source": "buivolas_guided_N02_001",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 216,
+      "translations": {
+        "en": "Do you see the dog?",
+        "zh": "你看见那只狗吗？"
+      },
+      "linked_words": [
+        {
+          "guid": "V10_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N02_001",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "nǐ kàn jiàn nà zhǐ gǒu ma ？",
+      "source": "buivolas_guided_N02_001",
+      "minimum_level": 2
+    },
+    {
+      "sentence_id": 218,
+      "translations": {
+        "en": "My friend has a black cat.",
+        "zh": "我的朋友有一只黑色的猫。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A02_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N02_002",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "wǒ de péng yǒu yǒu yī zhī hēi sè de māo 。",
+      "source": "buivolas_guided_N02_002",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 219,
+      "translations": {
+        "en": "She saw a cat by the door.",
+        "zh": "她在门边看见了一只猫。"
+      },
+      "linked_words": [
+        {
+          "guid": "N47_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V10_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N02_002",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "tā zài mén biān kàn jiàn le yī zhī māo 。",
+      "source": "buivolas_guided_N02_002",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 221,
+      "translations": {
+        "en": "A bird sits on the fence.",
+        "zh": "一只鸟坐在围栏上。"
+      },
+      "linked_words": [
+        {
+          "guid": "N02_003",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_032",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N47_016",
+          "grammatical_form": null
+        }
+      ],
+      "pinyin": "yī zhī niǎo zuò zài wéi lán shàng 。",
+      "source": "buivolas_guided_N02_003",
+      "minimum_level": 15
+    }
+  ]
 }

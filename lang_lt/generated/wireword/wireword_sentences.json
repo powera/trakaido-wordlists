@@ -1,5 +1,2551 @@
 {
   "language": "lt",
-  "generated_date": "2026-01-25T08:43:51.778612",
-  "sentences": []
+  "generated_date": "2026-01-25T20:32:49.189301",
+  "sentences": [
+    {
+      "sentence_id": 1,
+      "translations": {
+        "en": "They walk to the house.",
+        "lt": "Jie eina į namą."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/lt_3p_present"
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": 3,
+      "translations": {
+        "en": "We open the house door.",
+        "lt": "Mes atidarome namo duris."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_014",
+          "grammatical_form": "verb/lt_1p_present"
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": "noun/lt_genitive_singular"
+        },
+        {
+          "guid": "N47_001",
+          "grammatical_form": "noun/lt_accusative_plural"
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 4,
+      "translations": {
+        "en": "He bought a new house.",
+        "lt": "Jis nusipirko naują namą."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/lt_3s_past"
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": "adjective/lt_accusative_singular_m"
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 5,
+      "translations": {
+        "en": "My son goes to school.",
+        "lt": "Mano sūnus eina į mokyklą."
+      },
+      "linked_words": [
+        {
+          "guid": "N35_036",
+          "grammatical_form": "noun/lt_nominative_singular"
+        },
+        {
+          "guid": "V12_004",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_002",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": 6,
+      "translations": {
+        "en": "She walks to school every day.",
+        "lt": "Ji kiekvieną dieną eina į mokyklą."
+      },
+      "linked_words": [
+        {
+          "guid": "N25_002",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_002",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 9,
+      "translations": {
+        "en": "My friend works at the hospital.",
+        "lt": "Mano draugas dirba ligoninėje."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/lt_nominative_singular"
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "N07_003",
+          "grammatical_form": "noun/lt_locative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_003",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 10,
+      "translations": {
+        "en": "She went to the hospital yesterday.",
+        "lt": "Ji vakar nuėjo į ligoninę."
+      },
+      "linked_words": [
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V12_004",
+          "grammatical_form": "verb/lt_3s_past"
+        },
+        {
+          "guid": "N07_003",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_003",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 13,
+      "translations": {
+        "en": "I buy bread at the store.",
+        "lt": "Aš perku duoną parduotuvėje."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/lt_1s_present"
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/lt_locative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 14,
+      "translations": {
+        "en": "She found a toy in the store.",
+        "lt": "Ji rado žaislą parduotuvėje."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_009",
+          "grammatical_form": "verb/lt_3s_past"
+        },
+        {
+          "guid": "N08_036",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/lt_locative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 15
+    },
+    {
+      "sentence_id": 15,
+      "translations": {
+        "en": "We close the store at night.",
+        "lt": "Mes uždarome parduotuvę naktį."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_015",
+          "grammatical_form": "verb/lt_1p_present"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "N25_003",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 16,
+      "translations": {
+        "en": "They walked to the store yesterday.",
+        "lt": "Jie vakar ėjo į parduotuvę."
+      },
+      "linked_words": [
+        {
+          "guid": "D03_002",
+          "grammatical_form": "adverb/lt_base"
+        },
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/lt_3p_past"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 17,
+      "translations": {
+        "en": "We eat at the restaurant today.",
+        "lt": "Mes šiandien valgome restorane."
+      },
+      "linked_words": [
+        {
+          "guid": "D03_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/lt_1p_present"
+        },
+        {
+          "guid": "N07_006",
+          "grammatical_form": "noun/lt_locative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_006",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 20,
+      "translations": {
+        "en": "My friend works at a restaurant.",
+        "lt": "Mano draugas dirba restorane."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/lt_nominative_singular"
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "N07_006",
+          "grammatical_form": "noun/lt_locative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_006",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 25,
+      "translations": {
+        "en": "I am walking to the bank today.",
+        "lt": "Aš šiandien einu į banką."
+      },
+      "linked_words": [
+        {
+          "guid": "D03_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/lt_1s_present"
+        },
+        {
+          "guid": "N07_008",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_008",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 28,
+      "translations": {
+        "en": "My friend works at the bank.",
+        "lt": "Mano draugas dirba banke."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/lt_nominative_singular"
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "N07_008",
+          "grammatical_form": "noun/lt_locative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_008",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 29,
+      "translations": {
+        "en": "She walks to the library today.",
+        "lt": "Ji šiandien eina į biblioteką."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "N07_009",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_009",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": 33,
+      "translations": {
+        "en": "We are visiting the museum today.",
+        "lt": "Mes šiandien aplankome muziejų."
+      },
+      "linked_words": [
+        {
+          "guid": "N07_010",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": 34,
+      "translations": {
+        "en": "She walks to the museum.",
+        "lt": "Ji eina į muziejų."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "N07_010",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": 35,
+      "translations": {
+        "en": "They saw paintings at the museum.",
+        "lt": "Jie pamatė tapybas muziejuje."
+      },
+      "linked_words": [
+        {
+          "guid": "V10_001",
+          "grammatical_form": "verb/lt_3p_past"
+        },
+        {
+          "guid": "N41_004",
+          "grammatical_form": "noun/lt_accusative_plural"
+        },
+        {
+          "guid": "N07_010",
+          "grammatical_form": "noun/lt_locative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 36,
+      "translations": {
+        "en": "My friend works at the museum.",
+        "lt": "Mano draugas dirba muziejuje."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/lt_nominative_singular"
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "N07_010",
+          "grammatical_form": "noun/lt_locative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 37,
+      "translations": {
+        "en": "The fire station is near the school.",
+        "lt": "Gaisrinė yra netoli mokyklos."
+      },
+      "linked_words": [
+        {
+          "guid": "N07_011",
+          "grammatical_form": "noun/lt_nominative_singular"
+        },
+        {
+          "guid": "R99_026",
+          "grammatical_form": "adverb/lt_base"
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": "noun/lt_genitive_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_011",
+      "minimum_level": 20
+    },
+    {
+      "sentence_id": 38,
+      "translations": {
+        "en": "My friend works at the fire station.",
+        "lt": "Mano draugas dirba gaisrinėje."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/lt_nominative_singular"
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "N07_011",
+          "grammatical_form": "noun/lt_locative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_011",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 39,
+      "translations": {
+        "en": "They drove past the fire station.",
+        "lt": "Jie važiavo pro gaisrinę."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_002",
+          "grammatical_form": "verb/lt_3p_past"
+        },
+        {
+          "guid": "N07_011",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_011",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 42,
+      "translations": {
+        "en": "We ate warm bread with butter.",
+        "lt": "Mes valgėme šiltą duoną su sviestu."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/lt_1p_past"
+        },
+        {
+          "guid": "A18_061",
+          "grammatical_form": "adjective/lt_accusative_singular_f"
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_011",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_001",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 45,
+      "translations": {
+        "en": "She buys meat at the market.",
+        "lt": "Ji perka mėsą turguje."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "N06_007",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "N07_028",
+          "grammatical_form": "noun/lt_locative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_007",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 46,
+      "translations": {
+        "en": "They eat meat for dinner.",
+        "lt": "Jie valgo mėsą vakarienei."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/lt_3p_present"
+        },
+        {
+          "guid": "N06_007",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "N06_088",
+          "grammatical_form": "noun/lt_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_007",
+      "minimum_level": 9
+    },
+    {
+      "sentence_id": 47,
+      "translations": {
+        "en": "My friend does not like meat.",
+        "lt": "Mano draugui nepatinka mėsa."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/lt_dative_singular"
+        },
+        {
+          "guid": "V05_001",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "N06_007",
+          "grammatical_form": "noun/lt_nominative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_007",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 49,
+      "translations": {
+        "en": "She adds sugar to her tea.",
+        "lt": "Ji savo arbatai prideda cukraus."
+      },
+      "linked_words": [
+        {
+          "guid": "N42_003",
+          "grammatical_form": "noun/lt_dative_singular"
+        },
+        {
+          "guid": "V01_055",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "N06_012",
+          "grammatical_form": "noun/lt_genitive_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_012",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 50,
+      "translations": {
+        "en": "We bought sugar at the store.",
+        "lt": "Mes nupirkome cukraus parduotuvėje."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/lt_1p_past"
+        },
+        {
+          "guid": "N06_012",
+          "grammatical_form": "noun/lt_genitive_singular"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/lt_locative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_012",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 52,
+      "translations": {
+        "en": "They want sugar in their coffee.",
+        "lt": "Jie nori cukraus savo kavoje."
+      },
+      "linked_words": [
+        {
+          "guid": "V05_004",
+          "grammatical_form": "verb/lt_3p_present"
+        },
+        {
+          "guid": "N06_012",
+          "grammatical_form": "noun/lt_genitive_singular"
+        },
+        {
+          "guid": "N42_002",
+          "grammatical_form": "noun/lt_locative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_012",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 53,
+      "translations": {
+        "en": "She puts salt on the meat.",
+        "lt": "Ji deda druską ant mėsos."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "N06_007",
+          "grammatical_form": "noun/lt_genitive_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 54,
+      "translations": {
+        "en": "I need salt for the soup.",
+        "lt": "Man reikia druskos sriubai."
+      },
+      "linked_words": [
+        {
+          "guid": "V04_010",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": "noun/lt_genitive_singular"
+        },
+        {
+          "guid": "N06_021",
+          "grammatical_form": "noun/lt_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": 55,
+      "translations": {
+        "en": "They bought salt at the store.",
+        "lt": "Jie nupirko druską parduotuvėje."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/lt_3p_past"
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/lt_locative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 56,
+      "translations": {
+        "en": "My friend tastes salt on bread.",
+        "lt": "Mano draugas ragauja druską ant duonos."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/lt_nominative_singular"
+        },
+        {
+          "guid": "V10_005",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": "noun/lt_genitive_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 58,
+      "translations": {
+        "en": "They buy potatoes at the market.",
+        "lt": "Jie perka bulves turguje."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/lt_3p_present"
+        },
+        {
+          "guid": "N06_014",
+          "grammatical_form": "noun/lt_accusative_plural"
+        },
+        {
+          "guid": "N07_028",
+          "grammatical_form": "noun/lt_locative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_014",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 62,
+      "translations": {
+        "en": "He bought three apples yesterday.",
+        "lt": "Jis vakar nupirko tris obuolius."
+      },
+      "linked_words": [
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/lt_3s_past"
+        },
+        {
+          "guid": "Z01_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_015",
+          "grammatical_form": "noun/lt_accusative_plural"
+        }
+      ],
+      "source": "buivolas_guided_N06_015",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 63,
+      "translations": {
+        "en": "My friend gave me an apple.",
+        "lt": "Mano draugas man davė obuolį."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/lt_nominative_singular"
+        },
+        {
+          "guid": "V06_005",
+          "grammatical_form": "verb/lt_3s_past"
+        },
+        {
+          "guid": "N06_015",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_015",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 65,
+      "translations": {
+        "en": "I eat a banana every morning.",
+        "lt": "Aš kas rytą valgau bananą."
+      },
+      "linked_words": [
+        {
+          "guid": "N25_004",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/lt_1s_present"
+        },
+        {
+          "guid": "N06_016",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_016",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 70,
+      "translations": {
+        "en": "We bought tomatoes at the market.",
+        "lt": "Mes pirkome pomidorus turguje."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/lt_1p_past"
+        },
+        {
+          "guid": "N06_018",
+          "grammatical_form": "noun/lt_accusative_plural"
+        },
+        {
+          "guid": "N07_028",
+          "grammatical_form": "noun/lt_locative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_018",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 71,
+      "translations": {
+        "en": "He puts a tomato in the salad.",
+        "lt": "Jis padeda pomidorą į salotas."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "N06_018",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "N06_028",
+          "grammatical_form": "noun/lt_accusative_plural"
+        }
+      ],
+      "source": "buivolas_guided_N06_018",
+      "minimum_level": 11
+    },
+    {
+      "sentence_id": 73,
+      "translations": {
+        "en": "She eats rice every day.",
+        "lt": "Ji kiekvieną dieną valgo ryžius."
+      },
+      "linked_words": [
+        {
+          "guid": "N25_002",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "N06_020",
+          "grammatical_form": "noun/lt_accusative_plural"
+        }
+      ],
+      "source": "buivolas_guided_N06_020",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 75,
+      "translations": {
+        "en": "My friend wants more rice.",
+        "lt": "Mano draugas nori daugiau ryžių."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/lt_nominative_singular"
+        },
+        {
+          "guid": "V05_004",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "N06_020",
+          "grammatical_form": "noun/lt_genitive_plural"
+        }
+      ],
+      "source": "buivolas_guided_N06_020",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 79,
+      "translations": {
+        "en": "They bought tomato soup at lunch.",
+        "lt": "Jie pietums nusipirko pomidorų sriubos."
+      },
+      "linked_words": [
+        {
+          "guid": "N06_087",
+          "grammatical_form": "noun/lt_dative_plural"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/lt_3p_past"
+        },
+        {
+          "guid": "N06_018",
+          "grammatical_form": "noun/lt_genitive_plural"
+        },
+        {
+          "guid": "N06_021",
+          "grammatical_form": "noun/lt_genitive_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_021",
+      "minimum_level": 9
+    },
+    {
+      "sentence_id": 80,
+      "translations": {
+        "en": "My friend ate soup with bread.",
+        "lt": "Mano draugas suvalgė sriubą su duona."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/lt_nominative_singular"
+        },
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/lt_3s_past"
+        },
+        {
+          "guid": "N06_021",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": "noun/lt_instrumental_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_021",
+      "minimum_level": 5
+    },
+    {
+      "sentence_id": 81,
+      "translations": {
+        "en": "I buy food at the market.",
+        "lt": "Aš perku maistą turguje."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/lt_1s_present"
+        },
+        {
+          "guid": "N06_092",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "N07_028",
+          "grammatical_form": "noun/lt_locative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_092",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 83,
+      "translations": {
+        "en": "They have food in their bags.",
+        "lt": "Jie turi maisto savo maišeliuose."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_002",
+          "grammatical_form": "verb/lt_3p_present"
+        },
+        {
+          "guid": "N06_092",
+          "grammatical_form": "noun/lt_genitive_singular"
+        },
+        {
+          "guid": "N08_009",
+          "grammatical_form": "noun/lt_locative_plural"
+        }
+      ],
+      "source": "buivolas_guided_N06_092",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 84,
+      "translations": {
+        "en": "Do you like this food?",
+        "lt": "Ar tau patinka šis maistas?"
+      },
+      "linked_words": [
+        {
+          "guid": "V05_001",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "N06_092",
+          "grammatical_form": "noun/lt_nominative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_092",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 85,
+      "translations": {
+        "en": "He is wearing a clean shirt today.",
+        "lt": "Jis šiandien dėvi švarius marškinius."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "A18_027",
+          "grammatical_form": "adjective/lt_accusative_plural_m"
+        },
+        {
+          "guid": "N09_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_001",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 86,
+      "translations": {
+        "en": "She bought a blue shirt.",
+        "lt": "Ji nupirko mėlynus marškinius."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/lt_3s_past"
+        },
+        {
+          "guid": "A02_004",
+          "grammatical_form": "adjective/lt_accusative_plural_m"
+        },
+        {
+          "guid": "N09_001",
+          "grammatical_form": "noun/lt_accusative_plural"
+        }
+      ],
+      "source": "buivolas_guided_N09_001",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 88,
+      "translations": {
+        "en": "They found a dirty shirt.",
+        "lt": "Jie rado purvinus marškinius."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_009",
+          "grammatical_form": "verb/lt_3p_past"
+        },
+        {
+          "guid": "A18_070",
+          "grammatical_form": "adjective/lt_accusative_plural_m"
+        },
+        {
+          "guid": "N09_001",
+          "grammatical_form": "noun/lt_accusative_plural"
+        }
+      ],
+      "source": "buivolas_guided_N09_001",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 89,
+      "translations": {
+        "en": "I bought new pants yesterday.",
+        "lt": "Aš vakar nusipirkau naujas kelnes."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/lt_1s_past"
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_002",
+          "grammatical_form": "noun/lt_accusative_plural"
+        }
+      ],
+      "source": "buivolas_guided_N09_002",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 92,
+      "translations": {
+        "en": "Do they have clean pants?",
+        "lt": "Ar jie turi švarias kelnes?"
+      },
+      "linked_words": [
+        {
+          "guid": "V06_002",
+          "grammatical_form": "verb/lt_3p_present"
+        },
+        {
+          "guid": "A18_027",
+          "grammatical_form": "adjective/lt_accusative_plural_f"
+        },
+        {
+          "guid": "N09_002",
+          "grammatical_form": "noun/lt_accusative_plural"
+        }
+      ],
+      "source": "buivolas_guided_N09_002",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 93,
+      "translations": {
+        "en": "She is wearing a red dress today.",
+        "lt": "Ji šiandien dėvi raudoną suknelę."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "A02_003",
+          "grammatical_form": "adjective/lt_accusative_singular_f"
+        },
+        {
+          "guid": "N09_003",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_003",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": 94,
+      "translations": {
+        "en": "My friend bought a blue dress.",
+        "lt": "Mano draugas nupirko mėlyną suknelę."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/lt_nominative_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/lt_3s_past"
+        },
+        {
+          "guid": "A02_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_003",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_003",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 95,
+      "translations": {
+        "en": "They see the dress in the store.",
+        "lt": "Jie mato suknelę parduotuvėje."
+      },
+      "linked_words": [
+        {
+          "guid": "V10_001",
+          "grammatical_form": "verb/lt_3p_present"
+        },
+        {
+          "guid": "N09_003",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/lt_locative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_003",
+      "minimum_level": 2
+    },
+    {
+      "sentence_id": 97,
+      "translations": {
+        "en": "He wears a warm jacket today.",
+        "lt": "Jis šiandien dėvi šiltą striukę."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "A18_061",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_005",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_005",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 98,
+      "translations": {
+        "en": "She bought a new jacket yesterday.",
+        "lt": "Ji vakar nusipirko naują striukę."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/lt_3s_past"
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_005",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_005",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 101,
+      "translations": {
+        "en": "My shoe is by the door.",
+        "lt": "Mano batas yra prie durų."
+      },
+      "linked_words": [
+        {
+          "guid": "N09_006",
+          "grammatical_form": "noun/lt_nominative_singular"
+        },
+        {
+          "guid": "N47_001",
+          "grammatical_form": "noun/lt_genitive_plural"
+        }
+      ],
+      "source": "buivolas_guided_N09_006",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 104,
+      "translations": {
+        "en": "They wear the same shoes.",
+        "lt": "Jie dėvi tą patį batą."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/lt_3p_present"
+        },
+        {
+          "guid": "N09_006",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_006",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": 106,
+      "translations": {
+        "en": "She lost one blue sock.",
+        "lt": "Ji prarado vieną mėlyną kojinę."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_045",
+          "grammatical_form": "verb/lt_3s_past"
+        },
+        {
+          "guid": "Z01_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A02_004",
+          "grammatical_form": "adjective/lt_accusative_singular_f"
+        },
+        {
+          "guid": "N09_007",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_007",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 108,
+      "translations": {
+        "en": "He put on clean socks.",
+        "lt": "Jis užsidedė švarias kojines."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/lt_3s_past"
+        },
+        {
+          "guid": "A18_027",
+          "grammatical_form": "adjective/lt_accusative_plural_f"
+        },
+        {
+          "guid": "N09_007",
+          "grammatical_form": "noun/lt_accusative_plural"
+        }
+      ],
+      "source": "buivolas_guided_N09_007",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 109,
+      "translations": {
+        "en": "She is wearing a black hat today.",
+        "lt": "Ji dėvi juodą skrybėlę šiandien."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "A02_001",
+          "grammatical_form": "adjective/lt_accusative_singular_f"
+        },
+        {
+          "guid": "N09_008",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_008",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": 110,
+      "translations": {
+        "en": "He took off his hat.",
+        "lt": "Jis nusiėmė skrybėlę."
+      },
+      "linked_words": [
+        {
+          "guid": "N09_008",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_008",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 112,
+      "translations": {
+        "en": "Do you want my warm hat?",
+        "lt": "Ar nori mano šiltos skrybėlės?"
+      },
+      "linked_words": [
+        {
+          "guid": "V05_004",
+          "grammatical_form": "verb/lt_2s_present"
+        },
+        {
+          "guid": "A18_061",
+          "grammatical_form": "adjective/lt_genitive_singular_f"
+        },
+        {
+          "guid": "N09_008",
+          "grammatical_form": "noun/lt_genitive_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_008",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 115,
+      "translations": {
+        "en": "My friend bought warm gloves.",
+        "lt": "Mano draugas nupirko šiltas pirštines."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/lt_nominative_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/lt_3s_past"
+        },
+        {
+          "guid": "A18_061",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_009",
+          "grammatical_form": "noun/lt_accusative_plural"
+        }
+      ],
+      "source": "buivolas_guided_N09_009",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 117,
+      "translations": {
+        "en": "She is wearing a blue sweater today.",
+        "lt": "Ji šiandien dėvi mėlyną megztinį."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "A02_004",
+          "grammatical_form": "adjective/lt_accusative_singular_m"
+        },
+        {
+          "guid": "N09_011",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_011",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": 118,
+      "translations": {
+        "en": "My friend bought a sweater yesterday.",
+        "lt": "Mano draugas vakar nupirko megztinį."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/lt_nominative_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/lt_3s_past"
+        },
+        {
+          "guid": "N09_011",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_011",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 119,
+      "translations": {
+        "en": "They put the sweater on the chair.",
+        "lt": "Jie padėjo megztinį ant kėdės."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/lt_3p_past"
+        },
+        {
+          "guid": "N09_011",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "N39_001",
+          "grammatical_form": "noun/lt_genitive_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_011",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": 122,
+      "translations": {
+        "en": "She bought new underwear yesterday.",
+        "lt": "Ji vakar nusipirko naujus apatinius."
+      },
+      "linked_words": [
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/lt_3s_past"
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": "adjective/lt_accusative_plural_m"
+        },
+        {
+          "guid": "N09_012",
+          "grammatical_form": "noun/lt_accusative_plural"
+        }
+      ],
+      "source": "buivolas_guided_N09_012",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 127,
+      "translations": {
+        "en": "We ate pizza after school.",
+        "lt": "Mes valgėme picą po pamokų."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/lt_1p_past"
+        },
+        {
+          "guid": "N06_026",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": "noun/lt_genitive_plural"
+        }
+      ],
+      "source": "buivolas_guided_V01_001",
+      "minimum_level": 11
+    },
+    {
+      "sentence_id": 128,
+      "translations": {
+        "en": "The dog will not eat.",
+        "lt": "Šuo nevalgys."
+      },
+      "linked_words": [
+        {
+          "guid": "N02_001",
+          "grammatical_form": "noun/lt_nominative_singular"
+        },
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/lt_3s_future"
+        }
+      ],
+      "source": "buivolas_guided_V01_001",
+      "minimum_level": 2
+    },
+    {
+      "sentence_id": 129,
+      "translations": {
+        "en": "I drink water after running.",
+        "lt": "Aš geriu vandenį po bėgimo."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_002",
+          "grammatical_form": "verb/lt_1s_present"
+        },
+        {
+          "guid": "N42_001",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "V12_003",
+          "grammatical_form": "noun/lt_genitive_singular"
+        }
+      ],
+      "source": "buivolas_guided_V01_002",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 130,
+      "translations": {
+        "en": "She drank coffee this morning.",
+        "lt": "Ji išgėrė kavos šį rytą."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_002",
+          "grammatical_form": "verb/lt_3s_past"
+        },
+        {
+          "guid": "N42_002",
+          "grammatical_form": "noun/lt_genitive_singular"
+        },
+        {
+          "guid": "N25_004",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_V01_002",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 137,
+      "translations": {
+        "en": "He rides his bicycle to school.",
+        "lt": "Jis važiuoja savo dviračiu į mokyklą."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_016",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "N40_007",
+          "grammatical_form": "noun/lt_instrumental_singular"
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N40_007",
+      "minimum_level": 20
+    },
+    {
+      "sentence_id": 138,
+      "translations": {
+        "en": "She bought a new bicycle yesterday.",
+        "lt": "Ji vakar nupirko naują dviratį."
+      },
+      "linked_words": [
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/lt_3s_past"
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": "adjective/lt_accusative_singular_m"
+        },
+        {
+          "guid": "N40_007",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N40_007",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 140,
+      "translations": {
+        "en": "They want a red bicycle.",
+        "lt": "Jie nori raudono dviračio."
+      },
+      "linked_words": [
+        {
+          "guid": "V05_004",
+          "grammatical_form": "verb/lt_3p_present"
+        },
+        {
+          "guid": "A02_003",
+          "grammatical_form": "adjective/lt_genitive_singular_m"
+        },
+        {
+          "guid": "N40_007",
+          "grammatical_form": "noun/lt_genitive_singular"
+        }
+      ],
+      "source": "buivolas_guided_N40_007",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 149,
+      "translations": {
+        "en": "I took a taxi home.",
+        "lt": "Paimčiau taksi namo."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_006",
+          "grammatical_form": "verb/lt_1s_past"
+        },
+        {
+          "guid": "N40_010",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "N07_041",
+          "grammatical_form": "noun/lt_genitive_singular"
+        }
+      ],
+      "source": "buivolas_guided_N40_010",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 150,
+      "translations": {
+        "en": "She waits for a taxi.",
+        "lt": "Ji laukia taksi."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_041",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "N40_010",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N40_010",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 151,
+      "translations": {
+        "en": "We saw a yellow taxi.",
+        "lt": "Mes matėme geltoną taksį."
+      },
+      "linked_words": [
+        {
+          "guid": "V10_001",
+          "grammatical_form": "verb/lt_1p_past"
+        },
+        {
+          "guid": "A02_006",
+          "grammatical_form": "adjective/lt_accusative_singular_m"
+        },
+        {
+          "guid": "N40_010",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N40_010",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": 152,
+      "translations": {
+        "en": "They called a taxi yesterday.",
+        "lt": "Jie vakar iškvietė taksi."
+      },
+      "linked_words": [
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V09_007",
+          "grammatical_form": "verb/lt_3p_past"
+        },
+        {
+          "guid": "N40_010",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N40_010",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 153,
+      "translations": {
+        "en": "The truck is loud today.",
+        "lt": "Sunkvežimis šiandien garsus."
+      },
+      "linked_words": [
+        {
+          "guid": "N40_011",
+          "grammatical_form": "noun/lt_nominative_singular"
+        },
+        {
+          "guid": "D03_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A18_029",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N40_011",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 156,
+      "translations": {
+        "en": "My friend bought a new truck.",
+        "lt": "Mano draugas nupirko naują sunkvežimį."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/lt_nominative_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/lt_3s_past"
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": "adjective/lt_accusative_singular_m"
+        },
+        {
+          "guid": "N40_011",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N40_011",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 161,
+      "translations": {
+        "en": "She puts a fork beside her plate.",
+        "lt": "Ji padeda šakutę prie savo lėkštės."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "N08_001",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "N08_004",
+          "grammatical_form": "noun/lt_genitive_singular"
+        }
+      ],
+      "source": "buivolas_guided_N08_001",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 162,
+      "translations": {
+        "en": "I lost my fork at lunch.",
+        "lt": "Aš praradau savo šakutę per pietus."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_045",
+          "grammatical_form": "verb/lt_1s_past"
+        },
+        {
+          "guid": "N08_001",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "N06_087",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N08_001",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 164,
+      "translations": {
+        "en": "They bought new forks for dinner.",
+        "lt": "Jie nupirko naujų šakutėlių vakarienei."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/lt_3p_past"
+        },
+        {
+          "guid": "N08_001",
+          "grammatical_form": "noun/lt_genitive_plural"
+        },
+        {
+          "guid": "N06_088",
+          "grammatical_form": "noun/lt_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N08_001",
+      "minimum_level": 9
+    },
+    {
+      "sentence_id": 169,
+      "translations": {
+        "en": "She drinks tea from a cup.",
+        "lt": "Ji geria arbatą iš puodelio."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_002",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "N42_003",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "N08_003",
+          "grammatical_form": "noun/lt_genitive_singular"
+        }
+      ],
+      "source": "buivolas_guided_N08_003",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 173,
+      "translations": {
+        "en": "She put the plate on the table.",
+        "lt": "Ji padėjo lėkštę ant stalo."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/lt_3s_past"
+        },
+        {
+          "guid": "N08_004",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "N39_006",
+          "grammatical_form": "noun/lt_genitive_singular"
+        }
+      ],
+      "source": "buivolas_guided_N08_004",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": 177,
+      "translations": {
+        "en": "She reads a new book.",
+        "lt": "Ji skaito naują knygą."
+      },
+      "linked_words": [
+        {
+          "guid": "V04_003",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N08_005",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N08_005",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 178,
+      "translations": {
+        "en": "I found the book yesterday.",
+        "lt": "Aš vakar radau knygą."
+      },
+      "linked_words": [
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_009",
+          "grammatical_form": "verb/lt_1s_past"
+        },
+        {
+          "guid": "N08_005",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N08_005",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 179,
+      "translations": {
+        "en": "My friend gave me a book.",
+        "lt": "Mano draugas man davė knygą."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/lt_nominative_singular"
+        },
+        {
+          "guid": "V06_005",
+          "grammatical_form": "verb/lt_3s_past"
+        },
+        {
+          "guid": "N08_005",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N08_005",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 180,
+      "translations": {
+        "en": "They put the book on the table.",
+        "lt": "Jie padėjo knygą ant stalo."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/lt_3p_past"
+        },
+        {
+          "guid": "N08_005",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "N39_006",
+          "grammatical_form": "noun/lt_genitive_singular"
+        }
+      ],
+      "source": "buivolas_guided_N08_005",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": 186,
+      "translations": {
+        "en": "My friend lost his cell phone.",
+        "lt": "Mano draugas prarado savo mobilųjį telefoną."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/lt_nominative_singular"
+        },
+        {
+          "guid": "V01_045",
+          "grammatical_form": "verb/lt_3s_past"
+        },
+        {
+          "guid": "N08_007",
+          "grammatical_form": "adjective/lt_accusative_singular_m"
+        },
+        {
+          "guid": "N08_007",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N08_007",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 188,
+      "translations": {
+        "en": "He found a cell phone yesterday.",
+        "lt": "Jis vakar rado mobilųjį telefoną."
+      },
+      "linked_words": [
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_009",
+          "grammatical_form": "verb/lt_3s_past"
+        },
+        {
+          "guid": "N08_007",
+          "grammatical_form": "adjective/lt_accusative_singular_m"
+        },
+        {
+          "guid": "N08_007",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N08_007",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 189,
+      "translations": {
+        "en": "She carries a bag to school.",
+        "lt": "Ji neša maišelį į mokyklą."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_025",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "N08_009",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N08_009",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 192,
+      "translations": {
+        "en": "He bought a new bag today.",
+        "lt": "Jis šiandien nusipirko naują maišelį."
+      },
+      "linked_words": [
+        {
+          "guid": "D03_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/lt_3s_past"
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": "adjective/lt_accusative_singular_m"
+        },
+        {
+          "guid": "N08_009",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N08_009",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 194,
+      "translations": {
+        "en": "She opened her wallet and smiled.",
+        "lt": "Ji atidarė savo piniginę ir nusišypsojo."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_014",
+          "grammatical_form": "verb/lt_3s_past"
+        },
+        {
+          "guid": "N08_010",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "V05_007",
+          "grammatical_form": "verb/lt_3s_past"
+        }
+      ],
+      "source": "buivolas_guided_N08_010",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 195,
+      "translations": {
+        "en": "We lost our wallet at the market.",
+        "lt": "Mes praradome savo piniginę turgavietėje."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_045",
+          "grammatical_form": "verb/lt_1p_past"
+        },
+        {
+          "guid": "N08_010",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "N07_028",
+          "grammatical_form": "noun/lt_locative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N08_010",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 198,
+      "translations": {
+        "en": "My friend lost his eyeglasses.",
+        "lt": "Mano draugas prarado savo akinius."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/lt_nominative_singular"
+        },
+        {
+          "guid": "V01_045",
+          "grammatical_form": "verb/lt_3s_past"
+        },
+        {
+          "guid": "N08_011",
+          "grammatical_form": "noun/lt_accusative_plural"
+        }
+      ],
+      "source": "buivolas_guided_N08_011",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 201,
+      "translations": {
+        "en": "She opens the bottle now.",
+        "lt": "Ji atidaro butelį dabar."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_014",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "N08_012",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N08_012",
+      "minimum_level": 5
+    },
+    {
+      "sentence_id": 202,
+      "translations": {
+        "en": "He puts the bottle on the table.",
+        "lt": "Jis padeda butelį ant stalo."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "N08_012",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "N39_006",
+          "grammatical_form": "noun/lt_genitive_singular"
+        }
+      ],
+      "source": "buivolas_guided_N08_012",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": 203,
+      "translations": {
+        "en": "We found an empty bottle.",
+        "lt": "Mes radome tuščią butelį."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_009",
+          "grammatical_form": "verb/lt_1p_past"
+        },
+        {
+          "guid": "A05_047",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N08_012",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N08_012",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 204,
+      "translations": {
+        "en": "They drink from the bottle.",
+        "lt": "Jie geria iš butelio."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_002",
+          "grammatical_form": "verb/lt_3p_present"
+        },
+        {
+          "guid": "N08_012",
+          "grammatical_form": "noun/lt_genitive_singular"
+        }
+      ],
+      "source": "buivolas_guided_N08_012",
+      "minimum_level": 2
+    },
+    {
+      "sentence_id": 205,
+      "translations": {
+        "en": "She looks in the mirror now.",
+        "lt": "Ji dabar žiūri į veidrodį."
+      },
+      "linked_words": [
+        {
+          "guid": "V10_006",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "N08_016",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N08_016",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 206,
+      "translations": {
+        "en": "I put the mirror on the wall.",
+        "lt": "Aš padėjau veidrodį ant sienos."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/lt_1s_past"
+        },
+        {
+          "guid": "N08_016",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "N47_003",
+          "grammatical_form": "noun/lt_genitive_singular"
+        }
+      ],
+      "source": "buivolas_guided_N08_016",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 210,
+      "translations": {
+        "en": "I left a towel on the chair.",
+        "lt": "Aš palikau rankšluostį ant kėdės."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_007",
+          "grammatical_form": "verb/lt_1s_past"
+        },
+        {
+          "guid": "N08_017",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "N39_001",
+          "grammatical_form": "noun/lt_genitive_singular"
+        }
+      ],
+      "source": "buivolas_guided_N08_017",
+      "minimum_level": 12
+    },
+    {
+      "sentence_id": 213,
+      "translations": {
+        "en": "My dog sleeps on the bed.",
+        "lt": "Mano šuo miega ant lovos."
+      },
+      "linked_words": [
+        {
+          "guid": "N02_001",
+          "grammatical_form": "noun/lt_nominative_singular"
+        },
+        {
+          "guid": "V01_003",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "N39_005",
+          "grammatical_form": "noun/lt_genitive_singular"
+        }
+      ],
+      "source": "buivolas_guided_N02_001",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": 215,
+      "translations": {
+        "en": "She walked the dog yesterday.",
+        "lt": "Ji vakar ėjo su šunimi."
+      },
+      "linked_words": [
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/lt_3s_past"
+        },
+        {
+          "guid": "N02_001",
+          "grammatical_form": "noun/lt_instrumental_singular"
+        }
+      ],
+      "source": "buivolas_guided_N02_001",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 216,
+      "translations": {
+        "en": "Do you see the dog?",
+        "lt": "Ar matai šunį?"
+      },
+      "linked_words": [
+        {
+          "guid": "V10_001",
+          "grammatical_form": "verb/lt_2s_present"
+        },
+        {
+          "guid": "N02_001",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N02_001",
+      "minimum_level": 2
+    },
+    {
+      "sentence_id": 218,
+      "translations": {
+        "en": "My friend has a black cat.",
+        "lt": "Mano draugas turi juodą katę."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/lt_nominative_singular"
+        },
+        {
+          "guid": "V06_002",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "A02_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N02_002",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N02_002",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 219,
+      "translations": {
+        "en": "She saw a cat by the door.",
+        "lt": "Ji matė katę prie durų."
+      },
+      "linked_words": [
+        {
+          "guid": "V10_001",
+          "grammatical_form": "verb/lt_3s_past"
+        },
+        {
+          "guid": "N02_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N47_001",
+          "grammatical_form": "noun/lt_genitive_plural"
+        }
+      ],
+      "source": "buivolas_guided_N02_002",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 221,
+      "translations": {
+        "en": "A bird sits on the fence.",
+        "lt": "Paukštis sėdi ant tvoros."
+      },
+      "linked_words": [
+        {
+          "guid": "N02_003",
+          "grammatical_form": "noun/lt_nominative_singular"
+        },
+        {
+          "guid": "V01_032",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "N47_016",
+          "grammatical_form": "noun/lt_genitive_singular"
+        }
+      ],
+      "source": "buivolas_guided_N02_003",
+      "minimum_level": 15
+    }
+  ]
 }

@@ -1,5 +1,2551 @@
 {
   "language": "es",
-  "generated_date": "2026-01-25T08:43:52.045689",
-  "sentences": []
+  "generated_date": "2026-01-25T20:32:49.507007",
+  "sentences": [
+    {
+      "sentence_id": 1,
+      "translations": {
+        "en": "They walk to the house.",
+        "es": "Ellos caminan a la casa."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/es_3p_present"
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": 3,
+      "translations": {
+        "en": "We open the house door.",
+        "es": "Abrimos la puerta de la casa."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_014",
+          "grammatical_form": "verb/es_1p_present"
+        },
+        {
+          "guid": "N47_001",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 4,
+      "translations": {
+        "en": "He bought a new house.",
+        "es": "Él compró una casa nueva."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/es_3s_past"
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": "adjective/es_singular_f"
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 5,
+      "translations": {
+        "en": "My son goes to school.",
+        "es": "Mi hijo va a la escuela."
+      },
+      "linked_words": [
+        {
+          "guid": "N35_036",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "V12_004",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_002",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": 6,
+      "translations": {
+        "en": "She walks to school every day.",
+        "es": "Ella camina a la escuela todos los días."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "N25_002",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_002",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 9,
+      "translations": {
+        "en": "My friend works at the hospital.",
+        "es": "Mi amigo trabaja en el hospital."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N07_003",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_003",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 10,
+      "translations": {
+        "en": "She went to the hospital yesterday.",
+        "es": "Ella fue al hospital ayer."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_004",
+          "grammatical_form": "verb/es_3s_past"
+        },
+        {
+          "guid": "N07_003",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_003",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 13,
+      "translations": {
+        "en": "I buy bread at the store.",
+        "es": "Compro pan en la tienda."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/es_1s_present"
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 14,
+      "translations": {
+        "en": "She found a toy in the store.",
+        "es": "Ella encontró un juguete en la tienda."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_009",
+          "grammatical_form": "verb/es_3s_past"
+        },
+        {
+          "guid": "N08_036",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 15
+    },
+    {
+      "sentence_id": 15,
+      "translations": {
+        "en": "We close the store at night.",
+        "es": "Cerramos la tienda por la noche."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_015",
+          "grammatical_form": "verb/es_1p_present"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N25_003",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 16,
+      "translations": {
+        "en": "They walked to the store yesterday.",
+        "es": "Ellos caminaron a la tienda ayer."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/es_3p_past"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "D03_002",
+          "grammatical_form": "adverb/es_base"
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 17,
+      "translations": {
+        "en": "We eat at the restaurant today.",
+        "es": "Comemos en el restaurante hoy."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/es_1p_present"
+        },
+        {
+          "guid": "N07_006",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "D03_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_006",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 20,
+      "translations": {
+        "en": "My friend works at a restaurant.",
+        "es": "Mi amigo trabaja en un restaurante."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N07_006",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_006",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 25,
+      "translations": {
+        "en": "I am walking to the bank today.",
+        "es": "Camino al banco hoy."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/es_1s_present"
+        },
+        {
+          "guid": "N07_008",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "D03_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_008",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 28,
+      "translations": {
+        "en": "My friend works at the bank.",
+        "es": "Mi amigo trabaja en el banco."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N07_008",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_008",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 29,
+      "translations": {
+        "en": "She walks to the library today.",
+        "es": "Ella camina a la biblioteca hoy."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N07_009",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_009",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": 33,
+      "translations": {
+        "en": "We are visiting the museum today.",
+        "es": "Hoy visitamos el museo."
+      },
+      "linked_words": [
+        {
+          "guid": "N07_010",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": 34,
+      "translations": {
+        "en": "She walks to the museum.",
+        "es": "Ella camina al museo."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N07_010",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": 35,
+      "translations": {
+        "en": "They saw paintings at the museum.",
+        "es": "Vieron pinturas en el museo."
+      },
+      "linked_words": [
+        {
+          "guid": "V10_001",
+          "grammatical_form": "verb/es_3p_past"
+        },
+        {
+          "guid": "N41_004",
+          "grammatical_form": "noun/es_plural"
+        },
+        {
+          "guid": "N07_010",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 36,
+      "translations": {
+        "en": "My friend works at the museum.",
+        "es": "Mi amigo trabaja en el museo."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N07_010",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 37,
+      "translations": {
+        "en": "The fire station is near the school.",
+        "es": "El parque de bomberos está cerca de la escuela."
+      },
+      "linked_words": [
+        {
+          "guid": "N07_011",
+          "grammatical_form": null
+        },
+        {
+          "guid": "R99_026",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_011",
+      "minimum_level": 20
+    },
+    {
+      "sentence_id": 38,
+      "translations": {
+        "en": "My friend works at the fire station.",
+        "es": "Mi amigo trabaja en el parque de bomberos."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N07_011",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_011",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 39,
+      "translations": {
+        "en": "They drove past the fire station.",
+        "es": "Condujeron junto al parque de bomberos."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_002",
+          "grammatical_form": "verb/es_3p_past"
+        },
+        {
+          "guid": "N07_011",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_011",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 42,
+      "translations": {
+        "en": "We ate warm bread with butter.",
+        "es": "Comimos pan caliente con mantequilla."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/es_1p_past"
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "A18_061",
+          "grammatical_form": "adjective/es_singular_m"
+        },
+        {
+          "guid": "N06_011",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_001",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 45,
+      "translations": {
+        "en": "She buys meat at the market.",
+        "es": "Ella compra carne en el mercado."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N06_007",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "N07_028",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_007",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 46,
+      "translations": {
+        "en": "They eat meat for dinner.",
+        "es": "Ellos comen carne para la cena."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/es_3p_present"
+        },
+        {
+          "guid": "N06_007",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_088",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_007",
+      "minimum_level": 9
+    },
+    {
+      "sentence_id": 47,
+      "translations": {
+        "en": "My friend does not like meat.",
+        "es": "A mi amigo no le gusta la carne."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "V05_001",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N06_007",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_007",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 49,
+      "translations": {
+        "en": "She adds sugar to her tea.",
+        "es": "Ella añade azúcar a su té."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_055",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N06_012",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "N42_003",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_012",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 50,
+      "translations": {
+        "en": "We bought sugar at the store.",
+        "es": "Compramos azúcar en la tienda."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/es_1p_past"
+        },
+        {
+          "guid": "N06_012",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_012",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 52,
+      "translations": {
+        "en": "They want sugar in their coffee.",
+        "es": "Quieren azúcar en su café."
+      },
+      "linked_words": [
+        {
+          "guid": "V05_004",
+          "grammatical_form": "verb/es_3p_present"
+        },
+        {
+          "guid": "N06_012",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "N42_002",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_012",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 53,
+      "translations": {
+        "en": "She puts salt on the meat.",
+        "es": "Ella pone sal en la carne."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "N06_007",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 54,
+      "translations": {
+        "en": "I need salt for the soup.",
+        "es": "Necesito sal para la sopa."
+      },
+      "linked_words": [
+        {
+          "guid": "V04_010",
+          "grammatical_form": "verb/es_1s_present"
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "N06_021",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": 55,
+      "translations": {
+        "en": "They bought salt at the store.",
+        "es": "Ellos compraron sal en la tienda."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/es_3p_past"
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 56,
+      "translations": {
+        "en": "My friend tastes salt on bread.",
+        "es": "Mi amigo prueba sal en el pan."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V10_005",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 58,
+      "translations": {
+        "en": "They buy potatoes at the market.",
+        "es": "Compran patatas en el mercado."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/es_3p_present"
+        },
+        {
+          "guid": "N06_014",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_028",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_014",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 62,
+      "translations": {
+        "en": "He bought three apples yesterday.",
+        "es": "Él compró tres manzanas ayer."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/es_3s_past"
+        },
+        {
+          "guid": "Z01_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_015",
+          "grammatical_form": "noun/es_plural"
+        },
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_015",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 63,
+      "translations": {
+        "en": "My friend gave me an apple.",
+        "es": "Mi amigo me dio una manzana."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_005",
+          "grammatical_form": "verb/es_3s_past"
+        },
+        {
+          "guid": "N06_015",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_015",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 65,
+      "translations": {
+        "en": "I eat a banana every morning.",
+        "es": "Yo como un plátano cada mañana."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/es_1s_present"
+        },
+        {
+          "guid": "N06_016",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "N25_004",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_016",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 70,
+      "translations": {
+        "en": "We bought tomatoes at the market.",
+        "es": "Compramos tomates en el mercado."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/es_1p_past"
+        },
+        {
+          "guid": "N06_018",
+          "grammatical_form": "noun/es_plural"
+        },
+        {
+          "guid": "N07_028",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_018",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 71,
+      "translations": {
+        "en": "He puts a tomato in the salad.",
+        "es": "Él pone un tomate en la ensalada."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N06_018",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_028",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_018",
+      "minimum_level": 11
+    },
+    {
+      "sentence_id": 73,
+      "translations": {
+        "en": "She eats rice every day.",
+        "es": "Ella come arroz todos los días."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N06_020",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "N25_002",
+          "grammatical_form": "noun/es_plural"
+        }
+      ],
+      "source": "buivolas_guided_N06_020",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 75,
+      "translations": {
+        "en": "My friend wants more rice.",
+        "es": "Mi amigo quiere más arroz."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V05_004",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N06_020",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_020",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 79,
+      "translations": {
+        "en": "They bought tomato soup at lunch.",
+        "es": "Compraron sopa de tomate en el almuerzo."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/es_3p_past"
+        },
+        {
+          "guid": "N06_021",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_018",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_087",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_021",
+      "minimum_level": 9
+    },
+    {
+      "sentence_id": 80,
+      "translations": {
+        "en": "My friend ate soup with bread.",
+        "es": "Mi amigo comió sopa con pan."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/es_3s_past"
+        },
+        {
+          "guid": "N06_021",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_021",
+      "minimum_level": 5
+    },
+    {
+      "sentence_id": 81,
+      "translations": {
+        "en": "I buy food at the market.",
+        "es": "Compro comida en el mercado."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/es_1s_present"
+        },
+        {
+          "guid": "N06_092",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "N07_028",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_092",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 83,
+      "translations": {
+        "en": "They have food in their bags.",
+        "es": "Tienen comida en sus bolsas."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_002",
+          "grammatical_form": "verb/es_3p_present"
+        },
+        {
+          "guid": "N06_092",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "N08_009",
+          "grammatical_form": "noun/es_plural"
+        }
+      ],
+      "source": "buivolas_guided_N06_092",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 84,
+      "translations": {
+        "en": "Do you like this food?",
+        "es": "¿Te gusta esta comida?"
+      },
+      "linked_words": [
+        {
+          "guid": "V05_001",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N06_092",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_092",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 85,
+      "translations": {
+        "en": "He is wearing a clean shirt today.",
+        "es": "Él lleva una camisa limpia hoy."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N09_001",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "A18_027",
+          "grammatical_form": "adjective/es_singular_f"
+        }
+      ],
+      "source": "buivolas_guided_N09_001",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 86,
+      "translations": {
+        "en": "She bought a blue shirt.",
+        "es": "Ella compró una camisa azul."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/es_3s_past"
+        },
+        {
+          "guid": "N09_001",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "A02_004",
+          "grammatical_form": "adjective/es_singular_f"
+        }
+      ],
+      "source": "buivolas_guided_N09_001",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 88,
+      "translations": {
+        "en": "They found a dirty shirt.",
+        "es": "Encontraron una camisa sucia."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_009",
+          "grammatical_form": "verb/es_3p_past"
+        },
+        {
+          "guid": "N09_001",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "A18_070",
+          "grammatical_form": "adjective/es_singular_f"
+        }
+      ],
+      "source": "buivolas_guided_N09_001",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 89,
+      "translations": {
+        "en": "I bought new pants yesterday.",
+        "es": "Compré pantalones nuevos ayer."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/es_1s_past"
+        },
+        {
+          "guid": "N09_002",
+          "grammatical_form": "noun/es_plural"
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": "adjective/es_plural_m"
+        }
+      ],
+      "source": "buivolas_guided_N09_002",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 92,
+      "translations": {
+        "en": "Do they have clean pants?",
+        "es": "¿Tienen pantalones limpios?"
+      },
+      "linked_words": [
+        {
+          "guid": "V06_002",
+          "grammatical_form": "verb/es_3p_present"
+        },
+        {
+          "guid": "N09_002",
+          "grammatical_form": "noun/es_plural"
+        },
+        {
+          "guid": "A18_027",
+          "grammatical_form": "adjective/es_plural_m"
+        }
+      ],
+      "source": "buivolas_guided_N09_002",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 93,
+      "translations": {
+        "en": "She is wearing a red dress today.",
+        "es": "Ella lleva un vestido rojo hoy."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N09_003",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "A02_003",
+          "grammatical_form": "adjective/es_singular_m"
+        }
+      ],
+      "source": "buivolas_guided_N09_003",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": 94,
+      "translations": {
+        "en": "My friend bought a blue dress.",
+        "es": "Mi amigo compró un vestido azul."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/es_3s_past"
+        },
+        {
+          "guid": "N09_003",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "A02_004",
+          "grammatical_form": "adjective/es_singular_m"
+        }
+      ],
+      "source": "buivolas_guided_N09_003",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 95,
+      "translations": {
+        "en": "They see the dress in the store.",
+        "es": "Ellos ven el vestido en la tienda."
+      },
+      "linked_words": [
+        {
+          "guid": "V10_001",
+          "grammatical_form": "verb/es_3p_present"
+        },
+        {
+          "guid": "N09_003",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_003",
+      "minimum_level": 2
+    },
+    {
+      "sentence_id": 97,
+      "translations": {
+        "en": "He wears a warm jacket today.",
+        "es": "Él lleva una chaqueta cálida hoy."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N09_005",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "A18_061",
+          "grammatical_form": "adjective/es_singular_f"
+        }
+      ],
+      "source": "buivolas_guided_N09_005",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 98,
+      "translations": {
+        "en": "She bought a new jacket yesterday.",
+        "es": "Ella compró una chaqueta nueva ayer."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/es_3s_past"
+        },
+        {
+          "guid": "N09_005",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": "adjective/es_singular_f"
+        }
+      ],
+      "source": "buivolas_guided_N09_005",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 101,
+      "translations": {
+        "en": "My shoe is by the door.",
+        "es": "Mi zapato está junto a la puerta."
+      },
+      "linked_words": [
+        {
+          "guid": "N09_006",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "N47_001",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_006",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 104,
+      "translations": {
+        "en": "They wear the same shoes.",
+        "es": "Llevan los mismos zapatos."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/es_3p_present"
+        },
+        {
+          "guid": "N09_006",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_006",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": 106,
+      "translations": {
+        "en": "She lost one blue sock.",
+        "es": "Ella perdió un calcetín azul."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_045",
+          "grammatical_form": "verb/es_3s_past"
+        },
+        {
+          "guid": "Z01_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_007",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "A02_004",
+          "grammatical_form": "adjective/es_singular_m"
+        }
+      ],
+      "source": "buivolas_guided_N09_007",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 108,
+      "translations": {
+        "en": "He put on clean socks.",
+        "es": "Se puso calcetines limpios."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/es_3s_past"
+        },
+        {
+          "guid": "N09_007",
+          "grammatical_form": "noun/es_plural"
+        },
+        {
+          "guid": "A18_027",
+          "grammatical_form": "adjective/es_plural_m"
+        }
+      ],
+      "source": "buivolas_guided_N09_007",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 109,
+      "translations": {
+        "en": "She is wearing a black hat today.",
+        "es": "Ella lleva un sombrero negro hoy."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N09_008",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "A02_001",
+          "grammatical_form": "adjective/es_singular_m"
+        }
+      ],
+      "source": "buivolas_guided_N09_008",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": 110,
+      "translations": {
+        "en": "He took off his hat.",
+        "es": "Se quitó el sombrero."
+      },
+      "linked_words": [
+        {
+          "guid": "N09_008",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_008",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 112,
+      "translations": {
+        "en": "Do you want my warm hat?",
+        "es": "¿Quieres mi sombrero cálido?"
+      },
+      "linked_words": [
+        {
+          "guid": "V05_004",
+          "grammatical_form": "verb/es_2s_present"
+        },
+        {
+          "guid": "N09_008",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "A18_061",
+          "grammatical_form": "adjective/es_singular_m"
+        }
+      ],
+      "source": "buivolas_guided_N09_008",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 115,
+      "translations": {
+        "en": "My friend bought warm gloves.",
+        "es": "Mi amigo compró guantes cálidos."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/es_3s_past"
+        },
+        {
+          "guid": "N09_009",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A18_061",
+          "grammatical_form": "adjective/es_plural_m"
+        }
+      ],
+      "source": "buivolas_guided_N09_009",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 117,
+      "translations": {
+        "en": "She is wearing a blue sweater today.",
+        "es": "Ella lleva un jersey azul hoy."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N09_011",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A02_004",
+          "grammatical_form": "adjective/es_singular_m"
+        }
+      ],
+      "source": "buivolas_guided_N09_011",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": 118,
+      "translations": {
+        "en": "My friend bought a sweater yesterday.",
+        "es": "Mi amigo compró un jersey ayer."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/es_3s_past"
+        },
+        {
+          "guid": "N09_011",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_011",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 119,
+      "translations": {
+        "en": "They put the sweater on the chair.",
+        "es": "Ellos pusieron el jersey en la silla."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/es_3p_past"
+        },
+        {
+          "guid": "N09_011",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "N39_001",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_011",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": 122,
+      "translations": {
+        "en": "She bought new underwear yesterday.",
+        "es": "Ella compró ropa interior nueva ayer."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/es_3s_past"
+        },
+        {
+          "guid": "N09_012",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": "adjective/es_singular_f"
+        },
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_012",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 127,
+      "translations": {
+        "en": "We ate pizza after school.",
+        "es": "Comimos pizza después de la escuela."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/es_1p_past"
+        },
+        {
+          "guid": "N06_026",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_V01_001",
+      "minimum_level": 11
+    },
+    {
+      "sentence_id": 128,
+      "translations": {
+        "en": "The dog will not eat.",
+        "es": "El perro no comerá."
+      },
+      "linked_words": [
+        {
+          "guid": "N02_001",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/es_3s_future"
+        }
+      ],
+      "source": "buivolas_guided_V01_001",
+      "minimum_level": 2
+    },
+    {
+      "sentence_id": 129,
+      "translations": {
+        "en": "I drink water after running.",
+        "es": "Bebo agua después de correr."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_002",
+          "grammatical_form": "verb/es_1s_present"
+        },
+        {
+          "guid": "N42_001",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "V12_003",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_V01_002",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 130,
+      "translations": {
+        "en": "She drank coffee this morning.",
+        "es": "Ella bebió café esta mañana."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_002",
+          "grammatical_form": "verb/es_3s_past"
+        },
+        {
+          "guid": "N42_002",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "N25_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_V01_002",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 137,
+      "translations": {
+        "en": "He rides his bicycle to school.",
+        "es": "Él monta su bicicleta a la escuela."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_016",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N40_007",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N40_007",
+      "minimum_level": 20
+    },
+    {
+      "sentence_id": 138,
+      "translations": {
+        "en": "She bought a new bicycle yesterday.",
+        "es": "Ella compró una bicicleta nueva ayer."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/es_3s_past"
+        },
+        {
+          "guid": "N40_007",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": "adjective/es_singular_f"
+        },
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N40_007",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 140,
+      "translations": {
+        "en": "They want a red bicycle.",
+        "es": "Ellos quieren una bicicleta roja."
+      },
+      "linked_words": [
+        {
+          "guid": "V05_004",
+          "grammatical_form": "verb/es_3p_present"
+        },
+        {
+          "guid": "N40_007",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A02_003",
+          "grammatical_form": "adjective/es_singular_f"
+        }
+      ],
+      "source": "buivolas_guided_N40_007",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 149,
+      "translations": {
+        "en": "I took a taxi home.",
+        "es": "Cogí un taxi a casa."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_006",
+          "grammatical_form": "verb/es_1s_past"
+        },
+        {
+          "guid": "N40_010",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "N07_041",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N40_010",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 150,
+      "translations": {
+        "en": "She waits for a taxi.",
+        "es": "Ella espera un taxi."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_041",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N40_010",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N40_010",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 151,
+      "translations": {
+        "en": "We saw a yellow taxi.",
+        "es": "Vimos un taxi amarillo."
+      },
+      "linked_words": [
+        {
+          "guid": "V10_001",
+          "grammatical_form": "verb/es_1p_past"
+        },
+        {
+          "guid": "N40_010",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "A02_006",
+          "grammatical_form": "adjective/es_singular_m"
+        }
+      ],
+      "source": "buivolas_guided_N40_010",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": 152,
+      "translations": {
+        "en": "They called a taxi yesterday.",
+        "es": "Llamaron a un taxi ayer."
+      },
+      "linked_words": [
+        {
+          "guid": "V09_007",
+          "grammatical_form": "verb/es_3p_past"
+        },
+        {
+          "guid": "N40_010",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N40_010",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 153,
+      "translations": {
+        "en": "The truck is loud today.",
+        "es": "El camión está ruidoso hoy."
+      },
+      "linked_words": [
+        {
+          "guid": "N40_011",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "A18_029",
+          "grammatical_form": "adjective/es_singular_m"
+        },
+        {
+          "guid": "D03_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N40_011",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 156,
+      "translations": {
+        "en": "My friend bought a new truck.",
+        "es": "Mi amigo compró un camión nuevo."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/es_3s_past"
+        },
+        {
+          "guid": "N40_011",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": "adjective/es_singular_m"
+        }
+      ],
+      "source": "buivolas_guided_N40_011",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 161,
+      "translations": {
+        "en": "She puts a fork beside her plate.",
+        "es": "Ella pone un tenedor al lado de su plato."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N08_001",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "N08_004",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N08_001",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 162,
+      "translations": {
+        "en": "I lost my fork at lunch.",
+        "es": "Perdí mi tenedor en el almuerzo."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_045",
+          "grammatical_form": "verb/es_1s_past"
+        },
+        {
+          "guid": "N08_001",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "N06_087",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N08_001",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 164,
+      "translations": {
+        "en": "They bought new forks for dinner.",
+        "es": "Compraron tenedores nuevos para la cena."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/es_3p_past"
+        },
+        {
+          "guid": "N08_001",
+          "grammatical_form": "noun/es_plural"
+        },
+        {
+          "guid": "N06_088",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N08_001",
+      "minimum_level": 9
+    },
+    {
+      "sentence_id": 169,
+      "translations": {
+        "en": "She drinks tea from a cup.",
+        "es": "Ella bebe té de una taza."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_002",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N42_003",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "N08_003",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N08_003",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 173,
+      "translations": {
+        "en": "She put the plate on the table.",
+        "es": "Ella puso el plato sobre la mesa."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/es_3s_past"
+        },
+        {
+          "guid": "N08_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N39_006",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N08_004",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": 177,
+      "translations": {
+        "en": "She reads a new book.",
+        "es": "Ella lee un libro nuevo."
+      },
+      "linked_words": [
+        {
+          "guid": "V04_003",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N08_005",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": "adjective/es_singular_m"
+        }
+      ],
+      "source": "buivolas_guided_N08_005",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 178,
+      "translations": {
+        "en": "I found the book yesterday.",
+        "es": "Encontré el libro ayer."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_009",
+          "grammatical_form": "verb/es_1s_past"
+        },
+        {
+          "guid": "N08_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N08_005",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 179,
+      "translations": {
+        "en": "My friend gave me a book.",
+        "es": "Mi amigo me dio un libro."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "V06_005",
+          "grammatical_form": "verb/es_3s_past"
+        },
+        {
+          "guid": "N08_005",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N08_005",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 180,
+      "translations": {
+        "en": "They put the book on the table.",
+        "es": "Ellos pusieron el libro sobre la mesa."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/es_3p_past"
+        },
+        {
+          "guid": "N08_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N39_006",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N08_005",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": 186,
+      "translations": {
+        "en": "My friend lost his cell phone.",
+        "es": "Mi amigo perdió su teléfono móvil."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "V01_045",
+          "grammatical_form": "verb/es_3s_past"
+        },
+        {
+          "guid": "N08_007",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "N08_007",
+          "grammatical_form": "adjective/es_singular_m"
+        }
+      ],
+      "source": "buivolas_guided_N08_007",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 188,
+      "translations": {
+        "en": "He found a cell phone yesterday.",
+        "es": "Él encontró un teléfono móvil ayer."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_009",
+          "grammatical_form": "verb/es_3s_past"
+        },
+        {
+          "guid": "N08_007",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N08_007",
+          "grammatical_form": "adjective/es_singular_m"
+        },
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N08_007",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 189,
+      "translations": {
+        "en": "She carries a bag to school.",
+        "es": "Ella lleva una bolsa a la escuela."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_025",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N08_009",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N08_009",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 192,
+      "translations": {
+        "en": "He bought a new bag today.",
+        "es": "Él compró una bolsa nueva hoy."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/es_3s_past"
+        },
+        {
+          "guid": "N08_009",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": "adjective/es_singular_f"
+        },
+        {
+          "guid": "D03_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N08_009",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 194,
+      "translations": {
+        "en": "She opened her wallet and smiled.",
+        "es": "Ella abrió su cartera y sonrió."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_014",
+          "grammatical_form": "verb/es_3s_past"
+        },
+        {
+          "guid": "N08_010",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "V05_007",
+          "grammatical_form": "verb/es_3s_past"
+        }
+      ],
+      "source": "buivolas_guided_N08_010",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 195,
+      "translations": {
+        "en": "We lost our wallet at the market.",
+        "es": "Perdimos nuestra cartera en el mercado."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_045",
+          "grammatical_form": "verb/es_1p_past"
+        },
+        {
+          "guid": "N08_010",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_028",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N08_010",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 198,
+      "translations": {
+        "en": "My friend lost his eyeglasses.",
+        "es": "Mi amigo perdió sus gafas."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_045",
+          "grammatical_form": "verb/es_3s_past"
+        },
+        {
+          "guid": "N08_011",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N08_011",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 201,
+      "translations": {
+        "en": "She opens the bottle now.",
+        "es": "Ella abre la botella ahora."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_014",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N08_012",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N08_012",
+      "minimum_level": 5
+    },
+    {
+      "sentence_id": 202,
+      "translations": {
+        "en": "He puts the bottle on the table.",
+        "es": "Él pone la botella sobre la mesa."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N08_012",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N39_006",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N08_012",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": 203,
+      "translations": {
+        "en": "We found an empty bottle.",
+        "es": "Encontramos una botella vacía."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_009",
+          "grammatical_form": "verb/es_1p_past"
+        },
+        {
+          "guid": "N08_012",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A05_047",
+          "grammatical_form": "adjective/es_singular_f"
+        }
+      ],
+      "source": "buivolas_guided_N08_012",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 204,
+      "translations": {
+        "en": "They drink from the bottle.",
+        "es": "Ellos beben de la botella."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_002",
+          "grammatical_form": "verb/es_3p_present"
+        },
+        {
+          "guid": "N08_012",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N08_012",
+      "minimum_level": 2
+    },
+    {
+      "sentence_id": 205,
+      "translations": {
+        "en": "She looks in the mirror now.",
+        "es": "Ella mira en el espejo ahora."
+      },
+      "linked_words": [
+        {
+          "guid": "V10_006",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N08_016",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N08_016",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 206,
+      "translations": {
+        "en": "I put the mirror on the wall.",
+        "es": "Puse el espejo en la pared."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/es_1s_past"
+        },
+        {
+          "guid": "N08_016",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N47_003",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N08_016",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 210,
+      "translations": {
+        "en": "I left a towel on the chair.",
+        "es": "Dejé una toalla en la silla."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_007",
+          "grammatical_form": "verb/es_1s_past"
+        },
+        {
+          "guid": "N08_017",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N39_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N08_017",
+      "minimum_level": 12
+    },
+    {
+      "sentence_id": 213,
+      "translations": {
+        "en": "My dog sleeps on the bed.",
+        "es": "Mi perro duerme en la cama."
+      },
+      "linked_words": [
+        {
+          "guid": "N02_001",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "V01_003",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N39_005",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N02_001",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": 215,
+      "translations": {
+        "en": "She walked the dog yesterday.",
+        "es": "Ella caminó al perro ayer."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/es_3s_past"
+        },
+        {
+          "guid": "N02_001",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N02_001",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 216,
+      "translations": {
+        "en": "Do you see the dog?",
+        "es": "¿Ves al perro?"
+      },
+      "linked_words": [
+        {
+          "guid": "V10_001",
+          "grammatical_form": "verb/es_2s_present"
+        },
+        {
+          "guid": "N02_001",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N02_001",
+      "minimum_level": 2
+    },
+    {
+      "sentence_id": 218,
+      "translations": {
+        "en": "My friend has a black cat.",
+        "es": "Mi amigo tiene un gato negro."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_002",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N02_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A02_001",
+          "grammatical_form": "adjective/es_singular_m"
+        }
+      ],
+      "source": "buivolas_guided_N02_002",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 219,
+      "translations": {
+        "en": "She saw a cat by the door.",
+        "es": "Ella vio un gato junto a la puerta."
+      },
+      "linked_words": [
+        {
+          "guid": "V10_001",
+          "grammatical_form": "verb/es_3s_past"
+        },
+        {
+          "guid": "N02_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N47_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N02_002",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 221,
+      "translations": {
+        "en": "A bird sits on the fence.",
+        "es": "Un pájaro se posa en la cerca."
+      },
+      "linked_words": [
+        {
+          "guid": "N02_003",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "V01_032",
+          "grammatical_form": "verb/es_3s_present"
+        },
+        {
+          "guid": "N47_016",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N02_003",
+      "minimum_level": 15
+    }
+  ]
 }

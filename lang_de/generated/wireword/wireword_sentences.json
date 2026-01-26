@@ -1,5 +1,1589 @@
 {
   "language": "de",
-  "generated_date": "2026-01-25T08:43:52.082575",
-  "sentences": []
+  "generated_date": "2026-01-25T20:32:49.553725",
+  "sentences": [
+    {
+      "sentence_id": 1,
+      "translations": {
+        "en": "They walk to the house.",
+        "de": "Sie gehen zum Haus."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/de_3p_present"
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": 3,
+      "translations": {
+        "en": "We open the house door.",
+        "de": "Wir öffnen die Tür des Hauses."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_014",
+          "grammatical_form": "verb/de_1p_present"
+        },
+        {
+          "guid": "N47_001",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": "noun/de_genitive_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 4,
+      "translations": {
+        "en": "He bought a new house.",
+        "de": "Er hat ein neues Haus gekauft."
+      },
+      "linked_words": [
+        {
+          "guid": "A05_035",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 5,
+      "translations": {
+        "en": "My son goes to school.",
+        "de": "Mein Sohn geht zur Schule."
+      },
+      "linked_words": [
+        {
+          "guid": "N35_036",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "V12_004",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_002",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": 6,
+      "translations": {
+        "en": "She walks to school every day.",
+        "de": "Sie geht jeden Tag zur Schule."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N25_002",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_002",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 9,
+      "translations": {
+        "en": "My friend works at the hospital.",
+        "de": "Mein Freund arbeitet im Krankenhaus."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N07_003",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_003",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 10,
+      "translations": {
+        "en": "She went to the hospital yesterday.",
+        "de": "Sie ging gestern ins Krankenhaus."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_004",
+          "grammatical_form": "verb/de_3s_past"
+        },
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_003",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_003",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 13,
+      "translations": {
+        "en": "I buy bread at the store.",
+        "de": "Ich kaufe Brot im Geschäft."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/de_1s_present"
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 14,
+      "translations": {
+        "en": "She found a toy in the store.",
+        "de": "Sie fand ein Spielzeug im Geschäft."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_009",
+          "grammatical_form": "verb/de_3s_past"
+        },
+        {
+          "guid": "N08_036",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 15
+    },
+    {
+      "sentence_id": 15,
+      "translations": {
+        "en": "We close the store at night.",
+        "de": "Wir schließen das Geschäft nachts."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_015",
+          "grammatical_form": "verb/de_1p_present"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N25_003",
+          "grammatical_form": "adverb/de_base"
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 16,
+      "translations": {
+        "en": "They walked to the store yesterday.",
+        "de": "Sie gingen gestern zum Geschäft."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/de_3p_past"
+        },
+        {
+          "guid": "D03_002",
+          "grammatical_form": "adverb/de_base"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 17,
+      "translations": {
+        "en": "We eat at the restaurant today.",
+        "de": "Wir essen heute im Restaurant."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/de_1p_present"
+        },
+        {
+          "guid": "D03_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_006",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_006",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 20,
+      "translations": {
+        "en": "My friend works at a restaurant.",
+        "de": "Mein Freund arbeitet in einem Restaurant."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N07_006",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_006",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 25,
+      "translations": {
+        "en": "I am walking to the bank today.",
+        "de": "Ich gehe heute zur Bank."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/de_1s_present"
+        },
+        {
+          "guid": "D03_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_008",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_008",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 28,
+      "translations": {
+        "en": "My friend works at the bank.",
+        "de": "Mein Freund arbeitet bei der Bank."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N07_008",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_008",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 29,
+      "translations": {
+        "en": "She walks to the library today.",
+        "de": "Sie geht heute in die Bibliothek."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N07_009",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_009",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": 33,
+      "translations": {
+        "en": "We are visiting the museum today.",
+        "de": "Wir besuchen heute das Museum."
+      },
+      "linked_words": [
+        {
+          "guid": "N07_010",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": 34,
+      "translations": {
+        "en": "She walks to the museum.",
+        "de": "Sie geht zum Museum."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N07_010",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": 35,
+      "translations": {
+        "en": "They saw paintings at the museum.",
+        "de": "Sie sahen Malereien im Museum."
+      },
+      "linked_words": [
+        {
+          "guid": "V10_001",
+          "grammatical_form": "verb/de_3p_past"
+        },
+        {
+          "guid": "N41_004",
+          "grammatical_form": "noun/de_accusative_plural"
+        },
+        {
+          "guid": "N07_010",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 36,
+      "translations": {
+        "en": "My friend works at the museum.",
+        "de": "Mein Freund arbeitet im Museum."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N07_010",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 37,
+      "translations": {
+        "en": "The fire station is near the school.",
+        "de": "Die Feuerwache ist nahe der Schule."
+      },
+      "linked_words": [
+        {
+          "guid": "N07_011",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "R99_026",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_011",
+      "minimum_level": 20
+    },
+    {
+      "sentence_id": 38,
+      "translations": {
+        "en": "My friend works at the fire station.",
+        "de": "Mein Freund arbeitet in der Feuerwache."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N07_011",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_011",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 39,
+      "translations": {
+        "en": "They drove past the fire station.",
+        "de": "Sie fuhren an der Feuerwache vorbei."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_002",
+          "grammatical_form": "verb/de_3p_past"
+        },
+        {
+          "guid": "N07_011",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_011",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 42,
+      "translations": {
+        "en": "We ate warm bread with butter.",
+        "de": "Wir aßen warmes Brot mit Butter."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/de_1p_past"
+        },
+        {
+          "guid": "A18_061",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N06_011",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_001",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 45,
+      "translations": {
+        "en": "She buys meat at the market.",
+        "de": "Sie kauft Fleisch auf dem Markt."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N06_007",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_028",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_007",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 46,
+      "translations": {
+        "en": "They eat meat for dinner.",
+        "de": "Sie essen Fleisch zum Abendessen."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/de_3p_present"
+        },
+        {
+          "guid": "N06_007",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N06_088",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_007",
+      "minimum_level": 9
+    },
+    {
+      "sentence_id": 47,
+      "translations": {
+        "en": "My friend does not like meat.",
+        "de": "Mein Freund mag kein Fleisch."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V05_001",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N06_007",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_007",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 49,
+      "translations": {
+        "en": "She adds sugar to her tea.",
+        "de": "Sie fügt ihrem Tee Zucker hinzu."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_055",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N42_003",
+          "grammatical_form": "noun/de_dative_singular"
+        },
+        {
+          "guid": "N06_012",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_012",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 50,
+      "translations": {
+        "en": "We bought sugar at the store.",
+        "de": "Wir haben Zucker im Geschäft gekauft."
+      },
+      "linked_words": [
+        {
+          "guid": "N06_012",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/de_dative_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_012",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 52,
+      "translations": {
+        "en": "They want sugar in their coffee.",
+        "de": "Sie wollen Zucker in ihrem Kaffee."
+      },
+      "linked_words": [
+        {
+          "guid": "V05_004",
+          "grammatical_form": "verb/de_3p_present"
+        },
+        {
+          "guid": "N06_012",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N42_002",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_012",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 53,
+      "translations": {
+        "en": "She puts salt on the meat.",
+        "de": "Sie legt Salz auf das Fleisch."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N06_007",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 54,
+      "translations": {
+        "en": "I need salt for the soup.",
+        "de": "Ich brauche Salz für die Suppe."
+      },
+      "linked_words": [
+        {
+          "guid": "V04_010",
+          "grammatical_form": "verb/de_1s_present"
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N06_021",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": 55,
+      "translations": {
+        "en": "They bought salt at the store.",
+        "de": "Sie kauften Salz im Geschäft."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/de_3p_past"
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 56,
+      "translations": {
+        "en": "My friend tastes salt on bread.",
+        "de": "Mein Freund schmeckt Salz auf dem Brot."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V10_005",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 58,
+      "translations": {
+        "en": "They buy potatoes at the market.",
+        "de": "Sie kaufen Kartoffeln auf dem Markt."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/de_3p_present"
+        },
+        {
+          "guid": "N06_014",
+          "grammatical_form": "noun/de_accusative_plural"
+        },
+        {
+          "guid": "N07_028",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_014",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 62,
+      "translations": {
+        "en": "He bought three apples yesterday.",
+        "de": "Er kaufte gestern drei Äpfel."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/de_3s_past"
+        },
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "Z01_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_015",
+          "grammatical_form": "noun/de_accusative_plural"
+        }
+      ],
+      "source": "buivolas_guided_N06_015",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 63,
+      "translations": {
+        "en": "My friend gave me an apple.",
+        "de": "Mein Freund hat mir einen Apfel gegeben."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "N06_015",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "V06_005",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_015",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 65,
+      "translations": {
+        "en": "I eat a banana every morning.",
+        "de": "Ich esse jeden Morgen eine Banane."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/de_1s_present"
+        },
+        {
+          "guid": "N25_004",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N06_016",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_016",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 70,
+      "translations": {
+        "en": "We bought tomatoes at the market.",
+        "de": "Wir haben Tomaten auf dem Markt gekauft."
+      },
+      "linked_words": [
+        {
+          "guid": "N06_018",
+          "grammatical_form": "noun/de_accusative_plural"
+        },
+        {
+          "guid": "N07_028",
+          "grammatical_form": "noun/de_dative_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_018",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 71,
+      "translations": {
+        "en": "He puts a tomato in the salad.",
+        "de": "Er legt eine Tomate in den Salat."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N06_018",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_028",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_018",
+      "minimum_level": 11
+    },
+    {
+      "sentence_id": 73,
+      "translations": {
+        "en": "She eats rice every day.",
+        "de": "Sie isst jeden Tag Reis."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N25_002",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N06_020",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_020",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 75,
+      "translations": {
+        "en": "My friend wants more rice.",
+        "de": "Mein Freund will mehr Reis."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "V05_004",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N06_020",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_020",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 79,
+      "translations": {
+        "en": "They bought tomato soup at lunch.",
+        "de": "Sie kauften Tomatensuppe zum Mittagessen."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/de_3p_past"
+        },
+        {
+          "guid": "N06_021",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N06_087",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_021",
+      "minimum_level": 9
+    },
+    {
+      "sentence_id": 80,
+      "translations": {
+        "en": "My friend ate soup with bread.",
+        "de": "Mein Freund aß Suppe mit Brot."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/de_3s_past"
+        },
+        {
+          "guid": "N06_021",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_021",
+      "minimum_level": 5
+    },
+    {
+      "sentence_id": 81,
+      "translations": {
+        "en": "I buy food at the market.",
+        "de": "Ich kaufe auf dem Markt Essen."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/de_1s_present"
+        },
+        {
+          "guid": "N07_028",
+          "grammatical_form": "noun/de_dative_singular"
+        },
+        {
+          "guid": "N06_092",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_092",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 83,
+      "translations": {
+        "en": "They have food in their bags.",
+        "de": "Sie haben Essen in ihren Taschen."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_002",
+          "grammatical_form": "verb/de_3p_present"
+        },
+        {
+          "guid": "N06_092",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N08_009",
+          "grammatical_form": "noun/de_dative_plural"
+        }
+      ],
+      "source": "buivolas_guided_N06_092",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 84,
+      "translations": {
+        "en": "Do you like this food?",
+        "de": "Magst du dieses Essen?"
+      },
+      "linked_words": [
+        {
+          "guid": "V05_001",
+          "grammatical_form": "verb/de_2s_present"
+        },
+        {
+          "guid": "N06_092",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_092",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 85,
+      "translations": {
+        "en": "He is wearing a clean shirt today.",
+        "de": "Er trägt heute ein sauberes Hemd."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "A18_027",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_001",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_001",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 86,
+      "translations": {
+        "en": "She bought a blue shirt.",
+        "de": "Sie kaufte ein blaues Hemd."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/de_3s_past"
+        },
+        {
+          "guid": "A02_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_001",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_001",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 88,
+      "translations": {
+        "en": "They found a dirty shirt.",
+        "de": "Sie fanden ein schmutziges Hemd."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_009",
+          "grammatical_form": "verb/de_3p_past"
+        },
+        {
+          "guid": "A18_070",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_001",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_001",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 89,
+      "translations": {
+        "en": "I bought new pants yesterday.",
+        "de": "Ich habe gestern eine neue Hose gekauft."
+      },
+      "linked_words": [
+        {
+          "guid": "A05_035",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_002",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 92,
+      "translations": {
+        "en": "Do they have clean pants?",
+        "de": "Haben sie saubere Hosen?"
+      },
+      "linked_words": [
+        {
+          "guid": "V06_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A18_027",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_002",
+          "grammatical_form": "noun/de_accusative_plural"
+        }
+      ],
+      "source": "buivolas_guided_N09_002",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 93,
+      "translations": {
+        "en": "She is wearing a red dress today.",
+        "de": "Sie trägt heute ein rotes Kleid."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "A02_003",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_003",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_003",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": 94,
+      "translations": {
+        "en": "My friend bought a blue dress.",
+        "de": "Mein Freund hat ein blaues Kleid gekauft."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "A02_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_003",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_003",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 95,
+      "translations": {
+        "en": "They see the dress in the store.",
+        "de": "Sie sehen das Kleid im Geschäft."
+      },
+      "linked_words": [
+        {
+          "guid": "V10_001",
+          "grammatical_form": "verb/de_3p_present"
+        },
+        {
+          "guid": "N09_003",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_003",
+      "minimum_level": 2
+    },
+    {
+      "sentence_id": 97,
+      "translations": {
+        "en": "He wears a warm jacket today.",
+        "de": "Er trägt heute eine warme Jacke."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "A18_061",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_005",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_005",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 98,
+      "translations": {
+        "en": "She bought a new jacket yesterday.",
+        "de": "Sie hat gestern eine neue Jacke gekauft."
+      },
+      "linked_words": [
+        {
+          "guid": "A05_035",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_005",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_005",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 101,
+      "translations": {
+        "en": "My shoe is by the door.",
+        "de": "Mein Schuh ist an der Tür."
+      },
+      "linked_words": [
+        {
+          "guid": "N09_006",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "N47_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_006",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 104,
+      "translations": {
+        "en": "They wear the same shoes.",
+        "de": "Sie tragen dieselben Schuhe."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/de_3p_present"
+        },
+        {
+          "guid": "N09_006",
+          "grammatical_form": "noun/de_accusative_plural"
+        }
+      ],
+      "source": "buivolas_guided_N09_006",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": 106,
+      "translations": {
+        "en": "She lost one blue sock.",
+        "de": "Sie hat eine blaue Socke verloren."
+      },
+      "linked_words": [
+        {
+          "guid": "Z01_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A02_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_007",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "V01_045",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_007",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": 108,
+      "translations": {
+        "en": "He put on clean socks.",
+        "de": "Er zog saubere Socken an."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/de_3s_past"
+        },
+        {
+          "guid": "A18_027",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_007",
+          "grammatical_form": "noun/de_nominative_plural"
+        }
+      ],
+      "source": "buivolas_guided_N09_007",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 109,
+      "translations": {
+        "en": "She is wearing a black hat today.",
+        "de": "Sie trägt heute einen schwarzen Hut."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "A02_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_008",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_008",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": 110,
+      "translations": {
+        "en": "He took off his hat.",
+        "de": "Er nahm seinen Hut ab."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_006",
+          "grammatical_form": "verb/de_3s_past"
+        },
+        {
+          "guid": "N09_008",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_008",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 112,
+      "translations": {
+        "en": "Do you want my warm hat?",
+        "de": "Willst du meinen warmen Hut?"
+      },
+      "linked_words": [
+        {
+          "guid": "V05_004",
+          "grammatical_form": "verb/de_2s_present"
+        },
+        {
+          "guid": "A18_061",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_008",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_008",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 115,
+      "translations": {
+        "en": "My friend bought warm gloves.",
+        "de": "Mein Freund hat warme Handschuhe gekauft."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "A18_061",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_009",
+          "grammatical_form": "noun/de_accusative_plural"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_009",
+      "minimum_level": 14
+    },
+    {
+      "sentence_id": 117,
+      "translations": {
+        "en": "She is wearing a blue sweater today.",
+        "de": "Sie trägt heute einen blauen Pullover."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "A02_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_011",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_011",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": 118,
+      "translations": {
+        "en": "My friend bought a sweater yesterday.",
+        "de": "Mein Freund hat gestern einen Pullover gekauft."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "N09_011",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_011",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": 119,
+      "translations": {
+        "en": "They put the sweater on the chair.",
+        "de": "Sie legten den Pullover auf den Stuhl."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/de_3p_past"
+        },
+        {
+          "guid": "N09_011",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N39_001",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_011",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": 122,
+      "translations": {
+        "en": "She bought new underwear yesterday.",
+        "de": "Sie hat gestern neue Unterwäsche gekauft."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_012",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_012",
+      "minimum_level": 13
+    }
+  ]
 }

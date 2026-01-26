@@ -1,5 +1,94 @@
 {
   "language": "nl",
-  "generated_date": "2026-01-25T08:43:52.156903",
-  "sentences": []
+  "generated_date": "2026-01-25T20:32:49.643814",
+  "sentences": [
+    {
+      "sentence_id": 1,
+      "translations": {
+        "en": "They walk to the house.",
+        "nl": "Zij lopen naar het huis."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": 3,
+      "translations": {
+        "en": "We open the house door.",
+        "nl": "We openen de deur van het huis."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_014",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N47_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": 4,
+      "translations": {
+        "en": "He bought a new house.",
+        "nl": "Hij kocht een nieuw huis."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": 5,
+      "translations": {
+        "en": "My son goes to school.",
+        "nl": "Mijn zoon gaat naar school."
+      },
+      "linked_words": [
+        {
+          "guid": "N35_036",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V12_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_002",
+      "minimum_level": 10
+    }
+  ]
 }
