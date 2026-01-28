@@ -2,9 +2,9 @@
   "version": 1,
   "language": "chinese_traditional",
   "language_code": "zh_Hant",
-  "generated_at": "2026-01-28T00:14:54Z",
+  "generated_at": "2026-01-28T00:19:43Z",
   "config": {
-    "audio_prefix": "/staging/zh_Hant",
+    "audio_prefix": "/staging",
     "available_voices": [
       "meiling",
       "zhiyuan"
@@ -19,7 +19,7 @@
       "description": "Words (nouns, adjectives, etc.)",
       "type": "words",
       "md5": "d4f9a6bf4381c2f08532c035caa4b66d",
-      "timestamp": "2026-01-28T00:14:54Z",
+      "timestamp": "2026-01-28T00:19:43Z",
       "required": true,
       "word_count": 900,
       "levels": [
@@ -108,7 +108,7 @@
       "description": "Verbs with conjugations",
       "type": "words",
       "md5": "73494c4152ba9046b990f5aff0777fb4",
-      "timestamp": "2026-01-28T00:14:54Z",
+      "timestamp": "2026-01-28T00:19:43Z",
       "required": true,
       "word_count": 181,
       "levels": [
@@ -140,7 +140,7 @@
       "description": "Sentences for context-based learning",
       "type": "sentences",
       "md5": "27d4d7c6e9ebf3d478879e31058d5c1e",
-      "timestamp": "2026-01-28T00:14:54Z",
+      "timestamp": "2026-01-28T00:19:43Z",
       "required": false
     }
   ],

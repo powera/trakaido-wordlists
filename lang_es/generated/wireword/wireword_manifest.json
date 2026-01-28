@@ -2,9 +2,9 @@
   "version": 1,
   "language": "spanish",
   "language_code": "es",
-  "generated_at": "2026-01-28T00:14:55Z",
+  "generated_at": "2026-01-28T00:19:43Z",
   "config": {
-    "audio_prefix": "/staging/es",
+    "audio_prefix": "/staging",
     "available_voices": [],
     "default_voice": null
   },
@@ -16,7 +16,7 @@
       "description": "Words (nouns, adjectives, etc.)",
       "type": "words",
       "md5": "efe5f3fe879a55d5b90fbd96d49a60a3",
-      "timestamp": "2026-01-28T00:14:55Z",
+      "timestamp": "2026-01-28T00:19:43Z",
       "required": true,
       "word_count": 900,
       "levels": [
@@ -105,7 +105,7 @@
       "description": "Verbs with conjugations",
       "type": "words",
       "md5": "4e8bbd1be085dcc4df7ec7a00375a467",
-      "timestamp": "2026-01-28T00:14:55Z",
+      "timestamp": "2026-01-28T00:19:43Z",
       "required": true,
       "word_count": 181,
       "levels": [
@@ -137,7 +137,7 @@
       "description": "Sentences for context-based learning",
       "type": "sentences",
       "md5": "fe6a72486b3ade594e80c77536cfc6a0",
-      "timestamp": "2026-01-28T00:14:55Z",
+      "timestamp": "2026-01-28T00:19:43Z",
       "required": false
     }
   ],
