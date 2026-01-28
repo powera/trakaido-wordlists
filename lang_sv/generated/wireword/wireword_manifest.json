@@ -2,9 +2,9 @@
   "version": 1,
   "language": "swedish",
   "language_code": "sv",
-  "generated_at": "2026-01-27T15:43:07Z",
+  "generated_at": "2026-01-28T00:14:55Z",
   "config": {
-    "audio_prefix": "/prod",
+    "audio_prefix": "/staging/sv",
     "available_voices": [],
     "default_voice": null
   },
@@ -16,7 +16,7 @@
       "description": "Words (nouns, adjectives, etc.)",
       "type": "words",
       "md5": "b93721b4d2bafad3aff644971c35139c",
-      "timestamp": "2026-01-27T15:43:07Z",
+      "timestamp": "2026-01-28T00:14:55Z",
       "required": true,
       "word_count": 900,
       "levels": [
@@ -105,7 +105,7 @@
       "description": "Verbs with conjugations",
       "type": "words",
       "md5": "4a8b456e5aaf7467c193b4e1a0745b84",
-      "timestamp": "2026-01-27T15:43:07Z",
+      "timestamp": "2026-01-28T00:14:55Z",
       "required": true,
       "word_count": 181,
       "levels": [
@@ -136,22 +136,10 @@
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "c0ef1798dd431dc881ebff6677bceb1d",
-      "timestamp": "2026-01-27T15:43:07Z",
+      "md5": "3e159615511131156d7cf71d3760a5ee",
+      "timestamp": "2026-01-28T00:14:55Z",
       "required": false
     }
   ],
-  "auxiliary_files": [
-    {
-      "id": "conversations",
-      "filename": "wireword_conversations.jsonl",
-      "display_name": "Conversations",
-      "description": "Practice conversations for dialogue-based learning",
-      "type": "conversations",
-      "md5": "d41d8cd98f00b204e9800998ecf8427e",
-      "timestamp": "2026-01-27T15:43:07Z",
-      "required": false,
-      "conversation_count": 0
-    }
-  ]
+  "auxiliary_files": []
 }

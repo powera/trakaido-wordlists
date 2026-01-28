@@ -21,6 +21,29 @@
       "minimum_level": 4
     },
     {
+      "sentence_id": "S_00002",
+      "translations": {
+        "en": "She has a small house.",
+        "it": "Lei ha una piccola casa."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A01_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 21
+    },
+    {
       "sentence_id": "S_00003",
       "translations": {
         "en": "We open the house door.",

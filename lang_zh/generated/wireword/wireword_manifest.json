@@ -2,9 +2,9 @@
   "version": 1,
   "language": "chinese",
   "language_code": "zh",
-  "generated_at": "2026-01-27T15:43:07Z",
+  "generated_at": "2026-01-28T00:14:54Z",
   "config": {
-    "audio_prefix": "/prod",
+    "audio_prefix": "/staging/zh",
     "available_voices": [
       "meiling",
       "zhiyuan"
@@ -19,7 +19,7 @@
       "description": "Words (nouns, adjectives, etc.)",
       "type": "words",
       "md5": "d4f9a6bf4381c2f08532c035caa4b66d",
-      "timestamp": "2026-01-27T15:43:07Z",
+      "timestamp": "2026-01-28T00:14:54Z",
       "required": true,
       "word_count": 900,
       "levels": [
@@ -108,7 +108,7 @@
       "description": "Verbs with conjugations",
       "type": "words",
       "md5": "73494c4152ba9046b990f5aff0777fb4",
-      "timestamp": "2026-01-27T15:43:07Z",
+      "timestamp": "2026-01-28T00:14:54Z",
       "required": true,
       "word_count": 181,
       "levels": [
@@ -139,22 +139,10 @@
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "dfdca58bce390a9dbf79141b307b723b",
-      "timestamp": "2026-01-27T15:43:07Z",
+      "md5": "167ce37208aa1e4f2bed589dc0d5b065",
+      "timestamp": "2026-01-28T00:14:54Z",
       "required": false
     }
   ],
-  "auxiliary_files": [
-    {
-      "id": "conversations",
-      "filename": "wireword_conversations.jsonl",
-      "display_name": "Conversations",
-      "description": "Practice conversations for dialogue-based learning",
-      "type": "conversations",
-      "md5": "d41d8cd98f00b204e9800998ecf8427e",
-      "timestamp": "2026-01-27T15:43:07Z",
-      "required": false,
-      "conversation_count": 0
-    }
-  ]
+  "auxiliary_files": []
 }

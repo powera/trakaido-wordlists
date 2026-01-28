@@ -2,9 +2,9 @@
   "version": 1,
   "language": "vietnamese",
   "language_code": "vi",
-  "generated_at": "2026-01-27T15:43:07Z",
+  "generated_at": "2026-01-28T00:14:55Z",
   "config": {
-    "audio_prefix": "/prod",
+    "audio_prefix": "/staging/vi",
     "available_voices": [],
     "default_voice": null
   },
@@ -16,7 +16,7 @@
       "description": "Words (nouns, adjectives, etc.)",
       "type": "words",
       "md5": "c54b3e0097891861b136928dadf6ffcd",
-      "timestamp": "2026-01-27T15:43:07Z",
+      "timestamp": "2026-01-28T00:14:55Z",
       "required": true,
       "word_count": 900,
       "levels": [
@@ -105,7 +105,7 @@
       "description": "Verbs with conjugations",
       "type": "words",
       "md5": "1769533438d5016c351e783d1c6b7ed3",
-      "timestamp": "2026-01-27T15:43:07Z",
+      "timestamp": "2026-01-28T00:14:55Z",
       "required": true,
       "word_count": 181,
       "levels": [
@@ -136,22 +136,10 @@
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "a1834d129f36c29c5b4504263006721d",
-      "timestamp": "2026-01-27T15:43:07Z",
+      "md5": "9cfe46593b7f9eda77713aa24659074b",
+      "timestamp": "2026-01-28T00:14:55Z",
       "required": false
     }
   ],
-  "auxiliary_files": [
-    {
-      "id": "conversations",
-      "filename": "wireword_conversations.jsonl",
-      "display_name": "Conversations",
-      "description": "Practice conversations for dialogue-based learning",
-      "type": "conversations",
-      "md5": "d41d8cd98f00b204e9800998ecf8427e",
-      "timestamp": "2026-01-27T15:43:07Z",
-      "required": false,
-      "conversation_count": 0
-    }
-  ]
+  "auxiliary_files": []
 }

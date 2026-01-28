@@ -21,6 +21,29 @@
       "minimum_level": 4
     },
     {
+      "sentence_id": "S_00002",
+      "translations": {
+        "en": "She has a small house.",
+        "pt": "Ela tem uma casa pequena."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_002",
+          "grammatical_form": "verb/pt_3s_present"
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A01_002",
+          "grammatical_form": "adjective/pt_singular_f"
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 21
+    },
+    {
       "sentence_id": "S_00003",
       "translations": {
         "en": "We open the house door.",
@@ -358,6 +381,29 @@
       "minimum_level": 4
     },
     {
+      "sentence_id": "S_00032",
+      "translations": {
+        "en": "They brought books to the library.",
+        "pt": "Eles trouxeram livros para a biblioteca."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_012",
+          "grammatical_form": "verb/pt_3p_past"
+        },
+        {
+          "guid": "N08_005",
+          "grammatical_form": "noun/pt_plural"
+        },
+        {
+          "guid": "N07_009",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_009",
+      "minimum_level": 21
+    },
+    {
       "sentence_id": "S_00033",
       "translations": {
         "en": "We are visiting the museum today.",
@@ -503,6 +549,33 @@
       "minimum_level": 17
     },
     {
+      "sentence_id": "S_00041",
+      "translations": {
+        "en": "She buys fresh bread every morning.",
+        "pt": "Ela compra pão fresco todas as manhãs."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/pt_3s_present"
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "A05_109",
+          "grammatical_form": "adjective/pt_singular_m"
+        },
+        {
+          "guid": "N25_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_001",
+      "minimum_level": 21
+    },
+    {
       "sentence_id": "S_00042",
       "translations": {
         "en": "We ate warm bread with butter.",
@@ -528,6 +601,29 @@
       ],
       "source": "buivolas_guided_N06_001",
       "minimum_level": 14
+    },
+    {
+      "sentence_id": "S_00044",
+      "translations": {
+        "en": "He gave me a piece of bread.",
+        "pt": "Ele me deu um pedaço de pão."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_005",
+          "grammatical_form": "verb/pt_3s_past"
+        },
+        {
+          "guid": "N22_016",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_001",
+      "minimum_level": 21
     },
     {
       "sentence_id": "S_00045",
@@ -787,6 +883,33 @@
       "minimum_level": 8
     },
     {
+      "sentence_id": "S_00061",
+      "translations": {
+        "en": "She eats an apple every day.",
+        "pt": "Ela come uma maçã todo dia."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/pt_3s_present"
+        },
+        {
+          "guid": "N06_015",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "T99_017",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N25_002",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_015",
+      "minimum_level": 21
+    },
+    {
       "sentence_id": "S_00062",
       "translations": {
         "en": "He bought three apples yesterday.",
@@ -858,6 +981,52 @@
       ],
       "source": "buivolas_guided_N06_016",
       "minimum_level": 13
+    },
+    {
+      "sentence_id": "S_00068",
+      "translations": {
+        "en": "We bought bananas at the market.",
+        "pt": "Compramos bananas no mercado."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/pt_1p_past"
+        },
+        {
+          "guid": "N06_016",
+          "grammatical_form": "noun/pt_plural"
+        },
+        {
+          "guid": "N07_028",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_016",
+      "minimum_level": 21
+    },
+    {
+      "sentence_id": "S_00069",
+      "translations": {
+        "en": "She eats a fresh tomato.",
+        "pt": "Ela come um tomate fresco."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/pt_3s_present"
+        },
+        {
+          "guid": "N06_018",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "A05_109",
+          "grammatical_form": "adjective/pt_singular_m"
+        }
+      ],
+      "source": "buivolas_guided_N06_018",
+      "minimum_level": 21
     },
     {
       "sentence_id": "S_00070",
@@ -1163,6 +1332,33 @@
       "minimum_level": 13
     },
     {
+      "sentence_id": "S_00091",
+      "translations": {
+        "en": "My friend found wet pants.",
+        "pt": "Meu amigo encontrou as calças molhadas."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "V01_009",
+          "grammatical_form": "verb/pt_3s_past"
+        },
+        {
+          "guid": "N09_002",
+          "grammatical_form": "noun/pt_plural"
+        },
+        {
+          "guid": "A18_011",
+          "grammatical_form": "adjective/pt_plural_f"
+        }
+      ],
+      "source": "buivolas_guided_N09_002",
+      "minimum_level": 21
+    },
+    {
       "sentence_id": "S_00092",
       "translations": {
         "en": "Do they have clean pants?",
@@ -1305,6 +1501,33 @@
       "minimum_level": 13
     },
     {
+      "sentence_id": "S_00100",
+      "translations": {
+        "en": "They put the wet jacket outside.",
+        "pt": "Eles puseram a jaqueta molhada fora."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/pt_3p_past"
+        },
+        {
+          "guid": "N09_005",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "A18_011",
+          "grammatical_form": "adjective/pt_singular_f"
+        },
+        {
+          "guid": "D07_032",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_005",
+      "minimum_level": 21
+    },
+    {
       "sentence_id": "S_00101",
       "translations": {
         "en": "My shoe is by the door.",
@@ -1322,6 +1545,48 @@
       ],
       "source": "buivolas_guided_N09_006",
       "minimum_level": 8
+    },
+    {
+      "sentence_id": "S_00102",
+      "translations": {
+        "en": "She bought a new shoe.",
+        "pt": "Ela comprou um sapato novo."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/pt_3s_past"
+        },
+        {
+          "guid": "N09_006",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_006",
+      "minimum_level": 21
+    },
+    {
+      "sentence_id": "S_00103",
+      "translations": {
+        "en": "He lost one shoe outside.",
+        "pt": "Ele perdeu um sapato fora."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_045",
+          "grammatical_form": "verb/pt_3s_past"
+        },
+        {
+          "guid": "N09_006",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "D07_032",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_006",
+      "minimum_level": 21
     },
     {
       "sentence_id": "S_00104",
@@ -1368,6 +1633,29 @@
       ],
       "source": "buivolas_guided_N09_007",
       "minimum_level": 17
+    },
+    {
+      "sentence_id": "S_00107",
+      "translations": {
+        "en": "They found a wet sock",
+        "pt": "Eles encontraram uma meia molhada"
+      },
+      "linked_words": [
+        {
+          "guid": "V01_009",
+          "grammatical_form": "verb/pt_3p_past"
+        },
+        {
+          "guid": "N09_007",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "A18_011",
+          "grammatical_form": "adjective/pt_singular_f"
+        }
+      ],
+      "source": "buivolas_guided_N09_007",
+      "minimum_level": 21
     },
     {
       "sentence_id": "S_00108",
@@ -1454,6 +1742,25 @@
       "minimum_level": 14
     },
     {
+      "sentence_id": "S_00113",
+      "translations": {
+        "en": "She puts on a glove.",
+        "pt": "Ela põe uma luva."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/pt_3s_present"
+        },
+        {
+          "guid": "N09_009",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_009",
+      "minimum_level": 21
+    },
+    {
       "sentence_id": "S_00115",
       "translations": {
         "en": "My friend bought warm gloves.",
@@ -1479,6 +1786,29 @@
       ],
       "source": "buivolas_guided_N09_009",
       "minimum_level": 14
+    },
+    {
+      "sentence_id": "S_00116",
+      "translations": {
+        "en": "Do you have a glove?",
+        "pt": "Tens uma luva?"
+      },
+      "linked_words": [
+        {
+          "guid": "V06_002",
+          "grammatical_form": "verb/pt_2s_present"
+        },
+        {
+          "guid": "Z01_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_009",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_009",
+      "minimum_level": 21
     },
     {
       "sentence_id": "S_00117",
@@ -1550,6 +1880,33 @@
       "minimum_level": 10
     },
     {
+      "sentence_id": "S_00121",
+      "translations": {
+        "en": "I need clean underwear today.",
+        "pt": "Preciso de roupa interior limpa hoje."
+      },
+      "linked_words": [
+        {
+          "guid": "V04_010",
+          "grammatical_form": "verb/pt_1s_present"
+        },
+        {
+          "guid": "N09_012",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "A18_027",
+          "grammatical_form": "adjective/pt_singular_f"
+        },
+        {
+          "guid": "D03_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_012",
+      "minimum_level": 21
+    },
+    {
       "sentence_id": "S_00122",
       "translations": {
         "en": "She bought new underwear yesterday.",
@@ -1575,6 +1932,29 @@
       ],
       "source": "buivolas_guided_N09_012",
       "minimum_level": 13
+    },
+    {
+      "sentence_id": "S_00124",
+      "translations": {
+        "en": "They wear underwear under their shirts.",
+        "pt": "Eles vestem roupa interior por baixo das suas camisas."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/pt_3p_present"
+        },
+        {
+          "guid": "N09_012",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "N09_001",
+          "grammatical_form": "noun/pt_plural"
+        }
+      ],
+      "source": "buivolas_guided_N09_012",
+      "minimum_level": 21
     }
   ]
 }

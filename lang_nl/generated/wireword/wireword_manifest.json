@@ -2,9 +2,9 @@
   "version": 1,
   "language": "dutch",
   "language_code": "nl",
-  "generated_at": "2026-01-27T15:43:07Z",
+  "generated_at": "2026-01-28T00:14:55Z",
   "config": {
-    "audio_prefix": "/prod",
+    "audio_prefix": "/staging/nl",
     "available_voices": [],
     "default_voice": null
   },
@@ -16,7 +16,7 @@
       "description": "Words (nouns, adjectives, etc.)",
       "type": "words",
       "md5": "622ec0a852ffa632071ff92551c72d7a",
-      "timestamp": "2026-01-27T15:43:07Z",
+      "timestamp": "2026-01-28T00:14:55Z",
       "required": true,
       "word_count": 900,
       "levels": [
@@ -105,7 +105,7 @@
       "description": "Verbs with conjugations",
       "type": "words",
       "md5": "88e333d27c3eab6ebf3eff54649157b1",
-      "timestamp": "2026-01-27T15:43:07Z",
+      "timestamp": "2026-01-28T00:14:55Z",
       "required": true,
       "word_count": 181,
       "levels": [
@@ -136,22 +136,10 @@
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "1b8b3452545d2e503a6908f63d7aedc5",
-      "timestamp": "2026-01-27T15:43:07Z",
+      "md5": "f31c972d58f48281ce308c8a24977d03",
+      "timestamp": "2026-01-28T00:14:55Z",
       "required": false
     }
   ],
-  "auxiliary_files": [
-    {
-      "id": "conversations",
-      "filename": "wireword_conversations.jsonl",
-      "display_name": "Conversations",
-      "description": "Practice conversations for dialogue-based learning",
-      "type": "conversations",
-      "md5": "d41d8cd98f00b204e9800998ecf8427e",
-      "timestamp": "2026-01-27T15:43:07Z",
-      "required": false,
-      "conversation_count": 0
-    }
-  ]
+  "auxiliary_files": []
 }

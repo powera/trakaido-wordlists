@@ -60,6 +60,7 @@
     "group": "Physical Action",
     "level": 6,
     "word_type": "verb",
+    "audio": {"jonas": "b993384f89c1520a091606d5f0c34b19", "ruta": "afcdc032453c3aab788a0cfa8a848f8a"},
     "tags": ["physical_action", "level_6"]
   },
   {
@@ -70,6 +71,7 @@
     "group": "Physical Action",
     "level": 3,
     "word_type": "verb",
+    "audio": {"jonas": "5826c26041ecf1922ac799826edd8358", "ruta": "f2def95718b751284e0169b505e4d6b2"},
     "tags": ["physical_action", "level_3"]
   },
   {
@@ -80,6 +82,7 @@
     "group": "Physical Action",
     "level": 10,
     "word_type": "verb",
+    "audio": {"jonas": "64722486bf0f95cf597643144c7a26e6", "ruta": "30609f1d42420aa47740ffa1ed82b200"},
     "tags": ["physical_action", "level_10"]
   },
   {
@@ -90,6 +93,7 @@
     "group": "Physical Action",
     "level": 3,
     "word_type": "verb",
+    "audio": {"jonas": "9745e7df123a1c6505ff3ce128f3abf9", "ruta": "4b3730e55a7bbb7191c0c6adbfce97e8"},
     "tags": ["physical_action", "level_3"]
   },
   {
@@ -100,6 +104,7 @@
     "group": "Physical Action",
     "level": 6,
     "word_type": "verb",
+    "audio": {"jonas": "f83c5626845199b6f1c7bbf0e7ef9455", "ruta": "3ee935b0a0ba190f126512c91b02b230"},
     "tags": ["physical_action", "level_6"]
   },
   {
@@ -120,6 +125,7 @@
     "group": "Physical Action",
     "level": 12,
     "word_type": "verb",
+    "audio": {"jonas": "6d432feaf1a6901645cdd0c5508d0501", "ruta": "dfa2369ee8918c718d9518e6876642f9"},
     "tags": ["physical_action", "level_12"]
   },
   {
@@ -140,6 +146,7 @@
     "group": "Physical Action",
     "level": 3,
     "word_type": "verb",
+    "audio": {"jonas": "b2bddfa572408d89a9eac0fd02206133", "ruta": "2585eee86c88a1bc4dd3c4ec2cb6b3ae"},
     "tags": ["physical_action", "level_3"]
   },
   {
@@ -150,6 +157,7 @@
     "group": "Physical Action",
     "level": 3,
     "word_type": "verb",
+    "audio": {"jonas": "c986f6ebda19f2301160f31dd9f72bfd", "ruta": "c60207f96eea1ebaa75800a474ace9d4"},
     "tags": ["physical_action", "level_3"]
   },
   {
@@ -603,6 +611,7 @@
     "group": "Mental State",
     "level": 10,
     "word_type": "verb",
+    "audio": {"jonas": "125c098ea1b577861f93c7c6d122187e", "ruta": "f3ef4ada7d6d60a0aed96adea92df2fb"},
     "tags": ["mental_state", "level_10"]
   },
   {
@@ -613,6 +622,7 @@
     "group": "Mental State",
     "level": 12,
     "word_type": "verb",
+    "audio": {"jonas": "7a575ed006c6097af34cfc60b5a88a16", "ruta": "567c3e9ea974062f5ed64df8545c14ee"},
     "tags": ["mental_state", "level_12"]
   },
   {
@@ -653,6 +663,7 @@
     "group": "Mental State",
     "level": 10,
     "word_type": "verb",
+    "audio": {"jonas": "b66b4a9b6e5e4b4f7c6625c19da4be67", "ruta": "1c05eedfe1a71ee2589645d9061f4b53"},
     "tags": ["mental_state", "level_10"]
   },
   {
@@ -673,6 +684,7 @@
     "group": "Mental State",
     "level": 10,
     "word_type": "verb",
+    "audio": {"jonas": "eefeaa7249bd68c561462b9d17b0fd98", "ruta": "41b72e83e67c7b12cf0afd941415a4c7"},
     "tags": ["mental_state", "level_10"]
   },
   {
@@ -693,6 +705,7 @@
     "group": "Mental State",
     "level": 10,
     "word_type": "verb",
+    "audio": {"jonas": "2fc44d077bf943a2c35c60661ab9d799", "ruta": "64083a531d9d21d92ef04db2ea7be1d0"},
     "tags": ["mental_state", "level_10"]
   },
   {
@@ -713,6 +726,7 @@
     "group": "Mental State",
     "level": 12,
     "word_type": "verb",
+    "audio": {"jonas": "d4ab6c162b985520e88c65e54be26389", "ruta": "86b59b4c040b48030f47c2126c3c16e3"},
     "tags": ["mental_state", "level_12"]
   },
   {
@@ -723,6 +737,7 @@
     "group": "Mental State",
     "level": 10,
     "word_type": "verb",
+    "audio": {"jonas": "0b691e4b638eb1352dabf7109e968b57", "ruta": "cd7591df2e87ddf91329fe13bf5a881a"},
     "tags": ["mental_state", "level_10"]
   },
   {
@@ -743,6 +758,7 @@
     "group": "Mental State",
     "level": 12,
     "word_type": "verb",
+    "audio": {"jonas": "3ce52810cdbd387b754c731c79fd268f", "ruta": "0436fdeae05f4c6b3467493f43bdd7df"},
     "tags": ["mental_state", "level_12"]
   },
   {
@@ -903,6 +919,7 @@
     "group": "Mental State",
     "level": 12,
     "word_type": "verb",
+    "audio": {"jonas": "24bbe3d2443e8ea1d80bcb35d80a01d0", "ruta": "a05c929375280d6b4c5d9f66107fc0ab"},
     "tags": ["mental_state", "level_12"]
   },
   {
@@ -933,6 +950,7 @@
     "group": "Emotional State",
     "level": 6,
     "word_type": "verb",
+    "audio": {"jonas": "c3429dfcb8bac996af54cf0115762495", "ruta": "8258e81808abf1097d5ff525c78b3de4"},
     "tags": ["emotional_state", "level_6"]
   },
   {
@@ -943,6 +961,7 @@
     "group": "Emotional State",
     "level": 10,
     "word_type": "verb",
+    "audio": {"jonas": "37cf60fa1f5e9aa049e6d5b8d6057f9e", "ruta": "b793f16f0c308393a8a491339afae6c5"},
     "tags": ["emotional_state", "level_10"]
   },
   {
@@ -953,6 +972,7 @@
     "group": "Emotional State",
     "level": 12,
     "word_type": "verb",
+    "audio": {"jonas": "c108c52c092d2c0352c4699c7d0cf0ca", "ruta": "fc0e3f0d88a6d5453e0fc46c459cf438"},
     "tags": ["emotional_state", "level_12"]
   },
   {
@@ -963,6 +983,7 @@
     "group": "Emotional State",
     "level": 6,
     "word_type": "verb",
+    "audio": {"jonas": "d5cd9669a1286a1999c8e3e9102c43ae", "ruta": "8f4c11a2c9576c5b65ce204e0af41417"},
     "tags": ["emotional_state", "level_6"]
   },
   {
@@ -973,6 +994,7 @@
     "group": "Emotional State",
     "level": 10,
     "word_type": "verb",
+    "audio": {"jonas": "0b27b5ab0237f03627caed6416590d59", "ruta": "2288ebfd8cae0898979ee04a959537cc"},
     "tags": ["emotional_state", "level_10"]
   },
   {
@@ -1033,6 +1055,7 @@
     "group": "Emotional State",
     "level": 12,
     "word_type": "verb",
+    "audio": {"jonas": "b3d9f50287f352410f6b921a0aeae199", "ruta": "b55380c35766b01b35a3c3b2d7f5b5f3"},
     "tags": ["emotional_state", "level_12"]
   },
   {
@@ -1144,6 +1167,7 @@
     "group": "Possession",
     "level": 6,
     "word_type": "verb",
+    "audio": {"jonas": "7fc2b12f8a328214596086c59e85aeb6", "ruta": "d922ac7312276e13b878b967b003df7d"},
     "tags": ["possession", "level_6"]
   },
   {
@@ -1154,6 +1178,7 @@
     "group": "Possession",
     "level": 6,
     "word_type": "verb",
+    "audio": {"jonas": "a1d0aac1071b5e8393aea36cdcfa0ee9", "ruta": "0816d39b628dd525e91ab0f2da4d68ee"},
     "tags": ["possession", "level_6"]
   },
   {
@@ -1164,6 +1189,7 @@
     "group": "Possession",
     "level": 3,
     "word_type": "verb",
+    "audio": {"jonas": "f7354224a84046dd491625e70cb64a5d", "ruta": "27438e867ac870175254354a1d511d78"},
     "tags": ["possession", "level_3"]
   },
   {
@@ -1174,6 +1200,7 @@
     "group": "Possession",
     "level": 6,
     "word_type": "verb",
+    "audio": {"jonas": "abeefbc61b8387e2864aa4b93b39fe5c", "ruta": "04260b612f93a0404815e88c8663278d"},
     "tags": ["possession", "level_6"]
   },
   {
@@ -1184,6 +1211,7 @@
     "group": "Possession",
     "level": 6,
     "word_type": "verb",
+    "audio": {"jonas": "479fca18cee966f48ccc1150ccc53ec8", "ruta": "33ccbbc708850afd4843f6fd41385d2a"},
     "tags": ["possession", "level_6"]
   },
   {
@@ -1194,6 +1222,7 @@
     "group": "Change",
     "level": 10,
     "word_type": "verb",
+    "audio": {"jonas": "5d9b141d3f886d36a325822696ba762c", "ruta": "98f3454d018004982ee5b308833b9966"},
     "tags": ["change", "level_10"]
   },
   {
@@ -1214,6 +1243,7 @@
     "group": "Change",
     "level": 10,
     "word_type": "verb",
+    "audio": {"jonas": "ceace937937a53ee8a72320d7a119238", "ruta": "47a93c8fc1104022658e3271a44b18a4"},
     "tags": ["change", "level_10"]
   },
   {
@@ -1224,6 +1254,7 @@
     "group": "Change",
     "level": 10,
     "word_type": "verb",
+    "audio": {"jonas": "645a7658ccfc8bd78bd15c78c4167c67", "ruta": "212226abbf8f2e1dbe7fa900b050d952"},
     "tags": ["change", "level_10"]
   },
   {
@@ -1234,6 +1265,7 @@
     "group": "Change",
     "level": 10,
     "word_type": "verb",
+    "audio": {"jonas": "7d44a340154c95c580373ad5501db0f5", "ruta": "2ede6a4afd0ec2574bffb7c34a5648d9"},
     "tags": ["change", "level_10"]
   },
   {
@@ -1244,6 +1276,7 @@
     "group": "Change",
     "level": 10,
     "word_type": "verb",
+    "audio": {"jonas": "da3fd6ef0322d15a807e9ae9ff057836", "ruta": "f9436ebe28bfb70c19cbeb8ab0e8067d"},
     "tags": ["change", "level_10"]
   },
   {
@@ -1254,6 +1287,7 @@
     "group": "Communication",
     "level": 10,
     "word_type": "verb",
+    "audio": {"jonas": "caa30657d841fe98b47e3467338d23d3", "ruta": "0c6a1178c9d36f34409a4f3817602905"},
     "tags": ["communication", "level_10"]
   },
   {
@@ -1264,6 +1298,7 @@
     "group": "Communication",
     "level": 12,
     "word_type": "verb",
+    "audio": {"jonas": "5e0657715e515402bc9e2d3fed39e630", "ruta": "fbd57b409dd479668484a10f31079993"},
     "tags": ["communication", "level_12"]
   },
   {
@@ -1274,6 +1309,7 @@
     "group": "Communication",
     "level": 10,
     "word_type": "verb",
+    "audio": {"jonas": "2db35c3818b5335dac289109b8e868b1", "ruta": "d09a72968f3540d191100cbfb7dd8694"},
     "tags": ["communication", "level_10"]
   },
   {
@@ -1284,6 +1320,7 @@
     "group": "Communication",
     "level": 10,
     "word_type": "verb",
+    "audio": {"jonas": "29c06c24f65bfdeae95856e9db47f47b", "ruta": "94cb64c2fa9a76ecef86b7d4c1632de6"},
     "tags": ["communication", "level_10"]
   },
   {
@@ -1294,6 +1331,7 @@
     "group": "Communication",
     "level": 12,
     "word_type": "verb",
+    "audio": {"jonas": "c80879ce7c3121900f68eb052dd1fa6b", "ruta": "4ffa02b37dad4f90719d1bb0815e3a35"},
     "tags": ["communication", "level_12"]
   },
   {
@@ -1304,6 +1342,7 @@
     "group": "Communication",
     "level": 3,
     "word_type": "verb",
+    "audio": {"ruta": "043887aebd8305093897145b0046122c"},
     "tags": ["communication", "level_3"]
   },
   {
@@ -1526,6 +1565,7 @@
     "group": "Existence",
     "level": 10,
     "word_type": "verb",
+    "audio": {"jonas": "2ec413b876128a776c43f08c8d304596", "ruta": "ce201a5b0e602a049372248473f5605e"},
     "tags": ["existence", "level_10"]
   },
   {
@@ -1556,6 +1596,7 @@
     "group": "Existence",
     "level": 10,
     "word_type": "verb",
+    "audio": {"jonas": "ed20422bdbf7676c2633649bf43e859e", "ruta": "d905238cbef005db054a269888d8d1f9"},
     "tags": ["existence", "level_10"]
   },
   {
@@ -1586,6 +1627,7 @@
     "group": "Directional Movement",
     "level": 3,
     "word_type": "verb",
+    "audio": {"jonas": "d28da0880beff74b9cfa5464055f8521", "ruta": "01d3a1462bc2552aed0e262e09a38453"},
     "tags": ["directional_movement", "level_3"]
   },
   {
@@ -1606,6 +1648,7 @@
     "group": "Directional Movement",
     "level": 3,
     "word_type": "verb",
+    "audio": {"jonas": "2a70f55901101e8b9ae515798cb64ab3", "ruta": "5e53246bb9d052438e5dcd4173fc9498"},
     "tags": ["directional_movement", "level_3"]
   },
   {
@@ -1616,6 +1659,7 @@
     "group": "Directional Movement",
     "level": 10,
     "word_type": "verb",
+    "audio": {"jonas": "c9fe9b735d7fcae677887da9296fc2dd", "ruta": "319fa9f9c67de3c7307819a8e60432aa"},
     "tags": ["directional_movement", "level_10"]
   },
   {
@@ -1626,6 +1670,7 @@
     "group": "Directional Movement",
     "level": 10,
     "word_type": "verb",
+    "audio": {"jonas": "7ec86ec1173c20bddc14088cce53765d", "ruta": "1b7b01ea5ba663d37efc4fd427a51311"},
     "tags": ["directional_movement", "level_10"]
   },
   {
@@ -1646,6 +1691,7 @@
     "group": "Directional Movement",
     "level": 12,
     "word_type": "verb",
+    "audio": {"jonas": "4b391cbf18bc8e8a931da3dc4992f46c", "ruta": "eff7155caeb2743b331222ea0ef8450f"},
     "tags": ["directional_movement", "level_12"]
   },
   {

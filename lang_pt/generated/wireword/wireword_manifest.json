@@ -2,9 +2,9 @@
   "version": 1,
   "language": "portuguese",
   "language_code": "pt",
-  "generated_at": "2026-01-27T15:43:07Z",
+  "generated_at": "2026-01-28T00:14:55Z",
   "config": {
-    "audio_prefix": "/prod",
+    "audio_prefix": "/staging/pt",
     "available_voices": [],
     "default_voice": null
   },
@@ -16,7 +16,7 @@
       "description": "Words (nouns, adjectives, etc.)",
       "type": "words",
       "md5": "c3d0386d69e74a7023190d995bc6a7bf",
-      "timestamp": "2026-01-27T15:43:07Z",
+      "timestamp": "2026-01-28T00:14:55Z",
       "required": true,
       "word_count": 900,
       "levels": [
@@ -105,7 +105,7 @@
       "description": "Verbs with conjugations",
       "type": "words",
       "md5": "d29fe7be32dae4f93c222a171b67ee56",
-      "timestamp": "2026-01-27T15:43:07Z",
+      "timestamp": "2026-01-28T00:14:55Z",
       "required": true,
       "word_count": 181,
       "levels": [
@@ -136,22 +136,10 @@
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "dac4978540cc6bffedcd262c2ef59dab",
-      "timestamp": "2026-01-27T15:43:07Z",
+      "md5": "1011e0c05ab5a41d6d7ac8183e3af1ec",
+      "timestamp": "2026-01-28T00:14:55Z",
       "required": false
     }
   ],
-  "auxiliary_files": [
-    {
-      "id": "conversations",
-      "filename": "wireword_conversations.jsonl",
-      "display_name": "Conversations",
-      "description": "Practice conversations for dialogue-based learning",
-      "type": "conversations",
-      "md5": "d41d8cd98f00b204e9800998ecf8427e",
-      "timestamp": "2026-01-27T15:43:07Z",
-      "required": false,
-      "conversation_count": 0
-    }
-  ]
+  "auxiliary_files": []
 }
