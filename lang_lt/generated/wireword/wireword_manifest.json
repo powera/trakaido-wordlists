@@ -2,7 +2,7 @@
   "version": 1,
   "language": "lithuanian",
   "language_code": "lt",
-  "generated_at": "2026-01-28T00:19:42Z",
+  "generated_at": "2026-01-28T00:56:30Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -19,7 +19,7 @@
       "description": "Words (nouns, adjectives, etc.)",
       "type": "words",
       "md5": "6c99450ba4d19e7d8e2d75d3f45dea91",
-      "timestamp": "2026-01-28T00:19:42Z",
+      "timestamp": "2026-01-28T00:56:30Z",
       "required": true,
       "word_count": 900,
       "levels": [
@@ -108,7 +108,7 @@
       "description": "Verbs with conjugations",
       "type": "words",
       "md5": "66eff5455150ce5235ededa67ec6321d",
-      "timestamp": "2026-01-28T00:19:42Z",
+      "timestamp": "2026-01-28T00:56:30Z",
       "required": true,
       "word_count": 181,
       "levels": [
@@ -140,7 +140,7 @@
       "description": "Sentences for context-based learning",
       "type": "sentences",
       "md5": "427e22e943dbb7b8d3621a86a657ed51",
-      "timestamp": "2026-01-28T00:19:42Z",
+      "timestamp": "2026-01-28T00:56:30Z",
       "required": false
     }
   ],

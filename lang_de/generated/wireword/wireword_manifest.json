@@ -2,7 +2,7 @@
   "version": 1,
   "language": "german",
   "language_code": "de",
-  "generated_at": "2026-01-28T00:19:43Z",
+  "generated_at": "2026-01-28T00:56:31Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [],
@@ -16,7 +16,7 @@
       "description": "Words (nouns, adjectives, etc.)",
       "type": "words",
       "md5": "fdd0bd666fe5dee9160b28d9ccd2212f",
-      "timestamp": "2026-01-28T00:19:43Z",
+      "timestamp": "2026-01-28T00:56:31Z",
       "required": true,
       "word_count": 900,
       "levels": [
@@ -105,7 +105,7 @@
       "description": "Verbs with conjugations",
       "type": "words",
       "md5": "7592210ebe523ce01d09e20145be8916",
-      "timestamp": "2026-01-28T00:19:43Z",
+      "timestamp": "2026-01-28T00:56:31Z",
       "required": true,
       "word_count": 181,
       "levels": [
@@ -137,7 +137,7 @@
       "description": "Sentences for context-based learning",
       "type": "sentences",
       "md5": "c9c06ca2d178f8db0cf544b27424c1b7",
-      "timestamp": "2026-01-28T00:19:43Z",
+      "timestamp": "2026-01-28T00:56:31Z",
       "required": false
     }
   ],

@@ -2,7 +2,7 @@
   "version": 1,
   "language": "french",
   "language_code": "fr",
-  "generated_at": "2026-01-28T00:19:43Z",
+  "generated_at": "2026-01-28T00:56:31Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -18,8 +18,8 @@
       "display_name": "Nouns",
       "description": "Words (nouns, adjectives, etc.)",
       "type": "words",
-      "md5": "f8dba7e60a7f00de1850fa8fe95f4990",
-      "timestamp": "2026-01-28T00:19:43Z",
+      "md5": "cf25807d8d469d6589259bdace5f20d7",
+      "timestamp": "2026-01-28T00:56:31Z",
       "required": true,
       "word_count": 900,
       "levels": [
@@ -107,8 +107,8 @@
       "display_name": "Verbs",
       "description": "Verbs with conjugations",
       "type": "words",
-      "md5": "c26f2346cda17f966b79cc395b18074c",
-      "timestamp": "2026-01-28T00:19:43Z",
+      "md5": "41af1ea51e3c6c61b471d95c4f1cb9b0",
+      "timestamp": "2026-01-28T00:56:31Z",
       "required": true,
       "word_count": 181,
       "levels": [
@@ -140,7 +140,7 @@
       "description": "Sentences for context-based learning",
       "type": "sentences",
       "md5": "c7ef15d1e00a1008f15d0954385b9adf",
-      "timestamp": "2026-01-28T00:19:43Z",
+      "timestamp": "2026-01-28T00:56:31Z",
       "required": false
     }
   ],

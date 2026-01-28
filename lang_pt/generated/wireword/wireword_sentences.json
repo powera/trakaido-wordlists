@@ -18,7 +18,7 @@
         }
       ],
       "source": "buivolas_guided_N07_001",
-      "minimum_level": 4
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00002",
@@ -41,7 +41,7 @@
         }
       ],
       "source": "buivolas_guided_N07_001",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00003",
@@ -64,7 +64,7 @@
         }
       ],
       "source": "buivolas_guided_N07_001",
-      "minimum_level": 8
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00004",
@@ -87,7 +87,7 @@
         }
       ],
       "source": "buivolas_guided_N07_001",
-      "minimum_level": 13
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00005",
@@ -133,7 +133,7 @@
         }
       ],
       "source": "buivolas_guided_N07_002",
-      "minimum_level": 13
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00009",
@@ -156,7 +156,7 @@
         }
       ],
       "source": "buivolas_guided_N07_003",
-      "minimum_level": 6
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00010",
@@ -179,7 +179,7 @@
         }
       ],
       "source": "buivolas_guided_N07_003",
-      "minimum_level": 13
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00013",
@@ -202,7 +202,7 @@
         }
       ],
       "source": "buivolas_guided_N07_005",
-      "minimum_level": 6
+      "minimum_level": 1
     },
     {
       "sentence_id": "S_00014",
@@ -225,7 +225,7 @@
         }
       ],
       "source": "buivolas_guided_N07_005",
-      "minimum_level": 15
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00015",
@@ -248,7 +248,7 @@
         }
       ],
       "source": "buivolas_guided_N07_005",
-      "minimum_level": 13
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00016",
@@ -271,7 +271,7 @@
         }
       ],
       "source": "buivolas_guided_N07_005",
-      "minimum_level": 13
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00017",
@@ -294,7 +294,7 @@
         }
       ],
       "source": "buivolas_guided_N07_006",
-      "minimum_level": 13
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00020",
@@ -317,7 +317,7 @@
         }
       ],
       "source": "buivolas_guided_N07_006",
-      "minimum_level": 6
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00025",
@@ -336,7 +336,7 @@
         }
       ],
       "source": "buivolas_guided_N07_008",
-      "minimum_level": 13
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00028",
@@ -359,7 +359,7 @@
         }
       ],
       "source": "buivolas_guided_N07_008",
-      "minimum_level": 6
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00029",
@@ -378,7 +378,7 @@
         }
       ],
       "source": "buivolas_guided_N07_009",
-      "minimum_level": 4
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00032",
@@ -401,7 +401,7 @@
         }
       ],
       "source": "buivolas_guided_N07_009",
-      "minimum_level": 21
+      "minimum_level": 2
     },
     {
       "sentence_id": "S_00033",
@@ -435,7 +435,7 @@
         }
       ],
       "source": "buivolas_guided_N07_010",
-      "minimum_level": 4
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00035",
@@ -458,7 +458,7 @@
         }
       ],
       "source": "buivolas_guided_N07_010",
-      "minimum_level": 13
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00036",
@@ -481,7 +481,7 @@
         }
       ],
       "source": "buivolas_guided_N07_010",
-      "minimum_level": 6
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00037",
@@ -504,7 +504,7 @@
         }
       ],
       "source": "buivolas_guided_N07_011",
-      "minimum_level": 20
+      "minimum_level": 1
     },
     {
       "sentence_id": "S_00038",
@@ -527,7 +527,7 @@
         }
       ],
       "source": "buivolas_guided_N07_011",
-      "minimum_level": 6
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00039",
@@ -546,7 +546,7 @@
         }
       ],
       "source": "buivolas_guided_N07_011",
-      "minimum_level": 17
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00041",
@@ -573,7 +573,7 @@
         }
       ],
       "source": "buivolas_guided_N06_001",
-      "minimum_level": 21
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00042",
@@ -600,7 +600,7 @@
         }
       ],
       "source": "buivolas_guided_N06_001",
-      "minimum_level": 14
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00044",
@@ -623,7 +623,7 @@
         }
       ],
       "source": "buivolas_guided_N06_001",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00045",
@@ -646,7 +646,7 @@
         }
       ],
       "source": "buivolas_guided_N06_007",
-      "minimum_level": 8
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00046",
@@ -669,7 +669,7 @@
         }
       ],
       "source": "buivolas_guided_N06_007",
-      "minimum_level": 9
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00047",
@@ -692,7 +692,7 @@
         }
       ],
       "source": "buivolas_guided_N06_007",
-      "minimum_level": 6
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00049",
@@ -715,7 +715,7 @@
         }
       ],
       "source": "buivolas_guided_N06_012",
-      "minimum_level": 17
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00050",
@@ -738,7 +738,7 @@
         }
       ],
       "source": "buivolas_guided_N06_012",
-      "minimum_level": 6
+      "minimum_level": 1
     },
     {
       "sentence_id": "S_00052",
@@ -761,7 +761,7 @@
         }
       ],
       "source": "buivolas_guided_N06_012",
-      "minimum_level": 8
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00053",
@@ -784,7 +784,7 @@
         }
       ],
       "source": "buivolas_guided_N06_013",
-      "minimum_level": 6
+      "minimum_level": 1
     },
     {
       "sentence_id": "S_00054",
@@ -807,7 +807,7 @@
         }
       ],
       "source": "buivolas_guided_N06_013",
-      "minimum_level": 10
+      "minimum_level": 1
     },
     {
       "sentence_id": "S_00055",
@@ -830,7 +830,7 @@
         }
       ],
       "source": "buivolas_guided_N06_013",
-      "minimum_level": 6
+      "minimum_level": 1
     },
     {
       "sentence_id": "S_00056",
@@ -880,7 +880,7 @@
         }
       ],
       "source": "buivolas_guided_N06_014",
-      "minimum_level": 8
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00061",
@@ -907,7 +907,7 @@
         }
       ],
       "source": "buivolas_guided_N06_015",
-      "minimum_level": 21
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00062",
@@ -934,7 +934,7 @@
         }
       ],
       "source": "buivolas_guided_N06_015",
-      "minimum_level": 13
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00063",
@@ -957,7 +957,7 @@
         }
       ],
       "source": "buivolas_guided_N06_015",
-      "minimum_level": 6
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00065",
@@ -980,7 +980,7 @@
         }
       ],
       "source": "buivolas_guided_N06_016",
-      "minimum_level": 13
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00068",
@@ -1003,7 +1003,7 @@
         }
       ],
       "source": "buivolas_guided_N06_016",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00069",
@@ -1026,7 +1026,7 @@
         }
       ],
       "source": "buivolas_guided_N06_018",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00070",
@@ -1049,7 +1049,7 @@
         }
       ],
       "source": "buivolas_guided_N06_018",
-      "minimum_level": 8
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00071",
@@ -1072,7 +1072,7 @@
         }
       ],
       "source": "buivolas_guided_N06_018",
-      "minimum_level": 11
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00073",
@@ -1095,7 +1095,7 @@
         }
       ],
       "source": "buivolas_guided_N06_020",
-      "minimum_level": 13
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00075",
@@ -1118,7 +1118,7 @@
         }
       ],
       "source": "buivolas_guided_N06_020",
-      "minimum_level": 6
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00079",
@@ -1145,7 +1145,7 @@
         }
       ],
       "source": "buivolas_guided_N06_021",
-      "minimum_level": 9
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00080",
@@ -1172,7 +1172,7 @@
         }
       ],
       "source": "buivolas_guided_N06_021",
-      "minimum_level": 5
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00081",
@@ -1195,7 +1195,7 @@
         }
       ],
       "source": "buivolas_guided_N06_092",
-      "minimum_level": 8
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00083",
@@ -1218,7 +1218,7 @@
         }
       ],
       "source": "buivolas_guided_N06_092",
-      "minimum_level": 6
+      "minimum_level": 2
     },
     {
       "sentence_id": "S_00084",
@@ -1260,7 +1260,7 @@
         }
       ],
       "source": "buivolas_guided_N09_001",
-      "minimum_level": 14
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00086",
@@ -1283,7 +1283,7 @@
         }
       ],
       "source": "buivolas_guided_N09_001",
-      "minimum_level": 6
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00088",
@@ -1306,7 +1306,7 @@
         }
       ],
       "source": "buivolas_guided_N09_001",
-      "minimum_level": 14
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00089",
@@ -1329,7 +1329,7 @@
         }
       ],
       "source": "buivolas_guided_N09_002",
-      "minimum_level": 13
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00091",
@@ -1379,7 +1379,7 @@
         }
       ],
       "source": "buivolas_guided_N09_002",
-      "minimum_level": 14
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00093",
@@ -1429,7 +1429,7 @@
         }
       ],
       "source": "buivolas_guided_N09_003",
-      "minimum_level": 6
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00095",
@@ -1452,7 +1452,7 @@
         }
       ],
       "source": "buivolas_guided_N09_003",
-      "minimum_level": 2
+      "minimum_level": 1
     },
     {
       "sentence_id": "S_00097",
@@ -1475,7 +1475,7 @@
         }
       ],
       "source": "buivolas_guided_N09_005",
-      "minimum_level": 14
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00098",
@@ -1498,7 +1498,7 @@
         }
       ],
       "source": "buivolas_guided_N09_005",
-      "minimum_level": 13
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00100",
@@ -1525,7 +1525,7 @@
         }
       ],
       "source": "buivolas_guided_N09_005",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_00101",
@@ -1563,7 +1563,7 @@
         }
       ],
       "source": "buivolas_guided_N09_006",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00103",
@@ -1586,7 +1586,7 @@
         }
       ],
       "source": "buivolas_guided_N09_006",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00104",
@@ -1632,7 +1632,7 @@
         }
       ],
       "source": "buivolas_guided_N09_007",
-      "minimum_level": 17
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00107",
@@ -1678,7 +1678,7 @@
         }
       ],
       "source": "buivolas_guided_N09_007",
-      "minimum_level": 14
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00109",
@@ -1739,7 +1739,7 @@
         }
       ],
       "source": "buivolas_guided_N09_008",
-      "minimum_level": 14
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00113",
@@ -1758,7 +1758,7 @@
         }
       ],
       "source": "buivolas_guided_N09_009",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00115",
@@ -1785,7 +1785,7 @@
         }
       ],
       "source": "buivolas_guided_N09_009",
-      "minimum_level": 14
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00116",
@@ -1808,7 +1808,7 @@
         }
       ],
       "source": "buivolas_guided_N09_009",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00117",
@@ -1854,7 +1854,7 @@
         }
       ],
       "source": "buivolas_guided_N09_011",
-      "minimum_level": 6
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00119",
@@ -1877,7 +1877,7 @@
         }
       ],
       "source": "buivolas_guided_N09_011",
-      "minimum_level": 10
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00121",
@@ -1904,7 +1904,7 @@
         }
       ],
       "source": "buivolas_guided_N09_012",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00122",
@@ -1931,7 +1931,7 @@
         }
       ],
       "source": "buivolas_guided_N09_012",
-      "minimum_level": 13
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00124",
@@ -1954,7 +1954,7 @@
         }
       ],
       "source": "buivolas_guided_N09_012",
-      "minimum_level": 21
+      "minimum_level": 1
     }
   ]
 }

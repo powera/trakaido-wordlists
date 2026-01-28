@@ -7,6 +7,7 @@
     "group": "Physical Action",
     "level": 3,
     "word_type": "verb",
+    "audio": {"carlos": "04581c6c82eed78eea46f8f4ff767ee7", "maria": "9374ef2e6d35fac2f6218142be248fd9"},
     "tags": ["physical_action", "level_3"]
   },
   {
@@ -17,6 +18,7 @@
     "group": "Physical Action",
     "level": 3,
     "word_type": "verb",
+    "audio": {"carlos": "4152cf101c271f13ebc661f7848a733c", "maria": "37d02fdcfb981a1858f5395604876b08"},
     "tags": ["physical_action", "level_3"]
   },
   {
@@ -27,6 +29,7 @@
     "group": "Physical Action",
     "level": 3,
     "word_type": "verb",
+    "audio": {"carlos": "fd627e76b101bffcd44026b4c1276d2d", "maria": "f42fecf1279ac1995b712a79f6627687"},
     "tags": ["physical_action", "level_3"]
   },
   {
@@ -67,6 +70,7 @@
     "group": "Physical Action",
     "level": 3,
     "word_type": "verb",
+    "audio": {"carlos": "327c2ad85e23564814d0027fee1e8880", "maria": "507589eecac6c1a6f9883d303a77c4ae"},
     "tags": ["physical_action", "level_3"]
   },
   {
@@ -87,6 +91,7 @@
     "group": "Physical Action",
     "level": 3,
     "word_type": "verb",
+    "audio": {"carlos": "c079cb6c9c57085df2da5f1378f6f211", "maria": "6f7c027725ad2f401e0149b6271545e4"},
     "tags": ["physical_action", "level_3"]
   },
   {
@@ -137,6 +142,7 @@
     "group": "Physical Action",
     "level": 3,
     "word_type": "verb",
+    "audio": {"carlos": "7e5deef810af1da15356b20578d56195", "maria": "31828db19eb90eee8bf719f9731d881e"},
     "tags": ["physical_action", "level_3"]
   },
   {
@@ -147,6 +153,7 @@
     "group": "Physical Action",
     "level": 3,
     "word_type": "verb",
+    "audio": {"carlos": "270850bcdc4fd57a8b95ec168e3034f9", "maria": "42a029975d5f92d6ab46a86fe4b71bf0"},
     "tags": ["physical_action", "level_3"]
   },
   {
@@ -307,6 +314,7 @@
     "group": "Physical Action",
     "level": 3,
     "word_type": "verb",
+    "audio": {"carlos": "9854775cc95823b36964dab79ef8e237", "maria": "09869641c6727d2eb69170c63dec0636"},
     "tags": ["physical_action", "level_3"]
   },
   {
@@ -317,6 +325,7 @@
     "group": "Physical Action",
     "level": 3,
     "word_type": "verb",
+    "audio": {"carlos": "41b21cbc5763df118077498d0bc6c193", "maria": "f4ce2ce97c44c74f85c06c153aff6de6"},
     "tags": ["physical_action", "level_3"]
   },
   {
@@ -327,6 +336,7 @@
     "group": "Physical Action",
     "level": 3,
     "word_type": "verb",
+    "audio": {"carlos": "a75afa55c36f1105bfb29f4c9975fe88", "maria": "8e0797363da23fdfcd3bcab8e6b6f859"},
     "tags": ["physical_action", "level_3"]
   },
   {
@@ -1127,6 +1137,7 @@
     "group": "Possession",
     "level": 3,
     "word_type": "verb",
+    "audio": {"carlos": "31ce6be7462614a75f4e4790ed20706b", "maria": "50c8a9cfdf1e30ebf2fdc00bc7ad40e5"},
     "tags": ["possession", "level_3"]
   },
   {
@@ -1157,6 +1168,7 @@
     "group": "Possession",
     "level": 3,
     "word_type": "verb",
+    "audio": {"carlos": "5f956a1545b2fa4357d8b65a690f0aa3", "maria": "9f8aeebdec3acc30df91e200efa0e8de"},
     "tags": ["possession", "level_3"]
   },
   {
@@ -1297,6 +1309,7 @@
     "group": "Communication",
     "level": 3,
     "word_type": "verb",
+    "audio": {"carlos": "6db41d3e80e08cfb39bdbac4029ba874", "maria": "fde82a75ed866d7f74282c3c6d1c5d2e"},
     "tags": ["communication", "level_3"]
   },
   {
@@ -1437,6 +1450,7 @@
     "group": "Perception",
     "level": 3,
     "word_type": "verb",
+    "audio": {"carlos": "121ba0e3c8243f6cf9374c34f77327e9", "maria": "e8dce904d3dcfecf19a4c54f2c98cff3"},
     "tags": ["perception", "level_3"]
   },
   {
@@ -1447,6 +1461,7 @@
     "group": "Perception",
     "level": 3,
     "word_type": "verb",
+    "audio": {"carlos": "de3c91c345353903aae224a921e57462", "maria": "ba95257e4fe8b3a2013cc74410a67488"},
     "tags": ["perception", "level_3"]
   },
   {
@@ -1577,6 +1592,7 @@
     "group": "Directional Movement",
     "level": 3,
     "word_type": "verb",
+    "audio": {"carlos": "2a0bf43ce3dc2df74da70823940dda25", "maria": "b4f53e8f43fa919bce4bd4475c1d3d4e"},
     "tags": ["directional_movement", "level_3"]
   },
   {
@@ -1597,6 +1613,7 @@
     "group": "Directional Movement",
     "level": 3,
     "word_type": "verb",
+    "audio": {"carlos": "8e7f49fe9cf339ba4f1c55866a9080e2", "maria": "64c6e0f78d232e9d5a6abb564cefd0ef"},
     "tags": ["directional_movement", "level_3"]
   },
   {

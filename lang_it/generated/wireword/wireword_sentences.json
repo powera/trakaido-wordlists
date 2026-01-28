@@ -18,7 +18,7 @@
         }
       ],
       "source": "buivolas_guided_N07_001",
-      "minimum_level": 4
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00002",
@@ -41,7 +41,7 @@
         }
       ],
       "source": "buivolas_guided_N07_001",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00003",
@@ -64,7 +64,7 @@
         }
       ],
       "source": "buivolas_guided_N07_001",
-      "minimum_level": 8
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00004",
@@ -87,7 +87,7 @@
         }
       ],
       "source": "buivolas_guided_N07_001",
-      "minimum_level": 13
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00005",

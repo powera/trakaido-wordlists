@@ -15,7 +15,7 @@
       ],
       "pinyin": "tā men zǒu dào fáng zi lǐ 。",
       "source": "buivolas_guided_N07_001",
-      "minimum_level": 4
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00002",
@@ -39,7 +39,7 @@
       ],
       "pinyin": "tā yǒu yī zuò xiǎo fáng zi 。",
       "source": "buivolas_guided_N07_001",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00003",
@@ -63,7 +63,7 @@
       ],
       "pinyin": "wǒ men dǎ kāi fáng zi de mén 。",
       "source": "buivolas_guided_N07_001",
-      "minimum_level": 8
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00004",
@@ -87,7 +87,7 @@
       ],
       "pinyin": "tā mǎi le yī suǒ xīn de fáng zi 。",
       "source": "buivolas_guided_N07_001",
-      "minimum_level": 13
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00005",
@@ -131,7 +131,7 @@
       ],
       "pinyin": "tā měi tiān zǒu lù qù xué xiào 。",
       "source": "buivolas_guided_N07_002",
-      "minimum_level": 13
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00009",
@@ -155,7 +155,7 @@
       ],
       "pinyin": "wǒ de péng yǒu zài yī yuàn gōng zuò 。",
       "source": "buivolas_guided_N07_003",
-      "minimum_level": 6
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00010",
@@ -179,7 +179,7 @@
       ],
       "pinyin": "tā zuó tiān qù le yī yuàn 。",
       "source": "buivolas_guided_N07_003",
-      "minimum_level": 13
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00013",
@@ -203,7 +203,7 @@
       ],
       "pinyin": "wǒ zài shāng diàn mǎi miàn bāo 。",
       "source": "buivolas_guided_N07_005",
-      "minimum_level": 6
+      "minimum_level": 1
     },
     {
       "sentence_id": "S_00014",
@@ -227,7 +227,7 @@
       ],
       "pinyin": "tā zài shāng diàn lǐ zhǎo dào le yí gè wán jù 。",
       "source": "buivolas_guided_N07_005",
-      "minimum_level": 15
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00015",
@@ -251,7 +251,7 @@
       ],
       "pinyin": "wǒ men zài yè wǎn guān bì shāng diàn 。",
       "source": "buivolas_guided_N07_005",
-      "minimum_level": 13
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00016",
@@ -275,7 +275,7 @@
       ],
       "pinyin": "tā men zuó tiān zǒu lù qù shāng diàn 。",
       "source": "buivolas_guided_N07_005",
-      "minimum_level": 13
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00017",
@@ -299,7 +299,7 @@
       ],
       "pinyin": "wǒ men jīn tiān zài cān tīng chī fàn 。",
       "source": "buivolas_guided_N07_006",
-      "minimum_level": 13
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00020",
@@ -323,7 +323,7 @@
       ],
       "pinyin": "wǒ de péng yǒu zài cān tīng gōng zuò 。",
       "source": "buivolas_guided_N07_006",
-      "minimum_level": 6
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00025",
@@ -347,7 +347,7 @@
       ],
       "pinyin": "wǒ jīn tiān zǒu lù qù yín háng 。",
       "source": "buivolas_guided_N07_008",
-      "minimum_level": 13
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00028",
@@ -371,7 +371,7 @@
       ],
       "pinyin": "wǒ de péng yǒu zài yín háng gōng zuò 。",
       "source": "buivolas_guided_N07_008",
-      "minimum_level": 6
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00029",
@@ -391,7 +391,7 @@
       ],
       "pinyin": "tā jīn tiān zǒu lù qù tú shū guǎn 。",
       "source": "buivolas_guided_N07_009",
-      "minimum_level": 4
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00032",
@@ -415,7 +415,7 @@
       ],
       "pinyin": "tā men bǎ shū dài dào le tú shū guǎn 。",
       "source": "buivolas_guided_N07_009",
-      "minimum_level": 21
+      "minimum_level": 2
     },
     {
       "sentence_id": "S_00033",
@@ -451,7 +451,7 @@
       ],
       "pinyin": "tā zǒu lù qù bó wù guǎn 。",
       "source": "buivolas_guided_N07_010",
-      "minimum_level": 4
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00035",
@@ -475,7 +475,7 @@
       ],
       "pinyin": "tā men zài bó wù guǎn kàn jiàn le huì huà 。",
       "source": "buivolas_guided_N07_010",
-      "minimum_level": 13
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00036",
@@ -499,7 +499,7 @@
       ],
       "pinyin": "wǒ de péng yǒu zài bó wù guǎn gōng zuò 。",
       "source": "buivolas_guided_N07_010",
-      "minimum_level": 6
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00037",
@@ -523,7 +523,7 @@
       ],
       "pinyin": "xiāo fáng jú kào jìn xué xiào 。",
       "source": "buivolas_guided_N07_011",
-      "minimum_level": 20
+      "minimum_level": 1
     },
     {
       "sentence_id": "S_00038",
@@ -547,7 +547,7 @@
       ],
       "pinyin": "wǒ de péng yǒu zài xiāo fáng jú gōng zuò 。",
       "source": "buivolas_guided_N07_011",
-      "minimum_level": 6
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00039",
@@ -567,7 +567,7 @@
       ],
       "pinyin": "tā men kāi chē jīng guò xiāo fáng jú 。",
       "source": "buivolas_guided_N07_011",
-      "minimum_level": 17
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00041",
@@ -595,7 +595,7 @@
       ],
       "pinyin": "tā měi tiān zǎo chén mǎi xīn xiān de miàn bāo 。",
       "source": "buivolas_guided_N06_001",
-      "minimum_level": 21
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00042",
@@ -623,7 +623,7 @@
       ],
       "pinyin": "wǒ men chī le mǒ huáng yóu de rè miàn bāo 。",
       "source": "buivolas_guided_N06_001",
-      "minimum_level": 14
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00044",
@@ -643,7 +643,7 @@
       ],
       "pinyin": "tā gěi le wǒ yī kuài miàn bāo 。",
       "source": "buivolas_guided_N06_001",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00045",
@@ -667,7 +667,7 @@
       ],
       "pinyin": "tā zài shì chǎng mǎi ròu 。",
       "source": "buivolas_guided_N06_007",
-      "minimum_level": 8
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00046",
@@ -691,7 +691,7 @@
       ],
       "pinyin": "tā men wǎn cān chī ròu 。",
       "source": "buivolas_guided_N06_007",
-      "minimum_level": 9
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00047",
@@ -715,7 +715,7 @@
       ],
       "pinyin": "wǒ de péng yǒu bù xǐ huān ròu 。",
       "source": "buivolas_guided_N06_007",
-      "minimum_level": 6
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00049",
@@ -739,7 +739,7 @@
       ],
       "pinyin": "tā gěi tā de chá tiān jiā táng 。",
       "source": "buivolas_guided_N06_012",
-      "minimum_level": 17
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00050",
@@ -763,7 +763,7 @@
       ],
       "pinyin": "wǒ men zài shāng diàn mǎi le táng 。",
       "source": "buivolas_guided_N06_012",
-      "minimum_level": 6
+      "minimum_level": 1
     },
     {
       "sentence_id": "S_00052",
@@ -787,7 +787,7 @@
       ],
       "pinyin": "tā men xiǎng yào zài zì jǐ de kā fēi lǐ fàng táng 。",
       "source": "buivolas_guided_N06_012",
-      "minimum_level": 8
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00053",
@@ -811,7 +811,7 @@
       ],
       "pinyin": "tā zài ròu shàng fàng yán 。",
       "source": "buivolas_guided_N06_013",
-      "minimum_level": 6
+      "minimum_level": 1
     },
     {
       "sentence_id": "S_00054",
@@ -835,7 +835,7 @@
       ],
       "pinyin": "wǒ xū yào zuò tāng yòng de yán 。",
       "source": "buivolas_guided_N06_013",
-      "minimum_level": 10
+      "minimum_level": 1
     },
     {
       "sentence_id": "S_00055",
@@ -859,7 +859,7 @@
       ],
       "pinyin": "tā men zài shāng diàn mǎi le yán 。",
       "source": "buivolas_guided_N06_013",
-      "minimum_level": 6
+      "minimum_level": 1
     },
     {
       "sentence_id": "S_00056",
@@ -911,7 +911,7 @@
       ],
       "pinyin": "tā men zài shì chǎng mǎi mǎ líng shǔ 。",
       "source": "buivolas_guided_N06_014",
-      "minimum_level": 8
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00061",
@@ -939,7 +939,7 @@
       ],
       "pinyin": "tā   měi   tiān   chī   yí gè   píng guǒ 。",
       "source": "buivolas_guided_N06_015",
-      "minimum_level": 21
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00062",
@@ -967,7 +967,7 @@
       ],
       "pinyin": "tā zuó tiān mǎi le sān gè píng guǒ 。",
       "source": "buivolas_guided_N06_015",
-      "minimum_level": 13
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00063",
@@ -991,7 +991,7 @@
       ],
       "pinyin": "wǒ de péng yǒu gěi le wǒ yí gè píng guǒ 。",
       "source": "buivolas_guided_N06_015",
-      "minimum_level": 6
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00065",
@@ -1015,7 +1015,7 @@
       ],
       "pinyin": "wǒ měi tiān zǎo chén chī yī gēn xiāng jiāo 。",
       "source": "buivolas_guided_N06_016",
-      "minimum_level": 13
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00068",
@@ -1039,7 +1039,7 @@
       ],
       "pinyin": "wǒ men zài shì chǎng mǎi le xiāng jiāo 。",
       "source": "buivolas_guided_N06_016",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00069",
@@ -1063,7 +1063,7 @@
       ],
       "pinyin": "tā chī yí gè xīn xiān de fān qié 。",
       "source": "buivolas_guided_N06_018",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00070",
@@ -1087,7 +1087,7 @@
       ],
       "pinyin": "wǒ men zài shì chǎng mǎi le fān qié 。",
       "source": "buivolas_guided_N06_018",
-      "minimum_level": 8
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00071",
@@ -1111,7 +1111,7 @@
       ],
       "pinyin": "tā bǎ fān qié fàng zài shā là lǐ 。",
       "source": "buivolas_guided_N06_018",
-      "minimum_level": 11
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00073",
@@ -1135,7 +1135,7 @@
       ],
       "pinyin": "tā měi tiān chī mǐ fàn 。",
       "source": "buivolas_guided_N06_020",
-      "minimum_level": 13
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00075",
@@ -1159,7 +1159,7 @@
       ],
       "pinyin": "wǒ de péng yǒu xiǎng yào gèng duō mǐ fàn 。",
       "source": "buivolas_guided_N06_020",
-      "minimum_level": 6
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00079",
@@ -1187,7 +1187,7 @@
       ],
       "pinyin": "tā men zài wǔ cān shí mǎi le fān qié tāng 。",
       "source": "buivolas_guided_N06_021",
-      "minimum_level": 9
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00080",
@@ -1215,7 +1215,7 @@
       ],
       "pinyin": "wǒ de péng yǒu chī le tāng huó miàn bāo 。",
       "source": "buivolas_guided_N06_021",
-      "minimum_level": 5
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00081",
@@ -1239,7 +1239,7 @@
       ],
       "pinyin": "wǒ zài shì chǎng mǎi shí wù 。",
       "source": "buivolas_guided_N06_092",
-      "minimum_level": 8
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00083",
@@ -1263,7 +1263,7 @@
       ],
       "pinyin": "tā men de dài zi lǐ yǒu shí wù 。",
       "source": "buivolas_guided_N06_092",
-      "minimum_level": 6
+      "minimum_level": 2
     },
     {
       "sentence_id": "S_00084",
@@ -1307,7 +1307,7 @@
       ],
       "pinyin": "tā jīn tiān chuān zhe gān jìng de chèn shān 。",
       "source": "buivolas_guided_N09_001",
-      "minimum_level": 14
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00086",
@@ -1331,7 +1331,7 @@
       ],
       "pinyin": "tā mǎi le yī jiàn lán sè de chèn shān 。",
       "source": "buivolas_guided_N09_001",
-      "minimum_level": 6
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00088",
@@ -1355,7 +1355,7 @@
       ],
       "pinyin": "tā men zhǎo dào le yí gè zàng de chèn shān 。",
       "source": "buivolas_guided_N09_001",
-      "minimum_level": 14
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00089",
@@ -1379,7 +1379,7 @@
       ],
       "pinyin": "wǒ zuó tiān mǎi le xīn kù zi 。",
       "source": "buivolas_guided_N09_002",
-      "minimum_level": 13
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00091",
@@ -1431,7 +1431,7 @@
       ],
       "pinyin": "tā men yǒu gān jìng de kù zi ma ？",
       "source": "buivolas_guided_N09_002",
-      "minimum_level": 14
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00093",
@@ -1483,7 +1483,7 @@
       ],
       "pinyin": "wǒ de péng yǒu mǎi le yī jiàn lán sè de yáng zhuāng 。",
       "source": "buivolas_guided_N09_003",
-      "minimum_level": 6
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00095",
@@ -1507,7 +1507,7 @@
       ],
       "pinyin": "tā men zài shāng diàn kàn jiàn yáng zhuāng 。",
       "source": "buivolas_guided_N09_003",
-      "minimum_level": 2
+      "minimum_level": 1
     },
     {
       "sentence_id": "S_00097",
@@ -1531,7 +1531,7 @@
       ],
       "pinyin": "tā jīn tiān chuān zhe yī jiàn wēn nuǎn de jiá kè 。",
       "source": "buivolas_guided_N09_005",
-      "minimum_level": 14
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00098",
@@ -1555,7 +1555,7 @@
       ],
       "pinyin": "tā zuó tiān mǎi le xīn jiá kè 。",
       "source": "buivolas_guided_N09_005",
-      "minimum_level": 13
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00100",
@@ -1583,7 +1583,7 @@
       ],
       "pinyin": "tā men bǎ shī de jiá kè fàng zài wài miàn 。",
       "source": "buivolas_guided_N09_005",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_00101",
@@ -1623,7 +1623,7 @@
       ],
       "pinyin": "tā mǎi le yī shuāng xīn xié zi 。",
       "source": "buivolas_guided_N09_006",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00103",
@@ -1647,7 +1647,7 @@
       ],
       "pinyin": "tā zài wài miàn diū shī le yī zhī xié 。",
       "source": "buivolas_guided_N09_006",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00104",
@@ -1695,7 +1695,7 @@
       ],
       "pinyin": "tā diū shī le yī zhī lán sè de wà zi 。",
       "source": "buivolas_guided_N09_007",
-      "minimum_level": 17
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00107",
@@ -1743,7 +1743,7 @@
       ],
       "pinyin": "tā chuān shàng le gān jìng de wà zi 。",
       "source": "buivolas_guided_N09_007",
-      "minimum_level": 14
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00109",
@@ -1807,7 +1807,7 @@
       ],
       "pinyin": "nǐ xiǎng yào wǒ de wēn nuǎn de mào zi ma ？",
       "source": "buivolas_guided_N09_008",
-      "minimum_level": 14
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00113",
@@ -1827,7 +1827,7 @@
       ],
       "pinyin": "tā dài shàng yī zhī shǒu tào 。",
       "source": "buivolas_guided_N09_009",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00115",
@@ -1855,7 +1855,7 @@
       ],
       "pinyin": "wǒ de péng yǒu mǎi le wēn nuǎn de shǒu tào 。",
       "source": "buivolas_guided_N09_009",
-      "minimum_level": 14
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00116",
@@ -1879,7 +1879,7 @@
       ],
       "pinyin": "nǐ yǒu yī zhī shǒu tào ma ？",
       "source": "buivolas_guided_N09_009",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00117",
@@ -1927,7 +1927,7 @@
       ],
       "pinyin": "wǒ de péng yǒu zuó tiān mǎi le máo yī 。",
       "source": "buivolas_guided_N09_011",
-      "minimum_level": 6
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00119",
@@ -1951,7 +1951,7 @@
       ],
       "pinyin": "tā men bǎ máo yī fàng zài yǐ zi shàng 。",
       "source": "buivolas_guided_N09_011",
-      "minimum_level": 10
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00121",
@@ -1979,7 +1979,7 @@
       ],
       "pinyin": "wǒ jīn tiān xū yào gān jìng de nèi yī 。",
       "source": "buivolas_guided_N09_012",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00122",
@@ -2007,7 +2007,7 @@
       ],
       "pinyin": "tā zuó tiān mǎi le xīn de nèi yī 。",
       "source": "buivolas_guided_N09_012",
-      "minimum_level": 13
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00124",
@@ -2031,7 +2031,7 @@
       ],
       "pinyin": "tā men zài chèn shān xià miàn chuān nèi yī 。",
       "source": "buivolas_guided_N09_012",
-      "minimum_level": 21
+      "minimum_level": 1
     },
     {
       "sentence_id": "S_00125",
@@ -2055,7 +2055,7 @@
       ],
       "pinyin": "wǒ měi tiān zǎo chén chī zǎo cān 。",
       "source": "buivolas_guided_V01_001",
-      "minimum_level": 21
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00126",
@@ -2103,7 +2103,7 @@
       ],
       "pinyin": "wǒ men fàng xué hòu chī le pī sà 。",
       "source": "buivolas_guided_V01_001",
-      "minimum_level": 11
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00128",
@@ -2123,7 +2123,7 @@
       ],
       "pinyin": "gǒu bú huì chī 。",
       "source": "buivolas_guided_V01_001",
-      "minimum_level": 2
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00129",
@@ -2147,7 +2147,7 @@
       ],
       "pinyin": "wǒ pǎo bù hòu hē shuǐ 。",
       "source": "buivolas_guided_V01_002",
-      "minimum_level": 8
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00130",
@@ -2171,7 +2171,7 @@
       ],
       "pinyin": "tā jīn tiān zǎo shàng hē le kā fēi 。",
       "source": "buivolas_guided_V01_002",
-      "minimum_level": 13
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00132",
@@ -2195,7 +2195,7 @@
       ],
       "pinyin": "hái zi bú huì hē niú nǎi 。",
       "source": "buivolas_guided_V01_002",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00133",
@@ -2219,7 +2219,7 @@
       ],
       "pinyin": "wǒ men kàn jiàn yī jià fēi jī zài shàng fāng 。",
       "source": "buivolas_guided_N40_006",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00134",
@@ -2243,7 +2243,7 @@
       ],
       "pinyin": "hái zi zhǐ zhe fēi jī 。",
       "source": "buivolas_guided_N40_006",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00137",
@@ -2267,7 +2267,7 @@
       ],
       "pinyin": "tā qí tā de zì xíng chē qù xué xiào 。",
       "source": "buivolas_guided_N40_007",
-      "minimum_level": 20
+      "minimum_level": 2
     },
     {
       "sentence_id": "S_00138",
@@ -2295,7 +2295,7 @@
       ],
       "pinyin": "tā zuó tiān mǎi le yī liàng xīn de zì xíng chē 。",
       "source": "buivolas_guided_N40_007",
-      "minimum_level": 13
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00140",
@@ -2319,7 +2319,7 @@
       ],
       "pinyin": "tā men xiǎng yào yī liàng hóng sè de zì xíng chē 。",
       "source": "buivolas_guided_N40_007",
-      "minimum_level": 6
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00141",
@@ -2343,7 +2343,7 @@
       ],
       "pinyin": "wǒ men jīn tiān zuò xiǎo chuán 。",
       "source": "buivolas_guided_N40_008",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00144",
@@ -2371,7 +2371,7 @@
       ],
       "pinyin": "xiǎo chuán màn màn dì chuān guò hú 。",
       "source": "buivolas_guided_N40_008",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00146",
@@ -2399,7 +2399,7 @@
       ],
       "pinyin": "wǒ de péng yǒu zuó tiān kàn jiàn le chuán 。",
       "source": "buivolas_guided_N40_009",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00149",
@@ -2423,7 +2423,7 @@
       ],
       "pinyin": "wǒ zuò chū zū chē huí jiā 。",
       "source": "buivolas_guided_N40_010",
-      "minimum_level": 8
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00150",
@@ -2491,7 +2491,7 @@
       ],
       "pinyin": "tā men zuó tiān jiào le yī liàng chū zū chē 。",
       "source": "buivolas_guided_N40_010",
-      "minimum_level": 17
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00153",
@@ -2515,7 +2515,7 @@
       ],
       "pinyin": "kǎ chē jīn tiān hěn dà shēng 。",
       "source": "buivolas_guided_N40_011",
-      "minimum_level": 14
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00155",
@@ -2539,7 +2539,7 @@
       ],
       "pinyin": "tā men kàn jiàn le yī liàng kǎ chē zài dào lù shàng 。",
       "source": "buivolas_guided_N40_011",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00156",
@@ -2567,7 +2567,7 @@
       ],
       "pinyin": "wǒ de péng yǒu mǎi le yī liàng xīn kǎ chē 。",
       "source": "buivolas_guided_N40_011",
-      "minimum_level": 13
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00161",
@@ -2591,7 +2591,7 @@
       ],
       "pinyin": "tā bǎ chā zǐ fàng zài tā de pán zi páng biān 。",
       "source": "buivolas_guided_N08_001",
-      "minimum_level": 6
+      "minimum_level": 2
     },
     {
       "sentence_id": "S_00162",
@@ -2615,7 +2615,7 @@
       ],
       "pinyin": "wǒ wǔ cān shí diū shī le wǒ de chā zǐ 。",
       "source": "buivolas_guided_N08_001",
-      "minimum_level": 17
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_00163",
@@ -2643,7 +2643,7 @@
       ],
       "pinyin": "hái zi yòng chā zǐ chī dōng xī 。",
       "source": "buivolas_guided_N08_001",
-      "minimum_level": 21
+      "minimum_level": 12
     },
     {
       "sentence_id": "S_00164",
@@ -2667,7 +2667,7 @@
       ],
       "pinyin": "tā men wèi wǎn cān mǎi le xīn chā zǐ 。",
       "source": "buivolas_guided_N08_001",
-      "minimum_level": 9
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00166",
@@ -2691,7 +2691,7 @@
       ],
       "pinyin": "wǒ zài bāo lǐ zhǎo dào le yī bǎ tāng chí 。",
       "source": "buivolas_guided_N08_002",
-      "minimum_level": 21
+      "minimum_level": 2
     },
     {
       "sentence_id": "S_00167",
@@ -2719,7 +2719,7 @@
       ],
       "pinyin": "hái zi xiàn zài xiǎng yào yī bǎ tāng chí 。",
       "source": "buivolas_guided_N08_002",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_00168",
@@ -2747,7 +2747,7 @@
       ],
       "pinyin": "tā men yòng tāng chí chī tāng 。",
       "source": "buivolas_guided_N08_002",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00169",
@@ -2771,7 +2771,7 @@
       ],
       "pinyin": "tā cóng yí gè bēi zi lǐ hē chá 。",
       "source": "buivolas_guided_N08_003",
-      "minimum_level": 8
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00170",
@@ -2799,7 +2799,7 @@
       ],
       "pinyin": "wǒ zuó tiān mǎi le yí gè xiǎo bēi zi 。",
       "source": "buivolas_guided_N08_003",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00171",
@@ -2851,7 +2851,7 @@
       ],
       "pinyin": "tā bǎ pán zi fàng zài zhuō zi shàng 。",
       "source": "buivolas_guided_N08_004",
-      "minimum_level": 10
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00176",
@@ -2883,7 +2883,7 @@
       ],
       "pinyin": "hái zi duān le liǎng gè xiǎo pán zi 。",
       "source": "buivolas_guided_N08_004",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00177",
@@ -2907,7 +2907,7 @@
       ],
       "pinyin": "tā yuè dú yī běn xīn de shū 。",
       "source": "buivolas_guided_N08_005",
-      "minimum_level": 17
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00178",
@@ -2931,7 +2931,7 @@
       ],
       "pinyin": "wǒ zuó tiān zhǎo dào le shū 。",
       "source": "buivolas_guided_N08_005",
-      "minimum_level": 13
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00179",
@@ -2955,7 +2955,7 @@
       ],
       "pinyin": "wǒ de péng yǒu gěi le wǒ yī běn shū 。",
       "source": "buivolas_guided_N08_005",
-      "minimum_level": 6
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00180",
@@ -2979,7 +2979,7 @@
       ],
       "pinyin": "tā men bǎ shū fàng zài zhuō zi shàng 。",
       "source": "buivolas_guided_N08_005",
-      "minimum_level": 10
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00183",
@@ -2999,7 +2999,7 @@
       ],
       "pinyin": "wǒ men xū yào yī bǎ yào shi dǎ kāi 。",
       "source": "buivolas_guided_N08_006",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00185",
@@ -3023,7 +3023,7 @@
       ],
       "pinyin": "tā mǎi yī bù xīn shǒu jī 。",
       "source": "buivolas_guided_N08_007",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00186",
@@ -3047,7 +3047,7 @@
       ],
       "pinyin": "wǒ de péng yǒu diū le tā de shǒu jī 。",
       "source": "buivolas_guided_N08_007",
-      "minimum_level": 17
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00188",
@@ -3071,7 +3071,7 @@
       ],
       "pinyin": "tā zuó tiān zhǎo dào le shǒu jī 。",
       "source": "buivolas_guided_N08_007",
-      "minimum_level": 13
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00189",
@@ -3095,7 +3095,7 @@
       ],
       "pinyin": "tā bǎ yí gè dài zi dài dào xué xiào 。",
       "source": "buivolas_guided_N08_009",
-      "minimum_level": 17
+      "minimum_level": 2
     },
     {
       "sentence_id": "S_00192",
@@ -3123,7 +3123,7 @@
       ],
       "pinyin": "tā jīn tiān mǎi le yí gè xīn de dài zi 。",
       "source": "buivolas_guided_N08_009",
-      "minimum_level": 13
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00194",
@@ -3147,7 +3147,7 @@
       ],
       "pinyin": "tā dǎ kāi le tā de qián bāo bìng wēi xiào 。",
       "source": "buivolas_guided_N08_010",
-      "minimum_level": 17
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00195",
@@ -3171,7 +3171,7 @@
       ],
       "pinyin": "wǒ men zài shì chǎng diū shī le qián bāo 。",
       "source": "buivolas_guided_N08_010",
-      "minimum_level": 17
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00198",
@@ -3195,7 +3195,7 @@
       ],
       "pinyin": "wǒ de péng yǒu diū le tā de yǎn jìng 。",
       "source": "buivolas_guided_N08_011",
-      "minimum_level": 17
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00199",
@@ -3219,7 +3219,7 @@
       ],
       "pinyin": "nǐ jīn tiān yǒu yǎn jìng ma ？",
       "source": "buivolas_guided_N08_011",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00201",
@@ -3239,7 +3239,7 @@
       ],
       "pinyin": "tā xiàn zài dǎ kāi píng zi 。",
       "source": "buivolas_guided_N08_012",
-      "minimum_level": 5
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00202",
@@ -3263,7 +3263,7 @@
       ],
       "pinyin": "tā bǎ píng zi fàng zài zhuō zi shàng 。",
       "source": "buivolas_guided_N08_012",
-      "minimum_level": 10
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00203",
@@ -3287,7 +3287,7 @@
       ],
       "pinyin": "wǒ men zhǎo dào le yī zhī kōng de píng zi 。",
       "source": "buivolas_guided_N08_012",
-      "minimum_level": 13
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00204",
@@ -3307,7 +3307,7 @@
       ],
       "pinyin": "tā men cóng píng zi lǐ hē 。",
       "source": "buivolas_guided_N08_012",
-      "minimum_level": 2
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00205",
@@ -3351,7 +3351,7 @@
       ],
       "pinyin": "wǒ bǎ jìng zi fàng zài qiáng shàng 。",
       "source": "buivolas_guided_N08_016",
-      "minimum_level": 8
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00208",
@@ -3379,7 +3379,7 @@
       ],
       "pinyin": "tā men zuó tiān mǎi le yí gè xiǎo jìng zi 。",
       "source": "buivolas_guided_N08_016",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00210",
@@ -3403,7 +3403,7 @@
       ],
       "pinyin": "wǒ bǎ máo jīn fàng zài yǐ zi shàng 。",
       "source": "buivolas_guided_N08_017",
-      "minimum_level": 12
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00211",
@@ -3427,7 +3427,7 @@
       ],
       "pinyin": "tā men zuó tiān mǎi le yī tiáo xīn de máo jīn 。",
       "source": "buivolas_guided_N08_017",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00213",
@@ -3451,7 +3451,7 @@
       ],
       "pinyin": "wǒ de gǒu zài chuáng shàng shuì jiào 。",
       "source": "buivolas_guided_N02_001",
-      "minimum_level": 10
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00215",
@@ -3475,7 +3475,7 @@
       ],
       "pinyin": "tā zuó tiān liú le gǒu 。",
       "source": "buivolas_guided_N02_001",
-      "minimum_level": 13
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00216",
@@ -3495,7 +3495,7 @@
       ],
       "pinyin": "nǐ kàn jiàn nà zhǐ gǒu ma ？",
       "source": "buivolas_guided_N02_001",
-      "minimum_level": 2
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00218",
@@ -3523,7 +3523,7 @@
       ],
       "pinyin": "wǒ de péng yǒu yǒu yī zhī hēi sè de māo 。",
       "source": "buivolas_guided_N02_002",
-      "minimum_level": 6
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00219",
@@ -3547,7 +3547,7 @@
       ],
       "pinyin": "tā zài mén biān kàn jiàn le yī zhī māo 。",
       "source": "buivolas_guided_N02_002",
-      "minimum_level": 8
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00221",
@@ -3571,7 +3571,7 @@
       ],
       "pinyin": "yī zhī niǎo zuò zài wéi lán shàng 。",
       "source": "buivolas_guided_N02_003",
-      "minimum_level": 15
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00223",
@@ -3599,7 +3599,7 @@
       ],
       "pinyin": "wǒ men jīn tiān kàn jiàn le hěn duō niǎo 。",
       "source": "buivolas_guided_N02_003",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00225",
@@ -3623,7 +3623,7 @@
       ],
       "pinyin": "tā měi tiān zǎo chén qí mǎ 。",
       "source": "buivolas_guided_N02_004",
-      "minimum_level": 21
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00227",
@@ -3651,7 +3651,7 @@
       ],
       "pinyin": "wǒ men jīn tiān kàn dào le yì pǐ yě shēng de mǎ 。",
       "source": "buivolas_guided_N02_004",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00228",
@@ -3675,7 +3675,7 @@
       ],
       "pinyin": "tā xiǎng yào mǎi yì pǐ mǎ 。",
       "source": "buivolas_guided_N02_004",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00229",
@@ -3699,7 +3699,7 @@
       ],
       "pinyin": "mǔ niú hē shuǐ 。",
       "source": "buivolas_guided_N02_005",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00230",
@@ -3723,7 +3723,7 @@
       ],
       "pinyin": "tā kàn jiàn yī tóu mǔ niú zài tián yě lǐ 。",
       "source": "buivolas_guided_N02_005",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00231",
@@ -3747,7 +3747,7 @@
       ],
       "pinyin": "wǒ men cóng mǔ niú nà ér mǎi le niú nǎi 。",
       "source": "buivolas_guided_N02_005",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00232",
@@ -3771,7 +3771,7 @@
       ],
       "pinyin": "nóng fū xiàn zài jiào tā de mǔ niú 。",
       "source": "buivolas_guided_N02_005",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00239",
@@ -3795,7 +3795,7 @@
       ],
       "pinyin": "wǒ men zài nóng chǎng fù jìn kàn jiàn le jī 。",
       "source": "buivolas_guided_N02_007",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00240",
@@ -3823,7 +3823,7 @@
       ],
       "pinyin": "tā zài shì chǎng mǎi xīn xiān de jī 。",
       "source": "buivolas_guided_N02_007",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00241",
@@ -3847,7 +3847,7 @@
       ],
       "pinyin": "yī zhī lǎo shǔ pǎo guò le chú fáng 。",
       "source": "buivolas_guided_N02_008",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00242",
@@ -3875,7 +3875,7 @@
       ],
       "pinyin": "wǒ de péng yǒu zài tā de bāo lǐ zhǎo dào le yī zhī lǎo shǔ 。",
       "source": "buivolas_guided_N02_008",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00243",
@@ -3919,7 +3919,7 @@
       ],
       "pinyin": "tā qīng qīng dì bǎ lǎo shǔ yí kāi le 。",
       "source": "buivolas_guided_N02_008",
-      "minimum_level": 21
+      "minimum_level": 19
     },
     {
       "sentence_id": "S_00246",
@@ -3943,7 +3943,7 @@
       ],
       "pinyin": "tā zài yè wǎn tīng jiàn le yī zhī xióng 。",
       "source": "buivolas_guided_N02_009",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00247",
@@ -3971,7 +3971,7 @@
       ],
       "pinyin": "hái zi xiǎng yào kàn xióng 。",
       "source": "buivolas_guided_N02_009",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00250",
@@ -3995,7 +3995,7 @@
       ],
       "pinyin": "tā zuó wǎn kàn jiàn le yī zhī láng 。",
       "source": "buivolas_guided_N02_010",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00252",
@@ -4023,7 +4023,7 @@
       ],
       "pinyin": "nóng fū yǒu láng de wèn tí 。",
       "source": "buivolas_guided_N02_010",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00253",
@@ -4043,7 +4043,7 @@
       ],
       "pinyin": "wǒ měi tiān wǎn shàng hěn zǎo shuì jiào 。",
       "source": "buivolas_guided_V01_003",
-      "minimum_level": 21
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00254",
@@ -4063,7 +4063,7 @@
       ],
       "pinyin": "tā zài shā fā shàng shuì zháo le 。",
       "source": "buivolas_guided_V01_003",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00255",
@@ -4083,7 +4083,7 @@
       ],
       "pinyin": "wǒ de yīng ér bù xiǎng shuì jiào 。",
       "source": "buivolas_guided_V01_003",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00256",
@@ -4103,7 +4103,7 @@
       ],
       "pinyin": "tā men zài màn cháng de yī tiān hòu shuì jiào 。",
       "source": "buivolas_guided_V01_003",
-      "minimum_level": 21
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00257",
@@ -4127,7 +4127,7 @@
       ],
       "pinyin": "wǒ kàn jiàn yī zhī gǒu zài wài miàn 。",
       "source": "buivolas_guided_V10_001",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00258",
@@ -4151,7 +4151,7 @@
       ],
       "pinyin": "tā kàn jiàn nà jiàn hóng sè de chèn shān 。",
       "source": "buivolas_guided_V10_001",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00259",
@@ -4175,7 +4175,7 @@
       ],
       "pinyin": "wǒ men zuó tiān kàn jiàn le lǎo shī 。",
       "source": "buivolas_guided_V10_001",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00260",
@@ -4195,7 +4195,7 @@
       ],
       "pinyin": "nǐ néng kàn jiàn fēi jī ma ？",
       "source": "buivolas_guided_V10_001",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00261",
@@ -4219,7 +4219,7 @@
       ],
       "pinyin": "tā jīn tiān chuān zhe yī jiàn hēi sè de chèn shān 。",
       "source": "buivolas_guided_A02_001",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00262",
@@ -4243,7 +4243,7 @@
       ],
       "pinyin": "hēi sè de gǒu zuò zài wǒ páng biān 。",
       "source": "buivolas_guided_A02_001",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00263",
@@ -4267,7 +4267,7 @@
       ],
       "pinyin": "tā mǎi le yī liàng hēi sè de zì xíng chē 。",
       "source": "buivolas_guided_A02_001",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00264",
@@ -4295,7 +4295,7 @@
       ],
       "pinyin": "wǒ zài zhǐ shàng kàn dào yí gè hēi sè de yuán xíng 。",
       "source": "buivolas_guided_A02_001",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00265",
@@ -4319,7 +4319,7 @@
       ],
       "pinyin": "tā jīn tiān chuān bái sè de chèn shān 。",
       "source": "buivolas_guided_A02_002",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00268",
@@ -4343,7 +4343,7 @@
       ],
       "pinyin": "tā mǎi le yī liàng bái sè de zì xíng chē 。",
       "source": "buivolas_guided_A02_002",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00269",
@@ -4371,7 +4371,7 @@
       ],
       "pinyin": "tā jīn tiān chuān zhe yī jiàn hóng sè de chèn shān 。",
       "source": "buivolas_guided_A02_003",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00270",
@@ -4395,7 +4395,7 @@
       ],
       "pinyin": "wǒ mǎi le yí gè hóng sè de píng guǒ 。",
       "source": "buivolas_guided_A02_003",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00271",
@@ -4419,7 +4419,7 @@
       ],
       "pinyin": "qì chē shì hóng sè de ， qiě hěn kuài 。",
       "source": "buivolas_guided_A02_003",
-      "minimum_level": 21
+      "minimum_level": 14
     },
     {
       "sentence_id": "S_00273",
@@ -4447,7 +4447,7 @@
       ],
       "pinyin": "tā de lán sè chèn shān kàn qǐ lái hěn hǎo 。",
       "source": "buivolas_guided_A02_004",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_00274",
@@ -4471,7 +4471,7 @@
       ],
       "pinyin": "tiān kōng hěn qīng chè qiě lán sè 。",
       "source": "buivolas_guided_A02_004",
-      "minimum_level": 21
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00276",
@@ -4495,7 +4495,7 @@
       ],
       "pinyin": "wǒ kàn jiàn yī liàng lán sè de qì chē 。",
       "source": "buivolas_guided_A02_004",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00277",
@@ -4523,7 +4523,7 @@
       ],
       "pinyin": "tā jīn tiān chuān zhe yī jiàn lǜ sè de chèn shān 。",
       "source": "buivolas_guided_A02_005",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00279",
@@ -4551,7 +4551,7 @@
       ],
       "pinyin": "wǒ zuó tiān kàn jiàn le yī zuò lǜ sè de fáng zi 。",
       "source": "buivolas_guided_A02_005",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00280",
@@ -4575,7 +4575,7 @@
       ],
       "pinyin": "tā men xiǎng yào lǜ sè de píng guǒ 。",
       "source": "buivolas_guided_A02_005",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00281",
@@ -4603,7 +4603,7 @@
       ],
       "pinyin": "tā jīn tiān chuān zhe huáng sè chèn shān 。",
       "source": "buivolas_guided_A02_006",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00282",
@@ -4631,7 +4631,7 @@
       ],
       "pinyin": "huáng sè de gōng jiāo chē zài zhè lǐ tíng 。",
       "source": "buivolas_guided_A02_006",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00283",
@@ -4659,7 +4659,7 @@
       ],
       "pinyin": "wǒ zài wài miàn kàn jiàn le yī zhī huáng sè de niǎo 。",
       "source": "buivolas_guided_A02_006",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00285",
@@ -4687,7 +4687,7 @@
       ],
       "pinyin": "tā jīn tiān chuān yī jiàn zōng sè de chèn shān 。",
       "source": "buivolas_guided_A02_007",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00287",
@@ -4715,7 +4715,7 @@
       ],
       "pinyin": "wǒ zuó tiān mǎi le zōng sè de miàn bāo 。",
       "source": "buivolas_guided_A02_007",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00288",
@@ -4739,7 +4739,7 @@
       ],
       "pinyin": "tā men kàn jiàn le yī zhī zōng sè de niǎo 。",
       "source": "buivolas_guided_A02_007",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00290",
@@ -4767,7 +4767,7 @@
       ],
       "pinyin": "wǒ jīn tiān chuān huī sè de chèn shān 。",
       "source": "buivolas_guided_A02_008",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00291",
@@ -4791,7 +4791,7 @@
       ],
       "pinyin": "tā mǎi le yī jiàn huī sè de wài tào 。",
       "source": "buivolas_guided_A02_008",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00294",
@@ -4811,7 +4811,7 @@
       ],
       "pinyin": "hěn gāo xìng jiàn dào nǐ 。",
       "source": "buivolas_guided_A19_001",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00295",
@@ -4831,7 +4831,7 @@
       ],
       "pinyin": "tā men wǎn fàn hòu hěn kuài lè 。",
       "source": "buivolas_guided_A19_001",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_00296",
@@ -4855,7 +4855,7 @@
       ],
       "pinyin": "wǒ de péng yǒu jīn tiān hěn kuài lè 。",
       "source": "buivolas_guided_A19_001",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00297",
@@ -4875,7 +4875,7 @@
       ],
       "pinyin": "tā fàng xué hòu hěn nán guò 。",
       "source": "buivolas_guided_A19_002",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00298",
@@ -4903,7 +4903,7 @@
       ],
       "pinyin": "gǒu jīn tiān kàn qǐ lái hěn nán guò 。",
       "source": "buivolas_guided_A19_002",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00299",
@@ -4923,7 +4923,7 @@
       ],
       "pinyin": "wǒ tīng dào zhè gè xiāo xī shí hěn nán guò 。",
       "source": "buivolas_guided_A19_002",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00300",
@@ -4943,7 +4943,7 @@
       ],
       "pinyin": "tā men wèi bǐ sài gǎn dào nán guò 。",
       "source": "buivolas_guided_A19_002",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00301",
@@ -4967,7 +4967,7 @@
       ],
       "pinyin": "tā kāi wán huì hòu kàn qǐ lái hěn shēng qì 。",
       "source": "buivolas_guided_A19_003",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00303",
@@ -4991,7 +4991,7 @@
       ],
       "pinyin": "lǎo shī zuó tiān hěn shēng qì 。",
       "source": "buivolas_guided_A19_003",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00304",
@@ -5015,7 +5015,7 @@
       ],
       "pinyin": "tā men sì hū duì zào yīn hěn shēng qì 。",
       "source": "buivolas_guided_A19_003",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00306",
@@ -5039,7 +5039,7 @@
       ],
       "pinyin": "tā zài bǐ sài qián kàn qǐ lái hěn xīng fèn 。",
       "source": "buivolas_guided_A19_004",
-      "minimum_level": 21
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00307",
@@ -5063,7 +5063,7 @@
       ],
       "pinyin": "tā men hěn xīng fèn jiàn dào nà zhǐ gǒu 。",
       "source": "buivolas_guided_A19_004",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00308",
@@ -5087,7 +5087,7 @@
       ],
       "pinyin": "wǒ de péng yǒu hěn xīng fèn yào wán 。",
       "source": "buivolas_guided_A19_004",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00310",
@@ -5107,7 +5107,7 @@
       ],
       "pinyin": "tā jīn tiān zǎo chén kàn qǐ lái hěn lèi 。",
       "source": "buivolas_guided_A19_005",
-      "minimum_level": 21
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00311",
@@ -5127,7 +5127,7 @@
       ],
       "pinyin": "tā men zǒu lù zǒu lèi le 。",
       "source": "buivolas_guided_A19_005",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00312",
@@ -5151,7 +5151,7 @@
       ],
       "pinyin": "wǒ de péng yǒu jīn tiān lèi 。",
       "source": "buivolas_guided_A19_005",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00313",
@@ -5175,7 +5175,7 @@
       ],
       "pinyin": "tā kàn qǐ lái hài pà léi 。",
       "source": "buivolas_guided_A19_006",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00314",
@@ -5199,7 +5199,7 @@
       ],
       "pinyin": "wǒ zuó wǎn gǎn dào hài pà 。",
       "source": "buivolas_guided_A19_006",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00315",
@@ -5223,7 +5223,7 @@
       ],
       "pinyin": "hái zi hài pà gǒu 。",
       "source": "buivolas_guided_A19_006",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00316",
@@ -5243,7 +5243,7 @@
       ],
       "pinyin": "kàn diàn yǐng de shí hòu wǒ men hěn hài pà 。",
       "source": "buivolas_guided_A19_006",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00318",
@@ -5263,7 +5263,7 @@
       ],
       "pinyin": "tā duì zào yīn gǎn dào jīng yà 。",
       "source": "buivolas_guided_A19_007",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00320",
@@ -5287,7 +5287,7 @@
       ],
       "pinyin": "wǒ de péng yǒu duì xīn wén gǎn dào jīng yà 。",
       "source": "buivolas_guided_A19_007",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00321",
@@ -5311,7 +5311,7 @@
       ],
       "pinyin": "tā kàn qǐ lái hěn dān xīn kǎo shì 。",
       "source": "buivolas_guided_A19_008",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00322",
@@ -5331,7 +5331,7 @@
       ],
       "pinyin": "wǒ hěn dān xīn wǒ de péng yǒu 。",
       "source": "buivolas_guided_A19_008",
-      "minimum_level": 21
+      "minimum_level": 7
     },
     {
       "sentence_id": "S_00324",
@@ -5379,7 +5379,7 @@
       ],
       "pinyin": "tā zài huì yì qī jiān bǎo chí píng jìng 。",
       "source": "buivolas_guided_A19_009",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00326",
@@ -5403,7 +5403,7 @@
       ],
       "pinyin": "lǎo shī jīn tiān hěn píng jìng 。",
       "source": "buivolas_guided_A19_009",
-      "minimum_level": 21
+      "minimum_level": 7
     },
     {
       "sentence_id": "S_00328",
@@ -5427,7 +5427,7 @@
       ],
       "pinyin": "tā men ràng yīng ér bǎo chí píng jìng 。",
       "source": "buivolas_guided_A19_009",
-      "minimum_level": 21
+      "minimum_level": 7
     },
     {
       "sentence_id": "S_00330",
@@ -5447,7 +5447,7 @@
       ],
       "pinyin": "wǒ zài huì yì shàng hěn jǐn zhāng 。",
       "source": "buivolas_guided_A19_010",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00331",
@@ -5467,7 +5467,7 @@
       ],
       "pinyin": "tā men zài kǎo shì qián jǐn zhāng 。",
       "source": "buivolas_guided_A19_010",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00332",
@@ -5495,7 +5495,7 @@
       ],
       "pinyin": "wǒ de péng yǒu jīn tiān kàn qǐ lái hěn jǐn zhāng 。",
       "source": "buivolas_guided_A19_010",
-      "minimum_level": 21
+      "minimum_level": 7
     },
     {
       "sentence_id": "S_00335",
@@ -5519,7 +5519,7 @@
       ],
       "pinyin": "hái zi duì wǎn cān gǎn dào kùn huò 。",
       "source": "buivolas_guided_A19_011",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00337",
@@ -5543,7 +5543,7 @@
       ],
       "pinyin": "tā bǎ kā fēi sǎ le ， gǎn dào hěn gān gà 。",
       "source": "buivolas_guided_A19_012",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00339",
@@ -5567,7 +5567,7 @@
       ],
       "pinyin": "tā men zài jù huì shàng xiǎn de hěn gān gà 。",
       "source": "buivolas_guided_A19_012",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00340",
@@ -5591,7 +5591,7 @@
       ],
       "pinyin": "tā xiào de shí hòu kàn qǐ lái hěn gān gà 。",
       "source": "buivolas_guided_A19_012",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00342",
@@ -5615,7 +5615,7 @@
       ],
       "pinyin": "tā bǐ sài jié shù hòu xiǎn de hěn zì háo 。",
       "source": "buivolas_guided_A19_013",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00344",
@@ -5639,7 +5639,7 @@
       ],
       "pinyin": "dāng tā bāng zhù bié rén shí ， tā gǎn dào zì háo 。",
       "source": "buivolas_guided_A19_013",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00345",
@@ -5663,7 +5663,7 @@
       ],
       "pinyin": "tā duì tā de péng yǒu gǎn dào jí dù 。",
       "source": "buivolas_guided_A19_014",
-      "minimum_level": 21
+      "minimum_level": 7
     },
     {
       "sentence_id": "S_00349",
@@ -5687,7 +5687,7 @@
       ],
       "pinyin": "tā zài jiā gǎn dào gū dān 。",
       "source": "buivolas_guided_A19_015",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00352",
@@ -5711,7 +5711,7 @@
       ],
       "pinyin": "tā men sì hū zài gōng yuán lǐ hěn gū dān 。",
       "source": "buivolas_guided_A19_015",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00356",
@@ -5735,7 +5735,7 @@
       ],
       "pinyin": "nǐ dǎ diàn huà hòu ， tā sì hū hěn gǎn jī 。",
       "source": "buivolas_guided_A19_016",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00358",
@@ -5755,7 +5755,7 @@
       ],
       "pinyin": "tā cháng shì hòu gǎn dào jǔ sàng 。",
       "source": "buivolas_guided_A19_017",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00359",
@@ -5799,7 +5799,7 @@
       ],
       "pinyin": "wǒ de péng yǒu bèi suǒ nòng dé hěn jǔ sàng 。",
       "source": "buivolas_guided_A19_017",
-      "minimum_level": 21
+      "minimum_level": 7
     },
     {
       "sentence_id": "S_00363",
@@ -5819,7 +5819,7 @@
       ],
       "pinyin": "tā men duì hǎo xiāo xī chōng mǎn xī wàng 。",
       "source": "buivolas_guided_A19_018",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00364",
@@ -5843,7 +5843,7 @@
       ],
       "pinyin": "wǒ de péng yǒu měi tiān zǎo chén dōu chōng mǎn xī wàng 。",
       "source": "buivolas_guided_A19_018",
-      "minimum_level": 21
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00366",
@@ -5867,7 +5867,7 @@
       ],
       "pinyin": "tā zài bǐ sài hòu xiǎn de hěn shī wàng 。",
       "source": "buivolas_guided_A19_019",
-      "minimum_level": 21
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00367",
@@ -5887,7 +5887,7 @@
       ],
       "pinyin": "tā men duì diàn yǐng gǎn dào shī wàng 。",
       "source": "buivolas_guided_A19_019",
-      "minimum_level": 21
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00368",
@@ -5911,7 +5911,7 @@
       ],
       "pinyin": "wǒ de péng yǒu zuó tiān gǎn dào shī wàng 。",
       "source": "buivolas_guided_A19_019",
-      "minimum_level": 21
+      "minimum_level": 7
     },
     {
       "sentence_id": "S_00369",
@@ -5931,7 +5931,7 @@
       ],
       "pinyin": "tā duì nà zhǐ gǒu hěn hào qí 。",
       "source": "buivolas_guided_A19_020",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00370",
@@ -5955,7 +5955,7 @@
       ],
       "pinyin": "hái zi hěn \u0000 hào qí bìng qiě wèn le 。",
       "source": "buivolas_guided_A19_020",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00371",
@@ -5975,7 +5975,7 @@
       ],
       "pinyin": "wǒ dú shū shí gǎn dào hào qí 。",
       "source": "buivolas_guided_A19_020",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00373",
@@ -5999,7 +5999,7 @@
       ],
       "pinyin": "wǒ jīn tiān zài xué xiào hěn wú liáo 。",
       "source": "buivolas_guided_A19_021",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00375",
@@ -6023,7 +6023,7 @@
       ],
       "pinyin": "wǒ men zài wài miàn děng dé hěn wú liáo 。",
       "source": "buivolas_guided_A19_021",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00376",
@@ -6047,7 +6047,7 @@
       ],
       "pinyin": "hái zi zài jiā jué de wú liáo 。",
       "source": "buivolas_guided_A19_021",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00378",
@@ -6075,7 +6075,7 @@
       ],
       "pinyin": "wǒ de péng yǒu lù chū le kāi lǎng de wēi xiào 。",
       "source": "buivolas_guided_A19_022",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00383",
@@ -6095,7 +6095,7 @@
       ],
       "pinyin": "tā men hěn jiāo lǜ xiǎng tīng xīn wén 。",
       "source": "buivolas_guided_A19_024",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00384",
@@ -6115,7 +6115,7 @@
       ],
       "pinyin": "wǒ de péng yǒu wǎn shàng hěn jiāo lǜ 。",
       "source": "buivolas_guided_A19_024",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00386",
@@ -6139,7 +6139,7 @@
       ],
       "pinyin": "tā men zài jù huì shàng gǎn dào kuài lè 。",
       "source": "buivolas_guided_A19_025",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00387",
@@ -6163,7 +6163,7 @@
       ],
       "pinyin": "wǒ de péng yǒu jīn tiān hěn kuài lè 。",
       "source": "buivolas_guided_A19_025",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00389",
@@ -6207,7 +6207,7 @@
       ],
       "pinyin": "hái zi bì le yī zhī yǎn jīng 。",
       "source": "buivolas_guided_N03_003",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00391",
@@ -6231,7 +6231,7 @@
       ],
       "pinyin": "tā jīn tiān yǒu hóng sè de yǎn jīng 。",
       "source": "buivolas_guided_N03_003",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00393",
@@ -6255,7 +6255,7 @@
       ],
       "pinyin": "tā mō le mō zì jǐ de bí zi bìng xiào le 。",
       "source": "buivolas_guided_N03_004",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00394",
@@ -6283,7 +6283,7 @@
       ],
       "pinyin": "hái zi yǒu yí gè hóng sè de bí zi 。",
       "source": "buivolas_guided_N03_004",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00395",
@@ -6307,7 +6307,7 @@
       ],
       "pinyin": "wǒ de gǒu yòng tā de bí zi wén 。",
       "source": "buivolas_guided_N03_004",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00397",
@@ -6331,7 +6331,7 @@
       ],
       "pinyin": "tā zhāng kāi le zuǐ bā zhǔn bèi shuō huà 。",
       "source": "buivolas_guided_N03_005",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00398",
@@ -6359,7 +6359,7 @@
       ],
       "pinyin": "hái zi bǎ shí wù fàng jìn zuǐ bā lǐ 。",
       "source": "buivolas_guided_N03_005",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00399",
@@ -6383,7 +6383,7 @@
       ],
       "pinyin": "tā wǔ zhù le zuǐ bā ， wēi xiào le 。",
       "source": "buivolas_guided_N03_005",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00402",
@@ -6411,7 +6411,7 @@
       ],
       "pinyin": "hái zi yǒu yī zhī xiǎo de ěr duǒ 。",
       "source": "buivolas_guided_N03_006",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00406",
@@ -6439,7 +6439,7 @@
       ],
       "pinyin": "tā yòng yī zhī shǒu bì bào zhe yīng ér 。",
       "source": "buivolas_guided_N03_011",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00408",
@@ -6463,7 +6463,7 @@
       ],
       "pinyin": "tā men bǎ wài tào dā zài tā de shǒu bì shàng 。",
       "source": "buivolas_guided_N03_011",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00411",
@@ -6483,7 +6483,7 @@
       ],
       "pinyin": "tā men jiàn miàn hòu wò shǒu 。",
       "source": "buivolas_guided_N03_014",
-      "minimum_level": 21
+      "minimum_level": 20
     },
     {
       "sentence_id": "S_00414",
@@ -6503,7 +6503,7 @@
       ],
       "pinyin": "tā yòng shǒu zhǐ zhǐ zhe 。",
       "source": "buivolas_guided_N03_015",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00415",
@@ -6531,7 +6531,7 @@
       ],
       "pinyin": "wǒ de péng yǒu zuó tiān shāng dào shǒu zhǐ 。",
       "source": "buivolas_guided_N03_015",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00417",
@@ -6551,7 +6551,7 @@
       ],
       "pinyin": "tā zuó tiān shāng le dà mǔ zhǐ 。",
       "source": "buivolas_guided_N03_016",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00421",
@@ -6575,7 +6575,7 @@
       ],
       "pinyin": "tā zuó tiān bǎ tuǐ shāo shāng le 。",
       "source": "buivolas_guided_N03_020",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00422",
@@ -6603,7 +6603,7 @@
       ],
       "pinyin": "wǒ de yǐ zi yǒu yī tiáo duǎn de tuǐ 。",
       "source": "buivolas_guided_N03_020",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_00423",
@@ -6627,7 +6627,7 @@
       ],
       "pinyin": "gǒu nòng shāng le tā de tuǐ 。",
       "source": "buivolas_guided_N03_020",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00425",
@@ -6651,7 +6651,7 @@
       ],
       "pinyin": "tā bǎ pán zi diào zài le xī gài shàng 。",
       "source": "buivolas_guided_N03_022",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00427",
@@ -6675,7 +6675,7 @@
       ],
       "pinyin": "wǒ bǎ bīng fàng zài wǒ de xī gài shàng 。",
       "source": "buivolas_guided_N03_022",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00428",
@@ -6699,7 +6699,7 @@
       ],
       "pinyin": "tā men kàn jiàn yī zhī gǒu zài tiǎn tā de xī gài 。",
       "source": "buivolas_guided_N03_022",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00429",
@@ -6723,7 +6723,7 @@
       ],
       "pinyin": "wǒ zǒu lù hòu jiǎo téng 。",
       "source": "buivolas_guided_N03_024",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00430",
@@ -6747,7 +6747,7 @@
       ],
       "pinyin": "tā bǎ jiǎo fàng zài yǐ zi shàng 。",
       "source": "buivolas_guided_N03_024",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00432",
@@ -6771,7 +6771,7 @@
       ],
       "pinyin": "tā yǒu xiǎo jiǎo 。",
       "source": "buivolas_guided_N03_024",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00435",
@@ -6799,7 +6799,7 @@
       ],
       "pinyin": "wǒ de péng yǒu bǎ tóu fā jiǎn duǎn le 。",
       "source": "buivolas_guided_N03_027",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_00436",
@@ -6823,7 +6823,7 @@
       ],
       "pinyin": "tā men zài chèn shān shàng fā xiàn le tóu fà 。",
       "source": "buivolas_guided_N03_027",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00437",
@@ -6847,7 +6847,7 @@
       ],
       "pinyin": "gǒu zài wán yí gè gú tou 。",
       "source": "buivolas_guided_N03_028",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00438",
@@ -6867,7 +6867,7 @@
       ],
       "pinyin": "tā zài wài miàn zhǎo dào le yí gè gú tou 。",
       "source": "buivolas_guided_N03_028",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00440",
@@ -6907,7 +6907,7 @@
       ],
       "pinyin": "tā gǎn jué dào shǒu bì lǐ de yí gè jī ròu 。",
       "source": "buivolas_guided_N03_029",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00446",
@@ -6931,7 +6931,7 @@
       ],
       "pinyin": "yī shēng tīng tā de xīn zàng 。",
       "source": "buivolas_guided_N03_030",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00447",
@@ -6955,7 +6955,7 @@
       ],
       "pinyin": "tā de xīn zàng tíng le yī huì er 。",
       "source": "buivolas_guided_N03_030",
-      "minimum_level": 21
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00449",
@@ -6975,7 +6975,7 @@
       ],
       "pinyin": "tā jīn tiān huì hěn kuài lè 。",
       "source": "buivolas_guided_V06_001",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00450",
@@ -6991,7 +6991,7 @@
       ],
       "pinyin": "tā men zài xué xiào 。",
       "source": "buivolas_guided_V06_001",
-      "minimum_level": 21
+      "minimum_level": 1
     },
     {
       "sentence_id": "S_00452",
@@ -7015,7 +7015,7 @@
       ],
       "pinyin": "miàn bāo shì wēn nuǎn de hé xīn xiān de 。",
       "source": "buivolas_guided_V06_001",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00453",
@@ -7039,7 +7039,7 @@
       ],
       "pinyin": "wǒ chuān zhe wǒ de lán sè chèn shān 。",
       "source": "buivolas_guided_V01_031",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00454",
@@ -7067,7 +7067,7 @@
       ],
       "pinyin": "tā jīn tiān chuān zhe yī jiàn hēi sè de wài tào 。",
       "source": "buivolas_guided_V01_031",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00455",
@@ -7091,7 +7091,7 @@
       ],
       "pinyin": "tā men zài gōng yuán dài zhe mào zi 。",
       "source": "buivolas_guided_V01_031",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00457",
@@ -7111,7 +7111,7 @@
       ],
       "pinyin": "qǐng zuò zài yǐ zi shàng 。",
       "source": "buivolas_guided_V01_032",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00459",
@@ -7131,7 +7131,7 @@
       ],
       "pinyin": "tā zuò zài tā de péng yǒu páng biān 。",
       "source": "buivolas_guided_V01_032",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00461",
@@ -7147,7 +7147,7 @@
       ],
       "pinyin": "qǐng zài mén biān děng hòu 。",
       "source": "buivolas_guided_V01_033",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00462",
@@ -7163,7 +7163,7 @@
       ],
       "pinyin": "tā zhàn zài tā de péng yǒu páng biān 。",
       "source": "buivolas_guided_V01_033",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00465",
@@ -7187,7 +7187,7 @@
       ],
       "pinyin": "wǒ tīng jiàn wài miàn de gǒu 。",
       "source": "buivolas_guided_V10_002",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00467",
@@ -7211,7 +7211,7 @@
       ],
       "pinyin": "wǒ men tīng jiàn lǎo shī shuō nǐ hǎo 。",
       "source": "buivolas_guided_V10_002",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00468",
@@ -7255,7 +7255,7 @@
       ],
       "pinyin": "tā zài zhǐ shàng huà yí gè yuán xíng 。",
       "source": "buivolas_guided_N37_001",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_00470",
@@ -7279,7 +7279,7 @@
       ],
       "pinyin": "wǒ men zuò chéng yí gè xiǎo quān 。",
       "source": "buivolas_guided_N37_001",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00473",
@@ -7303,7 +7303,7 @@
       ],
       "pinyin": "tā huà yí gè xiǎo de zhèng fāng xíng 。",
       "source": "buivolas_guided_N37_002",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00474",
@@ -7327,7 +7327,7 @@
       ],
       "pinyin": "tā men zài zhǐ shàng kàn jiàn yí gè zhèng fāng xíng 。",
       "source": "buivolas_guided_N37_002",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00477",
@@ -7351,7 +7351,7 @@
       ],
       "pinyin": "tā zài zhǐ shàng huà sān jiǎo xíng 。",
       "source": "buivolas_guided_N37_003",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_00479",
@@ -7379,7 +7379,7 @@
       ],
       "pinyin": "wǒ de péng yǒu zhǎo dào le yí gè xiǎo de sān jiǎo xíng 。",
       "source": "buivolas_guided_N37_003",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00481",
@@ -7403,7 +7403,7 @@
       ],
       "pinyin": "tā zài zhǐ shàng huà cháng fāng xíng 。",
       "source": "buivolas_guided_N37_004",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_00483",
@@ -7427,7 +7427,7 @@
       ],
       "pinyin": "tā bǎ cháng fāng xíng cóng yìng zhǐ bǎn shàng jiǎn xià lái 。",
       "source": "buivolas_guided_N37_004",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00484",
@@ -7451,7 +7451,7 @@
       ],
       "pinyin": "nǐ kàn jiàn xiǎo cháng fāng xíng ma ？",
       "source": "buivolas_guided_N37_004",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00487",
@@ -7479,7 +7479,7 @@
       ],
       "pinyin": "tā zài hú biān zhǎo dào le yī kuài tuǒ yuán xíng de shí tou 。",
       "source": "buivolas_guided_N37_005",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00488",
@@ -7507,7 +7507,7 @@
       ],
       "pinyin": "wǒ men zuó tiān mǎi le yí gè tuǒ yuán xíng de zhuō zi 。",
       "source": "buivolas_guided_N37_005",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00489",
@@ -7531,7 +7531,7 @@
       ],
       "pinyin": "tā ná zhù yí gè xiǎo de lì fāng tǐ 。",
       "source": "buivolas_guided_N37_006",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00499",
@@ -7555,7 +7555,7 @@
       ],
       "pinyin": "wǒ men zài hé zi lǐ zhǎo dào yí gè yuán zhù tǐ 。",
       "source": "buivolas_guided_N37_008",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00501",
@@ -7575,7 +7575,7 @@
       ],
       "pinyin": "tā zài hǎi tān shàng ná zhe yí gè yuán zhuī tǐ 。",
       "source": "buivolas_guided_N37_009",
-      "minimum_level": 21
+      "minimum_level": 18
     },
     {
       "sentence_id": "S_00503",
@@ -7599,7 +7599,7 @@
       ],
       "pinyin": "tā kàn jiàn zhuō zi shàng de yuán zhuī tǐ 。",
       "source": "buivolas_guided_N37_009",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00504",
@@ -7627,7 +7627,7 @@
       ],
       "pinyin": "wǒ men zuó tiān mǎi le sān gè yuán zhuī tǐ 。",
       "source": "buivolas_guided_N37_009",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00506",
@@ -7651,7 +7651,7 @@
       ],
       "pinyin": "tā zuó tiān pá le xiǎo de jīn zì tǎ 。",
       "source": "buivolas_guided_N37_010",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00509",
@@ -7675,7 +7675,7 @@
       ],
       "pinyin": "hái zi huà yí gè liù biān xíng 。",
       "source": "buivolas_guided_N37_011",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00513",
@@ -7699,7 +7699,7 @@
       ],
       "pinyin": "wǒ huà le yí gè xiǎo de wǔ biān xíng 。",
       "source": "buivolas_guided_N37_012",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00514",
@@ -7719,7 +7719,7 @@
       ],
       "pinyin": "tā zhǐ xiàng wǔ biān xíng 。",
       "source": "buivolas_guided_N37_012",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00516",
@@ -7743,7 +7743,7 @@
       ],
       "pinyin": "tā men cóng zhǐ shàng jiǎn xià le yí gè wǔ biān xíng 。",
       "source": "buivolas_guided_N37_012",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_00517",
@@ -7771,7 +7771,7 @@
       ],
       "pinyin": "wǒ de péng yǒu jīn tiān huà le yí gè bā biān xíng 。",
       "source": "buivolas_guided_N37_013",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00518",
@@ -7795,7 +7795,7 @@
       ],
       "pinyin": "tā zài zhǐ shàng kàn jiàn yí gè bā biān xíng 。",
       "source": "buivolas_guided_N37_013",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00520",
@@ -7815,7 +7815,7 @@
       ],
       "pinyin": "nǐ xǐ huān zhè gè bā biān xíng ma ？",
       "source": "buivolas_guided_N37_013",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00521",
@@ -7835,7 +7835,7 @@
       ],
       "pinyin": "wǒ měi tiān zǒu lù qù xué xiào 。",
       "source": "buivolas_guided_V12_001",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00522",
@@ -7859,7 +7859,7 @@
       ],
       "pinyin": "tā jīn tiān hé tā de gǒu yì qǐ zǒu lù 。",
       "source": "buivolas_guided_V12_001",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00523",
@@ -7883,7 +7883,7 @@
       ],
       "pinyin": "wǒ men wǔ fàn hòu màn màn zǒu 。",
       "source": "buivolas_guided_V12_001",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_00524",
@@ -7903,7 +7903,7 @@
       ],
       "pinyin": "tā men zǒu dào shì chǎng 。",
       "source": "buivolas_guided_V12_001",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00525",
@@ -7927,7 +7927,7 @@
       ],
       "pinyin": "wǒ pǎo qù gǎn gōng jiāo chē 。",
       "source": "buivolas_guided_V12_003",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00528",
@@ -7951,7 +7951,7 @@
       ],
       "pinyin": "wǒ de péng yǒu zài gōng yuán pǎo bù 。",
       "source": "buivolas_guided_V12_003",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00529",
@@ -7975,7 +7975,7 @@
       ],
       "pinyin": "tā duì lǎo shī shuō nǐ hǎo 。",
       "source": "buivolas_guided_V09_006",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00531",
@@ -7999,7 +7999,7 @@
       ],
       "pinyin": "wǒ shuō ：“ děng dài bìng tīng 。”。",
       "source": "buivolas_guided_V09_006",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00533",
@@ -8023,7 +8023,7 @@
       ],
       "pinyin": "wǒ de lǎo shī bāng zhù wǒ xué xí 。",
       "source": "buivolas_guided_N36_014",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00534",
@@ -8047,7 +8047,7 @@
       ],
       "pinyin": "lǎo shī jīn tiān hěn kuài lè 。",
       "source": "buivolas_guided_N36_014",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00535",
@@ -8071,7 +8071,7 @@
       ],
       "pinyin": "tā zài xué xiào kàn jiàn le lǎo shī 。",
       "source": "buivolas_guided_N36_014",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00537",
@@ -8095,7 +8095,7 @@
       ],
       "pinyin": "wǒ de péng yǒu shì yī shēng 。",
       "source": "buivolas_guided_N36_015",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00538",
@@ -8119,7 +8119,7 @@
       ],
       "pinyin": "tā jīn tiān gěi yī shēng dǎ diàn huà 。",
       "source": "buivolas_guided_N36_015",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00539",
@@ -8143,7 +8143,7 @@
       ],
       "pinyin": "tā zuó tiān kàn jiàn le yī wèi yī shēng 。",
       "source": "buivolas_guided_N36_015",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00543",
@@ -8167,7 +8167,7 @@
       ],
       "pinyin": "wǒ de péng yǒu shì hù lǐ shī 。",
       "source": "buivolas_guided_N36_016",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00546",
@@ -8191,7 +8191,7 @@
       ],
       "pinyin": "tā zài xué xiào fù jìn kàn jiàn yī míng jǐng chá 。",
       "source": "buivolas_guided_N36_019",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00547",
@@ -8215,7 +8215,7 @@
       ],
       "pinyin": "tā men zuó wǎn gěi yī míng jǐng chá dǎ le diàn huà 。",
       "source": "buivolas_guided_N36_019",
-      "minimum_level": 21
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00548",
@@ -8239,7 +8239,7 @@
       ],
       "pinyin": "jǐng chá kàn qǐ lái hěn píng jìng 。",
       "source": "buivolas_guided_N36_019",
-      "minimum_level": 21
+      "minimum_level": 7
     },
     {
       "sentence_id": "S_00549",
@@ -8263,7 +8263,7 @@
       ],
       "pinyin": "xiāo fáng yuán jiù le māo 。",
       "source": "buivolas_guided_N36_020",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00551",
@@ -8287,7 +8287,7 @@
       ],
       "pinyin": "wǒ de péng yǒu kàn jiàn le liǎng míng xiāo fáng yuán 。",
       "source": "buivolas_guided_N36_020",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00552",
@@ -8311,7 +8311,7 @@
       ],
       "pinyin": "tā jīn tiān gǎn xiè le xiāo fáng yuán 。",
       "source": "buivolas_guided_N36_020",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00554",
@@ -8339,7 +8339,7 @@
       ],
       "pinyin": "wǒ de péng yǒu shì yī wèi xīn de zhǔ chú 。",
       "source": "buivolas_guided_N36_021",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00555",
@@ -8363,7 +8363,7 @@
       ],
       "pinyin": "tā zuó tiān kàn jiàn le zhǔ chú 。",
       "source": "buivolas_guided_N36_021",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00557",
@@ -8387,7 +8387,7 @@
       ],
       "pinyin": "nóng fū zài tián yě lǐ gōng zuò 。",
       "source": "buivolas_guided_N36_022",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00558",
@@ -8415,7 +8415,7 @@
       ],
       "pinyin": "wǒ de péng yǒu shì yí gè xiǎo nóng fū 。",
       "source": "buivolas_guided_N36_022",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00559",
@@ -8439,7 +8439,7 @@
       ],
       "pinyin": "tā kàn jiàn le nóng fū hé dòng wù 。",
       "source": "buivolas_guided_N36_022",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00562",
@@ -8467,7 +8467,7 @@
       ],
       "pinyin": "wǒ de péng yǒu shì gè hǎo sī jī 。",
       "source": "buivolas_guided_N36_024",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_00563",
@@ -8491,7 +8491,7 @@
       ],
       "pinyin": "tā men kàn jiàn sī jī lí kāi 。",
       "source": "buivolas_guided_N36_024",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00564",
@@ -8515,7 +8515,7 @@
       ],
       "pinyin": "sī jī bāng zhù le nà wèi nǚ rén 。",
       "source": "buivolas_guided_N36_024",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00565",
@@ -8539,7 +8539,7 @@
       ],
       "pinyin": "wǒ de péng yǒu shì yīn yuè jiā 。",
       "source": "buivolas_guided_N36_030",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00568",
@@ -8567,7 +8567,7 @@
       ],
       "pinyin": "wǒ men zài xué xiào tīng jiàn le liǎng wèi / liǎng gè yīn yuè jiā 。",
       "source": "buivolas_guided_N36_030",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00569",
@@ -8591,7 +8591,7 @@
       ],
       "pinyin": "wǒ de péng yǒu shì yì shù jiā 。",
       "source": "buivolas_guided_N36_031",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00571",
@@ -8611,7 +8611,7 @@
       ],
       "pinyin": "tā zuó tiān yù jiàn le yì shù jiā 。",
       "source": "buivolas_guided_N36_031",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00575",
@@ -8639,7 +8639,7 @@
       ],
       "pinyin": "wǒ de péng yǒu zuó tiān kàn jiàn le nà gè nán rén 。",
       "source": "buivolas_guided_N01_055",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00576",
@@ -8663,7 +8663,7 @@
       ],
       "pinyin": "nà gè nán rén zài xué xiào gōng zuò 。",
       "source": "buivolas_guided_N01_055",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00578",
@@ -8687,7 +8687,7 @@
       ],
       "pinyin": "yí gè nǚ rén zuò zài chuāng hù páng 。",
       "source": "buivolas_guided_N01_056",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00579",
@@ -8715,7 +8715,7 @@
       ],
       "pinyin": "wǒ de péng yǒu shì yí gè shàn liáng de nǚ rén 。",
       "source": "buivolas_guided_N01_056",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_00580",
@@ -8739,7 +8739,7 @@
       ],
       "pinyin": "tā men zài shì chǎng kàn jiàn le yí gè nǚ rén 。",
       "source": "buivolas_guided_N01_056",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00581",
@@ -8763,7 +8763,7 @@
       ],
       "pinyin": "nán hái zài hé yī zhī gǒu wán 。",
       "source": "buivolas_guided_N01_057",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00582",
@@ -8791,7 +8791,7 @@
       ],
       "pinyin": "wǒ de péng yǒu kàn jiàn yí gè nán hái pǎo 。",
       "source": "buivolas_guided_N01_057",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00583",
@@ -8815,7 +8815,7 @@
       ],
       "pinyin": "yí gè nán hái jīn tiān hěn kuài lè 。",
       "source": "buivolas_guided_N01_057",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00584",
@@ -8839,7 +8839,7 @@
       ],
       "pinyin": "tā men gěi nán hái miàn bāo 。",
       "source": "buivolas_guided_N01_057",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00585",
@@ -8863,7 +8863,7 @@
       ],
       "pinyin": "nǚ hái zi hé tā de gǒu wán 。",
       "source": "buivolas_guided_N01_058",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00586",
@@ -8891,7 +8891,7 @@
       ],
       "pinyin": "yí gè nǚ hái zi dǎ kāi le lán sè de mén 。",
       "source": "buivolas_guided_N01_058",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00587",
@@ -8919,7 +8919,7 @@
       ],
       "pinyin": "wǒ de péng yǒu kàn dào yí gè zhèng zài pǎo bù de nǚ hái zi 。",
       "source": "buivolas_guided_N01_058",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00588",
@@ -8943,7 +8943,7 @@
       ],
       "pinyin": "tā jīn tiān shì yí gè kuài lè de nǚ hái zi 。",
       "source": "buivolas_guided_N01_058",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00589",
@@ -8967,7 +8967,7 @@
       ],
       "pinyin": "wǒ de péng yǒu zhù zài xué xiào fù jìn 。",
       "source": "buivolas_guided_N01_059",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00590",
@@ -8991,7 +8991,7 @@
       ],
       "pinyin": "tā shì yí gè hǎo péng yǒu 。",
       "source": "buivolas_guided_N01_059",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_00591",
@@ -9015,7 +9015,7 @@
       ],
       "pinyin": "wǒ men zài wǔ cān shí jiàn le yí gè péng yǒu 。",
       "source": "buivolas_guided_N01_059",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_00592",
@@ -9035,7 +9035,7 @@
       ],
       "pinyin": "nǐ xiǎng yào yí gè péng yǒu ma ？",
       "source": "buivolas_guided_N01_059",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00593",
@@ -9063,7 +9063,7 @@
       ],
       "pinyin": "jīn tiān yǒu yí gè shàn liáng de rén bāng zhù le wǒ 。",
       "source": "buivolas_guided_N01_060",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_00594",
@@ -9087,7 +9087,7 @@
       ],
       "pinyin": "nà gè rén zài xué xiào gōng zuò 。",
       "source": "buivolas_guided_N01_060",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00595",
@@ -9115,7 +9115,7 @@
       ],
       "pinyin": "wǒ men zài shāng diàn kàn jiàn le liǎng gè rén 。",
       "source": "buivolas_guided_N01_060",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00596",
@@ -9139,7 +9139,7 @@
       ],
       "pinyin": "tā shì zhè lǐ zuì ān jìng de rén 。",
       "source": "buivolas_guided_N01_060",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_00597",
@@ -9163,7 +9163,7 @@
       ],
       "pinyin": "mǒu gè rén bǎ yǔ sǎn liú zài zhè lǐ le 。",
       "source": "buivolas_guided_N01_061",
-      "minimum_level": 21
+      "minimum_level": 12
     },
     {
       "sentence_id": "S_00598",
@@ -9187,7 +9187,7 @@
       ],
       "pinyin": "yǒu rén jiào wǒ de míng zì ma ？",
       "source": "buivolas_guided_N01_061",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00600",
@@ -9211,7 +9211,7 @@
       ],
       "pinyin": "wǒ xiǎng yǒu rén ná zǒu le wǒ de shū 。",
       "source": "buivolas_guided_N01_061",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00601",
@@ -9235,7 +9235,7 @@
       ],
       "pinyin": "yǒu rén xiǎng yào miàn bāo ma ？",
       "source": "buivolas_guided_N01_062",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00602",
@@ -9259,7 +9259,7 @@
       ],
       "pinyin": "rèn hé rén dōu kě yǐ kàn jiàn zhè zhǐ gǒu 。",
       "source": "buivolas_guided_N01_062",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00603",
@@ -9279,7 +9279,7 @@
       ],
       "pinyin": "tā méi yǒu wèn rèn hé rén 。",
       "source": "buivolas_guided_N01_062",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00604",
@@ -9299,7 +9299,7 @@
       ],
       "pinyin": "wǒ men méi yǒu gào sù rèn hé rén 。",
       "source": "buivolas_guided_N01_062",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00605",
@@ -9327,7 +9327,7 @@
       ],
       "pinyin": "měi gè rén dōu xǐ huān xīn xiān de miàn bāo 。",
       "source": "buivolas_guided_N01_063",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00606",
@@ -9351,7 +9351,7 @@
       ],
       "pinyin": "dà jiā zhǔn bèi hǎo yào qù le ma ？",
       "source": "buivolas_guided_N01_063",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00607",
@@ -9379,7 +9379,7 @@
       ],
       "pinyin": "měi gè rén dōu zuò zài lǎo shī páng biān 。",
       "source": "buivolas_guided_N01_063",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00608",
@@ -9407,7 +9407,7 @@
       ],
       "pinyin": "měi gè rén hěn kuài zhǎo dào le zuò wèi 。",
       "source": "buivolas_guided_N01_063",
-      "minimum_level": 21
+      "minimum_level": 11
     },
     {
       "sentence_id": "S_00610",
@@ -9431,7 +9431,7 @@
       ],
       "pinyin": "wǒ zài huā yuán lǐ kàn jiàn méi yǒu rén 。",
       "source": "buivolas_guided_N01_064",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00611",
@@ -9455,7 +9455,7 @@
       ],
       "pinyin": "tā shuō méi yǒu rén zhī dào dá àn 。",
       "source": "buivolas_guided_N01_064",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00612",
@@ -9479,7 +9479,7 @@
       ],
       "pinyin": "tā men zài bàn gōng shì méi yǒu zhǎo dào rén 。",
       "source": "buivolas_guided_N01_064",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00614",
@@ -9503,7 +9503,7 @@
       ],
       "pinyin": "tā màn màn dì zhēng kāi le yǎn jīng 。",
       "source": "buivolas_guided_V01_014",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00616",
@@ -9523,7 +9523,7 @@
       ],
       "pinyin": "tā wèi tōng fēng dǎ kāi le chuāng hù 。",
       "source": "buivolas_guided_V01_014",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00617",
@@ -9543,7 +9543,7 @@
       ],
       "pinyin": "qǐng guān bì mén 。",
       "source": "buivolas_guided_V01_015",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00619",
@@ -9567,7 +9567,7 @@
       ],
       "pinyin": "zài nǐ lí kāi zhī qián bǎ chuāng hù guān bì 。",
       "source": "buivolas_guided_V01_015",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00621",
@@ -9587,7 +9587,7 @@
       ],
       "pinyin": "wǒ xǐ huān wēn nuǎn de miàn bāo 。",
       "source": "buivolas_guided_V05_001",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00622",
@@ -9611,7 +9611,7 @@
       ],
       "pinyin": "tā xǐ huān nà jiàn xīn de chèn shān 。",
       "source": "buivolas_guided_V05_001",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00623",
@@ -9635,7 +9635,7 @@
       ],
       "pinyin": "wǒ men xǐ huān nà bēi xiǎo kā fēi 。",
       "source": "buivolas_guided_V05_001",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00624",
@@ -9679,7 +9679,7 @@
       ],
       "pinyin": "wǒ xiǎng yào yī jiàn hēi sè de chèn shān 。",
       "source": "buivolas_guided_V05_004",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00626",
@@ -9703,7 +9703,7 @@
       ],
       "pinyin": "tā xiǎng yào gèng duō miàn bāo 。",
       "source": "buivolas_guided_V05_004",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00627",
@@ -9727,7 +9727,7 @@
       ],
       "pinyin": "tā men xiǎng yào mǎi yī liàng zì xíng chē 。",
       "source": "buivolas_guided_V05_004",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00628",
@@ -9751,7 +9751,7 @@
       ],
       "pinyin": "nǐ xiǎng yào yī xiē shuǐ ma ？",
       "source": "buivolas_guided_V05_004",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00629",
@@ -9775,7 +9775,7 @@
       ],
       "pinyin": "wǒ yǒu yī jiàn hóng sè de chèn shān 。",
       "source": "buivolas_guided_V06_002",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00630",
@@ -9799,7 +9799,7 @@
       ],
       "pinyin": "tā yǒu liǎng zhǐ māo 。",
       "source": "buivolas_guided_V06_002",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00631",
@@ -9827,7 +9827,7 @@
       ],
       "pinyin": "wǒ de péng yǒu yǒu yī liàng xiǎo zì xíng chē 。",
       "source": "buivolas_guided_V06_002",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00632",
@@ -9851,7 +9851,7 @@
       ],
       "pinyin": "tā men yǒu yī suǒ bái sè de fáng zi 。",
       "source": "buivolas_guided_V06_002",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00633",
@@ -9871,7 +9871,7 @@
       ],
       "pinyin": "wǒ xiàn zài zhuàn hěn duō qián 。",
       "source": "buivolas_guided_V06_003",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_00637",
@@ -9895,7 +9895,7 @@
       ],
       "pinyin": "wǒ jīn tiān huì mǎi miàn bāo 。",
       "source": "buivolas_guided_V06_004",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00638",
@@ -9919,7 +9919,7 @@
       ],
       "pinyin": "tā mǎi yī jiàn xīn de chèn shān 。",
       "source": "buivolas_guided_V06_004",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00640",
@@ -9943,7 +9943,7 @@
       ],
       "pinyin": "wǒ de péng yǒu xiǎng yào mǎi niú nǎi 。",
       "source": "buivolas_guided_V06_004",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00642",
@@ -9967,7 +9967,7 @@
       ],
       "pinyin": "tā gěi le tā de mèi mèi miàn bāo 。",
       "source": "buivolas_guided_V06_005",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00643",
@@ -9991,7 +9991,7 @@
       ],
       "pinyin": "tā men gěi gǒu yí gè wán jù 。",
       "source": "buivolas_guided_V06_005",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00645",
@@ -10011,7 +10011,7 @@
       ],
       "pinyin": "wǒ xiàn zài ná zǒu miàn bāo 。",
       "source": "buivolas_guided_V06_006",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00646",
@@ -10031,7 +10031,7 @@
       ],
       "pinyin": "tā zuó tiān bǎ wǒ de yǔ sǎn ná zǒu le 。",
       "source": "buivolas_guided_V06_006",
-      "minimum_level": 21
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_00648",
@@ -10055,7 +10055,7 @@
       ],
       "pinyin": "wǒ de péng yǒu ná zǒu le wǒ de bǐ 。",
       "source": "buivolas_guided_V06_006",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00652",
@@ -10075,7 +10075,7 @@
       ],
       "pinyin": "nǐ hé nǐ de gǒu wán ma ？",
       "source": "buivolas_guided_V01_006",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00653",
@@ -10099,7 +10099,7 @@
       ],
       "pinyin": "wǒ jīn tiān zài xué xiào gōng zuò 。",
       "source": "buivolas_guided_V01_007",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00654",
@@ -10123,7 +10123,7 @@
       ],
       "pinyin": "tā měi tiān zǎo chén zài chú fáng gōng zuò 。",
       "source": "buivolas_guided_V01_007",
-      "minimum_level": 21
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00656",
@@ -10147,7 +10147,7 @@
       ],
       "pinyin": "wǒ de péng yǒu zài miàn bāo diàn gōng zuò 。",
       "source": "buivolas_guided_V01_007",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00657",
@@ -10171,7 +10171,7 @@
       ],
       "pinyin": "wǒ měi tiān zǎo shàng dōu néng zhǎo dào wǒ de yào shi 。",
       "source": "buivolas_guided_V01_009",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00659",
@@ -10195,7 +10195,7 @@
       ],
       "pinyin": "wǒ men zài gōng yuán zhǎo dào gǒu 。",
       "source": "buivolas_guided_V01_009",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00661",
@@ -10219,7 +10219,7 @@
       ],
       "pinyin": "wǒ bǎ miàn bāo fàng zài zhuō zi shàng 。",
       "source": "buivolas_guided_V01_010",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00663",
@@ -10243,7 +10243,7 @@
       ],
       "pinyin": "wǒ men bǎ wǒ de wài tào fàng zài mén biān 。",
       "source": "buivolas_guided_V01_010",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00664",
@@ -10267,7 +10267,7 @@
       ],
       "pinyin": "tā xiǎo xīn dì bǎ bēi zi fàng xià 。",
       "source": "buivolas_guided_V01_010",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00665",
@@ -10291,7 +10291,7 @@
       ],
       "pinyin": "tā màn màn dì dǎ kāi mén 。",
       "source": "buivolas_guided_N47_001",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00666",
@@ -10311,7 +10311,7 @@
       ],
       "pinyin": "tā zài shēn hòu guān shàng le mén 。",
       "source": "buivolas_guided_N47_001",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00668",
@@ -10335,7 +10335,7 @@
       ],
       "pinyin": "tā men bǎ hé zi fàng zài mén biān 。",
       "source": "buivolas_guided_N47_001",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00669",
@@ -10359,7 +10359,7 @@
       ],
       "pinyin": "tā dǎ kāi chuāng hù qù tīng 。",
       "source": "buivolas_guided_N47_002",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00670",
@@ -10383,7 +10383,7 @@
       ],
       "pinyin": "hái zi xiàng chuāng wài kàn 。",
       "source": "buivolas_guided_N47_002",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00672",
@@ -10407,7 +10407,7 @@
       ],
       "pinyin": "wǒ men zài chuāng hù kàn jiàn le niǎo 。",
       "source": "buivolas_guided_N47_002",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00677",
@@ -10431,7 +10431,7 @@
       ],
       "pinyin": "wǒ kàn jiàn yī kē dà shù 。",
       "source": "buivolas_guided_N05_001",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00678",
@@ -10451,7 +10451,7 @@
       ],
       "pinyin": "tā zuò zài shù xià 。",
       "source": "buivolas_guided_N05_001",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00680",
@@ -10475,7 +10475,7 @@
       ],
       "pinyin": "tā men pá shàng le gāo de shù 。",
       "source": "buivolas_guided_N05_001",
-      "minimum_level": 21
+      "minimum_level": 14
     },
     {
       "sentence_id": "S_00682",
@@ -10499,7 +10499,7 @@
       ],
       "pinyin": "tā wén nà duǒ xīn xiān de huā 。",
       "source": "buivolas_guided_N05_002",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00684",
@@ -10523,7 +10523,7 @@
       ],
       "pinyin": "nǐ xǐ huān zhè duǒ huā ma ？",
       "source": "buivolas_guided_N05_002",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00685",
@@ -10543,7 +10543,7 @@
       ],
       "pinyin": "tā zuò zài cǎo dì shàng 。",
       "source": "buivolas_guided_N05_003",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00686",
@@ -10567,7 +10567,7 @@
       ],
       "pinyin": "hái zi zài cǎo dì shàng wán 。",
       "source": "buivolas_guided_N05_003",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00688",
@@ -10591,7 +10591,7 @@
       ],
       "pinyin": "wǒ de gǒu zài cǎo dì shàng shuì jiào 。",
       "source": "buivolas_guided_N05_003",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00690",
@@ -10611,7 +10611,7 @@
       ],
       "pinyin": "wǒ men zuò zài xiàng shù xià 。",
       "source": "buivolas_guided_N05_004",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00694",
@@ -10635,7 +10635,7 @@
       ],
       "pinyin": "yī duǒ méi guī wén qǐ lái hěn tián 。",
       "source": "buivolas_guided_N05_005",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00696",
@@ -10659,7 +10659,7 @@
       ],
       "pinyin": "tā men kàn jiàn le yī duǒ hóng sè de méi guī 。",
       "source": "buivolas_guided_N05_005",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00697",
@@ -10683,7 +10683,7 @@
       ],
       "pinyin": "wǒ men xīng qī rì qù jiào táng 。",
       "source": "buivolas_guided_N07_004",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00701",
@@ -10707,7 +10707,7 @@
       ],
       "pinyin": "tā jīn tiān zài yào jú gōng zuò 。",
       "source": "buivolas_guided_N07_012",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00702",
@@ -10731,7 +10731,7 @@
       ],
       "pinyin": "wǒ zuó tiān qù yào jú le 。",
       "source": "buivolas_guided_N07_012",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00704",
@@ -10759,7 +10759,7 @@
       ],
       "pinyin": "wǒ de péng yǒu zài yào jú wài miàn děng zhe 。",
       "source": "buivolas_guided_N07_012",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00705",
@@ -10783,7 +10783,7 @@
       ],
       "pinyin": "tā zài miàn bāo diàn mǎi miàn bāo 。",
       "source": "buivolas_guided_N07_013",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00706",
@@ -10803,7 +10803,7 @@
       ],
       "pinyin": "wǒ men zài miàn bāo diàn fù jìn gōng zuò 。",
       "source": "buivolas_guided_N07_013",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00707",
@@ -10827,7 +10827,7 @@
       ],
       "pinyin": "tā zài miàn bāo diàn zhǎo dào le gōng zuò 。",
       "source": "buivolas_guided_N07_013",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00708",
@@ -10847,7 +10847,7 @@
       ],
       "pinyin": "tā men zǒu lù jīng guò miàn bāo diàn 。",
       "source": "buivolas_guided_N07_013",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00709",
@@ -10867,7 +10867,7 @@
       ],
       "pinyin": "tā zài jiā yóu zhàn tíng chē 。",
       "source": "buivolas_guided_N07_014",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00711",
@@ -10887,7 +10887,7 @@
       ],
       "pinyin": "tā zài jiā yóu zhàn gōng zuò 。",
       "source": "buivolas_guided_N07_014",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00712",
@@ -10911,7 +10911,7 @@
       ],
       "pinyin": "tā men zài jiā yóu zhàn fù jìn kàn jiàn le yī liàng qì chē 。",
       "source": "buivolas_guided_N07_014",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00713",
@@ -10931,7 +10931,7 @@
       ],
       "pinyin": "wǒ qù yóu jú 。",
       "source": "buivolas_guided_N07_015",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00715",
@@ -10951,7 +10951,7 @@
       ],
       "pinyin": "tā men zài yóu jú wài děng zhe 。",
       "source": "buivolas_guided_N07_015",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00716",
@@ -10975,7 +10975,7 @@
       ],
       "pinyin": "wǒ de péng yǒu zài yóu jú gōng zuò 。",
       "source": "buivolas_guided_N07_015",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00718",
@@ -10995,7 +10995,7 @@
       ],
       "pinyin": "tā zài dà shǐ guǎn gōng zuò 。",
       "source": "buivolas_guided_N07_016",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00719",
@@ -11019,7 +11019,7 @@
       ],
       "pinyin": "tā men zuó tiān guān bì le dà shǐ guǎn 。",
       "source": "buivolas_guided_N07_016",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00720",
@@ -11043,7 +11043,7 @@
       ],
       "pinyin": "wǒ de péng yǒu gěi dà shǐ guǎn dǎ le diàn huà 。",
       "source": "buivolas_guided_N07_016",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00721",
@@ -11067,7 +11067,7 @@
       ],
       "pinyin": "wǒ de péng yǒu zài gōng chǎng gōng zuò 。",
       "source": "buivolas_guided_N07_017",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00722",
@@ -11091,7 +11091,7 @@
       ],
       "pinyin": "tā men qù nián guān bì le gōng chǎng 。",
       "source": "buivolas_guided_N07_017",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00725",
@@ -11111,7 +11111,7 @@
       ],
       "pinyin": "tā zhù zài yī jiān gōng yù 。",
       "source": "buivolas_guided_N07_026",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00726",
@@ -11135,7 +11135,7 @@
       ],
       "pinyin": "wǒ yǒu yī bǎ gōng yù yào shi 。",
       "source": "buivolas_guided_N07_026",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00727",
@@ -11159,7 +11159,7 @@
       ],
       "pinyin": "tā men bān jìn le yī tào xīn gōng yù 。",
       "source": "buivolas_guided_N07_026",
-      "minimum_level": 21
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00733",
@@ -11183,7 +11183,7 @@
       ],
       "pinyin": "tā jīn tiān zài bàn gōng shì gōng zuò 。",
       "source": "buivolas_guided_N07_030",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00735",
@@ -11211,7 +11211,7 @@
       ],
       "pinyin": "wǒ de péng yǒu kāi le yī jiān xiǎo bàn gōng shì 。",
       "source": "buivolas_guided_N07_030",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00737",
@@ -11231,7 +11231,7 @@
       ],
       "pinyin": "wǒ xiàn zài zài jiā 。",
       "source": "buivolas_guided_N07_041",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_00739",
@@ -11255,7 +11255,7 @@
       ],
       "pinyin": "wǒ men zuó wǎn zǒu lù huí jiā 。",
       "source": "buivolas_guided_N07_041",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00742",
@@ -11279,7 +11279,7 @@
       ],
       "pinyin": "tā zài jiàn zhù wù fù jìn gōng zuò 。",
       "source": "buivolas_guided_N07_046",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00744",
@@ -11299,7 +11299,7 @@
       ],
       "pinyin": "wǒ men néng kàn jiàn nà zuò jiàn zhù wù 。",
       "source": "buivolas_guided_N07_046",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00745",
@@ -11323,7 +11323,7 @@
       ],
       "pinyin": "tā jīn tiān zài huā yuán gōng zuò 。",
       "source": "buivolas_guided_N07_049",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00747",
@@ -11351,7 +11351,7 @@
       ],
       "pinyin": "wǒ de péng yǒu yǒu yí gè xiǎo de huā yuán 。",
       "source": "buivolas_guided_N07_049",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00748",
@@ -11375,7 +11375,7 @@
       ],
       "pinyin": "nǐ kàn jiàn huā yuán de huā le ma ？",
       "source": "buivolas_guided_N07_049",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00749",
@@ -11395,7 +11395,7 @@
       ],
       "pinyin": "wǒ men zǒu lù qù gōng yuán 。",
       "source": "buivolas_guided_N07_050",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00750",
@@ -11419,7 +11419,7 @@
       ],
       "pinyin": "tā zài gōng yuán lǐ hé gǒu wán 。",
       "source": "buivolas_guided_N07_050",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00752",
@@ -11443,7 +11443,7 @@
       ],
       "pinyin": "nǐ jīn tiān qù gōng yuán ma ？",
       "source": "buivolas_guided_N07_050",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00754",
@@ -11467,7 +11467,7 @@
       ],
       "pinyin": "tā dǎ kāi le fáng jiān de mén 。",
       "source": "buivolas_guided_N07_051",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00757",
@@ -11491,7 +11491,7 @@
       ],
       "pinyin": "tā zuó tiān shāng dào tóu le 。",
       "source": "buivolas_guided_N03_001",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00758",
@@ -11507,7 +11507,7 @@
       ],
       "pinyin": "tā dé le gǎn mào 。",
       "source": "buivolas_guided_N03_001",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00759",
@@ -11531,7 +11531,7 @@
       ],
       "pinyin": "wǒ de péng yǒu nǎo hǎi zhōng kàn jiàn xīng xīng 。",
       "source": "buivolas_guided_N03_001",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00761",
@@ -11575,7 +11575,7 @@
       ],
       "pinyin": "tā zhuǎn guò liǎn qù tīng 。",
       "source": "buivolas_guided_N03_002",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00765",
@@ -11619,7 +11619,7 @@
       ],
       "pinyin": "wǒ de péng yǒu zhǎo dào le yī kē yá chǐ 。",
       "source": "buivolas_guided_N03_007",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00770",
@@ -11643,7 +11643,7 @@
       ],
       "pinyin": "tā zuó tiān tàng shāng le shé tou 。",
       "source": "buivolas_guided_N03_008",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00772",
@@ -11671,7 +11671,7 @@
       ],
       "pinyin": "yīng ér bǎ tāng chí fàng zài tā de shé tou shàng 。",
       "source": "buivolas_guided_N03_008",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00773",
@@ -11695,7 +11695,7 @@
       ],
       "pinyin": "tā dài zhe yī tiáo wéi jīn zài bó zi shàng 。",
       "source": "buivolas_guided_N03_009",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00774",
@@ -11723,7 +11723,7 @@
       ],
       "pinyin": "gǒu yǒu yí gè róu ruǎn de bó zi 。",
       "source": "buivolas_guided_N03_009",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00775",
@@ -11747,7 +11747,7 @@
       ],
       "pinyin": "tā gǎn jué dào bó zi téng 。",
       "source": "buivolas_guided_N03_009",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00777",
@@ -11767,7 +11767,7 @@
       ],
       "pinyin": "tā jiān bǎng téng tòng 。",
       "source": "buivolas_guided_N03_010",
-      "minimum_level": 21
+      "minimum_level": 12
     },
     {
       "sentence_id": "S_00778",
@@ -11791,7 +11791,7 @@
       ],
       "pinyin": "tā bǎ bāo kuà zài jiān shàng 。",
       "source": "buivolas_guided_N03_010",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00782",
@@ -11815,7 +11815,7 @@
       ],
       "pinyin": "tā wān qū le shǒu zhǒu qù chī dōng xī 。",
       "source": "buivolas_guided_N03_012",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00784",
@@ -11839,7 +11839,7 @@
       ],
       "pinyin": "tā men bǎ bīng fàng zài zhǒu bù 。",
       "source": "buivolas_guided_N03_012",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00785",
@@ -11863,7 +11863,7 @@
       ],
       "pinyin": "tā zài shǒu wàn shàng dài zhe yī zhī shǒu biǎo 。",
       "source": "buivolas_guided_N03_013",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00789",
@@ -11887,7 +11887,7 @@
       ],
       "pinyin": "tā xiǎo xīn dì ná zhù nà gè chén zhòng de xiāng zi 。",
       "source": "buivolas_guided_N03_017",
-      "minimum_level": 21
+      "minimum_level": 14
     },
     {
       "sentence_id": "S_00791",
@@ -11911,7 +11911,7 @@
       ],
       "pinyin": "tā men zài gé lóu lǐ zhǎo dào yí gè xiōng bù 。",
       "source": "buivolas_guided_N03_017",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00793",
@@ -11935,7 +11935,7 @@
       ],
       "pinyin": "tā zuó tiān shāng dào bèi bù 。",
       "source": "buivolas_guided_N03_018",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00794",
@@ -11959,7 +11959,7 @@
       ],
       "pinyin": "tā bèi bù yǒu téng tòng 。",
       "source": "buivolas_guided_N03_018",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00797",
@@ -11983,7 +11983,7 @@
       ],
       "pinyin": "wǔ fàn hòu wǒ dǔ zi téng 。",
       "source": "buivolas_guided_N03_019",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_00798",
@@ -12007,7 +12007,7 @@
       ],
       "pinyin": "tā bǎ shǒu fàng zài dǔ zi shàng 。",
       "source": "buivolas_guided_N03_019",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00799",
@@ -12035,7 +12035,7 @@
       ],
       "pinyin": "hái zi yǒu yí gè dà dǔ zi 。",
       "source": "buivolas_guided_N03_019",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00800",
@@ -12059,7 +12059,7 @@
       ],
       "pinyin": "tā gǎn dào wèi lǐ yǒu hú dié 。",
       "source": "buivolas_guided_N03_019",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00801",
@@ -12087,7 +12087,7 @@
       ],
       "pinyin": "wǒ de péng yǒu zuó tiān shāng dào le dà tuǐ 。",
       "source": "buivolas_guided_N03_021",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00808",
@@ -12111,7 +12111,7 @@
       ],
       "pinyin": "wǒ néng gǎn jué dào jiǎo huái de téng tòng 。",
       "source": "buivolas_guided_N03_023",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00811",
@@ -12135,7 +12135,7 @@
       ],
       "pinyin": "hái zi shāng dào jiǎo zhǐ tóu le 。",
       "source": "buivolas_guided_N03_025",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00813",
@@ -12155,7 +12155,7 @@
       ],
       "pinyin": "tā de shǒu hěn gàn 。",
       "source": "buivolas_guided_N03_026",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00817",
@@ -12183,7 +12183,7 @@
       ],
       "pinyin": "yí gè hái zi jīn tiān zhǎo dào le yī piàn yè zi 。",
       "source": "buivolas_guided_N38_001",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00818",
@@ -12211,7 +12211,7 @@
       ],
       "pinyin": "tā ná zhù yī piàn míng liàng de lǜ sè yè zi 。",
       "source": "buivolas_guided_N38_001",
-      "minimum_level": 21
+      "minimum_level": 14
     },
     {
       "sentence_id": "S_00819",
@@ -12235,7 +12235,7 @@
       ],
       "pinyin": "yè zi cóng shù shàng diào luò 。",
       "source": "buivolas_guided_N38_001",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00820",
@@ -12259,7 +12259,7 @@
       ],
       "pinyin": "wǒ men bǎ yè zi fàng zài shū lǐ 。",
       "source": "buivolas_guided_N38_001",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00821",
@@ -12283,7 +12283,7 @@
       ],
       "pinyin": "tā měi tiān zǎo chén hē shuǐ 。",
       "source": "buivolas_guided_N42_001",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00823",
@@ -12311,7 +12311,7 @@
       ],
       "pinyin": "wǒ de péng yǒu bǎ shuǐ fàng jìn píng zi lǐ 。",
       "source": "buivolas_guided_N42_001",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00825",
@@ -12335,7 +12335,7 @@
       ],
       "pinyin": "wǒ měi tiān zǎo chén hē kā fēi 。",
       "source": "buivolas_guided_N42_002",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00828",
@@ -12359,7 +12359,7 @@
       ],
       "pinyin": "tā men wǔ fàn hòu hē le kā fēi 。",
       "source": "buivolas_guided_N42_002",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00829",
@@ -12383,7 +12383,7 @@
       ],
       "pinyin": "tā měi tiān zǎo chén hē chá 。",
       "source": "buivolas_guided_N42_003",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00831",
@@ -12407,7 +12407,7 @@
       ],
       "pinyin": "nǐ xiǎng yào chá hái shì kā fēi ？",
       "source": "buivolas_guided_N42_003",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00834",
@@ -12435,7 +12435,7 @@
       ],
       "pinyin": "wǒ men wèi wǎn cān mǎi le liǎng píng pí jiǔ 。",
       "source": "buivolas_guided_N42_004",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00835",
@@ -12463,7 +12463,7 @@
       ],
       "pinyin": "tā màn màn dì dǎ kāi le yī píng lěng de pí jiǔ 。",
       "source": "buivolas_guided_N42_004",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00836",
@@ -12487,7 +12487,7 @@
       ],
       "pinyin": "tā men zài zhè lǐ bù hē pí jiǔ 。",
       "source": "buivolas_guided_N42_004",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00837",
@@ -12511,7 +12511,7 @@
       ],
       "pinyin": "tā zài wǎn cān shí hē hóng pú táo jiǔ 。",
       "source": "buivolas_guided_N42_005",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00838",
@@ -12535,7 +12535,7 @@
       ],
       "pinyin": "tā mǎi le yī píng pú táo jiǔ 。",
       "source": "buivolas_guided_N42_005",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00840",
@@ -12559,7 +12559,7 @@
       ],
       "pinyin": "tā men wèi jù huì dǎ kāi le pú táo jiǔ 。",
       "source": "buivolas_guided_N42_005",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00841",
@@ -12583,7 +12583,7 @@
       ],
       "pinyin": "wǒ měi tiān zǎo shàng hē niú nǎi 。",
       "source": "buivolas_guided_N42_006",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00842",
@@ -12607,7 +12607,7 @@
       ],
       "pinyin": "tā zài shāng diàn mǎi niú nǎi 。",
       "source": "buivolas_guided_N42_006",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00843",
@@ -12631,7 +12631,7 @@
       ],
       "pinyin": "tā men bǎ niú nǎi gěi le hái zi 。",
       "source": "buivolas_guided_N42_006",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00844",
@@ -12655,7 +12655,7 @@
       ],
       "pinyin": "wǒ men bǎ niú nǎi fàng jìn chá lǐ 。",
       "source": "buivolas_guided_N42_006",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00845",
@@ -12675,7 +12675,7 @@
       ],
       "pinyin": "tā hē qì shuǐ 。",
       "source": "buivolas_guided_N42_007",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00846",
@@ -12699,7 +12699,7 @@
       ],
       "pinyin": "tā men zài shāng diàn mǎi le qì shuǐ 。",
       "source": "buivolas_guided_N42_007",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00847",
@@ -12719,7 +12719,7 @@
       ],
       "pinyin": "wǒ kě yǐ yào yī bēi qì shuǐ ma ？",
       "source": "buivolas_guided_N42_007",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00848",
@@ -12743,7 +12743,7 @@
       ],
       "pinyin": "wǒ de péng yǒu dǎ kāi le tā de qì shuǐ 。",
       "source": "buivolas_guided_N42_007",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00849",
@@ -12771,7 +12771,7 @@
       ],
       "pinyin": "tā jīn tiān chuān zhe yī jiàn wēn nuǎn de wài tào 。",
       "source": "buivolas_guided_N09_004",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00850",
@@ -12799,7 +12799,7 @@
       ],
       "pinyin": "wǒ zuó tiān mǎi le yī jiàn xīn wài tào 。",
       "source": "buivolas_guided_N09_004",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00851",
@@ -12827,7 +12827,7 @@
       ],
       "pinyin": "wǒ de péng yǒu yǒu yī jiàn hēi sè de wài tào 。",
       "source": "buivolas_guided_N09_004",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00852",
@@ -12855,7 +12855,7 @@
       ],
       "pinyin": "tā men bǎ shī de wài tào fàng zài wài miàn 。",
       "source": "buivolas_guided_N09_004",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_00853",
@@ -12875,7 +12875,7 @@
       ],
       "pinyin": "tā jīn tiān dài zhe hēi sè de lǐng dài 。",
       "source": "buivolas_guided_N09_010",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00854",
@@ -12895,7 +12895,7 @@
       ],
       "pinyin": "tā zuó tiān mǎi le yī tiáo hóng sè de lǐng dài 。",
       "source": "buivolas_guided_N09_010",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00855",
@@ -12915,7 +12915,7 @@
       ],
       "pinyin": "wǒ de péng yǒu huì xì tā de lǐng dài 。",
       "source": "buivolas_guided_N09_010",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00856",
@@ -12935,7 +12935,7 @@
       ],
       "pinyin": "tā men bǎ xǔ duō lǐng dài fàng zài yī guì lǐ 。",
       "source": "buivolas_guided_N09_010",
-      "minimum_level": 21
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_00857",
@@ -12959,7 +12959,7 @@
       ],
       "pinyin": "tā jīn tiān chuān zhe lán sè de qún zi 。",
       "source": "buivolas_guided_N09_013",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00858",
@@ -12987,7 +12987,7 @@
       ],
       "pinyin": "wǒ de péng yǒu mǎi le yī tiáo xīn qún zi 。",
       "source": "buivolas_guided_N09_013",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00859",
@@ -13011,7 +13011,7 @@
       ],
       "pinyin": "tā men zài wài miàn zhǎo dào le qún zi 。",
       "source": "buivolas_guided_N09_013",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00860",
@@ -13035,7 +13035,7 @@
       ],
       "pinyin": "nǚ rén bǎ qún zi shōu qǐ lái 。",
       "source": "buivolas_guided_N09_013",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00861",
@@ -13059,7 +13059,7 @@
       ],
       "pinyin": "tā mǎi le xīn de xiōng zhào 。",
       "source": "buivolas_guided_N09_014",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00864",
@@ -13083,7 +13083,7 @@
       ],
       "pinyin": "tā zài chuáng xià zhǎo dào le tā de xiōng zhào 。",
       "source": "buivolas_guided_N09_014",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00865",
@@ -13103,7 +13103,7 @@
       ],
       "pinyin": "tā jīn tiān dài zhe yī tiáo hēi sè de pí dài 。",
       "source": "buivolas_guided_N09_015",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00866",
@@ -13127,7 +13127,7 @@
       ],
       "pinyin": "tā zuó tiān mǎi le yī tiáo xīn de pí dài 。",
       "source": "buivolas_guided_N09_015",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00869",
@@ -13151,7 +13151,7 @@
       ],
       "pinyin": "tā zuó tiān diū shī le yī zhī ěr huán 。",
       "source": "buivolas_guided_N09_016",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00875",
@@ -13179,7 +13179,7 @@
       ],
       "pinyin": "wǒ de péng yǒu dài zhe yī méi xiǎo jiè zhǐ 。",
       "source": "buivolas_guided_N09_017",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00876",
@@ -13203,7 +13203,7 @@
       ],
       "pinyin": "tā men zài kǒu dài lǐ zhǎo dào le jiè zhǐ 。",
       "source": "buivolas_guided_N09_017",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00878",
@@ -13227,7 +13227,7 @@
       ],
       "pinyin": "mù tou jīn tiān hěn gàn 。",
       "source": "buivolas_guided_N14_001",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00879",
@@ -13251,7 +13251,7 @@
       ],
       "pinyin": "wǒ men mǎi le xiē mù tou lái shēng huǒ 。",
       "source": "buivolas_guided_N14_001",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00881",
@@ -13275,7 +13275,7 @@
       ],
       "pinyin": "tā zài hé biān fā xiàn le jīn shǔ 。",
       "source": "buivolas_guided_N14_002",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00890",
@@ -13303,7 +13303,7 @@
       ],
       "pinyin": "wǒ de péng yǒu mǎi le yī bǎ gāng dāo 。",
       "source": "buivolas_guided_N14_004",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00891",
@@ -13327,7 +13327,7 @@
       ],
       "pinyin": "tā men kàn jiàn le yī zuò gāng qiáo jīn tiān 。",
       "source": "buivolas_guided_N14_004",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00901",
@@ -13351,7 +13351,7 @@
       ],
       "pinyin": "tā jīn tiān dài zhe yī méi jīn jiè zhǐ 。",
       "source": "buivolas_guided_N14_007",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00902",
@@ -13375,7 +13375,7 @@
       ],
       "pinyin": "tā zài hé biān fā xiàn le huáng jīn 。",
       "source": "buivolas_guided_N14_007",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00907",
@@ -13403,7 +13403,7 @@
       ],
       "pinyin": "wǒ de péng yǒu mǎi le yín ěr huán 。",
       "source": "buivolas_guided_N14_008",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00917",
@@ -13427,7 +13427,7 @@
       ],
       "pinyin": "tā cóng yí gè bō lí bēi lǐ hē shuǐ 。",
       "source": "buivolas_guided_N14_011",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00923",
@@ -13455,7 +13455,7 @@
       ],
       "pinyin": "wǒ de péng yǒu bǎ wán jù fàng jìn le zhǐ bǎn xiāng 。",
       "source": "buivolas_guided_N14_012",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00926",
@@ -13483,7 +13483,7 @@
       ],
       "pinyin": "tā zuó tiān mǎi le yī kuài gān jìng de bù liào 。",
       "source": "buivolas_guided_N14_013",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00929",
@@ -13507,7 +13507,7 @@
       ],
       "pinyin": "tā jīn tiān mǎi yī jiàn mián chèn shān 。",
       "source": "buivolas_guided_N14_014",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00930",
@@ -13535,7 +13535,7 @@
       ],
       "pinyin": "wǒ de péng yǒu zài tián yě lǐ zhǎo dào le mián huā 。",
       "source": "buivolas_guided_N14_014",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00933",
@@ -13563,7 +13563,7 @@
       ],
       "pinyin": "tā jīn tiān chuān zhe yī jiàn yáng máo wài tào 。",
       "source": "buivolas_guided_N14_015",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00936",
@@ -13591,7 +13591,7 @@
       ],
       "pinyin": "hái zi zài máo yī shàng zhǎo dào le yáng máo 。",
       "source": "buivolas_guided_N14_015",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00939",
@@ -13615,7 +13615,7 @@
       ],
       "pinyin": "wǒ men zài gé lóu lǐ zhǎo dào le sī chóu 。",
       "source": "buivolas_guided_N14_016",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00941",
@@ -13639,7 +13639,7 @@
       ],
       "pinyin": "tā jīn tiān chuān pí gé jiá kè 。",
       "source": "buivolas_guided_N14_017",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00942",
@@ -13663,7 +13663,7 @@
       ],
       "pinyin": "tā zuó tiān mǎi le yí gè pí gé bāo 。",
       "source": "buivolas_guided_N14_017",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00945",
@@ -13687,7 +13687,7 @@
       ],
       "pinyin": "tā zhǎo dào le yī kuài xiǎo de shí tou 。",
       "source": "buivolas_guided_N14_018",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00946",
@@ -13711,7 +13711,7 @@
       ],
       "pinyin": "tā bǎ shí tou rēng jìn hé lǐ 。",
       "source": "buivolas_guided_N14_018",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00947",
@@ -13739,7 +13739,7 @@
       ],
       "pinyin": "wǒ men yòng shí tou jiàn zào le yī dǔ qiáng 。",
       "source": "buivolas_guided_N14_018",
-      "minimum_level": 21
+      "minimum_level": 12
     },
     {
       "sentence_id": "S_00950",
@@ -13763,7 +13763,7 @@
       ],
       "pinyin": "tā men zǒu guò yī zuò dà lǐ shí jiàn zhù wù 。",
       "source": "buivolas_guided_N14_019",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00954",
@@ -13783,7 +13783,7 @@
       ],
       "pinyin": "tā zài fáng zi páng biān kàn dào le xīn xiān de hùn níng tǔ 。",
       "source": "buivolas_guided_N14_020",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00955",
@@ -13803,7 +13803,7 @@
       ],
       "pinyin": "wǒ men zuó tiān zǒu zài shī de hùn níng tǔ shàng 。",
       "source": "buivolas_guided_N14_020",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00957",
@@ -13827,7 +13827,7 @@
       ],
       "pinyin": "tā bān yùn yī kuài zhòng de zhuān kuài 。",
       "source": "buivolas_guided_N14_021",
-      "minimum_level": 21
+      "minimum_level": 14
     },
     {
       "sentence_id": "S_00958",
@@ -13851,7 +13851,7 @@
       ],
       "pinyin": "tā men yòng zhuān kuài jiàn zào yī dǔ qiáng 。",
       "source": "buivolas_guided_N14_021",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00959",
@@ -13875,7 +13875,7 @@
       ],
       "pinyin": "wǒ de péng yǒu diào xià le yī kuài zhuān 。",
       "source": "buivolas_guided_N14_021",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00960",
@@ -13899,7 +13899,7 @@
       ],
       "pinyin": "tā zài xué xiào fù jìn zhǎo dào yī kuài zhuān kuài 。",
       "source": "buivolas_guided_N14_021",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00964",
@@ -13923,7 +13923,7 @@
       ],
       "pinyin": "tā dǎ pò le táo cí pán zi 。",
       "source": "buivolas_guided_N14_022",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00966",
@@ -13947,7 +13947,7 @@
       ],
       "pinyin": "tā zài hé biān zhǎo dào le nián tǔ 。",
       "source": "buivolas_guided_N14_023",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00969",
@@ -13975,7 +13975,7 @@
       ],
       "pinyin": "hái zi men zài hǎi tān wán shā zi 。",
       "source": "buivolas_guided_N14_024",
-      "minimum_level": 21
+      "minimum_level": 18
     },
     {
       "sentence_id": "S_00973",
@@ -13995,7 +13995,7 @@
       ],
       "pinyin": "zhè kuài miàn bāo jīn tiān hěn hǎo chī 。",
       "source": "buivolas_guided_A05_015",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_00974",
@@ -14015,7 +14015,7 @@
       ],
       "pinyin": "tā shì yī wèi hǎo lǎo shī 。",
       "source": "buivolas_guided_A05_015",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_00975",
@@ -14026,7 +14026,7 @@
       "linked_words": [],
       "pinyin": "tā men wán dé hěn kāi xīn 。",
       "source": "buivolas_guided_A05_015",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_00976",
@@ -14046,7 +14046,7 @@
       ],
       "pinyin": "wǒ de gǒu hěn huì yǔ mò shēng rén xiāng chǔ 。",
       "source": "buivolas_guided_A05_015",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_00977",
@@ -14074,7 +14074,7 @@
       ],
       "pinyin": "niú nǎi jīn tiān wén qǐ lái hěn huài 。",
       "source": "buivolas_guided_A05_016",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_00979",
@@ -14102,7 +14102,7 @@
       ],
       "pinyin": "huài tiān qì bǎ wǒ men liú zài jiā lǐ 。",
       "source": "buivolas_guided_A05_016",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00981",
@@ -14122,7 +14122,7 @@
       ],
       "pinyin": "tā yǒu hěn yǒu lì de shēng yīn 。",
       "source": "buivolas_guided_A05_025",
-      "minimum_level": 21
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_00982",
@@ -14146,7 +14146,7 @@
       ],
       "pinyin": "fēng hěn dà 。",
       "source": "buivolas_guided_A05_025",
-      "minimum_level": 21
+      "minimum_level": 14
     },
     {
       "sentence_id": "S_00984",
@@ -14166,7 +14166,7 @@
       ],
       "pinyin": "tā men xùn liàn hòu hěn qiáng zhuàng 。",
       "source": "buivolas_guided_A05_025",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00991",
@@ -14190,7 +14190,7 @@
       ],
       "pinyin": "yīng ér dù guò le yí gè jiān nán de yè wǎn 。",
       "source": "buivolas_guided_A05_027",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_00994",
@@ -14214,7 +14214,7 @@
       ],
       "pinyin": "tā jīn tiān yǒu yí gè yǒu shàn de xiào róng 。",
       "source": "buivolas_guided_A05_029",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_00995",
@@ -14258,7 +14258,7 @@
       ],
       "pinyin": "lǎo shī jīn tiān hěn shàn liáng 。",
       "source": "buivolas_guided_A16_001",
-      "minimum_level": 21
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00999",
@@ -14278,7 +14278,7 @@
       ],
       "pinyin": "tā men duì gǒu hěn shàn liáng 。",
       "source": "buivolas_guided_A16_001",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01000",
@@ -14298,7 +14298,7 @@
       ],
       "pinyin": "tā lù chū shàn liáng de wēi xiào 。",
       "source": "buivolas_guided_A16_001",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01002",
@@ -14326,7 +14326,7 @@
       ],
       "pinyin": "wǒ de péng yǒu jué de nà zhǐ māo hěn kě xiào 。",
       "source": "buivolas_guided_A16_002",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01006",
@@ -14350,7 +14350,7 @@
       ],
       "pinyin": "tā gěi le yí gè yán sù de dá àn 。",
       "source": "buivolas_guided_A16_003",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01008",
@@ -14370,7 +14370,7 @@
       ],
       "pinyin": "tā men duì zhè tiáo guī zé hěn rèn zhēn 。",
       "source": "buivolas_guided_A16_003",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_01009",
@@ -14418,7 +14418,7 @@
       ],
       "pinyin": "hái zi jīn tiān jué de hài xiū 。",
       "source": "buivolas_guided_A16_004",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_01011",
@@ -14466,7 +14466,7 @@
       ],
       "pinyin": "wǒ mèi mèi xiàn zài kàn qǐ lái hěn hài xiū 。",
       "source": "buivolas_guided_A16_004",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_01016",
@@ -14494,7 +14494,7 @@
       ],
       "pinyin": "tā men zuó tiān bǎ jì huà jiào yú chǔn le 。",
       "source": "buivolas_guided_A16_006",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_01018",
@@ -14518,7 +14518,7 @@
       ],
       "pinyin": "wǒ de māo wǔ fàn hòu hěn lǎn duò 。",
       "source": "buivolas_guided_A16_007",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01020",
@@ -14542,7 +14542,7 @@
       ],
       "pinyin": "tā jīn tiān zǎo shàng gǎn jué hěn lǎn duò 。",
       "source": "buivolas_guided_A16_007",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_01023",
@@ -14566,7 +14566,7 @@
       ],
       "pinyin": "hái zi zài xué xiào hěn yǒng gǎn 。",
       "source": "buivolas_guided_A16_009",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01025",
@@ -14586,7 +14586,7 @@
       ],
       "pinyin": "duì nǐ de péng yǒu yào chéng shí 。",
       "source": "buivolas_guided_A16_011",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01026",
@@ -14606,7 +14606,7 @@
       ],
       "pinyin": "tā duì qián hěn chéng shí 。",
       "source": "buivolas_guided_A16_011",
-      "minimum_level": 21
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_01027",
@@ -14630,7 +14630,7 @@
       ],
       "pinyin": "tā men gěi le yí gè chéng shí de dá àn 。",
       "source": "buivolas_guided_A16_011",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01028",
@@ -14654,7 +14654,7 @@
       ],
       "pinyin": "wǒ zǒng shì cháng shì chéng shí 。",
       "source": "buivolas_guided_A16_011",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01036",
@@ -14674,7 +14674,7 @@
       ],
       "pinyin": "tā pá dào shù shǎng qù le 。",
       "source": "buivolas_guided_A18_001",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01037",
@@ -14698,7 +14698,7 @@
       ],
       "pinyin": "tài yáng jīn tiān hěn dī 。",
       "source": "buivolas_guided_A18_002",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01038",
@@ -14722,7 +14722,7 @@
       ],
       "pinyin": "tā de shēng yīn xiàn zài hěn dī 。",
       "source": "buivolas_guided_A18_002",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01039",
@@ -14750,7 +14750,7 @@
       ],
       "pinyin": "nà gè nán rén bǎ tā de yǐ zi fàng dé hěn dī 。",
       "source": "buivolas_guided_A18_002",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_01041",
@@ -14774,7 +14774,7 @@
       ],
       "pinyin": "tā de tóu fà jīn tiān hěn zhǎng 。",
       "source": "buivolas_guided_A18_003",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_01042",
@@ -14798,7 +14798,7 @@
       ],
       "pinyin": "tā zǒu le yī tiáo zhǎng de dào lù 。",
       "source": "buivolas_guided_A18_003",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01043",
@@ -14826,7 +14826,7 @@
       ],
       "pinyin": "tā men xiàn zài yǒu yí gè zhǎng huì yì 。",
       "source": "buivolas_guided_A18_003",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01044",
@@ -14850,7 +14850,7 @@
       ],
       "pinyin": "wǒ xiǎng yào yí gè zhǎng de sān míng zhì 。",
       "source": "buivolas_guided_A18_003",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01045",
@@ -14870,7 +14870,7 @@
       ],
       "pinyin": "wǒ de chèn shān jīn tiān tài duǎn le 。",
       "source": "buivolas_guided_A18_004",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01046",
@@ -14914,7 +14914,7 @@
       ],
       "pinyin": "tā zhè zhōu de tóu fà hěn duǎn 。",
       "source": "buivolas_guided_A18_004",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01049",
@@ -14938,7 +14938,7 @@
       ],
       "pinyin": "dào lù jīn tiān hěn kuān 。",
       "source": "buivolas_guided_A18_005",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01050",
@@ -14958,7 +14958,7 @@
       ],
       "pinyin": "tā zhēng dà le yǎn jīng 。",
       "source": "buivolas_guided_A18_005",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_01051",
@@ -14982,7 +14982,7 @@
       ],
       "pinyin": "tā men kàn jiàn le yī tiáo kuān de hé liú 。",
       "source": "buivolas_guided_A18_005",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01052",
@@ -15006,7 +15006,7 @@
       ],
       "pinyin": "tā zhǎo dào le yī dǐng kuān de mào zi 。",
       "source": "buivolas_guided_A18_005",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_01053",
@@ -15026,7 +15026,7 @@
       ],
       "pinyin": "hú jīn tiān hěn shēn 。",
       "source": "buivolas_guided_A18_006",
-      "minimum_level": 21
+      "minimum_level": 18
     },
     {
       "sentence_id": "S_01056",
@@ -15050,7 +15050,7 @@
       ],
       "pinyin": "tā tīng jiàn yí gè dī chén de shēng yīn 。",
       "source": "buivolas_guided_A18_006",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01057",
@@ -15074,7 +15074,7 @@
       ],
       "pinyin": "tā jīn tiān yǒu yí gè piào liàng de xiào róng 。",
       "source": "buivolas_guided_A18_007",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01058",
@@ -15102,7 +15102,7 @@
       ],
       "pinyin": "tā men zài shù zhōng kàn jiàn le yī zhī piào liàng de niǎo 。",
       "source": "buivolas_guided_A18_007",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_01060",
@@ -15126,7 +15126,7 @@
       ],
       "pinyin": "huā yuán jīn zǎo kàn qǐ lái hěn piào liàng 。",
       "source": "buivolas_guided_A18_007",
-      "minimum_level": 21
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_01062",
@@ -15150,7 +15150,7 @@
       ],
       "pinyin": "shuǐ jīn tiān hěn lěng 。",
       "source": "buivolas_guided_A18_008",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_01063",
@@ -15174,7 +15174,7 @@
       ],
       "pinyin": "wǒ jīn tiān zǎo shàng hē le niú nǎi 。",
       "source": "buivolas_guided_A18_008",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_01064",
@@ -15202,7 +15202,7 @@
       ],
       "pinyin": "tā men hěn kuài dì guān shàng le lěng de mén 。",
       "source": "buivolas_guided_A18_008",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_01065",
@@ -15226,7 +15226,7 @@
       ],
       "pinyin": "tāng xiàn zài hěn rè 。",
       "source": "buivolas_guided_A18_009",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01066",
@@ -15250,7 +15250,7 @@
       ],
       "pinyin": "tā ná zhù yī bēi rè de 。",
       "source": "buivolas_guided_A18_009",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01068",
@@ -15274,7 +15274,7 @@
       ],
       "pinyin": "nǐ xǐ huān rè miàn bāo ma ？",
       "source": "buivolas_guided_A18_009",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_01070",
@@ -15298,7 +15298,7 @@
       ],
       "pinyin": "tā zài yīn àn de tiān qì lǐ zǒu lù 。",
       "source": "buivolas_guided_A18_010",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01072",
@@ -15326,7 +15326,7 @@
       ],
       "pinyin": "wǒ men jīn tiān kàn jiàn le hēi àn de yún 。",
       "source": "buivolas_guided_A18_010",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01073",
@@ -15350,7 +15350,7 @@
       ],
       "pinyin": "wǒ de chèn shān bèi yǔ lín shī le 。",
       "source": "buivolas_guided_A18_011",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01074",
@@ -15374,7 +15374,7 @@
       ],
       "pinyin": "tā ná zhù yī tiáo shī de máo jīn 。",
       "source": "buivolas_guided_A18_011",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01075",
@@ -15398,7 +15398,7 @@
       ],
       "pinyin": "gǒu yòu shī yòu kuài lè 。",
       "source": "buivolas_guided_A18_011",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_01076",
@@ -15422,7 +15422,7 @@
       ],
       "pinyin": "wǒ men dài zài lǐ miàn ， yīn wèi tā hěn shī 。",
       "source": "buivolas_guided_A18_011",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_01077",
@@ -15446,7 +15446,7 @@
       ],
       "pinyin": "wǒ de chèn shān xiàn zài gàn le 。",
       "source": "buivolas_guided_A18_012",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01078",
@@ -15474,7 +15474,7 @@
       ],
       "pinyin": "tā bǎ gàn de máo jīn fàng xià 。",
       "source": "buivolas_guided_A18_012",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01079",
@@ -15498,7 +15498,7 @@
       ],
       "pinyin": "miàn bāo jīn tiān hěn gàn 。",
       "source": "buivolas_guided_A18_012",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_01082",
@@ -15522,7 +15522,7 @@
       ],
       "pinyin": "tā men chī le zuì hòu de miàn bāo 。",
       "source": "buivolas_guided_A15_011",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_01084",
@@ -15566,7 +15566,7 @@
       ],
       "pinyin": "tā yíng le zuì hòu de bǐ sài 。",
       "source": "buivolas_guided_A15_012",
-      "minimum_level": 21
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_01088",
@@ -15590,7 +15590,7 @@
       ],
       "pinyin": "tā men zuó tiān yuè dú le zuì hòu de zhāng jié 。",
       "source": "buivolas_guided_A15_012",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_01089",
@@ -15606,7 +15606,7 @@
       ],
       "pinyin": "wǒ měi tiān shàng wǎng 。",
       "source": "buivolas_guided_N52_001",
-      "minimum_level": 21
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_01091",
@@ -15646,7 +15646,7 @@
       ],
       "pinyin": "wǒ men zài wǎng shàng gōng zuò ， yīn wèi yǒu hù lián wǎng 。",
       "source": "buivolas_guided_N52_001",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01093",
@@ -15666,7 +15666,7 @@
       ],
       "pinyin": "wǒ měi tiān zǎo chén chá kàn wǒ de diàn zi yóu jiàn 。",
       "source": "buivolas_guided_N52_002",
-      "minimum_level": 21
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_01095",
@@ -15702,7 +15702,7 @@
       ],
       "pinyin": "nǐ kàn le tā de diàn zi yóu jiàn ma ？",
       "source": "buivolas_guided_N52_002",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01097",
@@ -15730,7 +15730,7 @@
       ],
       "pinyin": "wǒ jīn tiān zhǎo dào yí gè xīn wǎng zhàn 。",
       "source": "buivolas_guided_N52_003",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01100",
@@ -15754,7 +15754,7 @@
       ],
       "pinyin": "wǒ men yì qǐ dǎ kāi le wǎng zhàn 。",
       "source": "buivolas_guided_N52_003",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01103",
@@ -15778,7 +15778,7 @@
       ],
       "pinyin": "tā men zài shè qún méi tǐ shàng zhǎo dào xīn wén 。",
       "source": "buivolas_guided_N52_004",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01108",
@@ -15806,7 +15806,7 @@
       ],
       "pinyin": "wǒ de péng yǒu zài xué xiào xué xí chéng shì shè jì 。",
       "source": "buivolas_guided_N52_005",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01114",
@@ -15834,7 +15834,7 @@
       ],
       "pinyin": "tā men zuó tiān jiàn zào le yí gè xiǎo de wǎng lù 。",
       "source": "buivolas_guided_N52_007",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01117",
@@ -15854,7 +15854,7 @@
       ],
       "pinyin": "wǒ xiàn zài wán diàn wán yóu xì 。",
       "source": "buivolas_guided_N52_009",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01118",
@@ -15874,7 +15874,7 @@
       ],
       "pinyin": "tā mǎi le yí gè xīn diàn wán yóu xì 。",
       "source": "buivolas_guided_N52_009",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01119",
@@ -15894,7 +15894,7 @@
       ],
       "pinyin": "tā men guān kàn diàn wán yóu xì zhí bō 。",
       "source": "buivolas_guided_N52_009",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_01120",
@@ -15914,7 +15914,7 @@
       ],
       "pinyin": "wǒ men zuó tiān wán le diàn wán yóu xì 。",
       "source": "buivolas_guided_N52_009",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01121",
@@ -15942,7 +15942,7 @@
       ],
       "pinyin": "tā jīn tiān dài yī kuài hēi sè de shǒu biǎo 。",
       "source": "buivolas_guided_N08_008",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_01123",
@@ -15970,7 +15970,7 @@
       ],
       "pinyin": "tā men xiǎng yào mǎi yī kuài xīn de shǒu biǎo 。",
       "source": "buivolas_guided_N08_008",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01125",
@@ -15994,7 +15994,7 @@
       ],
       "pinyin": "tā xiǎo xīn dì dǎ kāi le hé zi 。",
       "source": "buivolas_guided_N08_013",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01126",
@@ -16018,7 +16018,7 @@
       ],
       "pinyin": "wǒ men bǎ pán zi fàng jìn hé zi lǐ 。",
       "source": "buivolas_guided_N08_013",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_01127",
@@ -16042,7 +16042,7 @@
       ],
       "pinyin": "tā bǎ chén zhòng de hé zi bān dào wài miàn 。",
       "source": "buivolas_guided_N08_013",
-      "minimum_level": 21
+      "minimum_level": 14
     },
     {
       "sentence_id": "S_01129",
@@ -16090,7 +16090,7 @@
       ],
       "pinyin": "tā zài mén biān zhǎo dào le zhǐ 。",
       "source": "buivolas_guided_N08_014",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_01133",
@@ -16110,7 +16110,7 @@
       ],
       "pinyin": "wǒ yǒu yī bǎ fēng lì de dāo zi 。",
       "source": "buivolas_guided_N08_021",
-      "minimum_level": 21
+      "minimum_level": 14
     },
     {
       "sentence_id": "S_01134",
@@ -16134,7 +16134,7 @@
       ],
       "pinyin": "tā yòng dāo zi qiè le miàn bāo 。",
       "source": "buivolas_guided_N08_021",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01136",
@@ -16158,7 +16158,7 @@
       ],
       "pinyin": "tā bǎ dāo zi cáng zài mù tou xià miàn 。",
       "source": "buivolas_guided_N08_021",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01137",
@@ -16182,7 +16182,7 @@
       ],
       "pinyin": "wǒ yǒu yī zhī hēi sè de bǐ 。",
       "source": "buivolas_guided_N08_019",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_01138",
@@ -16206,7 +16206,7 @@
       ],
       "pinyin": "tā zuó tiān ná zǒu le wǒ de bǐ 。",
       "source": "buivolas_guided_N08_019",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_01140",
@@ -16234,7 +16234,7 @@
       ],
       "pinyin": "tā zài shū zhuō shàng zhǎo dào le èr zhī bǐ 。",
       "source": "buivolas_guided_N08_019",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01141",
@@ -16258,7 +16258,7 @@
       ],
       "pinyin": "tā zài zhuō zi shàng zhǎo dào le qiān bǐ 。",
       "source": "buivolas_guided_N08_020",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01143",
@@ -16282,7 +16282,7 @@
       ],
       "pinyin": "wǒ men zuó tiān mǎi le é wài de qiān bǐ 。",
       "source": "buivolas_guided_N08_020",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_01145",
@@ -16306,7 +16306,7 @@
       ],
       "pinyin": "tā měi tiān zǎo chén shǐ yòng shū zi 。",
       "source": "buivolas_guided_N08_022",
-      "minimum_level": 21
+      "minimum_level": 12
     },
     {
       "sentence_id": "S_01146",
@@ -16330,7 +16330,7 @@
       ],
       "pinyin": "tā zài dì bǎn shàng zhǎo dào le yí gè shū zi 。",
       "source": "buivolas_guided_N08_022",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01149",
@@ -16350,7 +16350,7 @@
       ],
       "pinyin": "wǒ yǒu yī bǎ xīn de yá shuā 。",
       "source": "buivolas_guided_N08_023",
-      "minimum_level": 21
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_01151",
@@ -16374,7 +16374,7 @@
       ],
       "pinyin": "wǒ men měi gè yuè dōu mǎi yá shuā 。",
       "source": "buivolas_guided_N08_023",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01152",
@@ -16394,7 +16394,7 @@
       ],
       "pinyin": "tā zhǎo dào le yá shuā ma ？",
       "source": "buivolas_guided_N08_023",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01154",
@@ -16414,7 +16414,7 @@
       ],
       "pinyin": "wǒ zhǎo dào le xì shéng zi 。",
       "source": "buivolas_guided_N08_024",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01156",
@@ -16438,7 +16438,7 @@
       ],
       "pinyin": "tā qiē duàn le xì shéng zi bìng wēi xiào 。",
       "source": "buivolas_guided_N08_024",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_01158",
@@ -16466,7 +16466,7 @@
       ],
       "pinyin": "wǒ men wèi wǎn cān mǎi le sān zhī là zhú 。",
       "source": "buivolas_guided_N08_025",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01160",
@@ -16490,7 +16490,7 @@
       ],
       "pinyin": "tā men bǎ yī gēn là zhú fàng zài dàn gāo shàng 。",
       "source": "buivolas_guided_N08_025",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01162",
@@ -16514,7 +16514,7 @@
       ],
       "pinyin": "tā zuó tiān mǎi le yí gè xīn guō chǎn 。",
       "source": "buivolas_guided_N08_026",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_01168",
@@ -16534,7 +16534,7 @@
       ],
       "pinyin": "tā jì de qù nián de yàn huì 。",
       "source": "buivolas_guided_N06_085",
-      "minimum_level": 21
+      "minimum_level": 12
     },
     {
       "sentence_id": "S_01169",
@@ -16558,7 +16558,7 @@
       ],
       "pinyin": "tā qī diǎn chī zǎo fàn 。",
       "source": "buivolas_guided_N06_086",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_01172",
@@ -16582,7 +16582,7 @@
       ],
       "pinyin": "wǒ men zài jiā chī zǎo cān 。",
       "source": "buivolas_guided_N06_086",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_01175",
@@ -16606,7 +16606,7 @@
       ],
       "pinyin": "wǒ men hé péng yǒu chī le wǔ cān 。",
       "source": "buivolas_guided_N06_087",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_01176",
@@ -16630,7 +16630,7 @@
       ],
       "pinyin": "tā men xiǎng yào wǔ cān xiàn zài 。",
       "source": "buivolas_guided_N06_087",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01177",
@@ -16650,7 +16650,7 @@
       ],
       "pinyin": "wǒ men xiàn zài chī wǎn cān 。",
       "source": "buivolas_guided_N06_088",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01179",
@@ -16674,7 +16674,7 @@
       ],
       "pinyin": "tā men qī diǎn chī le wǎn cān 。",
       "source": "buivolas_guided_N06_088",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_01180",
@@ -16694,7 +16694,7 @@
       ],
       "pinyin": "nǐ xiàn zài xiǎng chī wǎn cān ma ？",
       "source": "buivolas_guided_N06_088",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01183",
@@ -16718,7 +16718,7 @@
       ],
       "pinyin": "tā men zài huā yuán fù jìn kàn jiàn le yī zhī tù zi 。",
       "source": "buivolas_guided_N02_011",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_01184",
@@ -16742,7 +16742,7 @@
       ],
       "pinyin": "tā ná zhù tù zi xiǎo xīn dì 。",
       "source": "buivolas_guided_N02_011",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_01185",
@@ -16762,7 +16762,7 @@
       ],
       "pinyin": "wǒ men jīn tiān kàn jiàn le yī zhī jīng yú 。",
       "source": "buivolas_guided_N02_012",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01190",
@@ -16786,7 +16786,7 @@
       ],
       "pinyin": "lǎo hǔ zài shù páng shuì jiào 。",
       "source": "buivolas_guided_N02_013",
-      "minimum_level": 21
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_01192",
@@ -16810,7 +16810,7 @@
       ],
       "pinyin": "tā men zài yuǎn chù tīng jiàn le yī zhī lǎo hǔ 。",
       "source": "buivolas_guided_N02_013",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01193",
@@ -16834,7 +16834,7 @@
       ],
       "pinyin": "wǒ zài xué xiào fù jìn kàn jiàn le yī tiáo shé 。",
       "source": "buivolas_guided_N02_014",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_01194",
@@ -16882,7 +16882,7 @@
       ],
       "pinyin": "wǒ men zài bù dào shàng kàn jiàn le liǎng tiáo shé 。",
       "source": "buivolas_guided_N02_014",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01200",
@@ -16906,7 +16906,7 @@
       ],
       "pinyin": "dà xiàng zài wǒ men fáng zi fù jìn zǒu guò 。",
       "source": "buivolas_guided_N02_015",
-      "minimum_level": 21
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_01201",
@@ -16930,7 +16930,7 @@
       ],
       "pinyin": "wǒ zài àn biān kàn jiàn le yī tiáo shā yú 。",
       "source": "buivolas_guided_N02_016",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01202",
@@ -16954,7 +16954,7 @@
       ],
       "pinyin": "nán hái hài pà shā yú 。",
       "source": "buivolas_guided_N02_016",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01205",
@@ -16974,7 +16974,7 @@
       ],
       "pinyin": "wǒ de yìn biǎo jī méi zhǐ le 。",
       "source": "buivolas_guided_N42_008",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01207",
@@ -16994,7 +16994,7 @@
       ],
       "pinyin": "wǒ men zuó tiān mǎi le yī tái xīn yìn biǎo jī 。",
       "source": "buivolas_guided_N42_008",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01209",
@@ -17014,7 +17014,7 @@
       ],
       "pinyin": "tā yǒu yī tái xīn de xiàng jī 。",
       "source": "buivolas_guided_N42_009",
-      "minimum_level": 21
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_01210",
@@ -17038,7 +17038,7 @@
       ],
       "pinyin": "tā men mǎi le liǎng tái xiàng jī 。",
       "source": "buivolas_guided_N42_009",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_01213",
@@ -17058,7 +17058,7 @@
       ],
       "pinyin": "tā měi wǎn kàn diàn shì 。",
       "source": "buivolas_guided_N42_010",
-      "minimum_level": 21
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_01214",
@@ -17086,7 +17086,7 @@
       ],
       "pinyin": "tā zuó tiān mǎi le yī tái xīn de diàn shì 。",
       "source": "buivolas_guided_N42_010",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01215",
@@ -17110,7 +17110,7 @@
       ],
       "pinyin": "wǒ men bǎ diàn shì fàng zài kè tīng 。",
       "source": "buivolas_guided_N42_010",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01217",
@@ -17130,7 +17130,7 @@
       ],
       "pinyin": "tā xiàn zài zài tīng shōu yīn jī 。",
       "source": "buivolas_guided_N42_011",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_01219",
@@ -17154,7 +17154,7 @@
       ],
       "pinyin": "tā jīn tiān mǎi le yí gè xiǎo shōu yīn jī 。",
       "source": "buivolas_guided_N42_011",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_01220",
@@ -17178,7 +17178,7 @@
       ],
       "pinyin": "wǒ men zài shōu yīn jī shàng tīng jiàn yīn yuè 。",
       "source": "buivolas_guided_N42_011",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01221",
@@ -17198,7 +17198,7 @@
       ],
       "pinyin": "lǎ bā zài zhuō zi shàng 。",
       "source": "buivolas_guided_N42_012",
-      "minimum_level": 21
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_01222",
@@ -17218,7 +17218,7 @@
       ],
       "pinyin": "tā zuó tiān mǎi le yí gè xīn de lǎ bā 。",
       "source": "buivolas_guided_N42_012",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01223",
@@ -17242,7 +17242,7 @@
       ],
       "pinyin": "wǒ men tīng jiàn lǎ bā lǐ de yīn yuè 。",
       "source": "buivolas_guided_N42_012",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01224",
@@ -17266,7 +17266,7 @@
       ],
       "pinyin": "tā bǎ lǎ bā yí dào mén fù jìn 。",
       "source": "buivolas_guided_N42_012",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01225",
@@ -17286,7 +17286,7 @@
       ],
       "pinyin": "wǒ sàn bù de shí hòu dài ěr jī 。",
       "source": "buivolas_guided_N42_013",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01226",
@@ -17310,7 +17310,7 @@
       ],
       "pinyin": "tā zuó tiān mǎi le xīn de ěr jī 。",
       "source": "buivolas_guided_N42_013",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01227",
@@ -17330,7 +17330,7 @@
       ],
       "pinyin": "tā men dài zhe tā men de ěr jī 。",
       "source": "buivolas_guided_N42_013",
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_01228",
@@ -17354,7 +17354,7 @@
       ],
       "pinyin": "tā zài xué xiào diū le ěr jī 。",
       "source": "buivolas_guided_N42_013",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01230",
@@ -17378,7 +17378,7 @@
       ],
       "pinyin": "tā zuó tiān mǎi le yí gè xīn de chōng diàn qì 。",
       "source": "buivolas_guided_N42_014",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01231",
@@ -17402,7 +17402,7 @@
       ],
       "pinyin": "tā men zài yǐ zi xià zhǎo dào le chōng diàn qì 。",
       "source": "buivolas_guided_N42_014",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01232",
@@ -17422,7 +17422,7 @@
       ],
       "pinyin": "nǐ yǒu chē zài chōng diàn qì ma ？",
       "source": "buivolas_guided_N42_014",
-      "minimum_level": 21
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01234",
@@ -17450,7 +17450,7 @@
       ],
       "pinyin": "tā bǎ xīn xiān de diàn chí fàng jìn wán jù lǐ 。",
       "source": "buivolas_guided_N42_015",
-      "minimum_level": 21
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_01238",
@@ -17478,7 +17478,7 @@
       ],
       "pinyin": "wǒ zuó tiān mǎi le yí gè xiǎo de jì suàn jī 。",
       "source": "buivolas_guided_N42_016",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_01241",
@@ -17502,7 +17502,7 @@
       ],
       "pinyin": "tā zuó tiān mǎi le shè yǐng jī 。",
       "source": "buivolas_guided_N42_018",
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_01242",
@@ -17526,7 +17526,7 @@
       ],
       "pinyin": "wǒ men yǒu yī tái xiǎo de shè yǐng jī 。",
       "source": "buivolas_guided_N42_018",
-      "minimum_level": 21
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_01243",
@@ -17550,7 +17550,7 @@
       ],
       "pinyin": "tā bǎ shè yǐng jī fàng xià 。",
       "source": "buivolas_guided_N42_018",
-      "minimum_level": 21
+      "minimum_level": 9
     }
   ]
 }

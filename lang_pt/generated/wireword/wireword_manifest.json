@@ -2,7 +2,7 @@
   "version": 1,
   "language": "portuguese",
   "language_code": "pt",
-  "generated_at": "2026-01-28T00:19:43Z",
+  "generated_at": "2026-01-28T00:56:31Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [],
@@ -16,7 +16,7 @@
       "description": "Words (nouns, adjectives, etc.)",
       "type": "words",
       "md5": "c3d0386d69e74a7023190d995bc6a7bf",
-      "timestamp": "2026-01-28T00:19:43Z",
+      "timestamp": "2026-01-28T00:56:31Z",
       "required": true,
       "word_count": 900,
       "levels": [
@@ -105,7 +105,7 @@
       "description": "Verbs with conjugations",
       "type": "words",
       "md5": "d29fe7be32dae4f93c222a171b67ee56",
-      "timestamp": "2026-01-28T00:19:43Z",
+      "timestamp": "2026-01-28T00:56:31Z",
       "required": true,
       "word_count": 181,
       "levels": [
@@ -137,7 +137,7 @@
       "description": "Sentences for context-based learning",
       "type": "sentences",
       "md5": "1011e0c05ab5a41d6d7ac8183e3af1ec",
-      "timestamp": "2026-01-28T00:19:43Z",
+      "timestamp": "2026-01-28T00:56:31Z",
       "required": false
     }
   ],

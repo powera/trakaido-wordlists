@@ -7,6 +7,7 @@
     "group": "Physical Action",
     "level": 3,
     "word_type": "verb",
+    "audio": {"meiling": "fe99d94ad195cbe91778b437e297907a", "zhiyuan": "9cf1a156d0043467e0e82e46f2c6c3ba"},
     "target_pinyin": "chī",
     "tags": ["physical_action", "level_3"]
   },
@@ -18,6 +19,7 @@
     "group": "Physical Action",
     "level": 3,
     "word_type": "verb",
+    "audio": {"meiling": "f293f9ab5a3fdaf8b56e7b33d0bc8d15", "zhiyuan": "e9eedfd960d9caa49d44a720a6af68db"},
     "target_pinyin": "hē",
     "tags": ["physical_action", "level_3"]
   },
@@ -29,6 +31,7 @@
     "group": "Physical Action",
     "level": 3,
     "word_type": "verb",
+    "audio": {"meiling": "32011c2b910980e1d35e8a58eea3bc97", "zhiyuan": "024b997a8e18fa16dd0ecabaf3eb7ea8"},
     "target_pinyin": "shuì jiào",
     "tags": ["physical_action", "level_3"]
   },
@@ -73,6 +76,7 @@
     "group": "Physical Action",
     "level": 3,
     "word_type": "verb",
+    "audio": {"meiling": "f0ba6e80db9de66c8dfd0cc503ed4c9d", "zhiyuan": "7f035184631cb234fbd9905aa52b2a16"},
     "target_pinyin": "gōng zuò",
     "tags": ["physical_action", "level_3"]
   },
@@ -95,6 +99,7 @@
     "group": "Physical Action",
     "level": 3,
     "word_type": "verb",
+    "audio": {"meiling": "4849057a04a39c6f3ad61295f13727f9", "zhiyuan": "4731140f22abd3519493be34322177be"},
     "target_pinyin": "zhǎo dào",
     "tags": ["physical_action", "level_3"]
   },
@@ -150,6 +155,7 @@
     "group": "Physical Action",
     "level": 3,
     "word_type": "verb",
+    "audio": {"meiling": "91ee79f44d7071ed196467a2f9e5fc40", "zhiyuan": "8c62389c719cbba27d3a15a028d890e2"},
     "target_pinyin": "dǎ kāi",
     "tags": ["physical_action", "level_3"]
   },
@@ -161,6 +167,7 @@
     "group": "Physical Action",
     "level": 3,
     "word_type": "verb",
+    "audio": {"meiling": "2e7e27a8118d30f252c0994d0fd298a2", "zhiyuan": "05e29bf858239712b4e3fb43fc42e390"},
     "target_pinyin": "guān bì",
     "tags": ["physical_action", "level_3"]
   },
@@ -337,6 +344,7 @@
     "group": "Physical Action",
     "level": 3,
     "word_type": "verb",
+    "audio": {"meiling": "220864110f74ce988b5c096b12576dc9", "zhiyuan": "4fbfe9e423eddf7c19d3872d6db42687"},
     "target_pinyin": "chuān",
     "tags": ["physical_action", "level_3"]
   },
@@ -348,6 +356,7 @@
     "group": "Physical Action",
     "level": 3,
     "word_type": "verb",
+    "audio": {"meiling": "ff064f3c53db746c06fc1203cdecc6d0", "zhiyuan": "ccaf689225d71af455b24ae935d7b845"},
     "target_pinyin": "zuò",
     "tags": ["physical_action", "level_3"]
   },
@@ -359,6 +368,7 @@
     "group": "Physical Action",
     "level": 3,
     "word_type": "verb",
+    "audio": {"meiling": "eae047f47dfcc7c616fbb67aa326ac02", "zhiyuan": "332658754d48be9c9c6409e94e15b310"},
     "target_pinyin": "zhàn",
     "tags": ["physical_action", "level_3"]
   },
@@ -1239,6 +1249,7 @@
     "group": "Possession",
     "level": 3,
     "word_type": "verb",
+    "audio": {"meiling": "b317f0864bc2215a9acd97524ff8a918", "zhiyuan": "0cde75fe2a1050f150c85afef6f57578"},
     "target_pinyin": "shì",
     "tags": ["possession", "level_3"]
   },
@@ -1272,6 +1283,7 @@
     "group": "Possession",
     "level": 3,
     "word_type": "verb",
+    "audio": {"meiling": "65083d6952a048c2086731bf686789b5", "zhiyuan": "9cc86e5e3bcaef049b6d2a17b70a8cfe"},
     "target_pinyin": "mǎi",
     "tags": ["possession", "level_3"]
   },
@@ -1426,6 +1438,7 @@
     "group": "Communication",
     "level": 3,
     "word_type": "verb",
+    "audio": {"meiling": "9230a35873d20c4e0e0fef950a95e459", "zhiyuan": "c6223dc15c884b94bc2553f0148d531e"},
     "target_pinyin": "shuō",
     "tags": ["communication", "level_3"]
   },
@@ -1580,6 +1593,7 @@
     "group": "Perception",
     "level": 3,
     "word_type": "verb",
+    "audio": {"meiling": "d7c09edaae19c836b644d7cbabd11424", "zhiyuan": "cc8a2e56f803297881392b694cc4dcf3"},
     "target_pinyin": "kàn jiàn",
     "tags": ["perception", "level_3"]
   },
@@ -1591,6 +1605,7 @@
     "group": "Perception",
     "level": 3,
     "word_type": "verb",
+    "audio": {"meiling": "120c999b9ca3d06e168e5acf29742bdf", "zhiyuan": "9358426c86f155ab72b4b58ff5772048"},
     "target_pinyin": "tīng jiàn",
     "tags": ["perception", "level_3"]
   },
@@ -1734,6 +1749,7 @@
     "group": "Directional Movement",
     "level": 3,
     "word_type": "verb",
+    "audio": {"meiling": "72c10852a0eef53e8fb1be3c80f8c4a2", "zhiyuan": "59fa0e6c9201b9bfc150fbd3b105b072"},
     "target_pinyin": "zǒu lù",
     "tags": ["directional_movement", "level_3"]
   },
@@ -1756,6 +1772,7 @@
     "group": "Directional Movement",
     "level": 3,
     "word_type": "verb",
+    "audio": {"meiling": "d746ec4e38a8ba09971adbd4421856e3", "zhiyuan": "ebd200718a00e6f3fea3afe9e820cf87"},
     "target_pinyin": "pǎo",
     "tags": ["directional_movement", "level_3"]
   },
