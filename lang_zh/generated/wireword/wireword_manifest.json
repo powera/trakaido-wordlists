@@ -2,7 +2,7 @@
   "version": 1,
   "language": "chinese",
   "language_code": "zh",
-  "generated_at": "2026-01-28T00:56:30Z",
+  "generated_at": "2026-02-04T17:37:54Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -18,10 +18,10 @@
       "display_name": "Nouns",
       "description": "Words (nouns, adjectives, etc.)",
       "type": "words",
-      "md5": "00cf2ede83ee88b6f2eee15472d8dd17",
-      "timestamp": "2026-01-28T00:56:30Z",
+      "md5": "c82dc1ebff68b21f1fec6d5d1513d71a",
+      "timestamp": "2026-02-04T17:37:54Z",
       "required": true,
-      "word_count": 900,
+      "word_count": 889,
       "levels": [
         1,
         2,
@@ -108,7 +108,7 @@
       "description": "Verbs with conjugations",
       "type": "words",
       "md5": "35a323d2f755bdb9d93b685ee0bdc29d",
-      "timestamp": "2026-01-28T00:56:30Z",
+      "timestamp": "2026-02-04T17:37:54Z",
       "required": true,
       "word_count": 181,
       "levels": [
@@ -139,8 +139,8 @@
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "167ce37208aa1e4f2bed589dc0d5b065",
-      "timestamp": "2026-01-28T00:56:30Z",
+      "md5": "50c419ac474a93b501c96dfea2dc4c3e",
+      "timestamp": "2026-02-04T17:37:54Z",
       "required": false
     }
   ],

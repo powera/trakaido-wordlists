@@ -1,0 +1,166 @@
+{
+  "categories": [
+    {
+      "id": "family-relation",
+      "label": "Family Relations",
+      "groups": ["Family Relation"],
+      "avoidDecoys": ["human", "occupation"]
+    },
+    {
+      "id": "occupation",
+      "label": "Occupations",
+      "groups": ["Occupation"],
+      "avoidDecoys": ["human", "family-relation"]
+    },
+    {
+      "id": "animal",
+      "label": "Animals",
+      "groups": ["Animals"],
+      "avoidDecoys": []
+    },
+    {
+      "id": "body-part",
+      "label": "Body Parts",
+      "groups": ["Body Part"],
+      "avoidDecoys": []
+    },
+    {
+      "id": "disease-condition",
+      "label": "Diseases & Conditions",
+      "groups": ["Disease/Condition"],
+      "avoidDecoys": []
+    },
+    {
+      "id": "plant",
+      "label": "Plants",
+      "groups": ["Plants"],
+      "avoidDecoys": []
+    },
+    {
+      "id": "food",
+      "label": "Food",
+      "groups": ["Food"],
+      "avoidDecoys": ["beverage"]
+    },
+    {
+      "id": "beverage",
+      "label": "Beverages",
+      "groups": ["Beverage"],
+      "avoidDecoys": ["food"]
+    },
+    {
+      "id": "building-structure",
+      "label": "Buildings & Structures",
+      "groups": ["Building/Structure"],
+      "avoidDecoys": ["furniture"]
+    },
+    {
+      "id": "furniture",
+      "label": "Furniture",
+      "groups": ["Furniture"],
+      "avoidDecoys": ["building-structure"]
+    },
+    {
+      "id": "clothing-accessory",
+      "label": "Clothing & Accessories",
+      "groups": ["Clothing/Accessory"],
+      "avoidDecoys": []
+    },
+    {
+      "id": "natural-feature",
+      "label": "Natural Features",
+      "groups": ["Natural Feature"],
+      "avoidDecoys": []
+    },
+    {
+      "id": "tool",
+      "label": "Tools",
+      "groups": ["Tool"],
+      "avoidDecoys": ["vehicle", "weapon", "electronic-device", "appliance"]
+    },
+    {
+      "id": "electronic-device",
+      "label": "Electronic Devices",
+      "groups": ["Electronic Device"],
+      "avoidDecoys": ["tool", "appliance"]
+    },
+    {
+      "id": "appliance",
+      "label": "Appliances",
+      "groups": ["Appliance"],
+      "avoidDecoys": ["tool", "electronic-device"]
+    },
+    {
+      "id": "weapon",
+      "label": "Weapons",
+      "groups": ["Weapon"],
+      "avoidDecoys": ["tool"]
+    },
+    {
+      "id": "vehicle",
+      "label": "Vehicles",
+      "groups": ["Vehicle"],
+      "avoidDecoys": ["tool"]
+    },
+    {
+      "id": "emotion-feeling",
+      "label": "Emotions & Feelings",
+      "groups": ["Emotion/Feeling"],
+      "avoidDecoys": []
+    },
+    {
+      "id": "shape",
+      "label": "Shapes",
+      "groups": ["Shape"],
+      "avoidDecoys": []
+    },
+    {
+      "id": "color",
+      "label": "Colors",
+      "groups": ["Color"],
+      "avoidDecoys": []
+    },
+    {
+      "id": "time-period",
+      "label": "Time Periods",
+      "groups": ["Time Period"],
+      "avoidDecoys": ["temporal-name"]
+    },
+    {
+      "id": "temporal-name",
+      "label": "Days & Months",
+      "groups": ["Temporal Name"],
+      "avoidDecoys": ["time-period"]
+    },
+    {
+      "id": "country",
+      "label": "Countries",
+      "groups": ["Country"],
+      "avoidDecoys": ["city", "nationality"]
+    },
+    {
+      "id": "city",
+      "label": "Cities",
+      "groups": ["City"],
+      "avoidDecoys": ["country", "nationality"]
+    },
+    {
+      "id": "nationality",
+      "label": "Nationalities",
+      "groups": ["Nationality"],
+      "avoidDecoys": ["country", "city"]
+    },
+    {
+      "id": "definite-quantity",
+      "label": "Numbers",
+      "groups": ["Definite Quantity"],
+      "avoidDecoys": ["sequence"]
+    },
+    {
+      "id": "sequence",
+      "label": "Ordinals",
+      "groups": ["Sequence"],
+      "avoidDecoys": ["definite-quantity"]
+    }
+  ]
+}

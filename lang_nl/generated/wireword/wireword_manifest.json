@@ -2,7 +2,7 @@
   "version": 1,
   "language": "dutch",
   "language_code": "nl",
-  "generated_at": "2026-01-28T00:56:31Z",
+  "generated_at": "2026-02-04T17:37:55Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [],
@@ -15,10 +15,10 @@
       "display_name": "Nouns",
       "description": "Words (nouns, adjectives, etc.)",
       "type": "words",
-      "md5": "622ec0a852ffa632071ff92551c72d7a",
-      "timestamp": "2026-01-28T00:56:31Z",
+      "md5": "ea3aab59956c69971b802fd9f27b1bfb",
+      "timestamp": "2026-02-04T17:37:55Z",
       "required": true,
-      "word_count": 900,
+      "word_count": 890,
       "levels": [
         1,
         2,
@@ -105,7 +105,7 @@
       "description": "Verbs with conjugations",
       "type": "words",
       "md5": "88e333d27c3eab6ebf3eff54649157b1",
-      "timestamp": "2026-01-28T00:56:31Z",
+      "timestamp": "2026-02-04T17:37:55Z",
       "required": true,
       "word_count": 181,
       "levels": [
@@ -136,8 +136,8 @@
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "f31c972d58f48281ce308c8a24977d03",
-      "timestamp": "2026-01-28T00:56:31Z",
+      "md5": "90bdd254128f2dec8bc60810af9463cf",
+      "timestamp": "2026-02-04T17:37:55Z",
       "required": false
     }
   ],

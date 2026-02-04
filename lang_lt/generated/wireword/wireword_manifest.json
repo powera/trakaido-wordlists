@@ -2,7 +2,7 @@
   "version": 1,
   "language": "lithuanian",
   "language_code": "lt",
-  "generated_at": "2026-01-28T00:56:30Z",
+  "generated_at": "2026-02-04T17:37:54Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -18,10 +18,10 @@
       "display_name": "Nouns",
       "description": "Words (nouns, adjectives, etc.)",
       "type": "words",
-      "md5": "6c99450ba4d19e7d8e2d75d3f45dea91",
-      "timestamp": "2026-01-28T00:56:30Z",
+      "md5": "717e1134a17158aa6822ebcef9a6285e",
+      "timestamp": "2026-02-04T17:37:54Z",
       "required": true,
-      "word_count": 900,
+      "word_count": 898,
       "levels": [
         1,
         2,
@@ -108,7 +108,7 @@
       "description": "Verbs with conjugations",
       "type": "words",
       "md5": "66eff5455150ce5235ededa67ec6321d",
-      "timestamp": "2026-01-28T00:56:30Z",
+      "timestamp": "2026-02-04T17:37:54Z",
       "required": true,
       "word_count": 181,
       "levels": [
@@ -139,8 +139,8 @@
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "427e22e943dbb7b8d3621a86a657ed51",
-      "timestamp": "2026-01-28T00:56:30Z",
+      "md5": "6f4cecdec318da70039d6f27d703a0a7",
+      "timestamp": "2026-02-04T17:37:54Z",
       "required": false
     }
   ],

@@ -2,7 +2,7 @@
   "version": 1,
   "language": "vietnamese",
   "language_code": "vi",
-  "generated_at": "2026-01-28T00:56:32Z",
+  "generated_at": "2026-02-04T17:37:56Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [],
@@ -15,10 +15,10 @@
       "display_name": "Nouns",
       "description": "Words (nouns, adjectives, etc.)",
       "type": "words",
-      "md5": "c54b3e0097891861b136928dadf6ffcd",
-      "timestamp": "2026-01-28T00:56:32Z",
+      "md5": "e10717594e2e763f7cf632552de61dc4",
+      "timestamp": "2026-02-04T17:37:56Z",
       "required": true,
-      "word_count": 900,
+      "word_count": 890,
       "levels": [
         1,
         2,
@@ -105,7 +105,7 @@
       "description": "Verbs with conjugations",
       "type": "words",
       "md5": "1769533438d5016c351e783d1c6b7ed3",
-      "timestamp": "2026-01-28T00:56:32Z",
+      "timestamp": "2026-02-04T17:37:56Z",
       "required": true,
       "word_count": 181,
       "levels": [
@@ -137,7 +137,7 @@
       "description": "Sentences for context-based learning",
       "type": "sentences",
       "md5": "9cfe46593b7f9eda77713aa24659074b",
-      "timestamp": "2026-01-28T00:56:32Z",
+      "timestamp": "2026-02-04T17:37:56Z",
       "required": false
     }
   ],

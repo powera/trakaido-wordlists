@@ -2,7 +2,7 @@
   "version": 1,
   "language": "portuguese",
   "language_code": "pt",
-  "generated_at": "2026-01-28T00:56:31Z",
+  "generated_at": "2026-02-04T17:37:56Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [],
@@ -15,10 +15,10 @@
       "display_name": "Nouns",
       "description": "Words (nouns, adjectives, etc.)",
       "type": "words",
-      "md5": "c3d0386d69e74a7023190d995bc6a7bf",
-      "timestamp": "2026-01-28T00:56:31Z",
+      "md5": "7fc0687dd59d9301dcd2be0287df2324",
+      "timestamp": "2026-02-04T17:37:56Z",
       "required": true,
-      "word_count": 900,
+      "word_count": 890,
       "levels": [
         1,
         2,
@@ -105,7 +105,7 @@
       "description": "Verbs with conjugations",
       "type": "words",
       "md5": "d29fe7be32dae4f93c222a171b67ee56",
-      "timestamp": "2026-01-28T00:56:31Z",
+      "timestamp": "2026-02-04T17:37:56Z",
       "required": true,
       "word_count": 181,
       "levels": [
@@ -136,8 +136,8 @@
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "1011e0c05ab5a41d6d7ac8183e3af1ec",
-      "timestamp": "2026-01-28T00:56:31Z",
+      "md5": "729d3eecdd4fc3a33eb504e4a7ae8550",
+      "timestamp": "2026-02-04T17:37:56Z",
       "required": false
     }
   ],

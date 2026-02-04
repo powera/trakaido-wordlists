@@ -1,7 +1,7 @@
 [
   {
     "guid": "V01_001",
-    "base_target": "吃",
+    "base_target": "喫",
     "base_english": "eat",
     "corpus": "VERBS",
     "group": "Physical Action",
@@ -25,7 +25,7 @@
   },
   {
     "guid": "V01_003",
-    "base_target": "睡觉",
+    "base_target": "睡覺",
     "base_english": "sleep",
     "corpus": "VERBS",
     "group": "Physical Action",
@@ -37,7 +37,7 @@
   },
   {
     "guid": "V01_004",
-    "base_target": "醒来",
+    "base_target": "醒來",
     "base_english": "wake",
     "corpus": "VERBS",
     "group": "Physical Action",
@@ -138,7 +138,7 @@
   },
   {
     "guid": "V01_013",
-    "base_target": "帮助",
+    "base_target": "幫助",
     "base_english": "help",
     "corpus": "VERBS",
     "group": "Physical Action",
@@ -149,7 +149,7 @@
   },
   {
     "guid": "V01_014",
-    "base_target": "打开",
+    "base_target": "打開",
     "base_english": "open",
     "corpus": "VERBS",
     "group": "Physical Action",
@@ -161,7 +161,7 @@
   },
   {
     "guid": "V01_015",
-    "base_target": "关闭",
+    "base_target": "關閉",
     "base_english": "close",
     "corpus": "VERBS",
     "group": "Physical Action",
@@ -184,7 +184,7 @@
   },
   {
     "guid": "V01_017",
-    "base_target": "尝试",
+    "base_target": "嘗試",
     "base_english": "try",
     "corpus": "VERBS",
     "group": "Physical Action",
@@ -250,7 +250,7 @@
   },
   {
     "guid": "V01_023",
-    "base_target": "举起",
+    "base_target": "舉起",
     "base_english": "lift",
     "corpus": "VERBS",
     "group": "Physical Action",
@@ -272,7 +272,7 @@
   },
   {
     "guid": "V01_025",
-    "base_target": "搬运",
+    "base_target": "搬運",
     "base_english": "carry",
     "corpus": "VERBS",
     "group": "Physical Action",
@@ -283,7 +283,7 @@
   },
   {
     "guid": "V01_026",
-    "base_target": "触碰",
+    "base_target": "觸碰",
     "base_english": "touch",
     "corpus": "VERBS",
     "group": "Physical Action",
@@ -327,7 +327,7 @@
   },
   {
     "guid": "V01_030",
-    "base_target": "烧",
+    "base_target": "燒",
     "base_english": "burn",
     "corpus": "VERBS",
     "group": "Physical Action",
@@ -385,7 +385,7 @@
   },
   {
     "guid": "V01_035",
-    "base_target": "弯曲",
+    "base_target": "彎曲",
     "base_english": "bend",
     "corpus": "VERBS",
     "group": "Physical Action",
@@ -396,7 +396,7 @@
   },
   {
     "guid": "V01_036",
-    "base_target": "摇晃",
+    "base_target": "搖晃",
     "base_english": "shake",
     "corpus": "VERBS",
     "group": "Physical Action",
@@ -429,7 +429,7 @@
   },
   {
     "guid": "V01_039",
-    "base_target": "覆盖",
+    "base_target": "覆蓋",
     "base_english": "cover",
     "corpus": "VERBS",
     "group": "Physical Action",
@@ -440,7 +440,7 @@
   },
   {
     "guid": "V01_040",
-    "base_target": "挂",
+    "base_target": "掛",
     "base_english": "hang",
     "corpus": "VERBS",
     "group": "Physical Action",
@@ -462,7 +462,7 @@
   },
   {
     "guid": "V01_042",
-    "base_target": "遇见",
+    "base_target": "遇見",
     "base_english": "meet",
     "corpus": "VERBS",
     "group": "Physical Action",
@@ -484,7 +484,7 @@
   },
   {
     "guid": "V01_044",
-    "base_target": "适合",
+    "base_target": "適合",
     "base_english": "fit",
     "corpus": "VERBS",
     "group": "Physical Action",
@@ -495,7 +495,7 @@
   },
   {
     "guid": "V01_045",
-    "base_target": "丢失",
+    "base_target": "丟失",
     "base_english": "lose",
     "corpus": "VERBS",
     "group": "Physical Action",
@@ -506,7 +506,7 @@
   },
   {
     "guid": "V01_046",
-    "base_target": "赢",
+    "base_target": "贏",
     "base_english": "win",
     "corpus": "VERBS",
     "group": "Physical Action",
@@ -517,7 +517,7 @@
   },
   {
     "guid": "V01_047",
-    "base_target": "储存",
+    "base_target": "儲存",
     "base_english": "save",
     "corpus": "VERBS",
     "group": "Physical Action",
@@ -528,7 +528,7 @@
   },
   {
     "guid": "V01_048",
-    "base_target": "伤害",
+    "base_target": "傷害",
     "base_english": "hurt",
     "corpus": "VERBS",
     "group": "Physical Action",
@@ -550,7 +550,7 @@
   },
   {
     "guid": "V01_050",
-    "base_target": "杀",
+    "base_target": "殺",
     "base_english": "kill",
     "corpus": "VERBS",
     "group": "Physical Action",
@@ -583,7 +583,7 @@
   },
   {
     "guid": "V01_053",
-    "base_target": "展开",
+    "base_target": "展開",
     "base_english": "spread",
     "corpus": "VERBS",
     "group": "Physical Action",
@@ -616,7 +616,7 @@
   },
   {
     "guid": "V01_056",
-    "base_target": "射击",
+    "base_target": "射擊",
     "base_english": "shoot",
     "corpus": "VERBS",
     "group": "Physical Action",
@@ -627,7 +627,7 @@
   },
   {
     "guid": "V01_057",
-    "base_target": "画",
+    "base_target": "畫",
     "base_english": "draw",
     "corpus": "VERBS",
     "group": "Physical Action",
@@ -638,7 +638,7 @@
   },
   {
     "guid": "V01_058",
-    "base_target": "挑选",
+    "base_target": "挑選",
     "base_english": "pick",
     "corpus": "VERBS",
     "group": "Physical Action",
@@ -649,7 +649,7 @@
   },
   {
     "guid": "V01_059",
-    "base_target": "摧毁",
+    "base_target": "摧毀",
     "base_english": "destroy",
     "corpus": "VERBS",
     "group": "Physical Action",
@@ -660,7 +660,7 @@
   },
   {
     "guid": "V04_001",
-    "base_target": "学习",
+    "base_target": "學習",
     "base_english": "learn",
     "corpus": "VERBS",
     "group": "Mental State",
@@ -682,7 +682,7 @@
   },
   {
     "guid": "V04_003",
-    "base_target": "阅读",
+    "base_target": "閱讀",
     "base_english": "read",
     "corpus": "VERBS",
     "group": "Mental State",
@@ -693,7 +693,7 @@
   },
   {
     "guid": "V04_004",
-    "base_target": "写",
+    "base_target": "寫",
     "base_english": "write",
     "corpus": "VERBS",
     "group": "Mental State",
@@ -704,7 +704,7 @@
   },
   {
     "guid": "V04_005",
-    "base_target": "听",
+    "base_target": "聽",
     "base_english": "listen",
     "corpus": "VERBS",
     "group": "Mental State",
@@ -726,7 +726,7 @@
   },
   {
     "guid": "V04_007",
-    "base_target": "看见",
+    "base_target": "看見",
     "base_english": "see",
     "corpus": "VERBS",
     "group": "Mental State",
@@ -748,7 +748,7 @@
   },
   {
     "guid": "V04_009",
-    "base_target": "让",
+    "base_target": "讓",
     "base_english": "let",
     "corpus": "VERBS",
     "group": "Mental State",
@@ -781,7 +781,7 @@
   },
   {
     "guid": "V04_012",
-    "base_target": "记得",
+    "base_target": "記得",
     "base_english": "remember",
     "corpus": "VERBS",
     "group": "Mental State",
@@ -836,7 +836,7 @@
   },
   {
     "guid": "V04_017",
-    "base_target": "成为",
+    "base_target": "成爲",
     "base_english": "become",
     "corpus": "VERBS",
     "group": "Mental State",
@@ -869,7 +869,7 @@
   },
   {
     "guid": "V04_021",
-    "base_target": "忘记",
+    "base_target": "忘記",
     "base_english": "forget",
     "corpus": "VERBS",
     "group": "Mental State",
@@ -891,7 +891,7 @@
   },
   {
     "guid": "V04_023",
-    "base_target": "发生",
+    "base_target": "發生",
     "base_english": "happen",
     "corpus": "VERBS",
     "group": "Mental State",
@@ -902,7 +902,7 @@
   },
   {
     "guid": "V04_024",
-    "base_target": "数",
+    "base_target": "數",
     "base_english": "count",
     "corpus": "VERBS",
     "group": "Mental State",
@@ -935,7 +935,7 @@
   },
   {
     "guid": "V04_027",
-    "base_target": "选择",
+    "base_target": "選擇",
     "base_english": "choose",
     "corpus": "VERBS",
     "group": "Mental State",
@@ -957,7 +957,7 @@
   },
   {
     "guid": "V04_030",
-    "base_target": "意识到",
+    "base_target": "意識到",
     "base_english": "realize",
     "corpus": "VERBS",
     "group": "Mental State",
@@ -968,7 +968,7 @@
   },
   {
     "guid": "V04_031",
-    "base_target": "考虑",
+    "base_target": "考慮",
     "base_english": "consider",
     "corpus": "VERBS",
     "group": "Mental State",
@@ -979,7 +979,7 @@
   },
   {
     "guid": "V04_032",
-    "base_target": "学习",
+    "base_target": "學習",
     "base_english": "study",
     "corpus": "VERBS",
     "group": "Mental State",
@@ -990,7 +990,7 @@
   },
   {
     "guid": "V04_033",
-    "base_target": "决定",
+    "base_target": "決定",
     "base_english": "decide",
     "corpus": "VERBS",
     "group": "Mental State",
@@ -1001,7 +1001,7 @@
   },
   {
     "guid": "V04_034",
-    "base_target": "认出",
+    "base_target": "認出",
     "base_english": "recognize",
     "corpus": "VERBS",
     "group": "Mental State",
@@ -1023,7 +1023,7 @@
   },
   {
     "guid": "V05_001",
-    "base_target": "喜欢",
+    "base_target": "喜歡",
     "base_english": "like",
     "corpus": "VERBS",
     "group": "Emotional State",
@@ -1034,7 +1034,7 @@
   },
   {
     "guid": "V05_002",
-    "base_target": "爱",
+    "base_target": "愛",
     "base_english": "love",
     "corpus": "VERBS",
     "group": "Emotional State",
@@ -1067,7 +1067,7 @@
   },
   {
     "guid": "V05_005",
-    "base_target": "感觉",
+    "base_target": "感覺",
     "base_english": "feel",
     "corpus": "VERBS",
     "group": "Emotional State",
@@ -1111,7 +1111,7 @@
   },
   {
     "guid": "V05_009",
-    "base_target": "担心",
+    "base_target": "擔心",
     "base_english": "worry",
     "corpus": "VERBS",
     "group": "Emotional State",
@@ -1177,7 +1177,7 @@
   },
   {
     "guid": "V05_015",
-    "base_target": "使惊讶",
+    "base_target": "使驚訝",
     "base_english": "surprise",
     "corpus": "VERBS",
     "group": "Emotional State",
@@ -1210,7 +1210,7 @@
   },
   {
     "guid": "V05_018",
-    "base_target": "后悔",
+    "base_target": "後悔",
     "base_english": "regret",
     "corpus": "VERBS",
     "group": "Emotional State",
@@ -1221,7 +1221,7 @@
   },
   {
     "guid": "V05_019",
-    "base_target": "关心",
+    "base_target": "關心",
     "base_english": "care",
     "corpus": "VERBS",
     "group": "Emotional State",
@@ -1232,7 +1232,7 @@
   },
   {
     "guid": "V05_020",
-    "base_target": "原谅",
+    "base_target": "原諒",
     "base_english": "forgive",
     "corpus": "VERBS",
     "group": "Emotional State",
@@ -1266,7 +1266,7 @@
   },
   {
     "guid": "V06_003",
-    "base_target": "赚",
+    "base_target": "賺",
     "base_english": "make (earn)",
     "corpus": "VERBS",
     "group": "Possession",
@@ -1277,7 +1277,7 @@
   },
   {
     "guid": "V06_004",
-    "base_target": "买",
+    "base_target": "買",
     "base_english": "buy",
     "corpus": "VERBS",
     "group": "Possession",
@@ -1289,7 +1289,7 @@
   },
   {
     "guid": "V06_005",
-    "base_target": "给",
+    "base_target": "給",
     "base_english": "give",
     "corpus": "VERBS",
     "group": "Possession",
@@ -1311,7 +1311,7 @@
   },
   {
     "guid": "V08_001",
-    "base_target": "成为",
+    "base_target": "成爲",
     "base_english": "become",
     "corpus": "VERBS",
     "group": "Change",
@@ -1322,7 +1322,7 @@
   },
   {
     "guid": "V08_002",
-    "base_target": "变成",
+    "base_target": "變成",
     "base_english": "turn",
     "corpus": "VERBS",
     "group": "Change",
@@ -1333,7 +1333,7 @@
   },
   {
     "guid": "V08_003",
-    "base_target": "成长",
+    "base_target": "成長",
     "base_english": "grow",
     "corpus": "VERBS",
     "group": "Change",
@@ -1344,7 +1344,7 @@
   },
   {
     "guid": "V08_004",
-    "base_target": "改变",
+    "base_target": "改變",
     "base_english": "change",
     "corpus": "VERBS",
     "group": "Change",
@@ -1355,7 +1355,7 @@
   },
   {
     "guid": "V08_005",
-    "base_target": "开始",
+    "base_target": "開始",
     "base_english": "begin",
     "corpus": "VERBS",
     "group": "Change",
@@ -1366,7 +1366,7 @@
   },
   {
     "guid": "V08_006",
-    "base_target": "开始",
+    "base_target": "開始",
     "base_english": "start",
     "corpus": "VERBS",
     "group": "Change",
@@ -1377,7 +1377,7 @@
   },
   {
     "guid": "V09_001",
-    "base_target": "谈话",
+    "base_target": "談話",
     "base_english": "talk",
     "corpus": "VERBS",
     "group": "Communication",
@@ -1388,7 +1388,7 @@
   },
   {
     "guid": "V09_002",
-    "base_target": "说话",
+    "base_target": "說話",
     "base_english": "speak",
     "corpus": "VERBS",
     "group": "Communication",
@@ -1399,7 +1399,7 @@
   },
   {
     "guid": "V09_003",
-    "base_target": "告诉",
+    "base_target": "告訴",
     "base_english": "tell",
     "corpus": "VERBS",
     "group": "Communication",
@@ -1410,7 +1410,7 @@
   },
   {
     "guid": "V09_004",
-    "base_target": "问",
+    "base_target": "問",
     "base_english": "ask",
     "corpus": "VERBS",
     "group": "Communication",
@@ -1432,7 +1432,7 @@
   },
   {
     "guid": "V09_006",
-    "base_target": "说",
+    "base_target": "說",
     "base_english": "say",
     "corpus": "VERBS",
     "group": "Communication",
@@ -1466,7 +1466,7 @@
   },
   {
     "guid": "V09_010",
-    "base_target": "回复",
+    "base_target": "回覆",
     "base_english": "reply",
     "corpus": "VERBS",
     "group": "Communication",
@@ -1477,7 +1477,7 @@
   },
   {
     "guid": "V09_011",
-    "base_target": "解释",
+    "base_target": "解釋",
     "base_english": "explain",
     "corpus": "VERBS",
     "group": "Communication",
@@ -1488,7 +1488,7 @@
   },
   {
     "guid": "V09_012",
-    "base_target": "宣布",
+    "base_target": "宣佈",
     "base_english": "announce",
     "corpus": "VERBS",
     "group": "Communication",
@@ -1499,7 +1499,7 @@
   },
   {
     "guid": "V09_013",
-    "base_target": "讨论",
+    "base_target": "討論",
     "base_english": "discuss",
     "corpus": "VERBS",
     "group": "Communication",
@@ -1532,7 +1532,7 @@
   },
   {
     "guid": "V09_016",
-    "base_target": "建议",
+    "base_target": "建議",
     "base_english": "suggest",
     "corpus": "VERBS",
     "group": "Communication",
@@ -1543,7 +1543,7 @@
   },
   {
     "guid": "V09_017",
-    "base_target": "承诺",
+    "base_target": "承諾",
     "base_english": "promise",
     "corpus": "VERBS",
     "group": "Communication",
@@ -1576,7 +1576,7 @@
   },
   {
     "guid": "V09_020",
-    "base_target": "感谢",
+    "base_target": "感謝",
     "base_english": "thank",
     "corpus": "VERBS",
     "group": "Communication",
@@ -1587,7 +1587,7 @@
   },
   {
     "guid": "V10_001",
-    "base_target": "看见",
+    "base_target": "看見",
     "base_english": "see",
     "corpus": "VERBS",
     "group": "Perception",
@@ -1599,7 +1599,7 @@
   },
   {
     "guid": "V10_002",
-    "base_target": "听见",
+    "base_target": "聽見",
     "base_english": "hear",
     "corpus": "VERBS",
     "group": "Perception",
@@ -1611,7 +1611,7 @@
   },
   {
     "guid": "V10_003",
-    "base_target": "感觉",
+    "base_target": "感覺",
     "base_english": "feel",
     "corpus": "VERBS",
     "group": "Perception",
@@ -1622,7 +1622,7 @@
   },
   {
     "guid": "V10_004",
-    "base_target": "闻",
+    "base_target": "聞",
     "base_english": "smell",
     "corpus": "VERBS",
     "group": "Perception",
@@ -1633,7 +1633,7 @@
   },
   {
     "guid": "V10_005",
-    "base_target": "尝",
+    "base_target": "嘗",
     "base_english": "taste",
     "corpus": "VERBS",
     "group": "Perception",
@@ -1655,7 +1655,7 @@
   },
   {
     "guid": "V10_007",
-    "base_target": "观看",
+    "base_target": "觀看",
     "base_english": "watch",
     "corpus": "VERBS",
     "group": "Perception",
@@ -1721,7 +1721,7 @@
   },
   {
     "guid": "V11_005",
-    "base_target": "出现",
+    "base_target": "出現",
     "base_english": "appear",
     "corpus": "VERBS",
     "group": "Existence",
@@ -1755,7 +1755,7 @@
   },
   {
     "guid": "V12_002",
-    "base_target": "开车",
+    "base_target": "開車",
     "base_english": "drive",
     "corpus": "VERBS",
     "group": "Directional Movement",
@@ -1789,7 +1789,7 @@
   },
   {
     "guid": "V12_005",
-    "base_target": "来",
+    "base_target": "來",
     "base_english": "come",
     "corpus": "VERBS",
     "group": "Directional Movement",
@@ -1811,7 +1811,7 @@
   },
   {
     "guid": "V12_007",
-    "base_target": "离开",
+    "base_target": "離開",
     "base_english": "leave",
     "corpus": "VERBS",
     "group": "Directional Movement",
@@ -1822,7 +1822,7 @@
   },
   {
     "guid": "V12_008",
-    "base_target": "转弯",
+    "base_target": "轉彎",
     "base_english": "turn",
     "corpus": "VERBS",
     "group": "Directional Movement",
@@ -1833,7 +1833,7 @@
   },
   {
     "guid": "V12_009",
-    "base_target": "移动",
+    "base_target": "移動",
     "base_english": "move",
     "corpus": "VERBS",
     "group": "Directional Movement",
@@ -1844,7 +1844,7 @@
   },
   {
     "guid": "V12_010",
-    "base_target": "经过",
+    "base_target": "經過",
     "base_english": "pass",
     "corpus": "VERBS",
     "group": "Directional Movement",
@@ -1866,7 +1866,7 @@
   },
   {
     "guid": "V12_012",
-    "base_target": "带来",
+    "base_target": "帶來",
     "base_english": "bring",
     "corpus": "VERBS",
     "group": "Directional Movement",
@@ -1877,7 +1877,7 @@
   },
   {
     "guid": "V12_013",
-    "base_target": "跟随",
+    "base_target": "跟隨",
     "base_english": "follow",
     "corpus": "VERBS",
     "group": "Directional Movement",
@@ -1888,7 +1888,7 @@
   },
   {
     "guid": "V12_014",
-    "base_target": "到达",
+    "base_target": "到達",
     "base_english": "reach",
     "corpus": "VERBS",
     "group": "Directional Movement",
@@ -1910,7 +1910,7 @@
   },
   {
     "guid": "V12_016",
-    "base_target": "骑",
+    "base_target": "騎",
     "base_english": "ride",
     "corpus": "VERBS",
     "group": "Directional Movement",
@@ -1921,7 +1921,7 @@
   },
   {
     "guid": "V12_017",
-    "base_target": "带领",
+    "base_target": "帶領",
     "base_english": "lead",
     "corpus": "VERBS",
     "group": "Directional Movement",
@@ -1932,7 +1932,7 @@
   },
   {
     "guid": "V12_018",
-    "base_target": "飞",
+    "base_target": "飛",
     "base_english": "fly",
     "corpus": "VERBS",
     "group": "Directional Movement",
@@ -1943,7 +1943,7 @@
   },
   {
     "guid": "V12_019",
-    "base_target": "穿过",
+    "base_target": "穿過",
     "base_english": "cross",
     "corpus": "VERBS",
     "group": "Directional Movement",
@@ -1954,7 +1954,7 @@
   },
   {
     "guid": "V12_020",
-    "base_target": "赶快",
+    "base_target": "趕快",
     "base_english": "hurry",
     "corpus": "VERBS",
     "group": "Directional Movement",
@@ -1965,7 +1965,7 @@
   },
   {
     "guid": "V12_021",
-    "base_target": "进入",
+    "base_target": "進入",
     "base_english": "enter",
     "corpus": "VERBS",
     "group": "Directional Movement",
