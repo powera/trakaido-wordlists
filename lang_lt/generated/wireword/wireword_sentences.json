@@ -2444,10 +2444,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
           "guid": "V01_002",
           "grammatical_form": "verb/lt_3s_future"
         },
@@ -2496,10 +2492,6 @@
         "lt": "Vaikas rodo į lėktuvą."
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
         {
           "guid": "V01_052",
           "grammatical_form": "verb/lt_3s_present"
@@ -2941,10 +2933,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
           "guid": "V01_012",
           "grammatical_form": "verb/lt_3s_present"
         },
@@ -3025,10 +3013,6 @@
         "lt": "Vaikas dabar nori šaukšto."
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
         {
           "guid": "D07_001",
           "grammatical_form": null
@@ -3146,10 +3130,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
           "guid": "D03_001",
           "grammatical_form": "adverb/lt_base"
         },
@@ -3203,10 +3183,6 @@
         "lt": "Vaikas nešė dvi mažas lėkštes."
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
         {
           "guid": "V01_025",
           "grammatical_form": "verb/lt_3s_past"
@@ -4443,10 +4419,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
           "guid": "V05_004",
           "grammatical_form": "verb/lt_3s_present"
         },
@@ -5674,10 +5646,6 @@
       },
       "linked_words": [
         {
-          "guid": "V11_001",
-          "grammatical_form": "verb/lt_3p_past"
-        },
-        {
           "guid": "A19_004",
           "grammatical_form": null
         },
@@ -5859,10 +5827,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
           "guid": "A19_006",
           "grammatical_form": "verb/lt_3s_present"
         },
@@ -5885,10 +5849,6 @@
         "lt": "Mes bijojome per filmą."
       },
       "linked_words": [
-        {
-          "guid": "V11_001",
-          "grammatical_form": "verb/lt_1p_past"
-        },
         {
           "guid": "N41_017",
           "grammatical_form": "noun/lt_accusative_singular"
@@ -6015,10 +5975,6 @@
         {
           "guid": "A19_008",
           "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "N35_040",
-          "grammatical_form": "noun/lt_genitive_singular"
         }
       ],
       "source": "buivolas_guided_A19_008",
@@ -6071,10 +6027,6 @@
           "grammatical_form": "adverb/lt_base"
         },
         {
-          "guid": "V11_001",
-          "grammatical_form": "verb/lt_3s_past"
-        },
-        {
           "guid": "A19_009",
           "grammatical_form": null
         }
@@ -6116,10 +6068,6 @@
         "lt": "Aš susijaudinau per susitikimą."
       },
       "linked_words": [
-        {
-          "guid": "V11_001",
-          "grammatical_form": "verb/lt_1s_past"
-        },
         {
           "guid": "N24_024",
           "grammatical_form": "noun/lt_accusative_singular"
@@ -6193,14 +6141,6 @@
         "lt": "Vaikas susiprato dėl vakarienės."
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
-          "guid": "V11_001",
-          "grammatical_form": "verb/lt_3s_past"
-        },
         {
           "guid": "N06_088",
           "grammatical_form": "noun/lt_genitive_singular"
@@ -6473,10 +6413,6 @@
       },
       "linked_words": [
         {
-          "guid": "V11_001",
-          "grammatical_form": "verb/lt_3p_past"
-        },
-        {
           "guid": "A19_018",
           "grammatical_form": "adjective/lt_nominative_plural_m"
         },
@@ -6603,10 +6539,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
           "guid": "A19_020",
           "grammatical_form": "adjective/lt_nominative_singular_m"
         },
@@ -6691,10 +6623,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
           "guid": "N07_041",
           "grammatical_form": "noun/lt_locative_plural"
         },
@@ -6736,10 +6664,6 @@
         "lt": "Jie buvo nerimastingi išgirsti naujienas."
       },
       "linked_words": [
-        {
-          "guid": "V11_001",
-          "grammatical_form": "verb/lt_3p_past"
-        },
         {
           "guid": "A19_024",
           "grammatical_form": "adjective/lt_nominative_plural_m"
@@ -6814,10 +6738,6 @@
           "grammatical_form": null
         },
         {
-          "guid": "V11_001",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
           "guid": "A19_025",
           "grammatical_form": null
         }
@@ -6847,10 +6767,6 @@
         "lt": "Vaikas užmerkė vieną akį."
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
         {
           "guid": "V01_015",
           "grammatical_form": "verb/lt_3s_present"
@@ -6916,10 +6832,6 @@
         "lt": "Vaikas turi raudoną nosį."
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
         {
           "guid": "V06_002",
           "grammatical_form": "verb/lt_3s_present"
@@ -6990,10 +6902,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
           "guid": "V01_010",
           "grammatical_form": "verb/lt_3s_past"
         },
@@ -7039,10 +6947,6 @@
         "lt": "Vaikas turi mažą ausį."
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
         {
           "guid": "V06_002",
           "grammatical_form": "verb/lt_3s_present"
@@ -8258,10 +8162,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
           "guid": "V01_057",
           "grammatical_form": "verb/lt_3s_present"
         },
@@ -8668,10 +8568,6 @@
           "grammatical_form": "noun/lt_nominative_singular"
         },
         {
-          "guid": "V11_001",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
           "guid": "N36_015",
           "grammatical_form": "noun/lt_nominative_singular"
         }
@@ -8735,10 +8631,6 @@
         {
           "guid": "N01_059",
           "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
-          "guid": "V11_001",
-          "grammatical_form": "verb/lt_3s_present"
         },
         {
           "guid": "N36_016",
@@ -8902,10 +8794,6 @@
           "grammatical_form": "noun/lt_nominative_singular"
         },
         {
-          "guid": "V11_001",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
           "guid": "A05_035",
           "grammatical_form": "adjective/lt_nominative_singular_m"
         },
@@ -8975,10 +8863,6 @@
           "grammatical_form": "noun/lt_nominative_singular"
         },
         {
-          "guid": "V11_001",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
           "guid": "A01_002",
           "grammatical_form": null
         },
@@ -9023,10 +8907,6 @@
         {
           "guid": "N01_059",
           "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
-          "guid": "V11_001",
-          "grammatical_form": "verb/lt_3s_present"
         },
         {
           "guid": "A05_015",
@@ -9098,10 +8978,6 @@
           "grammatical_form": "noun/lt_nominative_singular"
         },
         {
-          "guid": "V11_001",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
           "guid": "N36_030",
           "grammatical_form": "noun/lt_nominative_singular"
         }
@@ -9146,10 +9022,6 @@
         {
           "guid": "N01_059",
           "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
-          "guid": "V11_001",
-          "grammatical_form": "verb/lt_3s_present"
         },
         {
           "guid": "N36_031",
@@ -9263,10 +9135,6 @@
           "grammatical_form": "noun/lt_nominative_singular"
         },
         {
-          "guid": "V11_001",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
           "guid": "A16_001",
           "grammatical_form": "adjective/lt_nominative_singular_f"
         },
@@ -9365,10 +9233,6 @@
         {
           "guid": "D03_001",
           "grammatical_form": null
-        },
-        {
-          "guid": "V11_001",
-          "grammatical_form": "verb/lt_3s_present"
         },
         {
           "guid": "A19_001",
@@ -9532,10 +9396,6 @@
       },
       "linked_words": [
         {
-          "guid": "V11_001",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
           "guid": "A05_015",
           "grammatical_form": "adjective/lt_nominative_singular_f"
         },
@@ -9697,10 +9557,6 @@
       },
       "linked_words": [
         {
-          "guid": "N01_061",
-          "grammatical_form": "pronoun/lt_nominative"
-        },
-        {
           "guid": "V12_007",
           "grammatical_form": "verb/lt_3s_past"
         },
@@ -9719,10 +9575,6 @@
         "lt": "Ar kas nors šaukė mano vardą?"
       },
       "linked_words": [
-        {
-          "guid": "N01_061",
-          "grammatical_form": null
-        },
         {
           "guid": "V09_007",
           "grammatical_form": "verb/lt_3s_past"
@@ -9743,10 +9595,6 @@
       },
       "linked_words": [
         {
-          "guid": "N01_061",
-          "grammatical_form": null
-        },
-        {
           "guid": "V06_006",
           "grammatical_form": "verb/lt_3s_past"
         },
@@ -9765,10 +9613,6 @@
         "lt": "Ar kas nors nori duonos?"
       },
       "linked_words": [
-        {
-          "guid": "N01_062",
-          "grammatical_form": null
-        },
         {
           "guid": "V05_004",
           "grammatical_form": "verb/lt_3s_present"
@@ -9789,10 +9633,6 @@
       },
       "linked_words": [
         {
-          "guid": "N01_062",
-          "grammatical_form": null
-        },
-        {
           "guid": "V10_001",
           "grammatical_form": null
         },
@@ -9811,10 +9651,6 @@
         "lt": "Ji nieko nepaklausė."
       },
       "linked_words": [
-        {
-          "guid": "N01_062",
-          "grammatical_form": null
-        },
         {
           "guid": "V09_004",
           "grammatical_form": "verb/lt_3s_past"
@@ -9846,10 +9682,6 @@
       },
       "linked_words": [
         {
-          "guid": "N01_063",
-          "grammatical_form": null
-        },
-        {
           "guid": "V05_001",
           "grammatical_form": "verb/lt_3p_present"
         },
@@ -9873,10 +9705,6 @@
       },
       "linked_words": [
         {
-          "guid": "N01_063",
-          "grammatical_form": null
-        },
-        {
           "guid": "A05_055",
           "grammatical_form": "adjective/lt_nominative_plural_m"
         },
@@ -9895,10 +9723,6 @@
         "lt": "Visi prisėdo prie mokytojo."
       },
       "linked_words": [
-        {
-          "guid": "N01_063",
-          "grammatical_form": null
-        },
         {
           "guid": "V01_032",
           "grammatical_form": "verb/lt_3p_past"
@@ -9923,10 +9747,6 @@
       },
       "linked_words": [
         {
-          "guid": "N01_063",
-          "grammatical_form": null
-        },
-        {
           "guid": "D01_001",
           "grammatical_form": "adverb/lt_base"
         },
@@ -9949,10 +9769,6 @@
         "lt": "Aš nieko nematiau sode."
       },
       "linked_words": [
-        {
-          "guid": "N01_064",
-          "grammatical_form": null
-        },
         {
           "guid": "V10_001",
           "grammatical_form": "verb/lt_1s_past"
@@ -9977,10 +9793,6 @@
           "grammatical_form": "verb/lt_3s_present"
         },
         {
-          "guid": "N01_064",
-          "grammatical_form": null
-        },
-        {
           "guid": "N50_005",
           "grammatical_form": "noun/lt_genitive_singular"
         }
@@ -9995,10 +9807,6 @@
         "lt": "Jie nieko nerado biure."
       },
       "linked_words": [
-        {
-          "guid": "N01_064",
-          "grammatical_form": null
-        },
         {
           "guid": "V01_009",
           "grammatical_form": "verb/lt_3p_past"
@@ -10865,10 +10673,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
           "guid": "V10_006",
           "grammatical_form": "verb/lt_3s_present"
         },
@@ -11040,10 +10844,6 @@
         "lt": "Vaikas žaidžia žolėje."
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
         {
           "guid": "V01_006",
           "grammatical_form": "verb/lt_3s_present"
@@ -12442,10 +12242,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
           "guid": "V06_002",
           "grammatical_form": "verb/lt_3s_past"
         },
@@ -12542,10 +12338,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
           "guid": "V01_048",
           "grammatical_form": "verb/lt_3s_past"
         },
@@ -12583,10 +12375,6 @@
         "lt": "Vaikas šiandien rado lapą."
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
         {
           "guid": "D03_001",
           "grammatical_form": null
@@ -13024,10 +12812,6 @@
         {
           "guid": "N42_006",
           "grammatical_form": "noun/lt_genitive_singular"
-        },
-        {
-          "guid": "N35_040",
-          "grammatical_form": "noun/lt_dative_singular"
         }
       ],
       "source": "buivolas_guided_N42_006",
@@ -13943,10 +13727,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
           "guid": "V01_009",
           "grammatical_form": "verb/lt_3s_past"
         },
@@ -14307,10 +14087,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": "noun/lt_nominative_plural"
-        },
-        {
           "guid": "V01_006",
           "grammatical_form": "verb/lt_3p_present"
         },
@@ -14514,10 +14290,6 @@
       },
       "linked_words": [
         {
-          "guid": "V11_001",
-          "grammatical_form": "verb/lt_3p_present"
-        },
-        {
           "guid": "A05_025",
           "grammatical_form": "adjective/lt_nominative_plural_m"
         },
@@ -14717,10 +14489,6 @@
           "grammatical_form": "adverb/lt_base"
         },
         {
-          "guid": "V11_001",
-          "grammatical_form": "verb/lt_3p_present"
-        },
-        {
           "guid": "N17_142",
           "grammatical_form": "noun/lt_accusative_singular"
         }
@@ -14754,10 +14522,6 @@
         "lt": "Vaikas šiandien jautėsi drovus."
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
         {
           "guid": "D03_001",
           "grammatical_form": null
@@ -14900,10 +14664,6 @@
         "lt": "Vaikas yra drąsus mokykloje."
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
         {
           "guid": "A16_009",
           "grammatical_form": null
@@ -17246,10 +17006,6 @@
       },
       "linked_words": [
         {
-          "guid": "N42_008",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
           "guid": "N08_014",
           "grammatical_form": "noun/lt_genitive_singular"
         }
@@ -17267,10 +17023,6 @@
         {
           "guid": "V06_004",
           "grammatical_form": "verb/lt_1p_past"
-        },
-        {
-          "guid": "N42_008",
-          "grammatical_form": "noun/lt_accusative_singular"
         }
       ],
       "source": "buivolas_guided_N42_008",
@@ -17286,10 +17038,6 @@
         {
           "guid": "A05_035",
           "grammatical_form": "adjective/lt_accusative_singular_m"
-        },
-        {
-          "guid": "N42_009",
-          "grammatical_form": "noun/lt_accusative_singular"
         }
       ],
       "source": "buivolas_guided_N42_009",
@@ -17309,10 +17057,6 @@
         {
           "guid": "Z01_003",
           "grammatical_form": null
-        },
-        {
-          "guid": "N42_009",
-          "grammatical_form": "noun/lt_accusative_plural"
         }
       ],
       "source": "buivolas_guided_N42_009",
@@ -17328,10 +17072,6 @@
         {
           "guid": "V10_007",
           "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "N42_010",
-          "grammatical_form": "noun/lt_accusative_singular"
         },
         {
           "guid": "N25_003",
@@ -17359,10 +17099,6 @@
         {
           "guid": "A05_035",
           "grammatical_form": null
-        },
-        {
-          "guid": "N42_010",
-          "grammatical_form": "noun/lt_accusative_singular"
         }
       ],
       "source": "buivolas_guided_N42_010",
@@ -17378,10 +17114,6 @@
         {
           "guid": "V01_010",
           "grammatical_form": "verb/lt_1p_past"
-        },
-        {
-          "guid": "N42_010",
-          "grammatical_form": "noun/lt_accusative_singular"
         },
         {
           "guid": "N07_035",
@@ -17401,10 +17133,6 @@
         {
           "guid": "V04_005",
           "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "N42_011",
-          "grammatical_form": "noun/lt_genitive_singular"
         }
       ],
       "source": "buivolas_guided_N42_011",
@@ -17424,10 +17152,6 @@
         {
           "guid": "A01_002",
           "grammatical_form": null
-        },
-        {
-          "guid": "N42_011",
-          "grammatical_form": "noun/lt_genitive_singular"
         }
       ],
       "source": "buivolas_guided_N42_011",
@@ -17447,10 +17171,6 @@
         {
           "guid": "N41_016",
           "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "N42_011",
-          "grammatical_form": "noun/lt_accusative_singular"
         }
       ],
       "source": "buivolas_guided_N42_011",
@@ -17463,10 +17183,6 @@
         "lt": "Garsiakalbis yra ant stalo."
       },
       "linked_words": [
-        {
-          "guid": "N42_012",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
         {
           "guid": "N39_006",
           "grammatical_form": "noun/lt_genitive_singular"
@@ -17485,10 +17201,6 @@
         {
           "guid": "V06_004",
           "grammatical_form": "verb/lt_3s_past"
-        },
-        {
-          "guid": "N42_012",
-          "grammatical_form": "noun/lt_accusative_singular"
         }
       ],
       "source": "buivolas_guided_N42_012",
@@ -17508,10 +17220,6 @@
         {
           "guid": "N41_016",
           "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "N42_012",
-          "grammatical_form": "noun/lt_genitive_singular"
         }
       ],
       "source": "buivolas_guided_N42_012",
@@ -17529,10 +17237,6 @@
           "grammatical_form": "verb/lt_3s_past"
         },
         {
-          "guid": "N42_012",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
           "guid": "N47_001",
           "grammatical_form": "noun/lt_genitive_plural"
         }
@@ -17547,10 +17251,6 @@
         "lt": "Aš nešioju ausines eidamas pasivaikščioti."
       },
       "linked_words": [
-        {
-          "guid": "N42_013",
-          "grammatical_form": "noun/lt_accusative_plural"
-        },
         {
           "guid": "V12_001",
           "grammatical_form": null
@@ -17573,10 +17273,6 @@
         {
           "guid": "A05_035",
           "grammatical_form": "adjective/lt_nominative_singular_m"
-        },
-        {
-          "guid": "N42_013",
-          "grammatical_form": "noun/lt_accusative_plural"
         }
       ],
       "source": "buivolas_guided_N42_013",
@@ -17592,10 +17288,6 @@
         {
           "guid": "V04_005",
           "grammatical_form": "verb/lt_3p_present"
-        },
-        {
-          "guid": "N42_013",
-          "grammatical_form": "noun/lt_instrumental_plural"
         }
       ],
       "source": "buivolas_guided_N42_013",
@@ -17611,10 +17303,6 @@
         {
           "guid": "V01_045",
           "grammatical_form": "verb/lt_3s_past"
-        },
-        {
-          "guid": "N42_013",
-          "grammatical_form": "noun/lt_accusative_plural"
         },
         {
           "guid": "N07_002",
@@ -17638,10 +17326,6 @@
         {
           "guid": "A05_035",
           "grammatical_form": "adjective/lt_accusative_singular_m"
-        },
-        {
-          "guid": "N42_014",
-          "grammatical_form": "noun/lt_accusative_singular"
         }
       ],
       "source": "buivolas_guided_N42_014",
@@ -17657,10 +17341,6 @@
         {
           "guid": "V01_009",
           "grammatical_form": "verb/lt_3p_past"
-        },
-        {
-          "guid": "N42_014",
-          "grammatical_form": "noun/lt_accusative_singular"
         },
         {
           "guid": "N39_001",
@@ -17684,10 +17364,6 @@
         {
           "guid": "N40_001",
           "grammatical_form": "noun/lt_genitive_singular"
-        },
-        {
-          "guid": "N42_014",
-          "grammatical_form": "noun/lt_accusative_singular"
         }
       ],
       "source": "buivolas_guided_N42_014",
@@ -17707,10 +17383,6 @@
         {
           "guid": "A05_109",
           "grammatical_form": "adjective/lt_accusative_plural_f"
-        },
-        {
-          "guid": "N42_015",
-          "grammatical_form": "noun/lt_accusative_plural"
         },
         {
           "guid": "N08_036",
@@ -17738,10 +17410,6 @@
         {
           "guid": "A01_002",
           "grammatical_form": "adjective/lt_accusative_singular_m"
-        },
-        {
-          "guid": "N42_016",
-          "grammatical_form": "noun/lt_accusative_singular"
         }
       ],
       "source": "buivolas_guided_N42_016",
@@ -17761,10 +17429,6 @@
         {
           "guid": "V06_004",
           "grammatical_form": "verb/lt_3s_past"
-        },
-        {
-          "guid": "N42_018",
-          "grammatical_form": "noun/lt_accusative_singular"
         }
       ],
       "source": "buivolas_guided_N42_018",
@@ -17784,10 +17448,6 @@
         {
           "guid": "A01_002",
           "grammatical_form": "adjective/lt_accusative_singular_m"
-        },
-        {
-          "guid": "N42_018",
-          "grammatical_form": null
         }
       ],
       "source": "buivolas_guided_N42_018",
@@ -17803,10 +17463,6 @@
         {
           "guid": "V01_010",
           "grammatical_form": "verb/lt_3s_past"
-        },
-        {
-          "guid": "N42_018",
-          "grammatical_form": "noun/lt_accusative_singular"
         },
         {
           "guid": "D07_027",

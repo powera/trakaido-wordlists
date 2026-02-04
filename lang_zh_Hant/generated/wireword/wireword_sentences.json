@@ -2181,10 +2181,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
-        {
           "guid": "V01_002",
           "grammatical_form": null
         },
@@ -2228,10 +2224,6 @@
         "zh": "孩子指着飞机。"
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
         {
           "guid": "V01_052",
           "grammatical_form": null
@@ -2625,10 +2617,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
-        {
           "guid": "V01_012",
           "grammatical_form": null
         },
@@ -2700,10 +2688,6 @@
         "zh": "孩子现在想要一把汤匙。"
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
         {
           "guid": "D07_001",
           "grammatical_form": null
@@ -2809,10 +2793,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
-        {
           "guid": "D03_001",
           "grammatical_form": "adverb/zh_base"
         },
@@ -2860,10 +2840,6 @@
         "zh": "孩子端了两个小盘子。"
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
         {
           "guid": "V01_025",
           "grammatical_form": null
@@ -3952,10 +3928,6 @@
         "zh": "孩子想要看熊。"
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
         {
           "guid": "V05_004",
           "grammatical_form": null
@@ -5209,10 +5181,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
-        {
           "guid": "A19_006",
           "grammatical_form": null
         },
@@ -5342,10 +5310,6 @@
       "linked_words": [
         {
           "guid": "N35_032",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N35_040",
           "grammatical_form": null
         },
         {
@@ -5504,10 +5468,6 @@
         "zh": "孩子对晚餐感到困惑。"
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
         {
           "guid": "N06_088",
           "grammatical_form": null
@@ -5941,10 +5901,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
-        {
           "guid": "A19_020",
           "grammatical_form": null
         },
@@ -6032,10 +5988,6 @@
         "zh": "孩子在家觉得无聊。"
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
         {
           "guid": "N07_041",
           "grammatical_form": null
@@ -6193,10 +6145,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
-        {
           "guid": "V01_015",
           "grammatical_form": null
         },
@@ -6264,10 +6212,6 @@
         "zh": "孩子有一个红色的鼻子。"
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
         {
           "guid": "V06_002",
           "grammatical_form": null
@@ -6341,10 +6285,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
-        {
           "guid": "N06_092",
           "grammatical_form": null
         },
@@ -6392,10 +6332,6 @@
         "zh": "孩子有一只小的耳朵。"
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
         {
           "guid": "V06_002",
           "grammatical_form": null
@@ -7661,10 +7597,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
-        {
           "guid": "V01_057",
           "grammatical_form": null
         },
@@ -8085,10 +8017,6 @@
           "grammatical_form": null
         },
         {
-          "guid": "V11_001",
-          "grammatical_form": null
-        },
-        {
           "guid": "N36_015",
           "grammatical_form": null
         }
@@ -8154,10 +8082,6 @@
       "linked_words": [
         {
           "guid": "N01_059",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V11_001",
           "grammatical_form": null
         },
         {
@@ -8325,10 +8249,6 @@
           "grammatical_form": null
         },
         {
-          "guid": "V11_001",
-          "grammatical_form": null
-        },
-        {
           "guid": "A05_035",
           "grammatical_form": null
         },
@@ -8401,10 +8321,6 @@
           "grammatical_form": null
         },
         {
-          "guid": "V11_001",
-          "grammatical_form": null
-        },
-        {
           "guid": "A01_002",
           "grammatical_form": null
         },
@@ -8450,10 +8366,6 @@
       "linked_words": [
         {
           "guid": "N01_059",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V11_001",
           "grammatical_form": null
         },
         {
@@ -8529,10 +8441,6 @@
           "grammatical_form": null
         },
         {
-          "guid": "V11_001",
-          "grammatical_form": null
-        },
-        {
           "guid": "N36_030",
           "grammatical_form": null
         }
@@ -8578,10 +8486,6 @@
       "linked_words": [
         {
           "guid": "N01_059",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V11_001",
           "grammatical_form": null
         },
         {
@@ -8698,10 +8602,6 @@
       "linked_words": [
         {
           "guid": "N01_059",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V11_001",
           "grammatical_form": null
         },
         {
@@ -8977,10 +8877,6 @@
       },
       "linked_words": [
         {
-          "guid": "V11_001",
-          "grammatical_form": null
-        },
-        {
           "guid": "A05_015",
           "grammatical_form": null
         },
@@ -9149,10 +9045,6 @@
       },
       "linked_words": [
         {
-          "guid": "N01_061",
-          "grammatical_form": "pronoun/zh_subjective"
-        },
-        {
           "guid": "N08_027",
           "grammatical_form": null
         },
@@ -9172,10 +9064,6 @@
         "zh": "有人叫我的名字吗？"
       },
       "linked_words": [
-        {
-          "guid": "N01_061",
-          "grammatical_form": null
-        },
         {
           "guid": "V09_007",
           "grammatical_form": null
@@ -9197,10 +9085,6 @@
       },
       "linked_words": [
         {
-          "guid": "N01_061",
-          "grammatical_form": null
-        },
-        {
           "guid": "V06_006",
           "grammatical_form": null
         },
@@ -9221,10 +9105,6 @@
       },
       "linked_words": [
         {
-          "guid": "N01_062",
-          "grammatical_form": "pronoun/zh_subjective"
-        },
-        {
           "guid": "V05_004",
           "grammatical_form": null
         },
@@ -9244,10 +9124,6 @@
         "zh": "任何人都可以看见这只狗。"
       },
       "linked_words": [
-        {
-          "guid": "N01_062",
-          "grammatical_form": "pronoun/zh_subjective"
-        },
         {
           "guid": "V10_001",
           "grammatical_form": null
@@ -9271,10 +9147,6 @@
         {
           "guid": "V09_004",
           "grammatical_form": null
-        },
-        {
-          "guid": "N01_062",
-          "grammatical_form": null
         }
       ],
       "pinyin": "tā méi yǒu wèn rèn hé rén 。",
@@ -9291,10 +9163,6 @@
         {
           "guid": "V09_003",
           "grammatical_form": null
-        },
-        {
-          "guid": "N01_062",
-          "grammatical_form": null
         }
       ],
       "pinyin": "wǒ men méi yǒu gào sù rèn hé rén 。",
@@ -9308,10 +9176,6 @@
         "zh": "每个人都喜欢新鲜的面包。"
       },
       "linked_words": [
-        {
-          "guid": "N01_063",
-          "grammatical_form": "pronoun/zh_subjective"
-        },
         {
           "guid": "V05_001",
           "grammatical_form": null
@@ -9337,10 +9201,6 @@
       },
       "linked_words": [
         {
-          "guid": "N01_063",
-          "grammatical_form": null
-        },
-        {
           "guid": "A05_055",
           "grammatical_form": null
         },
@@ -9360,10 +9220,6 @@
         "zh": "每个人都坐在老师旁边。"
       },
       "linked_words": [
-        {
-          "guid": "N01_063",
-          "grammatical_form": null
-        },
         {
           "guid": "V01_032",
           "grammatical_form": null
@@ -9388,10 +9244,6 @@
         "zh": "每个人很快找到了座位。"
       },
       "linked_words": [
-        {
-          "guid": "N01_063",
-          "grammatical_form": "pronoun/zh_subjective"
-        },
         {
           "guid": "D01_001",
           "grammatical_form": "adverb/zh_base"
@@ -9423,10 +9275,6 @@
         {
           "guid": "V10_001",
           "grammatical_form": null
-        },
-        {
-          "guid": "N01_064",
-          "grammatical_form": null
         }
       ],
       "pinyin": "wǒ zài huā yuán lǐ kàn jiàn méi yǒu rén 。",
@@ -9443,10 +9291,6 @@
         {
           "guid": "V09_006",
           "grammatical_form": null
-        },
-        {
-          "guid": "N01_064",
-          "grammatical_form": "pronoun/zh_subjective"
         },
         {
           "guid": "N50_005",
@@ -9470,10 +9314,6 @@
         },
         {
           "guid": "V01_009",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N01_064",
           "grammatical_form": null
         }
       ],
@@ -10369,10 +10209,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
-        {
           "guid": "N47_002",
           "grammatical_form": null
         },
@@ -10552,10 +10388,6 @@
         "zh": "孩子在草地上玩。"
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
         {
           "guid": "N05_003",
           "grammatical_form": null
@@ -12017,10 +11849,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
-        {
           "guid": "V06_002",
           "grammatical_form": null
         },
@@ -12121,10 +11949,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
-        {
           "guid": "V01_048",
           "grammatical_form": null
         },
@@ -12164,10 +11988,6 @@
         "zh": "一个孩子今天找到了一片叶子。"
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
         {
           "guid": "D03_001",
           "grammatical_form": null
@@ -12622,10 +12442,6 @@
         },
         {
           "guid": "V06_005",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N35_040",
           "grammatical_form": null
         }
       ],
@@ -13573,10 +13389,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
-        {
           "guid": "N09_011",
           "grammatical_form": null
         },
@@ -13956,10 +13768,6 @@
         "zh": "孩子们在海滩玩沙子。"
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
         {
           "guid": "N11_008",
           "grammatical_form": null
@@ -14400,10 +14208,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
-        {
           "guid": "D03_001",
           "grammatical_form": null
         },
@@ -14551,10 +14355,6 @@
         "zh": "孩子在学校很勇敢。"
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
         {
           "guid": "N07_002",
           "grammatical_form": null
@@ -16964,10 +16764,6 @@
       },
       "linked_words": [
         {
-          "guid": "N42_008",
-          "grammatical_form": null
-        },
-        {
           "guid": "N08_014",
           "grammatical_form": null
         }
@@ -16986,10 +16782,6 @@
         {
           "guid": "V06_004",
           "grammatical_form": null
-        },
-        {
-          "guid": "N42_008",
-          "grammatical_form": null
         }
       ],
       "pinyin": "wǒ men zuó tiān mǎi le yī tái xīn yìn biǎo jī 。",
@@ -17005,10 +16797,6 @@
       "linked_words": [
         {
           "guid": "A05_035",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N42_009",
           "grammatical_form": null
         }
       ],
@@ -17030,10 +16818,6 @@
         {
           "guid": "Z01_003",
           "grammatical_form": "numeral/zh_cardinal"
-        },
-        {
-          "guid": "N42_009",
-          "grammatical_form": null
         }
       ],
       "pinyin": "tā men mǎi le liǎng tái xiàng jī 。",
@@ -17049,10 +16833,6 @@
       "linked_words": [
         {
           "guid": "V10_007",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N42_010",
           "grammatical_form": null
         }
       ],
@@ -17078,10 +16858,6 @@
         {
           "guid": "A05_035",
           "grammatical_form": null
-        },
-        {
-          "guid": "N42_010",
-          "grammatical_form": null
         }
       ],
       "pinyin": "tā zuó tiān mǎi le yī tái xīn de diàn shì 。",
@@ -17095,10 +16871,6 @@
         "zh": "我们把电视放在客厅。"
       },
       "linked_words": [
-        {
-          "guid": "N42_010",
-          "grammatical_form": null
-        },
         {
           "guid": "V01_010",
           "grammatical_form": null
@@ -17122,10 +16894,6 @@
         {
           "guid": "V04_005",
           "grammatical_form": null
-        },
-        {
-          "guid": "N42_011",
-          "grammatical_form": null
         }
       ],
       "pinyin": "tā xiàn zài zài tīng shōu yīn jī 。",
@@ -17146,10 +16914,6 @@
         {
           "guid": "A01_002",
           "grammatical_form": null
-        },
-        {
-          "guid": "N42_011",
-          "grammatical_form": null
         }
       ],
       "pinyin": "tā jīn tiān mǎi le yí gè xiǎo shōu yīn jī 。",
@@ -17163,10 +16927,6 @@
         "zh": "我们在收音机上听见音乐。"
       },
       "linked_words": [
-        {
-          "guid": "N42_011",
-          "grammatical_form": null
-        },
         {
           "guid": "V10_002",
           "grammatical_form": null
@@ -17188,10 +16948,6 @@
       },
       "linked_words": [
         {
-          "guid": "N42_012",
-          "grammatical_form": null
-        },
-        {
           "guid": "N39_006",
           "grammatical_form": null
         }
@@ -17209,10 +16965,6 @@
       "linked_words": [
         {
           "guid": "V06_004",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N42_012",
           "grammatical_form": null
         }
       ],
@@ -17232,10 +16984,6 @@
           "grammatical_form": null
         },
         {
-          "guid": "N42_012",
-          "grammatical_form": null
-        },
-        {
           "guid": "N41_016",
           "grammatical_form": null
         }
@@ -17251,10 +16999,6 @@
         "zh": "他把喇叭移到门附近。"
       },
       "linked_words": [
-        {
-          "guid": "N42_012",
-          "grammatical_form": null
-        },
         {
           "guid": "V12_009",
           "grammatical_form": null
@@ -17278,10 +17022,6 @@
         {
           "guid": "V12_001",
           "grammatical_form": null
-        },
-        {
-          "guid": "N42_013",
-          "grammatical_form": null
         }
       ],
       "pinyin": "wǒ sàn bù de shí hòu dài ěr jī 。",
@@ -17302,10 +17042,6 @@
         {
           "guid": "A05_035",
           "grammatical_form": null
-        },
-        {
-          "guid": "N42_013",
-          "grammatical_form": null
         }
       ],
       "pinyin": "tā zuó tiān mǎi le xīn de ěr jī 。",
@@ -17321,10 +17057,6 @@
       "linked_words": [
         {
           "guid": "V04_005",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N42_013",
           "grammatical_form": null
         }
       ],
@@ -17346,10 +17078,6 @@
         {
           "guid": "V01_045",
           "grammatical_form": null
-        },
-        {
-          "guid": "N42_013",
-          "grammatical_form": null
         }
       ],
       "pinyin": "tā zài xué xiào diū le ěr jī 。",
@@ -17369,10 +17097,6 @@
         },
         {
           "guid": "A05_035",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N42_014",
           "grammatical_form": null
         }
       ],
@@ -17394,10 +17118,6 @@
         {
           "guid": "V01_009",
           "grammatical_form": null
-        },
-        {
-          "guid": "N42_014",
-          "grammatical_form": null
         }
       ],
       "pinyin": "tā men zài yǐ zi xià zhǎo dào le chōng diàn qì 。",
@@ -17414,10 +17134,6 @@
         {
           "guid": "V06_002",
           "grammatical_form": null
-        },
-        {
-          "guid": "N42_014",
-          "grammatical_form": null
         }
       ],
       "pinyin": "nǐ yǒu chē zài chōng diàn qì ma ？",
@@ -17433,10 +17149,6 @@
       "linked_words": [
         {
           "guid": "A05_109",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N42_015",
           "grammatical_form": null
         },
         {
@@ -17470,10 +17182,6 @@
         {
           "guid": "A01_002",
           "grammatical_form": null
-        },
-        {
-          "guid": "N42_016",
-          "grammatical_form": null
         }
       ],
       "pinyin": "wǒ zuó tiān mǎi le yí gè xiǎo de jì suàn jī 。",
@@ -17493,10 +17201,6 @@
         },
         {
           "guid": "V06_004",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N42_018",
           "grammatical_form": null
         }
       ],
@@ -17518,10 +17222,6 @@
         {
           "guid": "A01_002",
           "grammatical_form": null
-        },
-        {
-          "guid": "N42_018",
-          "grammatical_form": null
         }
       ],
       "pinyin": "wǒ men yǒu yī tái xiǎo de shè yǐng jī 。",
@@ -17535,10 +17235,6 @@
         "zh": "他把摄影机放下。"
       },
       "linked_words": [
-        {
-          "guid": "N42_018",
-          "grammatical_form": null
-        },
         {
           "guid": "V01_010",
           "grammatical_form": null

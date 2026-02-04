@@ -195,13 +195,13 @@
   },
   {
     "guid": "V01_018",
-    "base_target": "拿著",
+    "base_target": "拿着",
     "base_english": "hold",
     "corpus": "VERBS",
     "group": "Physical Action",
     "level": 17,
     "word_type": "verb",
-    "target_pinyin": "ná zhù",
+    "target_pinyin": "ná zhe",
     "tags": ["physical_action", "level_17"]
   },
   {
@@ -659,6 +659,138 @@
     "tags": ["physical_action", "level_20"]
   },
   {
+    "guid": "V01_060",
+    "base_target": "洗",
+    "base_english": "wash",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "xǐ",
+    "tags": ["physical_action", "level_25"]
+  },
+  {
+    "guid": "V01_061",
+    "base_target": "做飯",
+    "base_english": "cook",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "zuò fàn",
+    "tags": ["physical_action", "level_25"]
+  },
+  {
+    "guid": "V01_062",
+    "base_target": "打掃",
+    "base_english": "clean",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "dǎ sǎo",
+    "tags": ["physical_action", "level_25"]
+  },
+  {
+    "guid": "V01_063",
+    "base_target": "踢",
+    "base_english": "kick",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "tī",
+    "tags": ["physical_action", "level_25"]
+  },
+  {
+    "guid": "V02_009",
+    "base_target": "畫",
+    "base_english": "paint",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "huà",
+    "tags": ["creation_action", "level_25"]
+  },
+  {
+    "guid": "V02_010",
+    "base_target": "手工製作",
+    "base_english": "craft",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "shǒu gōng zhì zuò",
+    "tags": ["creation_action", "level_25"]
+  },
+  {
+    "guid": "V02_011",
+    "base_target": "生成",
+    "base_english": "generate",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "shēng chéng",
+    "tags": ["creation_action", "level_25"]
+  },
+  {
+    "guid": "V02_012",
+    "base_target": "建立",
+    "base_english": "establish",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "jiàn lì",
+    "tags": ["creation_action", "level_25"]
+  },
+  {
+    "guid": "V03_009",
+    "base_target": "擦除",
+    "base_english": "erase",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "cā chú",
+    "tags": ["destruction_action", "level_25"]
+  },
+  {
+    "guid": "V03_010",
+    "base_target": "燒燬",
+    "base_english": "burn",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "shāo huǐ",
+    "tags": ["destruction_action", "level_25"]
+  },
+  {
+    "guid": "V03_011",
+    "base_target": "溶解",
+    "base_english": "dissolve",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "róng jiě",
+    "tags": ["destruction_action", "level_25"]
+  },
+  {
+    "guid": "V03_012",
+    "base_target": "倒塌",
+    "base_english": "collapse",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "dǎo tā",
+    "tags": ["destruction_action", "level_25"]
+  },
+  {
     "guid": "V04_001",
     "base_target": "學習",
     "base_english": "learn",
@@ -770,13 +902,13 @@
   },
   {
     "guid": "V04_011",
-    "base_target": "意味著",
+    "base_target": "意味着",
     "base_english": "mean",
     "corpus": "VERBS",
     "group": "Mental State",
     "level": 17,
     "word_type": "verb",
-    "target_pinyin": "yì wèi zhù",
+    "target_pinyin": "yì wèi zhe",
     "tags": ["mental_state", "level_17"]
   },
   {
@@ -912,17 +1044,6 @@
     "tags": ["mental_state", "level_20"]
   },
   {
-    "guid": "V04_025",
-    "base_target": "注意到",
-    "base_english": "notice",
-    "corpus": "VERBS",
-    "group": "Mental State",
-    "level": 17,
-    "word_type": "verb",
-    "target_pinyin": "zhù yì dào",
-    "tags": ["mental_state", "level_17"]
-  },
-  {
     "guid": "V04_026",
     "base_target": "接受",
     "base_english": "accept",
@@ -946,7 +1067,7 @@
   },
   {
     "guid": "V04_028",
-    "base_target": "想像",
+    "base_target": "想象",
     "base_english": "imagine",
     "corpus": "VERBS",
     "group": "Mental State",
@@ -1020,6 +1141,39 @@
     "word_type": "verb",
     "target_pinyin": "tóng yì",
     "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_039",
+    "base_target": "懷疑",
+    "base_english": "doubt",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "huái yí",
+    "tags": ["mental_state", "level_25"]
+  },
+  {
+    "guid": "V04_040",
+    "base_target": "計劃",
+    "base_english": "plan",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "jì huà",
+    "tags": ["mental_state", "level_25"]
+  },
+  {
+    "guid": "V04_041",
+    "base_target": "比較",
+    "base_english": "compare",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "bǐ jiào",
+    "tags": ["mental_state", "level_25"]
   },
   {
     "guid": "V05_001",
@@ -1242,6 +1396,39 @@
     "tags": ["emotional_state", "level_20"]
   },
   {
+    "guid": "V05_021",
+    "base_target": "欽佩",
+    "base_english": "admire",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "qīn pèi",
+    "tags": ["emotional_state", "level_25"]
+  },
+  {
+    "guid": "V05_022",
+    "base_target": "嫉妒",
+    "base_english": "envy",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "jí dù",
+    "tags": ["emotional_state", "level_25"]
+  },
+  {
+    "guid": "V05_023",
+    "base_target": "使厭煩",
+    "base_english": "bore",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "shǐ yàn fán",
+    "tags": ["emotional_state", "level_25"]
+  },
+  {
     "guid": "V06_001",
     "base_target": "是",
     "base_english": "be",
@@ -1310,6 +1497,259 @@
     "tags": ["possession", "level_6"]
   },
   {
+    "guid": "V06_007",
+    "base_target": "賣",
+    "base_english": "sell",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "mài",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_008",
+    "base_target": "借",
+    "base_english": "borrow",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "jiè",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_009",
+    "base_target": "借出",
+    "base_english": "lend",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "jiè chū",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_010",
+    "base_target": "擁有",
+    "base_english": "own",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "yōng yǒu",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_011",
+    "base_target": "分享",
+    "base_english": "share",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "fēn xiǎng",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_012",
+    "base_target": "偷",
+    "base_english": "steal",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "tōu",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_013",
+    "base_target": "付",
+    "base_english": "pay",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "fù",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_014",
+    "base_target": "收到",
+    "base_english": "receive",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "shōu dào",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_015",
+    "base_target": "捐贈",
+    "base_english": "donate",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "juān zèng",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V07_002",
+    "base_target": "發展",
+    "base_english": "develop",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "fā zhǎn",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_003",
+    "base_target": "改善",
+    "base_english": "improve",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "gǎi shàn",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_004",
+    "base_target": "練習",
+    "base_english": "practice",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "liàn xí",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_005",
+    "base_target": "進步",
+    "base_english": "progress",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "jìn bù",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_006",
+    "base_target": "成熟",
+    "base_english": "mature",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "chéng shú",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_007",
+    "base_target": "進化",
+    "base_english": "evolve",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "jìn huà",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_008",
+    "base_target": "準備",
+    "base_english": "prepare",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "zhǔn bèi",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_009",
+    "base_target": "教育",
+    "base_english": "educate",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "jiào yù",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_010",
+    "base_target": "加強",
+    "base_english": "strengthen",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "jiā qiáng",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_011",
+    "base_target": "培育",
+    "base_english": "nurture",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "péi yù",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_012",
+    "base_target": "培養",
+    "base_english": "cultivate",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "péi yǎng",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_013",
+    "base_target": "前進",
+    "base_english": "advance",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "qián jìn",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_014",
+    "base_target": "精煉",
+    "base_english": "refine",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "jīng liàn",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_015",
+    "base_target": "繁榮",
+    "base_english": "flourish",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "fán róng",
+    "tags": ["development", "level_25"]
+  },
+  {
     "guid": "V08_001",
     "base_target": "成爲",
     "base_english": "become",
@@ -1374,6 +1814,105 @@
     "word_type": "verb",
     "target_pinyin": "kāi shǐ",
     "tags": ["change", "level_10"]
+  },
+  {
+    "guid": "V08_007",
+    "base_target": "結束",
+    "base_english": "end",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "jié shù",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_008",
+    "base_target": "完成",
+    "base_english": "finish",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "wán chéng",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_009",
+    "base_target": "增加",
+    "base_english": "increase",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "zēng jiā",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_010",
+    "base_target": "減少",
+    "base_english": "decrease",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "jiǎn shǎo",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_011",
+    "base_target": "替換",
+    "base_english": "replace",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "tì huàn",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_012",
+    "base_target": "轉變",
+    "base_english": "transform",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "zhuǎn biàn",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_013",
+    "base_target": "調整",
+    "base_english": "adjust",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "tiáo zhěng",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_014",
+    "base_target": "縮小",
+    "base_english": "shrink",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "suō xiǎo",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_015",
+    "base_target": "擴大",
+    "base_english": "expand",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "kuò dà",
+    "tags": ["change", "level_25"]
   },
   {
     "guid": "V09_001",
@@ -1586,6 +2125,50 @@
     "tags": ["communication", "level_17"]
   },
   {
+    "guid": "V09_021",
+    "base_target": "翻譯",
+    "base_english": "translate",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "fān yì",
+    "tags": ["communication", "level_25"]
+  },
+  {
+    "guid": "V09_022",
+    "base_target": "唱",
+    "base_english": "sing",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "chàng",
+    "tags": ["communication", "level_25"]
+  },
+  {
+    "guid": "V09_023",
+    "base_target": "請求",
+    "base_english": "request",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "qǐng qiú",
+    "tags": ["communication", "level_25"]
+  },
+  {
+    "guid": "V09_024",
+    "base_target": "否認",
+    "base_english": "deny",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "fǒu rèn",
+    "tags": ["communication", "level_25"]
+  },
+  {
     "guid": "V10_001",
     "base_target": "看見",
     "base_english": "see",
@@ -1656,7 +2239,7 @@
   {
     "guid": "V10_007",
     "base_target": "觀看",
-    "base_english": "watch",
+    "base_english": "watch (observe)",
     "corpus": "VERBS",
     "group": "Perception",
     "level": 17,
@@ -1676,15 +2259,59 @@
     "tags": ["perception", "level_17"]
   },
   {
-    "guid": "V11_001",
-    "base_target": "是",
-    "base_english": "be",
+    "guid": "V10_009",
+    "base_target": "檢查",
+    "base_english": "examine",
     "corpus": "VERBS",
-    "group": "Existence",
-    "level": 10,
+    "group": "Perception",
+    "level": 25,
     "word_type": "verb",
-    "target_pinyin": "shì",
-    "tags": ["existence", "level_10"]
+    "target_pinyin": "jiǎn chá",
+    "tags": ["perception", "level_25"]
+  },
+  {
+    "guid": "V10_010",
+    "base_target": "觀察",
+    "base_english": "observe",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "guān chá",
+    "tags": ["perception", "level_25"]
+  },
+  {
+    "guid": "V10_011",
+    "base_target": "探測",
+    "base_english": "detect",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "tàn cè",
+    "tags": ["perception", "level_25"]
+  },
+  {
+    "guid": "V10_012",
+    "base_target": "感知",
+    "base_english": "sense",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "gǎn zhī",
+    "tags": ["perception", "level_25"]
+  },
+  {
+    "guid": "V10_013",
+    "base_target": "發現",
+    "base_english": "discover",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "fā xiàn",
+    "tags": ["perception", "level_25"]
   },
   {
     "guid": "V11_002",
@@ -1740,6 +2367,116 @@
     "word_type": "verb",
     "target_pinyin": "dài",
     "tags": ["existence", "level_17"]
+  },
+  {
+    "guid": "V11_008",
+    "base_target": "倖存",
+    "base_english": "survive",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "xìng cún",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_009",
+    "base_target": "消失",
+    "base_english": "disappear",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "xiāo shī",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_010",
+    "base_target": "屬於",
+    "base_english": "belong",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "shǔ yú",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_011",
+    "base_target": "持續",
+    "base_english": "last",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "chí xù",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_012",
+    "base_target": "發生",
+    "base_english": "occur",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "fā shēng",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_013",
+    "base_target": "產生",
+    "base_english": "arise",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "chǎn shēng",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_014",
+    "base_target": "消逝",
+    "base_english": "vanish",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "xiāo shì",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_015",
+    "base_target": "浮現",
+    "base_english": "emerge",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "fú xiàn",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_016",
+    "base_target": "忍耐",
+    "base_english": "endure",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "rěn nài",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_017",
+    "base_target": "堅持",
+    "base_english": "persist",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "jiān chí",
+    "tags": ["existence", "level_25"]
   },
   {
     "guid": "V12_001",
@@ -1922,7 +2659,7 @@
   {
     "guid": "V12_017",
     "base_target": "帶領",
-    "base_english": "lead",
+    "base_english": "lead (guide)",
     "corpus": "VERBS",
     "group": "Directional Movement",
     "level": 20,
@@ -2006,5 +2743,49 @@
     "word_type": "verb",
     "target_pinyin": "pá",
     "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_025",
+    "base_target": "下降",
+    "base_english": "descend",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "xià jiàng",
+    "tags": ["directional_movement", "level_25"]
+  },
+  {
+    "guid": "V12_026",
+    "base_target": "游泳",
+    "base_english": "swim",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "yóu yǒng",
+    "tags": ["directional_movement", "level_25"]
+  },
+  {
+    "guid": "V12_027",
+    "base_target": "跳",
+    "base_english": "jump",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "tiào",
+    "tags": ["directional_movement", "level_25"]
+  },
+  {
+    "guid": "V12_028",
+    "base_target": "逃跑",
+    "base_english": "escape",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 25,
+    "word_type": "verb",
+    "target_pinyin": "táo pǎo",
+    "tags": ["directional_movement", "level_25"]
   }
 ]

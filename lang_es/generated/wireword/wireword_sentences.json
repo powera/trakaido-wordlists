@@ -2102,10 +2102,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
-        {
           "guid": "V01_002",
           "grammatical_form": "verb/es_3s_future"
         },
@@ -2147,10 +2143,6 @@
         "es": "El niño señala el avión."
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
         {
           "guid": "V01_052",
           "grammatical_form": "verb/es_3s_present"
@@ -2528,10 +2520,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
-        {
           "guid": "V01_012",
           "grammatical_form": "verb/es_3s_present"
         },
@@ -2600,10 +2588,6 @@
         "es": "El niño quiere una cuchara ahora."
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
         {
           "guid": "V05_004",
           "grammatical_form": "verb/es_3s_present"
@@ -2705,10 +2689,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
-        {
           "guid": "V03_002",
           "grammatical_form": "verb/es_3s_past"
         },
@@ -2754,10 +2734,6 @@
         "es": "El niño llevó dos platos pequeños."
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": "noun/es_singular"
-        },
         {
           "guid": "V01_025",
           "grammatical_form": "verb/es_3s_past"
@@ -3810,10 +3786,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
-        {
           "guid": "V05_004",
           "grammatical_form": "verb/es_3s_present"
         },
@@ -4758,10 +4730,6 @@
       },
       "linked_words": [
         {
-          "guid": "V11_001",
-          "grammatical_form": "verb/es_3p_present"
-        },
-        {
           "guid": "A19_002",
           "grammatical_form": null
         },
@@ -4868,10 +4836,6 @@
         "es": "Estaban emocionados de ver al perro."
       },
       "linked_words": [
-        {
-          "guid": "V11_001",
-          "grammatical_form": "verb/es_3p_past"
-        },
         {
           "guid": "A19_004",
           "grammatical_form": "adjective/es_plural_m"
@@ -5022,10 +4986,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
-        {
           "guid": "N02_001",
           "grammatical_form": null
         }
@@ -5040,10 +5000,6 @@
         "es": "Teníamos miedo durante la película."
       },
       "linked_words": [
-        {
-          "guid": "V11_001",
-          "grammatical_form": null
-        },
         {
           "guid": "A19_006",
           "grammatical_form": "noun/es_singular"
@@ -5154,10 +5110,6 @@
         {
           "guid": "A19_008",
           "grammatical_form": "adjective/es_singular_f"
-        },
-        {
-          "guid": "N35_040",
-          "grammatical_form": null
         }
       ],
       "source": "buivolas_guided_A19_008",
@@ -5196,10 +5148,6 @@
         {
           "guid": "N36_014",
           "grammatical_form": "noun/es_singular"
-        },
-        {
-          "guid": "V11_001",
-          "grammatical_form": "verb/es_3s_past"
         },
         {
           "guid": "A19_009",
@@ -5243,10 +5191,6 @@
         "es": "Estaba nervioso en la reunión."
       },
       "linked_words": [
-        {
-          "guid": "V11_001",
-          "grammatical_form": null
-        },
         {
           "guid": "A19_010",
           "grammatical_form": "adjective/es_singular_m"
@@ -5316,14 +5260,6 @@
         "es": "El niño está confundido por la cena."
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V11_001",
-          "grammatical_form": "verb/es_3s_present"
-        },
         {
           "guid": "A19_011",
           "grammatical_form": "adjective/es_singular_m"
@@ -5612,10 +5548,6 @@
       },
       "linked_words": [
         {
-          "guid": "V11_001",
-          "grammatical_form": "verb/es_3p_past"
-        },
-        {
           "guid": "A19_018",
           "grammatical_form": "adjective/es_plural_m"
         },
@@ -5742,10 +5674,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": "noun/es_singular"
-        },
-        {
           "guid": "A19_020",
           "grammatical_form": "adjective/es_singular_m"
         },
@@ -5830,10 +5758,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
-        {
           "guid": "A19_021",
           "grammatical_form": "adjective/es_singular_m"
         },
@@ -5880,10 +5804,6 @@
       },
       "linked_words": [
         {
-          "guid": "V11_001",
-          "grammatical_form": null
-        },
-        {
           "guid": "A19_024",
           "grammatical_form": "adjective/es_plural_m"
         },
@@ -5905,10 +5825,6 @@
         {
           "guid": "N01_059",
           "grammatical_form": "noun/es_singular"
-        },
-        {
-          "guid": "V11_001",
-          "grammatical_form": "verb/es_3s_present"
         },
         {
           "guid": "A19_024",
@@ -5957,10 +5873,6 @@
           "grammatical_form": "noun/es_singular"
         },
         {
-          "guid": "V11_001",
-          "grammatical_form": "verb/es_3s_present"
-        },
-        {
           "guid": "A19_025",
           "grammatical_form": "adjective/es_singular_m"
         },
@@ -5998,10 +5910,6 @@
         "es": "El niño cerró un ojo."
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
         {
           "guid": "V01_015",
           "grammatical_form": "verb/es_3s_past"
@@ -6067,10 +5975,6 @@
         "es": "El niño tiene una nariz roja."
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
         {
           "guid": "V06_002",
           "grammatical_form": "verb/es_3s_present"
@@ -6141,10 +6045,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
-        {
           "guid": "V01_010",
           "grammatical_form": "verb/es_3s_past"
         },
@@ -6190,10 +6090,6 @@
         "es": "El niño tiene una oreja pequeña."
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": "noun/es_singular"
-        },
         {
           "guid": "V06_002",
           "grammatical_form": "verb/es_3s_present"
@@ -7405,10 +7301,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": "noun/es_singular"
-        },
-        {
           "guid": "V01_057",
           "grammatical_form": "verb/es_3s_present"
         },
@@ -7815,10 +7707,6 @@
           "grammatical_form": null
         },
         {
-          "guid": "V11_001",
-          "grammatical_form": "verb/es_3s_present"
-        },
-        {
           "guid": "N36_015",
           "grammatical_form": null
         }
@@ -7882,10 +7770,6 @@
         {
           "guid": "N01_059",
           "grammatical_form": null
-        },
-        {
-          "guid": "V11_001",
-          "grammatical_form": "verb/es_3s_present"
         },
         {
           "guid": "N36_016",
@@ -8041,10 +7925,6 @@
           "grammatical_form": "noun/es_singular"
         },
         {
-          "guid": "V11_001",
-          "grammatical_form": "verb/es_3s_present"
-        },
-        {
           "guid": "N36_021",
           "grammatical_form": "noun/es_singular"
         },
@@ -8114,10 +7994,6 @@
           "grammatical_form": null
         },
         {
-          "guid": "V11_001",
-          "grammatical_form": "verb/es_3s_present"
-        },
-        {
           "guid": "N36_022",
           "grammatical_form": null
         },
@@ -8162,10 +8038,6 @@
         {
           "guid": "N01_059",
           "grammatical_form": "noun/es_singular"
-        },
-        {
-          "guid": "V11_001",
-          "grammatical_form": "verb/es_3s_present"
         },
         {
           "guid": "A05_015",
@@ -8237,10 +8109,6 @@
           "grammatical_form": "noun/es_singular"
         },
         {
-          "guid": "V11_001",
-          "grammatical_form": "verb/es_3s_present"
-        },
-        {
           "guid": "N36_030",
           "grammatical_form": "noun/es_singular"
         }
@@ -8285,10 +8153,6 @@
         {
           "guid": "N01_059",
           "grammatical_form": "noun/es_singular"
-        },
-        {
-          "guid": "V11_001",
-          "grammatical_form": "verb/es_3s_present"
         },
         {
           "guid": "N36_031",
@@ -8402,10 +8266,6 @@
           "grammatical_form": "noun/es_singular"
         },
         {
-          "guid": "V11_001",
-          "grammatical_form": "verb/es_3s_present"
-        },
-        {
           "guid": "N01_056",
           "grammatical_form": "noun/es_singular"
         },
@@ -8500,10 +8360,6 @@
         {
           "guid": "N01_057",
           "grammatical_form": "noun/es_singular"
-        },
-        {
-          "guid": "V11_001",
-          "grammatical_form": "verb/es_3s_present"
         },
         {
           "guid": "A19_001",
@@ -8671,10 +8527,6 @@
       },
       "linked_words": [
         {
-          "guid": "V11_001",
-          "grammatical_form": "verb/es_3s_present"
-        },
-        {
           "guid": "A05_015",
           "grammatical_form": "adjective/es_singular_f"
         },
@@ -8836,10 +8688,6 @@
       },
       "linked_words": [
         {
-          "guid": "N01_061",
-          "grammatical_form": "pronoun/es_subjective"
-        },
-        {
           "guid": "V12_007",
           "grammatical_form": "verb/es_3s_past"
         },
@@ -8858,10 +8706,6 @@
         "es": "¿Alguien llamó mi nombre?"
       },
       "linked_words": [
-        {
-          "guid": "N01_061",
-          "grammatical_form": "pronoun/es_objective"
-        },
         {
           "guid": "V09_007",
           "grammatical_form": "verb/es_3s_past"
@@ -8882,10 +8726,6 @@
       },
       "linked_words": [
         {
-          "guid": "N01_061",
-          "grammatical_form": null
-        },
-        {
           "guid": "V06_006",
           "grammatical_form": "verb/es_3s_past"
         },
@@ -8905,10 +8745,6 @@
       },
       "linked_words": [
         {
-          "guid": "N01_062",
-          "grammatical_form": "pronoun/es_subjective"
-        },
-        {
           "guid": "V05_004",
           "grammatical_form": "verb/es_3s_present"
         },
@@ -8927,10 +8763,6 @@
         "es": "Cualquiera puede ver al perro."
       },
       "linked_words": [
-        {
-          "guid": "N01_062",
-          "grammatical_form": "pronoun/es_subjective"
-        },
         {
           "guid": "V10_001",
           "grammatical_form": null
@@ -8953,10 +8785,6 @@
         {
           "guid": "V09_004",
           "grammatical_form": "verb/es_3s_past"
-        },
-        {
-          "guid": "N01_062",
-          "grammatical_form": "pronoun/es_objective"
         }
       ],
       "source": "buivolas_guided_N01_062",
@@ -8972,10 +8800,6 @@
         {
           "guid": "V09_003",
           "grammatical_form": "verb/es_1p_past"
-        },
-        {
-          "guid": "N01_062",
-          "grammatical_form": null
         }
       ],
       "source": "buivolas_guided_N01_062",
@@ -8988,10 +8812,6 @@
         "es": "Todo el mundo gusta del pan fresco."
       },
       "linked_words": [
-        {
-          "guid": "N01_063",
-          "grammatical_form": "noun/es_singular"
-        },
         {
           "guid": "V05_001",
           "grammatical_form": "verb/es_3s_present"
@@ -9016,10 +8836,6 @@
       },
       "linked_words": [
         {
-          "guid": "N01_063",
-          "grammatical_form": null
-        },
-        {
           "guid": "A05_055",
           "grammatical_form": "adjective/es_singular_m"
         },
@@ -9038,10 +8854,6 @@
         "es": "Todos se sentaron cerca del profesor."
       },
       "linked_words": [
-        {
-          "guid": "N01_063",
-          "grammatical_form": "pronoun/es_subjective"
-        },
         {
           "guid": "V01_032",
           "grammatical_form": "verb/es_3p_past"
@@ -9065,10 +8877,6 @@
         "es": "Todos encontraron asiento rápidamente."
       },
       "linked_words": [
-        {
-          "guid": "N01_063",
-          "grammatical_form": "pronoun/es_subjective"
-        },
         {
           "guid": "V01_009",
           "grammatical_form": "verb/es_3p_past"
@@ -9097,10 +8905,6 @@
           "grammatical_form": "verb/es_1s_past"
         },
         {
-          "guid": "N01_064",
-          "grammatical_form": "pronoun/es_objective"
-        },
-        {
           "guid": "N07_049",
           "grammatical_form": "noun/es_singular"
         }
@@ -9120,10 +8924,6 @@
           "grammatical_form": "verb/es_3s_present"
         },
         {
-          "guid": "N01_064",
-          "grammatical_form": "pronoun/es_subjective"
-        },
-        {
           "guid": "N50_005",
           "grammatical_form": "noun/es_singular"
         }
@@ -9141,10 +8941,6 @@
         {
           "guid": "V01_009",
           "grammatical_form": "verb/es_3p_past"
-        },
-        {
-          "guid": "N01_064",
-          "grammatical_form": "pronoun/es_objective"
         },
         {
           "guid": "N07_030",
@@ -10008,10 +9804,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": "noun/es_singular"
-        },
-        {
           "guid": "V10_006",
           "grammatical_form": "verb/es_3s_present"
         },
@@ -10183,10 +9975,6 @@
         "es": "El niño juega en la hierba."
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
         {
           "guid": "V01_006",
           "grammatical_form": "verb/es_3s_present"
@@ -11589,10 +11377,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": "noun/es_singular"
-        },
-        {
           "guid": "V06_002",
           "grammatical_form": null
         },
@@ -11689,10 +11473,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
-        {
           "guid": "V01_048",
           "grammatical_form": "verb/es_3s_past"
         },
@@ -11730,10 +11510,6 @@
         "es": "Un niño encontró una hoja hoy."
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
         {
           "guid": "V01_009",
           "grammatical_form": "verb/es_3s_past"
@@ -12175,10 +11951,6 @@
         {
           "guid": "N42_006",
           "grammatical_form": "noun/es_singular"
-        },
-        {
-          "guid": "N35_040",
-          "grammatical_form": null
         }
       ],
       "source": "buivolas_guided_N42_006",
@@ -13094,10 +12866,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
-        {
           "guid": "V01_009",
           "grammatical_form": "verb/es_3s_past"
         },
@@ -13466,10 +13234,6 @@
       },
       "linked_words": [
         {
-          "guid": "N35_040",
-          "grammatical_form": null
-        },
-        {
           "guid": "V01_006",
           "grammatical_form": "verb/es_3p_present"
         },
@@ -13659,10 +13423,6 @@
         "es": "Ellos son fuertes después del entrenamiento."
       },
       "linked_words": [
-        {
-          "guid": "V11_001",
-          "grammatical_form": "verb/es_3p_present"
-        },
         {
           "guid": "A05_025",
           "grammatical_form": null
@@ -13863,10 +13623,6 @@
       },
       "linked_words": [
         {
-          "guid": "V11_001",
-          "grammatical_form": "verb/es_3p_present"
-        },
-        {
           "guid": "A16_003",
           "grammatical_form": "adjective/es_singular_m"
         },
@@ -13904,10 +13660,6 @@
         "es": "El niño se sintió tímido hoy."
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": "noun/es_singular"
-        },
         {
           "guid": "V05_005",
           "grammatical_form": "verb/es_3s_past"
@@ -14050,10 +13802,6 @@
         "es": "El niño es valiente en la escuela."
       },
       "linked_words": [
-        {
-          "guid": "N35_040",
-          "grammatical_form": "noun/es_singular"
-        },
         {
           "guid": "A16_009",
           "grammatical_form": null
@@ -14701,10 +14449,6 @@
         {
           "guid": "N06_021",
           "grammatical_form": "noun/es_singular"
-        },
-        {
-          "guid": "V11_001",
-          "grammatical_form": "verb/es_3s_present"
         },
         {
           "guid": "A18_009",
@@ -16396,10 +16140,6 @@
       },
       "linked_words": [
         {
-          "guid": "N42_008",
-          "grammatical_form": "noun/es_singular"
-        },
-        {
           "guid": "N08_014",
           "grammatical_form": "noun/es_singular"
         }
@@ -16417,10 +16157,6 @@
         {
           "guid": "V06_004",
           "grammatical_form": "verb/es_1p_past"
-        },
-        {
-          "guid": "N42_008",
-          "grammatical_form": null
         }
       ],
       "source": "buivolas_guided_N42_008",
@@ -16433,14 +16169,6 @@
         "es": "Ella tiene una cámara fotográfica nueva."
       },
       "linked_words": [
-        {
-          "guid": "N42_009",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N42_009",
-          "grammatical_form": "adjective/es_singular_f"
-        },
         {
           "guid": "A05_035",
           "grammatical_form": "adjective/es_singular_f"
@@ -16463,10 +16191,6 @@
         {
           "guid": "Z01_003",
           "grammatical_form": null
-        },
-        {
-          "guid": "N42_009",
-          "grammatical_form": "noun/es_plural"
         }
       ],
       "source": "buivolas_guided_N42_009",
@@ -16482,10 +16206,6 @@
         {
           "guid": "V10_007",
           "grammatical_form": "verb/es_3s_present"
-        },
-        {
-          "guid": "N42_010",
-          "grammatical_form": null
         },
         {
           "guid": "N25_003",
@@ -16505,10 +16225,6 @@
         {
           "guid": "V06_004",
           "grammatical_form": "verb/es_3s_past"
-        },
-        {
-          "guid": "N42_010",
-          "grammatical_form": null
         },
         {
           "guid": "A05_035",
@@ -16534,10 +16250,6 @@
           "grammatical_form": "verb/es_1p_past"
         },
         {
-          "guid": "N42_010",
-          "grammatical_form": null
-        },
-        {
           "guid": "N07_035",
           "grammatical_form": null
         }
@@ -16554,10 +16266,6 @@
       "linked_words": [
         {
           "guid": "V04_005",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N42_011",
           "grammatical_form": null
         }
       ],
@@ -16578,10 +16286,6 @@
         {
           "guid": "A01_002",
           "grammatical_form": "adjective/es_singular_m"
-        },
-        {
-          "guid": "N42_011",
-          "grammatical_form": "noun/es_singular"
         }
       ],
       "source": "buivolas_guided_N42_011",
@@ -16601,10 +16305,6 @@
         {
           "guid": "N41_016",
           "grammatical_form": "noun/es_singular"
-        },
-        {
-          "guid": "N42_011",
-          "grammatical_form": "noun/es_singular"
         }
       ],
       "source": "buivolas_guided_N42_011",
@@ -16617,10 +16317,6 @@
         "es": "El altavoz está sobre la mesa."
       },
       "linked_words": [
-        {
-          "guid": "N42_012",
-          "grammatical_form": "noun/es_singular"
-        },
         {
           "guid": "N39_006",
           "grammatical_form": "noun/es_singular"
@@ -16639,10 +16335,6 @@
         {
           "guid": "V06_004",
           "grammatical_form": "verb/es_3s_past"
-        },
-        {
-          "guid": "N42_012",
-          "grammatical_form": "noun/es_singular"
         }
       ],
       "source": "buivolas_guided_N42_012",
@@ -16662,10 +16354,6 @@
         {
           "guid": "N41_016",
           "grammatical_form": null
-        },
-        {
-          "guid": "N42_012",
-          "grammatical_form": null
         }
       ],
       "source": "buivolas_guided_N42_012",
@@ -16683,10 +16371,6 @@
           "grammatical_form": "verb/es_3s_past"
         },
         {
-          "guid": "N42_012",
-          "grammatical_form": null
-        },
-        {
           "guid": "N47_001",
           "grammatical_form": null
         }
@@ -16701,10 +16385,6 @@
         "es": "Uso auriculares cuando salgo a caminar."
       },
       "linked_words": [
-        {
-          "guid": "N42_013",
-          "grammatical_form": "noun/es_plural"
-        },
         {
           "guid": "V12_001",
           "grammatical_form": null
@@ -16725,10 +16405,6 @@
           "grammatical_form": "verb/es_3s_past"
         },
         {
-          "guid": "N42_013",
-          "grammatical_form": "noun/es_plural"
-        },
-        {
           "guid": "A05_035",
           "grammatical_form": "adjective/es_plural_m"
         }
@@ -16746,10 +16422,6 @@
         {
           "guid": "V04_005",
           "grammatical_form": "verb/es_3p_present"
-        },
-        {
-          "guid": "N42_013",
-          "grammatical_form": "noun/es_plural"
         }
       ],
       "source": "buivolas_guided_N42_013",
@@ -16765,10 +16437,6 @@
         {
           "guid": "V01_045",
           "grammatical_form": "verb/es_3s_past"
-        },
-        {
-          "guid": "N42_013",
-          "grammatical_form": "noun/es_plural"
         },
         {
           "guid": "N07_002",
@@ -16790,10 +16458,6 @@
           "grammatical_form": "verb/es_3s_past"
         },
         {
-          "guid": "N42_014",
-          "grammatical_form": "noun/es_singular"
-        },
-        {
           "guid": "A05_035",
           "grammatical_form": "adjective/es_singular_m"
         }
@@ -16811,10 +16475,6 @@
         {
           "guid": "V01_009",
           "grammatical_form": "verb/es_3p_past"
-        },
-        {
-          "guid": "N42_014",
-          "grammatical_form": null
         },
         {
           "guid": "N39_001",
@@ -16836,10 +16496,6 @@
           "grammatical_form": "verb/es_2s_present"
         },
         {
-          "guid": "N42_014",
-          "grammatical_form": null
-        },
-        {
           "guid": "N40_001",
           "grammatical_form": null
         }
@@ -16857,10 +16513,6 @@
         {
           "guid": "V01_010",
           "grammatical_form": "verb/es_3s_past"
-        },
-        {
-          "guid": "N42_015",
-          "grammatical_form": "noun/es_plural"
         },
         {
           "guid": "A05_109",
@@ -16886,10 +16538,6 @@
           "grammatical_form": "verb/es_1s_past"
         },
         {
-          "guid": "N42_016",
-          "grammatical_form": "noun/es_singular"
-        },
-        {
           "guid": "A01_002",
           "grammatical_form": "adjective/es_singular_f"
         },
@@ -16913,10 +16561,6 @@
           "grammatical_form": "verb/es_3s_past"
         },
         {
-          "guid": "N42_018",
-          "grammatical_form": null
-        },
-        {
           "guid": "D03_002",
           "grammatical_form": null
         }
@@ -16938,10 +16582,6 @@
         {
           "guid": "A01_002",
           "grammatical_form": "adjective/es_singular_f"
-        },
-        {
-          "guid": "N42_018",
-          "grammatical_form": null
         }
       ],
       "source": "buivolas_guided_N42_018",
@@ -16957,10 +16597,6 @@
         {
           "guid": "V01_010",
           "grammatical_form": "verb/es_3s_past"
-        },
-        {
-          "guid": "N42_018",
-          "grammatical_form": null
         },
         {
           "guid": "D07_027",
