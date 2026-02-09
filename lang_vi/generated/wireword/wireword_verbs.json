@@ -280,16 +280,6 @@
     "tags": ["physical_action", "level_17"]
   },
   {
-    "guid": "V01_029",
-    "base_target": "làm vỡ",
-    "base_english": "break",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 17,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_17"]
-  },
-  {
     "guid": "V01_030",
     "base_target": "đốt",
     "base_english": "burn",
@@ -580,16 +570,6 @@
     "tags": ["physical_action", "level_17"]
   },
   {
-    "guid": "V01_059",
-    "base_target": "phá hủy",
-    "base_english": "destroy",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 20,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_20"]
-  },
-  {
     "guid": "V01_060",
     "base_target": "rửa",
     "base_english": "wash",
@@ -630,6 +610,436 @@
     "tags": ["physical_action", "level_25"]
   },
   {
+    "guid": "V01_064",
+    "base_target": "đánh",
+    "base_english": "beat",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_065",
+    "base_target": "chặn",
+    "base_english": "block",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_066",
+    "base_target": "đun sôi",
+    "base_english": "boil",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_067",
+    "base_target": "chải",
+    "base_english": "brush",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_068",
+    "base_target": "chạm khắc",
+    "base_english": "carve",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_069",
+    "base_target": "thu thập",
+    "base_english": "collect",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_070",
+    "base_target": "cho ăn",
+    "base_english": "feed",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_071",
+    "base_target": "đổ đầy",
+    "base_english": "fill",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_072",
+    "base_target": "sửa",
+    "base_english": "fix",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_073",
+    "base_target": "cong",
+    "base_english": "flex",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_074",
+    "base_target": "lật",
+    "base_english": "flip",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_075",
+    "base_target": "gấp",
+    "base_english": "fold",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_076",
+    "base_target": "chất hàng",
+    "base_english": "load",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_077",
+    "base_target": "mát-xa",
+    "base_english": "massage",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_078",
+    "base_target": "bóc vỏ",
+    "base_english": "peel",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_079",
+    "base_target": "trồng",
+    "base_english": "plant (put in ground)",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_080",
+    "base_target": "ấn",
+    "base_english": "press",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_081",
+    "base_target": "sửa chữa",
+    "base_english": "repair",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_082",
+    "base_target": "lăn",
+    "base_english": "roll",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_083",
+    "base_target": "chà",
+    "base_english": "rub",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_084",
+    "base_target": "cạo",
+    "base_english": "scrape",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_085",
+    "base_target": "mài",
+    "base_english": "sharpen",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_086",
+    "base_target": "nhảy",
+    "base_english": "skip",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_087",
+    "base_target": "làm đổ",
+    "base_english": "spill",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_088",
+    "base_target": "xếp chồng",
+    "base_english": "stack",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_089",
+    "base_target": "khuấy",
+    "base_english": "stir",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_090",
+    "base_target": "dán",
+    "base_english": "stick (attach)",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_091",
+    "base_target": "vấp",
+    "base_english": "stub",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_092",
+    "base_target": "dán băng keo",
+    "base_english": "tape",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_093",
+    "base_target": "buộc",
+    "base_english": "tie",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_094",
+    "base_target": "xoắn",
+    "base_english": "twist",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_095",
+    "base_target": "vẫy tay",
+    "base_english": "wave",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_096",
+    "base_target": "lau",
+    "base_english": "wipe",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_097",
+    "base_target": "gói",
+    "base_english": "wrap",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_098",
+    "base_target": "phục vụ",
+    "base_english": "serve",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_099",
+    "base_target": "hành động",
+    "base_english": "act",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_100",
+    "base_target": "đặt",
+    "base_english": "set",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V02_002",
+    "base_target": "xây dựng",
+    "base_english": "build",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_003",
+    "base_target": "tạo ra",
+    "base_english": "create",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_004",
+    "base_target": "viết",
+    "base_english": "write",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_005",
+    "base_target": "thiết kế",
+    "base_english": "design",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_006",
+    "base_target": "sáng tác",
+    "base_english": "compose",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_007",
+    "base_target": "phát minh",
+    "base_english": "invent",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
     "guid": "V02_009",
     "base_target": "vẽ",
     "base_english": "paint",
@@ -668,6 +1078,86 @@
     "level": 25,
     "word_type": "verb",
     "tags": ["creation_action", "level_25"]
+  },
+  {
+    "guid": "V03_001",
+    "base_target": "phá hủy",
+    "base_english": "destroy",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_002",
+    "base_target": "làm vỡ",
+    "base_english": "break",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_003",
+    "base_target": "xé",
+    "base_english": "tear",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_004",
+    "base_target": "phá dỡ",
+    "base_english": "demolish",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_005",
+    "base_target": "nghiền nát",
+    "base_english": "crush",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_006",
+    "base_target": "đập vỡ",
+    "base_english": "smash",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_007",
+    "base_target": "hủy hoại",
+    "base_english": "ruin",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_008",
+    "base_target": "vỡ tan",
+    "base_english": "shatter",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
   },
   {
     "guid": "V03_009",
@@ -770,16 +1260,6 @@
     "tags": ["mental_state", "level_10"]
   },
   {
-    "guid": "V04_007",
-    "base_target": "nhìn thấy",
-    "base_english": "see",
-    "corpus": "VERBS",
-    "group": "Mental State",
-    "level": 17,
-    "word_type": "verb",
-    "tags": ["mental_state", "level_17"]
-  },
-  {
     "guid": "V04_008",
     "base_target": "nghĩ",
     "base_english": "think",
@@ -870,16 +1350,6 @@
     "tags": ["mental_state", "level_17"]
   },
   {
-    "guid": "V04_017",
-    "base_target": "trở thành",
-    "base_english": "become",
-    "corpus": "VERBS",
-    "group": "Mental State",
-    "level": 17,
-    "word_type": "verb",
-    "tags": ["mental_state", "level_17"]
-  },
-  {
     "guid": "V04_018",
     "base_target": "dường như",
     "base_english": "seem",
@@ -888,6 +1358,16 @@
     "level": 17,
     "word_type": "verb",
     "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_019",
+    "base_target": "cho rằng",
+    "base_english": "suppose",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_29"]
   },
   {
     "guid": "V04_020",
@@ -970,6 +1450,16 @@
     "tags": ["mental_state", "level_20"]
   },
   {
+    "guid": "V04_029",
+    "base_target": "dám",
+    "base_english": "dare",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
     "guid": "V04_030",
     "base_target": "nhận ra",
     "base_english": "realize",
@@ -1030,6 +1520,36 @@
     "tags": ["mental_state", "level_17"]
   },
   {
+    "guid": "V04_036",
+    "base_target": "gật đầu",
+    "base_english": "nod",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
+    "guid": "V04_037",
+    "base_target": "nhìn chằm chằm",
+    "base_english": "stare",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
+    "guid": "V04_038",
+    "base_target": "liếc nhìn",
+    "base_english": "glance",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
     "guid": "V04_039",
     "base_target": "nghi ngờ",
     "base_english": "doubt",
@@ -1058,6 +1578,46 @@
     "level": 25,
     "word_type": "verb",
     "tags": ["mental_state", "level_25"]
+  },
+  {
+    "guid": "V04_042",
+    "base_target": "tham dự",
+    "base_english": "attend",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_27"]
+  },
+  {
+    "guid": "V04_043",
+    "base_target": "kiểm tra",
+    "base_english": "check",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_27"]
+  },
+  {
+    "guid": "V04_044",
+    "base_target": "đo",
+    "base_english": "measure",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_27"]
+  },
+  {
+    "guid": "V04_045",
+    "base_target": "nghỉ ngơi",
+    "base_english": "rest",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_27"]
   },
   {
     "guid": "V05_001",
@@ -1440,6 +2000,26 @@
     "tags": ["possession", "level_25"]
   },
   {
+    "guid": "V06_016",
+    "base_target": "thuê",
+    "base_english": "hire",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["possession", "level_27"]
+  },
+  {
+    "guid": "V07_001",
+    "base_target": "huấn luyện",
+    "base_english": "train",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["development", "level_29"]
+  },
+  {
     "guid": "V07_002",
     "base_target": "phát triển",
     "base_english": "develop",
@@ -1578,6 +2158,16 @@
     "level": 25,
     "word_type": "verb",
     "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_016",
+    "base_target": "nuôi dạy",
+    "base_english": "raise",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["development", "level_27"]
   },
   {
     "guid": "V08_001",
@@ -1730,6 +2320,56 @@
     "tags": ["change", "level_25"]
   },
   {
+    "guid": "V08_016",
+    "base_target": "kết nối",
+    "base_english": "connect",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_017",
+    "base_target": "đốt",
+    "base_english": "light (ignite)",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_018",
+    "base_target": "giới hạn",
+    "base_english": "limit",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_019",
+    "base_target": "gây ra",
+    "base_english": "cause",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_020",
+    "base_target": "cho phép",
+    "base_english": "allow",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["change", "level_27"]
+  },
+  {
     "guid": "V09_001",
     "base_target": "nói chuyện",
     "base_english": "talk",
@@ -1808,6 +2448,16 @@
     "level": 17,
     "word_type": "verb",
     "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_009",
+    "base_target": "thì thầm",
+    "base_english": "whisper",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["communication", "level_29"]
   },
   {
     "guid": "V09_010",
@@ -1958,6 +2608,46 @@
     "level": 25,
     "word_type": "verb",
     "tags": ["communication", "level_25"]
+  },
+  {
+    "guid": "V09_025",
+    "base_target": "càm ràm",
+    "base_english": "grunt",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["communication", "level_27"]
+  },
+  {
+    "guid": "V09_026",
+    "base_target": "gửi thư",
+    "base_english": "mail",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["communication", "level_27"]
+  },
+  {
+    "guid": "V09_027",
+    "base_target": "đăng",
+    "base_english": "post",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["communication", "level_27"]
+  },
+  {
+    "guid": "V09_028",
+    "base_target": "ký",
+    "base_english": "sign",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["communication", "level_27"]
   },
   {
     "guid": "V10_001",
@@ -2518,5 +3208,25 @@
     "level": 25,
     "word_type": "verb",
     "tags": ["directional_movement", "level_25"]
+  },
+  {
+    "guid": "V12_029",
+    "base_target": "đi thuyền",
+    "base_english": "sail",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_27"]
+  },
+  {
+    "guid": "V12_030",
+    "base_target": "thăm",
+    "base_english": "visit",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_27"]
   }
 ]

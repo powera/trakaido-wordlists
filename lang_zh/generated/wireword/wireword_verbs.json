@@ -315,17 +315,6 @@
     "tags": ["physical_action", "level_17"]
   },
   {
-    "guid": "V01_029",
-    "base_target": "打破",
-    "base_english": "break",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 17,
-    "word_type": "verb",
-    "target_pinyin": "dǎ pò",
-    "tags": ["physical_action", "level_17"]
-  },
-  {
     "guid": "V01_030",
     "base_target": "烧",
     "base_english": "burn",
@@ -648,17 +637,6 @@
     "tags": ["physical_action", "level_17"]
   },
   {
-    "guid": "V01_059",
-    "base_target": "摧毁",
-    "base_english": "destroy",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 20,
-    "word_type": "verb",
-    "target_pinyin": "cuī huǐ",
-    "tags": ["physical_action", "level_20"]
-  },
-  {
     "guid": "V01_060",
     "base_target": "洗",
     "base_english": "wash",
@@ -703,6 +681,479 @@
     "tags": ["physical_action", "level_25"]
   },
   {
+    "guid": "V01_064",
+    "base_target": "击打",
+    "base_english": "beat",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "jī dǎ",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_065",
+    "base_target": "阻挡",
+    "base_english": "block",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "zǔ dǎng",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_066",
+    "base_target": "煮沸",
+    "base_english": "boil",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "zhǔ fèi",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_067",
+    "base_target": "刷",
+    "base_english": "brush",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "shuā",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_068",
+    "base_target": "雕刻",
+    "base_english": "carve",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "diāo kè",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_069",
+    "base_target": "收集",
+    "base_english": "collect",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "shōu jí",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_070",
+    "base_target": "喂",
+    "base_english": "feed",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "wèi",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_071",
+    "base_target": "填充",
+    "base_english": "fill",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "tián chōng",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_072",
+    "base_target": "修理",
+    "base_english": "fix",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "xiū lǐ",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_073",
+    "base_target": "屈曲",
+    "base_english": "flex",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "qū qǔ",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_074",
+    "base_target": "翻转",
+    "base_english": "flip",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "fān zhuǎn",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_075",
+    "base_target": "折叠",
+    "base_english": "fold",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "zhé dié",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_076",
+    "base_target": "装载",
+    "base_english": "load",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "zhuāng zài",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_077",
+    "base_target": "按摩",
+    "base_english": "massage",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "àn mó",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_078",
+    "base_target": "剥皮",
+    "base_english": "peel",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "bāo pí",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_079",
+    "base_target": "种植",
+    "base_english": "plant (put in ground)",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "zhòng zhí",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_080",
+    "base_target": "按压",
+    "base_english": "press",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "àn yā",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_081",
+    "base_target": "修复",
+    "base_english": "repair",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "xiū fù",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_082",
+    "base_target": "滚动",
+    "base_english": "roll",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "gǔn dòng",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_083",
+    "base_target": "擦",
+    "base_english": "rub",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "cā",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_084",
+    "base_target": "刮",
+    "base_english": "scrape",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "guā",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_085",
+    "base_target": "削尖",
+    "base_english": "sharpen",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "xuē jiān",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_086",
+    "base_target": "跳跃",
+    "base_english": "skip",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "tiào yuè",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_087",
+    "base_target": "洒出",
+    "base_english": "spill",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "sǎ chū",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_088",
+    "base_target": "堆叠",
+    "base_english": "stack",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "duī dié",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_089",
+    "base_target": "搅拌",
+    "base_english": "stir",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "jiǎo bàn",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_090",
+    "base_target": "粘贴",
+    "base_english": "stick (attach)",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "zhān tiē",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_091",
+    "base_target": "撞到",
+    "base_english": "stub",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "zhuàng dào",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_092",
+    "base_target": "用胶带粘",
+    "base_english": "tape",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "yòng jiāo dài zhān",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_093",
+    "base_target": "系",
+    "base_english": "tie",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "xì",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_094",
+    "base_target": "扭转",
+    "base_english": "twist",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "niǔ zhuǎn",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_095",
+    "base_target": "挥手",
+    "base_english": "wave",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "huī shǒu",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_096",
+    "base_target": "擦拭",
+    "base_english": "wipe",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "cā shì",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_097",
+    "base_target": "包裹",
+    "base_english": "wrap",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "bāo guǒ",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_098",
+    "base_target": "服务",
+    "base_english": "serve",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "fú wù",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_099",
+    "base_target": "行动",
+    "base_english": "act",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "xíng dòng",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_100",
+    "base_target": "放置",
+    "base_english": "set",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "fàng zhì",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V02_002",
+    "base_target": "建造",
+    "base_english": "build",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "target_pinyin": "jiàn zào",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_003",
+    "base_target": "创造",
+    "base_english": "create",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "target_pinyin": "chuàng zào",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_004",
+    "base_target": "写",
+    "base_english": "write",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "target_pinyin": "xiě",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_005",
+    "base_target": "设计",
+    "base_english": "design",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "target_pinyin": "shè jì",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_006",
+    "base_target": "作曲",
+    "base_english": "compose",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "target_pinyin": "zuò qǔ",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_007",
+    "base_target": "发明",
+    "base_english": "invent",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "target_pinyin": "fā míng",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
     "guid": "V02_009",
     "base_target": "画",
     "base_english": "paint",
@@ -745,6 +1196,94 @@
     "word_type": "verb",
     "target_pinyin": "jiàn lì",
     "tags": ["creation_action", "level_25"]
+  },
+  {
+    "guid": "V03_001",
+    "base_target": "摧毁",
+    "base_english": "destroy",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "target_pinyin": "cuī huǐ",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_002",
+    "base_target": "打破",
+    "base_english": "break",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "target_pinyin": "dǎ pò",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_003",
+    "base_target": "撕裂",
+    "base_english": "tear",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "target_pinyin": "sī liè",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_004",
+    "base_target": "拆除",
+    "base_english": "demolish",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "target_pinyin": "chāi chú",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_005",
+    "base_target": "压碎",
+    "base_english": "crush",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "target_pinyin": "yā suì",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_006",
+    "base_target": "粉碎",
+    "base_english": "smash",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "target_pinyin": "fěn suì",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_007",
+    "base_target": "毁坏",
+    "base_english": "ruin",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "target_pinyin": "huǐ huài",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_008",
+    "base_target": "打碎",
+    "base_english": "shatter",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "target_pinyin": "dǎ suì",
+    "tags": ["destruction_action", "level_29"]
   },
   {
     "guid": "V03_009",
@@ -857,17 +1396,6 @@
     "tags": ["mental_state", "level_10"]
   },
   {
-    "guid": "V04_007",
-    "base_target": "看见",
-    "base_english": "see",
-    "corpus": "VERBS",
-    "group": "Mental State",
-    "level": 17,
-    "word_type": "verb",
-    "target_pinyin": "kàn jiàn",
-    "tags": ["mental_state", "level_17"]
-  },
-  {
     "guid": "V04_008",
     "base_target": "想",
     "base_english": "think",
@@ -967,17 +1495,6 @@
     "tags": ["mental_state", "level_17"]
   },
   {
-    "guid": "V04_017",
-    "base_target": "成为",
-    "base_english": "become",
-    "corpus": "VERBS",
-    "group": "Mental State",
-    "level": 17,
-    "word_type": "verb",
-    "target_pinyin": "chéng wéi",
-    "tags": ["mental_state", "level_17"]
-  },
-  {
     "guid": "V04_018",
     "base_target": "似乎",
     "base_english": "seem",
@@ -987,6 +1504,17 @@
     "word_type": "verb",
     "target_pinyin": "sì hū",
     "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_019",
+    "base_target": "假设",
+    "base_english": "suppose",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "target_pinyin": "jiǎ shè",
+    "tags": ["mental_state", "level_29"]
   },
   {
     "guid": "V04_020",
@@ -1077,6 +1605,17 @@
     "tags": ["mental_state", "level_20"]
   },
   {
+    "guid": "V04_029",
+    "base_target": "敢",
+    "base_english": "dare",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "target_pinyin": "gǎn",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
     "guid": "V04_030",
     "base_target": "意识到",
     "base_english": "realize",
@@ -1143,6 +1682,39 @@
     "tags": ["mental_state", "level_17"]
   },
   {
+    "guid": "V04_036",
+    "base_target": "点头",
+    "base_english": "nod",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "target_pinyin": "diǎn tóu",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
+    "guid": "V04_037",
+    "base_target": "盯着看",
+    "base_english": "stare",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "target_pinyin": "dīng zhe kàn",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
+    "guid": "V04_038",
+    "base_target": "瞥一眼",
+    "base_english": "glance",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "target_pinyin": "piē yì yǎn",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
     "guid": "V04_039",
     "base_target": "怀疑",
     "base_english": "doubt",
@@ -1174,6 +1746,50 @@
     "word_type": "verb",
     "target_pinyin": "bǐ jiào",
     "tags": ["mental_state", "level_25"]
+  },
+  {
+    "guid": "V04_042",
+    "base_target": "参加",
+    "base_english": "attend",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "cān jiā",
+    "tags": ["mental_state", "level_27"]
+  },
+  {
+    "guid": "V04_043",
+    "base_target": "检查",
+    "base_english": "check",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "jiǎn chá",
+    "tags": ["mental_state", "level_27"]
+  },
+  {
+    "guid": "V04_044",
+    "base_target": "测量",
+    "base_english": "measure",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "cè liáng",
+    "tags": ["mental_state", "level_27"]
+  },
+  {
+    "guid": "V04_045",
+    "base_target": "休息",
+    "base_english": "rest",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "xiū xī",
+    "tags": ["mental_state", "level_27"]
   },
   {
     "guid": "V05_001",
@@ -1596,6 +2212,28 @@
     "tags": ["possession", "level_25"]
   },
   {
+    "guid": "V06_016",
+    "base_target": "雇用",
+    "base_english": "hire",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "gù yòng",
+    "tags": ["possession", "level_27"]
+  },
+  {
+    "guid": "V07_001",
+    "base_target": "训练",
+    "base_english": "train",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 29,
+    "word_type": "verb",
+    "target_pinyin": "xùn liàn",
+    "tags": ["development", "level_29"]
+  },
+  {
     "guid": "V07_002",
     "base_target": "发展",
     "base_english": "develop",
@@ -1748,6 +2386,17 @@
     "word_type": "verb",
     "target_pinyin": "fán róng",
     "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_016",
+    "base_target": "养育",
+    "base_english": "raise",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "yǎng yù",
+    "tags": ["development", "level_27"]
   },
   {
     "guid": "V08_001",
@@ -1915,6 +2564,61 @@
     "tags": ["change", "level_25"]
   },
   {
+    "guid": "V08_016",
+    "base_target": "连接",
+    "base_english": "connect",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "lián jiē",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_017",
+    "base_target": "点燃",
+    "base_english": "light (ignite)",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "diǎn rán",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_018",
+    "base_target": "限制",
+    "base_english": "limit",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "xiàn zhì",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_019",
+    "base_target": "导致",
+    "base_english": "cause",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "dǎo zhì",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_020",
+    "base_target": "允许",
+    "base_english": "allow",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "yǔn xǔ",
+    "tags": ["change", "level_27"]
+  },
+  {
     "guid": "V09_001",
     "base_target": "谈话",
     "base_english": "talk",
@@ -2002,6 +2706,17 @@
     "word_type": "verb",
     "target_pinyin": "hǎn",
     "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_009",
+    "base_target": "低语",
+    "base_english": "whisper",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 29,
+    "word_type": "verb",
+    "target_pinyin": "dī yǔ",
+    "tags": ["communication", "level_29"]
   },
   {
     "guid": "V09_010",
@@ -2167,6 +2882,50 @@
     "word_type": "verb",
     "target_pinyin": "fǒu rèn",
     "tags": ["communication", "level_25"]
+  },
+  {
+    "guid": "V09_025",
+    "base_target": "咕哝",
+    "base_english": "grunt",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "gū nóng",
+    "tags": ["communication", "level_27"]
+  },
+  {
+    "guid": "V09_026",
+    "base_target": "邮寄",
+    "base_english": "mail",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "yóu jì",
+    "tags": ["communication", "level_27"]
+  },
+  {
+    "guid": "V09_027",
+    "base_target": "发布",
+    "base_english": "post",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "fā bù",
+    "tags": ["communication", "level_27"]
+  },
+  {
+    "guid": "V09_028",
+    "base_target": "签名",
+    "base_english": "sign",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "qiān míng",
+    "tags": ["communication", "level_27"]
   },
   {
     "guid": "V10_001",
@@ -2787,5 +3546,27 @@
     "word_type": "verb",
     "target_pinyin": "táo pǎo",
     "tags": ["directional_movement", "level_25"]
+  },
+  {
+    "guid": "V12_029",
+    "base_target": "航行",
+    "base_english": "sail",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "háng xíng",
+    "tags": ["directional_movement", "level_27"]
+  },
+  {
+    "guid": "V12_030",
+    "base_target": "访问",
+    "base_english": "visit",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 27,
+    "word_type": "verb",
+    "target_pinyin": "fǎng wèn",
+    "tags": ["directional_movement", "level_27"]
   }
 ]

@@ -2,7 +2,7 @@
   "version": 1,
   "language": "chinese",
   "language_code": "zh",
-  "generated_at": "2026-02-04T22:28:04Z",
+  "generated_at": "2026-02-09T19:40:12Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -18,10 +18,10 @@
       "display_name": "Nouns",
       "description": "Words (nouns, adjectives, etc.)",
       "type": "words",
-      "md5": "ac49dee7180bf0b1f4a4e27640da4a88",
-      "timestamp": "2026-02-04T22:28:04Z",
+      "md5": "5af96b6e4571062948066840657d9856",
+      "timestamp": "2026-02-09T19:40:12Z",
       "required": true,
-      "word_count": 1139,
+      "word_count": 1928,
       "levels": [
         1,
         2,
@@ -47,7 +47,11 @@
         22,
         23,
         24,
-        26
+        26,
+        27,
+        28,
+        29,
+        30
       ],
       "groups": [
         "Abstract Condition",
@@ -56,6 +60,7 @@
         "Adverb Other",
         "Animals",
         "Appliance",
+        "Artwork/Artifact",
         "Beverage",
         "Body Part",
         "Building Part",
@@ -70,6 +75,9 @@
         "Concept/Idea",
         "Conjunction Other",
         "Country",
+        "Definite Frequency",
+        "Determiner Other",
+        "Direction",
         "Disease/Condition",
         "Electronic Device",
         "Emotion",
@@ -78,6 +86,7 @@
         "Food",
         "Furniture",
         "Geographic Place",
+        "Group of People",
         "Honorific",
         "Humans",
         "Intensity",
@@ -114,6 +123,7 @@
         "Temporal Name",
         "Time Period",
         "Tool",
+        "Unit of Measurement",
         "Vehicle",
         "Weapon"
       ]
@@ -124,10 +134,10 @@
       "display_name": "Verbs",
       "description": "Verbs with conjugations",
       "type": "words",
-      "md5": "800aa1aeca1b881ce3ee7b300de24da1",
-      "timestamp": "2026-02-04T22:28:04Z",
+      "md5": "b1f9c1c29c89b5f964e70ce7874c026a",
+      "timestamp": "2026-02-09T19:40:12Z",
       "required": true,
-      "word_count": 252,
+      "word_count": 323,
       "levels": [
         3,
         6,
@@ -135,7 +145,9 @@
         12,
         17,
         20,
-        25
+        25,
+        27,
+        29
       ],
       "groups": [
         "Change",
@@ -160,8 +172,8 @@
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "50c419ac474a93b501c96dfea2dc4c3e",
-      "timestamp": "2026-02-04T22:28:04Z",
+      "md5": "50bd4edb93ccc8cd2a5e52703055fc28",
+      "timestamp": "2026-02-09T19:40:12Z",
       "required": false
     }
   ],

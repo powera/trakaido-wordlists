@@ -2,7 +2,7 @@
   "version": 1,
   "language": "swedish",
   "language_code": "sv",
-  "generated_at": "2026-02-04T22:28:05Z",
+  "generated_at": "2026-02-09T19:40:14Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [],
@@ -15,10 +15,10 @@
       "display_name": "Nouns",
       "description": "Words (nouns, adjectives, etc.)",
       "type": "words",
-      "md5": "ff86ab61185c036e8761d2435f4695cf",
-      "timestamp": "2026-02-04T22:28:05Z",
+      "md5": "105a0568f9ced31721ef4fc62b19994a",
+      "timestamp": "2026-02-09T19:40:14Z",
       "required": true,
-      "word_count": 1139,
+      "word_count": 1924,
       "levels": [
         1,
         2,
@@ -44,7 +44,11 @@
         22,
         23,
         24,
-        26
+        26,
+        27,
+        28,
+        29,
+        30
       ],
       "groups": [
         "Abstract Condition",
@@ -53,6 +57,7 @@
         "Adverb Other",
         "Animals",
         "Appliance",
+        "Artwork/Artifact",
         "Beverage",
         "Body Part",
         "Building Part",
@@ -67,6 +72,9 @@
         "Concept/Idea",
         "Conjunction Other",
         "Country",
+        "Definite Frequency",
+        "Determiner Other",
+        "Direction",
         "Disease/Condition",
         "Electronic Device",
         "Emotion",
@@ -75,6 +83,7 @@
         "Food",
         "Furniture",
         "Geographic Place",
+        "Group of People",
         "Honorific",
         "Humans",
         "Intensity",
@@ -111,6 +120,7 @@
         "Temporal Name",
         "Time Period",
         "Tool",
+        "Unit of Measurement",
         "Vehicle",
         "Weapon"
       ]
@@ -121,10 +131,10 @@
       "display_name": "Verbs",
       "description": "Verbs with conjugations",
       "type": "words",
-      "md5": "dfbc58ea521e5dc5130ff29a01847bbb",
-      "timestamp": "2026-02-04T22:28:05Z",
+      "md5": "5c1e8008166239bcd89ac847e870d54a",
+      "timestamp": "2026-02-09T19:40:14Z",
       "required": true,
-      "word_count": 252,
+      "word_count": 323,
       "levels": [
         3,
         6,
@@ -132,7 +142,9 @@
         12,
         17,
         20,
-        25
+        25,
+        27,
+        29
       ],
       "groups": [
         "Change",
@@ -158,7 +170,7 @@
       "description": "Sentences for context-based learning",
       "type": "sentences",
       "md5": "6bf014affed1e9a4df75cda414689c6a",
-      "timestamp": "2026-02-04T22:28:05Z",
+      "timestamp": "2026-02-09T19:40:14Z",
       "required": false
     }
   ],

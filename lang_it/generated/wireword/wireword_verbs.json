@@ -280,16 +280,6 @@
     "tags": ["physical_action", "level_17"]
   },
   {
-    "guid": "V01_029",
-    "base_target": "rompere",
-    "base_english": "break",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 17,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_17"]
-  },
-  {
     "guid": "V01_030",
     "base_target": "bruciare",
     "base_english": "burn",
@@ -580,16 +570,6 @@
     "tags": ["physical_action", "level_17"]
   },
   {
-    "guid": "V01_059",
-    "base_target": "distruggere",
-    "base_english": "destroy",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 20,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_20"]
-  },
-  {
     "guid": "V01_060",
     "base_target": "lavare",
     "base_english": "wash",
@@ -630,6 +610,436 @@
     "tags": ["physical_action", "level_25"]
   },
   {
+    "guid": "V01_064",
+    "base_target": "battere",
+    "base_english": "beat",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_065",
+    "base_target": "bloccare",
+    "base_english": "block",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_066",
+    "base_target": "bollire",
+    "base_english": "boil",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_067",
+    "base_target": "spazzolare",
+    "base_english": "brush",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_068",
+    "base_target": "intagliare",
+    "base_english": "carve",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_069",
+    "base_target": "raccogliere",
+    "base_english": "collect",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_070",
+    "base_target": "nutrire",
+    "base_english": "feed",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_071",
+    "base_target": "riempire",
+    "base_english": "fill",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_072",
+    "base_target": "riparare",
+    "base_english": "fix",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_073",
+    "base_target": "flettere",
+    "base_english": "flex",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_074",
+    "base_target": "capovolgere",
+    "base_english": "flip",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_075",
+    "base_target": "piegare",
+    "base_english": "fold",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_076",
+    "base_target": "caricare",
+    "base_english": "load",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_077",
+    "base_target": "massaggiare",
+    "base_english": "massage",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_078",
+    "base_target": "sbucciare",
+    "base_english": "peel",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_079",
+    "base_target": "piantare",
+    "base_english": "plant (put in ground)",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_080",
+    "base_target": "premere",
+    "base_english": "press",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_081",
+    "base_target": "riparare",
+    "base_english": "repair",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_082",
+    "base_target": "rotolare",
+    "base_english": "roll",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_083",
+    "base_target": "strofinare",
+    "base_english": "rub",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_084",
+    "base_target": "raschiare",
+    "base_english": "scrape",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_085",
+    "base_target": "affilare",
+    "base_english": "sharpen",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_086",
+    "base_target": "saltellare",
+    "base_english": "skip",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_087",
+    "base_target": "versare",
+    "base_english": "spill",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_088",
+    "base_target": "impilare",
+    "base_english": "stack",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_089",
+    "base_target": "mescolare",
+    "base_english": "stir",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_090",
+    "base_target": "attaccare",
+    "base_english": "stick (attach)",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_091",
+    "base_target": "sbattere",
+    "base_english": "stub",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_092",
+    "base_target": "attaccare con nastro",
+    "base_english": "tape",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_093",
+    "base_target": "legare",
+    "base_english": "tie",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_094",
+    "base_target": "torcere",
+    "base_english": "twist",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_095",
+    "base_target": "salutare",
+    "base_english": "wave",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_096",
+    "base_target": "asciugare",
+    "base_english": "wipe",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_097",
+    "base_target": "avvolgere",
+    "base_english": "wrap",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_098",
+    "base_target": "servire",
+    "base_english": "serve",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_099",
+    "base_target": "agire",
+    "base_english": "act",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_100",
+    "base_target": "posare",
+    "base_english": "set",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V02_002",
+    "base_target": "costruire",
+    "base_english": "build",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_003",
+    "base_target": "creare",
+    "base_english": "create",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_004",
+    "base_target": "scrivere",
+    "base_english": "write",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_005",
+    "base_target": "progettare",
+    "base_english": "design",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_006",
+    "base_target": "comporre",
+    "base_english": "compose",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_007",
+    "base_target": "inventare",
+    "base_english": "invent",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
     "guid": "V02_009",
     "base_target": "dipingere",
     "base_english": "paint",
@@ -668,6 +1078,86 @@
     "level": 25,
     "word_type": "verb",
     "tags": ["creation_action", "level_25"]
+  },
+  {
+    "guid": "V03_001",
+    "base_target": "distruggere",
+    "base_english": "destroy",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_002",
+    "base_target": "rompere",
+    "base_english": "break",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_003",
+    "base_target": "strappare",
+    "base_english": "tear",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_004",
+    "base_target": "demolire",
+    "base_english": "demolish",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_005",
+    "base_target": "schiacciare",
+    "base_english": "crush",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_006",
+    "base_target": "sfasciare",
+    "base_english": "smash",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_007",
+    "base_target": "rovinare",
+    "base_english": "ruin",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_008",
+    "base_target": "frantumare",
+    "base_english": "shatter",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
   },
   {
     "guid": "V03_009",
@@ -770,16 +1260,6 @@
     "tags": ["mental_state", "level_10"]
   },
   {
-    "guid": "V04_007",
-    "base_target": "vedere",
-    "base_english": "see",
-    "corpus": "VERBS",
-    "group": "Mental State",
-    "level": 17,
-    "word_type": "verb",
-    "tags": ["mental_state", "level_17"]
-  },
-  {
     "guid": "V04_008",
     "base_target": "pensare",
     "base_english": "think",
@@ -870,16 +1350,6 @@
     "tags": ["mental_state", "level_17"]
   },
   {
-    "guid": "V04_017",
-    "base_target": "diventare",
-    "base_english": "become",
-    "corpus": "VERBS",
-    "group": "Mental State",
-    "level": 17,
-    "word_type": "verb",
-    "tags": ["mental_state", "level_17"]
-  },
-  {
     "guid": "V04_018",
     "base_target": "sembrare",
     "base_english": "seem",
@@ -888,6 +1358,16 @@
     "level": 17,
     "word_type": "verb",
     "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_019",
+    "base_target": "supporre",
+    "base_english": "suppose",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_29"]
   },
   {
     "guid": "V04_020",
@@ -970,6 +1450,16 @@
     "tags": ["mental_state", "level_20"]
   },
   {
+    "guid": "V04_029",
+    "base_target": "osare",
+    "base_english": "dare",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
     "guid": "V04_030",
     "base_target": "rendersi conto",
     "base_english": "realize",
@@ -1030,6 +1520,36 @@
     "tags": ["mental_state", "level_17"]
   },
   {
+    "guid": "V04_036",
+    "base_target": "annuire",
+    "base_english": "nod",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
+    "guid": "V04_037",
+    "base_target": "fissare",
+    "base_english": "stare",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
+    "guid": "V04_038",
+    "base_target": "dare un'occhiata",
+    "base_english": "glance",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
     "guid": "V04_039",
     "base_target": "dubitare",
     "base_english": "doubt",
@@ -1058,6 +1578,46 @@
     "level": 25,
     "word_type": "verb",
     "tags": ["mental_state", "level_25"]
+  },
+  {
+    "guid": "V04_042",
+    "base_target": "partecipare",
+    "base_english": "attend",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_27"]
+  },
+  {
+    "guid": "V04_043",
+    "base_target": "controllare",
+    "base_english": "check",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_27"]
+  },
+  {
+    "guid": "V04_044",
+    "base_target": "misurare",
+    "base_english": "measure",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_27"]
+  },
+  {
+    "guid": "V04_045",
+    "base_target": "riposarsi",
+    "base_english": "rest",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_27"]
   },
   {
     "guid": "V05_001",
@@ -1440,6 +2000,26 @@
     "tags": ["possession", "level_25"]
   },
   {
+    "guid": "V06_016",
+    "base_target": "assumere",
+    "base_english": "hire",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["possession", "level_27"]
+  },
+  {
+    "guid": "V07_001",
+    "base_target": "allenare",
+    "base_english": "train",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["development", "level_29"]
+  },
+  {
     "guid": "V07_002",
     "base_target": "sviluppare",
     "base_english": "develop",
@@ -1578,6 +2158,16 @@
     "level": 25,
     "word_type": "verb",
     "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_016",
+    "base_target": "allevare",
+    "base_english": "raise",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["development", "level_27"]
   },
   {
     "guid": "V08_001",
@@ -1730,6 +2320,56 @@
     "tags": ["change", "level_25"]
   },
   {
+    "guid": "V08_016",
+    "base_target": "collegare",
+    "base_english": "connect",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_017",
+    "base_target": "accendere",
+    "base_english": "light (ignite)",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_018",
+    "base_target": "limitare",
+    "base_english": "limit",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_019",
+    "base_target": "causare",
+    "base_english": "cause",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_020",
+    "base_target": "permettere",
+    "base_english": "allow",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["change", "level_27"]
+  },
+  {
     "guid": "V09_001",
     "base_target": "parlare",
     "base_english": "talk",
@@ -1808,6 +2448,16 @@
     "level": 17,
     "word_type": "verb",
     "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_009",
+    "base_target": "sussurrare",
+    "base_english": "whisper",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["communication", "level_29"]
   },
   {
     "guid": "V09_010",
@@ -1958,6 +2608,46 @@
     "level": 25,
     "word_type": "verb",
     "tags": ["communication", "level_25"]
+  },
+  {
+    "guid": "V09_025",
+    "base_target": "grugnire",
+    "base_english": "grunt",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["communication", "level_27"]
+  },
+  {
+    "guid": "V09_026",
+    "base_target": "spedire",
+    "base_english": "mail",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["communication", "level_27"]
+  },
+  {
+    "guid": "V09_027",
+    "base_target": "pubblicare",
+    "base_english": "post",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["communication", "level_27"]
+  },
+  {
+    "guid": "V09_028",
+    "base_target": "firmare",
+    "base_english": "sign",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["communication", "level_27"]
   },
   {
     "guid": "V10_001",
@@ -2518,5 +3208,25 @@
     "level": 25,
     "word_type": "verb",
     "tags": ["directional_movement", "level_25"]
+  },
+  {
+    "guid": "V12_029",
+    "base_target": "navigare",
+    "base_english": "sail",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_27"]
+  },
+  {
+    "guid": "V12_030",
+    "base_target": "visitare",
+    "base_english": "visit",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_27"]
   }
 ]
