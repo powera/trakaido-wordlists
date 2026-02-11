@@ -2,7 +2,7 @@
   "version": 1,
   "language": "lithuanian",
   "language_code": "lt",
-  "generated_at": "2026-02-09T19:40:12Z",
+  "generated_at": "2026-02-11T18:58:24Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -18,10 +18,10 @@
       "display_name": "Nouns",
       "description": "Words (nouns, adjectives, etc.)",
       "type": "words",
-      "md5": "f2010fe49ba127df3ba91a9cf615e819",
-      "timestamp": "2026-02-09T19:40:12Z",
+      "md5": "0bc130ef0a4e93c58767e4e6cea0164d",
+      "timestamp": "2026-02-11T18:58:24Z",
       "required": true,
-      "word_count": 1928,
+      "word_count": 2201,
       "levels": [
         1,
         2,
@@ -51,13 +51,15 @@
         27,
         28,
         29,
-        30
+        30,
+        31
       ],
       "groups": [
         "Abstract Condition",
         "Activity",
         "Adverb Duration",
         "Adverb Other",
+        "Animal Grouping",
         "Animals",
         "Appliance",
         "Artwork/Artifact",
@@ -119,6 +121,7 @@
         "Social Institution",
         "Specific Time",
         "Style",
+        "Symbolic Element",
         "Technology Digital",
         "Temporal Name",
         "Time Period",
@@ -134,10 +137,10 @@
       "display_name": "Verbs",
       "description": "Verbs with conjugations",
       "type": "words",
-      "md5": "78d21d6ebc1bfd8c23943c03dc090af0",
-      "timestamp": "2026-02-09T19:40:12Z",
+      "md5": "f96680bdd02ca290c1b04808b0848183",
+      "timestamp": "2026-02-11T18:58:24Z",
       "required": true,
-      "word_count": 323,
+      "word_count": 329,
       "levels": [
         3,
         6,
@@ -147,7 +150,8 @@
         20,
         25,
         27,
-        29
+        29,
+        31
       ],
       "groups": [
         "Change",
@@ -173,7 +177,7 @@
       "description": "Sentences for context-based learning",
       "type": "sentences",
       "md5": "7ed6641285d4264066a2b1c78c46cb48",
-      "timestamp": "2026-02-09T19:40:12Z",
+      "timestamp": "2026-02-11T18:58:24Z",
       "required": false
     }
   ],

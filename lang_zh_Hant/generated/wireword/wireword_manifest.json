@@ -2,7 +2,7 @@
   "version": 1,
   "language": "chinese_traditional",
   "language_code": "zh_Hant",
-  "generated_at": "2026-02-09T19:40:13Z",
+  "generated_at": "2026-02-11T18:58:25Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -18,10 +18,10 @@
       "display_name": "Nouns",
       "description": "Words (nouns, adjectives, etc.)",
       "type": "words",
-      "md5": "198e18c791a863b8517b576aa49e0155",
-      "timestamp": "2026-02-09T19:40:13Z",
+      "md5": "735b0dde2ed08df2e4c0dd5644fbdbfc",
+      "timestamp": "2026-02-11T18:58:25Z",
       "required": true,
-      "word_count": 1928,
+      "word_count": 2201,
       "levels": [
         1,
         2,
@@ -51,13 +51,15 @@
         27,
         28,
         29,
-        30
+        30,
+        31
       ],
       "groups": [
         "Abstract Condition",
         "Activity",
         "Adverb Duration",
         "Adverb Other",
+        "Animal Grouping",
         "Animals",
         "Appliance",
         "Artwork/Artifact",
@@ -119,6 +121,7 @@
         "Social Institution",
         "Specific Time",
         "Style",
+        "Symbolic Element",
         "Technology Digital",
         "Temporal Name",
         "Time Period",
@@ -134,10 +137,10 @@
       "display_name": "Verbs",
       "description": "Verbs with conjugations",
       "type": "words",
-      "md5": "b9c035f11ee34f09ea74d979e79394a7",
-      "timestamp": "2026-02-09T19:40:13Z",
+      "md5": "3270d3cbfbf297a5f84e5aa26a3c6e09",
+      "timestamp": "2026-02-11T18:58:25Z",
       "required": true,
-      "word_count": 323,
+      "word_count": 329,
       "levels": [
         3,
         6,
@@ -147,7 +150,8 @@
         20,
         25,
         27,
-        29
+        29,
+        31
       ],
       "groups": [
         "Change",
@@ -172,8 +176,8 @@
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "dc537b7fb0cd59604f138dfac1db262c",
-      "timestamp": "2026-02-09T19:40:13Z",
+      "md5": "a2474f6a33062fb25fe66f6ed3101d63",
+      "timestamp": "2026-02-11T18:58:25Z",
       "required": false
     }
   ],

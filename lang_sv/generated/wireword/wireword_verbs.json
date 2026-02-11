@@ -282,7 +282,7 @@
   {
     "guid": "V01_030",
     "base_target": "bränna",
-    "base_english": "burn",
+    "base_english": "burn (be on fire)",
     "corpus": "VERBS",
     "group": "Physical Action",
     "level": 20,
@@ -312,7 +312,7 @@
   {
     "guid": "V01_033",
     "base_target": "stå",
-    "base_english": "stand",
+    "base_english": "stand (be upright)",
     "corpus": "VERBS",
     "group": "Physical Action",
     "level": 3,
@@ -322,7 +322,7 @@
   {
     "guid": "V01_034",
     "base_target": "ligga",
-    "base_english": "lie",
+    "base_english": "lie (recline)",
     "corpus": "VERBS",
     "group": "Physical Action",
     "level": 17,
@@ -612,7 +612,7 @@
   {
     "guid": "V01_064",
     "base_target": "slå",
-    "base_english": "beat",
+    "base_english": "beat (strike)",
     "corpus": "VERBS",
     "group": "Physical Action",
     "level": 27,
@@ -902,7 +902,7 @@
   {
     "guid": "V01_093",
     "base_target": "knyta",
-    "base_english": "tie",
+    "base_english": "tie (fasten)",
     "corpus": "VERBS",
     "group": "Physical Action",
     "level": 27,
@@ -922,7 +922,7 @@
   {
     "guid": "V01_095",
     "base_target": "vinka",
-    "base_english": "wave",
+    "base_english": "wave (gesture)",
     "corpus": "VERBS",
     "group": "Physical Action",
     "level": 27,
@@ -962,7 +962,7 @@
   {
     "guid": "V01_099",
     "base_target": "agera",
-    "base_english": "act",
+    "base_english": "act (perform)",
     "corpus": "VERBS",
     "group": "Physical Action",
     "level": 27,
@@ -972,12 +972,32 @@
   {
     "guid": "V01_100",
     "base_target": "ställa",
-    "base_english": "set",
+    "base_english": "set (place)",
     "corpus": "VERBS",
     "group": "Physical Action",
     "level": 27,
     "word_type": "verb",
     "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_101",
+    "base_target": "besegra",
+    "base_english": "beat (defeat)",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 31,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_31"]
+  },
+  {
+    "guid": "V01_102",
+    "base_target": "missa",
+    "base_english": "miss (fail to hit)",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 31,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_31"]
   },
   {
     "guid": "V02_002",
@@ -1002,7 +1022,7 @@
   {
     "guid": "V02_004",
     "base_target": "skriva",
-    "base_english": "write",
+    "base_english": "write (compose)",
     "corpus": "VERBS",
     "group": "Creation Action",
     "level": 29,
@@ -1172,7 +1192,7 @@
   {
     "guid": "V03_010",
     "base_target": "bränna",
-    "base_english": "burn",
+    "base_english": "burn (destroy)",
     "corpus": "VERBS",
     "group": "Destruction Action",
     "level": 25,
@@ -1232,7 +1252,7 @@
   {
     "guid": "V04_004",
     "base_target": "skriva",
-    "base_english": "write",
+    "base_english": "write (inscribe)",
     "corpus": "VERBS",
     "group": "Mental State",
     "level": 17,
@@ -1292,7 +1312,7 @@
   {
     "guid": "V04_011",
     "base_target": "betyda",
-    "base_english": "mean",
+    "base_english": "mean (signify)",
     "corpus": "VERBS",
     "group": "Mental State",
     "level": 17,
@@ -1592,7 +1612,7 @@
   {
     "guid": "V04_043",
     "base_target": "kontrollera",
-    "base_english": "check",
+    "base_english": "check (examine)",
     "corpus": "VERBS",
     "group": "Mental State",
     "level": 27,
@@ -1662,7 +1682,7 @@
   {
     "guid": "V05_005",
     "base_target": "känna",
-    "base_english": "feel",
+    "base_english": "feel (emotion)",
     "corpus": "VERBS",
     "group": "Emotional State",
     "level": 10,
@@ -1692,7 +1712,7 @@
   {
     "guid": "V05_008",
     "base_target": "sakna",
-    "base_english": "miss",
+    "base_english": "miss (feel absence)",
     "corpus": "VERBS",
     "group": "Emotional State",
     "level": 17,
@@ -1842,7 +1862,7 @@
   {
     "guid": "V05_023",
     "base_target": "uttråka",
-    "base_english": "bore",
+    "base_english": "bore (make weary)",
     "corpus": "VERBS",
     "group": "Emotional State",
     "level": 25,
@@ -2010,9 +2030,19 @@
     "tags": ["possession", "level_27"]
   },
   {
+    "guid": "V06_017",
+    "base_target": "ge",
+    "base_english": "pass (hand over)",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 31,
+    "word_type": "verb",
+    "tags": ["possession", "level_31"]
+  },
+  {
     "guid": "V07_001",
     "base_target": "träna",
-    "base_english": "train",
+    "base_english": "train (teach)",
     "corpus": "VERBS",
     "group": "Development",
     "level": 29,
@@ -2182,7 +2212,7 @@
   {
     "guid": "V08_002",
     "base_target": "förvandlas",
-    "base_english": "turn",
+    "base_english": "turn (transform)",
     "corpus": "VERBS",
     "group": "Change",
     "level": 17,
@@ -2352,7 +2382,7 @@
   {
     "guid": "V08_019",
     "base_target": "orsaka",
-    "base_english": "cause",
+    "base_english": "cause (make happen)",
     "corpus": "VERBS",
     "group": "Change",
     "level": 27,
@@ -2368,6 +2398,16 @@
     "level": 27,
     "word_type": "verb",
     "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_021",
+    "base_target": "klara",
+    "base_english": "pass (succeed on test)",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 31,
+    "word_type": "verb",
+    "tags": ["change", "level_31"]
   },
   {
     "guid": "V09_001",
@@ -2432,7 +2472,7 @@
   {
     "guid": "V09_007",
     "base_target": "ropa",
-    "base_english": "call",
+    "base_english": "call (shout)",
     "corpus": "VERBS",
     "group": "Communication",
     "level": 17,
@@ -2650,6 +2690,26 @@
     "tags": ["communication", "level_27"]
   },
   {
+    "guid": "V09_029",
+    "base_target": "ljuga",
+    "base_english": "lie (tell falsehood)",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 31,
+    "word_type": "verb",
+    "tags": ["communication", "level_31"]
+  },
+  {
+    "guid": "V09_030",
+    "base_target": "ringa",
+    "base_english": "call (telephone)",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 31,
+    "word_type": "verb",
+    "tags": ["communication", "level_31"]
+  },
+  {
     "guid": "V10_001",
     "base_target": "se",
     "base_english": "see",
@@ -2672,7 +2732,7 @@
   {
     "guid": "V10_003",
     "base_target": "känna",
-    "base_english": "feel",
+    "base_english": "feel (touch)",
     "corpus": "VERBS",
     "group": "Perception",
     "level": 17,
@@ -2862,7 +2922,7 @@
   {
     "guid": "V11_011",
     "base_target": "vara",
-    "base_english": "last",
+    "base_english": "last (endure)",
     "corpus": "VERBS",
     "group": "Existence",
     "level": 25,
@@ -2952,7 +3012,7 @@
   {
     "guid": "V12_003",
     "base_target": "springa",
-    "base_english": "run",
+    "base_english": "run (move quickly)",
     "corpus": "VERBS",
     "group": "Directional Movement",
     "level": 3,
@@ -3002,7 +3062,7 @@
   {
     "guid": "V12_008",
     "base_target": "svänga",
-    "base_english": "turn",
+    "base_english": "turn (direction)",
     "corpus": "VERBS",
     "group": "Directional Movement",
     "level": 17,
@@ -3022,7 +3082,7 @@
   {
     "guid": "V12_010",
     "base_target": "passera",
-    "base_english": "pass",
+    "base_english": "pass (go by)",
     "corpus": "VERBS",
     "group": "Directional Movement",
     "level": 17,

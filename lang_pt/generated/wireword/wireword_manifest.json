@@ -2,7 +2,7 @@
   "version": 1,
   "language": "portuguese",
   "language_code": "pt",
-  "generated_at": "2026-02-09T19:40:14Z",
+  "generated_at": "2026-02-11T18:58:26Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [],
@@ -15,10 +15,10 @@
       "display_name": "Nouns",
       "description": "Words (nouns, adjectives, etc.)",
       "type": "words",
-      "md5": "3e3b15ab037dba169f1c692edfc614d4",
-      "timestamp": "2026-02-09T19:40:14Z",
+      "md5": "945ea5b4fc00ba757ff1957672c87988",
+      "timestamp": "2026-02-11T18:58:26Z",
       "required": true,
-      "word_count": 1920,
+      "word_count": 2193,
       "levels": [
         1,
         2,
@@ -48,13 +48,15 @@
         27,
         28,
         29,
-        30
+        30,
+        31
       ],
       "groups": [
         "Abstract Condition",
         "Activity",
         "Adverb Duration",
         "Adverb Other",
+        "Animal Grouping",
         "Animals",
         "Appliance",
         "Artwork/Artifact",
@@ -116,6 +118,7 @@
         "Social Institution",
         "Specific Time",
         "Style",
+        "Symbolic Element",
         "Technology Digital",
         "Temporal Name",
         "Time Period",
@@ -131,10 +134,10 @@
       "display_name": "Verbs",
       "description": "Verbs with conjugations",
       "type": "words",
-      "md5": "f91f68b6a8622ea68ac58e2898f17623",
-      "timestamp": "2026-02-09T19:40:14Z",
+      "md5": "843609b834fe6bb34db17f65fd3e7642",
+      "timestamp": "2026-02-11T18:58:26Z",
       "required": true,
-      "word_count": 323,
+      "word_count": 329,
       "levels": [
         3,
         6,
@@ -144,7 +147,8 @@
         20,
         25,
         27,
-        29
+        29,
+        31
       ],
       "groups": [
         "Change",
@@ -170,7 +174,7 @@
       "description": "Sentences for context-based learning",
       "type": "sentences",
       "md5": "729d3eecdd4fc3a33eb504e4a7ae8550",
-      "timestamp": "2026-02-09T19:40:14Z",
+      "timestamp": "2026-02-11T18:58:26Z",
       "required": false
     }
   ],

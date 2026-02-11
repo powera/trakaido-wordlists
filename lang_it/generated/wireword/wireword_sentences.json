@@ -10,11 +10,11 @@
       "linked_words": [
         {
           "guid": "V12_001",
-          "grammatical_form": null
+          "grammatical_form": "verb/it_3p_present"
         },
         {
           "guid": "N07_001",
-          "grammatical_form": null
+          "grammatical_form": "noun/it_singular"
         }
       ],
       "source": "buivolas_guided_N07_001",
@@ -29,11 +29,11 @@
       "linked_words": [
         {
           "guid": "V06_002",
-          "grammatical_form": null
+          "grammatical_form": "verb/it_3s_present"
         },
         {
           "guid": "A01_002",
-          "grammatical_form": null
+          "grammatical_form": "adjective/it_singular_f"
         },
         {
           "guid": "N07_001",
@@ -52,15 +52,15 @@
       "linked_words": [
         {
           "guid": "V01_014",
-          "grammatical_form": null
+          "grammatical_form": "verb/it_1p_present"
         },
         {
           "guid": "N47_001",
-          "grammatical_form": null
+          "grammatical_form": "noun/it_singular"
         },
         {
           "guid": "N07_001",
-          "grammatical_form": null
+          "grammatical_form": "noun/it_singular"
         }
       ],
       "source": "buivolas_guided_N07_001",
@@ -83,7 +83,7 @@
         },
         {
           "guid": "A05_035",
-          "grammatical_form": null
+          "grammatical_form": "adjective/it_singular_f"
         }
       ],
       "source": "buivolas_guided_N07_001",
@@ -98,19 +98,42 @@
       "linked_words": [
         {
           "guid": "N35_036",
-          "grammatical_form": null
+          "grammatical_form": "noun/it_singular"
         },
         {
           "guid": "V12_004",
-          "grammatical_form": null
+          "grammatical_form": "verb/it_3s_present"
         },
         {
           "guid": "N07_002",
-          "grammatical_form": null
+          "grammatical_form": "noun/it_singular"
         }
       ],
       "source": "buivolas_guided_N07_002",
       "minimum_level": 10
+    },
+    {
+      "sentence_id": "S_00013",
+      "translations": {
+        "en": "I buy bread at the store.",
+        "it": "Compro il pane al negozio."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/it_1s_present"
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 1
     }
   ]
 }

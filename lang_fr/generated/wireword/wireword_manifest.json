@@ -2,7 +2,7 @@
   "version": 1,
   "language": "french",
   "language_code": "fr",
-  "generated_at": "2026-02-09T19:40:13Z",
+  "generated_at": "2026-02-11T18:58:25Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -18,10 +18,10 @@
       "display_name": "Nouns",
       "description": "Words (nouns, adjectives, etc.)",
       "type": "words",
-      "md5": "e6fb978a1cc8795af00ebe42d6014bce",
-      "timestamp": "2026-02-09T19:40:13Z",
+      "md5": "8b7f1597fb4e8e1c643d16178402b9eb",
+      "timestamp": "2026-02-11T18:58:25Z",
       "required": true,
-      "word_count": 1920,
+      "word_count": 2193,
       "levels": [
         1,
         2,
@@ -51,13 +51,15 @@
         27,
         28,
         29,
-        30
+        30,
+        31
       ],
       "groups": [
         "Abstract Condition",
         "Activity",
         "Adverb Duration",
         "Adverb Other",
+        "Animal Grouping",
         "Animals",
         "Appliance",
         "Artwork/Artifact",
@@ -119,6 +121,7 @@
         "Social Institution",
         "Specific Time",
         "Style",
+        "Symbolic Element",
         "Technology Digital",
         "Temporal Name",
         "Time Period",
@@ -134,10 +137,10 @@
       "display_name": "Verbs",
       "description": "Verbs with conjugations",
       "type": "words",
-      "md5": "6987391d1e30a9fdb0aab4f15feb6844",
-      "timestamp": "2026-02-09T19:40:13Z",
+      "md5": "7970f267d33fb88bf35b44e2194c1bff",
+      "timestamp": "2026-02-11T18:58:25Z",
       "required": true,
-      "word_count": 323,
+      "word_count": 329,
       "levels": [
         3,
         6,
@@ -147,7 +150,8 @@
         20,
         25,
         27,
-        29
+        29,
+        31
       ],
       "groups": [
         "Change",
@@ -173,7 +177,7 @@
       "description": "Sentences for context-based learning",
       "type": "sentences",
       "md5": "09312e746bd5671c45b3b7b88973bcf6",
-      "timestamp": "2026-02-09T19:40:13Z",
+      "timestamp": "2026-02-11T18:58:25Z",
       "required": false
     }
   ],

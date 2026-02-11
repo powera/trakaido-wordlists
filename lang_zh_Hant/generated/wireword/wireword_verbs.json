@@ -65,6 +65,7 @@
     "group": "Physical Action",
     "level": 6,
     "word_type": "verb",
+    "audio": {"meiling": "69877d8f9135b2581b4896b282865eaa", "zhiyuan": "5f25bc82fbe68cf44cb3c9606c6f45c7"},
     "target_pinyin": "wán",
     "tags": ["physical_action", "level_6"]
   },
@@ -88,6 +89,7 @@
     "group": "Physical Action",
     "level": 10,
     "word_type": "verb",
+    "audio": {"meiling": "76efece44ce36b6d578b09bf1f1275d2", "zhiyuan": "ab4b195622f1aadedf98664d9ae41205"},
     "target_pinyin": "dé dào",
     "tags": ["physical_action", "level_10"]
   },
@@ -111,6 +113,7 @@
     "group": "Physical Action",
     "level": 6,
     "word_type": "verb",
+    "audio": {"meiling": "7b5b652f221d83063c56ab3ec6aa384e", "zhiyuan": "0a7d1cd37130c10a6d1247d9b44f8cb5"},
     "target_pinyin": "fàng",
     "tags": ["physical_action", "level_6"]
   },
@@ -133,6 +136,7 @@
     "group": "Physical Action",
     "level": 12,
     "word_type": "verb",
+    "audio": {"meiling": "8a0d7edebf4a25065ae734824731eb09", "zhiyuan": "6f64a8c881fd0d4dfd51df6394145ed4"},
     "target_pinyin": "shǐ yòng",
     "tags": ["physical_action", "level_12"]
   },
@@ -317,7 +321,7 @@
   {
     "guid": "V01_030",
     "base_target": "燒",
-    "base_english": "burn",
+    "base_english": "burn (be on fire)",
     "corpus": "VERBS",
     "group": "Physical Action",
     "level": 20,
@@ -352,7 +356,7 @@
   {
     "guid": "V01_033",
     "base_target": "站",
-    "base_english": "stand",
+    "base_english": "stand (be upright)",
     "corpus": "VERBS",
     "group": "Physical Action",
     "level": 3,
@@ -364,7 +368,7 @@
   {
     "guid": "V01_034",
     "base_target": "躺",
-    "base_english": "lie",
+    "base_english": "lie (recline)",
     "corpus": "VERBS",
     "group": "Physical Action",
     "level": 17,
@@ -683,7 +687,7 @@
   {
     "guid": "V01_064",
     "base_target": "擊打",
-    "base_english": "beat",
+    "base_english": "beat (strike)",
     "corpus": "VERBS",
     "group": "Physical Action",
     "level": 27,
@@ -1002,7 +1006,7 @@
   {
     "guid": "V01_093",
     "base_target": "系",
-    "base_english": "tie",
+    "base_english": "tie (fasten)",
     "corpus": "VERBS",
     "group": "Physical Action",
     "level": 27,
@@ -1024,7 +1028,7 @@
   {
     "guid": "V01_095",
     "base_target": "揮手",
-    "base_english": "wave",
+    "base_english": "wave (gesture)",
     "corpus": "VERBS",
     "group": "Physical Action",
     "level": 27,
@@ -1068,7 +1072,7 @@
   {
     "guid": "V01_099",
     "base_target": "行動",
-    "base_english": "act",
+    "base_english": "act (perform)",
     "corpus": "VERBS",
     "group": "Physical Action",
     "level": 27,
@@ -1079,13 +1083,35 @@
   {
     "guid": "V01_100",
     "base_target": "放置",
-    "base_english": "set",
+    "base_english": "set (place)",
     "corpus": "VERBS",
     "group": "Physical Action",
     "level": 27,
     "word_type": "verb",
     "target_pinyin": "fàng zhì",
     "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_101",
+    "base_target": "擊敗",
+    "base_english": "beat (defeat)",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 31,
+    "word_type": "verb",
+    "target_pinyin": "jī bài",
+    "tags": ["physical_action", "level_31"]
+  },
+  {
+    "guid": "V01_102",
+    "base_target": "未擊中",
+    "base_english": "miss (fail to hit)",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 31,
+    "word_type": "verb",
+    "target_pinyin": "wèi jī zhòng",
+    "tags": ["physical_action", "level_31"]
   },
   {
     "guid": "V02_002",
@@ -1112,7 +1138,7 @@
   {
     "guid": "V02_004",
     "base_target": "寫",
-    "base_english": "write",
+    "base_english": "write (compose)",
     "corpus": "VERBS",
     "group": "Creation Action",
     "level": 29,
@@ -1299,7 +1325,7 @@
   {
     "guid": "V03_010",
     "base_target": "燒燬",
-    "base_english": "burn",
+    "base_english": "burn (destroy)",
     "corpus": "VERBS",
     "group": "Destruction Action",
     "level": 25,
@@ -1337,6 +1363,7 @@
     "group": "Mental State",
     "level": 10,
     "word_type": "verb",
+    "audio": {"meiling": "962d0f77c22d0e462d81e8d6bc141bcc", "zhiyuan": "c0706d3eb1ca5f80843e0c4b8585e2a7"},
     "target_pinyin": "xué xí",
     "tags": ["mental_state", "level_10"]
   },
@@ -1348,6 +1375,7 @@
     "group": "Mental State",
     "level": 12,
     "word_type": "verb",
+    "audio": {"meiling": "97f87b9e202cf105b4cf071c19d9d549", "zhiyuan": "685ff183d01792f14a10309a5b1e2f75"},
     "target_pinyin": "jiào",
     "tags": ["mental_state", "level_12"]
   },
@@ -1365,7 +1393,7 @@
   {
     "guid": "V04_004",
     "base_target": "寫",
-    "base_english": "write",
+    "base_english": "write (inscribe)",
     "corpus": "VERBS",
     "group": "Mental State",
     "level": 17,
@@ -1392,6 +1420,7 @@
     "group": "Mental State",
     "level": 10,
     "word_type": "verb",
+    "audio": {"meiling": "b4df1aeb2a1c22616dc256db21d98613", "zhiyuan": "5b866098ffa024b8a5e1495475fe9d23"},
     "target_pinyin": "zhī dào",
     "tags": ["mental_state", "level_10"]
   },
@@ -1403,6 +1432,7 @@
     "group": "Mental State",
     "level": 10,
     "word_type": "verb",
+    "audio": {"meiling": "2066f7bffd5399088c05dcb84a653f15", "zhiyuan": "5fb212819a540b8665dd370bf5349687"},
     "target_pinyin": "xiǎng",
     "tags": ["mental_state", "level_10"]
   },
@@ -1425,13 +1455,14 @@
     "group": "Mental State",
     "level": 10,
     "word_type": "verb",
+    "audio": {"meiling": "dd613300ab1222d18452368e5823051b", "zhiyuan": "91821da934e59b47bf1ff3fb981b127d"},
     "target_pinyin": "xū yào",
     "tags": ["mental_state", "level_10"]
   },
   {
     "guid": "V04_011",
     "base_target": "意味着",
-    "base_english": "mean",
+    "base_english": "mean (signify)",
     "corpus": "VERBS",
     "group": "Mental State",
     "level": 17,
@@ -1447,6 +1478,7 @@
     "group": "Mental State",
     "level": 12,
     "word_type": "verb",
+    "audio": {"meiling": "ffa4edd330f61b08d389cec08fb038c1", "zhiyuan": "3ca9e19f6a1012594bfb2d96a3819eaf"},
     "target_pinyin": "jì de",
     "tags": ["mental_state", "level_12"]
   },
@@ -1458,6 +1490,7 @@
     "group": "Mental State",
     "level": 10,
     "word_type": "verb",
+    "audio": {"meiling": "653860d7fbf082fccaaa206b35483f2a", "zhiyuan": "e77a46f1752f58d2268f2c5a77ccf6b8"},
     "target_pinyin": "lǐ jiě",
     "tags": ["mental_state", "level_10"]
   },
@@ -1480,6 +1513,7 @@
     "group": "Mental State",
     "level": 12,
     "word_type": "verb",
+    "audio": {"meiling": "ea236fb6e586a7a3477eef1058e24a66", "zhiyuan": "2d7ec1ce872c56a6c62bf0dc8ef7b13f"},
     "target_pinyin": "xiāng xìn",
     "tags": ["mental_state", "level_12"]
   },
@@ -1656,6 +1690,7 @@
     "group": "Mental State",
     "level": 12,
     "word_type": "verb",
+    "audio": {"meiling": "bc4a957e5539bd9e1e40c1e4a85cbdd5", "zhiyuan": "ec36d09d3f9acbeca146271fd1c938f4"},
     "target_pinyin": "jué dìng",
     "tags": ["mental_state", "level_12"]
   },
@@ -1761,7 +1796,7 @@
   {
     "guid": "V04_043",
     "base_target": "檢查",
-    "base_english": "check",
+    "base_english": "check (examine)",
     "corpus": "VERBS",
     "group": "Mental State",
     "level": 27,
@@ -1799,6 +1834,7 @@
     "group": "Emotional State",
     "level": 6,
     "word_type": "verb",
+    "audio": {"meiling": "3b01a6cdb9121139212c17807432b28b", "zhiyuan": "02959b5bb5179780325db1be560ab7e4"},
     "target_pinyin": "xǐ huān",
     "tags": ["emotional_state", "level_6"]
   },
@@ -1810,6 +1846,7 @@
     "group": "Emotional State",
     "level": 10,
     "word_type": "verb",
+    "audio": {"meiling": "a37dee54c2d1d5f639be51f3c4f2dc03", "zhiyuan": "14428137431b0caef321229b8d8db6bb"},
     "target_pinyin": "ài",
     "tags": ["emotional_state", "level_10"]
   },
@@ -1821,6 +1858,7 @@
     "group": "Emotional State",
     "level": 12,
     "word_type": "verb",
+    "audio": {"meiling": "0e261a60e51c3c7e1f7968667a6cd1ad", "zhiyuan": "42e02c474649709109c8cb653a7f5416"},
     "target_pinyin": "hèn",
     "tags": ["emotional_state", "level_12"]
   },
@@ -1832,17 +1870,19 @@
     "group": "Emotional State",
     "level": 6,
     "word_type": "verb",
+    "audio": {"meiling": "e82ec912fea5f4d6d0a0e52eb8c51a9c", "zhiyuan": "db54ccda7d25df4bca0e91456c161198"},
     "target_pinyin": "xiǎng yào",
     "tags": ["emotional_state", "level_6"]
   },
   {
     "guid": "V05_005",
     "base_target": "感覺",
-    "base_english": "feel",
+    "base_english": "feel (emotion)",
     "corpus": "VERBS",
     "group": "Emotional State",
     "level": 10,
     "word_type": "verb",
+    "audio": {"meiling": "3a2f657f2fb7156915d1600d3b1f1a18", "zhiyuan": "de1df3d2351546830c79f02d1ae5ea01"},
     "target_pinyin": "gǎn jué",
     "tags": ["emotional_state", "level_10"]
   },
@@ -1871,7 +1911,7 @@
   {
     "guid": "V05_008",
     "base_target": "想念",
-    "base_english": "miss",
+    "base_english": "miss (feel absence)",
     "corpus": "VERBS",
     "group": "Emotional State",
     "level": 17,
@@ -1909,6 +1949,7 @@
     "group": "Emotional State",
     "level": 12,
     "word_type": "verb",
+    "audio": {"meiling": "7c7398b6552d24e72091580fcdac496c", "zhiyuan": "ae27f1e8870e60351a96d0a3396bef48"},
     "target_pinyin": "xī wàng",
     "tags": ["emotional_state", "level_12"]
   },
@@ -2036,7 +2077,7 @@
   {
     "guid": "V05_023",
     "base_target": "使厭煩",
-    "base_english": "bore",
+    "base_english": "bore (make weary)",
     "corpus": "VERBS",
     "group": "Emotional State",
     "level": 25,
@@ -2064,6 +2105,7 @@
     "group": "Possession",
     "level": 6,
     "word_type": "verb",
+    "audio": {"meiling": "2cb5391074f852ff15d25c9df9584ac6", "zhiyuan": "e2cbc55ce3fb46789d10b3cc458dc92e"},
     "target_pinyin": "yǒu",
     "tags": ["possession", "level_6"]
   },
@@ -2075,6 +2117,7 @@
     "group": "Possession",
     "level": 6,
     "word_type": "verb",
+    "audio": {"meiling": "860197c983618dedb82404e59f0fab90", "zhiyuan": "32cae9c165ab75d3ce69e948e63dd962"},
     "target_pinyin": "zhuàn",
     "tags": ["possession", "level_6"]
   },
@@ -2098,6 +2141,7 @@
     "group": "Possession",
     "level": 6,
     "word_type": "verb",
+    "audio": {"meiling": "34ad05b872f4384852ac2984cfaf9a9c", "zhiyuan": "a7ad985f110c46cd2f84be09a6ab167a"},
     "target_pinyin": "gěi",
     "tags": ["possession", "level_6"]
   },
@@ -2109,6 +2153,7 @@
     "group": "Possession",
     "level": 6,
     "word_type": "verb",
+    "audio": {"meiling": "07c5f5458aeccabe47b2d7e52c2b6900", "zhiyuan": "1bb6384858a376987f0eb63cea12ad1b"},
     "target_pinyin": "ná zǒu",
     "tags": ["possession", "level_6"]
   },
@@ -2223,9 +2268,20 @@
     "tags": ["possession", "level_27"]
   },
   {
+    "guid": "V06_017",
+    "base_target": "傳遞",
+    "base_english": "pass (hand over)",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 31,
+    "word_type": "verb",
+    "target_pinyin": "chuán dì",
+    "tags": ["possession", "level_31"]
+  },
+  {
     "guid": "V07_001",
     "base_target": "訓練",
-    "base_english": "train",
+    "base_english": "train (teach)",
     "corpus": "VERBS",
     "group": "Development",
     "level": 29,
@@ -2406,13 +2462,14 @@
     "group": "Change",
     "level": 10,
     "word_type": "verb",
+    "audio": {"meiling": "6fa77d832ffdb0b8dbcb1ba010f47d91", "zhiyuan": "615b05f33ec6376706e9e363cfceff28"},
     "target_pinyin": "chéng wéi",
     "tags": ["change", "level_10"]
   },
   {
     "guid": "V08_002",
     "base_target": "變成",
-    "base_english": "turn",
+    "base_english": "turn (transform)",
     "corpus": "VERBS",
     "group": "Change",
     "level": 17,
@@ -2428,6 +2485,7 @@
     "group": "Change",
     "level": 10,
     "word_type": "verb",
+    "audio": {"meiling": "7462389a35307a578053e2aed51f9ac3", "zhiyuan": "78e6d79059b9031fa160bebf4c5c6c3d"},
     "target_pinyin": "chéng zhǎng",
     "tags": ["change", "level_10"]
   },
@@ -2439,6 +2497,7 @@
     "group": "Change",
     "level": 10,
     "word_type": "verb",
+    "audio": {"meiling": "e5bc431dd1f79ab7708b2395aa65751b", "zhiyuan": "5e316f6517b72ee117d9bcfb70682cbf"},
     "target_pinyin": "gǎi biàn",
     "tags": ["change", "level_10"]
   },
@@ -2450,6 +2509,7 @@
     "group": "Change",
     "level": 10,
     "word_type": "verb",
+    "audio": {"meiling": "7044314c7000603dfcb6cf3ca7d87683", "zhiyuan": "ec7d20b219dc0259c5e01d452ae7f54e"},
     "target_pinyin": "kāi shǐ",
     "tags": ["change", "level_10"]
   },
@@ -2461,6 +2521,7 @@
     "group": "Change",
     "level": 10,
     "word_type": "verb",
+    "audio": {"meiling": "b7b8038b9348e75b12baea9fe3929224", "zhiyuan": "152b45b8d14fe31b57ea0b8a3725a739"},
     "target_pinyin": "kāi shǐ",
     "tags": ["change", "level_10"]
   },
@@ -2599,7 +2660,7 @@
   {
     "guid": "V08_019",
     "base_target": "導致",
-    "base_english": "cause",
+    "base_english": "cause (make happen)",
     "corpus": "VERBS",
     "group": "Change",
     "level": 27,
@@ -2619,6 +2680,17 @@
     "tags": ["change", "level_27"]
   },
   {
+    "guid": "V08_021",
+    "base_target": "通過",
+    "base_english": "pass (succeed on test)",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 31,
+    "word_type": "verb",
+    "target_pinyin": "tōng guò",
+    "tags": ["change", "level_31"]
+  },
+  {
     "guid": "V09_001",
     "base_target": "談話",
     "base_english": "talk",
@@ -2626,6 +2698,7 @@
     "group": "Communication",
     "level": 10,
     "word_type": "verb",
+    "audio": {"meiling": "e656707613b3be34f3bb3badacca7272", "zhiyuan": "94ec4fec25821f4ceb281d863a5d4c27"},
     "target_pinyin": "tán huà",
     "tags": ["communication", "level_10"]
   },
@@ -2637,6 +2710,7 @@
     "group": "Communication",
     "level": 12,
     "word_type": "verb",
+    "audio": {"meiling": "327ecfc27358c465a371e0162c214b9d", "zhiyuan": "e81ea66059004ed6e570cc3de2e6ff8c"},
     "target_pinyin": "shuō huà",
     "tags": ["communication", "level_12"]
   },
@@ -2648,6 +2722,7 @@
     "group": "Communication",
     "level": 10,
     "word_type": "verb",
+    "audio": {"meiling": "43dc071f7cb526b532605abf0aa6315d", "zhiyuan": "931633cb4c9ffb88cfd26c88d231d5ba"},
     "target_pinyin": "gào sù",
     "tags": ["communication", "level_10"]
   },
@@ -2659,6 +2734,7 @@
     "group": "Communication",
     "level": 10,
     "word_type": "verb",
+    "audio": {"meiling": "30aa5f37ba6c9ae325c53168f01d90f7", "zhiyuan": "8fd3de1ce46743f4b56905d04fc94643"},
     "target_pinyin": "wèn",
     "tags": ["communication", "level_10"]
   },
@@ -2670,6 +2746,7 @@
     "group": "Communication",
     "level": 12,
     "word_type": "verb",
+    "audio": {"meiling": "da46aaee908c1612493b0746f9ec30c5", "zhiyuan": "61cb7b8dbeb0780e76ff0a9392aba5c0"},
     "target_pinyin": "huí dá",
     "tags": ["communication", "level_12"]
   },
@@ -2688,7 +2765,7 @@
   {
     "guid": "V09_007",
     "base_target": "叫",
-    "base_english": "call",
+    "base_english": "call (shout)",
     "corpus": "VERBS",
     "group": "Communication",
     "level": 17,
@@ -2928,6 +3005,28 @@
     "tags": ["communication", "level_27"]
   },
   {
+    "guid": "V09_029",
+    "base_target": "撒謊",
+    "base_english": "lie (tell falsehood)",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 31,
+    "word_type": "verb",
+    "target_pinyin": "sā huǎng",
+    "tags": ["communication", "level_31"]
+  },
+  {
+    "guid": "V09_030",
+    "base_target": "打電話",
+    "base_english": "call (telephone)",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 31,
+    "word_type": "verb",
+    "target_pinyin": "dǎ diàn huà",
+    "tags": ["communication", "level_31"]
+  },
+  {
     "guid": "V10_001",
     "base_target": "看見",
     "base_english": "see",
@@ -2954,7 +3053,7 @@
   {
     "guid": "V10_003",
     "base_target": "感覺",
-    "base_english": "feel",
+    "base_english": "feel (touch)",
     "corpus": "VERBS",
     "group": "Perception",
     "level": 17,
@@ -3102,6 +3201,7 @@
     "group": "Existence",
     "level": 10,
     "word_type": "verb",
+    "audio": {"meiling": "8ac68228b26f7d21565196d6e134280c", "zhiyuan": "32705d82047da49b8dda2b7a7ece49df"},
     "target_pinyin": "shēng huó",
     "tags": ["existence", "level_10"]
   },
@@ -3163,7 +3263,7 @@
   {
     "guid": "V11_011",
     "base_target": "持續",
-    "base_english": "last",
+    "base_english": "last (endure)",
     "corpus": "VERBS",
     "group": "Existence",
     "level": 25,
@@ -3263,7 +3363,7 @@
   {
     "guid": "V12_003",
     "base_target": "跑",
-    "base_english": "run",
+    "base_english": "run (move quickly)",
     "corpus": "VERBS",
     "group": "Directional Movement",
     "level": 3,
@@ -3280,6 +3380,7 @@
     "group": "Directional Movement",
     "level": 10,
     "word_type": "verb",
+    "audio": {"meiling": "02179d5242e641574f087cec708ca62a", "zhiyuan": "b47797bca9978b01b2cbaa100f1adb70"},
     "target_pinyin": "qù",
     "tags": ["directional_movement", "level_10"]
   },
@@ -3291,6 +3392,7 @@
     "group": "Directional Movement",
     "level": 10,
     "word_type": "verb",
+    "audio": {"meiling": "cf40a5bb193a695ae59f0299168fc5f1", "zhiyuan": "48dc001165b09fc891ed211930a23503"},
     "target_pinyin": "lái",
     "tags": ["directional_movement", "level_10"]
   },
@@ -3313,13 +3415,14 @@
     "group": "Directional Movement",
     "level": 12,
     "word_type": "verb",
+    "audio": {"meiling": "61861bd5af2d5c69bc99fdf57c5a285b", "zhiyuan": "6463f4311e690db086eeb914ab8a536b"},
     "target_pinyin": "lí kāi",
     "tags": ["directional_movement", "level_12"]
   },
   {
     "guid": "V12_008",
     "base_target": "轉彎",
-    "base_english": "turn",
+    "base_english": "turn (direction)",
     "corpus": "VERBS",
     "group": "Directional Movement",
     "level": 17,
@@ -3341,7 +3444,7 @@
   {
     "guid": "V12_010",
     "base_target": "經過",
-    "base_english": "pass",
+    "base_english": "pass (go by)",
     "corpus": "VERBS",
     "group": "Directional Movement",
     "level": 17,

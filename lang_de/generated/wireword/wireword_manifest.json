@@ -2,7 +2,7 @@
   "version": 1,
   "language": "german",
   "language_code": "de",
-  "generated_at": "2026-02-09T19:40:13Z",
+  "generated_at": "2026-02-11T18:58:25Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [],
@@ -15,10 +15,10 @@
       "display_name": "Nouns",
       "description": "Words (nouns, adjectives, etc.)",
       "type": "words",
-      "md5": "4edbae53fd4faf1d53f40dc7e9f48203",
-      "timestamp": "2026-02-09T19:40:13Z",
+      "md5": "b5ad217010f7e4ad430074729543e394",
+      "timestamp": "2026-02-11T18:58:25Z",
       "required": true,
-      "word_count": 1923,
+      "word_count": 2196,
       "levels": [
         1,
         2,
@@ -48,13 +48,15 @@
         27,
         28,
         29,
-        30
+        30,
+        31
       ],
       "groups": [
         "Abstract Condition",
         "Activity",
         "Adverb Duration",
         "Adverb Other",
+        "Animal Grouping",
         "Animals",
         "Appliance",
         "Artwork/Artifact",
@@ -116,6 +118,7 @@
         "Social Institution",
         "Specific Time",
         "Style",
+        "Symbolic Element",
         "Technology Digital",
         "Temporal Name",
         "Time Period",
@@ -131,10 +134,10 @@
       "display_name": "Verbs",
       "description": "Verbs with conjugations",
       "type": "words",
-      "md5": "640826a64fd222723d2fb6c020273c63",
-      "timestamp": "2026-02-09T19:40:13Z",
+      "md5": "47a620e7b7ed1e57ff40ebc3a7c91352",
+      "timestamp": "2026-02-11T18:58:25Z",
       "required": true,
-      "word_count": 323,
+      "word_count": 329,
       "levels": [
         3,
         6,
@@ -144,7 +147,8 @@
         20,
         25,
         27,
-        29
+        29,
+        31
       ],
       "groups": [
         "Change",
@@ -170,7 +174,7 @@
       "description": "Sentences for context-based learning",
       "type": "sentences",
       "md5": "4a5201a6b78d73a017bd23d78892aa8a",
-      "timestamp": "2026-02-09T19:40:13Z",
+      "timestamp": "2026-02-11T18:58:25Z",
       "required": false
     }
   ],
