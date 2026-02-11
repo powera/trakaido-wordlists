@@ -1,0 +1,114 @@
+{
+  "version": 1,
+  "language": "french",
+  "language_code": "fr",
+  "generated_at": "2026-02-11T16:59:19Z",
+  "source_language": "kannada",
+  "source_language_code": "kn",
+  "config": {
+    "audio_prefix": "/staging",
+    "available_voices": [
+      "marie",
+      "pierre"
+    ],
+    "default_voice": "marie"
+  },
+  "word_files": [
+    {
+      "id": "nouns",
+      "filename": "wireword_nouns.json",
+      "display_name": "Nouns",
+      "description": "Words (nouns, adjectives, etc.) with Kannada translations",
+      "type": "words",
+      "md5": "a47777d12ce54cc74789518623d5d1af",
+      "timestamp": "2026-02-11T16:59:19Z",
+      "required": true,
+      "word_count": 641,
+      "levels": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        21,
+        22,
+        23,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "groups": [
+        "Appliance",
+        "Artwork/Artifact",
+        "Beverage",
+        "Building Part",
+        "Building/Structure",
+        "Clothing/Accessory",
+        "Color",
+        "Electronic Device",
+        "Emotion",
+        "Food",
+        "Furniture",
+        "Natural Feature",
+        "Path/Infrastructure",
+        "Personal Quality",
+        "Physical Property",
+        "Sequence",
+        "Shape",
+        "Size",
+        "Tool",
+        "Vehicle",
+        "Weapon"
+      ]
+    },
+    {
+      "id": "verbs",
+      "filename": "wireword_verbs.json",
+      "display_name": "Verbs",
+      "description": "Verbs with conjugations and Kannada translations",
+      "type": "words",
+      "md5": "d73bc6a09e345d82b9d7a2b23cef5c99",
+      "timestamp": "2026-02-11T16:59:19Z",
+      "required": true,
+      "word_count": 17,
+      "levels": [
+        3,
+        6,
+        25,
+        27,
+        31
+      ],
+      "groups": [
+        "Possession"
+      ]
+    }
+  ],
+  "sentence_files": [
+    {
+      "id": "sentences",
+      "filename": "wireword_sentences.json",
+      "display_name": "Practice Sentences",
+      "description": "Sentences for context-based learning",
+      "type": "sentences",
+      "md5": "93eb7395b6cf91475518b379e2a8f6ce",
+      "timestamp": "2026-02-11T16:59:19Z",
+      "required": false
+    }
+  ],
+  "auxiliary_files": []
+}
