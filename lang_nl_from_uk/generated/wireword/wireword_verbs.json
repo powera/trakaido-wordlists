@@ -1,0 +1,3292 @@
+[
+  {
+    "guid": "V01_001",
+    "base_target": "eten",
+    "base_source": "їсти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_002",
+    "base_target": "drinken",
+    "base_source": "пити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_003",
+    "base_target": "slapen",
+    "base_source": "спати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_004",
+    "base_target": "wakker worden",
+    "base_source": "прокидатися",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_005",
+    "base_target": "ademen",
+    "base_source": "дихати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_006",
+    "base_target": "spelen",
+    "base_source": "грати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_6"]
+  },
+  {
+    "guid": "V01_007",
+    "base_target": "werken",
+    "base_source": "працювати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_008",
+    "base_target": "krijgen",
+    "base_source": "отримати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_009",
+    "base_target": "vinden",
+    "base_source": "знайти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_010",
+    "base_target": "leggen",
+    "base_source": "покласти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_6"]
+  },
+  {
+    "guid": "V01_011",
+    "base_target": "houden",
+    "base_source": "тримати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_012",
+    "base_target": "gebruiken",
+    "base_source": "використовувати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_12"]
+  },
+  {
+    "guid": "V01_013",
+    "base_target": "helpen",
+    "base_source": "допомогти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_014",
+    "base_target": "openen",
+    "base_source": "відкрити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_015",
+    "base_target": "sluiten",
+    "base_source": "закрити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_016",
+    "base_target": "stoppen",
+    "base_source": "зупинятися",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_017",
+    "base_target": "proberen",
+    "base_source": "намагатися",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_018",
+    "base_target": "vasthouden",
+    "base_source": "тримати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_019",
+    "base_target": "vangen",
+    "base_source": "спіймати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_020",
+    "base_target": "gooien",
+    "base_source": "кидати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_021",
+    "base_target": "trekken",
+    "base_source": "тягнути",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_022",
+    "base_target": "duwen",
+    "base_source": "штовхати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_023",
+    "base_target": "tillen",
+    "base_source": "піднімати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_024",
+    "base_target": "laten vallen",
+    "base_source": "кинути",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_025",
+    "base_target": "dragen",
+    "base_source": "нести",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_026",
+    "base_target": "aanraken",
+    "base_source": "торкатися",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_027",
+    "base_target": "slaan",
+    "base_source": "вдарити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_028",
+    "base_target": "snijden",
+    "base_source": "різати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_030",
+    "base_target": "branden",
+    "base_source": "горіти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_031",
+    "base_target": "dragen",
+    "base_source": "носити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_032",
+    "base_target": "zitten",
+    "base_source": "сидіти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_033",
+    "base_target": "staan",
+    "base_source": "стояти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_034",
+    "base_target": "liggen",
+    "base_source": "лежати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_035",
+    "base_target": "buigen",
+    "base_source": "нагнути",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_036",
+    "base_target": "schudden",
+    "base_source": "струснути",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_037",
+    "base_target": "verbergen",
+    "base_source": "ховати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_038",
+    "base_target": "tonen",
+    "base_source": "показувати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_039",
+    "base_target": "bedekken",
+    "base_source": "накрити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_040",
+    "base_target": "ophangen",
+    "base_source": "висіти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_041",
+    "base_target": "wachten",
+    "base_source": "чекати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_042",
+    "base_target": "ontmoeten",
+    "base_source": "зустрітися",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_043",
+    "base_target": "toetreden",
+    "base_source": "приєднатися",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_044",
+    "base_target": "passen",
+    "base_source": "пасувати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_045",
+    "base_target": "verliezen",
+    "base_source": "загубити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_046",
+    "base_target": "winnen",
+    "base_source": "перемогти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_047",
+    "base_target": "bewaren",
+    "base_source": "зберегти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_048",
+    "base_target": "pijn doen",
+    "base_source": "боліти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_049",
+    "base_target": "sterven",
+    "base_source": "померти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_050",
+    "base_target": "doden",
+    "base_source": "вбити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_051",
+    "base_target": "vechten",
+    "base_source": "боротися",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_052",
+    "base_target": "wijzen",
+    "base_source": "показувати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_053",
+    "base_target": "verspreiden",
+    "base_source": "поширювати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_054",
+    "base_target": "uitglijden",
+    "base_source": "підсковзнутись",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_055",
+    "base_target": "toevoegen",
+    "base_source": "додавати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_056",
+    "base_target": "schieten",
+    "base_source": "стріляти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_057",
+    "base_target": "tekenen",
+    "base_source": "малювати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_058",
+    "base_target": "kiezen",
+    "base_source": "вибирати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_060",
+    "base_target": "wassen",
+    "base_source": "мити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_25"]
+  },
+  {
+    "guid": "V01_061",
+    "base_target": "koken",
+    "base_source": "готувати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_25"]
+  },
+  {
+    "guid": "V01_062",
+    "base_target": "schoonmaken",
+    "base_source": "очищати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_25"]
+  },
+  {
+    "guid": "V01_063",
+    "base_target": "schoppen",
+    "base_source": "пхати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_25"]
+  },
+  {
+    "guid": "V01_064",
+    "base_target": "slaan",
+    "base_source": "бити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_065",
+    "base_target": "blokkeren",
+    "base_source": "перешкоджати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_066",
+    "base_target": "koken",
+    "base_source": "кипіти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_067",
+    "base_target": "borstelen",
+    "base_source": "чистити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_068",
+    "base_target": "snijden",
+    "base_source": "вирізати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_069",
+    "base_target": "verzamelen",
+    "base_source": "збирати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_070",
+    "base_target": "voeden",
+    "base_source": "годувати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_071",
+    "base_target": "vullen",
+    "base_source": "заповнити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_072",
+    "base_target": "repareren",
+    "base_source": "ремонтувати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_073",
+    "base_target": "buigen",
+    "base_source": "згинати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_074",
+    "base_target": "omdraaien",
+    "base_source": "перевернути",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_075",
+    "base_target": "vouwen",
+    "base_source": "складати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_076",
+    "base_target": "laden",
+    "base_source": "завантажити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_077",
+    "base_target": "masseren",
+    "base_source": "масажувати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_078",
+    "base_target": "schillen",
+    "base_source": "чистити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_079",
+    "base_target": "planten",
+    "base_source": "садити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_080",
+    "base_target": "drukken",
+    "base_source": "натискати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_081",
+    "base_target": "repareren",
+    "base_source": "ремонтувати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_082",
+    "base_target": "rollen",
+    "base_source": "котитися",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_083",
+    "base_target": "wrijven",
+    "base_source": "натирати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_084",
+    "base_target": "schrapen",
+    "base_source": "зішкрібати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_085",
+    "base_target": "scherpen",
+    "base_source": "загострити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_086",
+    "base_target": "huppelen",
+    "base_source": "стри́бати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_087",
+    "base_target": "morsen",
+    "base_source": "розлити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_088",
+    "base_target": "stapelen",
+    "base_source": "укладати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_089",
+    "base_target": "roeren",
+    "base_source": "перемішувати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_090",
+    "base_target": "plakken",
+    "base_source": "приклеїти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_091",
+    "base_target": "stoten",
+    "base_source": "вдаритися",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_092",
+    "base_target": "plakken",
+    "base_source": "склеювати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_093",
+    "base_target": "vastbinden",
+    "base_source": "звʼязувати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_094",
+    "base_target": "draaien",
+    "base_source": "скрутити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_095",
+    "base_target": "zwaaien",
+    "base_source": "махати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_096",
+    "base_target": "afvegen",
+    "base_source": "витирати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_097",
+    "base_target": "inpakken",
+    "base_source": "загортати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_098",
+    "base_target": "dienen",
+    "base_source": "служити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_099",
+    "base_target": "handelen",
+    "base_source": "діяти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_100",
+    "base_target": "zetten",
+    "base_source": "класти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_101",
+    "base_target": "verslaan",
+    "base_source": "перемогти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 31,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_31"]
+  },
+  {
+    "guid": "V01_102",
+    "base_target": "missen",
+    "base_source": "промахнутися",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 31,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_31"]
+  },
+  {
+    "guid": "V02_002",
+    "base_target": "bouwen",
+    "base_source": "будувати",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_003",
+    "base_target": "creëren",
+    "base_source": "створити",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_004",
+    "base_target": "schrijven",
+    "base_source": "писати",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_005",
+    "base_target": "ontwerpen",
+    "base_source": "проектувати",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_006",
+    "base_target": "componeren",
+    "base_source": "складати",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_007",
+    "base_target": "uitvinden",
+    "base_source": "винайти",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_009",
+    "base_target": "schilderen",
+    "base_source": "фарбувати",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_25"]
+  },
+  {
+    "guid": "V02_010",
+    "base_target": "vervaardigen",
+    "base_source": "виготовляти",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_25"]
+  },
+  {
+    "guid": "V02_011",
+    "base_target": "genereren",
+    "base_source": "генерувати",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_25"]
+  },
+  {
+    "guid": "V02_012",
+    "base_target": "oprichten",
+    "base_source": "заснувати",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_25"]
+  },
+  {
+    "guid": "V03_001",
+    "base_target": "vernietigen",
+    "base_source": "руйнувати",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_002",
+    "base_target": "breken",
+    "base_source": "ламати",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_003",
+    "base_target": "scheuren",
+    "base_source": "рвати",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_004",
+    "base_target": "slopen",
+    "base_source": "знести",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_005",
+    "base_target": "verpletteren",
+    "base_source": "розчавити",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_006",
+    "base_target": "verbrijzelen",
+    "base_source": "розбити",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_007",
+    "base_target": "ruïneren",
+    "base_source": "руйнувати",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_008",
+    "base_target": "verbrijzelen",
+    "base_source": "розбитися",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_009",
+    "base_target": "wissen",
+    "base_source": "сти́рати",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_25"]
+  },
+  {
+    "guid": "V03_010",
+    "base_target": "verbranden",
+    "base_source": "спалити",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_25"]
+  },
+  {
+    "guid": "V03_011",
+    "base_target": "oplossen",
+    "base_source": "розчиняти",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_25"]
+  },
+  {
+    "guid": "V03_012",
+    "base_target": "instorten",
+    "base_source": "зруйнуватися",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_25"]
+  },
+  {
+    "guid": "V04_001",
+    "base_target": "leren",
+    "base_source": "вчитися",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_002",
+    "base_target": "onderwijzen",
+    "base_source": "вчити",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_12"]
+  },
+  {
+    "guid": "V04_003",
+    "base_target": "lezen",
+    "base_source": "читати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_004",
+    "base_target": "schrijven",
+    "base_source": "писати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_005",
+    "base_target": "luisteren",
+    "base_source": "слухати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_006",
+    "base_target": "weten",
+    "base_source": "знати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_008",
+    "base_target": "denken",
+    "base_source": "думати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_009",
+    "base_target": "laten",
+    "base_source": "дозволяти",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_010",
+    "base_target": "nodig hebben",
+    "base_source": "потребувати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_011",
+    "base_target": "betekenen",
+    "base_source": "означати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_012",
+    "base_target": "herinneren",
+    "base_source": "пам’ятати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_12"]
+  },
+  {
+    "guid": "V04_013",
+    "base_target": "begrijpen",
+    "base_source": "розуміти",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_014",
+    "base_target": "wensen",
+    "base_source": "бажати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_015",
+    "base_target": "geloven",
+    "base_source": "вірити",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_12"]
+  },
+  {
+    "guid": "V04_016",
+    "base_target": "zich afvragen",
+    "base_source": "дивуватися",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_018",
+    "base_target": "lijken",
+    "base_source": "здаватись",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_019",
+    "base_target": "veronderstellen",
+    "base_source": "припускати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
+    "guid": "V04_020",
+    "base_target": "raden",
+    "base_source": "припускати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_20"]
+  },
+  {
+    "guid": "V04_021",
+    "base_target": "vergeten",
+    "base_source": "забути",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_20"]
+  },
+  {
+    "guid": "V04_022",
+    "base_target": "verwachten",
+    "base_source": "очікувати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_023",
+    "base_target": "gebeuren",
+    "base_source": "статися",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_024",
+    "base_target": "tellen",
+    "base_source": "рахувати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_20"]
+  },
+  {
+    "guid": "V04_026",
+    "base_target": "accepteren",
+    "base_source": "прийняти",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_027",
+    "base_target": "kiezen",
+    "base_source": "вибрати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_028",
+    "base_target": "zich voorstellen",
+    "base_source": "уявляти",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_20"]
+  },
+  {
+    "guid": "V04_029",
+    "base_target": "durven",
+    "base_source": "смі́ти",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
+    "guid": "V04_030",
+    "base_target": "beseffen",
+    "base_source": "усвідомити",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_031",
+    "base_target": "overwegen",
+    "base_source": "розглянути",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_032",
+    "base_target": "studeren",
+    "base_source": "вивчати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_033",
+    "base_target": "beslissen",
+    "base_source": "вирішити",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_12"]
+  },
+  {
+    "guid": "V04_034",
+    "base_target": "herkennen",
+    "base_source": "впізнавати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_035",
+    "base_target": "het eens zijn",
+    "base_source": "погодитися",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_036",
+    "base_target": "knikken",
+    "base_source": "кивати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
+    "guid": "V04_037",
+    "base_target": "staren",
+    "base_source": "витріщатися",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
+    "guid": "V04_038",
+    "base_target": "een blik werpen",
+    "base_source": "поглянути",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
+    "guid": "V04_039",
+    "base_target": "twijfelen",
+    "base_source": "сумніватися",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_25"]
+  },
+  {
+    "guid": "V04_040",
+    "base_target": "plannen",
+    "base_source": "планувати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_25"]
+  },
+  {
+    "guid": "V04_041",
+    "base_target": "vergelijken",
+    "base_source": "порівняти",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_25"]
+  },
+  {
+    "guid": "V04_042",
+    "base_target": "bijwonen",
+    "base_source": "відвідувати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_27"]
+  },
+  {
+    "guid": "V04_043",
+    "base_target": "controleren",
+    "base_source": "перевіряти",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_27"]
+  },
+  {
+    "guid": "V04_044",
+    "base_target": "meten",
+    "base_source": "вимірювати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_27"]
+  },
+  {
+    "guid": "V04_045",
+    "base_target": "rusten",
+    "base_source": "відпочивати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_27"]
+  },
+  {
+    "guid": "V05_001",
+    "base_target": "leuk vinden",
+    "base_source": "подобатися",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_6"]
+  },
+  {
+    "guid": "V05_002",
+    "base_target": "houden van",
+    "base_source": "любити",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_10"]
+  },
+  {
+    "guid": "V05_003",
+    "base_target": "haten",
+    "base_source": "ненавидіти",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_12"]
+  },
+  {
+    "guid": "V05_004",
+    "base_target": "willen",
+    "base_source": "бажати",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_6"]
+  },
+  {
+    "guid": "V05_005",
+    "base_target": "voelen",
+    "base_source": "відчувати",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_10"]
+  },
+  {
+    "guid": "V05_006",
+    "base_target": "huilen",
+    "base_source": "плакати",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_007",
+    "base_target": "glimlachen",
+    "base_source": "посміхатися",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_008",
+    "base_target": "missen",
+    "base_source": "сумувати",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_009",
+    "base_target": "zich zorgen maken",
+    "base_source": "хвилюватися",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_010",
+    "base_target": "lachen",
+    "base_source": "сміятися",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_011",
+    "base_target": "hopen",
+    "base_source": "сподіватися",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_12"]
+  },
+  {
+    "guid": "V05_012",
+    "base_target": "vrezen",
+    "base_source": "бояться",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_013",
+    "base_target": "genieten",
+    "base_source": "насолоджуватися",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_014",
+    "base_target": "lijden",
+    "base_source": "страждати",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_20"]
+  },
+  {
+    "guid": "V05_015",
+    "base_target": "verrassen",
+    "base_source": "здивувати",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_20"]
+  },
+  {
+    "guid": "V05_016",
+    "base_target": "vertrouwen",
+    "base_source": "довіряти",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_20"]
+  },
+  {
+    "guid": "V05_017",
+    "base_target": "verkiezen",
+    "base_source": "надавати перевагу",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_20"]
+  },
+  {
+    "guid": "V05_018",
+    "base_target": "betreuren",
+    "base_source": "шкодувати",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_20"]
+  },
+  {
+    "guid": "V05_019",
+    "base_target": "geven om",
+    "base_source": "турбуватися",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_020",
+    "base_target": "vergeven",
+    "base_source": "прощати",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_20"]
+  },
+  {
+    "guid": "V05_021",
+    "base_target": "bewonderen",
+    "base_source": "захоплюватися",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_25"]
+  },
+  {
+    "guid": "V05_022",
+    "base_target": "benijden",
+    "base_source": "заздрити",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_25"]
+  },
+  {
+    "guid": "V05_023",
+    "base_target": "vervelen",
+    "base_source": "надокучувати",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_25"]
+  },
+  {
+    "guid": "V06_001",
+    "base_target": "zijn",
+    "base_source": "бути",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["possession", "level_3"]
+  },
+  {
+    "guid": "V06_002",
+    "base_target": "hebben",
+    "base_source": "мати",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["possession", "level_6"]
+  },
+  {
+    "guid": "V06_003",
+    "base_target": "verdienen",
+    "base_source": "заробляти",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["possession", "level_6"]
+  },
+  {
+    "guid": "V06_004",
+    "base_target": "kopen",
+    "base_source": "купувати",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["possession", "level_3"]
+  },
+  {
+    "guid": "V06_005",
+    "base_target": "geven",
+    "base_source": "дати",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["possession", "level_6"]
+  },
+  {
+    "guid": "V06_006",
+    "base_target": "nemen",
+    "base_source": "брати",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["possession", "level_6"]
+  },
+  {
+    "guid": "V06_007",
+    "base_target": "verkopen",
+    "base_source": "продавати",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_008",
+    "base_target": "lenen",
+    "base_source": "позичати",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_009",
+    "base_target": "uitlenen",
+    "base_source": "позичити",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_010",
+    "base_target": "bezitten",
+    "base_source": "мати",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_011",
+    "base_target": "delen",
+    "base_source": "ділитися",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_012",
+    "base_target": "stelen",
+    "base_source": "красти",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_013",
+    "base_target": "betalen",
+    "base_source": "платити",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_014",
+    "base_target": "ontvangen",
+    "base_source": "отримати",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_015",
+    "base_target": "doneren",
+    "base_source": "пожертвувати",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_016",
+    "base_target": "inhuren",
+    "base_source": "наймати",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["possession", "level_27"]
+  },
+  {
+    "guid": "V06_017",
+    "base_target": "doorgeven",
+    "base_source": "передати",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 31,
+    "word_type": "verb",
+    "tags": ["possession", "level_31"]
+  },
+  {
+    "guid": "V07_001",
+    "base_target": "trainen",
+    "base_source": "тренувати",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["development", "level_29"]
+  },
+  {
+    "guid": "V07_002",
+    "base_target": "ontwikkelen",
+    "base_source": "розвивати",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_003",
+    "base_target": "verbeteren",
+    "base_source": "покращувати",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_004",
+    "base_target": "oefenen",
+    "base_source": "практикувати",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_005",
+    "base_target": "vorderen",
+    "base_source": "просуватися",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_006",
+    "base_target": "rijpen",
+    "base_source": "дозріти",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_007",
+    "base_target": "evolueren",
+    "base_source": "розвиватися",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_008",
+    "base_target": "voorbereiden",
+    "base_source": "підготувати",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_009",
+    "base_target": "opleiden",
+    "base_source": "освічувати",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_010",
+    "base_target": "versterken",
+    "base_source": "зміцнити",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_011",
+    "base_target": "koesteren",
+    "base_source": "доглядати",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_012",
+    "base_target": "cultiveren",
+    "base_source": "розвивати",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_013",
+    "base_target": "vooruitgaan",
+    "base_source": "просуватися",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_014",
+    "base_target": "verfijnen",
+    "base_source": "удосконалити",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_015",
+    "base_target": "bloeien",
+    "base_source": "процвітати",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_016",
+    "base_target": "opvoeden",
+    "base_source": "вирощувати",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["development", "level_27"]
+  },
+  {
+    "guid": "V08_001",
+    "base_target": "worden",
+    "base_source": "стати",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["change", "level_10"]
+  },
+  {
+    "guid": "V08_002",
+    "base_target": "veranderen",
+    "base_source": "перетворюватися",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["change", "level_17"]
+  },
+  {
+    "guid": "V08_003",
+    "base_target": "groeien",
+    "base_source": "рости",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["change", "level_10"]
+  },
+  {
+    "guid": "V08_004",
+    "base_target": "veranderen",
+    "base_source": "змінити",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["change", "level_10"]
+  },
+  {
+    "guid": "V08_005",
+    "base_target": "beginnen",
+    "base_source": "починати",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["change", "level_10"]
+  },
+  {
+    "guid": "V08_006",
+    "base_target": "starten",
+    "base_source": "почати",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["change", "level_10"]
+  },
+  {
+    "guid": "V08_007",
+    "base_target": "eindigen",
+    "base_source": "закінчити",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_008",
+    "base_target": "afmaken",
+    "base_source": "завершити",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_009",
+    "base_target": "verhogen",
+    "base_source": "збільшувати",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_010",
+    "base_target": "verminderen",
+    "base_source": "зменшувати",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_011",
+    "base_target": "vervangen",
+    "base_source": "замінити",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_012",
+    "base_target": "transformeren",
+    "base_source": "перетворити",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_013",
+    "base_target": "aanpassen",
+    "base_source": "налаштувати",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_014",
+    "base_target": "krimpen",
+    "base_source": "зменшитися",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_015",
+    "base_target": "uitbreiden",
+    "base_source": "розширювати",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_016",
+    "base_target": "verbinden",
+    "base_source": "з’єднати",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_017",
+    "base_target": "aansteken",
+    "base_source": "запалити",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_018",
+    "base_target": "beperken",
+    "base_source": "обмежити",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_019",
+    "base_target": "veroorzaken",
+    "base_source": "спричиняти",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_020",
+    "base_target": "toestaan",
+    "base_source": "дозволяти",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_021",
+    "base_target": "slagen",
+    "base_source": "скласти",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 31,
+    "word_type": "verb",
+    "tags": ["change", "level_31"]
+  },
+  {
+    "guid": "V09_001",
+    "base_target": "praten",
+    "base_source": "говорити",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
+    "guid": "V09_002",
+    "base_target": "spreken",
+    "base_source": "говорити",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["communication", "level_12"]
+  },
+  {
+    "guid": "V09_003",
+    "base_target": "vertellen",
+    "base_source": "сказати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
+    "guid": "V09_004",
+    "base_target": "vragen",
+    "base_source": "питати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
+    "guid": "V09_005",
+    "base_target": "antwoorden",
+    "base_source": "відповісти",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["communication", "level_12"]
+  },
+  {
+    "guid": "V09_006",
+    "base_target": "zeggen",
+    "base_source": "сказати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["communication", "level_3"]
+  },
+  {
+    "guid": "V09_007",
+    "base_target": "roepen",
+    "base_source": "кликати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_008",
+    "base_target": "schreeuwen",
+    "base_source": "кричати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_009",
+    "base_target": "fluisteren",
+    "base_source": "шепотіти",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["communication", "level_29"]
+  },
+  {
+    "guid": "V09_010",
+    "base_target": "antwoorden",
+    "base_source": "відповісти",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_011",
+    "base_target": "uitleggen",
+    "base_source": "пояснити",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_012",
+    "base_target": "aankondigen",
+    "base_source": "оголосити",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["communication", "level_20"]
+  },
+  {
+    "guid": "V09_013",
+    "base_target": "bespreken",
+    "base_source": "обговорити",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_014",
+    "base_target": "beschrijven",
+    "base_source": "описати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_015",
+    "base_target": "vermelden",
+    "base_source": "згадати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_016",
+    "base_target": "voorstellen",
+    "base_source": "запропонувати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_017",
+    "base_target": "beloven",
+    "base_source": "пообіцяти",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_018",
+    "base_target": "waarschuwen",
+    "base_source": "попереджувати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["communication", "level_20"]
+  },
+  {
+    "guid": "V09_019",
+    "base_target": "klagen",
+    "base_source": "скаржитися",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["communication", "level_20"]
+  },
+  {
+    "guid": "V09_020",
+    "base_target": "bedanken",
+    "base_source": "дякувати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_021",
+    "base_target": "vertalen",
+    "base_source": "перекладати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["communication", "level_25"]
+  },
+  {
+    "guid": "V09_022",
+    "base_target": "zingen",
+    "base_source": "співати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["communication", "level_25"]
+  },
+  {
+    "guid": "V09_023",
+    "base_target": "verzoeken",
+    "base_source": "прохати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["communication", "level_25"]
+  },
+  {
+    "guid": "V09_024",
+    "base_target": "ontkennen",
+    "base_source": "заперечувати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["communication", "level_25"]
+  },
+  {
+    "guid": "V09_025",
+    "base_target": "grommen",
+    "base_source": "урчати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["communication", "level_27"]
+  },
+  {
+    "guid": "V09_026",
+    "base_target": "versturen",
+    "base_source": "надсилати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["communication", "level_27"]
+  },
+  {
+    "guid": "V09_027",
+    "base_target": "posten",
+    "base_source": "опублікувати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["communication", "level_27"]
+  },
+  {
+    "guid": "V09_028",
+    "base_target": "ondertekenen",
+    "base_source": "підписати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["communication", "level_27"]
+  },
+  {
+    "guid": "V09_029",
+    "base_target": "liegen",
+    "base_source": "брехати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 31,
+    "word_type": "verb",
+    "tags": ["communication", "level_31"]
+  },
+  {
+    "guid": "V09_030",
+    "base_target": "bellen",
+    "base_source": "дзвонити",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 31,
+    "word_type": "verb",
+    "tags": ["communication", "level_31"]
+  },
+  {
+    "guid": "V10_001",
+    "base_target": "zien",
+    "base_source": "бачити",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["perception", "level_3"]
+  },
+  {
+    "guid": "V10_002",
+    "base_target": "horen",
+    "base_source": "чути",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["perception", "level_3"]
+  },
+  {
+    "guid": "V10_003",
+    "base_target": "voelen",
+    "base_source": "відчувати",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["perception", "level_17"]
+  },
+  {
+    "guid": "V10_004",
+    "base_target": "ruiken",
+    "base_source": "нюхати",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["perception", "level_17"]
+  },
+  {
+    "guid": "V10_005",
+    "base_target": "proeven",
+    "base_source": "смакувати",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["perception", "level_17"]
+  },
+  {
+    "guid": "V10_006",
+    "base_target": "kijken",
+    "base_source": "дивитися",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["perception", "level_17"]
+  },
+  {
+    "guid": "V10_007",
+    "base_target": "bekijken",
+    "base_source": "спостерігати",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["perception", "level_17"]
+  },
+  {
+    "guid": "V10_008",
+    "base_target": "opmerken",
+    "base_source": "помітити",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["perception", "level_17"]
+  },
+  {
+    "guid": "V10_009",
+    "base_target": "onderzoeken",
+    "base_source": "перевіряти",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["perception", "level_25"]
+  },
+  {
+    "guid": "V10_010",
+    "base_target": "observeren",
+    "base_source": "спостерігати",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["perception", "level_25"]
+  },
+  {
+    "guid": "V10_011",
+    "base_target": "detecteren",
+    "base_source": "виявити",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["perception", "level_25"]
+  },
+  {
+    "guid": "V10_012",
+    "base_target": "aanvoelen",
+    "base_source": "відчувати",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["perception", "level_25"]
+  },
+  {
+    "guid": "V10_013",
+    "base_target": "ontdekken",
+    "base_source": "відкривати",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["perception", "level_25"]
+  },
+  {
+    "guid": "V11_002",
+    "base_target": "bestaan",
+    "base_source": "існувати",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["existence", "level_17"]
+  },
+  {
+    "guid": "V11_003",
+    "base_target": "blijven",
+    "base_source": "залишатися",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["existence", "level_17"]
+  },
+  {
+    "guid": "V11_004",
+    "base_target": "leven",
+    "base_source": "жити",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["existence", "level_10"]
+  },
+  {
+    "guid": "V11_005",
+    "base_target": "verschijnen",
+    "base_source": "з'явитися",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["existence", "level_17"]
+  },
+  {
+    "guid": "V11_006",
+    "base_target": "blijven",
+    "base_source": "залишатися",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["existence", "level_17"]
+  },
+  {
+    "guid": "V11_008",
+    "base_target": "overleven",
+    "base_source": "вижити",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_009",
+    "base_target": "verdwijnen",
+    "base_source": "зникнути",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_010",
+    "base_target": "behoren",
+    "base_source": "належати",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_011",
+    "base_target": "duren",
+    "base_source": "тривати",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_012",
+    "base_target": "voorkomen",
+    "base_source": "відбуватися",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_013",
+    "base_target": "ontstaan",
+    "base_source": "з'явитися",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_014",
+    "base_target": "verdwijnen",
+    "base_source": "зникнути",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_015",
+    "base_target": "opduiken",
+    "base_source": "з'явитися",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_016",
+    "base_target": "verduren",
+    "base_source": "витримувати",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_017",
+    "base_target": "volharden",
+    "base_source": "зберігатися",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V12_001",
+    "base_target": "lopen",
+    "base_source": "йти",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_3"]
+  },
+  {
+    "guid": "V12_002",
+    "base_target": "rijden",
+    "base_source": "керувати",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_003",
+    "base_target": "rennen",
+    "base_source": "бігти",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_3"]
+  },
+  {
+    "guid": "V12_004",
+    "base_target": "gaan",
+    "base_source": "йти",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_10"]
+  },
+  {
+    "guid": "V12_005",
+    "base_target": "komen",
+    "base_source": "приходити",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_10"]
+  },
+  {
+    "guid": "V12_006",
+    "base_target": "terugkeren",
+    "base_source": "повертатися",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_007",
+    "base_target": "vertrekken",
+    "base_source": "утихати",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_12"]
+  },
+  {
+    "guid": "V12_008",
+    "base_target": "afslaan",
+    "base_source": "повертати",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_009",
+    "base_target": "bewegen",
+    "base_source": "рухатися",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_010",
+    "base_target": "passeren",
+    "base_source": "пройти",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_011",
+    "base_target": "vallen",
+    "base_source": "падати",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_012",
+    "base_target": "brengen",
+    "base_source": "принести",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_013",
+    "base_target": "volgen",
+    "base_source": "слідувати",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_014",
+    "base_target": "bereiken",
+    "base_source": "досягти",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_015",
+    "base_target": "sturen",
+    "base_source": "відправити",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_016",
+    "base_target": "rijden",
+    "base_source": "їздити",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_017",
+    "base_target": "leiden",
+    "base_source": "вести",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_018",
+    "base_target": "vliegen",
+    "base_source": "летіти",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_019",
+    "base_target": "oversteken",
+    "base_source": "перетинати",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_020",
+    "base_target": "haasten",
+    "base_source": "поспішати",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_021",
+    "base_target": "binnengaan",
+    "base_source": "увійти",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_022",
+    "base_target": "reizen",
+    "base_source": "подорожувати",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_023",
+    "base_target": "opstijgen",
+    "base_source": "підніматися",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_024",
+    "base_target": "klimmen",
+    "base_source": "підніматися",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_025",
+    "base_target": "afdalen",
+    "base_source": "спускатися",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_25"]
+  },
+  {
+    "guid": "V12_026",
+    "base_target": "zwemmen",
+    "base_source": "плавати",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_25"]
+  },
+  {
+    "guid": "V12_027",
+    "base_target": "springen",
+    "base_source": "стрибати",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_25"]
+  },
+  {
+    "guid": "V12_028",
+    "base_target": "ontsnappen",
+    "base_source": "втекти",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_25"]
+  },
+  {
+    "guid": "V12_029",
+    "base_target": "zeilen",
+    "base_source": "плисти",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_27"]
+  },
+  {
+    "guid": "V12_030",
+    "base_target": "bezoeken",
+    "base_source": "відвідати",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_27"]
+  }
+]

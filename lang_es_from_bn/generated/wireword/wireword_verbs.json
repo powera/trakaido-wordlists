@@ -1,0 +1,3309 @@
+[
+  {
+    "guid": "V01_001",
+    "base_target": "comer",
+    "base_source": "খাওয়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "audio": {"carlos": "04581c6c82eed78eea46f8f4ff767ee7", "maria": "9374ef2e6d35fac2f6218142be248fd9"},
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_002",
+    "base_target": "beber",
+    "base_source": "পান করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "audio": {"carlos": "4152cf101c271f13ebc661f7848a733c", "maria": "37d02fdcfb981a1858f5395604876b08"},
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_003",
+    "base_target": "dormir",
+    "base_source": "ঘুমানো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "audio": {"carlos": "fd627e76b101bffcd44026b4c1276d2d", "maria": "f42fecf1279ac1995b712a79f6627687"},
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_004",
+    "base_target": "despertar",
+    "base_source": "জাগা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_005",
+    "base_target": "respirar",
+    "base_source": "শ্বাস নেওয়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_006",
+    "base_target": "jugar",
+    "base_source": "খেলা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_6"]
+  },
+  {
+    "guid": "V01_007",
+    "base_target": "trabajar",
+    "base_source": "কাজ করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "audio": {"carlos": "327c2ad85e23564814d0027fee1e8880", "maria": "507589eecac6c1a6f9883d303a77c4ae"},
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_008",
+    "base_target": "obtener",
+    "base_source": "পাওয়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_009",
+    "base_target": "encontrar",
+    "base_source": "পাওয়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "audio": {"carlos": "c079cb6c9c57085df2da5f1378f6f211", "maria": "6f7c027725ad2f401e0149b6271545e4"},
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_010",
+    "base_target": "poner",
+    "base_source": "বেশ রাখা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_6"]
+  },
+  {
+    "guid": "V01_011",
+    "base_target": "guardar",
+    "base_source": "রাখা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_012",
+    "base_target": "usar",
+    "base_source": "ব্যবহার করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_12"]
+  },
+  {
+    "guid": "V01_013",
+    "base_target": "ayudar",
+    "base_source": "সাহায্য করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_014",
+    "base_target": "abrir",
+    "base_source": "খোলা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "audio": {"carlos": "7e5deef810af1da15356b20578d56195", "maria": "31828db19eb90eee8bf719f9731d881e"},
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_015",
+    "base_target": "cerrar",
+    "base_source": "বন্ধ করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "audio": {"carlos": "270850bcdc4fd57a8b95ec168e3034f9", "maria": "42a029975d5f92d6ab46a86fe4b71bf0"},
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_016",
+    "base_target": "parar",
+    "base_source": "থামা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_017",
+    "base_target": "intentar",
+    "base_source": "চেষ্টা করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_018",
+    "base_target": "sostener",
+    "base_source": "ধারণ করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_019",
+    "base_target": "atrapar",
+    "base_source": "ধরতে",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_020",
+    "base_target": "lanzar",
+    "base_source": "ছোঁড়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_021",
+    "base_target": "tirar",
+    "base_source": "টানা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_022",
+    "base_target": "empujar",
+    "base_source": "তাড়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_023",
+    "base_target": "levantar",
+    "base_source": "উঠানো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_024",
+    "base_target": "soltar",
+    "base_source": "তলা পড়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_025",
+    "base_target": "llevar",
+    "base_source": "বহন করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_026",
+    "base_target": "tocar",
+    "base_source": "স্পর্শ করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_027",
+    "base_target": "golpear",
+    "base_source": "ঘাত করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_028",
+    "base_target": "cortar",
+    "base_source": "কাটা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_030",
+    "base_target": "quemar",
+    "base_source": "দাহ করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_031",
+    "base_target": "llevar",
+    "base_source": "পরিধান করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "audio": {"carlos": "9854775cc95823b36964dab79ef8e237", "maria": "09869641c6727d2eb69170c63dec0636"},
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_032",
+    "base_target": "sentarse",
+    "base_source": "বসা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "audio": {"carlos": "41b21cbc5763df118077498d0bc6c193", "maria": "f4ce2ce97c44c74f85c06c153aff6de6"},
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_033",
+    "base_target": "estar de pie",
+    "base_source": "টাকা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "audio": {"carlos": "a75afa55c36f1105bfb29f4c9975fe88", "maria": "8e0797363da23fdfcd3bcab8e6b6f859"},
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_034",
+    "base_target": "estar acostado",
+    "base_source": "শুতে",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_035",
+    "base_target": "doblar",
+    "base_source": "বাঁকানো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_036",
+    "base_target": "sacudir",
+    "base_source": "ঝাঁকান",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_037",
+    "base_target": "esconder",
+    "base_source": "লুকোনো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_038",
+    "base_target": "mostrar",
+    "base_source": "দেখানো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_039",
+    "base_target": "cubrir",
+    "base_source": "ঢেকে দেওয়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_040",
+    "base_target": "colgar",
+    "base_source": "ঝুলানো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_041",
+    "base_target": "esperar",
+    "base_source": "অপেক্ষা করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_042",
+    "base_target": "encontrar",
+    "base_source": "মিলিত হওয়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_043",
+    "base_target": "unirse",
+    "base_source": "জোড়া লাগানো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_044",
+    "base_target": "caber",
+    "base_source": "ফিট করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_045",
+    "base_target": "perder",
+    "base_source": "হারানো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_046",
+    "base_target": "ganar",
+    "base_source": "জয় করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_047",
+    "base_target": "guardar",
+    "base_source": "সংরক্ষণ করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_048",
+    "base_target": "doler",
+    "base_source": "পোড়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_049",
+    "base_target": "morir",
+    "base_source": "মরা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_050",
+    "base_target": "matar",
+    "base_source": "হত্যা করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_051",
+    "base_target": "pelear",
+    "base_source": "লড়াই করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_052",
+    "base_target": "señalar",
+    "base_source": "ইঙ্গিত করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_053",
+    "base_target": "extender",
+    "base_source": "প্রসারিত করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_054",
+    "base_target": "resbalar",
+    "base_source": "পাদেরা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_055",
+    "base_target": "añadir",
+    "base_source": "যোজন করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_056",
+    "base_target": "disparar",
+    "base_source": "ছোড়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_057",
+    "base_target": "dibujar",
+    "base_source": "চিত্রাঙ্কন করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_058",
+    "base_target": "escoger",
+    "base_source": "পছন্দ করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_060",
+    "base_target": "lavar",
+    "base_source": "ধোওয়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_25"]
+  },
+  {
+    "guid": "V01_061",
+    "base_target": "cocinar",
+    "base_source": "রান্না করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_25"]
+  },
+  {
+    "guid": "V01_062",
+    "base_target": "limpiar",
+    "base_source": "পরিষ্কার করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_25"]
+  },
+  {
+    "guid": "V01_063",
+    "base_target": "patear",
+    "base_source": "কিক করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_25"]
+  },
+  {
+    "guid": "V01_064",
+    "base_target": "golpear",
+    "base_source": "পিটানো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_065",
+    "base_target": "bloquear",
+    "base_source": "বন্ধ করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_066",
+    "base_target": "hervir",
+    "base_source": "ফোটানো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_067",
+    "base_target": "cepillar",
+    "base_source": "ব্রাশ করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_068",
+    "base_target": "tallar",
+    "base_source": "কাড়াকাটা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_069",
+    "base_target": "recoger",
+    "base_source": "সংগ্রহ করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_070",
+    "base_target": "alimentar",
+    "base_source": "খাওয়ানো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_071",
+    "base_target": "llenar",
+    "base_source": "ভরতি করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_072",
+    "base_target": "arreglar",
+    "base_source": "মেরামত করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_073",
+    "base_target": "flexionar",
+    "base_source": "সংকোচ করো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_074",
+    "base_target": "voltear",
+    "base_source": "উল্টে দেওয়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_075",
+    "base_target": "doblar",
+    "base_source": "ভাঁজ করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_076",
+    "base_target": "cargar",
+    "base_source": "লোড করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_077",
+    "base_target": "masajear",
+    "base_source": "মালিশ করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_078",
+    "base_target": "pelar",
+    "base_source": "খোসা ছাড়ানো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_079",
+    "base_target": "plantar",
+    "base_source": "রোপণ করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_080",
+    "base_target": "presionar",
+    "base_source": "চেপে ধরা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_081",
+    "base_target": "reparar",
+    "base_source": "মেরামত করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_082",
+    "base_target": "rodar",
+    "base_source": "ঘুরে চলা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_083",
+    "base_target": "frotar",
+    "base_source": "মুছা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_084",
+    "base_target": "raspar",
+    "base_source": "ঘষা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_085",
+    "base_target": "afilar",
+    "base_source": "তিক্ষণ করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_086",
+    "base_target": "brincar",
+    "base_source": "উড়ে-লাফানো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_087",
+    "base_target": "derramar",
+    "base_source": "ঝরে পড়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_088",
+    "base_target": "apilar",
+    "base_source": "থেঁতলো করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_089",
+    "base_target": "revolver",
+    "base_source": "নাড়ানো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_090",
+    "base_target": "pegar",
+    "base_source": "লেগোয়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_091",
+    "base_target": "golpearse",
+    "base_source": "থেঁতলে যেতেঃ",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_092",
+    "base_target": "pegar con cinta",
+    "base_source": "টেপ করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_093",
+    "base_target": "atar",
+    "base_source": "বাঁধা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_094",
+    "base_target": "torcer",
+    "base_source": "ঘুরানো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_095",
+    "base_target": "saludar con la mano",
+    "base_source": "হাত নাড়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_096",
+    "base_target": "limpiar",
+    "base_source": "মুছা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_097",
+    "base_target": "envolver",
+    "base_source": "মুড়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_098",
+    "base_target": "servir",
+    "base_source": "পরিসেবা করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_099",
+    "base_target": "actuar",
+    "base_source": "করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_100",
+    "base_target": "colocar",
+    "base_source": "রাখা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_101",
+    "base_target": "vencer",
+    "base_source": "পরাজিত করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 31,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_31"]
+  },
+  {
+    "guid": "V01_102",
+    "base_target": "fallar",
+    "base_source": "বৈচিত্র্যহীন",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 31,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_31"]
+  },
+  {
+    "guid": "V02_002",
+    "base_target": "construir",
+    "base_source": "নির্মাণ করা",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_003",
+    "base_target": "crear",
+    "base_source": "সৃষ্টि করা",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_004",
+    "base_target": "escribir",
+    "base_source": "লেখা",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_005",
+    "base_target": "diseñar",
+    "base_source": "নকশা করা",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_006",
+    "base_target": "componer",
+    "base_source": "রচনা করা",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_007",
+    "base_target": "inventar",
+    "base_source": "আবিষ্কার করা",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_009",
+    "base_target": "pintar",
+    "base_source": "রাঙানো",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_25"]
+  },
+  {
+    "guid": "V02_010",
+    "base_target": "elaborar",
+    "base_source": "শিল্পকর্ম করা",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_25"]
+  },
+  {
+    "guid": "V02_011",
+    "base_target": "generar",
+    "base_source": "উৎপাদন করা",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_25"]
+  },
+  {
+    "guid": "V02_012",
+    "base_target": "establecer",
+    "base_source": "স্থাপন করা",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_25"]
+  },
+  {
+    "guid": "V03_001",
+    "base_target": "destruir",
+    "base_source": "ধ্বংস করা",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_002",
+    "base_target": "romper",
+    "base_source": "ভাঙা",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_003",
+    "base_target": "rasgar",
+    "base_source": "ছিঁড়ে ফেলা",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_004",
+    "base_target": "demoler",
+    "base_source": "dhvansōkaraṇa করা",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_005",
+    "base_target": "aplastar",
+    "base_source": "চাপড়ান",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_006",
+    "base_target": "destrozar",
+    "base_source": "ভাঙা",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_007",
+    "base_target": "arruinar",
+    "base_source": "ধ্বংস করা",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_008",
+    "base_target": "hacer añicos",
+    "base_source": "ভাঙা",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_009",
+    "base_target": "borrar",
+    "base_source": "মুছা",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_25"]
+  },
+  {
+    "guid": "V03_010",
+    "base_target": "quemar",
+    "base_source": "জ্বালানো",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_25"]
+  },
+  {
+    "guid": "V03_011",
+    "base_target": "disolver",
+    "base_source": "বাষ্পীভবন করা",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_25"]
+  },
+  {
+    "guid": "V03_012",
+    "base_target": "colapsar",
+    "base_source": "ভাঙা",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_25"]
+  },
+  {
+    "guid": "V04_001",
+    "base_target": "aprender",
+    "base_source": "শিখা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_002",
+    "base_target": "enseñar",
+    "base_source": "শিক্ষা দেওয়া",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_12"]
+  },
+  {
+    "guid": "V04_003",
+    "base_target": "leer",
+    "base_source": "পড়া",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_004",
+    "base_target": "escribir",
+    "base_source": "লিখতে",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_005",
+    "base_target": "escuchar",
+    "base_source": "শোনা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_006",
+    "base_target": "saber",
+    "base_source": "জানতে",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_008",
+    "base_target": "pensar",
+    "base_source": "ভাবা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_009",
+    "base_target": "dejar",
+    "base_source": "অনুমতি দেওয়া",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_010",
+    "base_target": "necesitar",
+    "base_source": "প্রয়োজন হওয়া",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_011",
+    "base_target": "significar",
+    "base_source": "অর্থ করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_012",
+    "base_target": "recordar",
+    "base_source": "স্মরণ করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_12"]
+  },
+  {
+    "guid": "V04_013",
+    "base_target": "entender",
+    "base_source": "বুঝা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_014",
+    "base_target": "desear",
+    "base_source": "ইচ্ছা করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_015",
+    "base_target": "creer",
+    "base_source": "বিশ্বাস করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_12"]
+  },
+  {
+    "guid": "V04_016",
+    "base_target": "preguntarse",
+    "base_source": "আশ্চর্য হওয়া",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_018",
+    "base_target": "parecer",
+    "base_source": "মনে হওয়া",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_019",
+    "base_target": "suponer",
+    "base_source": "ধরা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
+    "guid": "V04_020",
+    "base_target": "adivinar",
+    "base_source": "অনুমান করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_20"]
+  },
+  {
+    "guid": "V04_021",
+    "base_target": "olvidar",
+    "base_source": "ভুলে যাওয়া",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_20"]
+  },
+  {
+    "guid": "V04_022",
+    "base_target": "esperar",
+    "base_source": "প্রত্যাশা করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_023",
+    "base_target": "pasar",
+    "base_source": "ঘটনা\u0000",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_024",
+    "base_target": "contar",
+    "base_source": "গণনা করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_20"]
+  },
+  {
+    "guid": "V04_026",
+    "base_target": "aceptar",
+    "base_source": "গ্রহণ করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_027",
+    "base_target": "elegir",
+    "base_source": "চয়ন করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_028",
+    "base_target": "imaginar",
+    "base_source": "কল্পনা করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_20"]
+  },
+  {
+    "guid": "V04_029",
+    "base_target": "atreverse",
+    "base_source": "সাহস করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
+    "guid": "V04_030",
+    "base_target": "darse cuenta",
+    "base_source": "অনুধাবন করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_031",
+    "base_target": "considerar",
+    "base_source": "বিবেচনা করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_032",
+    "base_target": "estudiar",
+    "base_source": "অধ্যয়ন করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_033",
+    "base_target": "decidir",
+    "base_source": "নির্ধারণ করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_12"]
+  },
+  {
+    "guid": "V04_034",
+    "base_target": "reconocer",
+    "base_source": "পরিচয় করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_035",
+    "base_target": "estar de acuerdo",
+    "base_source": "সম্মত হওয়া",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_036",
+    "base_target": "asentir",
+    "base_source": "নোড়ানো",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
+    "guid": "V04_037",
+    "base_target": "mirar fijamente",
+    "base_source": "নিঃশব্দে তাকানো",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
+    "guid": "V04_038",
+    "base_target": "echar un vistazo",
+    "base_source": "দ্রুত দেখা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
+    "guid": "V04_039",
+    "base_target": "dudar",
+    "base_source": "সন্দেহ করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_25"]
+  },
+  {
+    "guid": "V04_040",
+    "base_target": "planear",
+    "base_source": "পরিকল্পনা করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_25"]
+  },
+  {
+    "guid": "V04_041",
+    "base_target": "comparar",
+    "base_source": "তুলনা করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_25"]
+  },
+  {
+    "guid": "V04_042",
+    "base_target": "asistir",
+    "base_source": "উপস্থিত থাকা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_27"]
+  },
+  {
+    "guid": "V04_043",
+    "base_target": "verificar",
+    "base_source": "পরীক্ষা করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_27"]
+  },
+  {
+    "guid": "V04_044",
+    "base_target": "medir",
+    "base_source": "মাপা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_27"]
+  },
+  {
+    "guid": "V04_045",
+    "base_target": "descansar",
+    "base_source": "বিশ্রাম গ্রহণ করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_27"]
+  },
+  {
+    "guid": "V05_001",
+    "base_target": "gustar",
+    "base_source": "পছন্দ করা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_6"]
+  },
+  {
+    "guid": "V05_002",
+    "base_target": "amar",
+    "base_source": "ভালবাসা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_10"]
+  },
+  {
+    "guid": "V05_003",
+    "base_target": "odiar",
+    "base_source": "ঘৃণা করা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_12"]
+  },
+  {
+    "guid": "V05_004",
+    "base_target": "querer",
+    "base_source": "চাওয়া",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_6"]
+  },
+  {
+    "guid": "V05_005",
+    "base_target": "sentir",
+    "base_source": "অনুভব করা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_10"]
+  },
+  {
+    "guid": "V05_006",
+    "base_target": "llorar",
+    "base_source": "কাঁদা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_007",
+    "base_target": "sonreír",
+    "base_source": "হাসা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_008",
+    "base_target": "extrañar",
+    "base_source": "বিরহবোধ করা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_009",
+    "base_target": "preocuparse",
+    "base_source": "চিন্তা করা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_010",
+    "base_target": "reír",
+    "base_source": "হাসা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_011",
+    "base_target": "esperar",
+    "base_source": "আশা করা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_12"]
+  },
+  {
+    "guid": "V05_012",
+    "base_target": "temer",
+    "base_source": "ভয় পাওয়া",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_013",
+    "base_target": "disfrutar",
+    "base_source": "আনন্দ নেওয়া",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_014",
+    "base_target": "sufrir",
+    "base_source": "কষ্ট ভোগ করা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_20"]
+  },
+  {
+    "guid": "V05_015",
+    "base_target": "sorprender",
+    "base_source": "আশ্চর্য করা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_20"]
+  },
+  {
+    "guid": "V05_016",
+    "base_target": "confiar",
+    "base_source": "বিশ্বাস করা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_20"]
+  },
+  {
+    "guid": "V05_017",
+    "base_target": "preferir",
+    "base_source": "অগ্রাধিকার দেওয়া",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_20"]
+  },
+  {
+    "guid": "V05_018",
+    "base_target": "lamentar",
+    "base_source": "অনুতপ্ত হওয়া",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_20"]
+  },
+  {
+    "guid": "V05_019",
+    "base_target": "importar",
+    "base_source": "ভেবেচিন্তা করা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_020",
+    "base_target": "perdonar",
+    "base_source": "ক্ষমা করা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_20"]
+  },
+  {
+    "guid": "V05_021",
+    "base_target": "admirar",
+    "base_source": "প্রশংসা করা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_25"]
+  },
+  {
+    "guid": "V05_022",
+    "base_target": "envidiar",
+    "base_source": "ঈর্ষা করা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_25"]
+  },
+  {
+    "guid": "V05_023",
+    "base_target": "aburrir",
+    "base_source": "বিরক্ত করা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_25"]
+  },
+  {
+    "guid": "V06_001",
+    "base_target": "ser",
+    "base_source": "হওয়া",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 3,
+    "word_type": "verb",
+    "audio": {"carlos": "31ce6be7462614a75f4e4790ed20706b", "maria": "50c8a9cfdf1e30ebf2fdc00bc7ad40e5"},
+    "tags": ["possession", "level_3"]
+  },
+  {
+    "guid": "V06_002",
+    "base_target": "tener",
+    "base_source": "থাকা",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["possession", "level_6"]
+  },
+  {
+    "guid": "V06_003",
+    "base_target": "ganar",
+    "base_source": "উপার্জন করা",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["possession", "level_6"]
+  },
+  {
+    "guid": "V06_004",
+    "base_target": "comprar",
+    "base_source": "কেনা",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 3,
+    "word_type": "verb",
+    "audio": {"carlos": "5f956a1545b2fa4357d8b65a690f0aa3", "maria": "9f8aeebdec3acc30df91e200efa0e8de"},
+    "tags": ["possession", "level_3"]
+  },
+  {
+    "guid": "V06_005",
+    "base_target": "dar",
+    "base_source": "দেওয়া",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["possession", "level_6"]
+  },
+  {
+    "guid": "V06_006",
+    "base_target": "coger",
+    "base_source": "নেওয়া",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["possession", "level_6"]
+  },
+  {
+    "guid": "V06_007",
+    "base_target": "vender",
+    "base_source": "বিক্রি করা",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_008",
+    "base_target": "pedir prestado",
+    "base_source": "ঋণ নেওয়া",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_009",
+    "base_target": "prestar",
+    "base_source": "ঋণদা(ন)",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_010",
+    "base_target": "poseer",
+    "base_source": "প্রসত্ত হওয়া",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_011",
+    "base_target": "compartir",
+    "base_source": "শেয়ার করা",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_012",
+    "base_target": "robar",
+    "base_source": "চুরি করা",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_013",
+    "base_target": "pagar",
+    "base_source": "দো",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_014",
+    "base_target": "recibir",
+    "base_source": "পাওয়া",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_015",
+    "base_target": "donar",
+    "base_source": "দান করা",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_016",
+    "base_target": "contratar",
+    "base_source": "নিয়োগ করা",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["possession", "level_27"]
+  },
+  {
+    "guid": "V06_017",
+    "base_target": "pasar",
+    "base_source": "পড়া",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 31,
+    "word_type": "verb",
+    "tags": ["possession", "level_31"]
+  },
+  {
+    "guid": "V07_001",
+    "base_target": "entrenar",
+    "base_source": "প্রশিক্ষণ দেওয়া",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["development", "level_29"]
+  },
+  {
+    "guid": "V07_002",
+    "base_target": "desarrollar",
+    "base_source": "উন্নয়ন করা",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_003",
+    "base_target": "mejorar",
+    "base_source": "উন্নত করা",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_004",
+    "base_target": "practicar",
+    "base_source": "অভ্যাস করা",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_005",
+    "base_target": "progresar",
+    "base_source": "উন্নতি করা",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_006",
+    "base_target": "madurar",
+    "base_source": "পক্ক হওয়া",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_007",
+    "base_target": "evolucionar",
+    "base_source": "উন্নতি হওয়া",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_008",
+    "base_target": "preparar",
+    "base_source": "প্রস্তুত করা",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_009",
+    "base_target": "educar",
+    "base_source": "শিক্ষা দেওয়া",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_010",
+    "base_target": "fortalecer",
+    "base_source": "শক্তিশালী করা",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_011",
+    "base_target": "nutrir",
+    "base_source": "পালন করা",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_012",
+    "base_target": "cultivar",
+    "base_source": "চানানো",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_013",
+    "base_target": "avanzar",
+    "base_source": "অগ্রসর হওয়া",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_014",
+    "base_target": "refinar",
+    "base_source": "সংশোধন করা",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_015",
+    "base_target": "florecer",
+    "base_source": "ফুলে উঠা",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_016",
+    "base_target": "criar",
+    "base_source": "পালন করা",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["development", "level_27"]
+  },
+  {
+    "guid": "V08_001",
+    "base_target": "volverse",
+    "base_source": "হওয়া",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["change", "level_10"]
+  },
+  {
+    "guid": "V08_002",
+    "base_target": "convertirse",
+    "base_source": "হওয়া",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["change", "level_17"]
+  },
+  {
+    "guid": "V08_003",
+    "base_target": "crecer",
+    "base_source": "বড় হওয়া",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["change", "level_10"]
+  },
+  {
+    "guid": "V08_004",
+    "base_target": "cambiar",
+    "base_source": "পরিবর্তন করা",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["change", "level_10"]
+  },
+  {
+    "guid": "V08_005",
+    "base_target": "empezar",
+    "base_source": "শুরু করা",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["change", "level_10"]
+  },
+  {
+    "guid": "V08_006",
+    "base_target": "iniciar",
+    "base_source": "শুরু করা",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["change", "level_10"]
+  },
+  {
+    "guid": "V08_007",
+    "base_target": "terminar",
+    "base_source": "সমাপ্ত করা",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_008",
+    "base_target": "acabar",
+    "base_source": "সমাপ্ত করা",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_009",
+    "base_target": "aumentar",
+    "base_source": "বৃদ্ধি করা",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_010",
+    "base_target": "disminuir",
+    "base_source": "কমানো",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_011",
+    "base_target": "reemplazar",
+    "base_source": "প্রতিস্থাপন করা",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_012",
+    "base_target": "transformar",
+    "base_source": "রূপান্তর করা",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_013",
+    "base_target": "ajustar",
+    "base_source": "সংশোধন করা",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_014",
+    "base_target": "encoger",
+    "base_source": "ছোট করা",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_015",
+    "base_target": "expandir",
+    "base_source": "বিস্তার করা",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_016",
+    "base_target": "conectar",
+    "base_source": "যোড়া",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_017",
+    "base_target": "encender",
+    "base_source": "জ্বালানো",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_018",
+    "base_target": "limitar",
+    "base_source": "সীমাবদ্ধ করা",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_019",
+    "base_target": "causar",
+    "base_source": "সৃষ্টিকরা",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_020",
+    "base_target": "permitir",
+    "base_source": "অনুমতি দেওয়া",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_021",
+    "base_target": "aprobar",
+    "base_source": "পাস করা",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 31,
+    "word_type": "verb",
+    "tags": ["change", "level_31"]
+  },
+  {
+    "guid": "V09_001",
+    "base_target": "hablar",
+    "base_source": "কথা বলা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
+    "guid": "V09_002",
+    "base_target": "hablar",
+    "base_source": "কথা বলা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["communication", "level_12"]
+  },
+  {
+    "guid": "V09_003",
+    "base_target": "decir",
+    "base_source": "বলা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
+    "guid": "V09_004",
+    "base_target": "preguntar",
+    "base_source": "জিজ্ঞাসা করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
+    "guid": "V09_005",
+    "base_target": "responder",
+    "base_source": "উত্তর দেওয়া",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["communication", "level_12"]
+  },
+  {
+    "guid": "V09_006",
+    "base_target": "decir",
+    "base_source": "কওয়া",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 3,
+    "word_type": "verb",
+    "audio": {"carlos": "6db41d3e80e08cfb39bdbac4029ba874", "maria": "fde82a75ed866d7f74282c3c6d1c5d2e"},
+    "tags": ["communication", "level_3"]
+  },
+  {
+    "guid": "V09_007",
+    "base_target": "llamar",
+    "base_source": "ডাকা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_008",
+    "base_target": "gritar",
+    "base_source": "চিৎকার করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_009",
+    "base_target": "susurrar",
+    "base_source": "ফিসফিস করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["communication", "level_29"]
+  },
+  {
+    "guid": "V09_010",
+    "base_target": "responder",
+    "base_source": "উত্তর দেওয়া",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_011",
+    "base_target": "explicar",
+    "base_source": "বর্ণনা করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_012",
+    "base_target": "anunciar",
+    "base_source": "ঘোষণা করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["communication", "level_20"]
+  },
+  {
+    "guid": "V09_013",
+    "base_target": "discutir",
+    "base_source": "আলোচনা করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_014",
+    "base_target": "describir",
+    "base_source": "বর্ণনা করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_015",
+    "base_target": "mencionar",
+    "base_source": "উল্লেখ করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_016",
+    "base_target": "sugerir",
+    "base_source": "প্রস্তাব করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_017",
+    "base_target": "prometer",
+    "base_source": "প্রতিশ্রুতি দেওয়া",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_018",
+    "base_target": "advertir",
+    "base_source": "সতর্ক করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["communication", "level_20"]
+  },
+  {
+    "guid": "V09_019",
+    "base_target": "quejarse",
+    "base_source": "অভিযোগ করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["communication", "level_20"]
+  },
+  {
+    "guid": "V09_020",
+    "base_target": "agradecer",
+    "base_source": "ধন্যবাদ জ্ঞাপন করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_021",
+    "base_target": "traducir",
+    "base_source": "অনুবাদ করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["communication", "level_25"]
+  },
+  {
+    "guid": "V09_022",
+    "base_target": "cantar",
+    "base_source": "গাওয়া",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["communication", "level_25"]
+  },
+  {
+    "guid": "V09_023",
+    "base_target": "solicitar",
+    "base_source": "অনুরোধ করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["communication", "level_25"]
+  },
+  {
+    "guid": "V09_024",
+    "base_target": "negar",
+    "base_source": "অস্বীকার করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["communication", "level_25"]
+  },
+  {
+    "guid": "V09_025",
+    "base_target": "gruñir",
+    "base_source": "গুড়্গু করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["communication", "level_27"]
+  },
+  {
+    "guid": "V09_026",
+    "base_target": "enviar por correo",
+    "base_source": "ডাক পাঠানো",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["communication", "level_27"]
+  },
+  {
+    "guid": "V09_027",
+    "base_target": "publicar",
+    "base_source": "প্রকাশ করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["communication", "level_27"]
+  },
+  {
+    "guid": "V09_028",
+    "base_target": "firmar",
+    "base_source": "সই করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["communication", "level_27"]
+  },
+  {
+    "guid": "V09_029",
+    "base_target": "mentir",
+    "base_source": "মিথ্যা বলা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 31,
+    "word_type": "verb",
+    "tags": ["communication", "level_31"]
+  },
+  {
+    "guid": "V09_030",
+    "base_target": "llamar",
+    "base_source": "কল করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 31,
+    "word_type": "verb",
+    "tags": ["communication", "level_31"]
+  },
+  {
+    "guid": "V10_001",
+    "base_target": "ver",
+    "base_source": "দেখা",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 3,
+    "word_type": "verb",
+    "audio": {"carlos": "121ba0e3c8243f6cf9374c34f77327e9", "maria": "e8dce904d3dcfecf19a4c54f2c98cff3"},
+    "tags": ["perception", "level_3"]
+  },
+  {
+    "guid": "V10_002",
+    "base_target": "oír",
+    "base_source": "শোনা",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 3,
+    "word_type": "verb",
+    "audio": {"carlos": "de3c91c345353903aae224a921e57462", "maria": "ba95257e4fe8b3a2013cc74410a67488"},
+    "tags": ["perception", "level_3"]
+  },
+  {
+    "guid": "V10_003",
+    "base_target": "sentir",
+    "base_source": "অনুভব করা",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["perception", "level_17"]
+  },
+  {
+    "guid": "V10_004",
+    "base_target": "oler",
+    "base_source": "শুঁকতে",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["perception", "level_17"]
+  },
+  {
+    "guid": "V10_005",
+    "base_target": "probar",
+    "base_source": "রুচি পরীক্ষা করা",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["perception", "level_17"]
+  },
+  {
+    "guid": "V10_006",
+    "base_target": "mirar",
+    "base_source": "দেখা",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["perception", "level_17"]
+  },
+  {
+    "guid": "V10_007",
+    "base_target": "observar",
+    "base_source": "দেখা",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["perception", "level_17"]
+  },
+  {
+    "guid": "V10_008",
+    "base_target": "notar",
+    "base_source": "নোটিশ করা",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["perception", "level_17"]
+  },
+  {
+    "guid": "V10_009",
+    "base_target": "examinar",
+    "base_source": "পরীক্ষা করা",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["perception", "level_25"]
+  },
+  {
+    "guid": "V10_010",
+    "base_target": "observar",
+    "base_source": "পর্যবেক্ষণ করা",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["perception", "level_25"]
+  },
+  {
+    "guid": "V10_011",
+    "base_target": "detectar",
+    "base_source": "সনাক্ত করা",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["perception", "level_25"]
+  },
+  {
+    "guid": "V10_012",
+    "base_target": "percibir",
+    "base_source": "অনুভব করা",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["perception", "level_25"]
+  },
+  {
+    "guid": "V10_013",
+    "base_target": "descubrir",
+    "base_source": "অন্বেষণ করা",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["perception", "level_25"]
+  },
+  {
+    "guid": "V11_002",
+    "base_target": "existir",
+    "base_source": "অস্তিত্ব বজায় রাখা",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["existence", "level_17"]
+  },
+  {
+    "guid": "V11_003",
+    "base_target": "quedarse",
+    "base_source": "থাকা",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["existence", "level_17"]
+  },
+  {
+    "guid": "V11_004",
+    "base_target": "vivir",
+    "base_source": "বাঁচা",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["existence", "level_10"]
+  },
+  {
+    "guid": "V11_005",
+    "base_target": "aparecer",
+    "base_source": "প্রদর্শিত হওয়া",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["existence", "level_17"]
+  },
+  {
+    "guid": "V11_006",
+    "base_target": "quedarse",
+    "base_source": "থাকা",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["existence", "level_17"]
+  },
+  {
+    "guid": "V11_008",
+    "base_target": "sobrevivir",
+    "base_source": "বেঁচে থাকা",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_009",
+    "base_target": "desaparecer",
+    "base_source": "অদৃশ্য হওয়া",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_010",
+    "base_target": "pertenecer",
+    "base_source": "অন্তর্ভুক্ত হওয়া",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_011",
+    "base_target": "durar",
+    "base_source": "চলতেও থামা",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_012",
+    "base_target": "ocurrir",
+    "base_source": "ঘটনা ঘটা",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_013",
+    "base_target": "surgir",
+    "base_source": "উদ্ভব হওয়া",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_014",
+    "base_target": "desvanecerse",
+    "base_source": "অদৃশ্য হওয়া",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_015",
+    "base_target": "emerger",
+    "base_source": "প্রকাশ পাওয়া",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_016",
+    "base_target": "soportar",
+    "base_source": "অবস্থিতি থাকা",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_017",
+    "base_target": "persistir",
+    "base_source": "অবস্থান করা",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V12_001",
+    "base_target": "caminar",
+    "base_source": "চলা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 3,
+    "word_type": "verb",
+    "audio": {"carlos": "2a0bf43ce3dc2df74da70823940dda25", "maria": "b4f53e8f43fa919bce4bd4475c1d3d4e"},
+    "tags": ["directional_movement", "level_3"]
+  },
+  {
+    "guid": "V12_002",
+    "base_target": "conducir",
+    "base_source": "চালানো",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_003",
+    "base_target": "correr",
+    "base_source": "দৌড়ানো",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 3,
+    "word_type": "verb",
+    "audio": {"carlos": "8e7f49fe9cf339ba4f1c55866a9080e2", "maria": "64c6e0f78d232e9d5a6abb564cefd0ef"},
+    "tags": ["directional_movement", "level_3"]
+  },
+  {
+    "guid": "V12_004",
+    "base_target": "ir",
+    "base_source": "যাওয়া",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_10"]
+  },
+  {
+    "guid": "V12_005",
+    "base_target": "venir",
+    "base_source": "আসা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_10"]
+  },
+  {
+    "guid": "V12_006",
+    "base_target": "volver",
+    "base_source": "ফিরে আসা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_007",
+    "base_target": "salir",
+    "base_source": "ছেড়ে যাত্তয়া",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_12"]
+  },
+  {
+    "guid": "V12_008",
+    "base_target": "girar",
+    "base_source": "ঘুরা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_009",
+    "base_target": "moverse",
+    "base_source": "চলা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_010",
+    "base_target": "pasar",
+    "base_source": "পেরিয়ে যাওয়া",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_011",
+    "base_target": "caer",
+    "base_source": "পড়া",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_012",
+    "base_target": "traer",
+    "base_source": "আনা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_013",
+    "base_target": "seguir",
+    "base_source": "অনুসরণ করা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_014",
+    "base_target": "llegar",
+    "base_source": "পৌঁছানো",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_015",
+    "base_target": "enviar",
+    "base_source": "পাঠানো",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_016",
+    "base_target": "montar",
+    "base_source": "আরোহন",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_017",
+    "base_target": "guiar",
+    "base_source": "নেতিবাচক করা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_018",
+    "base_target": "volar",
+    "base_source": "উড়া",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_019",
+    "base_target": "cruzar",
+    "base_source": "পাস করা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_020",
+    "base_target": "apurarse",
+    "base_source": "তাড়াহুড়ো করা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_021",
+    "base_target": "entrar",
+    "base_source": "প্রবেশ করা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_022",
+    "base_target": "viajar",
+    "base_source": "ভ্রমণ করা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_023",
+    "base_target": "levantarse",
+    "base_source": "উঠা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_024",
+    "base_target": "escalar",
+    "base_source": "চড়া",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_025",
+    "base_target": "descender",
+    "base_source": "অবতরণ করা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_25"]
+  },
+  {
+    "guid": "V12_026",
+    "base_target": "nadar",
+    "base_source": "তৈরী করা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_25"]
+  },
+  {
+    "guid": "V12_027",
+    "base_target": "saltar",
+    "base_source": "ঝাঁপ দেওয়া",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_25"]
+  },
+  {
+    "guid": "V12_028",
+    "base_target": "escapar",
+    "base_source": "পলায়ন করা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_25"]
+  },
+  {
+    "guid": "V12_029",
+    "base_target": "navegar",
+    "base_source": "নৌকা চালনা করা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_27"]
+  },
+  {
+    "guid": "V12_030",
+    "base_target": "visitar",
+    "base_source": "দর্শন করা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_27"]
+  }
+]

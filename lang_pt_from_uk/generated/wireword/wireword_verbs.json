@@ -1,0 +1,3292 @@
+[
+  {
+    "guid": "V01_001",
+    "base_target": "comer",
+    "base_source": "їсти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_002",
+    "base_target": "beber",
+    "base_source": "пити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_003",
+    "base_target": "dormir",
+    "base_source": "спати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_004",
+    "base_target": "acordar",
+    "base_source": "прокидатися",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_005",
+    "base_target": "respirar",
+    "base_source": "дихати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_006",
+    "base_target": "jogar",
+    "base_source": "грати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_6"]
+  },
+  {
+    "guid": "V01_007",
+    "base_target": "trabalhar",
+    "base_source": "працювати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_008",
+    "base_target": "obter",
+    "base_source": "отримати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_009",
+    "base_target": "encontrar",
+    "base_source": "знайти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_010",
+    "base_target": "pôr",
+    "base_source": "покласти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_6"]
+  },
+  {
+    "guid": "V01_011",
+    "base_target": "manter",
+    "base_source": "тримати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_012",
+    "base_target": "usar",
+    "base_source": "використовувати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_12"]
+  },
+  {
+    "guid": "V01_013",
+    "base_target": "ajudar",
+    "base_source": "допомогти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_014",
+    "base_target": "abrir",
+    "base_source": "відкрити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_015",
+    "base_target": "fechar",
+    "base_source": "закрити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_016",
+    "base_target": "parar",
+    "base_source": "зупинятися",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_017",
+    "base_target": "tentar",
+    "base_source": "намагатися",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_018",
+    "base_target": "segurar",
+    "base_source": "тримати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_019",
+    "base_target": "pegar",
+    "base_source": "спіймати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_020",
+    "base_target": "jogar",
+    "base_source": "кидати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_021",
+    "base_target": "puxar",
+    "base_source": "тягнути",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_022",
+    "base_target": "empurrar",
+    "base_source": "штовхати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_023",
+    "base_target": "levantar",
+    "base_source": "піднімати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_024",
+    "base_target": "deixar cair",
+    "base_source": "кинути",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_025",
+    "base_target": "carregar",
+    "base_source": "нести",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_026",
+    "base_target": "tocar",
+    "base_source": "торкатися",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_027",
+    "base_target": "bater",
+    "base_source": "вдарити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_028",
+    "base_target": "cortar",
+    "base_source": "різати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_030",
+    "base_target": "queimar",
+    "base_source": "горіти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_031",
+    "base_target": "vestir",
+    "base_source": "носити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_032",
+    "base_target": "sentar",
+    "base_source": "сидіти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_033",
+    "base_target": "estar de pé",
+    "base_source": "стояти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_034",
+    "base_target": "deitar",
+    "base_source": "лежати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_035",
+    "base_target": "dobrar",
+    "base_source": "нагнути",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_036",
+    "base_target": "sacudir",
+    "base_source": "струснути",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_037",
+    "base_target": "esconder",
+    "base_source": "ховати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_038",
+    "base_target": "mostrar",
+    "base_source": "показувати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_039",
+    "base_target": "cobrir",
+    "base_source": "накрити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_040",
+    "base_target": "pendurar",
+    "base_source": "висіти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_041",
+    "base_target": "esperar",
+    "base_source": "чекати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_042",
+    "base_target": "encontrar",
+    "base_source": "зустрітися",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_043",
+    "base_target": "juntar-se",
+    "base_source": "приєднатися",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_044",
+    "base_target": "caber",
+    "base_source": "пасувати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_045",
+    "base_target": "perder",
+    "base_source": "загубити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_046",
+    "base_target": "ganhar",
+    "base_source": "перемогти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_047",
+    "base_target": "salvar",
+    "base_source": "зберегти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_048",
+    "base_target": "doer",
+    "base_source": "боліти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_049",
+    "base_target": "morrer",
+    "base_source": "померти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_050",
+    "base_target": "matar",
+    "base_source": "вбити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_051",
+    "base_target": "lutar",
+    "base_source": "боротися",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_052",
+    "base_target": "apontar",
+    "base_source": "показувати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_053",
+    "base_target": "espalhar",
+    "base_source": "поширювати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_054",
+    "base_target": "escorregar",
+    "base_source": "підсковзнутись",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_055",
+    "base_target": "adicionar",
+    "base_source": "додавати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_056",
+    "base_target": "atirar",
+    "base_source": "стріляти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_057",
+    "base_target": "desenhar",
+    "base_source": "малювати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_058",
+    "base_target": "escolher",
+    "base_source": "вибирати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_060",
+    "base_target": "lavar",
+    "base_source": "мити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_25"]
+  },
+  {
+    "guid": "V01_061",
+    "base_target": "cozinhar",
+    "base_source": "готувати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_25"]
+  },
+  {
+    "guid": "V01_062",
+    "base_target": "limpar",
+    "base_source": "очищати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_25"]
+  },
+  {
+    "guid": "V01_063",
+    "base_target": "chutar",
+    "base_source": "пхати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_25"]
+  },
+  {
+    "guid": "V01_064",
+    "base_target": "bater",
+    "base_source": "бити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_065",
+    "base_target": "bloquear",
+    "base_source": "перешкоджати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_066",
+    "base_target": "ferver",
+    "base_source": "кипіти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_067",
+    "base_target": "escovar",
+    "base_source": "чистити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_068",
+    "base_target": "esculpir",
+    "base_source": "вирізати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_069",
+    "base_target": "coletar",
+    "base_source": "збирати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_070",
+    "base_target": "alimentar",
+    "base_source": "годувати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_071",
+    "base_target": "encher",
+    "base_source": "заповнити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_072",
+    "base_target": "consertar",
+    "base_source": "ремонтувати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_073",
+    "base_target": "flexionar",
+    "base_source": "згинати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_074",
+    "base_target": "virar",
+    "base_source": "перевернути",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_075",
+    "base_target": "dobrar",
+    "base_source": "складати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_076",
+    "base_target": "carregar",
+    "base_source": "завантажити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_077",
+    "base_target": "massagear",
+    "base_source": "масажувати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_078",
+    "base_target": "descascar",
+    "base_source": "чистити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_079",
+    "base_target": "plantar",
+    "base_source": "садити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_080",
+    "base_target": "pressionar",
+    "base_source": "натискати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_081",
+    "base_target": "reparar",
+    "base_source": "ремонтувати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_082",
+    "base_target": "rolar",
+    "base_source": "котитися",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_083",
+    "base_target": "esfregar",
+    "base_source": "натирати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_084",
+    "base_target": "raspar",
+    "base_source": "зішкрібати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_085",
+    "base_target": "afiar",
+    "base_source": "загострити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_086",
+    "base_target": "pular",
+    "base_source": "стри́бати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_087",
+    "base_target": "derramar",
+    "base_source": "розлити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_088",
+    "base_target": "empilhar",
+    "base_source": "укладати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_089",
+    "base_target": "mexer",
+    "base_source": "перемішувати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_090",
+    "base_target": "colar",
+    "base_source": "приклеїти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_091",
+    "base_target": "bater",
+    "base_source": "вдаритися",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_092",
+    "base_target": "colar com fita",
+    "base_source": "склеювати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_093",
+    "base_target": "amarrar",
+    "base_source": "звʼязувати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_094",
+    "base_target": "torcer",
+    "base_source": "скрутити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_095",
+    "base_target": "acenar",
+    "base_source": "махати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_096",
+    "base_target": "limpar",
+    "base_source": "витирати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_097",
+    "base_target": "embrulhar",
+    "base_source": "загортати",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_098",
+    "base_target": "servir",
+    "base_source": "служити",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_099",
+    "base_target": "agir",
+    "base_source": "діяти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_100",
+    "base_target": "colocar",
+    "base_source": "класти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_101",
+    "base_target": "vencer",
+    "base_source": "перемогти",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 31,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_31"]
+  },
+  {
+    "guid": "V01_102",
+    "base_target": "errar",
+    "base_source": "промахнутися",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 31,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_31"]
+  },
+  {
+    "guid": "V02_002",
+    "base_target": "construir",
+    "base_source": "будувати",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_003",
+    "base_target": "criar",
+    "base_source": "створити",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_004",
+    "base_target": "escrever",
+    "base_source": "писати",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_005",
+    "base_target": "projetar",
+    "base_source": "проектувати",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_006",
+    "base_target": "compor",
+    "base_source": "складати",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_007",
+    "base_target": "inventar",
+    "base_source": "винайти",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_009",
+    "base_target": "pintar",
+    "base_source": "фарбувати",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_25"]
+  },
+  {
+    "guid": "V02_010",
+    "base_target": "artesanar",
+    "base_source": "виготовляти",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_25"]
+  },
+  {
+    "guid": "V02_011",
+    "base_target": "gerar",
+    "base_source": "генерувати",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_25"]
+  },
+  {
+    "guid": "V02_012",
+    "base_target": "estabelecer",
+    "base_source": "заснувати",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_25"]
+  },
+  {
+    "guid": "V03_001",
+    "base_target": "destruir",
+    "base_source": "руйнувати",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_002",
+    "base_target": "quebrar",
+    "base_source": "ламати",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_003",
+    "base_target": "rasgar",
+    "base_source": "рвати",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_004",
+    "base_target": "demolir",
+    "base_source": "знести",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_005",
+    "base_target": "esmagar",
+    "base_source": "розчавити",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_006",
+    "base_target": "despedaçar",
+    "base_source": "розбити",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_007",
+    "base_target": "arruinar",
+    "base_source": "руйнувати",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_008",
+    "base_target": "estilhaçar",
+    "base_source": "розбитися",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_009",
+    "base_target": "apagar",
+    "base_source": "сти́рати",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_25"]
+  },
+  {
+    "guid": "V03_010",
+    "base_target": "queimar",
+    "base_source": "спалити",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_25"]
+  },
+  {
+    "guid": "V03_011",
+    "base_target": "dissolver",
+    "base_source": "розчиняти",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_25"]
+  },
+  {
+    "guid": "V03_012",
+    "base_target": "desabar",
+    "base_source": "зруйнуватися",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_25"]
+  },
+  {
+    "guid": "V04_001",
+    "base_target": "aprender",
+    "base_source": "вчитися",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_002",
+    "base_target": "ensinar",
+    "base_source": "вчити",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_12"]
+  },
+  {
+    "guid": "V04_003",
+    "base_target": "ler",
+    "base_source": "читати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_004",
+    "base_target": "escrever",
+    "base_source": "писати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_005",
+    "base_target": "ouvir",
+    "base_source": "слухати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_006",
+    "base_target": "saber",
+    "base_source": "знати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_008",
+    "base_target": "pensar",
+    "base_source": "думати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_009",
+    "base_target": "deixar",
+    "base_source": "дозволяти",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_010",
+    "base_target": "precisar",
+    "base_source": "потребувати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_011",
+    "base_target": "significar",
+    "base_source": "означати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_012",
+    "base_target": "lembrar",
+    "base_source": "пам’ятати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_12"]
+  },
+  {
+    "guid": "V04_013",
+    "base_target": "entender",
+    "base_source": "розуміти",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_014",
+    "base_target": "desejar",
+    "base_source": "бажати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_015",
+    "base_target": "acreditar",
+    "base_source": "вірити",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_12"]
+  },
+  {
+    "guid": "V04_016",
+    "base_target": "perguntar-se",
+    "base_source": "дивуватися",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_018",
+    "base_target": "parecer",
+    "base_source": "здаватись",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_019",
+    "base_target": "supor",
+    "base_source": "припускати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
+    "guid": "V04_020",
+    "base_target": "adivinhar",
+    "base_source": "припускати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_20"]
+  },
+  {
+    "guid": "V04_021",
+    "base_target": "esquecer",
+    "base_source": "забути",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_20"]
+  },
+  {
+    "guid": "V04_022",
+    "base_target": "esperar",
+    "base_source": "очікувати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_023",
+    "base_target": "acontecer",
+    "base_source": "статися",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_024",
+    "base_target": "contar",
+    "base_source": "рахувати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_20"]
+  },
+  {
+    "guid": "V04_026",
+    "base_target": "aceitar",
+    "base_source": "прийняти",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_027",
+    "base_target": "escolher",
+    "base_source": "вибрати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_028",
+    "base_target": "imaginar",
+    "base_source": "уявляти",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_20"]
+  },
+  {
+    "guid": "V04_029",
+    "base_target": "ousar",
+    "base_source": "смі́ти",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
+    "guid": "V04_030",
+    "base_target": "perceber",
+    "base_source": "усвідомити",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_031",
+    "base_target": "considerar",
+    "base_source": "розглянути",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_032",
+    "base_target": "estudar",
+    "base_source": "вивчати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_033",
+    "base_target": "decidir",
+    "base_source": "вирішити",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_12"]
+  },
+  {
+    "guid": "V04_034",
+    "base_target": "reconhecer",
+    "base_source": "впізнавати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_035",
+    "base_target": "concordar",
+    "base_source": "погодитися",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_036",
+    "base_target": "acenar",
+    "base_source": "кивати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
+    "guid": "V04_037",
+    "base_target": "encarar",
+    "base_source": "витріщатися",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
+    "guid": "V04_038",
+    "base_target": "dar uma olhada",
+    "base_source": "поглянути",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
+    "guid": "V04_039",
+    "base_target": "duvidar",
+    "base_source": "сумніватися",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_25"]
+  },
+  {
+    "guid": "V04_040",
+    "base_target": "planejar",
+    "base_source": "планувати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_25"]
+  },
+  {
+    "guid": "V04_041",
+    "base_target": "comparar",
+    "base_source": "порівняти",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_25"]
+  },
+  {
+    "guid": "V04_042",
+    "base_target": "comparecer",
+    "base_source": "відвідувати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_27"]
+  },
+  {
+    "guid": "V04_043",
+    "base_target": "verificar",
+    "base_source": "перевіряти",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_27"]
+  },
+  {
+    "guid": "V04_044",
+    "base_target": "medir",
+    "base_source": "вимірювати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_27"]
+  },
+  {
+    "guid": "V04_045",
+    "base_target": "descansar",
+    "base_source": "відпочивати",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_27"]
+  },
+  {
+    "guid": "V05_001",
+    "base_target": "gostar",
+    "base_source": "подобатися",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_6"]
+  },
+  {
+    "guid": "V05_002",
+    "base_target": "amar",
+    "base_source": "любити",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_10"]
+  },
+  {
+    "guid": "V05_003",
+    "base_target": "odiar",
+    "base_source": "ненавидіти",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_12"]
+  },
+  {
+    "guid": "V05_004",
+    "base_target": "querer",
+    "base_source": "бажати",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_6"]
+  },
+  {
+    "guid": "V05_005",
+    "base_target": "sentir",
+    "base_source": "відчувати",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_10"]
+  },
+  {
+    "guid": "V05_006",
+    "base_target": "chorar",
+    "base_source": "плакати",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_007",
+    "base_target": "sorrir",
+    "base_source": "посміхатися",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_008",
+    "base_target": "sentir falta",
+    "base_source": "сумувати",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_009",
+    "base_target": "preocupar-se",
+    "base_source": "хвилюватися",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_010",
+    "base_target": "rir",
+    "base_source": "сміятися",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_011",
+    "base_target": "esperar",
+    "base_source": "сподіватися",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_12"]
+  },
+  {
+    "guid": "V05_012",
+    "base_target": "temer",
+    "base_source": "бояться",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_013",
+    "base_target": "aproveitar",
+    "base_source": "насолоджуватися",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_014",
+    "base_target": "sofrer",
+    "base_source": "страждати",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_20"]
+  },
+  {
+    "guid": "V05_015",
+    "base_target": "surpreender",
+    "base_source": "здивувати",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_20"]
+  },
+  {
+    "guid": "V05_016",
+    "base_target": "confiar",
+    "base_source": "довіряти",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_20"]
+  },
+  {
+    "guid": "V05_017",
+    "base_target": "preferir",
+    "base_source": "надавати перевагу",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_20"]
+  },
+  {
+    "guid": "V05_018",
+    "base_target": "lamentar",
+    "base_source": "шкодувати",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_20"]
+  },
+  {
+    "guid": "V05_019",
+    "base_target": "importar-se",
+    "base_source": "турбуватися",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_020",
+    "base_target": "perdoar",
+    "base_source": "прощати",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_20"]
+  },
+  {
+    "guid": "V05_021",
+    "base_target": "admirar",
+    "base_source": "захоплюватися",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_25"]
+  },
+  {
+    "guid": "V05_022",
+    "base_target": "invejar",
+    "base_source": "заздрити",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_25"]
+  },
+  {
+    "guid": "V05_023",
+    "base_target": "entediar",
+    "base_source": "надокучувати",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_25"]
+  },
+  {
+    "guid": "V06_001",
+    "base_target": "ser",
+    "base_source": "бути",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["possession", "level_3"]
+  },
+  {
+    "guid": "V06_002",
+    "base_target": "ter",
+    "base_source": "мати",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["possession", "level_6"]
+  },
+  {
+    "guid": "V06_003",
+    "base_target": "ganhar",
+    "base_source": "заробляти",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["possession", "level_6"]
+  },
+  {
+    "guid": "V06_004",
+    "base_target": "comprar",
+    "base_source": "купувати",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["possession", "level_3"]
+  },
+  {
+    "guid": "V06_005",
+    "base_target": "dar",
+    "base_source": "дати",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["possession", "level_6"]
+  },
+  {
+    "guid": "V06_006",
+    "base_target": "pegar",
+    "base_source": "брати",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["possession", "level_6"]
+  },
+  {
+    "guid": "V06_007",
+    "base_target": "vender",
+    "base_source": "продавати",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_008",
+    "base_target": "emprestar",
+    "base_source": "позичати",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_009",
+    "base_target": "emprestar",
+    "base_source": "позичити",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_010",
+    "base_target": "possuir",
+    "base_source": "мати",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_011",
+    "base_target": "compartilhar",
+    "base_source": "ділитися",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_012",
+    "base_target": "roubar",
+    "base_source": "красти",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_013",
+    "base_target": "pagar",
+    "base_source": "платити",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_014",
+    "base_target": "receber",
+    "base_source": "отримати",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_015",
+    "base_target": "doar",
+    "base_source": "пожертвувати",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_016",
+    "base_target": "contratar",
+    "base_source": "наймати",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["possession", "level_27"]
+  },
+  {
+    "guid": "V06_017",
+    "base_target": "passar",
+    "base_source": "передати",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 31,
+    "word_type": "verb",
+    "tags": ["possession", "level_31"]
+  },
+  {
+    "guid": "V07_001",
+    "base_target": "treinar",
+    "base_source": "тренувати",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["development", "level_29"]
+  },
+  {
+    "guid": "V07_002",
+    "base_target": "desenvolver",
+    "base_source": "розвивати",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_003",
+    "base_target": "melhorar",
+    "base_source": "покращувати",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_004",
+    "base_target": "praticar",
+    "base_source": "практикувати",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_005",
+    "base_target": "progredir",
+    "base_source": "просуватися",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_006",
+    "base_target": "amadurecer",
+    "base_source": "дозріти",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_007",
+    "base_target": "evoluir",
+    "base_source": "розвиватися",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_008",
+    "base_target": "preparar",
+    "base_source": "підготувати",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_009",
+    "base_target": "educar",
+    "base_source": "освічувати",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_010",
+    "base_target": "fortalecer",
+    "base_source": "зміцнити",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_011",
+    "base_target": "nutrir",
+    "base_source": "доглядати",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_012",
+    "base_target": "cultivar",
+    "base_source": "розвивати",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_013",
+    "base_target": "avançar",
+    "base_source": "просуватися",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_014",
+    "base_target": "refinar",
+    "base_source": "удосконалити",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_015",
+    "base_target": "florescer",
+    "base_source": "процвітати",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_016",
+    "base_target": "criar",
+    "base_source": "вирощувати",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["development", "level_27"]
+  },
+  {
+    "guid": "V08_001",
+    "base_target": "tornar-se",
+    "base_source": "стати",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["change", "level_10"]
+  },
+  {
+    "guid": "V08_002",
+    "base_target": "transformar-se",
+    "base_source": "перетворюватися",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["change", "level_17"]
+  },
+  {
+    "guid": "V08_003",
+    "base_target": "crescer",
+    "base_source": "рости",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["change", "level_10"]
+  },
+  {
+    "guid": "V08_004",
+    "base_target": "mudar",
+    "base_source": "змінити",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["change", "level_10"]
+  },
+  {
+    "guid": "V08_005",
+    "base_target": "começar",
+    "base_source": "починати",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["change", "level_10"]
+  },
+  {
+    "guid": "V08_006",
+    "base_target": "iniciar",
+    "base_source": "почати",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["change", "level_10"]
+  },
+  {
+    "guid": "V08_007",
+    "base_target": "terminar",
+    "base_source": "закінчити",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_008",
+    "base_target": "acabar",
+    "base_source": "завершити",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_009",
+    "base_target": "aumentar",
+    "base_source": "збільшувати",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_010",
+    "base_target": "diminuir",
+    "base_source": "зменшувати",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_011",
+    "base_target": "substituir",
+    "base_source": "замінити",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_012",
+    "base_target": "transformar",
+    "base_source": "перетворити",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_013",
+    "base_target": "ajustar",
+    "base_source": "налаштувати",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_014",
+    "base_target": "encolher",
+    "base_source": "зменшитися",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_015",
+    "base_target": "expandir",
+    "base_source": "розширювати",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_016",
+    "base_target": "conectar",
+    "base_source": "з’єднати",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_017",
+    "base_target": "acender",
+    "base_source": "запалити",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_018",
+    "base_target": "limitar",
+    "base_source": "обмежити",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_019",
+    "base_target": "causar",
+    "base_source": "спричиняти",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_020",
+    "base_target": "permitir",
+    "base_source": "дозволяти",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_021",
+    "base_target": "passar",
+    "base_source": "скласти",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 31,
+    "word_type": "verb",
+    "tags": ["change", "level_31"]
+  },
+  {
+    "guid": "V09_001",
+    "base_target": "falar",
+    "base_source": "говорити",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
+    "guid": "V09_002",
+    "base_target": "falar",
+    "base_source": "говорити",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["communication", "level_12"]
+  },
+  {
+    "guid": "V09_003",
+    "base_target": "contar",
+    "base_source": "сказати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
+    "guid": "V09_004",
+    "base_target": "perguntar",
+    "base_source": "питати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
+    "guid": "V09_005",
+    "base_target": "responder",
+    "base_source": "відповісти",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["communication", "level_12"]
+  },
+  {
+    "guid": "V09_006",
+    "base_target": "dizer",
+    "base_source": "сказати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["communication", "level_3"]
+  },
+  {
+    "guid": "V09_007",
+    "base_target": "chamar",
+    "base_source": "кликати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_008",
+    "base_target": "gritar",
+    "base_source": "кричати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_009",
+    "base_target": "sussurrar",
+    "base_source": "шепотіти",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["communication", "level_29"]
+  },
+  {
+    "guid": "V09_010",
+    "base_target": "responder",
+    "base_source": "відповісти",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_011",
+    "base_target": "explicar",
+    "base_source": "пояснити",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_012",
+    "base_target": "anunciar",
+    "base_source": "оголосити",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["communication", "level_20"]
+  },
+  {
+    "guid": "V09_013",
+    "base_target": "discutir",
+    "base_source": "обговорити",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_014",
+    "base_target": "descrever",
+    "base_source": "описати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_015",
+    "base_target": "mencionar",
+    "base_source": "згадати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_016",
+    "base_target": "sugerir",
+    "base_source": "запропонувати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_017",
+    "base_target": "prometer",
+    "base_source": "пообіцяти",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_018",
+    "base_target": "avisar",
+    "base_source": "попереджувати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["communication", "level_20"]
+  },
+  {
+    "guid": "V09_019",
+    "base_target": "reclamar",
+    "base_source": "скаржитися",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["communication", "level_20"]
+  },
+  {
+    "guid": "V09_020",
+    "base_target": "agradecer",
+    "base_source": "дякувати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_021",
+    "base_target": "traduzir",
+    "base_source": "перекладати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["communication", "level_25"]
+  },
+  {
+    "guid": "V09_022",
+    "base_target": "cantar",
+    "base_source": "співати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["communication", "level_25"]
+  },
+  {
+    "guid": "V09_023",
+    "base_target": "solicitar",
+    "base_source": "прохати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["communication", "level_25"]
+  },
+  {
+    "guid": "V09_024",
+    "base_target": "negar",
+    "base_source": "заперечувати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["communication", "level_25"]
+  },
+  {
+    "guid": "V09_025",
+    "base_target": "grunhir",
+    "base_source": "урчати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["communication", "level_27"]
+  },
+  {
+    "guid": "V09_026",
+    "base_target": "enviar por correio",
+    "base_source": "надсилати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["communication", "level_27"]
+  },
+  {
+    "guid": "V09_027",
+    "base_target": "publicar",
+    "base_source": "опублікувати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["communication", "level_27"]
+  },
+  {
+    "guid": "V09_028",
+    "base_target": "assinar",
+    "base_source": "підписати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["communication", "level_27"]
+  },
+  {
+    "guid": "V09_029",
+    "base_target": "mentir",
+    "base_source": "брехати",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 31,
+    "word_type": "verb",
+    "tags": ["communication", "level_31"]
+  },
+  {
+    "guid": "V09_030",
+    "base_target": "ligar",
+    "base_source": "дзвонити",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 31,
+    "word_type": "verb",
+    "tags": ["communication", "level_31"]
+  },
+  {
+    "guid": "V10_001",
+    "base_target": "ver",
+    "base_source": "бачити",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["perception", "level_3"]
+  },
+  {
+    "guid": "V10_002",
+    "base_target": "ouvir",
+    "base_source": "чути",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["perception", "level_3"]
+  },
+  {
+    "guid": "V10_003",
+    "base_target": "sentir",
+    "base_source": "відчувати",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["perception", "level_17"]
+  },
+  {
+    "guid": "V10_004",
+    "base_target": "cheirar",
+    "base_source": "нюхати",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["perception", "level_17"]
+  },
+  {
+    "guid": "V10_005",
+    "base_target": "provar",
+    "base_source": "смакувати",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["perception", "level_17"]
+  },
+  {
+    "guid": "V10_006",
+    "base_target": "olhar",
+    "base_source": "дивитися",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["perception", "level_17"]
+  },
+  {
+    "guid": "V10_007",
+    "base_target": "assistir",
+    "base_source": "спостерігати",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["perception", "level_17"]
+  },
+  {
+    "guid": "V10_008",
+    "base_target": "notar",
+    "base_source": "помітити",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["perception", "level_17"]
+  },
+  {
+    "guid": "V10_009",
+    "base_target": "examinar",
+    "base_source": "перевіряти",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["perception", "level_25"]
+  },
+  {
+    "guid": "V10_010",
+    "base_target": "observar",
+    "base_source": "спостерігати",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["perception", "level_25"]
+  },
+  {
+    "guid": "V10_011",
+    "base_target": "detectar",
+    "base_source": "виявити",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["perception", "level_25"]
+  },
+  {
+    "guid": "V10_012",
+    "base_target": "sentir",
+    "base_source": "відчувати",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["perception", "level_25"]
+  },
+  {
+    "guid": "V10_013",
+    "base_target": "descobrir",
+    "base_source": "відкривати",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["perception", "level_25"]
+  },
+  {
+    "guid": "V11_002",
+    "base_target": "existir",
+    "base_source": "існувати",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["existence", "level_17"]
+  },
+  {
+    "guid": "V11_003",
+    "base_target": "ficar",
+    "base_source": "залишатися",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["existence", "level_17"]
+  },
+  {
+    "guid": "V11_004",
+    "base_target": "viver",
+    "base_source": "жити",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["existence", "level_10"]
+  },
+  {
+    "guid": "V11_005",
+    "base_target": "aparecer",
+    "base_source": "з'явитися",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["existence", "level_17"]
+  },
+  {
+    "guid": "V11_006",
+    "base_target": "ficar",
+    "base_source": "залишатися",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["existence", "level_17"]
+  },
+  {
+    "guid": "V11_008",
+    "base_target": "sobreviver",
+    "base_source": "вижити",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_009",
+    "base_target": "desaparecer",
+    "base_source": "зникнути",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_010",
+    "base_target": "pertencer",
+    "base_source": "належати",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_011",
+    "base_target": "durar",
+    "base_source": "тривати",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_012",
+    "base_target": "ocorrer",
+    "base_source": "відбуватися",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_013",
+    "base_target": "surgir",
+    "base_source": "з'явитися",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_014",
+    "base_target": "desvanecer",
+    "base_source": "зникнути",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_015",
+    "base_target": "emergir",
+    "base_source": "з'явитися",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_016",
+    "base_target": "suportar",
+    "base_source": "витримувати",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_017",
+    "base_target": "persistir",
+    "base_source": "зберігатися",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V12_001",
+    "base_target": "andar",
+    "base_source": "йти",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_3"]
+  },
+  {
+    "guid": "V12_002",
+    "base_target": "dirigir",
+    "base_source": "керувати",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_003",
+    "base_target": "correr",
+    "base_source": "бігти",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_3"]
+  },
+  {
+    "guid": "V12_004",
+    "base_target": "ir",
+    "base_source": "йти",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_10"]
+  },
+  {
+    "guid": "V12_005",
+    "base_target": "vir",
+    "base_source": "приходити",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_10"]
+  },
+  {
+    "guid": "V12_006",
+    "base_target": "voltar",
+    "base_source": "повертатися",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_007",
+    "base_target": "sair",
+    "base_source": "утихати",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_12"]
+  },
+  {
+    "guid": "V12_008",
+    "base_target": "virar",
+    "base_source": "повертати",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_009",
+    "base_target": "mover-se",
+    "base_source": "рухатися",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_010",
+    "base_target": "passar",
+    "base_source": "пройти",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_011",
+    "base_target": "cair",
+    "base_source": "падати",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_012",
+    "base_target": "trazer",
+    "base_source": "принести",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_013",
+    "base_target": "seguir",
+    "base_source": "слідувати",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_014",
+    "base_target": "chegar",
+    "base_source": "досягти",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_015",
+    "base_target": "enviar",
+    "base_source": "відправити",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_016",
+    "base_target": "andar de",
+    "base_source": "їздити",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_017",
+    "base_target": "liderar",
+    "base_source": "вести",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_018",
+    "base_target": "voar",
+    "base_source": "летіти",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_019",
+    "base_target": "atravessar",
+    "base_source": "перетинати",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_020",
+    "base_target": "apressar-se",
+    "base_source": "поспішати",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_021",
+    "base_target": "entrar",
+    "base_source": "увійти",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_022",
+    "base_target": "viajar",
+    "base_source": "подорожувати",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_023",
+    "base_target": "subir",
+    "base_source": "підніматися",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_024",
+    "base_target": "escalar",
+    "base_source": "підніматися",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_025",
+    "base_target": "descer",
+    "base_source": "спускатися",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_25"]
+  },
+  {
+    "guid": "V12_026",
+    "base_target": "nadar",
+    "base_source": "плавати",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_25"]
+  },
+  {
+    "guid": "V12_027",
+    "base_target": "pular",
+    "base_source": "стрибати",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_25"]
+  },
+  {
+    "guid": "V12_028",
+    "base_target": "escapar",
+    "base_source": "втекти",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_25"]
+  },
+  {
+    "guid": "V12_029",
+    "base_target": "navegar",
+    "base_source": "плисти",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_27"]
+  },
+  {
+    "guid": "V12_030",
+    "base_target": "visitar",
+    "base_source": "відвідати",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_27"]
+  }
+]

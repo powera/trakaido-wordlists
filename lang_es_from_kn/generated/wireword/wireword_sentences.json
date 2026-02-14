@@ -1,0 +1,29 @@
+{
+  "language": "es",
+  "sentences": [
+    {
+      "sentence_id": "S_00013",
+      "translations": {
+        "kn": "ನಾನು ಅಂಗಡಿಯಲ್ಲಿ ರೊಟ್ಟೆ ಕೊಳ್ಳುತ್ತೇನೆ.",
+        "es": "Compro pan en la tienda."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/es_1s_present"
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 1
+    }
+  ],
+  "source_language": "kn"
+}

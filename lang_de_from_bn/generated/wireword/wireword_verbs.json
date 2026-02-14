@@ -1,0 +1,3311 @@
+[
+  {
+    "guid": "V01_001",
+    "base_target": "essen",
+    "base_source": "খাওয়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_002",
+    "base_target": "trinken",
+    "base_source": "পান করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_003",
+    "base_target": "schlafen",
+    "base_source": "ঘুমানো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_004",
+    "base_target": "aufwachen",
+    "base_source": "জাগা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_005",
+    "base_target": "atmen",
+    "base_source": "শ্বাস নেওয়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_006",
+    "base_target": "spielen",
+    "base_source": "খেলা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_6"]
+  },
+  {
+    "guid": "V01_007",
+    "base_target": "arbeiten",
+    "base_source": "কাজ করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_008",
+    "base_target": "bekommen",
+    "base_source": "পাওয়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_10"]
+  },
+  {
+    "guid": "V01_009",
+    "base_target": "finden",
+    "base_source": "পাওয়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_010",
+    "base_target": "legen",
+    "base_source": "বেশ রাখা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_6"]
+  },
+  {
+    "guid": "V01_011",
+    "base_target": "behalten",
+    "base_source": "রাখা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_012",
+    "base_target": "benutzen",
+    "base_source": "ব্যবহার করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_12"]
+  },
+  {
+    "guid": "V01_013",
+    "base_target": "helfen",
+    "base_source": "সাহায্য করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_014",
+    "base_target": "öffnen",
+    "base_source": "খোলা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_015",
+    "base_target": "schließen",
+    "base_source": "বন্ধ করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_016",
+    "base_target": "anhalten",
+    "base_source": "থামা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_017",
+    "base_target": "versuchen",
+    "base_source": "চেষ্টা করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_018",
+    "base_target": "halten",
+    "base_source": "ধারণ করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_019",
+    "base_target": "fangen",
+    "base_source": "ধরতে",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_020",
+    "base_target": "werfen",
+    "base_source": "ছোঁড়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_021",
+    "base_target": "ziehen",
+    "base_source": "টানা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_022",
+    "base_target": "drücken",
+    "base_source": "তাড়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_023",
+    "base_target": "heben",
+    "base_source": "উঠানো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_024",
+    "base_target": "fallen lassen",
+    "base_source": "তলা পড়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_025",
+    "base_target": "tragen",
+    "base_source": "বহন করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_026",
+    "base_target": "berühren",
+    "base_source": "স্পর্শ করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_027",
+    "base_target": "schlagen",
+    "base_source": "ঘাত করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_028",
+    "base_target": "schneiden",
+    "base_source": "কাটা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_030",
+    "base_target": "brennen",
+    "base_source": "দাহ করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_031",
+    "base_target": "tragen",
+    "base_source": "পরিধান করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_032",
+    "base_target": "sitzen",
+    "base_source": "বসা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_033",
+    "base_target": "stehen",
+    "base_source": "টাকা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_3"]
+  },
+  {
+    "guid": "V01_034",
+    "base_target": "liegen",
+    "base_source": "শুতে",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_035",
+    "base_target": "biegen",
+    "base_source": "বাঁকানো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_036",
+    "base_target": "schütteln",
+    "base_source": "ঝাঁকান",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_037",
+    "base_target": "verstecken",
+    "base_source": "লুকোনো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_038",
+    "base_target": "zeigen",
+    "base_source": "দেখানো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_039",
+    "base_target": "bedecken",
+    "base_source": "ঢেকে দেওয়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_040",
+    "base_target": "hängen",
+    "base_source": "ঝুলানো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_041",
+    "base_target": "warten",
+    "base_source": "অপেক্ষা করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_042",
+    "base_target": "treffen",
+    "base_source": "মিলিত হওয়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_043",
+    "base_target": "beitreten",
+    "base_source": "জোড়া লাগানো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_044",
+    "base_target": "passen",
+    "base_source": "ফিট করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_045",
+    "base_target": "verlieren",
+    "base_source": "হারানো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_046",
+    "base_target": "gewinnen",
+    "base_source": "জয় করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_047",
+    "base_target": "speichern",
+    "base_source": "সংরক্ষণ করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_048",
+    "base_target": "wehtun",
+    "base_source": "পোড়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_049",
+    "base_target": "sterben",
+    "base_source": "মরা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_050",
+    "base_target": "töten",
+    "base_source": "হত্যা করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_051",
+    "base_target": "kämpfen",
+    "base_source": "লড়াই করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_052",
+    "base_target": "zeigen",
+    "base_source": "ইঙ্গিত করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_053",
+    "base_target": "ausbreiten",
+    "base_source": "প্রসারিত করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_054",
+    "base_target": "ausrutschen",
+    "base_source": "পাদেরা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_055",
+    "base_target": "hinzufügen",
+    "base_source": "যোজন করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_056",
+    "base_target": "schießen",
+    "base_source": "ছোড়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_20"]
+  },
+  {
+    "guid": "V01_057",
+    "base_target": "zeichnen",
+    "base_source": "চিত্রাঙ্কন করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_058",
+    "base_target": "auswählen",
+    "base_source": "পছন্দ করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_17"]
+  },
+  {
+    "guid": "V01_060",
+    "base_target": "waschen",
+    "base_source": "ধোওয়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_25"]
+  },
+  {
+    "guid": "V01_061",
+    "base_target": "kochen",
+    "base_source": "রান্না করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_25"]
+  },
+  {
+    "guid": "V01_062",
+    "base_target": "reinigen",
+    "base_source": "পরিষ্কার করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_25"]
+  },
+  {
+    "guid": "V01_063",
+    "base_target": "treten",
+    "base_source": "কিক করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_25"]
+  },
+  {
+    "guid": "V01_064",
+    "base_target": "schlagen",
+    "base_source": "পিটানো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_065",
+    "base_target": "blockieren",
+    "base_source": "বন্ধ করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_066",
+    "base_target": "kochen",
+    "base_source": "ফোটানো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_067",
+    "base_target": "bürsten",
+    "base_source": "ব্রাশ করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_068",
+    "base_target": "schnitzen",
+    "base_source": "কাড়াকাটা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_069",
+    "base_target": "sammeln",
+    "base_source": "সংগ্রহ করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_070",
+    "base_target": "füttern",
+    "base_source": "খাওয়ানো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_071",
+    "base_target": "füllen",
+    "base_source": "ভরতি করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_072",
+    "base_target": "reparieren",
+    "base_source": "মেরামত করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_073",
+    "base_target": "beugen",
+    "base_source": "সংকোচ করো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_074",
+    "base_target": "umdrehen",
+    "base_source": "উল্টে দেওয়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_075",
+    "base_target": "falten",
+    "base_source": "ভাঁজ করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_076",
+    "base_target": "laden",
+    "base_source": "লোড করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_077",
+    "base_target": "massieren",
+    "base_source": "মালিশ করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_078",
+    "base_target": "schälen",
+    "base_source": "খোসা ছাড়ানো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_079",
+    "base_target": "pflanzen",
+    "base_source": "রোপণ করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_080",
+    "base_target": "drücken",
+    "base_source": "চেপে ধরা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_081",
+    "base_target": "reparieren",
+    "base_source": "মেরামত করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_082",
+    "base_target": "rollen",
+    "base_source": "ঘুরে চলা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_083",
+    "base_target": "reiben",
+    "base_source": "মুছা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_084",
+    "base_target": "kratzen",
+    "base_source": "ঘষা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_085",
+    "base_target": "schärfen",
+    "base_source": "তিক্ষণ করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_086",
+    "base_target": "hüpfen",
+    "base_source": "উড়ে-লাফানো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_087",
+    "base_target": "verschütten",
+    "base_source": "ঝরে পড়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_088",
+    "base_target": "stapeln",
+    "base_source": "থেঁতলো করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_089",
+    "base_target": "rühren",
+    "base_source": "নাড়ানো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_090",
+    "base_target": "kleben",
+    "base_source": "লেগোয়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_091",
+    "base_target": "anstoßen",
+    "base_source": "থেঁতলে যেতেঃ",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_092",
+    "base_target": "kleben",
+    "base_source": "টেপ করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_093",
+    "base_target": "binden",
+    "base_source": "বাঁধা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_094",
+    "base_target": "drehen",
+    "base_source": "ঘুরানো",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_095",
+    "base_target": "winken",
+    "base_source": "হাত নাড়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_096",
+    "base_target": "abwischen",
+    "base_source": "মুছা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_097",
+    "base_target": "einwickeln",
+    "base_source": "মুড়া",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_098",
+    "base_target": "dienen",
+    "base_source": "পরিসেবা করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_099",
+    "base_target": "handeln",
+    "base_source": "করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_100",
+    "base_target": "setzen",
+    "base_source": "রাখা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_27"]
+  },
+  {
+    "guid": "V01_101",
+    "base_target": "schlagen",
+    "base_source": "পরাজিত করা",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 31,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_31"]
+  },
+  {
+    "guid": "V01_102",
+    "base_target": "verfehlen",
+    "base_source": "বৈচিত্র্যহীন",
+    "corpus": "VERBS",
+    "group": "Physical Action",
+    "level": 31,
+    "word_type": "verb",
+    "tags": ["physical_action", "level_31"]
+  },
+  {
+    "guid": "V02_002",
+    "base_target": "bauen",
+    "base_source": "নির্মাণ করা",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_003",
+    "base_target": "erschaffen",
+    "base_source": "সৃষ্টि করা",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_004",
+    "base_target": "schreiben",
+    "base_source": "লেখা",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_005",
+    "base_target": "entwerfen",
+    "base_source": "নকশা করা",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_006",
+    "base_target": "komponieren",
+    "base_source": "রচনা করা",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_007",
+    "base_target": "erfinden",
+    "base_source": "আবিষ্কার করা",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_29"]
+  },
+  {
+    "guid": "V02_009",
+    "base_target": "malen",
+    "base_source": "রাঙানো",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_25"]
+  },
+  {
+    "guid": "V02_010",
+    "base_target": "anfertigen",
+    "base_source": "শিল্পকর্ম করা",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_25"]
+  },
+  {
+    "guid": "V02_011",
+    "base_target": "erzeugen",
+    "base_source": "উৎপাদন করা",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_25"]
+  },
+  {
+    "guid": "V02_012",
+    "base_target": "gründen",
+    "base_source": "স্থাপন করা",
+    "corpus": "VERBS",
+    "group": "Creation Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["creation_action", "level_25"]
+  },
+  {
+    "guid": "V03_001",
+    "base_target": "zerstören",
+    "base_source": "ধ্বংস করা",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_002",
+    "base_target": "zerbrechen",
+    "base_source": "ভাঙা",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_003",
+    "base_target": "zerreißen",
+    "base_source": "ছিঁড়ে ফেলা",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_004",
+    "base_target": "abreißen",
+    "base_source": "dhvansōkaraṇa করা",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_005",
+    "base_target": "zerquetschen",
+    "base_source": "চাপড়ান",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_006",
+    "base_target": "zerschmettern",
+    "base_source": "ভাঙা",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_007",
+    "base_target": "ruinieren",
+    "base_source": "ধ্বংস করা",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_008",
+    "base_target": "zersplittern",
+    "base_source": "ভাঙা",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_29"]
+  },
+  {
+    "guid": "V03_009",
+    "base_target": "löschen",
+    "base_source": "মুছা",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_25"]
+  },
+  {
+    "guid": "V03_010",
+    "base_target": "verbrennen",
+    "base_source": "জ্বালানো",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_25"]
+  },
+  {
+    "guid": "V03_011",
+    "base_target": "auflösen",
+    "base_source": "বাষ্পীভবন করা",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_25"]
+  },
+  {
+    "guid": "V03_012",
+    "base_target": "zusammenbrechen",
+    "base_source": "ভাঙা",
+    "corpus": "VERBS",
+    "group": "Destruction Action",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["destruction_action", "level_25"]
+  },
+  {
+    "guid": "V04_001",
+    "base_target": "lernen",
+    "base_source": "শিখা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_002",
+    "base_target": "lehren",
+    "base_source": "শিক্ষা দেওয়া",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_12"]
+  },
+  {
+    "guid": "V04_003",
+    "base_target": "lesen",
+    "base_source": "পড়া",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_004",
+    "base_target": "schreiben",
+    "base_source": "লিখতে",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_005",
+    "base_target": "zuhören",
+    "base_source": "শোনা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_006",
+    "base_target": "wissen",
+    "base_source": "জানতে",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_008",
+    "base_target": "denken",
+    "base_source": "ভাবা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_009",
+    "base_target": "lassen",
+    "base_source": "অনুমতি দেওয়া",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_010",
+    "base_target": "brauchen",
+    "base_source": "প্রয়োজন হওয়া",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_011",
+    "base_target": "bedeuten",
+    "base_source": "অর্থ করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_012",
+    "base_target": "sich erinnern",
+    "base_source": "স্মরণ করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_12"]
+  },
+  {
+    "guid": "V04_013",
+    "base_target": "verstehen",
+    "base_source": "বুঝা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_10"]
+  },
+  {
+    "guid": "V04_014",
+    "base_target": "wünschen",
+    "base_source": "ইচ্ছা করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_015",
+    "base_target": "glauben",
+    "base_source": "বিশ্বাস করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_12"]
+  },
+  {
+    "guid": "V04_016",
+    "base_target": "sich fragen",
+    "base_source": "আশ্চর্য হওয়া",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_018",
+    "base_target": "scheinen",
+    "base_source": "মনে হওয়া",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_019",
+    "base_target": "annehmen",
+    "base_source": "ধরা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
+    "guid": "V04_020",
+    "base_target": "raten",
+    "base_source": "অনুমান করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_20"]
+  },
+  {
+    "guid": "V04_021",
+    "base_target": "vergessen",
+    "base_source": "ভুলে যাওয়া",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_20"]
+  },
+  {
+    "guid": "V04_022",
+    "base_target": "erwarten",
+    "base_source": "প্রত্যাশা করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_023",
+    "base_target": "passieren",
+    "base_source": "ঘটনা\u0000",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_024",
+    "base_target": "zählen",
+    "base_source": "গণনা করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_20"]
+  },
+  {
+    "guid": "V04_026",
+    "base_target": "akzeptieren",
+    "base_source": "গ্রহণ করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_027",
+    "base_target": "wählen",
+    "base_source": "চয়ন করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_028",
+    "base_target": "sich vorstellen",
+    "base_source": "কল্পনা করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_20"]
+  },
+  {
+    "guid": "V04_029",
+    "base_target": "wagen",
+    "base_source": "সাহস করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
+    "guid": "V04_030",
+    "base_target": "erkennen",
+    "base_source": "অনুধাবন করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_031",
+    "base_target": "überlegen",
+    "base_source": "বিবেচনা করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_032",
+    "base_target": "studieren",
+    "base_source": "অধ্যয়ন করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_033",
+    "base_target": "entscheiden",
+    "base_source": "নির্ধারণ করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_12"]
+  },
+  {
+    "guid": "V04_034",
+    "base_target": "erkennen",
+    "base_source": "পরিচয় করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_035",
+    "base_target": "zustimmen",
+    "base_source": "সম্মত হওয়া",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_17"]
+  },
+  {
+    "guid": "V04_036",
+    "base_target": "nicken",
+    "base_source": "নোড়ানো",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
+    "guid": "V04_037",
+    "base_target": "starren",
+    "base_source": "নিঃশব্দে তাকানো",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
+    "guid": "V04_038",
+    "base_target": "einen Blick werfen",
+    "base_source": "দ্রুত দেখা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_29"]
+  },
+  {
+    "guid": "V04_039",
+    "base_target": "zweifeln",
+    "base_source": "সন্দেহ করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_25"]
+  },
+  {
+    "guid": "V04_040",
+    "base_target": "planen",
+    "base_source": "পরিকল্পনা করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_25"]
+  },
+  {
+    "guid": "V04_041",
+    "base_target": "vergleichen",
+    "base_source": "তুলনা করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_25"]
+  },
+  {
+    "guid": "V04_042",
+    "base_target": "teilnehmen",
+    "base_source": "উপস্থিত থাকা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_27"]
+  },
+  {
+    "guid": "V04_043",
+    "base_target": "überprüfen",
+    "base_source": "পরীক্ষা করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_27"]
+  },
+  {
+    "guid": "V04_044",
+    "base_target": "messen",
+    "base_source": "মাপা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_27"]
+  },
+  {
+    "guid": "V04_045",
+    "base_target": "sich ausruhen",
+    "base_source": "বিশ্রাম গ্রহণ করা",
+    "corpus": "VERBS",
+    "group": "Mental State",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["mental_state", "level_27"]
+  },
+  {
+    "guid": "V05_001",
+    "base_target": "mögen",
+    "base_source": "পছন্দ করা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_6"]
+  },
+  {
+    "guid": "V05_002",
+    "base_target": "lieben",
+    "base_source": "ভালবাসা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_10"]
+  },
+  {
+    "guid": "V05_003",
+    "base_target": "hassen",
+    "base_source": "ঘৃণা করা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_12"]
+  },
+  {
+    "guid": "V05_004",
+    "base_target": "wollen",
+    "base_source": "চাওয়া",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_6"]
+  },
+  {
+    "guid": "V05_005",
+    "base_target": "fühlen",
+    "base_source": "অনুভব করা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_10"]
+  },
+  {
+    "guid": "V05_006",
+    "base_target": "weinen",
+    "base_source": "কাঁদা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_007",
+    "base_target": "lächeln",
+    "base_source": "হাসা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_008",
+    "base_target": "vermissen",
+    "base_source": "বিরহবোধ করা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_009",
+    "base_target": "sich sorgen",
+    "base_source": "চিন্তা করা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_010",
+    "base_target": "lachen",
+    "base_source": "হাসা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_011",
+    "base_target": "hoffen",
+    "base_source": "আশা করা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_12"]
+  },
+  {
+    "guid": "V05_012",
+    "base_target": "fürchten",
+    "base_source": "ভয় পাওয়া",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_013",
+    "base_target": "genießen",
+    "base_source": "আনন্দ নেওয়া",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_014",
+    "base_target": "leiden",
+    "base_source": "কষ্ট ভোগ করা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_20"]
+  },
+  {
+    "guid": "V05_015",
+    "base_target": "überraschen",
+    "base_source": "আশ্চর্য করা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_20"]
+  },
+  {
+    "guid": "V05_016",
+    "base_target": "vertrauen",
+    "base_source": "বিশ্বাস করা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_20"]
+  },
+  {
+    "guid": "V05_017",
+    "base_target": "bevorzugen",
+    "base_source": "অগ্রাধিকার দেওয়া",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_20"]
+  },
+  {
+    "guid": "V05_018",
+    "base_target": "bedauern",
+    "base_source": "অনুতপ্ত হওয়া",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_20"]
+  },
+  {
+    "guid": "V05_019",
+    "base_target": "sich kümmern",
+    "base_source": "ভেবেচিন্তা করা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_17"]
+  },
+  {
+    "guid": "V05_020",
+    "base_target": "vergeben",
+    "base_source": "ক্ষমা করা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_20"]
+  },
+  {
+    "guid": "V05_021",
+    "base_target": "bewundern",
+    "base_source": "প্রশংসা করা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_25"]
+  },
+  {
+    "guid": "V05_022",
+    "base_target": "beneiden",
+    "base_source": "ঈর্ষা করা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_25"]
+  },
+  {
+    "guid": "V05_023",
+    "base_target": "langweilen",
+    "base_source": "বিরক্ত করা",
+    "corpus": "VERBS",
+    "group": "Emotional State",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["emotional_state", "level_25"]
+  },
+  {
+    "guid": "V06_001",
+    "base_target": "sein",
+    "base_source": "হওয়া",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["possession", "level_3"]
+  },
+  {
+    "guid": "V06_002",
+    "base_target": "haben",
+    "base_source": "থাকা",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["possession", "level_6"]
+  },
+  {
+    "guid": "V06_003",
+    "base_target": "verdienen",
+    "base_source": "উপার্জন করা",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["possession", "level_6"]
+  },
+  {
+    "guid": "V06_004",
+    "base_target": "kaufen",
+    "base_source": "কেনা",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["possession", "level_3"]
+  },
+  {
+    "guid": "V06_005",
+    "base_target": "geben",
+    "base_source": "দেওয়া",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["possession", "level_6"]
+  },
+  {
+    "guid": "V06_006",
+    "base_target": "nehmen",
+    "base_source": "নেওয়া",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 6,
+    "word_type": "verb",
+    "tags": ["possession", "level_6"]
+  },
+  {
+    "guid": "V06_007",
+    "base_target": "verkaufen",
+    "base_source": "বিক্রি করা",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_008",
+    "base_target": "ausleihen",
+    "base_source": "ঋণ নেওয়া",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_009",
+    "base_target": "leihen",
+    "base_source": "ঋণদা(ন)",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_010",
+    "base_target": "besitzen",
+    "base_source": "প্রসত্ত হওয়া",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_011",
+    "base_target": "teilen",
+    "base_source": "শেয়ার করা",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_012",
+    "base_target": "stehlen",
+    "base_source": "চুরি করা",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_013",
+    "base_target": "bezahlen",
+    "base_source": "দো",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_014",
+    "base_target": "empfangen",
+    "base_source": "পাওয়া",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_015",
+    "base_target": "spenden",
+    "base_source": "দান করা",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["possession", "level_25"]
+  },
+  {
+    "guid": "V06_016",
+    "base_target": "einstellen",
+    "base_source": "নিয়োগ করা",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["possession", "level_27"]
+  },
+  {
+    "guid": "V06_017",
+    "base_target": "reichen",
+    "base_source": "পড়া",
+    "corpus": "VERBS",
+    "group": "Possession",
+    "level": 31,
+    "word_type": "verb",
+    "tags": ["possession", "level_31"]
+  },
+  {
+    "guid": "V07_001",
+    "base_target": "trainieren",
+    "base_source": "প্রশিক্ষণ দেওয়া",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["development", "level_29"]
+  },
+  {
+    "guid": "V07_002",
+    "base_target": "entwickeln",
+    "base_source": "উন্নয়ন করা",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_003",
+    "base_target": "verbessern",
+    "base_source": "উন্নত করা",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_004",
+    "base_target": "üben",
+    "base_source": "অভ্যাস করা",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_005",
+    "base_target": "fortschreiten",
+    "base_source": "উন্নতি করা",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_006",
+    "base_target": "reifen",
+    "base_source": "পক্ক হওয়া",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_007",
+    "base_target": "sich entwickeln",
+    "base_source": "উন্নতি হওয়া",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_008",
+    "base_target": "vorbereiten",
+    "base_source": "প্রস্তুত করা",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_009",
+    "base_target": "erziehen",
+    "base_source": "শিক্ষা দেওয়া",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_010",
+    "base_target": "stärken",
+    "base_source": "শক্তিশালী করা",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_011",
+    "base_target": "fördern",
+    "base_source": "পালন করা",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_012",
+    "base_target": "kultivieren",
+    "base_source": "চানানো",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_013",
+    "base_target": "vorankommen",
+    "base_source": "অগ্রসর হওয়া",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_014",
+    "base_target": "verfeinern",
+    "base_source": "সংশোধন করা",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_015",
+    "base_target": "gedeihen",
+    "base_source": "ফুলে উঠা",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["development", "level_25"]
+  },
+  {
+    "guid": "V07_016",
+    "base_target": "aufziehen",
+    "base_source": "পালন করা",
+    "corpus": "VERBS",
+    "group": "Development",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["development", "level_27"]
+  },
+  {
+    "guid": "V08_001",
+    "base_target": "werden",
+    "base_source": "হওয়া",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["change", "level_10"]
+  },
+  {
+    "guid": "V08_002",
+    "base_target": "sich verwandeln",
+    "base_source": "হওয়া",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["change", "level_17"]
+  },
+  {
+    "guid": "V08_003",
+    "base_target": "wachsen",
+    "base_source": "বড় হওয়া",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["change", "level_10"]
+  },
+  {
+    "guid": "V08_004",
+    "base_target": "ändern",
+    "base_source": "পরিবর্তন করা",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["change", "level_10"]
+  },
+  {
+    "guid": "V08_005",
+    "base_target": "beginnen",
+    "base_source": "শুরু করা",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["change", "level_10"]
+  },
+  {
+    "guid": "V08_006",
+    "base_target": "starten",
+    "base_source": "শুরু করা",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["change", "level_10"]
+  },
+  {
+    "guid": "V08_007",
+    "base_target": "beenden",
+    "base_source": "সমাপ্ত করা",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_008",
+    "base_target": "fertigstellen",
+    "base_source": "সমাপ্ত করা",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_009",
+    "base_target": "erhöhen",
+    "base_source": "বৃদ্ধি করা",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_010",
+    "base_target": "verringern",
+    "base_source": "কমানো",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_011",
+    "base_target": "ersetzen",
+    "base_source": "প্রতিস্থাপন করা",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_012",
+    "base_target": "verwandeln",
+    "base_source": "রূপান্তর করা",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_013",
+    "base_target": "anpassen",
+    "base_source": "সংশোধন করা",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_014",
+    "base_target": "schrumpfen",
+    "base_source": "ছোট করা",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_015",
+    "base_target": "erweitern",
+    "base_source": "বিস্তার করা",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["change", "level_25"]
+  },
+  {
+    "guid": "V08_016",
+    "base_target": "verbinden",
+    "base_source": "যোড়া",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_017",
+    "base_target": "anzünden",
+    "base_source": "জ্বালানো",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_018",
+    "base_target": "begrenzen",
+    "base_source": "সীমাবদ্ধ করা",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_019",
+    "base_target": "verursachen",
+    "base_source": "সৃষ্টিকরা",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_020",
+    "base_target": "erlauben",
+    "base_source": "অনুমতি দেওয়া",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["change", "level_27"]
+  },
+  {
+    "guid": "V08_021",
+    "base_target": "bestehen",
+    "base_source": "পাস করা",
+    "corpus": "VERBS",
+    "group": "Change",
+    "level": 31,
+    "word_type": "verb",
+    "tags": ["change", "level_31"]
+  },
+  {
+    "guid": "V09_001",
+    "base_target": "reden",
+    "base_source": "কথা বলা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
+    "guid": "V09_002",
+    "base_target": "sprechen",
+    "base_source": "কথা বলা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["communication", "level_12"]
+  },
+  {
+    "guid": "V09_003",
+    "base_target": "sagen",
+    "base_source": "বলা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
+    "guid": "V09_004",
+    "base_target": "fragen",
+    "base_source": "জিজ্ঞাসা করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["communication", "level_10"]
+  },
+  {
+    "guid": "V09_005",
+    "base_target": "antworten",
+    "base_source": "উত্তর দেওয়া",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["communication", "level_12"]
+  },
+  {
+    "guid": "V09_006",
+    "base_target": "sagen",
+    "base_source": "কওয়া",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["communication", "level_3"]
+  },
+  {
+    "guid": "V09_007",
+    "base_target": "rufen",
+    "base_source": "ডাকা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_008",
+    "base_target": "schreien",
+    "base_source": "চিৎকার করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_009",
+    "base_target": "flüstern",
+    "base_source": "ফিসফিস করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 29,
+    "word_type": "verb",
+    "tags": ["communication", "level_29"]
+  },
+  {
+    "guid": "V09_010",
+    "base_target": "erwidern",
+    "base_source": "উত্তর দেওয়া",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_011",
+    "base_target": "erklären",
+    "base_source": "বর্ণনা করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_012",
+    "base_target": "ankündigen",
+    "base_source": "ঘোষণা করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["communication", "level_20"]
+  },
+  {
+    "guid": "V09_013",
+    "base_target": "besprechen",
+    "base_source": "আলোচনা করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_014",
+    "base_target": "beschreiben",
+    "base_source": "বর্ণনা করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_015",
+    "base_target": "erwähnen",
+    "base_source": "উল্লেখ করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_016",
+    "base_target": "vorschlagen",
+    "base_source": "প্রস্তাব করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_017",
+    "base_target": "versprechen",
+    "base_source": "প্রতিশ্রুতি দেওয়া",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_018",
+    "base_target": "warnen",
+    "base_source": "সতর্ক করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["communication", "level_20"]
+  },
+  {
+    "guid": "V09_019",
+    "base_target": "sich beschweren",
+    "base_source": "অভিযোগ করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["communication", "level_20"]
+  },
+  {
+    "guid": "V09_020",
+    "base_target": "danken",
+    "base_source": "ধন্যবাদ জ্ঞাপন করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["communication", "level_17"]
+  },
+  {
+    "guid": "V09_021",
+    "base_target": "übersetzen",
+    "base_source": "অনুবাদ করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["communication", "level_25"]
+  },
+  {
+    "guid": "V09_022",
+    "base_target": "singen",
+    "base_source": "গাওয়া",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["communication", "level_25"]
+  },
+  {
+    "guid": "V09_023",
+    "base_target": "bitten",
+    "base_source": "অনুরোধ করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["communication", "level_25"]
+  },
+  {
+    "guid": "V09_024",
+    "base_target": "leugnen",
+    "base_source": "অস্বীকার করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["communication", "level_25"]
+  },
+  {
+    "guid": "V09_025",
+    "base_target": "grunzen",
+    "base_source": "গুড়্গু করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["communication", "level_27"]
+  },
+  {
+    "guid": "V09_026",
+    "base_target": "versenden",
+    "base_source": "ডাক পাঠানো",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["communication", "level_27"]
+  },
+  {
+    "guid": "V09_027",
+    "base_target": "posten",
+    "base_source": "প্রকাশ করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["communication", "level_27"]
+  },
+  {
+    "guid": "V09_028",
+    "base_target": "unterschreiben",
+    "base_source": "সই করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["communication", "level_27"]
+  },
+  {
+    "guid": "V09_029",
+    "base_target": "lügen",
+    "base_source": "মিথ্যা বলা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 31,
+    "word_type": "verb",
+    "tags": ["communication", "level_31"]
+  },
+  {
+    "guid": "V09_030",
+    "base_target": "anrufen",
+    "base_source": "কল করা",
+    "corpus": "VERBS",
+    "group": "Communication",
+    "level": 31,
+    "word_type": "verb",
+    "tags": ["communication", "level_31"]
+  },
+  {
+    "guid": "V10_001",
+    "base_target": "sehen",
+    "base_source": "দেখা",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["perception", "level_3"]
+  },
+  {
+    "guid": "V10_002",
+    "base_target": "hören",
+    "base_source": "শোনা",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["perception", "level_3"]
+  },
+  {
+    "guid": "V10_003",
+    "base_target": "fühlen",
+    "base_source": "অনুভব করা",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["perception", "level_17"]
+  },
+  {
+    "guid": "V10_004",
+    "base_target": "riechen",
+    "base_source": "শুঁকতে",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["perception", "level_17"]
+  },
+  {
+    "guid": "V10_005",
+    "base_target": "schmecken",
+    "base_source": "রুচি পরীক্ষা করা",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["perception", "level_17"]
+  },
+  {
+    "guid": "V10_006",
+    "base_target": "schauen",
+    "base_source": "দেখা",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["perception", "level_17"]
+  },
+  {
+    "guid": "V10_007",
+    "base_target": "beobachten",
+    "base_source": "দেখা",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["perception", "level_17"]
+  },
+  {
+    "guid": "V10_008",
+    "base_target": "bemerken",
+    "base_source": "নোটিশ করা",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["perception", "level_17"]
+  },
+  {
+    "guid": "V10_009",
+    "base_target": "untersuchen",
+    "base_source": "পরীক্ষা করা",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["perception", "level_25"]
+  },
+  {
+    "guid": "V10_010",
+    "base_target": "beobachten",
+    "base_source": "পর্যবেক্ষণ করা",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["perception", "level_25"]
+  },
+  {
+    "guid": "V10_011",
+    "base_target": "entdecken",
+    "base_source": "সনাক্ত করা",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["perception", "level_25"]
+  },
+  {
+    "guid": "V10_012",
+    "base_target": "spüren",
+    "base_source": "অনুভব করা",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["perception", "level_25"]
+  },
+  {
+    "guid": "V10_013",
+    "base_target": "entdecken",
+    "base_source": "অন্বেষণ করা",
+    "corpus": "VERBS",
+    "group": "Perception",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["perception", "level_25"]
+  },
+  {
+    "guid": "V11_002",
+    "base_target": "existieren",
+    "base_source": "অস্তিত্ব বজায় রাখা",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["existence", "level_17"]
+  },
+  {
+    "guid": "V11_003",
+    "base_target": "bleiben",
+    "base_source": "থাকা",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["existence", "level_17"]
+  },
+  {
+    "guid": "V11_004",
+    "base_target": "leben",
+    "base_source": "বাঁচা",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["existence", "level_10"]
+  },
+  {
+    "guid": "V11_005",
+    "base_target": "erscheinen",
+    "base_source": "প্রদর্শিত হওয়া",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["existence", "level_17"]
+  },
+  {
+    "guid": "V11_006",
+    "base_target": "bleiben",
+    "base_source": "থাকা",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["existence", "level_17"]
+  },
+  {
+    "guid": "V11_008",
+    "base_target": "überleben",
+    "base_source": "বেঁচে থাকা",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_009",
+    "base_target": "verschwinden",
+    "base_source": "অদৃশ্য হওয়া",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_010",
+    "base_target": "gehören",
+    "base_source": "অন্তর্ভুক্ত হওয়া",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_011",
+    "base_target": "dauern",
+    "base_source": "চলতেও থামা",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_012",
+    "base_target": "geschehen",
+    "base_source": "ঘটনা ঘটা",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_013",
+    "base_target": "entstehen",
+    "base_source": "উদ্ভব হওয়া",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_014",
+    "base_target": "verschwinden",
+    "base_source": "অদৃশ্য হওয়া",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_015",
+    "base_target": "auftauchen",
+    "base_source": "প্রকাশ পাওয়া",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_016",
+    "base_target": "ertragen",
+    "base_source": "অবস্থিতি থাকা",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V11_017",
+    "base_target": "bestehen",
+    "base_source": "অবস্থান করা",
+    "corpus": "VERBS",
+    "group": "Existence",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["existence", "level_25"]
+  },
+  {
+    "guid": "V12_001",
+    "base_target": "gehen",
+    "base_source": "চলা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_3"]
+  },
+  {
+    "guid": "V12_002",
+    "base_target": "fahren",
+    "base_source": "চালানো",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_003",
+    "base_target": "laufen",
+    "base_source": "দৌড়ানো",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 3,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_3"]
+  },
+  {
+    "guid": "V12_004",
+    "base_target": "gehen",
+    "base_source": "যাওয়া",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_10"]
+  },
+  {
+    "guid": "V12_005",
+    "base_target": "kommen",
+    "base_source": "আসা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 10,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_10"]
+  },
+  {
+    "guid": "V12_006",
+    "base_target": "zurückkehren",
+    "base_source": "ফিরে আসা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_007",
+    "base_target": "verlassen",
+    "base_source": "ছেড়ে যাত্তয়া",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 12,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_12"]
+  },
+  {
+    "guid": "V12_008",
+    "base_target": "abbiegen",
+    "base_source": "ঘুরা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_009",
+    "base_target": "sich bewegen",
+    "base_source": "চলা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_010",
+    "base_target": "vorbeigehen",
+    "base_source": "পেরিয়ে যাওয়া",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_011",
+    "base_target": "fallen",
+    "base_source": "পড়া",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_012",
+    "base_target": "bringen",
+    "base_source": "আনা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"],
+    "grammatical_forms": {
+      "1p_future": {"level": 17, "target": "werden bringen", "english": "আনা (verb de 1p future)"},
+      "1p_past": {"level": 17, "target": "brachten", "english": "আনা (verb de 1p past)"},
+      "1p_present": {"level": 17, "target": "bringen", "english": "আনা (verb de 1p present)"},
+      "1s_future": {"level": 17, "target": "werde bringen", "english": "আনা (verb de 1s future)"},
+      "1s_past": {"level": 17, "target": "brachte", "english": "আনা (verb de 1s past)"},
+      "2p_future": {"level": 17, "target": "werdet bringen", "english": "আনা (verb de 2p future)"},
+      "2p_past": {"level": 17, "target": "brachtet", "english": "আনা (verb de 2p past)"},
+      "2p_present": {"level": 17, "target": "bringt", "english": "আনা (verb de 2p present)"},
+      "2s_future": {"level": 17, "target": "wirst bringen", "english": "আনা (verb de 2s future)"},
+      "2s_past": {"level": 17, "target": "brachtest", "english": "আনা (verb de 2s past)"},
+      "2s_present": {"level": 17, "target": "bringst", "english": "আনা (verb de 2s present)"},
+      "3p_future": {"level": 17, "target": "werden bringen", "english": "আনা (verb de 3p future)"},
+      "3p_past": {"level": 17, "target": "brachten", "english": "আনা (verb de 3p past)"},
+      "3p_present": {"level": 17, "target": "bringen", "english": "আনা (verb de 3p present)"},
+      "3s_future": {"level": 17, "target": "wird bringen", "english": "আনা (verb de 3s future)"},
+      "3s_past": {"level": 17, "target": "brachte", "english": "আনা (verb de 3s past)"},
+      "3s_present": {"level": 17, "target": "bringt", "english": "আনা (verb de 3s present)"}
+    }
+  },
+  {
+    "guid": "V12_013",
+    "base_target": "folgen",
+    "base_source": "অনুসরণ করা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_014",
+    "base_target": "erreichen",
+    "base_source": "পৌঁছানো",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_015",
+    "base_target": "senden",
+    "base_source": "পাঠানো",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_016",
+    "base_target": "reiten",
+    "base_source": "আরোহন",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_017",
+    "base_target": "führen",
+    "base_source": "নেতিবাচক করা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_018",
+    "base_target": "fliegen",
+    "base_source": "উড়া",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_019",
+    "base_target": "überqueren",
+    "base_source": "পাস করা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_020",
+    "base_target": "sich beeilen",
+    "base_source": "তাড়াহুড়ো করা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_021",
+    "base_target": "eintreten",
+    "base_source": "প্রবেশ করা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 17,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_17"]
+  },
+  {
+    "guid": "V12_022",
+    "base_target": "reisen",
+    "base_source": "ভ্রমণ করা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_023",
+    "base_target": "aufsteigen",
+    "base_source": "উঠা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_024",
+    "base_target": "klettern",
+    "base_source": "চড়া",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 20,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_20"]
+  },
+  {
+    "guid": "V12_025",
+    "base_target": "hinabsteigen",
+    "base_source": "অবতরণ করা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_25"]
+  },
+  {
+    "guid": "V12_026",
+    "base_target": "schwimmen",
+    "base_source": "তৈরী করা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_25"]
+  },
+  {
+    "guid": "V12_027",
+    "base_target": "springen",
+    "base_source": "ঝাঁপ দেওয়া",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_25"]
+  },
+  {
+    "guid": "V12_028",
+    "base_target": "fliehen",
+    "base_source": "পলায়ন করা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 25,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_25"]
+  },
+  {
+    "guid": "V12_029",
+    "base_target": "segeln",
+    "base_source": "নৌকা চালনা করা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_27"]
+  },
+  {
+    "guid": "V12_030",
+    "base_target": "besuchen",
+    "base_source": "দর্শন করা",
+    "corpus": "VERBS",
+    "group": "Directional Movement",
+    "level": 27,
+    "word_type": "verb",
+    "tags": ["directional_movement", "level_27"]
+  }
+]

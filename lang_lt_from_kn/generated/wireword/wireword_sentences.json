@@ -1,0 +1,33 @@
+{
+  "language": "lt",
+  "sentences": [
+    {
+      "sentence_id": "S_00013",
+      "translations": {
+        "kn": "ನಾನು ಅಂಗಡಿಯಲ್ಲಿ ರೊಟ್ಟೆ ಕೊಳ್ಳುತ್ತೇನೆ.",
+        "lt": "Aš perku duoną parduotuvėje."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/lt_1s_present"
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/lt_locative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 1,
+      "audio": {
+        "ruta": "f295d2e52500c27c6f7219009a66a725",
+        "jonas": "2db6da9eff445286330c4a46553834c5"
+      }
+    }
+  ],
+  "source_language": "kn"
+}

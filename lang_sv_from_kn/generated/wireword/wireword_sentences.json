@@ -1,0 +1,29 @@
+{
+  "language": "sv",
+  "sentences": [
+    {
+      "sentence_id": "S_00013",
+      "translations": {
+        "kn": "ನಾನು ಅಂಗಡಿಯಲ್ಲಿ ರೊಟ್ಟೆ ಕೊಳ್ಳುತ್ತೇನೆ.",
+        "sv": "Jag köper bröd i affären."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": "noun/sv_singular"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/sv_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 1
+    }
+  ],
+  "source_language": "kn"
+}
