@@ -8477,11 +8477,11 @@
         },
         {
           "guid": "V01_041",
-          "grammatical_form": null
+          "grammatical_form": "verb/lt_2s_imperative"
         },
         {
           "guid": "V04_005",
-          "grammatical_form": null
+          "grammatical_form": "verb/lt_2s_imperative"
         }
       ],
       "source": "buivolas_guided_V09_006",

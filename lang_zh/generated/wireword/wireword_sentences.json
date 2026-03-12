@@ -267,7 +267,7 @@
         },
         {
           "guid": "V12_001",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "N07_005",
@@ -467,7 +467,7 @@
         },
         {
           "guid": "V10_001",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "N41_004",
@@ -707,7 +707,7 @@
         },
         {
           "guid": "V05_001",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "N06_007",
@@ -731,7 +731,7 @@
         },
         {
           "guid": "V01_055",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "N06_012",
@@ -931,7 +931,7 @@
         },
         {
           "guid": "V01_001",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "N06_015",
@@ -1679,7 +1679,7 @@
       "linked_words": [
         {
           "guid": "V01_045",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "Z01_002",
@@ -2091,7 +2091,7 @@
       "linked_words": [
         {
           "guid": "N07_002",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "V01_001",
@@ -2183,7 +2183,7 @@
       "linked_words": [
         {
           "guid": "V01_002",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "N42_006",
@@ -2247,7 +2247,7 @@
       "linked_words": [
         {
           "guid": "V12_016",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "N40_007",
@@ -2575,7 +2575,7 @@
         },
         {
           "guid": "V01_010",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "N08_004",
@@ -2627,7 +2627,7 @@
         },
         {
           "guid": "V01_001",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         }
       ],
       "source": "buivolas_guided_N08_001",
@@ -2799,7 +2799,7 @@
         },
         {
           "guid": "V03_002",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "N08_003",
@@ -3231,7 +3231,7 @@
         },
         {
           "guid": "V01_010",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "N39_006",
@@ -3423,7 +3423,7 @@
         },
         {
           "guid": "V01_003",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         }
       ],
       "source": "buivolas_guided_N02_001",
@@ -3591,7 +3591,7 @@
         },
         {
           "guid": "V12_016",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "N02_004",
@@ -3935,7 +3935,7 @@
         },
         {
           "guid": "V10_001",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "N02_009",
@@ -4159,7 +4159,7 @@
       "linked_words": [
         {
           "guid": "V10_001",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "N40_006",
@@ -4779,7 +4779,7 @@
         },
         {
           "guid": "V10_001",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         }
       ],
       "source": "buivolas_guided_A19_001",
@@ -4839,7 +4839,7 @@
       "linked_words": [
         {
           "guid": "N07_002",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "A19_002",
@@ -4867,7 +4867,7 @@
         },
         {
           "guid": "V04_018",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "A19_002",
@@ -5091,7 +5091,7 @@
       "linked_words": [
         {
           "guid": "V12_001",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "A19_005",
@@ -5183,7 +5183,7 @@
       "linked_words": [
         {
           "guid": "A19_006",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "N02_001",
@@ -5315,7 +5315,7 @@
         },
         {
           "guid": "A19_008",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         }
       ],
       "source": "buivolas_guided_A19_008",
@@ -5335,7 +5335,7 @@
         },
         {
           "guid": "V11_006",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "A19_009",
@@ -5683,11 +5683,11 @@
       "linked_words": [
         {
           "guid": "V09_007",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "V04_018",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "A19_016",
@@ -5971,7 +5971,7 @@
         },
         {
           "guid": "V01_041",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "A19_021",
@@ -6247,7 +6247,7 @@
         },
         {
           "guid": "V10_004",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         }
       ],
       "source": "buivolas_guided_N03_004",
@@ -6271,7 +6271,7 @@
         },
         {
           "guid": "V09_002",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         }
       ],
       "source": "buivolas_guided_N03_005",
@@ -6411,11 +6411,11 @@
       "linked_words": [
         {
           "guid": "N24_024",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "V01_036",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         }
       ],
       "source": "buivolas_guided_N03_014",
@@ -6647,7 +6647,7 @@
       "linked_words": [
         {
           "guid": "V12_001",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "N03_024",
@@ -6859,7 +6859,7 @@
         },
         {
           "guid": "V04_005",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "N03_030",
@@ -7039,7 +7039,7 @@
       "linked_words": [
         {
           "guid": "V01_032",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "N39_001",
@@ -7159,7 +7159,7 @@
       "linked_words": [
         {
           "guid": "V10_002",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "N17_121",
@@ -7183,7 +7183,7 @@
         },
         {
           "guid": "V01_057",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "N37_001",
@@ -7947,11 +7947,11 @@
         },
         {
           "guid": "V01_013",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "V04_001",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         }
       ],
       "source": "buivolas_guided_N36_014",
@@ -8155,7 +8155,7 @@
         },
         {
           "guid": "V10_006",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "A19_009",
@@ -8419,7 +8419,7 @@
         },
         {
           "guid": "V01_013",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "N01_056",
@@ -8563,7 +8563,7 @@
         },
         {
           "guid": "V01_007",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         }
       ],
       "source": "buivolas_guided_N01_055",
@@ -8659,7 +8659,7 @@
         },
         {
           "guid": "V01_006",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         }
       ],
       "source": "buivolas_guided_N01_057",
@@ -8923,7 +8923,7 @@
       "linked_words": [
         {
           "guid": "V05_004",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "N01_059",
@@ -9147,7 +9147,7 @@
       "linked_words": [
         {
           "guid": "V09_004",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         }
       ],
       "source": "buivolas_guided_N01_062",
@@ -9887,7 +9887,7 @@
         },
         {
           "guid": "V06_006",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_perfective"
         },
         {
           "guid": "N08_019",
@@ -9959,7 +9959,7 @@
         },
         {
           "guid": "V01_007",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         }
       ],
       "source": "buivolas_guided_V01_007",
@@ -10003,7 +10003,7 @@
         },
         {
           "guid": "V01_009",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "N08_006",
@@ -10395,7 +10395,7 @@
         },
         {
           "guid": "V01_006",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         }
       ],
       "source": "buivolas_guided_N05_003",
@@ -10587,7 +10587,7 @@
         },
         {
           "guid": "V01_041",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_progressive"
         }
       ],
       "source": "buivolas_guided_N07_012",
@@ -10695,7 +10695,7 @@
         },
         {
           "guid": "V01_016",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         }
       ],
       "source": "buivolas_guided_N07_014",
@@ -10803,7 +10803,7 @@
         },
         {
           "guid": "V01_007",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         }
       ],
       "source": "buivolas_guided_N07_015",
@@ -10915,7 +10915,7 @@
         },
         {
           "guid": "V01_015",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "N07_017",
@@ -11403,7 +11403,7 @@
         },
         {
           "guid": "V04_005",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         }
       ],
       "source": "buivolas_guided_N03_002",
@@ -11927,7 +11927,7 @@
       "linked_words": [
         {
           "guid": "V05_005",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "N03_023",
@@ -12195,7 +12195,7 @@
         },
         {
           "guid": "V01_002",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "N42_003",
@@ -12419,7 +12419,7 @@
         },
         {
           "guid": "V06_004",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "N42_006",
@@ -13063,7 +13063,7 @@
         },
         {
           "guid": "N11_035",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         }
       ],
       "source": "buivolas_guided_N14_001",
@@ -13515,7 +13515,7 @@
         },
         {
           "guid": "V01_020",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "N11_004",
@@ -13543,7 +13543,7 @@
         },
         {
           "guid": "V02_002",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "N47_003",
@@ -14918,7 +14918,7 @@
         },
         {
           "guid": "V10_006",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         },
         {
           "guid": "A18_007",
@@ -16234,7 +16234,7 @@
         },
         {
           "guid": "V05_007",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         }
       ],
       "source": "buivolas_guided_N08_024",
@@ -16582,7 +16582,7 @@
         },
         {
           "guid": "V01_003",
-          "grammatical_form": null
+          "grammatical_form": "verb/zh_base"
         }
       ],
       "source": "buivolas_guided_N02_013",

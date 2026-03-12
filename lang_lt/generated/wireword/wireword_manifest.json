@@ -2,7 +2,7 @@
   "version": 1,
   "language": "lithuanian",
   "language_code": "lt",
-  "generated_at": "2026-02-11T18:58:24Z",
+  "generated_at": "2026-03-12T19:45:40Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -18,10 +18,10 @@
       "display_name": "Nouns",
       "description": "Words (nouns, adjectives, etc.)",
       "type": "words",
-      "md5": "0bc130ef0a4e93c58767e4e6cea0164d",
-      "timestamp": "2026-02-11T18:58:24Z",
+      "md5": "62b42b96ac4d0f239d596e94f60cd912",
+      "timestamp": "2026-03-12T19:45:40Z",
       "required": true,
-      "word_count": 2201,
+      "word_count": 2141,
       "levels": [
         1,
         2,
@@ -51,15 +51,13 @@
         27,
         28,
         29,
-        30,
-        31
+        30
       ],
       "groups": [
         "Abstract Condition",
         "Activity",
         "Adverb Duration",
         "Adverb Other",
-        "Animal Grouping",
         "Animals",
         "Appliance",
         "Artwork/Artifact",
@@ -121,7 +119,6 @@
         "Social Institution",
         "Specific Time",
         "Style",
-        "Symbolic Element",
         "Technology Digital",
         "Temporal Name",
         "Time Period",
@@ -137,10 +134,10 @@
       "display_name": "Verbs",
       "description": "Verbs with conjugations",
       "type": "words",
-      "md5": "f96680bdd02ca290c1b04808b0848183",
-      "timestamp": "2026-02-11T18:58:24Z",
+      "md5": "d78edd0159dac47ed9efdd320eaad89b",
+      "timestamp": "2026-03-12T19:45:40Z",
       "required": true,
-      "word_count": 329,
+      "word_count": 323,
       "levels": [
         3,
         6,
@@ -150,8 +147,7 @@
         20,
         25,
         27,
-        29,
-        31
+        29
       ],
       "groups": [
         "Change",
@@ -169,17 +165,6 @@
       ]
     }
   ],
-  "sentence_files": [
-    {
-      "id": "sentences",
-      "filename": "wireword_sentences.json",
-      "display_name": "Practice Sentences",
-      "description": "Sentences for context-based learning",
-      "type": "sentences",
-      "md5": "7ed6641285d4264066a2b1c78c46cb48",
-      "timestamp": "2026-02-11T18:58:24Z",
-      "required": false
-    }
-  ],
+  "sentence_files": [],
   "auxiliary_files": []
 }

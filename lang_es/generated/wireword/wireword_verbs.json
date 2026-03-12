@@ -60,6 +60,7 @@
     "group": "Physical Action",
     "level": 6,
     "word_type": "verb",
+    "audio": {"carlos": "14226fdec3dfecbbd6a5e59e694541d8", "maria": "19eb63149b9af8cbc402eada4376a304"},
     "tags": ["physical_action", "level_6"]
   },
   {
@@ -81,6 +82,7 @@
     "group": "Physical Action",
     "level": 10,
     "word_type": "verb",
+    "audio": {"carlos": "84dc12ac2dca964dfce3915c79dffbc4", "maria": "319aacbefe454574689e9bd1393cd07b"},
     "tags": ["physical_action", "level_10"]
   },
   {
@@ -102,6 +104,7 @@
     "group": "Physical Action",
     "level": 6,
     "word_type": "verb",
+    "audio": {"carlos": "ac9ae7e9d81012fb84e26d8d3a54c3f5", "maria": "3d1ff5ce2dc7a5a0ec2d6de74d1dd318"},
     "tags": ["physical_action", "level_6"]
   },
   {
@@ -580,656 +583,6 @@
     "tags": ["physical_action", "level_17"]
   },
   {
-    "guid": "V01_060",
-    "base_target": "lavar",
-    "base_english": "wash",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_25"]
-  },
-  {
-    "guid": "V01_061",
-    "base_target": "cocinar",
-    "base_english": "cook",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_25"]
-  },
-  {
-    "guid": "V01_062",
-    "base_target": "limpiar",
-    "base_english": "clean",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_25"]
-  },
-  {
-    "guid": "V01_063",
-    "base_target": "patear",
-    "base_english": "kick",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_25"]
-  },
-  {
-    "guid": "V01_064",
-    "base_target": "golpear",
-    "base_english": "beat (strike)",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_065",
-    "base_target": "bloquear",
-    "base_english": "block",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_066",
-    "base_target": "hervir",
-    "base_english": "boil",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_067",
-    "base_target": "cepillar",
-    "base_english": "brush",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_068",
-    "base_target": "tallar",
-    "base_english": "carve",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_069",
-    "base_target": "recoger",
-    "base_english": "collect",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_070",
-    "base_target": "alimentar",
-    "base_english": "feed",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_071",
-    "base_target": "llenar",
-    "base_english": "fill",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_072",
-    "base_target": "arreglar",
-    "base_english": "fix",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_073",
-    "base_target": "flexionar",
-    "base_english": "flex",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_074",
-    "base_target": "voltear",
-    "base_english": "flip",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_075",
-    "base_target": "doblar",
-    "base_english": "fold",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_076",
-    "base_target": "cargar",
-    "base_english": "load",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_077",
-    "base_target": "masajear",
-    "base_english": "massage",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_078",
-    "base_target": "pelar",
-    "base_english": "peel",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_079",
-    "base_target": "plantar",
-    "base_english": "plant (put in ground)",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_080",
-    "base_target": "presionar",
-    "base_english": "press",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_081",
-    "base_target": "reparar",
-    "base_english": "repair",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_082",
-    "base_target": "rodar",
-    "base_english": "roll",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_083",
-    "base_target": "frotar",
-    "base_english": "rub",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_084",
-    "base_target": "raspar",
-    "base_english": "scrape",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_085",
-    "base_target": "afilar",
-    "base_english": "sharpen",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_086",
-    "base_target": "brincar",
-    "base_english": "skip",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_087",
-    "base_target": "derramar",
-    "base_english": "spill",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_088",
-    "base_target": "apilar",
-    "base_english": "stack",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_089",
-    "base_target": "revolver",
-    "base_english": "stir",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_090",
-    "base_target": "pegar",
-    "base_english": "stick (attach)",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_091",
-    "base_target": "golpearse",
-    "base_english": "stub",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_092",
-    "base_target": "pegar con cinta",
-    "base_english": "tape",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_093",
-    "base_target": "atar",
-    "base_english": "tie (fasten)",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_094",
-    "base_target": "torcer",
-    "base_english": "twist",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_095",
-    "base_target": "saludar con la mano",
-    "base_english": "wave (gesture)",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_096",
-    "base_target": "limpiar",
-    "base_english": "wipe",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_097",
-    "base_target": "envolver",
-    "base_english": "wrap",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_098",
-    "base_target": "servir",
-    "base_english": "serve",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_099",
-    "base_target": "actuar",
-    "base_english": "act (perform)",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_100",
-    "base_target": "colocar",
-    "base_english": "set (place)",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_27"]
-  },
-  {
-    "guid": "V01_101",
-    "base_target": "vencer",
-    "base_english": "beat (defeat)",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 31,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_31"]
-  },
-  {
-    "guid": "V01_102",
-    "base_target": "fallar",
-    "base_english": "miss (fail to hit)",
-    "corpus": "VERBS",
-    "group": "Physical Action",
-    "level": 31,
-    "word_type": "verb",
-    "tags": ["physical_action", "level_31"]
-  },
-  {
-    "guid": "V02_002",
-    "base_target": "construir",
-    "base_english": "build",
-    "corpus": "VERBS",
-    "group": "Creation Action",
-    "level": 29,
-    "word_type": "verb",
-    "tags": ["creation_action", "level_29"]
-  },
-  {
-    "guid": "V02_003",
-    "base_target": "crear",
-    "base_english": "create",
-    "corpus": "VERBS",
-    "group": "Creation Action",
-    "level": 29,
-    "word_type": "verb",
-    "tags": ["creation_action", "level_29"]
-  },
-  {
-    "guid": "V02_004",
-    "base_target": "escribir",
-    "base_english": "write (compose)",
-    "corpus": "VERBS",
-    "group": "Creation Action",
-    "level": 29,
-    "word_type": "verb",
-    "tags": ["creation_action", "level_29"]
-  },
-  {
-    "guid": "V02_005",
-    "base_target": "diseñar",
-    "base_english": "design",
-    "corpus": "VERBS",
-    "group": "Creation Action",
-    "level": 29,
-    "word_type": "verb",
-    "tags": ["creation_action", "level_29"]
-  },
-  {
-    "guid": "V02_006",
-    "base_target": "componer",
-    "base_english": "compose",
-    "corpus": "VERBS",
-    "group": "Creation Action",
-    "level": 29,
-    "word_type": "verb",
-    "tags": ["creation_action", "level_29"]
-  },
-  {
-    "guid": "V02_007",
-    "base_target": "inventar",
-    "base_english": "invent",
-    "corpus": "VERBS",
-    "group": "Creation Action",
-    "level": 29,
-    "word_type": "verb",
-    "tags": ["creation_action", "level_29"]
-  },
-  {
-    "guid": "V02_009",
-    "base_target": "pintar",
-    "base_english": "paint",
-    "corpus": "VERBS",
-    "group": "Creation Action",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["creation_action", "level_25"]
-  },
-  {
-    "guid": "V02_010",
-    "base_target": "elaborar",
-    "base_english": "craft",
-    "corpus": "VERBS",
-    "group": "Creation Action",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["creation_action", "level_25"]
-  },
-  {
-    "guid": "V02_011",
-    "base_target": "generar",
-    "base_english": "generate",
-    "corpus": "VERBS",
-    "group": "Creation Action",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["creation_action", "level_25"]
-  },
-  {
-    "guid": "V02_012",
-    "base_target": "establecer",
-    "base_english": "establish",
-    "corpus": "VERBS",
-    "group": "Creation Action",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["creation_action", "level_25"]
-  },
-  {
-    "guid": "V03_001",
-    "base_target": "destruir",
-    "base_english": "destroy",
-    "corpus": "VERBS",
-    "group": "Destruction Action",
-    "level": 29,
-    "word_type": "verb",
-    "tags": ["destruction_action", "level_29"]
-  },
-  {
-    "guid": "V03_002",
-    "base_target": "romper",
-    "base_english": "break",
-    "corpus": "VERBS",
-    "group": "Destruction Action",
-    "level": 29,
-    "word_type": "verb",
-    "tags": ["destruction_action", "level_29"]
-  },
-  {
-    "guid": "V03_003",
-    "base_target": "rasgar",
-    "base_english": "tear",
-    "corpus": "VERBS",
-    "group": "Destruction Action",
-    "level": 29,
-    "word_type": "verb",
-    "tags": ["destruction_action", "level_29"]
-  },
-  {
-    "guid": "V03_004",
-    "base_target": "demoler",
-    "base_english": "demolish",
-    "corpus": "VERBS",
-    "group": "Destruction Action",
-    "level": 29,
-    "word_type": "verb",
-    "tags": ["destruction_action", "level_29"]
-  },
-  {
-    "guid": "V03_005",
-    "base_target": "aplastar",
-    "base_english": "crush",
-    "corpus": "VERBS",
-    "group": "Destruction Action",
-    "level": 29,
-    "word_type": "verb",
-    "tags": ["destruction_action", "level_29"]
-  },
-  {
-    "guid": "V03_006",
-    "base_target": "destrozar",
-    "base_english": "smash",
-    "corpus": "VERBS",
-    "group": "Destruction Action",
-    "level": 29,
-    "word_type": "verb",
-    "tags": ["destruction_action", "level_29"]
-  },
-  {
-    "guid": "V03_007",
-    "base_target": "arruinar",
-    "base_english": "ruin",
-    "corpus": "VERBS",
-    "group": "Destruction Action",
-    "level": 29,
-    "word_type": "verb",
-    "tags": ["destruction_action", "level_29"]
-  },
-  {
-    "guid": "V03_008",
-    "base_target": "hacer añicos",
-    "base_english": "shatter",
-    "corpus": "VERBS",
-    "group": "Destruction Action",
-    "level": 29,
-    "word_type": "verb",
-    "tags": ["destruction_action", "level_29"]
-  },
-  {
-    "guid": "V03_009",
-    "base_target": "borrar",
-    "base_english": "erase",
-    "corpus": "VERBS",
-    "group": "Destruction Action",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["destruction_action", "level_25"]
-  },
-  {
-    "guid": "V03_010",
-    "base_target": "quemar",
-    "base_english": "burn (destroy)",
-    "corpus": "VERBS",
-    "group": "Destruction Action",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["destruction_action", "level_25"]
-  },
-  {
-    "guid": "V03_011",
-    "base_target": "disolver",
-    "base_english": "dissolve",
-    "corpus": "VERBS",
-    "group": "Destruction Action",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["destruction_action", "level_25"]
-  },
-  {
-    "guid": "V03_012",
-    "base_target": "colapsar",
-    "base_english": "collapse",
-    "corpus": "VERBS",
-    "group": "Destruction Action",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["destruction_action", "level_25"]
-  },
-  {
     "guid": "V04_001",
     "base_target": "aprender",
     "base_english": "learn",
@@ -1237,6 +590,7 @@
     "group": "Mental State",
     "level": 10,
     "word_type": "verb",
+    "audio": {"carlos": "efd1e366ba3a12cc4aa9e496047b376b", "maria": "95addd3e80f4a78b22f24930b84ec0ac"},
     "tags": ["mental_state", "level_10"]
   },
   {
@@ -1287,6 +641,7 @@
     "group": "Mental State",
     "level": 10,
     "word_type": "verb",
+    "audio": {"carlos": "7c085891685a0fc2ff5aa0ccd0a27782", "maria": "d853c742d090dcbb1db7d98a6a9e0bcc"},
     "tags": ["mental_state", "level_10"]
   },
   {
@@ -1297,6 +652,7 @@
     "group": "Mental State",
     "level": 10,
     "word_type": "verb",
+    "audio": {"carlos": "3abf94bc8daac6bb68a8befe10886b09", "maria": "9ec06a7004a7a44d254065e020ec4910"},
     "tags": ["mental_state", "level_10"]
   },
   {
@@ -1317,6 +673,7 @@
     "group": "Mental State",
     "level": 10,
     "word_type": "verb",
+    "audio": {"carlos": "d2d76a41964a0d63c6b8e39d5ac76c95", "maria": "05ba3028a90bd1ad1ef2e9896c54a22e"},
     "tags": ["mental_state", "level_10"]
   },
   {
@@ -1347,6 +704,7 @@
     "group": "Mental State",
     "level": 10,
     "word_type": "verb",
+    "audio": {"carlos": "17ed6ffce8d52a4b5ba0e39764a658f8", "maria": "5b89bd79ebd0f3df5535cff70c077f82"},
     "tags": ["mental_state", "level_10"]
   },
   {
@@ -1388,16 +746,6 @@
     "level": 17,
     "word_type": "verb",
     "tags": ["mental_state", "level_17"]
-  },
-  {
-    "guid": "V04_019",
-    "base_target": "suponer",
-    "base_english": "suppose",
-    "corpus": "VERBS",
-    "group": "Mental State",
-    "level": 29,
-    "word_type": "verb",
-    "tags": ["mental_state", "level_29"]
   },
   {
     "guid": "V04_020",
@@ -1480,16 +828,6 @@
     "tags": ["mental_state", "level_20"]
   },
   {
-    "guid": "V04_029",
-    "base_target": "atreverse",
-    "base_english": "dare",
-    "corpus": "VERBS",
-    "group": "Mental State",
-    "level": 29,
-    "word_type": "verb",
-    "tags": ["mental_state", "level_29"]
-  },
-  {
     "guid": "V04_030",
     "base_target": "darse cuenta",
     "base_english": "realize",
@@ -1550,106 +888,6 @@
     "tags": ["mental_state", "level_17"]
   },
   {
-    "guid": "V04_036",
-    "base_target": "asentir",
-    "base_english": "nod",
-    "corpus": "VERBS",
-    "group": "Mental State",
-    "level": 29,
-    "word_type": "verb",
-    "tags": ["mental_state", "level_29"]
-  },
-  {
-    "guid": "V04_037",
-    "base_target": "mirar fijamente",
-    "base_english": "stare",
-    "corpus": "VERBS",
-    "group": "Mental State",
-    "level": 29,
-    "word_type": "verb",
-    "tags": ["mental_state", "level_29"]
-  },
-  {
-    "guid": "V04_038",
-    "base_target": "echar un vistazo",
-    "base_english": "glance",
-    "corpus": "VERBS",
-    "group": "Mental State",
-    "level": 29,
-    "word_type": "verb",
-    "tags": ["mental_state", "level_29"]
-  },
-  {
-    "guid": "V04_039",
-    "base_target": "dudar",
-    "base_english": "doubt",
-    "corpus": "VERBS",
-    "group": "Mental State",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["mental_state", "level_25"]
-  },
-  {
-    "guid": "V04_040",
-    "base_target": "planear",
-    "base_english": "plan",
-    "corpus": "VERBS",
-    "group": "Mental State",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["mental_state", "level_25"]
-  },
-  {
-    "guid": "V04_041",
-    "base_target": "comparar",
-    "base_english": "compare",
-    "corpus": "VERBS",
-    "group": "Mental State",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["mental_state", "level_25"]
-  },
-  {
-    "guid": "V04_042",
-    "base_target": "asistir",
-    "base_english": "attend",
-    "corpus": "VERBS",
-    "group": "Mental State",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["mental_state", "level_27"]
-  },
-  {
-    "guid": "V04_043",
-    "base_target": "verificar",
-    "base_english": "check (examine)",
-    "corpus": "VERBS",
-    "group": "Mental State",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["mental_state", "level_27"]
-  },
-  {
-    "guid": "V04_044",
-    "base_target": "medir",
-    "base_english": "measure",
-    "corpus": "VERBS",
-    "group": "Mental State",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["mental_state", "level_27"]
-  },
-  {
-    "guid": "V04_045",
-    "base_target": "descansar",
-    "base_english": "rest",
-    "corpus": "VERBS",
-    "group": "Mental State",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["mental_state", "level_27"]
-  },
-  {
     "guid": "V05_001",
     "base_target": "gustar",
     "base_english": "like",
@@ -1657,6 +895,7 @@
     "group": "Emotional State",
     "level": 6,
     "word_type": "verb",
+    "audio": {"carlos": "b17c503561392b56801faf9382644201", "maria": "e1d7e1794d78450d6045cd94b2b73e55"},
     "tags": ["emotional_state", "level_6"]
   },
   {
@@ -1667,6 +906,7 @@
     "group": "Emotional State",
     "level": 10,
     "word_type": "verb",
+    "audio": {"carlos": "124b405d458148d5b5979b8ab012d096", "maria": "9df32ffa6b89292d9ab66185f31f34eb"},
     "tags": ["emotional_state", "level_10"]
   },
   {
@@ -1687,6 +927,7 @@
     "group": "Emotional State",
     "level": 6,
     "word_type": "verb",
+    "audio": {"carlos": "8e0a3d79d981bc950d613c5e10413d74", "maria": "94d05e4001e1a6fbf51fe3d98ee68d7a"},
     "tags": ["emotional_state", "level_6"]
   },
   {
@@ -1697,6 +938,7 @@
     "group": "Emotional State",
     "level": 10,
     "word_type": "verb",
+    "audio": {"carlos": "7df584991e6fcbc72bb511f710188a9a", "maria": "cee43210a544aeeefec0d3280458ce4e"},
     "tags": ["emotional_state", "level_10"]
   },
   {
@@ -1850,36 +1092,6 @@
     "tags": ["emotional_state", "level_20"]
   },
   {
-    "guid": "V05_021",
-    "base_target": "admirar",
-    "base_english": "admire",
-    "corpus": "VERBS",
-    "group": "Emotional State",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["emotional_state", "level_25"]
-  },
-  {
-    "guid": "V05_022",
-    "base_target": "envidiar",
-    "base_english": "envy",
-    "corpus": "VERBS",
-    "group": "Emotional State",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["emotional_state", "level_25"]
-  },
-  {
-    "guid": "V05_023",
-    "base_target": "aburrir",
-    "base_english": "bore (make weary)",
-    "corpus": "VERBS",
-    "group": "Emotional State",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["emotional_state", "level_25"]
-  },
-  {
     "guid": "V06_001",
     "base_target": "ser",
     "base_english": "be",
@@ -1898,6 +1110,7 @@
     "group": "Possession",
     "level": 6,
     "word_type": "verb",
+    "audio": {"carlos": "1c8d982b94ba330a96f04ca32588d3fe", "maria": "394c48158c94f95a121995e067af8855"},
     "tags": ["possession", "level_6"]
   },
   {
@@ -1908,6 +1121,7 @@
     "group": "Possession",
     "level": 6,
     "word_type": "verb",
+    "audio": {"carlos": "19f4f975a87de48512bb3dd4ae786519", "maria": "014dba54a58e605789d7c330dffb06d8"},
     "tags": ["possession", "level_6"]
   },
   {
@@ -1929,6 +1143,7 @@
     "group": "Possession",
     "level": 6,
     "word_type": "verb",
+    "audio": {"carlos": "1151f68ae868b98b3afeb297b07cac37", "maria": "29efa5d56c2be7800e35969dfdd36c46"},
     "tags": ["possession", "level_6"]
   },
   {
@@ -1939,277 +1154,8 @@
     "group": "Possession",
     "level": 6,
     "word_type": "verb",
+    "audio": {"carlos": "08aec5317ac6e5db455e9b2dccac33b4", "maria": "af252ed7636eefdbea70faebf0af77c5"},
     "tags": ["possession", "level_6"]
-  },
-  {
-    "guid": "V06_007",
-    "base_target": "vender",
-    "base_english": "sell",
-    "corpus": "VERBS",
-    "group": "Possession",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["possession", "level_25"]
-  },
-  {
-    "guid": "V06_008",
-    "base_target": "pedir prestado",
-    "base_english": "borrow",
-    "corpus": "VERBS",
-    "group": "Possession",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["possession", "level_25"]
-  },
-  {
-    "guid": "V06_009",
-    "base_target": "prestar",
-    "base_english": "lend",
-    "corpus": "VERBS",
-    "group": "Possession",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["possession", "level_25"]
-  },
-  {
-    "guid": "V06_010",
-    "base_target": "poseer",
-    "base_english": "own",
-    "corpus": "VERBS",
-    "group": "Possession",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["possession", "level_25"]
-  },
-  {
-    "guid": "V06_011",
-    "base_target": "compartir",
-    "base_english": "share",
-    "corpus": "VERBS",
-    "group": "Possession",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["possession", "level_25"]
-  },
-  {
-    "guid": "V06_012",
-    "base_target": "robar",
-    "base_english": "steal",
-    "corpus": "VERBS",
-    "group": "Possession",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["possession", "level_25"]
-  },
-  {
-    "guid": "V06_013",
-    "base_target": "pagar",
-    "base_english": "pay",
-    "corpus": "VERBS",
-    "group": "Possession",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["possession", "level_25"]
-  },
-  {
-    "guid": "V06_014",
-    "base_target": "recibir",
-    "base_english": "receive",
-    "corpus": "VERBS",
-    "group": "Possession",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["possession", "level_25"]
-  },
-  {
-    "guid": "V06_015",
-    "base_target": "donar",
-    "base_english": "donate",
-    "corpus": "VERBS",
-    "group": "Possession",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["possession", "level_25"]
-  },
-  {
-    "guid": "V06_016",
-    "base_target": "contratar",
-    "base_english": "hire",
-    "corpus": "VERBS",
-    "group": "Possession",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["possession", "level_27"]
-  },
-  {
-    "guid": "V06_017",
-    "base_target": "pasar",
-    "base_english": "pass (hand over)",
-    "corpus": "VERBS",
-    "group": "Possession",
-    "level": 31,
-    "word_type": "verb",
-    "tags": ["possession", "level_31"]
-  },
-  {
-    "guid": "V07_001",
-    "base_target": "entrenar",
-    "base_english": "train (teach)",
-    "corpus": "VERBS",
-    "group": "Development",
-    "level": 29,
-    "word_type": "verb",
-    "tags": ["development", "level_29"]
-  },
-  {
-    "guid": "V07_002",
-    "base_target": "desarrollar",
-    "base_english": "develop",
-    "corpus": "VERBS",
-    "group": "Development",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["development", "level_25"]
-  },
-  {
-    "guid": "V07_003",
-    "base_target": "mejorar",
-    "base_english": "improve",
-    "corpus": "VERBS",
-    "group": "Development",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["development", "level_25"]
-  },
-  {
-    "guid": "V07_004",
-    "base_target": "practicar",
-    "base_english": "practice",
-    "corpus": "VERBS",
-    "group": "Development",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["development", "level_25"]
-  },
-  {
-    "guid": "V07_005",
-    "base_target": "progresar",
-    "base_english": "progress",
-    "corpus": "VERBS",
-    "group": "Development",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["development", "level_25"]
-  },
-  {
-    "guid": "V07_006",
-    "base_target": "madurar",
-    "base_english": "mature",
-    "corpus": "VERBS",
-    "group": "Development",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["development", "level_25"]
-  },
-  {
-    "guid": "V07_007",
-    "base_target": "evolucionar",
-    "base_english": "evolve",
-    "corpus": "VERBS",
-    "group": "Development",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["development", "level_25"]
-  },
-  {
-    "guid": "V07_008",
-    "base_target": "preparar",
-    "base_english": "prepare",
-    "corpus": "VERBS",
-    "group": "Development",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["development", "level_25"]
-  },
-  {
-    "guid": "V07_009",
-    "base_target": "educar",
-    "base_english": "educate",
-    "corpus": "VERBS",
-    "group": "Development",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["development", "level_25"]
-  },
-  {
-    "guid": "V07_010",
-    "base_target": "fortalecer",
-    "base_english": "strengthen",
-    "corpus": "VERBS",
-    "group": "Development",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["development", "level_25"]
-  },
-  {
-    "guid": "V07_011",
-    "base_target": "nutrir",
-    "base_english": "nurture",
-    "corpus": "VERBS",
-    "group": "Development",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["development", "level_25"]
-  },
-  {
-    "guid": "V07_012",
-    "base_target": "cultivar",
-    "base_english": "cultivate",
-    "corpus": "VERBS",
-    "group": "Development",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["development", "level_25"]
-  },
-  {
-    "guid": "V07_013",
-    "base_target": "avanzar",
-    "base_english": "advance",
-    "corpus": "VERBS",
-    "group": "Development",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["development", "level_25"]
-  },
-  {
-    "guid": "V07_014",
-    "base_target": "refinar",
-    "base_english": "refine",
-    "corpus": "VERBS",
-    "group": "Development",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["development", "level_25"]
-  },
-  {
-    "guid": "V07_015",
-    "base_target": "florecer",
-    "base_english": "flourish",
-    "corpus": "VERBS",
-    "group": "Development",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["development", "level_25"]
-  },
-  {
-    "guid": "V07_016",
-    "base_target": "criar",
-    "base_english": "raise",
-    "corpus": "VERBS",
-    "group": "Development",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["development", "level_27"]
   },
   {
     "guid": "V08_001",
@@ -2219,6 +1165,7 @@
     "group": "Change",
     "level": 10,
     "word_type": "verb",
+    "audio": {"carlos": "52832303033777bb72da328deaaeb60b", "maria": "6297b4fc0882cd37c49c816fc04e49f5"},
     "tags": ["change", "level_10"]
   },
   {
@@ -2239,6 +1186,7 @@
     "group": "Change",
     "level": 10,
     "word_type": "verb",
+    "audio": {"carlos": "0b820c4ba0c8862de8ff9a72c9e66d50", "maria": "c39b522fac9b92772b8f118b2ef039ab"},
     "tags": ["change", "level_10"]
   },
   {
@@ -2249,6 +1197,7 @@
     "group": "Change",
     "level": 10,
     "word_type": "verb",
+    "audio": {"carlos": "04b7a24d51aa9d3a0e2fc4d71009810d", "maria": "8fb3150c1c50e0ba82e926ce335744ab"},
     "tags": ["change", "level_10"]
   },
   {
@@ -2259,6 +1208,7 @@
     "group": "Change",
     "level": 10,
     "word_type": "verb",
+    "audio": {"carlos": "c19173bd5b5fe37146c4d86048f75d15", "maria": "3d821fa7a49469f1af3d4ce7a9805150"},
     "tags": ["change", "level_10"]
   },
   {
@@ -2269,157 +1219,8 @@
     "group": "Change",
     "level": 10,
     "word_type": "verb",
+    "audio": {"carlos": "b96d5918c03532f46bb1ae8d7136a9f3", "maria": "87816d0013ef7e91ea8e827534ce4a14"},
     "tags": ["change", "level_10"]
-  },
-  {
-    "guid": "V08_007",
-    "base_target": "terminar",
-    "base_english": "end",
-    "corpus": "VERBS",
-    "group": "Change",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["change", "level_25"]
-  },
-  {
-    "guid": "V08_008",
-    "base_target": "acabar",
-    "base_english": "finish",
-    "corpus": "VERBS",
-    "group": "Change",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["change", "level_25"]
-  },
-  {
-    "guid": "V08_009",
-    "base_target": "aumentar",
-    "base_english": "increase",
-    "corpus": "VERBS",
-    "group": "Change",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["change", "level_25"]
-  },
-  {
-    "guid": "V08_010",
-    "base_target": "disminuir",
-    "base_english": "decrease",
-    "corpus": "VERBS",
-    "group": "Change",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["change", "level_25"]
-  },
-  {
-    "guid": "V08_011",
-    "base_target": "reemplazar",
-    "base_english": "replace",
-    "corpus": "VERBS",
-    "group": "Change",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["change", "level_25"]
-  },
-  {
-    "guid": "V08_012",
-    "base_target": "transformar",
-    "base_english": "transform",
-    "corpus": "VERBS",
-    "group": "Change",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["change", "level_25"]
-  },
-  {
-    "guid": "V08_013",
-    "base_target": "ajustar",
-    "base_english": "adjust",
-    "corpus": "VERBS",
-    "group": "Change",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["change", "level_25"]
-  },
-  {
-    "guid": "V08_014",
-    "base_target": "encoger",
-    "base_english": "shrink",
-    "corpus": "VERBS",
-    "group": "Change",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["change", "level_25"]
-  },
-  {
-    "guid": "V08_015",
-    "base_target": "expandir",
-    "base_english": "expand",
-    "corpus": "VERBS",
-    "group": "Change",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["change", "level_25"]
-  },
-  {
-    "guid": "V08_016",
-    "base_target": "conectar",
-    "base_english": "connect",
-    "corpus": "VERBS",
-    "group": "Change",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["change", "level_27"]
-  },
-  {
-    "guid": "V08_017",
-    "base_target": "encender",
-    "base_english": "light (ignite)",
-    "corpus": "VERBS",
-    "group": "Change",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["change", "level_27"]
-  },
-  {
-    "guid": "V08_018",
-    "base_target": "limitar",
-    "base_english": "limit",
-    "corpus": "VERBS",
-    "group": "Change",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["change", "level_27"]
-  },
-  {
-    "guid": "V08_019",
-    "base_target": "causar",
-    "base_english": "cause (make happen)",
-    "corpus": "VERBS",
-    "group": "Change",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["change", "level_27"]
-  },
-  {
-    "guid": "V08_020",
-    "base_target": "permitir",
-    "base_english": "allow",
-    "corpus": "VERBS",
-    "group": "Change",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["change", "level_27"]
-  },
-  {
-    "guid": "V08_021",
-    "base_target": "aprobar",
-    "base_english": "pass (succeed on test)",
-    "corpus": "VERBS",
-    "group": "Change",
-    "level": 31,
-    "word_type": "verb",
-    "tags": ["change", "level_31"]
   },
   {
     "guid": "V09_001",
@@ -2429,6 +1230,7 @@
     "group": "Communication",
     "level": 10,
     "word_type": "verb",
+    "audio": {"carlos": "60df29432f48b3be248d8b6315c2321f", "maria": "9c8bdad1dfd037105feced6a0941f620"},
     "tags": ["communication", "level_10"]
   },
   {
@@ -2449,6 +1251,7 @@
     "group": "Communication",
     "level": 10,
     "word_type": "verb",
+    "audio": {"carlos": "5ba2e9a3b1d21d0a98d91e9aa90cad42", "maria": "60e1c227a084912fa9ca1514f3c5b05a"},
     "tags": ["communication", "level_10"]
   },
   {
@@ -2459,6 +1262,7 @@
     "group": "Communication",
     "level": 10,
     "word_type": "verb",
+    "audio": {"carlos": "25b6cf19646a3b3eb11d3a72c2b70cc5", "maria": "663036718b01c55b334fe62c563893d1"},
     "tags": ["communication", "level_10"]
   },
   {
@@ -2501,16 +1305,6 @@
     "level": 17,
     "word_type": "verb",
     "tags": ["communication", "level_17"]
-  },
-  {
-    "guid": "V09_009",
-    "base_target": "susurrar",
-    "base_english": "whisper",
-    "corpus": "VERBS",
-    "group": "Communication",
-    "level": 29,
-    "word_type": "verb",
-    "tags": ["communication", "level_29"]
   },
   {
     "guid": "V09_010",
@@ -2623,106 +1417,6 @@
     "tags": ["communication", "level_17"]
   },
   {
-    "guid": "V09_021",
-    "base_target": "traducir",
-    "base_english": "translate",
-    "corpus": "VERBS",
-    "group": "Communication",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["communication", "level_25"]
-  },
-  {
-    "guid": "V09_022",
-    "base_target": "cantar",
-    "base_english": "sing",
-    "corpus": "VERBS",
-    "group": "Communication",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["communication", "level_25"]
-  },
-  {
-    "guid": "V09_023",
-    "base_target": "solicitar",
-    "base_english": "request",
-    "corpus": "VERBS",
-    "group": "Communication",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["communication", "level_25"]
-  },
-  {
-    "guid": "V09_024",
-    "base_target": "negar",
-    "base_english": "deny",
-    "corpus": "VERBS",
-    "group": "Communication",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["communication", "level_25"]
-  },
-  {
-    "guid": "V09_025",
-    "base_target": "gruñir",
-    "base_english": "grunt",
-    "corpus": "VERBS",
-    "group": "Communication",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["communication", "level_27"]
-  },
-  {
-    "guid": "V09_026",
-    "base_target": "enviar por correo",
-    "base_english": "mail",
-    "corpus": "VERBS",
-    "group": "Communication",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["communication", "level_27"]
-  },
-  {
-    "guid": "V09_027",
-    "base_target": "publicar",
-    "base_english": "post",
-    "corpus": "VERBS",
-    "group": "Communication",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["communication", "level_27"]
-  },
-  {
-    "guid": "V09_028",
-    "base_target": "firmar",
-    "base_english": "sign",
-    "corpus": "VERBS",
-    "group": "Communication",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["communication", "level_27"]
-  },
-  {
-    "guid": "V09_029",
-    "base_target": "mentir",
-    "base_english": "lie (tell falsehood)",
-    "corpus": "VERBS",
-    "group": "Communication",
-    "level": 31,
-    "word_type": "verb",
-    "tags": ["communication", "level_31"]
-  },
-  {
-    "guid": "V09_030",
-    "base_target": "llamar",
-    "base_english": "call (telephone)",
-    "corpus": "VERBS",
-    "group": "Communication",
-    "level": 31,
-    "word_type": "verb",
-    "tags": ["communication", "level_31"]
-  },
-  {
     "guid": "V10_001",
     "base_target": "ver",
     "base_english": "see",
@@ -2805,56 +1499,6 @@
     "tags": ["perception", "level_17"]
   },
   {
-    "guid": "V10_009",
-    "base_target": "examinar",
-    "base_english": "examine",
-    "corpus": "VERBS",
-    "group": "Perception",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["perception", "level_25"]
-  },
-  {
-    "guid": "V10_010",
-    "base_target": "observar",
-    "base_english": "observe",
-    "corpus": "VERBS",
-    "group": "Perception",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["perception", "level_25"]
-  },
-  {
-    "guid": "V10_011",
-    "base_target": "detectar",
-    "base_english": "detect",
-    "corpus": "VERBS",
-    "group": "Perception",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["perception", "level_25"]
-  },
-  {
-    "guid": "V10_012",
-    "base_target": "percibir",
-    "base_english": "sense",
-    "corpus": "VERBS",
-    "group": "Perception",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["perception", "level_25"]
-  },
-  {
-    "guid": "V10_013",
-    "base_target": "descubrir",
-    "base_english": "discover",
-    "corpus": "VERBS",
-    "group": "Perception",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["perception", "level_25"]
-  },
-  {
     "guid": "V11_002",
     "base_target": "existir",
     "base_english": "exist",
@@ -2882,6 +1526,7 @@
     "group": "Existence",
     "level": 10,
     "word_type": "verb",
+    "audio": {"carlos": "c1d9f651da8150759f32b2cf6bbc5b52", "maria": "fe1fb2cc1693283e5dab4a30ea83e041"},
     "tags": ["existence", "level_10"]
   },
   {
@@ -2903,106 +1548,6 @@
     "level": 17,
     "word_type": "verb",
     "tags": ["existence", "level_17"]
-  },
-  {
-    "guid": "V11_008",
-    "base_target": "sobrevivir",
-    "base_english": "survive",
-    "corpus": "VERBS",
-    "group": "Existence",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["existence", "level_25"]
-  },
-  {
-    "guid": "V11_009",
-    "base_target": "desaparecer",
-    "base_english": "disappear",
-    "corpus": "VERBS",
-    "group": "Existence",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["existence", "level_25"]
-  },
-  {
-    "guid": "V11_010",
-    "base_target": "pertenecer",
-    "base_english": "belong",
-    "corpus": "VERBS",
-    "group": "Existence",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["existence", "level_25"]
-  },
-  {
-    "guid": "V11_011",
-    "base_target": "durar",
-    "base_english": "last (endure)",
-    "corpus": "VERBS",
-    "group": "Existence",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["existence", "level_25"]
-  },
-  {
-    "guid": "V11_012",
-    "base_target": "ocurrir",
-    "base_english": "occur",
-    "corpus": "VERBS",
-    "group": "Existence",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["existence", "level_25"]
-  },
-  {
-    "guid": "V11_013",
-    "base_target": "surgir",
-    "base_english": "arise",
-    "corpus": "VERBS",
-    "group": "Existence",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["existence", "level_25"]
-  },
-  {
-    "guid": "V11_014",
-    "base_target": "desvanecerse",
-    "base_english": "vanish",
-    "corpus": "VERBS",
-    "group": "Existence",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["existence", "level_25"]
-  },
-  {
-    "guid": "V11_015",
-    "base_target": "emerger",
-    "base_english": "emerge",
-    "corpus": "VERBS",
-    "group": "Existence",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["existence", "level_25"]
-  },
-  {
-    "guid": "V11_016",
-    "base_target": "soportar",
-    "base_english": "endure",
-    "corpus": "VERBS",
-    "group": "Existence",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["existence", "level_25"]
-  },
-  {
-    "guid": "V11_017",
-    "base_target": "persistir",
-    "base_english": "persist",
-    "corpus": "VERBS",
-    "group": "Existence",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["existence", "level_25"]
   },
   {
     "guid": "V12_001",
@@ -3044,6 +1589,7 @@
     "group": "Directional Movement",
     "level": 10,
     "word_type": "verb",
+    "audio": {"carlos": "7b71e82ecf1b4e755462309f1a8523bf", "maria": "6a5882a80ce8a689ab108cebfed0037b"},
     "tags": ["directional_movement", "level_10"]
   },
   {
@@ -3054,6 +1600,7 @@
     "group": "Directional Movement",
     "level": 10,
     "word_type": "verb",
+    "audio": {"carlos": "99a590599dafb82fd1f84ff6dc958454", "maria": "4b909a600836005a94a033c7409634a1"},
     "tags": ["directional_movement", "level_10"]
   },
   {
@@ -3245,65 +1792,5 @@
     "level": 20,
     "word_type": "verb",
     "tags": ["directional_movement", "level_20"]
-  },
-  {
-    "guid": "V12_025",
-    "base_target": "descender",
-    "base_english": "descend",
-    "corpus": "VERBS",
-    "group": "Directional Movement",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["directional_movement", "level_25"]
-  },
-  {
-    "guid": "V12_026",
-    "base_target": "nadar",
-    "base_english": "swim",
-    "corpus": "VERBS",
-    "group": "Directional Movement",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["directional_movement", "level_25"]
-  },
-  {
-    "guid": "V12_027",
-    "base_target": "saltar",
-    "base_english": "jump",
-    "corpus": "VERBS",
-    "group": "Directional Movement",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["directional_movement", "level_25"]
-  },
-  {
-    "guid": "V12_028",
-    "base_target": "escapar",
-    "base_english": "escape",
-    "corpus": "VERBS",
-    "group": "Directional Movement",
-    "level": 25,
-    "word_type": "verb",
-    "tags": ["directional_movement", "level_25"]
-  },
-  {
-    "guid": "V12_029",
-    "base_target": "navegar",
-    "base_english": "sail",
-    "corpus": "VERBS",
-    "group": "Directional Movement",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["directional_movement", "level_27"]
-  },
-  {
-    "guid": "V12_030",
-    "base_target": "visitar",
-    "base_english": "visit",
-    "corpus": "VERBS",
-    "group": "Directional Movement",
-    "level": 27,
-    "word_type": "verb",
-    "tags": ["directional_movement", "level_27"]
   }
 ]
