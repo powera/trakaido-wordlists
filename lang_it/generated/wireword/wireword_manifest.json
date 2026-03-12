@@ -2,7 +2,7 @@
   "version": 1,
   "language": "italian",
   "language_code": "it",
-  "generated_at": "2026-03-12T19:45:41Z",
+  "generated_at": "2026-03-12T20:36:42Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [],
@@ -16,7 +16,7 @@
       "description": "Words (nouns, adjectives, etc.)",
       "type": "words",
       "md5": "e50b1cbfe99cbceb6633ea4858446721",
-      "timestamp": "2026-03-12T19:45:41Z",
+      "timestamp": "2026-03-12T20:36:42Z",
       "required": true,
       "word_count": 398,
       "levels": [
@@ -76,7 +76,7 @@
       "description": "Verbs with conjugations",
       "type": "words",
       "md5": "0d2a2760a7d984b943c1e432e3b8dc9d",
-      "timestamp": "2026-03-12T19:45:41Z",
+      "timestamp": "2026-03-12T20:36:42Z",
       "required": true,
       "word_count": 44,
       "levels": [
@@ -105,7 +105,7 @@
       "description": "Sentences for context-based learning",
       "type": "sentences",
       "md5": "4421cb02b9a7835cc32b24f3077bbabe",
-      "timestamp": "2026-03-12T19:45:41Z",
+      "timestamp": "2026-03-12T20:36:42Z",
       "required": false
     }
   ],

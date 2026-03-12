@@ -2,7 +2,7 @@
   "version": 1,
   "language": "dutch",
   "language_code": "nl",
-  "generated_at": "2026-03-12T19:45:42Z",
+  "generated_at": "2026-03-12T20:36:42Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [],
@@ -16,7 +16,7 @@
       "description": "Words (nouns, adjectives, etc.)",
       "type": "words",
       "md5": "fe660014c482120b68bb27cdf35389ed",
-      "timestamp": "2026-03-12T19:45:42Z",
+      "timestamp": "2026-03-12T20:36:42Z",
       "required": true,
       "word_count": 398,
       "levels": [
@@ -76,7 +76,7 @@
       "description": "Verbs with conjugations",
       "type": "words",
       "md5": "f2e49e803e6807f457928e4a5d04b221",
-      "timestamp": "2026-03-12T19:45:42Z",
+      "timestamp": "2026-03-12T20:36:42Z",
       "required": true,
       "word_count": 44,
       "levels": [
@@ -105,7 +105,7 @@
       "description": "Sentences for context-based learning",
       "type": "sentences",
       "md5": "164f00d4784d1dd59c5e4479fa2689ab",
-      "timestamp": "2026-03-12T19:45:42Z",
+      "timestamp": "2026-03-12T20:36:42Z",
       "required": false
     }
   ],

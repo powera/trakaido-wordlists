@@ -2,14 +2,91 @@
   "version": 1,
   "language": "lithuanian",
   "language_code": "lt",
-  "generated_at": "2026-03-12T19:45:40Z",
+  "generated_at": "2026-03-12T20:36:40Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
       "ruta",
       "jonas"
     ],
-    "default_voice": "ruta"
+    "default_voice": "ruta",
+    "grammar": {
+      "conjugation": {
+        "tenses": [
+          {
+            "id": "past",
+            "label": "Past Tense",
+            "order": 1,
+            "has_persons": true,
+            "person_slots": [
+              "1s",
+              "2s",
+              "3s",
+              "1p",
+              "2p",
+              "3p"
+            ],
+            "description": "Simple past forms used in everyday speech."
+          },
+          {
+            "id": "pres",
+            "label": "Present Tense",
+            "order": 2,
+            "has_persons": true,
+            "person_slots": [
+              "1s",
+              "2s",
+              "3s",
+              "1p",
+              "2p",
+              "3p"
+            ],
+            "description": "Present indicative conjugations."
+          },
+          {
+            "id": "fut",
+            "label": "Future Tense",
+            "order": 3,
+            "has_persons": true,
+            "person_slots": [
+              "1s",
+              "2s",
+              "3s",
+              "1p",
+              "2p",
+              "3p"
+            ],
+            "description": "Future tense conjugations."
+          },
+          {
+            "id": "conditional",
+            "label": "Conditional Mood",
+            "order": 4,
+            "has_persons": true,
+            "person_slots": [
+              "1s",
+              "2s",
+              "3s",
+              "1p",
+              "2p",
+              "3p"
+            ],
+            "description": "Conditional forms such as 'would eat'."
+          },
+          {
+            "id": "imperative",
+            "label": "Imperative",
+            "order": 5,
+            "has_persons": true,
+            "person_slots": [
+              "2s",
+              "2p"
+            ],
+            "description": "Command forms, usually second person only."
+          }
+        ]
+      }
+    }
   },
   "word_files": [
     {
@@ -19,7 +96,7 @@
       "description": "Words (nouns, adjectives, etc.)",
       "type": "words",
       "md5": "62b42b96ac4d0f239d596e94f60cd912",
-      "timestamp": "2026-03-12T19:45:40Z",
+      "timestamp": "2026-03-12T20:36:40Z",
       "required": true,
       "word_count": 2141,
       "levels": [
@@ -135,7 +212,7 @@
       "description": "Verbs with conjugations",
       "type": "words",
       "md5": "d78edd0159dac47ed9efdd320eaad89b",
-      "timestamp": "2026-03-12T19:45:40Z",
+      "timestamp": "2026-03-12T20:36:40Z",
       "required": true,
       "word_count": 323,
       "levels": [
@@ -165,6 +242,17 @@
       ]
     }
   ],
-  "sentence_files": [],
+  "sentence_files": [
+    {
+      "id": "sentences",
+      "filename": "wireword_sentences.json",
+      "display_name": "Practice Sentences",
+      "description": "Sentences for context-based learning",
+      "type": "sentences",
+      "md5": "f15b9319222a61ea314bc80ea247bf3a",
+      "timestamp": "2026-03-12T20:36:40Z",
+      "required": false
+    }
+  ],
   "auxiliary_files": []
 }

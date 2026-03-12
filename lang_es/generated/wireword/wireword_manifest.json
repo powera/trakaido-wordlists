@@ -2,11 +2,62 @@
   "version": 1,
   "language": "spanish",
   "language_code": "es",
-  "generated_at": "2026-03-12T19:45:41Z",
+  "generated_at": "2026-03-12T20:36:42Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [],
-    "default_voice": null
+    "default_voice": null,
+    "grammar": {
+      "conjugation": {
+        "tenses": [
+          {
+            "id": "past",
+            "label": "Past Tense",
+            "order": 1,
+            "has_persons": true,
+            "person_slots": [
+              "1s",
+              "2s",
+              "3s",
+              "1p",
+              "2p",
+              "3p"
+            ],
+            "description": "Simple past forms used in core conjugation activities."
+          },
+          {
+            "id": "pres",
+            "label": "Present Tense",
+            "order": 2,
+            "has_persons": true,
+            "person_slots": [
+              "1s",
+              "2s",
+              "3s",
+              "1p",
+              "2p",
+              "3p"
+            ],
+            "description": "Present indicative conjugations."
+          },
+          {
+            "id": "fut",
+            "label": "Future Tense",
+            "order": 3,
+            "has_persons": true,
+            "person_slots": [
+              "1s",
+              "2s",
+              "3s",
+              "1p",
+              "2p",
+              "3p"
+            ],
+            "description": "Future tense conjugations."
+          }
+        ]
+      }
+    }
   },
   "word_files": [
     {
@@ -16,7 +67,7 @@
       "description": "Words (nouns, adjectives, etc.)",
       "type": "words",
       "md5": "09a3ee367a5ad0636a342ad02467a518",
-      "timestamp": "2026-03-12T19:45:41Z",
+      "timestamp": "2026-03-12T20:36:42Z",
       "required": true,
       "word_count": 1089,
       "levels": [
@@ -109,7 +160,7 @@
       "description": "Verbs with conjugations",
       "type": "words",
       "md5": "22fc6e38c53b7a1c0e5964154dbeebf1",
-      "timestamp": "2026-03-12T19:45:41Z",
+      "timestamp": "2026-03-12T20:36:42Z",
       "required": true,
       "word_count": 175,
       "levels": [
@@ -141,7 +192,7 @@
       "description": "Sentences for context-based learning",
       "type": "sentences",
       "md5": "703700cbfb2a8a1c48d264b889427c10",
-      "timestamp": "2026-03-12T19:45:41Z",
+      "timestamp": "2026-03-12T20:36:42Z",
       "required": false
     }
   ],

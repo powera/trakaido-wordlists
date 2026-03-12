@@ -2,7 +2,7 @@
   "version": 1,
   "language": "chinese_traditional",
   "language_code": "zh_Hant",
-  "generated_at": "2026-03-12T19:45:40Z",
+  "generated_at": "2026-03-12T20:36:41Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -19,7 +19,7 @@
       "description": "Words (nouns, adjectives, etc.)",
       "type": "words",
       "md5": "797113d23deacc4fcce586b79291120b",
-      "timestamp": "2026-03-12T19:45:40Z",
+      "timestamp": "2026-03-12T20:36:41Z",
       "required": true,
       "word_count": 1094,
       "levels": [
@@ -112,7 +112,7 @@
       "description": "Verbs with conjugations",
       "type": "words",
       "md5": "0083c0c5691f685192591b12f998fff5",
-      "timestamp": "2026-03-12T19:45:40Z",
+      "timestamp": "2026-03-12T20:36:41Z",
       "required": true,
       "word_count": 175,
       "levels": [
@@ -144,7 +144,7 @@
       "description": "Sentences for context-based learning",
       "type": "sentences",
       "md5": "7d9783b6f16375f1374a3135f7fce3a5",
-      "timestamp": "2026-03-12T19:45:40Z",
+      "timestamp": "2026-03-12T20:36:41Z",
       "required": false
     }
   ],

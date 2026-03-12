@@ -2,7 +2,7 @@
   "version": 1,
   "language": "swedish",
   "language_code": "sv",
-  "generated_at": "2026-03-12T19:45:42Z",
+  "generated_at": "2026-03-12T20:36:43Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [],
@@ -16,7 +16,7 @@
       "description": "Words (nouns, adjectives, etc.)",
       "type": "words",
       "md5": "c317c386238d43565cf8ac6404d87585",
-      "timestamp": "2026-03-12T19:45:42Z",
+      "timestamp": "2026-03-12T20:36:43Z",
       "required": true,
       "word_count": 398,
       "levels": [
@@ -76,7 +76,7 @@
       "description": "Verbs with conjugations",
       "type": "words",
       "md5": "11ebcbf0cb1e70108b66d80e45105f8b",
-      "timestamp": "2026-03-12T19:45:42Z",
+      "timestamp": "2026-03-12T20:36:43Z",
       "required": true,
       "word_count": 44,
       "levels": [
@@ -105,7 +105,7 @@
       "description": "Sentences for context-based learning",
       "type": "sentences",
       "md5": "0768a72bbf738a8ac4d368fcbb81620f",
-      "timestamp": "2026-03-12T19:45:42Z",
+      "timestamp": "2026-03-12T20:36:43Z",
       "required": false
     }
   ],
