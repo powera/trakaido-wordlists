@@ -1,0 +1,127 @@
+{
+  "version": 1,
+  "language": "japanese",
+  "language_code": "ja",
+  "generated_at": "2026-03-24T15:03:37Z",
+  "config": {
+    "audio_prefix": "/prod",
+    "available_voices": [
+      "sakura",
+      "haruto"
+    ],
+    "default_voice": "sakura",
+    "reading": {
+      "style": "ruby",
+      "default_system": "hiragana",
+      "systems": [
+        {
+          "id": "romaji",
+          "label": "Romaji",
+          "word_field": "target_romaji",
+          "grammatical_form_field": "target_romaji",
+          "alternatives_field": "target_alternatives_romaji",
+          "synonyms_field": "target_synonyms_romaji",
+          "sentence_translation_field": "romaji"
+        },
+        {
+          "id": "hiragana",
+          "label": "Hiragana",
+          "word_field": "target_hiragana",
+          "grammatical_form_field": "target_hiragana",
+          "alternatives_field": "target_alternatives_hiragana",
+          "synonyms_field": "target_synonyms_hiragana",
+          "sentence_translation_field": "hiragana"
+        }
+      ]
+    }
+  },
+  "word_files": [
+    {
+      "id": "nouns",
+      "filename": "wireword_nouns.json",
+      "display_name": "Nouns",
+      "description": "Words (nouns, adjectives, etc.)",
+      "type": "words",
+      "md5": "3562e07db4df4b455a95547fc7f629ab",
+      "timestamp": "2026-03-24T15:03:37Z",
+      "required": true,
+      "word_count": 387,
+      "levels": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "groups": [
+        "Animals",
+        "Beverage",
+        "Body Part",
+        "Building Part",
+        "Building/Structure",
+        "Cardinal",
+        "Clothing/Accessory",
+        "Color",
+        "Conjunction Other",
+        "Electronic Device",
+        "Emotion",
+        "Food",
+        "Furniture",
+        "Humans",
+        "Interjection Other",
+        "Location",
+        "Material/Substance",
+        "Occupation",
+        "Ordinal",
+        "Personal Quality",
+        "Physical Property",
+        "Plant Part",
+        "Plants",
+        "Preposition Other",
+        "Pronoun Other",
+        "Quality",
+        "Sequence",
+        "Shape",
+        "Size",
+        "Small Movable Object",
+        "Specific Time",
+        "Technology Digital",
+        "Vehicle"
+      ]
+    },
+    {
+      "id": "verbs",
+      "filename": "wireword_verbs.json",
+      "display_name": "Verbs",
+      "description": "Verbs with conjugations",
+      "type": "words",
+      "md5": "5c806058740f1a8cc82517808ab2fac5",
+      "timestamp": "2026-03-24T15:03:37Z",
+      "required": true,
+      "word_count": 44,
+      "levels": [
+        3,
+        6,
+        10
+      ],
+      "groups": [
+        "Change",
+        "Communication",
+        "Directional Movement",
+        "Emotional State",
+        "Existence",
+        "Mental State",
+        "Perception",
+        "Physical Action",
+        "Possession"
+      ]
+    }
+  ],
+  "sentence_files": [],
+  "auxiliary_files": []
+}

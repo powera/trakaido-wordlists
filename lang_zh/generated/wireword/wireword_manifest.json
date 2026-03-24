@@ -2,14 +2,29 @@
   "version": 1,
   "language": "chinese",
   "language_code": "zh",
-  "generated_at": "2026-03-12T20:36:41Z",
+  "generated_at": "2026-03-24T15:06:36Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
       "meiling",
       "zhiyuan"
     ],
-    "default_voice": "meiling"
+    "default_voice": "meiling",
+    "reading": {
+      "style": "ruby",
+      "default_system": "pinyin",
+      "systems": [
+        {
+          "id": "pinyin",
+          "label": "Pinyin",
+          "word_field": "target_pinyin",
+          "grammatical_form_field": "target_pinyin",
+          "alternatives_field": "target_alternatives_pinyin",
+          "synonyms_field": "target_synonyms_pinyin",
+          "sentence_translation_field": "pinyin"
+        }
+      ]
+    }
   },
   "word_files": [
     {
@@ -19,7 +34,7 @@
       "description": "Words (nouns, adjectives, etc.)",
       "type": "words",
       "md5": "f3deb7c029309fdcef3afa51f0fa3c0d",
-      "timestamp": "2026-03-12T20:36:41Z",
+      "timestamp": "2026-03-24T15:06:36Z",
       "required": true,
       "word_count": 1094,
       "levels": [
@@ -112,7 +127,7 @@
       "description": "Verbs with conjugations",
       "type": "words",
       "md5": "4b7b22743fa4f1f0b95b12ea7bca20a0",
-      "timestamp": "2026-03-12T20:36:41Z",
+      "timestamp": "2026-03-24T15:06:36Z",
       "required": true,
       "word_count": 175,
       "levels": [
@@ -144,7 +159,7 @@
       "description": "Sentences for context-based learning",
       "type": "sentences",
       "md5": "f78ed66957f650a24bb3ed6a4e8340e6",
-      "timestamp": "2026-03-12T20:36:41Z",
+      "timestamp": "2026-03-24T15:06:36Z",
       "required": false
     }
   ],
