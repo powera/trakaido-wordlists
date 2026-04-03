@@ -1,5 +1,1969 @@
 {
   "language": "de",
-  "sentences": [],
+  "sentences": [
+    {
+      "sentence_id": "S_00001",
+      "translations": {
+        "bn": "তারা বাড়ির দিকে হেঁটে যায়।",
+        "de": "Sie gehen zum Haus."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/de_3p_present"
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00002",
+      "translations": {
+        "bn": "তার একটি ছোট ঘর আছে।",
+        "de": "Sie hat ein kleines Haus."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_002",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "A01_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00003",
+      "translations": {
+        "bn": "আমরা বাড়ির দরজাটি খুলি।",
+        "de": "Wir öffnen die Tür des Hauses."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_014",
+          "grammatical_form": "verb/de_1p_present"
+        },
+        {
+          "guid": "N47_001",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": "noun/de_genitive_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00004",
+      "translations": {
+        "bn": "তিনি একটি নতুন বাড়ি কিনেছেন।",
+        "de": "Er hat ein neues Haus gekauft."
+      },
+      "linked_words": [
+        {
+          "guid": "A05_035",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00005",
+      "translations": {
+        "bn": "আমার ছেলে স্কুলে যায়।",
+        "de": "Mein Sohn geht zur Schule."
+      },
+      "linked_words": [
+        {
+          "guid": "N35_036",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "V12_004",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_002",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": "S_00006",
+      "translations": {
+        "bn": "সে প্রতিদিন হেঁটে স্কুলে যায়।",
+        "de": "Sie geht jeden Tag zur Schule."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N25_002",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_002",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00009",
+      "translations": {
+        "bn": "আমার একজন বন্ধু হাসপাতালে কাজ করে।",
+        "de": "Mein Freund arbeitet im Krankenhaus."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N07_003",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_003",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00010",
+      "translations": {
+        "bn": "তিনি গতকাল হাসপাতালে গিয়েছিলেন।",
+        "de": "Sie ging gestern ins Krankenhaus."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_004",
+          "grammatical_form": "verb/de_3s_past"
+        },
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_003",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_003",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": "S_00013",
+      "translations": {
+        "bn": "আমি দোকান থেকে রুটি কিনি।",
+        "de": "Ich kaufe Brot im Geschäft."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/de_1s_present"
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00014",
+      "translations": {
+        "bn": "সে দোকানে একটি খেলনা খুঁজে পেয়েছিল।",
+        "de": "Sie fand ein Spielzeug im Geschäft."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_009",
+          "grammatical_form": "verb/de_3s_past"
+        },
+        {
+          "guid": "N08_036",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00015",
+      "translations": {
+        "bn": "আমরা রাতে দোকানটি বন্ধ করি।",
+        "de": "Wir schließen das Geschäft nachts."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_015",
+          "grammatical_form": "verb/de_1p_present"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N25_003",
+          "grammatical_form": "adverb/de_base"
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00016",
+      "translations": {
+        "bn": "তারা গতকাল দোকানে হেঁটে গিয়েছিল।",
+        "de": "Sie gingen gestern zum Geschäft."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/de_3p_past"
+        },
+        {
+          "guid": "D03_002",
+          "grammatical_form": "adverb/de_base"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00017",
+      "translations": {
+        "bn": "আজ আমরা রেস্টুরেন্টে খেতে যাব।",
+        "de": "Wir essen heute im Restaurant."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/de_1p_present"
+        },
+        {
+          "guid": "D03_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_006",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_006",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00020",
+      "translations": {
+        "bn": "আমার একজন বন্ধু একটি রেস্টুরেন্টে কাজ করে।",
+        "de": "Mein Freund arbeitet in einem Restaurant."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N07_006",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_006",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00025",
+      "translations": {
+        "bn": "আজ আমি হেঁটে ব্যাংকের দিকে যাচ্ছি।",
+        "de": "Ich gehe heute zur Bank."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/de_1s_present"
+        },
+        {
+          "guid": "D03_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_008",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_008",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00028",
+      "translations": {
+        "bn": "আমার একজন বন্ধু ব্যাংকে কাজ করে।",
+        "de": "Mein Freund arbeitet bei der Bank."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N07_008",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_008",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00029",
+      "translations": {
+        "bn": "আজ তিনি লাইব্রেরিতে হেঁটে যাবেন।",
+        "de": "Sie geht heute in die Bibliothek."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N07_009",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_009",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00032",
+      "translations": {
+        "bn": "তারা লাইব্রেরিতে কিছু বই নিয়ে এসেছেন।",
+        "de": "Sie brachten Bücher in die Bibliothek."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_012",
+          "grammatical_form": "verb/de_3p_past"
+        },
+        {
+          "guid": "N08_005",
+          "grammatical_form": "noun/de_accusative_plural"
+        },
+        {
+          "guid": "N07_009",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_009",
+      "minimum_level": 2
+    },
+    {
+      "sentence_id": "S_00033",
+      "translations": {
+        "bn": "আজ আমরা জাদুঘরটি দেখতে যাচ্ছি।",
+        "de": "Wir besuchen heute das Museum."
+      },
+      "linked_words": [
+        {
+          "guid": "N07_010",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00034",
+      "translations": {
+        "bn": "তিনি হেঁটে মিউজিয়ামে যান।",
+        "de": "Sie geht zum Museum."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N07_010",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00035",
+      "translations": {
+        "bn": "তারা জাদুঘরে কিছু চিত্রকর্ম দেখেছিলেন।",
+        "de": "Sie sahen Malereien im Museum."
+      },
+      "linked_words": [
+        {
+          "guid": "V10_001",
+          "grammatical_form": "verb/de_3p_past"
+        },
+        {
+          "guid": "N41_004",
+          "grammatical_form": "noun/de_accusative_plural"
+        },
+        {
+          "guid": "N07_010",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00036",
+      "translations": {
+        "bn": "আমার একজন বন্ধু музеయంలో কাজ করে।",
+        "de": "Mein Freund arbeitet im Museum."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N07_010",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00037",
+      "translations": {
+        "bn": "অগ্নিনির্বাপণ কেন্দ্রটি স্কুলের কাছাকাছি অবস্থিত।",
+        "de": "Die Feuerwache ist nahe der Schule."
+      },
+      "linked_words": [
+        {
+          "guid": "N07_011",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "R99_026",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_011",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00038",
+      "translations": {
+        "bn": "আমার একজন বন্ধু ফায়ার স্টেশনে কাজ করে।",
+        "de": "Mein Freund arbeitet in der Feuerwache."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N07_011",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_011",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00039",
+      "translations": {
+        "bn": "তারা ফায়ার স্টেশনের পাশ দিয়ে গাড়ি চালিয়ে গেল।",
+        "de": "Sie fuhren an der Feuerwache vorbei."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_002",
+          "grammatical_form": "verb/de_3p_past"
+        },
+        {
+          "guid": "N07_011",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_011",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": "S_00041",
+      "translations": {
+        "bn": "তিনি প্রতিদিন সকালে তাজা রুটি কেনেন।",
+        "de": "Sie kauft jeden Morgen frisches Brot."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N25_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A05_109",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_001",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": "S_00042",
+      "translations": {
+        "bn": "আমরা মাখন দিয়ে গরম রুটি খেলাম।",
+        "de": "Wir aßen warmes Brot mit Butter."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/de_1p_past"
+        },
+        {
+          "guid": "A18_061",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N06_011",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_001",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00044",
+      "translations": {
+        "bn": "তিনি আমাকে এক টুকরো রুটি দিলেন।",
+        "de": "Er gab mir ein Stück Brot."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_005",
+          "grammatical_form": "verb/de_3s_past"
+        },
+        {
+          "guid": "N22_016",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": "noun/de_genitive_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_001",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00045",
+      "translations": {
+        "bn": "তিনি বাজারে মাংস কেনেন।",
+        "de": "Sie kauft Fleisch auf dem Markt."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N06_007",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_028",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_007",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00046",
+      "translations": {
+        "bn": "তারা রাতের খাবারে মাংস খায়।",
+        "de": "Sie essen Fleisch zum Abendessen."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/de_3p_present"
+        },
+        {
+          "guid": "N06_007",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N06_088",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_007",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00047",
+      "translations": {
+        "bn": "আমার বন্ধু মাংস পছন্দ করে না।",
+        "de": "Mein Freund mag kein Fleisch."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V05_001",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N06_007",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_007",
+      "minimum_level": 5
+    },
+    {
+      "sentence_id": "S_00049",
+      "translations": {
+        "bn": "তিনি তার চায়ের সাথে চিনি মেশান।",
+        "de": "Sie fügt ihrem Tee Zucker hinzu."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_055",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N42_003",
+          "grammatical_form": "noun/de_dative_singular"
+        },
+        {
+          "guid": "N06_012",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_012",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": "S_00050",
+      "translations": {
+        "bn": "আমরা দোকান থেকে চিনি কিনেছি।",
+        "de": "Wir haben Zucker im Geschäft gekauft."
+      },
+      "linked_words": [
+        {
+          "guid": "N06_012",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/de_dative_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_012",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00052",
+      "translations": {
+        "bn": "তারা তাদের কফিতে চিনি পছন্দ করে।",
+        "de": "Sie wollen Zucker in ihrem Kaffee."
+      },
+      "linked_words": [
+        {
+          "guid": "V05_004",
+          "grammatical_form": "verb/de_3p_present"
+        },
+        {
+          "guid": "N06_012",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N42_002",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_012",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00053",
+      "translations": {
+        "bn": "তিনি মাংসের উপর লবণ দেন।",
+        "de": "Sie legt Salz auf das Fleisch."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N06_007",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00054",
+      "translations": {
+        "bn": "আমার স্যুপের জন্য লবণের প্রয়োজন।",
+        "de": "Ich brauche Salz für die Suppe."
+      },
+      "linked_words": [
+        {
+          "guid": "V04_010",
+          "grammatical_form": "verb/de_1s_present"
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N06_021",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00055",
+      "translations": {
+        "bn": "তারা দোকান থেকে লবণ কিনেছিল।",
+        "de": "Sie kauften Salz im Geschäft."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/de_3p_past"
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00056",
+      "translations": {
+        "bn": "আমার বন্ধু রুটিতে লবণ অনুভব করছে।",
+        "de": "Mein Freund schmeckt Salz auf dem Brot."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V10_005",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": "S_00058",
+      "translations": {
+        "bn": "তারা বাজারে আলু কেনে।",
+        "de": "Sie kaufen Kartoffeln auf dem Markt."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/de_3p_present"
+        },
+        {
+          "guid": "N06_014",
+          "grammatical_form": "noun/de_accusative_plural"
+        },
+        {
+          "guid": "N07_028",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_014",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00061",
+      "translations": {
+        "bn": "সে প্রতিদিন একটি আপেল খায়।",
+        "de": "Sie isst jeden Tag einen Apfel."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "T99_017",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N25_002",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N06_015",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_015",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": "S_00062",
+      "translations": {
+        "bn": "তিনি গতকাল তিনটি আপেল কিনেছিলেন।",
+        "de": "Er kaufte gestern drei Äpfel."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/de_3s_past"
+        },
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "Z01_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_015",
+          "grammatical_form": "noun/de_accusative_plural"
+        }
+      ],
+      "source": "buivolas_guided_N06_015",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": "S_00063",
+      "translations": {
+        "bn": "আমার একজন বন্ধু আমাকে একটি আপেল দিয়েছে।",
+        "de": "Mein Freund hat mir einen Apfel gegeben."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "N06_015",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "V06_005",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_015",
+      "minimum_level": 5
+    },
+    {
+      "sentence_id": "S_00065",
+      "translations": {
+        "bn": "আমি প্রতিদিন সকালে একটি কলা খাই।",
+        "de": "Ich esse jeden Morgen eine Banane."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/de_1s_present"
+        },
+        {
+          "guid": "N25_004",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N06_016",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_016",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00068",
+      "translations": {
+        "bn": "আমরা বাজারে কলা কিনেছিলাম।",
+        "de": "Wir haben Bananen auf dem Markt gekauft."
+      },
+      "linked_words": [
+        {
+          "guid": "N06_016",
+          "grammatical_form": "noun/de_accusative_plural"
+        },
+        {
+          "guid": "N07_028",
+          "grammatical_form": "noun/de_dative_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_016",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00069",
+      "translations": {
+        "bn": "সে একটি তাজা টমেটো খাচ্ছে।",
+        "de": "Sie isst eine frische Tomate."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "A05_109",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_018",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_018",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00070",
+      "translations": {
+        "bn": "আমরা বাজারে টমেটো কিনেছি।",
+        "de": "Wir haben Tomaten auf dem Markt gekauft."
+      },
+      "linked_words": [
+        {
+          "guid": "N06_018",
+          "grammatical_form": "noun/de_accusative_plural"
+        },
+        {
+          "guid": "N07_028",
+          "grammatical_form": "noun/de_dative_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_018",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00071",
+      "translations": {
+        "bn": "তিনি সালাদে একটি টমেটো যোগ করেন।",
+        "de": "Er legt eine Tomate in den Salat."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N06_018",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_028",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_018",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00073",
+      "translations": {
+        "bn": "সে প্রতিদিন ভাত খায়।",
+        "de": "Sie isst jeden Tag Reis."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N25_002",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N06_020",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_020",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00075",
+      "translations": {
+        "bn": "আমার বন্ধু আরও চাল চাইছে।",
+        "de": "Mein Freund will mehr Reis."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "V05_004",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N06_020",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_020",
+      "minimum_level": 5
+    },
+    {
+      "sentence_id": "S_00079",
+      "translations": {
+        "bn": "তারা দুপুরের খাবারে টমেটোর স্যুপ কিনেছিল।",
+        "de": "Sie kauften Tomatensuppe zum Mittagessen."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/de_3p_past"
+        },
+        {
+          "guid": "N06_021",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N06_087",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_021",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00080",
+      "translations": {
+        "bn": "আমার বন্ধু রুটির সাথে স্যুপ খেয়েছে।",
+        "de": "Mein Freund aß Suppe mit Brot."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/de_3s_past"
+        },
+        {
+          "guid": "N06_021",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_021",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00081",
+      "translations": {
+        "bn": "আমি বাজারে খাবার কিনে আনি।",
+        "de": "Ich kaufe auf dem Markt Essen."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/de_1s_present"
+        },
+        {
+          "guid": "N07_028",
+          "grammatical_form": "noun/de_dative_singular"
+        },
+        {
+          "guid": "N06_092",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_092",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00083",
+      "translations": {
+        "bn": "তাদের ব্যাগে খাবার আছে।",
+        "de": "Sie haben Essen in ihren Taschen."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_002",
+          "grammatical_form": "verb/de_3p_present"
+        },
+        {
+          "guid": "N06_092",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N08_009",
+          "grammatical_form": "noun/de_dative_plural"
+        }
+      ],
+      "source": "buivolas_guided_N06_092",
+      "minimum_level": 2
+    },
+    {
+      "sentence_id": "S_00084",
+      "translations": {
+        "bn": "আপনি কি এই খাবারটি পছন্দ করছেন?",
+        "de": "Magst du dieses Essen?"
+      },
+      "linked_words": [
+        {
+          "guid": "V05_001",
+          "grammatical_form": "verb/de_2s_present"
+        },
+        {
+          "guid": "N06_092",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_092",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00085",
+      "translations": {
+        "bn": "আজ তিনি একটি পরিষ্কার শার্ট পরে আছেন।",
+        "de": "Er trägt heute ein sauberes Hemd."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "A18_027",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_001",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_001",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00086",
+      "translations": {
+        "bn": "তিনি একটি নীল রঙের শার্ট কিনেছেন।",
+        "de": "Sie kaufte ein blaues Hemd."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/de_3s_past"
+        },
+        {
+          "guid": "A02_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_001",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_001",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00088",
+      "translations": {
+        "bn": "তারা একটি নোংরা শার্ট খুঁজে পেয়েছে।",
+        "de": "Sie fanden ein schmutziges Hemd."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_009",
+          "grammatical_form": "verb/de_3p_past"
+        },
+        {
+          "guid": "A18_070",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_001",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_001",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00089",
+      "translations": {
+        "bn": "আমি গতকাল নতুন প্যান্ট কিনেছি।",
+        "de": "Ich habe gestern eine neue Hose gekauft."
+      },
+      "linked_words": [
+        {
+          "guid": "A05_035",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_002",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00091",
+      "translations": {
+        "bn": "আমার বন্ধু ভেজা প্যান্ট খুঁজে পেয়েছে।",
+        "de": "Mein Freund hat nasse Hosen gefunden."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "A18_011",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_002",
+          "grammatical_form": "noun/de_accusative_plural"
+        },
+        {
+          "guid": "V01_009",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_002",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_00092",
+      "translations": {
+        "bn": "তাদের কাছে কি পরিষ্কার প্যান্ট আছে?",
+        "de": "Haben sie saubere Hosen?"
+      },
+      "linked_words": [
+        {
+          "guid": "V06_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A18_027",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_002",
+          "grammatical_form": "noun/de_accusative_plural"
+        }
+      ],
+      "source": "buivolas_guided_N09_002",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00093",
+      "translations": {
+        "bn": "আজ তিনি লাল রঙের একটি পোশাক পরেছেন।",
+        "de": "Sie trägt heute ein rotes Kleid."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "A02_003",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_003",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_003",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00094",
+      "translations": {
+        "bn": "আমার একজন বন্ধু একটি নীল রঙের পোশাক কিনেছে।",
+        "de": "Mein Freund hat ein blaues Kleid gekauft."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "A02_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_003",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_003",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00095",
+      "translations": {
+        "bn": "তারা দোকানে পোশাকটি দেখছে।",
+        "de": "Sie sehen das Kleid im Geschäft."
+      },
+      "linked_words": [
+        {
+          "guid": "V10_001",
+          "grammatical_form": "verb/de_3p_present"
+        },
+        {
+          "guid": "N09_003",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_003",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00097",
+      "translations": {
+        "bn": "আজ তিনি একটি গরম জ্যাকেট পরেছেন।",
+        "de": "Er trägt heute eine warme Jacke."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "A18_061",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_005",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_005",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00098",
+      "translations": {
+        "bn": "সে গতকাল একটি নতুন জ্যাকেট কিনেছিল।",
+        "de": "Sie hat gestern eine neue Jacke gekauft."
+      },
+      "linked_words": [
+        {
+          "guid": "A05_035",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_005",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_005",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00100",
+      "translations": {
+        "bn": "তারা ভেজা জ্যাকেটটি বাইরে রেখে দিলেন।",
+        "de": "Sie legten die nasse Jacke draußen."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/de_3p_past"
+        },
+        {
+          "guid": "A18_011",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_005",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "D07_032",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_005",
+      "minimum_level": 9
+    },
+    {
+      "sentence_id": "S_00101",
+      "translations": {
+        "bn": "আমার জুতোটি দরজার পাশে রাখা আছে।",
+        "de": "Mein Schuh ist an der Tür."
+      },
+      "linked_words": [
+        {
+          "guid": "N09_006",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "N47_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_006",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": "S_00102",
+      "translations": {
+        "bn": "সে একটি নতুন জুতো কিনেছে।",
+        "de": "Sie kaufte einen neuen Schuh."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/de_3s_past"
+        },
+        {
+          "guid": "N09_006",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_006",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00103",
+      "translations": {
+        "bn": "সে বাইরে একটি জুতা হারিয়ে ফেলেছে।",
+        "de": "Er hat einen Schuh draußen verloren."
+      },
+      "linked_words": [
+        {
+          "guid": "N09_006",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "D07_032",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_045",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_006",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": "S_00104",
+      "translations": {
+        "bn": "তারা একই ধরনের জুতো পরে।",
+        "de": "Sie tragen dieselben Schuhe."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/de_3p_present"
+        },
+        {
+          "guid": "N09_006",
+          "grammatical_form": "noun/de_accusative_plural"
+        }
+      ],
+      "source": "buivolas_guided_N09_006",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00106",
+      "translations": {
+        "bn": "সে একটি নীল মোজা হারিয়ে ফেলেছে।",
+        "de": "Sie hat eine blaue Socke verloren."
+      },
+      "linked_words": [
+        {
+          "guid": "Z01_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A02_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_007",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "V01_045",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_007",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": "S_00107",
+      "translations": {
+        "bn": "তারা একটি ভেজা মোজা খুঁজে পেয়েছে।",
+        "de": "Sie fanden eine nasse Socke"
+      },
+      "linked_words": [
+        {
+          "guid": "V01_009",
+          "grammatical_form": "verb/de_3p_past"
+        },
+        {
+          "guid": "A18_011",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_007",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_007",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_00108",
+      "translations": {
+        "bn": "তিনি পরিষ্কার মোজা পরলেন।",
+        "de": "Er zog saubere Socken an."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/de_3s_past"
+        },
+        {
+          "guid": "A18_027",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_007",
+          "grammatical_form": "noun/de_nominative_plural"
+        }
+      ],
+      "source": "buivolas_guided_N09_007",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00109",
+      "translations": {
+        "bn": "আজ তিনি একটি কালো টুপি পরেছেন।",
+        "de": "Sie trägt heute einen schwarzen Hut."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "A02_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_008",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_008",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00110",
+      "translations": {
+        "bn": "তিনি তার টুপি খুলে ফেললেন।",
+        "de": "Er nahm seinen Hut ab."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_006",
+          "grammatical_form": "verb/de_3s_past"
+        },
+        {
+          "guid": "N09_008",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_008",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00112",
+      "translations": {
+        "bn": "আপনি কি আমার গরম টুপিটি নিতে চান?",
+        "de": "Willst du meinen warmen Hut?"
+      },
+      "linked_words": [
+        {
+          "guid": "V05_004",
+          "grammatical_form": "verb/de_2s_present"
+        },
+        {
+          "guid": "A18_061",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_008",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_008",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00113",
+      "translations": {
+        "bn": "তিনি একটি গ্লাভস পরেন।",
+        "de": "Sie zieht einen Handschuh an."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N09_009",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_009",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00115",
+      "translations": {
+        "bn": "আমার বন্ধু গরম হাতমোজা কিনেছে।",
+        "de": "Mein Freund hat warme Handschuhe gekauft."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "A18_061",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_009",
+          "grammatical_form": "noun/de_accusative_plural"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_009",
+      "minimum_level": 5
+    },
+    {
+      "sentence_id": "S_00116",
+      "translations": {
+        "bn": "আপনার কাছে কি গ্লাভস আছে?",
+        "de": "Hast du einen Handschuh?"
+      },
+      "linked_words": [
+        {
+          "guid": "V06_002",
+          "grammatical_form": "verb/de_2s_present"
+        },
+        {
+          "guid": "Z01_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_009",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_009",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": "S_00117",
+      "translations": {
+        "bn": "আজ তিনি একটি নীল রঙের সোয়েটার পরেছেন।",
+        "de": "Sie trägt heute einen blauen Pullover."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "A02_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_011",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_011",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00118",
+      "translations": {
+        "bn": "আমার একজন বন্ধু গতকাল একটি সোয়েটার কিনেছিল।",
+        "de": "Mein Freund hat gestern einen Pullover gekauft."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "N09_011",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_011",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00119",
+      "translations": {
+        "bn": "তারা সোয়েটারটি চেয়ারের উপরে রাখলেন।",
+        "de": "Sie legten den Pullover auf den Stuhl."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/de_3p_past"
+        },
+        {
+          "guid": "N09_011",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N39_001",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_011",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00121",
+      "translations": {
+        "bn": "আমার আজ পরিষ্কার অন্তর্বাস দরকার।",
+        "de": "Ich brauche heute saubere Unterwäsche."
+      },
+      "linked_words": [
+        {
+          "guid": "V04_010",
+          "grammatical_form": "verb/de_1s_present"
+        },
+        {
+          "guid": "D03_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A18_027",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_012",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_012",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": "S_00122",
+      "translations": {
+        "bn": "তিনি গতকাল নতুন অন্তর্বাস কিনেছেন।",
+        "de": "Sie hat gestern neue Unterwäsche gekauft."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_012",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_012",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": "S_00124",
+      "translations": {
+        "bn": "তারা তাদের শার্টের নিচে অন্তর্বাস পরে।",
+        "de": "Sie tragen Unterwäsche unter ihren Hemden."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/de_3p_present"
+        },
+        {
+          "guid": "N09_012",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N09_001",
+          "grammatical_form": "noun/de_dative_plural"
+        }
+      ],
+      "source": "buivolas_guided_N09_012",
+      "minimum_level": 1
+    }
+  ],
   "source_language": "bn"
 }

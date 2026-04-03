@@ -1,0 +1,167 @@
+{
+  "version": 1,
+  "language": "german",
+  "language_code": "de",
+  "generated_at": "2026-04-02T22:15:57Z",
+  "source_language": "romanian",
+  "source_language_code": "ro",
+  "config": {
+    "audio_prefix": "/staging",
+    "available_voices": [],
+    "default_voice": null,
+    "grammar": {
+      "conjugation": {
+        "tenses": [
+          {
+            "id": "past",
+            "label": "Präteritum",
+            "order": 1,
+            "has_persons": true,
+            "person_slots": [
+              "1s",
+              "2s",
+              "3s",
+              "1p",
+              "2p",
+              "3p"
+            ],
+            "description": "Simple past tense forms."
+          },
+          {
+            "id": "pres",
+            "label": "Präsens",
+            "order": 2,
+            "has_persons": true,
+            "person_slots": [
+              "1s",
+              "2s",
+              "3s",
+              "1p",
+              "2p",
+              "3p"
+            ],
+            "description": "Present tense conjugations."
+          },
+          {
+            "id": "fut",
+            "label": "Futur I",
+            "order": 3,
+            "has_persons": true,
+            "person_slots": [
+              "1s",
+              "2s",
+              "3s",
+              "1p",
+              "2p",
+              "3p"
+            ],
+            "description": "Future tense conjugations."
+          }
+        ],
+        "person_labels": {
+          "1s": "ich",
+          "2s": "du",
+          "3s": "er/sie/es",
+          "1p": "wir",
+          "2p": "ihr",
+          "3p": "sie/Sie"
+        }
+      }
+    }
+  },
+  "word_files": [
+    {
+      "id": "levels_1_5",
+      "filename": "wireword_levels_1_5.json",
+      "display_name": "Levels 1-5",
+      "type": "words",
+      "md5": "753e27e15bb5e86fc80f7cc7ffd89329",
+      "levels": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "required": true,
+      "word_count": 186,
+      "groups": [
+        "Animals",
+        "Body Part",
+        "Building/Structure",
+        "Cardinal",
+        "Clothing/Accessory",
+        "Color",
+        "Communication",
+        "Directional Movement",
+        "Emotion",
+        "Food",
+        "Humans",
+        "Interjection Other",
+        "Occupation",
+        "Perception",
+        "Physical Action",
+        "Possession",
+        "Shape",
+        "Small Movable Object",
+        "Specific Time",
+        "Vehicle"
+      ]
+    },
+    {
+      "id": "levels_6_10",
+      "filename": "wireword_levels_6_10.json",
+      "display_name": "Levels 6-10",
+      "type": "words",
+      "md5": "ee8b7f8d2d0d75a261d40bacd0154e5c",
+      "levels": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "required": true,
+      "word_count": 255,
+      "groups": [
+        "Animals",
+        "Beverage",
+        "Body Part",
+        "Building Part",
+        "Building/Structure",
+        "Change",
+        "Clothing/Accessory",
+        "Communication",
+        "Conjunction Other",
+        "Country",
+        "Directional Movement",
+        "Electronic Device",
+        "Emotion",
+        "Emotional State",
+        "Existence",
+        "Food",
+        "Furniture",
+        "Location",
+        "Material/Substance",
+        "Mental State",
+        "Nationality",
+        "Ordinal",
+        "Personal Quality",
+        "Physical Action",
+        "Physical Property",
+        "Plant Part",
+        "Plants",
+        "Possession",
+        "Preposition Other",
+        "Pronoun Other",
+        "Quality",
+        "Sequence",
+        "Size",
+        "Small Movable Object",
+        "Technology Digital"
+      ]
+    }
+  ],
+  "sentence_files": [],
+  "auxiliary_files": []
+}

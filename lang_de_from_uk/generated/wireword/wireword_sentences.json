@@ -1,5 +1,1969 @@
 {
   "language": "de",
-  "sentences": [],
+  "sentences": [
+    {
+      "sentence_id": "S_00001",
+      "translations": {
+        "uk": "Вони йдуть до будинку.",
+        "de": "Sie gehen zum Haus."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/de_3p_present"
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00002",
+      "translations": {
+        "uk": "У неї невеликий будинок.",
+        "de": "Sie hat ein kleines Haus."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_002",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "A01_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00003",
+      "translations": {
+        "uk": "Ми відчиняємо двері будинку.",
+        "de": "Wir öffnen die Tür des Hauses."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_014",
+          "grammatical_form": "verb/de_1p_present"
+        },
+        {
+          "guid": "N47_001",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": "noun/de_genitive_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00004",
+      "translations": {
+        "uk": "Він купив новий будинок.",
+        "de": "Er hat ein neues Haus gekauft."
+      },
+      "linked_words": [
+        {
+          "guid": "A05_035",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00005",
+      "translations": {
+        "uk": "Мій син ходить до школи.",
+        "de": "Mein Sohn geht zur Schule."
+      },
+      "linked_words": [
+        {
+          "guid": "N35_036",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "V12_004",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_002",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": "S_00006",
+      "translations": {
+        "uk": "Вона щодня ходить пішки до школи.",
+        "de": "Sie geht jeden Tag zur Schule."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N25_002",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_002",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00009",
+      "translations": {
+        "uk": "Мій друг працює в лікарні.",
+        "de": "Mein Freund arbeitet im Krankenhaus."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N07_003",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_003",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00010",
+      "translations": {
+        "uk": "Вона пішла до лікарні вчора.",
+        "de": "Sie ging gestern ins Krankenhaus."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_004",
+          "grammatical_form": "verb/de_3s_past"
+        },
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_003",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_003",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": "S_00013",
+      "translations": {
+        "uk": "Я купую хліб у магазині.",
+        "de": "Ich kaufe Brot im Geschäft."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/de_1s_present"
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00014",
+      "translations": {
+        "uk": "Вона знайшла іграшку в магазині.",
+        "de": "Sie fand ein Spielzeug im Geschäft."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_009",
+          "grammatical_form": "verb/de_3s_past"
+        },
+        {
+          "guid": "N08_036",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00015",
+      "translations": {
+        "uk": "Ми закриваємо магазин вночі.",
+        "de": "Wir schließen das Geschäft nachts."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_015",
+          "grammatical_form": "verb/de_1p_present"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N25_003",
+          "grammatical_form": "adverb/de_base"
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00016",
+      "translations": {
+        "uk": "Вони пішли до магазину вчора.",
+        "de": "Sie gingen gestern zum Geschäft."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/de_3p_past"
+        },
+        {
+          "guid": "D03_002",
+          "grammatical_form": "adverb/de_base"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00017",
+      "translations": {
+        "uk": "Сьогодні ми обідаємо в ресторані.",
+        "de": "Wir essen heute im Restaurant."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/de_1p_present"
+        },
+        {
+          "guid": "D03_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_006",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_006",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00020",
+      "translations": {
+        "uk": "Мій друг працює в ресторані.",
+        "de": "Mein Freund arbeitet in einem Restaurant."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N07_006",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_006",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00025",
+      "translations": {
+        "uk": "Сьогодні я йду до банку.",
+        "de": "Ich gehe heute zur Bank."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/de_1s_present"
+        },
+        {
+          "guid": "D03_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_008",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_008",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00028",
+      "translations": {
+        "uk": "Мій друг працює в банку.",
+        "de": "Mein Freund arbeitet bei der Bank."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N07_008",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_008",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00029",
+      "translations": {
+        "uk": "Сьогодні вона піде пішки до бібліотеки.",
+        "de": "Sie geht heute in die Bibliothek."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N07_009",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_009",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00032",
+      "translations": {
+        "uk": "Вони принесли книги до бібліотеки.",
+        "de": "Sie brachten Bücher in die Bibliothek."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_012",
+          "grammatical_form": "verb/de_3p_past"
+        },
+        {
+          "guid": "N08_005",
+          "grammatical_form": "noun/de_accusative_plural"
+        },
+        {
+          "guid": "N07_009",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_009",
+      "minimum_level": 2
+    },
+    {
+      "sentence_id": "S_00033",
+      "translations": {
+        "uk": "Сьогодні ми відвідуємо музей.",
+        "de": "Wir besuchen heute das Museum."
+      },
+      "linked_words": [
+        {
+          "guid": "N07_010",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00034",
+      "translations": {
+        "uk": "Вона йде до музею.",
+        "de": "Sie geht zum Museum."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N07_010",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00035",
+      "translations": {
+        "uk": "Вони побачили картини в музеї.",
+        "de": "Sie sahen Malereien im Museum."
+      },
+      "linked_words": [
+        {
+          "guid": "V10_001",
+          "grammatical_form": "verb/de_3p_past"
+        },
+        {
+          "guid": "N41_004",
+          "grammatical_form": "noun/de_accusative_plural"
+        },
+        {
+          "guid": "N07_010",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00036",
+      "translations": {
+        "uk": "Мій друг працює в музеї.",
+        "de": "Mein Freund arbeitet im Museum."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N07_010",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00037",
+      "translations": {
+        "uk": "Пожежна частина розташована неподалік від школи.",
+        "de": "Die Feuerwache ist nahe der Schule."
+      },
+      "linked_words": [
+        {
+          "guid": "N07_011",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "R99_026",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_011",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00038",
+      "translations": {
+        "uk": "Мій друг працює на пожежній станції.",
+        "de": "Mein Freund arbeitet in der Feuerwache."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N07_011",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_011",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00039",
+      "translations": {
+        "uk": "Вони проїхали повз пожежну частину.",
+        "de": "Sie fuhren an der Feuerwache vorbei."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_002",
+          "grammatical_form": "verb/de_3p_past"
+        },
+        {
+          "guid": "N07_011",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_011",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": "S_00041",
+      "translations": {
+        "uk": "Вона купує свіжий хліб щоранку.",
+        "de": "Sie kauft jeden Morgen frisches Brot."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N25_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A05_109",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_001",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": "S_00042",
+      "translations": {
+        "uk": "Ми їли теплий хліб з маслом.",
+        "de": "Wir aßen warmes Brot mit Butter."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/de_1p_past"
+        },
+        {
+          "guid": "A18_061",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N06_011",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_001",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00044",
+      "translations": {
+        "uk": "Він дав мені шматок хліба.",
+        "de": "Er gab mir ein Stück Brot."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_005",
+          "grammatical_form": "verb/de_3s_past"
+        },
+        {
+          "guid": "N22_016",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": "noun/de_genitive_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_001",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00045",
+      "translations": {
+        "uk": "Вона купує м'ясо на ринку.",
+        "de": "Sie kauft Fleisch auf dem Markt."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N06_007",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_028",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_007",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00046",
+      "translations": {
+        "uk": "Вони їдять м'ясо на вечерю.",
+        "de": "Sie essen Fleisch zum Abendessen."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/de_3p_present"
+        },
+        {
+          "guid": "N06_007",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N06_088",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_007",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00047",
+      "translations": {
+        "uk": "Мій друг не любить м'ясо.",
+        "de": "Mein Freund mag kein Fleisch."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V05_001",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N06_007",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_007",
+      "minimum_level": 5
+    },
+    {
+      "sentence_id": "S_00049",
+      "translations": {
+        "uk": "Вона додає цукор у свій чай.",
+        "de": "Sie fügt ihrem Tee Zucker hinzu."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_055",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N42_003",
+          "grammatical_form": "noun/de_dative_singular"
+        },
+        {
+          "guid": "N06_012",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_012",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": "S_00050",
+      "translations": {
+        "uk": "Ми купили цукор у магазині.",
+        "de": "Wir haben Zucker im Geschäft gekauft."
+      },
+      "linked_words": [
+        {
+          "guid": "N06_012",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/de_dative_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_012",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00052",
+      "translations": {
+        "uk": "Вони хочуть цукор у своїй каві.",
+        "de": "Sie wollen Zucker in ihrem Kaffee."
+      },
+      "linked_words": [
+        {
+          "guid": "V05_004",
+          "grammatical_form": "verb/de_3p_present"
+        },
+        {
+          "guid": "N06_012",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N42_002",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_012",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00053",
+      "translations": {
+        "uk": "Вона посипає м'ясо сіллю.",
+        "de": "Sie legt Salz auf das Fleisch."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N06_007",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00054",
+      "translations": {
+        "uk": "Мені потрібна сіль для супу.",
+        "de": "Ich brauche Salz für die Suppe."
+      },
+      "linked_words": [
+        {
+          "guid": "V04_010",
+          "grammatical_form": "verb/de_1s_present"
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N06_021",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00055",
+      "translations": {
+        "uk": "Вони купили сіль у магазині.",
+        "de": "Sie kauften Salz im Geschäft."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/de_3p_past"
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00056",
+      "translations": {
+        "uk": "Мій друг відчуває солодкий присмак на хлібі.",
+        "de": "Mein Freund schmeckt Salz auf dem Brot."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V10_005",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": "S_00058",
+      "translations": {
+        "uk": "Вони купують картоплю на ринку.",
+        "de": "Sie kaufen Kartoffeln auf dem Markt."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/de_3p_present"
+        },
+        {
+          "guid": "N06_014",
+          "grammatical_form": "noun/de_accusative_plural"
+        },
+        {
+          "guid": "N07_028",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_014",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00061",
+      "translations": {
+        "uk": "Вона їсть яблуко щодня.",
+        "de": "Sie isst jeden Tag einen Apfel."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "T99_017",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N25_002",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N06_015",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_015",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": "S_00062",
+      "translations": {
+        "uk": "Він купив три яблука вчора.",
+        "de": "Er kaufte gestern drei Äpfel."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/de_3s_past"
+        },
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "Z01_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_015",
+          "grammatical_form": "noun/de_accusative_plural"
+        }
+      ],
+      "source": "buivolas_guided_N06_015",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": "S_00063",
+      "translations": {
+        "uk": "Мій друг дав мені яблуко.",
+        "de": "Mein Freund hat mir einen Apfel gegeben."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "N06_015",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "V06_005",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_015",
+      "minimum_level": 5
+    },
+    {
+      "sentence_id": "S_00065",
+      "translations": {
+        "uk": "Я кожного ранку їм банан.",
+        "de": "Ich esse jeden Morgen eine Banane."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/de_1s_present"
+        },
+        {
+          "guid": "N25_004",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N06_016",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_016",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00068",
+      "translations": {
+        "uk": "Ми купили банани на ринку.",
+        "de": "Wir haben Bananen auf dem Markt gekauft."
+      },
+      "linked_words": [
+        {
+          "guid": "N06_016",
+          "grammatical_form": "noun/de_accusative_plural"
+        },
+        {
+          "guid": "N07_028",
+          "grammatical_form": "noun/de_dative_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_016",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00069",
+      "translations": {
+        "uk": "Вона їсть свіжий помідор.",
+        "de": "Sie isst eine frische Tomate."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "A05_109",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_018",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_018",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00070",
+      "translations": {
+        "uk": "Ми купили помідори на ринку.",
+        "de": "Wir haben Tomaten auf dem Markt gekauft."
+      },
+      "linked_words": [
+        {
+          "guid": "N06_018",
+          "grammatical_form": "noun/de_accusative_plural"
+        },
+        {
+          "guid": "N07_028",
+          "grammatical_form": "noun/de_dative_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_018",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00071",
+      "translations": {
+        "uk": "Він кладе помідор у салат.",
+        "de": "Er legt eine Tomate in den Salat."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N06_018",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_028",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_018",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00073",
+      "translations": {
+        "uk": "Вона їсть рис щодня.",
+        "de": "Sie isst jeden Tag Reis."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N25_002",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N06_020",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_020",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00075",
+      "translations": {
+        "uk": "Мій друг хоче більше рису.",
+        "de": "Mein Freund will mehr Reis."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "V05_004",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N06_020",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_020",
+      "minimum_level": 5
+    },
+    {
+      "sentence_id": "S_00079",
+      "translations": {
+        "uk": "Вони купили томатний суп на обід.",
+        "de": "Sie kauften Tomatensuppe zum Mittagessen."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/de_3p_past"
+        },
+        {
+          "guid": "N06_021",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N06_087",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_021",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00080",
+      "translations": {
+        "uk": "Мій друг їв суп з хлібом.",
+        "de": "Mein Freund aß Suppe mit Brot."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/de_3s_past"
+        },
+        {
+          "guid": "N06_021",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_021",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00081",
+      "translations": {
+        "uk": "Я купую продукти на ринку.",
+        "de": "Ich kaufe auf dem Markt Essen."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/de_1s_present"
+        },
+        {
+          "guid": "N07_028",
+          "grammatical_form": "noun/de_dative_singular"
+        },
+        {
+          "guid": "N06_092",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_092",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00083",
+      "translations": {
+        "uk": "У їхніх сумках є їжа.",
+        "de": "Sie haben Essen in ihren Taschen."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_002",
+          "grammatical_form": "verb/de_3p_present"
+        },
+        {
+          "guid": "N06_092",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N08_009",
+          "grammatical_form": "noun/de_dative_plural"
+        }
+      ],
+      "source": "buivolas_guided_N06_092",
+      "minimum_level": 2
+    },
+    {
+      "sentence_id": "S_00084",
+      "translations": {
+        "uk": "Вам подобається ця їжа?",
+        "de": "Magst du dieses Essen?"
+      },
+      "linked_words": [
+        {
+          "guid": "V05_001",
+          "grammatical_form": "verb/de_2s_present"
+        },
+        {
+          "guid": "N06_092",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_092",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00085",
+      "translations": {
+        "uk": "Сьогодні він одягнений у чисту сорочку.",
+        "de": "Er trägt heute ein sauberes Hemd."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "A18_027",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_001",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_001",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00086",
+      "translations": {
+        "uk": "Вона купила синю сорочку.",
+        "de": "Sie kaufte ein blaues Hemd."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/de_3s_past"
+        },
+        {
+          "guid": "A02_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_001",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_001",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00088",
+      "translations": {
+        "uk": "Вони знайшли брудну сорочку.",
+        "de": "Sie fanden ein schmutziges Hemd."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_009",
+          "grammatical_form": "verb/de_3p_past"
+        },
+        {
+          "guid": "A18_070",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_001",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_001",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00089",
+      "translations": {
+        "uk": "Вчора я купив нові штани.",
+        "de": "Ich habe gestern eine neue Hose gekauft."
+      },
+      "linked_words": [
+        {
+          "guid": "A05_035",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_002",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00091",
+      "translations": {
+        "uk": "Мій друг знайшов мокрі штани.",
+        "de": "Mein Freund hat nasse Hosen gefunden."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "A18_011",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_002",
+          "grammatical_form": "noun/de_accusative_plural"
+        },
+        {
+          "guid": "V01_009",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_002",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_00092",
+      "translations": {
+        "uk": "Чи у них є чисті штани?",
+        "de": "Haben sie saubere Hosen?"
+      },
+      "linked_words": [
+        {
+          "guid": "V06_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A18_027",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_002",
+          "grammatical_form": "noun/de_accusative_plural"
+        }
+      ],
+      "source": "buivolas_guided_N09_002",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00093",
+      "translations": {
+        "uk": "Сьогодні вона одягнена в червону сукню.",
+        "de": "Sie trägt heute ein rotes Kleid."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "A02_003",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_003",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_003",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00094",
+      "translations": {
+        "uk": "Мій друг купила синє плаття.",
+        "de": "Mein Freund hat ein blaues Kleid gekauft."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "A02_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_003",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_003",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00095",
+      "translations": {
+        "uk": "Вони бачать сукню в магазині.",
+        "de": "Sie sehen das Kleid im Geschäft."
+      },
+      "linked_words": [
+        {
+          "guid": "V10_001",
+          "grammatical_form": "verb/de_3p_present"
+        },
+        {
+          "guid": "N09_003",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/de_dative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_003",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00097",
+      "translations": {
+        "uk": "Сьогодні він одягнений у теплу куртку.",
+        "de": "Er trägt heute eine warme Jacke."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "A18_061",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_005",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_005",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00098",
+      "translations": {
+        "uk": "Вона купила нову куртку вчора.",
+        "de": "Sie hat gestern eine neue Jacke gekauft."
+      },
+      "linked_words": [
+        {
+          "guid": "A05_035",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_005",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_005",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00100",
+      "translations": {
+        "uk": "Вони винесли мокру куртку на вулицю.",
+        "de": "Sie legten die nasse Jacke draußen."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/de_3p_past"
+        },
+        {
+          "guid": "A18_011",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_005",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "D07_032",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_005",
+      "minimum_level": 9
+    },
+    {
+      "sentence_id": "S_00101",
+      "translations": {
+        "uk": "Моє взуття лежить біля дверей.",
+        "de": "Mein Schuh ist an der Tür."
+      },
+      "linked_words": [
+        {
+          "guid": "N09_006",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "N47_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_006",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": "S_00102",
+      "translations": {
+        "uk": "Вона купила нове взуття.",
+        "de": "Sie kaufte einen neuen Schuh."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/de_3s_past"
+        },
+        {
+          "guid": "N09_006",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_006",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00103",
+      "translations": {
+        "uk": "Він втратив одне взуття, коли був зовні.",
+        "de": "Er hat einen Schuh draußen verloren."
+      },
+      "linked_words": [
+        {
+          "guid": "N09_006",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "D07_032",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_045",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_006",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": "S_00104",
+      "translations": {
+        "uk": "Вони носять однакове взуття.",
+        "de": "Sie tragen dieselben Schuhe."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/de_3p_present"
+        },
+        {
+          "guid": "N09_006",
+          "grammatical_form": "noun/de_accusative_plural"
+        }
+      ],
+      "source": "buivolas_guided_N09_006",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00106",
+      "translations": {
+        "uk": "Вона загубила один синій шкарпеток.",
+        "de": "Sie hat eine blaue Socke verloren."
+      },
+      "linked_words": [
+        {
+          "guid": "Z01_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A02_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_007",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "V01_045",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_007",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": "S_00107",
+      "translations": {
+        "uk": "Вони знайшли мокрий шкарпеток.",
+        "de": "Sie fanden eine nasse Socke"
+      },
+      "linked_words": [
+        {
+          "guid": "V01_009",
+          "grammatical_form": "verb/de_3p_past"
+        },
+        {
+          "guid": "A18_011",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_007",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_007",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_00108",
+      "translations": {
+        "uk": "Він одягнув чисті шкарпетки.",
+        "de": "Er zog saubere Socken an."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/de_3s_past"
+        },
+        {
+          "guid": "A18_027",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_007",
+          "grammatical_form": "noun/de_nominative_plural"
+        }
+      ],
+      "source": "buivolas_guided_N09_007",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00109",
+      "translations": {
+        "uk": "Сьогодні вона одягнена в чорний капелюх.",
+        "de": "Sie trägt heute einen schwarzen Hut."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "A02_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_008",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_008",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00110",
+      "translations": {
+        "uk": "Він зняв капелюх.",
+        "de": "Er nahm seinen Hut ab."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_006",
+          "grammatical_form": "verb/de_3s_past"
+        },
+        {
+          "guid": "N09_008",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_008",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00112",
+      "translations": {
+        "uk": "Ви хочете мою теплу шапку?",
+        "de": "Willst du meinen warmen Hut?"
+      },
+      "linked_words": [
+        {
+          "guid": "V05_004",
+          "grammatical_form": "verb/de_2s_present"
+        },
+        {
+          "guid": "A18_061",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_008",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_008",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00113",
+      "translations": {
+        "uk": "Вона одягає рукавичку.",
+        "de": "Sie zieht einen Handschuh an."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "N09_009",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_009",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00115",
+      "translations": {
+        "uk": "Мій друг купив теплі рукавички.",
+        "de": "Mein Freund hat warme Handschuhe gekauft."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "A18_061",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_009",
+          "grammatical_form": "noun/de_accusative_plural"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_009",
+      "minimum_level": 5
+    },
+    {
+      "sentence_id": "S_00116",
+      "translations": {
+        "uk": "У вас є рукавичка?",
+        "de": "Hast du einen Handschuh?"
+      },
+      "linked_words": [
+        {
+          "guid": "V06_002",
+          "grammatical_form": "verb/de_2s_present"
+        },
+        {
+          "guid": "Z01_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_009",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_009",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": "S_00117",
+      "translations": {
+        "uk": "Сьогодні вона одягнена у синій светр.",
+        "de": "Sie trägt heute einen blauen Pullover."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "A02_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_011",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_011",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00118",
+      "translations": {
+        "uk": "Мій друг купив светр вчора.",
+        "de": "Mein Freund hat gestern einen Pullover gekauft."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/de_nominative_singular"
+        },
+        {
+          "guid": "N09_011",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_011",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00119",
+      "translations": {
+        "uk": "Вони поклали светр на стілець.",
+        "de": "Sie legten den Pullover auf den Stuhl."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/de_3p_past"
+        },
+        {
+          "guid": "N09_011",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N39_001",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_011",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00121",
+      "translations": {
+        "uk": "Мені потрібна чиста білизна сьогодні.",
+        "de": "Ich brauche heute saubere Unterwäsche."
+      },
+      "linked_words": [
+        {
+          "guid": "V04_010",
+          "grammatical_form": "verb/de_1s_present"
+        },
+        {
+          "guid": "D03_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A18_027",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_012",
+          "grammatical_form": "noun/de_accusative_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_012",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": "S_00122",
+      "translations": {
+        "uk": "Вона купила нову білизну вчора.",
+        "de": "Sie hat gestern neue Unterwäsche gekauft."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/de_3s_present"
+        },
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_012",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_012",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": "S_00124",
+      "translations": {
+        "uk": "Вони носять нижню білизну під сорочками.",
+        "de": "Sie tragen Unterwäsche unter ihren Hemden."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/de_3p_present"
+        },
+        {
+          "guid": "N09_012",
+          "grammatical_form": "noun/de_accusative_singular"
+        },
+        {
+          "guid": "N09_001",
+          "grammatical_form": "noun/de_dative_plural"
+        }
+      ],
+      "source": "buivolas_guided_N09_012",
+      "minimum_level": 1
+    }
+  ],
   "source_language": "uk"
 }

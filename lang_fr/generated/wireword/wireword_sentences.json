@@ -3622,6 +3622,25 @@
       "minimum_level": 5
     },
     {
+      "sentence_id": "S_00234",
+      "translations": {
+        "en": "We saw a pig at the fair.",
+        "fr": "Nous avons vu un cochon à la foire."
+      },
+      "linked_words": [
+        {
+          "guid": "V10_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N02_006",
+          "grammatical_form": "noun/fr_singular"
+        }
+      ],
+      "source": "buivolas_guided_N02_006",
+      "minimum_level": 3
+    },
+    {
       "sentence_id": "S_00239",
       "translations": {
         "en": "We saw chickens near the farm.",

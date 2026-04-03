@@ -1,0 +1,301 @@
+{
+  "version": 1,
+  "language": "french",
+  "language_code": "fr",
+  "generated_at": "2026-04-02T22:15:39Z",
+  "source_language": "bengali",
+  "source_language_code": "bn",
+  "config": {
+    "audio_prefix": "/staging",
+    "available_voices": [
+      "marie",
+      "pierre"
+    ],
+    "default_voice": "marie",
+    "grammar": {
+      "conjugation": {
+        "tenses": [
+          {
+            "id": "past",
+            "label": "Passé composé",
+            "order": 1,
+            "has_persons": true,
+            "person_slots": [
+              "1s",
+              "2s",
+              "3s",
+              "1p",
+              "2p",
+              "3p"
+            ],
+            "description": "Primary spoken past tense (composed form)."
+          },
+          {
+            "id": "pres",
+            "label": "Présent",
+            "order": 2,
+            "has_persons": true,
+            "person_slots": [
+              "1s",
+              "2s",
+              "3s",
+              "1p",
+              "2p",
+              "3p"
+            ],
+            "description": "Present indicative conjugations."
+          },
+          {
+            "id": "fut",
+            "label": "Futur simple",
+            "order": 3,
+            "has_persons": true,
+            "person_slots": [
+              "1s",
+              "2s",
+              "3s",
+              "1p",
+              "2p",
+              "3p"
+            ],
+            "description": "Simple future conjugations."
+          },
+          {
+            "id": "impf",
+            "label": "Imparfait",
+            "order": 4,
+            "has_persons": true,
+            "person_slots": [
+              "1s",
+              "2s",
+              "3s",
+              "1p",
+              "2p",
+              "3p"
+            ],
+            "description": "Imperfect past for habitual or ongoing actions."
+          }
+        ],
+        "person_labels": {
+          "1s": "je",
+          "2s": "tu",
+          "3s": "il/elle/on",
+          "1p": "nous",
+          "2p": "vous",
+          "3p": "ils/elles"
+        }
+      }
+    }
+  },
+  "word_files": [
+    {
+      "id": "levels_1_5",
+      "filename": "wireword_levels_1_5.json",
+      "display_name": "Levels 1-5",
+      "type": "words",
+      "md5": "4deee66c3380002cb45eddf89d1f025a",
+      "levels": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "required": true,
+      "word_count": 186,
+      "groups": [
+        "Animals",
+        "Body Part",
+        "Building/Structure",
+        "Cardinal",
+        "Clothing/Accessory",
+        "Color",
+        "Communication",
+        "Directional Movement",
+        "Emotion",
+        "Food",
+        "Humans",
+        "Interjection Other",
+        "Occupation",
+        "Perception",
+        "Physical Action",
+        "Possession",
+        "Shape",
+        "Small Movable Object",
+        "Specific Time",
+        "Vehicle"
+      ]
+    },
+    {
+      "id": "levels_6_10",
+      "filename": "wireword_levels_6_10.json",
+      "display_name": "Levels 6-10",
+      "type": "words",
+      "md5": "394434804ff2137aba0bde674a049726",
+      "levels": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "required": true,
+      "word_count": 255,
+      "groups": [
+        "Animals",
+        "Beverage",
+        "Body Part",
+        "Building Part",
+        "Building/Structure",
+        "Change",
+        "Clothing/Accessory",
+        "Communication",
+        "Conjunction Other",
+        "Country",
+        "Directional Movement",
+        "Electronic Device",
+        "Emotion",
+        "Emotional State",
+        "Existence",
+        "Food",
+        "Furniture",
+        "Location",
+        "Material/Substance",
+        "Mental State",
+        "Nationality",
+        "Ordinal",
+        "Personal Quality",
+        "Physical Action",
+        "Physical Property",
+        "Plant Part",
+        "Plants",
+        "Possession",
+        "Preposition Other",
+        "Pronoun Other",
+        "Quality",
+        "Sequence",
+        "Size",
+        "Small Movable Object",
+        "Technology Digital"
+      ]
+    },
+    {
+      "id": "levels_11_15",
+      "filename": "wireword_levels_11_15.json",
+      "display_name": "Levels 11-15",
+      "type": "words",
+      "md5": "30b78344590ec0047ce832cf2b983528",
+      "levels": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "required": true,
+      "word_count": 340,
+      "groups": [
+        "Activity",
+        "Animals",
+        "Appliance",
+        "Body Part",
+        "Building Part",
+        "Building/Structure",
+        "City",
+        "Clothing/Accessory",
+        "Communication",
+        "Country",
+        "Directional Movement",
+        "Emotion/Feeling",
+        "Emotional State",
+        "Food",
+        "Mental State",
+        "Nationality",
+        "Natural Feature",
+        "Occupation",
+        "Physical Action",
+        "Physical Property",
+        "Place Name",
+        "Plant Part",
+        "Plants",
+        "Quality",
+        "Small Movable Object",
+        "Style",
+        "Temporal Name",
+        "Time Period"
+      ]
+    },
+    {
+      "id": "levels_16_20",
+      "filename": "wireword_levels_16_20.json",
+      "display_name": "Levels 16-20",
+      "type": "words",
+      "md5": "a9e0bd32d68b22caa7f06980227c562b",
+      "levels": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "required": true,
+      "word_count": 482,
+      "groups": [
+        "Abstract Condition",
+        "Activity",
+        "Animals",
+        "Body Part",
+        "Building Part",
+        "Building/Structure",
+        "Change",
+        "Chemical Compound",
+        "Communication",
+        "Communication Information",
+        "Concept/Idea",
+        "Conjunction Other",
+        "Directional Movement",
+        "Disease/Condition",
+        "Emotion/Feeling",
+        "Emotional State",
+        "Existence",
+        "Group of People",
+        "Humans",
+        "Intensity",
+        "Location",
+        "Material/Substance",
+        "Mental Construct",
+        "Mental State",
+        "Natural Feature",
+        "Path/Infrastructure",
+        "Perception",
+        "Personal Quality",
+        "Physical Action",
+        "Plants",
+        "Preposition Other",
+        "Process/Event",
+        "Quality",
+        "Quantitative Concept",
+        "Relative Time",
+        "Shape",
+        "Small Movable Object",
+        "Social Institution",
+        "Style",
+        "Temporal Name",
+        "Tool",
+        "Vehicle"
+      ]
+    }
+  ],
+  "sentence_files": [
+    {
+      "id": "sentences",
+      "filename": "wireword_sentences.json",
+      "display_name": "Practice Sentences",
+      "description": "Sentences for context-based learning",
+      "type": "sentences",
+      "md5": "8a2b3d391f1d33a0a055a592706eb7fb",
+      "required": false
+    }
+  ],
+  "auxiliary_files": []
+}

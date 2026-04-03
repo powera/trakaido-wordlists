@@ -2,9 +2,189 @@
   "language": "pt",
   "sentences": [
     {
+      "sentence_id": "S_00001",
+      "translations": {
+        "kn": "ಅವರು ಮನೆಯತ್ತ ನಡೆದುಕೊಂಡು ಹೋಗುತ್ತಾರೆ.",
+        "pt": "Eles andam até a casa."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/pt_3p_present"
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00002",
+      "translations": {
+        "kn": "ಅವರಿಗೆ ಒಂದು ಚಿಕ್ಕ ಮನೆ ಇದೆ.",
+        "pt": "Ela tem uma casa pequena."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_002",
+          "grammatical_form": "verb/pt_3s_present"
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A01_002",
+          "grammatical_form": "adjective/pt_singular_f"
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00003",
+      "translations": {
+        "kn": "ನಾವು ಮನೆಯ ಬಾಗಿಲು ತೆರೆಯುತ್ತೇವೆ.",
+        "pt": "Abrimos a porta da casa."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_014",
+          "grammatical_form": "verb/pt_1p_present"
+        },
+        {
+          "guid": "N47_001",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00004",
+      "translations": {
+        "kn": "ಅವರು ಒಂದು ಹೊಸ ಮನೆಯನ್ನು ಖರೀದಿಸಿದರು.",
+        "pt": "Ele comprou uma casa nova."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/pt_3s_past"
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": "adjective/pt_singular_f"
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00005",
+      "translations": {
+        "kn": "ನನ್ನ ಮಗ ಶಾಲೆಗೆ ಹೋಗುತ್ತಾನೆ.",
+        "pt": "Meu filho vai à escola."
+      },
+      "linked_words": [
+        {
+          "guid": "N35_036",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "V12_004",
+          "grammatical_form": "verb/pt_3s_present"
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_002",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": "S_00006",
+      "translations": {
+        "kn": "ಅವರು ಪ್ರತಿದಿನ ಶಾಲೆಗೆ ನಡೆದುಕೊಂಡು ಹೋಗುತ್ತಾರೆ.",
+        "pt": "Ela anda para a escola todos os dias."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/pt_3s_present"
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "N25_002",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_002",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00009",
+      "translations": {
+        "kn": "ನನ್ನ ಸ್ನೇಹಿತರು ಆಸ್ಪತ್ರೆಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದಾರೆ.",
+        "pt": "Meu amigo trabalha no hospital."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": "verb/pt_3s_present"
+        },
+        {
+          "guid": "N07_003",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_003",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00010",
+      "translations": {
+        "kn": "ಅವರು ನಿನ್ನೆ ಆಸ್ಪತ್ರೆಗೆ ಹೋಗಿದ್ದರು.",
+        "pt": "Ela foi ao hospital ontem."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_004",
+          "grammatical_form": "verb/pt_3s_past"
+        },
+        {
+          "guid": "N07_003",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_003",
+      "minimum_level": 4
+    },
+    {
       "sentence_id": "S_00013",
       "translations": {
-        "kn": "ನಾನು ಅಂಗಡಿಯಲ್ಲಿ ರೊಟ್ಟೆ ಕೊಳ್ಳುತ್ತೇನೆ.",
+        "kn": "ನಾನು ಅಂಗಡಿಯಲ್ಲಿ ಬ್ರೆಡ್ ಖರೀದಿಸುತ್ತೇನೆ.",
         "pt": "Compro pão na loja."
       },
       "linked_words": [
@@ -22,6 +202,1758 @@
         }
       ],
       "source": "buivolas_guided_N07_005",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00014",
+      "translations": {
+        "kn": "ಅವರು ಆ ಅಂಗಡಿಯಲ್ಲಿ ಒಂದು ಆಟಿಕೆಯ ವಸ್ತು ಕಂಡುಹಿಡಿದರು.",
+        "pt": "Ela encontrou um brinquedo na loja."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_009",
+          "grammatical_form": "verb/pt_3s_past"
+        },
+        {
+          "guid": "N08_036",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00015",
+      "translations": {
+        "kn": "ನಾವು ರಾತ್ರಿ ವೇಳೆ ಅಂಗಡಿಯನ್ನು ಮುಚ್ಚುತ್ತೇವೆ.",
+        "pt": "Fechamos a loja à noite."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_015",
+          "grammatical_form": "verb/pt_1p_present"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N25_003",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00016",
+      "translations": {
+        "kn": "ಅವರು ನಿನ್ನೆ ಅಂಗಡಿಗೆ ನಡೆದುಕೊಂಡು ಹೋದರು.",
+        "pt": "Eles andaram até a loja ontem."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/pt_3p_past"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "D03_002",
+          "grammatical_form": "adverb/pt_base"
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00017",
+      "translations": {
+        "kn": "ನಾವು ಇಂದು ಆ ರೆಸ್ಟೋರೆಂಟ್‌ನಲ್ಲಿ ತಿನ್ನುತ್ತೇವೆ.",
+        "pt": "Comemos no restaurante hoje."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/pt_1p_present"
+        },
+        {
+          "guid": "N07_006",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "D03_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_006",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00020",
+      "translations": {
+        "kn": "ನನ್ನ ಸ್ನೇಹಿತರು ಒಂದು ಹೋಟೆಲ್‌ನಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದಾರೆ.",
+        "pt": "Meu amigo trabalha em um restaurante."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": "verb/pt_3s_present"
+        },
+        {
+          "guid": "N07_006",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_006",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00025",
+      "translations": {
+        "kn": "ನಾನು ಇಂದು ಬ್ಯಾಂಕ್‌ಗೆ ಹೋಗಲು ನಡೆದುಕೊಂಡು ಹೋಗುತ್ತಿದ್ದೇನೆ.",
+        "pt": "Vou ao banco hoje."
+      },
+      "linked_words": [
+        {
+          "guid": "N07_008",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "D03_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_008",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00028",
+      "translations": {
+        "kn": "ನನ್ನ ಸ್ನೇಹಿತರು ಒಂದು ಬ್ಯಾಂಕಿನಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದಾರೆ.",
+        "pt": "Meu amigo trabalha no banco."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": "verb/pt_3s_present"
+        },
+        {
+          "guid": "N07_008",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_008",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00029",
+      "translations": {
+        "kn": "ಅವಳು ಇಂದು ಗ್ರಂಥಾಲಯಕ್ಕೆ ಹೋಗಲು ಹೊರಟಿದ್ದಾಳೆ.",
+        "pt": "Ela caminha para a biblioteca hoje."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/pt_3s_present"
+        },
+        {
+          "guid": "N07_009",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_009",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00032",
+      "translations": {
+        "kn": "ಅವರು ಪುಸ್ತಕಗಳನ್ನು ಗ್ರಂಥಾಲಯಕ್ಕೆ ತಂದರು.",
+        "pt": "Eles trouxeram livros para a biblioteca."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_012",
+          "grammatical_form": "verb/pt_3p_past"
+        },
+        {
+          "guid": "N08_005",
+          "grammatical_form": "noun/pt_plural"
+        },
+        {
+          "guid": "N07_009",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_009",
+      "minimum_level": 2
+    },
+    {
+      "sentence_id": "S_00033",
+      "translations": {
+        "kn": "ನಾವು ಇಂದು ವಸ್ತುಸಂಗ್ರಹಾಲಯಕ್ಕೆ ಭೇಟಿ ನೀಡುತ್ತಿದ್ದೇವೆ.",
+        "pt": "Nós visitamos o museu hoje."
+      },
+      "linked_words": [
+        {
+          "guid": "N07_010",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00034",
+      "translations": {
+        "kn": "ಅವರು ವಸ್ತುಸಂಗ್ರಹಾಲಯಕ್ಕೆ ನಡೆದುಕೊಂಡು ಹೋಗುತ್ತಾರೆ.",
+        "pt": "Ela anda até o museu."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/pt_3s_present"
+        },
+        {
+          "guid": "N07_010",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00035",
+      "translations": {
+        "kn": "ಅವರು ವಸ್ತುಸಂಗ್ರಹಾಲಯದಲ್ಲಿ ಚಿತ್ರಗಳನ್ನು ನೋಡಿದರು.",
+        "pt": "Eles viram pinturas no museu."
+      },
+      "linked_words": [
+        {
+          "guid": "V10_001",
+          "grammatical_form": "verb/pt_3p_past"
+        },
+        {
+          "guid": "N41_004",
+          "grammatical_form": "noun/pt_plural"
+        },
+        {
+          "guid": "N07_010",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00036",
+      "translations": {
+        "kn": "ನನ್ನ ಸ್ನೇಹಿತರು ವಸ್ತುಸಂಗ್ರಹಾಲಯದಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದಾರೆ.",
+        "pt": "Meu amigo trabalha no museu."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": "verb/pt_3s_present"
+        },
+        {
+          "guid": "N07_010",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00037",
+      "translations": {
+        "kn": "ಅಗ್ನಿಶಾಮಕ ಕೇಂದ್ರವು ಶಾಲೆಯ ಸಮೀಪದಲ್ಲಿದೆ.",
+        "pt": "O quartel de bombeiros está perto da escola."
+      },
+      "linked_words": [
+        {
+          "guid": "N07_011",
+          "grammatical_form": null
+        },
+        {
+          "guid": "R99_026",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_011",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00038",
+      "translations": {
+        "kn": "ನನ್ನ ಸ್ನೇಹಿತರು ಅಗ್ನಿಶಾಮಕ ಕೇಂದ್ರದಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದಾರೆ.",
+        "pt": "Meu amigo trabalha no quartel de bombeiros."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": "verb/pt_3s_present"
+        },
+        {
+          "guid": "N07_011",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_011",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00039",
+      "translations": {
+        "kn": "ಅವರು ಅಗ್ನಿಶಾಮಕ ದಳದ ಕೇಂದ್ರವನ್ನು ದಾಟಿ ಕಾರನ್ನು ಚಾಲನೆ ಮಾಡಿದರು.",
+        "pt": "Eles dirigiram pelo quartel de bombeiros."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_002",
+          "grammatical_form": "verb/pt_3p_past"
+        },
+        {
+          "guid": "N07_011",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_011",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": "S_00041",
+      "translations": {
+        "kn": "ಅವರು ಪ್ರತಿದಿನ ಬೆಳಿಗ್ಗೆ ಹೊಸ ಬ್ರೆಡ್ ಖರೀದಿಸುತ್ತಾರೆ.",
+        "pt": "Ela compra pão fresco todas as manhãs."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/pt_3s_present"
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "A05_109",
+          "grammatical_form": "adjective/pt_singular_m"
+        },
+        {
+          "guid": "N25_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_001",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": "S_00042",
+      "translations": {
+        "kn": "ನಾವು ಬೆಣ್ಣೆಯನ್ನು ಹಾಕಿ, ಬಿಸಿಯಾದ ಬ್ರೆಡ್ ಅನ್ನು ತಿನ್ನಿದ್ದೇವೆ.",
+        "pt": "Comemos pão quente com manteiga."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/pt_1p_past"
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "A18_061",
+          "grammatical_form": "adjective/pt_singular_m"
+        },
+        {
+          "guid": "N06_011",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_001",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00044",
+      "translations": {
+        "kn": "ಅವರು ನನಗೆ ಒಂದು ತುಂಡು ಬ್ರೆಡ್ ಕೊಟ್ಟರು.",
+        "pt": "Ele me deu um pedaço de pão."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_005",
+          "grammatical_form": "verb/pt_3s_past"
+        },
+        {
+          "guid": "N22_016",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_001",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00045",
+      "translations": {
+        "kn": "ಅವರು ಮಾರುಕಟ್ಟೆಯಿಂದ ಮಾಂಸ ಖರೀದಿಸುತ್ತಾರೆ.",
+        "pt": "Ela compra carne no mercado."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/pt_3s_present"
+        },
+        {
+          "guid": "N06_007",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "N07_028",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_007",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00046",
+      "translations": {
+        "kn": "ಅವರು ರಾತ್ರಿಯ ಭೋಜನದಲ್ಲಿ ಮಾಂಸವನ್ನು ತಿನ್ನುತ್ತಾರೆ.",
+        "pt": "Eles comem carne no jantar."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/pt_3p_present"
+        },
+        {
+          "guid": "N06_007",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_088",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_007",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00047",
+      "translations": {
+        "kn": "ನನ್ನ ಸ್ನೇಹಿತರು ಮಾಂಸವನ್ನು ಇಷ್ಟಪಡುವುದಿಲ್ಲ.",
+        "pt": "Meu amigo não gosta de carne."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "V05_001",
+          "grammatical_form": "verb/pt_3s_present"
+        },
+        {
+          "guid": "N06_007",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_007",
+      "minimum_level": 5
+    },
+    {
+      "sentence_id": "S_00049",
+      "translations": {
+        "kn": "ಅವರು ತಮ್ಮ ಚಹಾದಲ್ಲಿ ಸಕ್ಕರೆನ್ನುತ್ತಾರೆ.",
+        "pt": "Ela adiciona açúcar ao seu chá."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_055",
+          "grammatical_form": "verb/pt_3s_present"
+        },
+        {
+          "guid": "N06_012",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "N42_003",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_012",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": "S_00050",
+      "translations": {
+        "kn": "ನಾವೇ ಅಂಗಡಿಯಲ್ಲಿ ಸಕ್ಕರೆ ಖರೀದಿಸಿದೆವು.",
+        "pt": "Compramos açúcar na loja."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/pt_1p_past"
+        },
+        {
+          "guid": "N06_012",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_012",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00052",
+      "translations": {
+        "kn": "ಅವರು ತಮ್ಮ ಕಾಫಿಯಲ್ಲಿ ಸಕ್ಕರೆ ಹಾಕಲು ಬಯಸುತ್ತಾರೆ.",
+        "pt": "Eles querem açúcar no café deles."
+      },
+      "linked_words": [
+        {
+          "guid": "V05_004",
+          "grammatical_form": "verb/pt_3p_present"
+        },
+        {
+          "guid": "N06_012",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "N42_002",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_012",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00053",
+      "translations": {
+        "kn": "ಅವರು ಆ ಮಾಂಸದ ಮೇಲೆ ಉಪ್ಪು ಹಾಕುತ್ತಾರೆ.",
+        "pt": "Ela põe sal na carne."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/pt_3s_present"
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "N06_007",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00054",
+      "translations": {
+        "kn": "ನನಗೆ ಸೂಪ್ ಮಾಡಲು ಉಪ್ಪು ಬೇಕು.",
+        "pt": "Preciso de sal para a sopa."
+      },
+      "linked_words": [
+        {
+          "guid": "V04_010",
+          "grammatical_form": "verb/pt_1s_present"
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "N06_021",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00055",
+      "translations": {
+        "kn": "ಅವರು ಅಂಗಡಿಯಿಂದ ಉಪ್ಪು ಖರೀದಿಸಿದರು.",
+        "pt": "Eles compraram sal na loja."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/pt_3p_past"
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00056",
+      "translations": {
+        "kn": "ನನ್ನ ಸ್ನೇಹಿತರು ಬ್ರೆಡ್‌ನಲ್ಲಿ ಉಪ್ಪನ್ನು ತಿಂದಿದ್ದಾರೆ.",
+        "pt": "Meu amigo prova sal no pão."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V10_005",
+          "grammatical_form": "verb/pt_3s_present"
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": "S_00058",
+      "translations": {
+        "kn": "ಅವರು ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಆಲೂಗಡ್ಡೆಗಳನ್ನು ಖರೀದಿಸುತ್ತಾರೆ.",
+        "pt": "Eles compram batatas no mercado."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/pt_3p_present"
+        },
+        {
+          "guid": "N06_014",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_028",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_014",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00061",
+      "translations": {
+        "kn": "ಅವರು ಪ್ರತಿದಿನ ಒಂದು ಸೇಬು ತಿನ್ನುತ್ತಾರೆ.",
+        "pt": "Ela come uma maçã todo dia."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/pt_3s_present"
+        },
+        {
+          "guid": "N06_015",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "T99_017",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N25_002",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_015",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": "S_00062",
+      "translations": {
+        "kn": "ಅವರು ನಿನ್ನೆ ಮೂರು ಸೇಬುಗಳನ್ನು ಖರೀದಿಸಿದರು.",
+        "pt": "Ele comprou três maçãs ontem."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/pt_3s_past"
+        },
+        {
+          "guid": "Z01_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_015",
+          "grammatical_form": "noun/pt_plural"
+        },
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_015",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": "S_00063",
+      "translations": {
+        "kn": "ನನ್ನ ಸ್ನೇಹಿತರು ನನಗೆ ಒಂದು ಸೇಬು ಕೊಟ್ಟರು.",
+        "pt": "Meu amigo me deu uma maçã."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_005",
+          "grammatical_form": "verb/pt_3s_past"
+        },
+        {
+          "guid": "N06_015",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_015",
+      "minimum_level": 5
+    },
+    {
+      "sentence_id": "S_00065",
+      "translations": {
+        "kn": "ನಾನು ಪ್ರತಿದಿನ ಬೆಳಗಿನ ಸಮಯದಲ್ಲಿ ಒಂದು ಬಾಳೆಹಣ್ಣನ್ನು ತಿನ್ನುುತ್ತೇನೆ.",
+        "pt": "Eu como uma banana todas as manhãs."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/pt_1s_present"
+        },
+        {
+          "guid": "N06_016",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "N25_004",
+          "grammatical_form": "noun/pt_plural"
+        }
+      ],
+      "source": "buivolas_guided_N06_016",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00068",
+      "translations": {
+        "kn": "ನಾವು ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಬಾಳೆಹಣ್ಣುಗಳನ್ನು ಖರೀದಿಸಿದೆವು.",
+        "pt": "Compramos bananas no mercado."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/pt_1p_past"
+        },
+        {
+          "guid": "N06_016",
+          "grammatical_form": "noun/pt_plural"
+        },
+        {
+          "guid": "N07_028",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_016",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00069",
+      "translations": {
+        "kn": "ಅವಳು ಒಂದು ತಾಜಾ ಟೊಮೆಟೊವನ್ನು ತಿನ್ನುತ್ತಾಳೆ.",
+        "pt": "Ela come um tomate fresco."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/pt_3s_present"
+        },
+        {
+          "guid": "N06_018",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "A05_109",
+          "grammatical_form": "adjective/pt_singular_m"
+        }
+      ],
+      "source": "buivolas_guided_N06_018",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00070",
+      "translations": {
+        "kn": "ನಾವು ಮಾರುಕಟ್ಟೆಯಿಂದ ಟೊಮೆಟೊಗಳನ್ನು ಖರೀದಿಸಿದೆವು.",
+        "pt": "Compramos tomates no mercado."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/pt_1p_past"
+        },
+        {
+          "guid": "N06_018",
+          "grammatical_form": "noun/pt_plural"
+        },
+        {
+          "guid": "N07_028",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_018",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00071",
+      "translations": {
+        "kn": "ಅವರು ಆ ಸಲಾಡ್‌ನಲ್ಲಿ ಒಂದು ಟೊಮೆಟೊವನ್ನು ಹಾಕುತ್ತಾರೆ.",
+        "pt": "Ele põe um tomate na salada."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/pt_3s_present"
+        },
+        {
+          "guid": "N06_018",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_028",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_018",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00073",
+      "translations": {
+        "kn": "ಅವರು ಪ್ರತಿದಿನ ಅನ್ನವನ್ನು ತಿನ್ನುತ್ತಾರೆ.",
+        "pt": "Ela come arroz todos os dias."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/pt_3s_present"
+        },
+        {
+          "guid": "N06_020",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "N25_002",
+          "grammatical_form": "noun/pt_plural"
+        }
+      ],
+      "source": "buivolas_guided_N06_020",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00075",
+      "translations": {
+        "kn": "ನನ್ನ ಸ್ನೇಹಿತರಿಗೆ ಇನ್ನಷ್ಟು ಅನ್ನ ಬೇಕಾಗಿದೆ.",
+        "pt": "Meu amigo quer mais arroz."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V05_004",
+          "grammatical_form": "verb/pt_3s_present"
+        },
+        {
+          "guid": "N06_020",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_020",
+      "minimum_level": 5
+    },
+    {
+      "sentence_id": "S_00079",
+      "translations": {
+        "kn": "ಅವರು ಮಧ್ಯಾಹ್ನದ ಭೋಜನದಲ್ಲಿ ಟೊಮೆಟೊ ಸೂಪ್ ಖರೀದಿಸಿದರು.",
+        "pt": "Eles compraram sopa de tomate no almoço."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/pt_3p_past"
+        },
+        {
+          "guid": "N06_021",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_018",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_087",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_021",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00080",
+      "translations": {
+        "kn": "ನನ್ನ ಸ್ನೇಹಿತರು ಸೂಪ್ ಅನ್ನು ಬ್ರೆಡ್‌ನೊಂದಿಗೆ ತಿನ್ನಿದರು.",
+        "pt": "Meu amigo comeu sopa com pão."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "V01_001",
+          "grammatical_form": "verb/pt_3s_past"
+        },
+        {
+          "guid": "N06_021",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_021",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00081",
+      "translations": {
+        "kn": "ನಾನು ಮಾರುಕಟ್ಟೆಯಿಂದ ಆಹಾರ ಖರೀದಿಸುತ್ತೇನೆ.",
+        "pt": "Compro comida no mercado."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/pt_1s_present"
+        },
+        {
+          "guid": "N06_092",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "N07_028",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_092",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00083",
+      "translations": {
+        "kn": "ಅವರ ಚೀಲಗಳಲ್ಲಿ ಅವರಿಗೆ ತಿನ್ನಲು ಆಹಾರವಿದೆ.",
+        "pt": "Eles têm comida nos seus sacos."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_002",
+          "grammatical_form": "verb/pt_3p_present"
+        },
+        {
+          "guid": "N06_092",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "N08_009",
+          "grammatical_form": "noun/pt_plural"
+        }
+      ],
+      "source": "buivolas_guided_N06_092",
+      "minimum_level": 2
+    },
+    {
+      "sentence_id": "S_00084",
+      "translations": {
+        "kn": "ನೀವು ಈ ಆಹಾರವನ್ನು ಇಷ್ಟಪಡುತ್ತೀರಾ?",
+        "pt": "Você gosta desta comida?"
+      },
+      "linked_words": [
+        {
+          "guid": "V05_001",
+          "grammatical_form": "verb/pt_3s_present"
+        },
+        {
+          "guid": "N06_092",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N06_092",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00085",
+      "translations": {
+        "kn": "ಅವರು ಇಂದು ಶುಭ್ರವಾದ ಒಂದು ಅಂಗಿಯನ್ನು ಧರಿಸಿದ್ದಾರೆ.",
+        "pt": "Ele veste uma camisa limpa hoje."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/pt_3s_present"
+        },
+        {
+          "guid": "N09_001",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "A18_027",
+          "grammatical_form": "adjective/pt_singular_f"
+        }
+      ],
+      "source": "buivolas_guided_N09_001",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00086",
+      "translations": {
+        "kn": "ಅವರು ಒಂದು ನೀಲಿ ಬಣ್ಣದ ಶರ್ಟ್ ಖರೀದಿಸಿದರು.",
+        "pt": "Ela comprou uma camisa azul."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/pt_3s_past"
+        },
+        {
+          "guid": "N09_001",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "A02_004",
+          "grammatical_form": "adjective/pt_singular_f"
+        }
+      ],
+      "source": "buivolas_guided_N09_001",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00088",
+      "translations": {
+        "kn": "ಅವರು ಒಂದು ಗಲೀಜು ಶರ್ಟ್ ಅನ್ನು ಕಂಡುಕೊಂಡರು.",
+        "pt": "Eles encontraram uma camisa suja."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_009",
+          "grammatical_form": "verb/pt_3p_past"
+        },
+        {
+          "guid": "N09_001",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "A18_070",
+          "grammatical_form": "adjective/pt_singular_f"
+        }
+      ],
+      "source": "buivolas_guided_N09_001",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00089",
+      "translations": {
+        "kn": "ನಿನ್ನೆ ನಾನು ಹೊಸ ಪ್ಯಾಂಟ್ ಖರೀದಿಸಿದೆ.",
+        "pt": "Comprei calças novas ontem."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/pt_1s_past"
+        },
+        {
+          "guid": "N09_002",
+          "grammatical_form": "noun/pt_plural"
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": "adjective/pt_plural_f"
+        }
+      ],
+      "source": "buivolas_guided_N09_002",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00091",
+      "translations": {
+        "kn": "ನನ್ನ ಸ್ನೇಹಿತನಿಗೆ ತೇವಗೊಂಡ ಪ್ಯಾಂಟ್ ಸಿಕ್ಕಿತು.",
+        "pt": "Meu amigo encontrou as calças molhadas."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "V01_009",
+          "grammatical_form": "verb/pt_3s_past"
+        },
+        {
+          "guid": "N09_002",
+          "grammatical_form": "noun/pt_plural"
+        },
+        {
+          "guid": "A18_011",
+          "grammatical_form": "adjective/pt_plural_f"
+        }
+      ],
+      "source": "buivolas_guided_N09_002",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_00092",
+      "translations": {
+        "kn": "ಅವರಿಗೆ ಸ್ವಚ್ಛವಾದ ಪ್ಯಾಂಟ್‌ಗಳು ಇದೆಯೇ?",
+        "pt": "Eles têm calças limpas?"
+      },
+      "linked_words": [
+        {
+          "guid": "V06_002",
+          "grammatical_form": "verb/pt_3p_present"
+        },
+        {
+          "guid": "N09_002",
+          "grammatical_form": "noun/pt_plural"
+        },
+        {
+          "guid": "A18_027",
+          "grammatical_form": "adjective/pt_plural_f"
+        }
+      ],
+      "source": "buivolas_guided_N09_002",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00093",
+      "translations": {
+        "kn": "ಅವಳು ಇಂದು ಕೆಂಪು ಬಟ್ಟೆ ಧರಿಸಿದ್ದಾಳೆ.",
+        "pt": "Ela está vestindo um vestido vermelho hoje."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_003",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "A02_003",
+          "grammatical_form": "adjective/pt_singular_m"
+        }
+      ],
+      "source": "buivolas_guided_N09_003",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00094",
+      "translations": {
+        "kn": "ನನ್ನ ಸ್ನೇಹಿತರು ಒಂದು ನೀಲಿ ಬಟ್ಟೆ ಖರೀದಿಸಿದ್ದಾರೆ.",
+        "pt": "Meu amigo comprou um vestido azul."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/pt_3s_past"
+        },
+        {
+          "guid": "N09_003",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "A02_004",
+          "grammatical_form": "adjective/pt_singular_m"
+        }
+      ],
+      "source": "buivolas_guided_N09_003",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00095",
+      "translations": {
+        "kn": "ಅವರು ಅಂಗಡಿಯಲ್ಲಿರುವ ಬಟ್ಟೆಯನ್ನು ನೋಡುತ್ತಾರೆ.",
+        "pt": "Eles veem o vestido na loja."
+      },
+      "linked_words": [
+        {
+          "guid": "V10_001",
+          "grammatical_form": "verb/pt_3p_present"
+        },
+        {
+          "guid": "N09_003",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_003",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00097",
+      "translations": {
+        "kn": "ಅವರು ಇಂದು ಒಂದು ಬೆಚ್ಚಗಿನ ಜಾಕೆಟ್ ಧರಿಸಿದ್ದಾರೆ.",
+        "pt": "Ele veste uma jaqueta quente hoje."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/pt_3s_present"
+        },
+        {
+          "guid": "N09_005",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "A18_061",
+          "grammatical_form": "adjective/pt_singular_f"
+        }
+      ],
+      "source": "buivolas_guided_N09_005",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00098",
+      "translations": {
+        "kn": "ಅವಳು ನಿನ್ನೆ ಒಂದು ಹೊಸ ಜಾಕೆಟ್ ಖರೀದಿಸಿದಳು.",
+        "pt": "Ela comprou uma jaqueta nova ontem."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/pt_3s_past"
+        },
+        {
+          "guid": "N09_005",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": "adjective/pt_singular_f"
+        }
+      ],
+      "source": "buivolas_guided_N09_005",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00100",
+      "translations": {
+        "kn": "ಅವರು ತೇವಗೊಂಡಿರುವ ಜಾಕೆಟ್ ಅನ್ನು ಹೊರಗೆಟ್ಟರು.",
+        "pt": "Eles puseram a jaqueta molhada fora."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/pt_3p_past"
+        },
+        {
+          "guid": "N09_005",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "A18_011",
+          "grammatical_form": "adjective/pt_singular_f"
+        },
+        {
+          "guid": "D07_032",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_005",
+      "minimum_level": 9
+    },
+    {
+      "sentence_id": "S_00101",
+      "translations": {
+        "kn": "ನನ್ನ ಶೂ ಒಂದು ಬಾಗಿಲಿನ ಬಳಿ ಇದೆ.",
+        "pt": "Meu sapato está perto da porta."
+      },
+      "linked_words": [
+        {
+          "guid": "N09_006",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "N47_001",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_006",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": "S_00102",
+      "translations": {
+        "kn": "ಅವರು ಒಂದು ಹೊಸ ಶೂ ಖರೀದಿಸಿದರು.",
+        "pt": "Ela comprou um sapato novo."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/pt_3s_past"
+        },
+        {
+          "guid": "N09_006",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_006",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00103",
+      "translations": {
+        "kn": "ಅವರು ಹೊರಗೆ ಒಂದು ಶೂವನ್ನು ಕಳೆದುಕೊಂಡರು.",
+        "pt": "Ele perdeu um sapato fora."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_045",
+          "grammatical_form": "verb/pt_3s_past"
+        },
+        {
+          "guid": "N09_006",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "D07_032",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_006",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": "S_00104",
+      "translations": {
+        "kn": "ಅವರು ಇಬ್ಬರೂ ಒಂದೇ ರೀತಿಯ ಶೂಗಳನ್ನು ಧರಿಸಿದ್ದಾರೆ.",
+        "pt": "Eles vestem os mesmos sapatos."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/pt_3p_present"
+        },
+        {
+          "guid": "N09_006",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_006",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00106",
+      "translations": {
+        "kn": "ಅವಳು ಒಂದು ನೀಲಿ ಬಣ್ಣದ ಚೀಲವನ್ನು ಕಳೆದುಬಿಟ್ಟಳು.",
+        "pt": "Ela perdeu uma meia azul."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_045",
+          "grammatical_form": "verb/pt_3s_past"
+        },
+        {
+          "guid": "Z01_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_007",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A02_004",
+          "grammatical_form": "adjective/pt_singular_f"
+        }
+      ],
+      "source": "buivolas_guided_N09_007",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": "S_00107",
+      "translations": {
+        "kn": "ಅವರು ಒಂದು ತೇವವಾದ ಚೀಲವನ್ನು ಕಂಡುಕೊಂಡರು.",
+        "pt": "Eles encontraram uma meia molhada"
+      },
+      "linked_words": [
+        {
+          "guid": "V01_009",
+          "grammatical_form": "verb/pt_3p_past"
+        },
+        {
+          "guid": "N09_007",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "A18_011",
+          "grammatical_form": "adjective/pt_singular_f"
+        }
+      ],
+      "source": "buivolas_guided_N09_007",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_00108",
+      "translations": {
+        "kn": "ಅವರು ಸ್ವಚ್ಛವಾದ ಚೀಲಗಳನ್ನು ಹಾಕಿಕೊಂಡರು.",
+        "pt": "Ele pôs meias limpas."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/pt_3s_past"
+        },
+        {
+          "guid": "N09_007",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A18_027",
+          "grammatical_form": "adjective/pt_plural_f"
+        }
+      ],
+      "source": "buivolas_guided_N09_007",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00109",
+      "translations": {
+        "kn": "ಅವಳು ಇಂದು ಕಪ್ಪು ಬಟ್ಟೆ ಹಾಕಿರುವ ಟೋಪಿ ಧರಿಸಿದ್ದಾಳೆ.",
+        "pt": "Ela veste um chapéu preto hoje."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/pt_3s_present"
+        },
+        {
+          "guid": "N09_008",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "A02_001",
+          "grammatical_form": "adjective/pt_singular_m"
+        }
+      ],
+      "source": "buivolas_guided_N09_008",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00110",
+      "translations": {
+        "kn": "ಅವರು ತಮ್ಮ ಟೋಪಿ ತೆಗೆದರು.",
+        "pt": "Ele tirou o chapéu."
+      },
+      "linked_words": [
+        {
+          "guid": "N09_008",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_008",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00112",
+      "translations": {
+        "kn": "ನಿಮಗೆ ನನ್ನ ಬೆಚ್ಚನೆಯ ಟೋಪಿ ಬೇಕೇ?",
+        "pt": "Queres o meu chapéu quente?"
+      },
+      "linked_words": [
+        {
+          "guid": "V05_004",
+          "grammatical_form": "verb/pt_2s_present"
+        },
+        {
+          "guid": "N09_008",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "A18_061",
+          "grammatical_form": "adjective/pt_singular_m"
+        }
+      ],
+      "source": "buivolas_guided_N09_008",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00113",
+      "translations": {
+        "kn": "ಅವರು ಒಂದು ಕೈಗವಸು ಧರಿಸುತ್ತಾರೆ.",
+        "pt": "Ela põe uma luva."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/pt_3s_present"
+        },
+        {
+          "guid": "N09_009",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_009",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00115",
+      "translations": {
+        "kn": "ನನ್ನ ಸ್ನೇಹಿತರು ಬೆಚ್ಚಗಿನ ಕೈಗವಸುಗಳನ್ನು ಖರೀದಿಸಿದ್ದಾರೆ.",
+        "pt": "Meu amigo comprou luvas quentes."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/pt_3s_past"
+        },
+        {
+          "guid": "N09_009",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A18_061",
+          "grammatical_form": "adjective/pt_plural_f"
+        }
+      ],
+      "source": "buivolas_guided_N09_009",
+      "minimum_level": 5
+    },
+    {
+      "sentence_id": "S_00116",
+      "translations": {
+        "kn": "ನಿಮಗೆ ಒಂದು ಕೈಗವಸು ಇದೆಯೇ?",
+        "pt": "Tens uma luva?"
+      },
+      "linked_words": [
+        {
+          "guid": "V06_002",
+          "grammatical_form": "verb/pt_2s_present"
+        },
+        {
+          "guid": "Z01_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_009",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_009",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": "S_00117",
+      "translations": {
+        "kn": "ಅವಳು ಇಂದು ನೀಲಿ ಬಣ್ಣದ ಸ್ವೆಟರ್ ಧರಿಸಿದ್ದಾಳೆ.",
+        "pt": "Ela está vestindo um suéter azul hoje."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_011",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "A02_004",
+          "grammatical_form": "adjective/pt_singular_m"
+        }
+      ],
+      "source": "buivolas_guided_N09_011",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00118",
+      "translations": {
+        "kn": "ನನ್ನ ಸ್ನೇಹಿತರು ನಿನ್ನೆ ಒಂದು ಸ್ವೆಟರ್ ಖರೀದಿಸಿದ್ದಾರೆ.",
+        "pt": "Meu amigo comprou um casaco ontem."
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/pt_3s_past"
+        },
+        {
+          "guid": "N09_011",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_011",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00119",
+      "translations": {
+        "kn": "ಅವರು ಆ ಸ್ವೆಟರ್ ಅನ್ನು ಕುರ್ಸಿಯ ಮೇಲೆ ಇಟ್ಟರು.",
+        "pt": "Eles puseram a camisola na cadeira."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_010",
+          "grammatical_form": "verb/pt_3p_past"
+        },
+        {
+          "guid": "N09_011",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "N39_001",
+          "grammatical_form": "noun/pt_singular"
+        }
+      ],
+      "source": "buivolas_guided_N09_011",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00121",
+      "translations": {
+        "kn": "ನನಗೆ ಇಂದು ಸ್ವಚ್ಛವಾದ ಒಳ ಉಡುಪುಗಳು ಬೇಕು.",
+        "pt": "Preciso de roupa interior limpa hoje."
+      },
+      "linked_words": [
+        {
+          "guid": "V04_010",
+          "grammatical_form": "verb/pt_1s_present"
+        },
+        {
+          "guid": "N09_012",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "A18_027",
+          "grammatical_form": "adjective/pt_singular_f"
+        },
+        {
+          "guid": "D03_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_012",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": "S_00122",
+      "translations": {
+        "kn": "ಅವಳು ನಿನ್ನೆ ಹೊಸ ಒಳ ಉಡುಪುಗಳನ್ನು ಖರೀದಿಸಿದಳು.",
+        "pt": "Ela comprou roupa íntima nova ontem."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": "verb/pt_3s_past"
+        },
+        {
+          "guid": "N09_012",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": "adjective/pt_singular_f"
+        },
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_012",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": "S_00124",
+      "translations": {
+        "kn": "ಅವರು ತಮ್ಮ ಶರ್ಟ್ ಗಳ ಕೆಳಗೆ ಒಳ ಉಡುಪುಗಳನ್ನು ಧರಿಸುತ್ತಾರೆ.",
+        "pt": "Eles vestem roupa interior por baixo das suas camisas."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_031",
+          "grammatical_form": "verb/pt_3p_present"
+        },
+        {
+          "guid": "N09_012",
+          "grammatical_form": "noun/pt_singular"
+        },
+        {
+          "guid": "N09_001",
+          "grammatical_form": "noun/pt_plural"
+        }
+      ],
+      "source": "buivolas_guided_N09_012",
       "minimum_level": 1
     }
   ],

@@ -1,0 +1,167 @@
+{
+  "version": 1,
+  "language": "italian",
+  "language_code": "it",
+  "generated_at": "2026-04-02T22:15:58Z",
+  "source_language": "romanian",
+  "source_language_code": "ro",
+  "config": {
+    "audio_prefix": "/staging",
+    "available_voices": [],
+    "default_voice": null,
+    "grammar": {
+      "conjugation": {
+        "tenses": [
+          {
+            "id": "past",
+            "label": "Passato",
+            "order": 1,
+            "has_persons": true,
+            "person_slots": [
+              "1s",
+              "2s",
+              "3s",
+              "1p",
+              "2p",
+              "3p"
+            ],
+            "description": "Simple past forms used in core conjugation activities."
+          },
+          {
+            "id": "pres",
+            "label": "Presente",
+            "order": 2,
+            "has_persons": true,
+            "person_slots": [
+              "1s",
+              "2s",
+              "3s",
+              "1p",
+              "2p",
+              "3p"
+            ],
+            "description": "Present indicative conjugations."
+          },
+          {
+            "id": "fut",
+            "label": "Futuro",
+            "order": 3,
+            "has_persons": true,
+            "person_slots": [
+              "1s",
+              "2s",
+              "3s",
+              "1p",
+              "2p",
+              "3p"
+            ],
+            "description": "Future tense conjugations."
+          }
+        ],
+        "person_labels": {
+          "1s": "io",
+          "2s": "tu",
+          "3s": "lui/lei",
+          "1p": "noi",
+          "2p": "voi",
+          "3p": "loro"
+        }
+      }
+    }
+  },
+  "word_files": [
+    {
+      "id": "levels_1_5",
+      "filename": "wireword_levels_1_5.json",
+      "display_name": "Levels 1-5",
+      "type": "words",
+      "md5": "f10d723f4df0096da4d220914b4ccdad",
+      "levels": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "required": true,
+      "word_count": 186,
+      "groups": [
+        "Animals",
+        "Body Part",
+        "Building/Structure",
+        "Cardinal",
+        "Clothing/Accessory",
+        "Color",
+        "Communication",
+        "Directional Movement",
+        "Emotion",
+        "Food",
+        "Humans",
+        "Interjection Other",
+        "Occupation",
+        "Perception",
+        "Physical Action",
+        "Possession",
+        "Shape",
+        "Small Movable Object",
+        "Specific Time",
+        "Vehicle"
+      ]
+    },
+    {
+      "id": "levels_6_10",
+      "filename": "wireword_levels_6_10.json",
+      "display_name": "Levels 6-10",
+      "type": "words",
+      "md5": "1e8af5ed26369c3e266c11e53fc0763b",
+      "levels": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "required": true,
+      "word_count": 255,
+      "groups": [
+        "Animals",
+        "Beverage",
+        "Body Part",
+        "Building Part",
+        "Building/Structure",
+        "Change",
+        "Clothing/Accessory",
+        "Communication",
+        "Conjunction Other",
+        "Country",
+        "Directional Movement",
+        "Electronic Device",
+        "Emotion",
+        "Emotional State",
+        "Existence",
+        "Food",
+        "Furniture",
+        "Location",
+        "Material/Substance",
+        "Mental State",
+        "Nationality",
+        "Ordinal",
+        "Personal Quality",
+        "Physical Action",
+        "Physical Property",
+        "Plant Part",
+        "Plants",
+        "Possession",
+        "Preposition Other",
+        "Pronoun Other",
+        "Quality",
+        "Sequence",
+        "Size",
+        "Small Movable Object",
+        "Technology Digital"
+      ]
+    }
+  ],
+  "sentence_files": [],
+  "auxiliary_files": []
+}

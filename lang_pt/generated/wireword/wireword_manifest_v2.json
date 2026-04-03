@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "language": "portuguese",
+  "language_code": "pt",
+  "generated_at": "2026-04-03T14:05:13Z",
+  "config": {
+    "audio_prefix": "/staging",
+    "available_voices": [],
+    "default_voice": null,
+    "cdn_base": "https://wireword.trakaido.com",
+    "grammar": {
+      "conjugation": {
+        "tenses": [
+          {
+            "id": "past",
+            "label": "Pretérito",
+            "order": 1,
+            "has_persons": true,
+            "person_slots": [
+              "1s",
+              "2s",
+              "3s",
+              "1p",
+              "2p",
+              "3p"
+            ],
+            "description": "Simple past forms used in core conjugation activities."
+          },
+          {
+            "id": "pres",
+            "label": "Presente",
+            "order": 2,
+            "has_persons": true,
+            "person_slots": [
+              "1s",
+              "2s",
+              "3s",
+              "1p",
+              "2p",
+              "3p"
+            ],
+            "description": "Present tense conjugations."
+          },
+          {
+            "id": "fut",
+            "label": "Futuro",
+            "order": 3,
+            "has_persons": true,
+            "person_slots": [
+              "1s",
+              "2s",
+              "3s",
+              "1p",
+              "2p",
+              "3p"
+            ],
+            "description": "Future tense conjugations."
+          }
+        ],
+        "person_labels": {
+          "1s": "eu",
+          "2s": "tu",
+          "3s": "ele/ela/você",
+          "1p": "nós",
+          "2p": "vós",
+          "3p": "eles/elas/vocês"
+        }
+      }
+    }
+  },
+  "word_files": [
+    {
+      "id": "levels_1_5",
+      "filename": "6dd097ae950f81b35b3775f660fe8b8e.json",
+      "display_name": "Levels 1-5",
+      "type": "words",
+      "md5": "6dd097ae950f81b35b3775f660fe8b8e",
+      "levels": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "required": true,
+      "word_count": 186,
+      "groups": [
+        "Animals",
+        "Body Part",
+        "Building/Structure",
+        "Cardinal",
+        "Clothing/Accessory",
+        "Color",
+        "Communication",
+        "Directional Movement",
+        "Emotion",
+        "Food",
+        "Humans",
+        "Interjection Other",
+        "Occupation",
+        "Perception",
+        "Physical Action",
+        "Possession",
+        "Shape",
+        "Small Movable Object",
+        "Specific Time",
+        "Vehicle"
+      ]
+    },
+    {
+      "id": "levels_6_10",
+      "filename": "726a116f9f3f7a46a88edaff5e18c2e4.json",
+      "display_name": "Levels 6-10",
+      "type": "words",
+      "md5": "726a116f9f3f7a46a88edaff5e18c2e4",
+      "levels": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "required": true,
+      "word_count": 255,
+      "groups": [
+        "Animals",
+        "Beverage",
+        "Body Part",
+        "Building Part",
+        "Building/Structure",
+        "Change",
+        "Clothing/Accessory",
+        "Communication",
+        "Conjunction Other",
+        "Country",
+        "Directional Movement",
+        "Electronic Device",
+        "Emotion",
+        "Emotional State",
+        "Existence",
+        "Food",
+        "Furniture",
+        "Location",
+        "Material/Substance",
+        "Mental State",
+        "Nationality",
+        "Ordinal",
+        "Personal Quality",
+        "Physical Action",
+        "Physical Property",
+        "Plant Part",
+        "Plants",
+        "Possession",
+        "Preposition Other",
+        "Pronoun Other",
+        "Quality",
+        "Sequence",
+        "Size",
+        "Small Movable Object",
+        "Technology Digital"
+      ]
+    }
+  ],
+  "sentence_files": [
+    {
+      "id": "sentences",
+      "filename": "7268b0983a838ca6690c307852ba513f.json",
+      "display_name": "Practice Sentences",
+      "description": "Sentences for context-based learning",
+      "type": "sentences",
+      "md5": "7268b0983a838ca6690c307852ba513f",
+      "required": false
+    }
+  ],
+  "auxiliary_files": []
+}

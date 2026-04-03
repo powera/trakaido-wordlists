@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "language": "japanese",
+  "language_code": "ja",
+  "generated_at": "2026-04-03T14:05:14Z",
+  "config": {
+    "audio_prefix": "/staging",
+    "available_voices": [
+      "sakura",
+      "haruto"
+    ],
+    "default_voice": "sakura",
+    "cdn_base": "https://wireword.trakaido.com",
+    "reading": {
+      "style": "ruby",
+      "default_system": "hiragana",
+      "systems": [
+        {
+          "id": "romaji",
+          "label": "Romaji",
+          "word_field": "target_romaji",
+          "grammatical_form_field": "target_romaji",
+          "alternatives_field": "target_alternatives_romaji",
+          "synonyms_field": "target_synonyms_romaji",
+          "sentence_translation_field": "romaji"
+        },
+        {
+          "id": "hiragana",
+          "label": "Hiragana",
+          "word_field": "target_hiragana",
+          "grammatical_form_field": "target_hiragana",
+          "alternatives_field": "target_alternatives_hiragana",
+          "synonyms_field": "target_synonyms_hiragana",
+          "sentence_translation_field": "hiragana"
+        }
+      ]
+    }
+  },
+  "word_files": [
+    {
+      "id": "levels_1_5",
+      "filename": "0d1f6cac48937afdbbf3429c10b46848.json",
+      "display_name": "Levels 1-5",
+      "type": "words",
+      "md5": "0d1f6cac48937afdbbf3429c10b46848",
+      "levels": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "required": true,
+      "word_count": 186,
+      "groups": [
+        "Animals",
+        "Body Part",
+        "Building/Structure",
+        "Cardinal",
+        "Clothing/Accessory",
+        "Color",
+        "Communication",
+        "Directional Movement",
+        "Emotion",
+        "Food",
+        "Humans",
+        "Interjection Other",
+        "Occupation",
+        "Perception",
+        "Physical Action",
+        "Possession",
+        "Shape",
+        "Small Movable Object",
+        "Specific Time",
+        "Vehicle"
+      ]
+    },
+    {
+      "id": "levels_6_10",
+      "filename": "2b3646c7da708a2fea8641614dab3636.json",
+      "display_name": "Levels 6-10",
+      "type": "words",
+      "md5": "2b3646c7da708a2fea8641614dab3636",
+      "levels": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "required": true,
+      "word_count": 245,
+      "groups": [
+        "Animals",
+        "Beverage",
+        "Body Part",
+        "Building Part",
+        "Building/Structure",
+        "Change",
+        "Clothing/Accessory",
+        "Communication",
+        "Conjunction Other",
+        "Directional Movement",
+        "Electronic Device",
+        "Emotion",
+        "Emotional State",
+        "Existence",
+        "Food",
+        "Furniture",
+        "Location",
+        "Material/Substance",
+        "Mental State",
+        "Ordinal",
+        "Personal Quality",
+        "Physical Action",
+        "Physical Property",
+        "Plant Part",
+        "Plants",
+        "Possession",
+        "Preposition Other",
+        "Pronoun Other",
+        "Quality",
+        "Sequence",
+        "Size",
+        "Small Movable Object",
+        "Technology Digital"
+      ]
+    }
+  ],
+  "sentence_files": [
+    {
+      "id": "sentences",
+      "filename": "0cdf61ddddbec586033645dcd9f5a987.json",
+      "display_name": "Practice Sentences",
+      "description": "Sentences for context-based learning",
+      "type": "sentences",
+      "md5": "0cdf61ddddbec586033645dcd9f5a987",
+      "required": false
+    }
+  ],
+  "auxiliary_files": []
+}

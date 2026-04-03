@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "language": "german",
+  "language_code": "de",
+  "generated_at": "2026-04-03T14:05:11Z",
+  "config": {
+    "audio_prefix": "/staging",
+    "available_voices": [],
+    "default_voice": null,
+    "cdn_base": "https://wireword.trakaido.com",
+    "grammar": {
+      "conjugation": {
+        "tenses": [
+          {
+            "id": "past",
+            "label": "Präteritum",
+            "order": 1,
+            "has_persons": true,
+            "person_slots": [
+              "1s",
+              "2s",
+              "3s",
+              "1p",
+              "2p",
+              "3p"
+            ],
+            "description": "Simple past tense forms."
+          },
+          {
+            "id": "pres",
+            "label": "Präsens",
+            "order": 2,
+            "has_persons": true,
+            "person_slots": [
+              "1s",
+              "2s",
+              "3s",
+              "1p",
+              "2p",
+              "3p"
+            ],
+            "description": "Present tense conjugations."
+          },
+          {
+            "id": "fut",
+            "label": "Futur I",
+            "order": 3,
+            "has_persons": true,
+            "person_slots": [
+              "1s",
+              "2s",
+              "3s",
+              "1p",
+              "2p",
+              "3p"
+            ],
+            "description": "Future tense conjugations."
+          }
+        ],
+        "person_labels": {
+          "1s": "ich",
+          "2s": "du",
+          "3s": "er/sie/es",
+          "1p": "wir",
+          "2p": "ihr",
+          "3p": "sie/Sie"
+        }
+      }
+    }
+  },
+  "word_files": [
+    {
+      "id": "levels_1_5",
+      "filename": "6736979ecbe728b700e2ff167e9d9234.json",
+      "display_name": "Levels 1-5",
+      "type": "words",
+      "md5": "6736979ecbe728b700e2ff167e9d9234",
+      "levels": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "required": true,
+      "word_count": 186,
+      "groups": [
+        "Animals",
+        "Body Part",
+        "Building/Structure",
+        "Cardinal",
+        "Clothing/Accessory",
+        "Color",
+        "Communication",
+        "Directional Movement",
+        "Emotion",
+        "Food",
+        "Humans",
+        "Interjection Other",
+        "Occupation",
+        "Perception",
+        "Physical Action",
+        "Possession",
+        "Shape",
+        "Small Movable Object",
+        "Specific Time",
+        "Vehicle"
+      ]
+    },
+    {
+      "id": "levels_6_10",
+      "filename": "c6d1831f7640b4ec8a1fe5cf68e0703e.json",
+      "display_name": "Levels 6-10",
+      "type": "words",
+      "md5": "c6d1831f7640b4ec8a1fe5cf68e0703e",
+      "levels": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "required": true,
+      "word_count": 256,
+      "groups": [
+        "Animals",
+        "Beverage",
+        "Body Part",
+        "Building Part",
+        "Building/Structure",
+        "Change",
+        "Clothing/Accessory",
+        "Communication",
+        "Conjunction Other",
+        "Country",
+        "Directional Movement",
+        "Electronic Device",
+        "Emotion",
+        "Emotional State",
+        "Existence",
+        "Food",
+        "Furniture",
+        "Location",
+        "Material/Substance",
+        "Mental State",
+        "Nationality",
+        "Ordinal",
+        "Personal Quality",
+        "Physical Action",
+        "Physical Property",
+        "Plant Part",
+        "Plants",
+        "Possession",
+        "Preposition Other",
+        "Pronoun Other",
+        "Quality",
+        "Sequence",
+        "Size",
+        "Small Movable Object",
+        "Technology Digital"
+      ]
+    }
+  ],
+  "sentence_files": [
+    {
+      "id": "sentences",
+      "filename": "a082e577e320621424cff716dcafb518.json",
+      "display_name": "Practice Sentences",
+      "description": "Sentences for context-based learning",
+      "type": "sentences",
+      "md5": "a082e577e320621424cff716dcafb518",
+      "required": false
+    }
+  ],
+  "auxiliary_files": []
+}

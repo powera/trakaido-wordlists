@@ -1,0 +1,2111 @@
+{
+  "language": "ja",
+  "sentences": [
+    {
+      "sentence_id": "S_00001",
+      "translations": {
+        "bn": "তারা বাড়ির দিকে হেঁটে যায়।",
+        "ja": "彼らは家へ歩きます。",
+        "romaji": "karera ha ie he aruki masu .",
+        "hiragana": "かれらはいえへあるきます。"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V12_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00002",
+      "translations": {
+        "bn": "তার একটি ছোট ঘর আছে।",
+        "ja": "彼女は小さい家を持っています。",
+        "romaji": "kanojo ha chiisai ie wo motsu teimasu .",
+        "hiragana": "かのじょはちーさいいえをもっています。"
+      },
+      "linked_words": [
+        {
+          "guid": "A01_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_002",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00003",
+      "translations": {
+        "bn": "আমরা বাড়ির দরজাটি খুলি।",
+        "ja": "私たちは家のドアを開けます。",
+        "romaji": "watashitachi ha ie no doa wo hirake masu .",
+        "hiragana": "わたしたちはいえのどあをひらけます。"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N47_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_014",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00004",
+      "translations": {
+        "bn": "তিনি একটি নতুন বাড়ি কিনেছেন।",
+        "ja": "彼は新しい家を買いました。",
+        "romaji": "kareha atarashii ie wo kai mashita .",
+        "hiragana": "かれはあたらしいいえをかいました。"
+      },
+      "linked_words": [
+        {
+          "guid": "A05_035",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00005",
+      "translations": {
+        "bn": "আমার ছেলে স্কুলে যায়।",
+        "ja": "私の 息子 は 学校 へ 行きます。",
+        "romaji": "watashi no   musuko   ha   gakkou   he   iki masu .",
+        "hiragana": "わたしの むすこ は がっこう へ いきます。"
+      },
+      "linked_words": [
+        {
+          "guid": "N35_036",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V12_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_002",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": "S_00006",
+      "translations": {
+        "bn": "সে প্রতিদিন হেঁটে স্কুলে যায়।",
+        "ja": "彼女は毎日歩いて学校に行きます。",
+        "romaji": "kanojo ha mainichi arui te gakkou ni iki masu .",
+        "hiragana": "かのじょはまいにちあるいてがっこうにいきます。"
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_002",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00009",
+      "translations": {
+        "bn": "আমার একজন বন্ধু হাসপাতালে কাজ করে।",
+        "ja": "私の友達は病院で働いています。",
+        "romaji": "watashi no tomodachi ha byouin de hatarai teimasu .",
+        "hiragana": "わたしのともだちはびょういんではたらいています。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_003",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_003",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00010",
+      "translations": {
+        "bn": "তিনি গতকাল হাসপাতালে গিয়েছিলেন।",
+        "ja": "彼女は昨日病院に行きました。",
+        "romaji": "kanojo ha kinou byouin ni iki mashita .",
+        "hiragana": "かのじょはきのうびょういんにいきました。"
+      },
+      "linked_words": [
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_003",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V12_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_003",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": "S_00013",
+      "translations": {
+        "bn": "আমি দোকান থেকে রুটি কিনি।",
+        "ja": "私は店でパンを買います。",
+        "romaji": "watashi ha mise de pan wo kai masu .",
+        "hiragana": "わたしはみせでぱんをかいます。"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00014",
+      "translations": {
+        "bn": "সে দোকানে একটি খেলনা খুঁজে পেয়েছিল।",
+        "ja": "彼女は店でおもちゃを見つけました。",
+        "romaji": "kanojo ha mise deomochawo mitsu kemashita .",
+        "hiragana": "かのじょはみせでおもちゃをみつけました。"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N08_036",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_009",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00015",
+      "translations": {
+        "bn": "আমরা রাতে দোকানটি বন্ধ করি।",
+        "ja": "私たちは夜に店を閉めます。",
+        "romaji": "watashitachi ha yoru ni mise wo shime masu .",
+        "hiragana": "わたしたちはよるにみせをしめます。"
+      },
+      "linked_words": [
+        {
+          "guid": "N25_003",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_015",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00016",
+      "translations": {
+        "bn": "তারা গতকাল দোকানে হেঁটে গিয়েছিল।",
+        "ja": "彼らは昨日店まで歩きました。",
+        "romaji": "karera ha kinou mise made aruki mashita .",
+        "hiragana": "かれらはきのうみせまであるきました。"
+      },
+      "linked_words": [
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V12_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00017",
+      "translations": {
+        "bn": "আজ আমরা রেস্টুরেন্টে খেতে যাব।",
+        "ja": "私たちは今日レストランで食べます。",
+        "romaji": "watashitachi ha kyou resutoran de tabe masu .",
+        "hiragana": "わたしたちはきょうれすとらんでたべます。"
+      },
+      "linked_words": [
+        {
+          "guid": "D03_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_006",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_006",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00020",
+      "translations": {
+        "bn": "আমার একজন বন্ধু একটি রেস্টুরেন্টে কাজ করে।",
+        "ja": "私の友達はレストランで働いています。",
+        "romaji": "watashi no tomodachi ha resutoran de hatarai teimasu .",
+        "hiragana": "わたしのともだちはれすとらんではたらいています。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_006",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_006",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00025",
+      "translations": {
+        "bn": "আজ আমি হেঁটে ব্যাংকের দিকে যাচ্ছি।",
+        "ja": "今日は歩いて銀行に行きます。",
+        "romaji": "konnichiha arui te ginkou ni iki masu .",
+        "hiragana": "こんにちはあるいてぎんこうにいきます。"
+      },
+      "linked_words": [
+        {
+          "guid": "D03_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V12_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_008",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_008",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00028",
+      "translations": {
+        "bn": "আমার একজন বন্ধু ব্যাংকে কাজ করে।",
+        "ja": "私の友達は銀行で働いています。",
+        "romaji": "watashi no tomodachi ha ginkou de hatarai teimasu .",
+        "hiragana": "わたしのともだちはぎんこうではたらいています。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_008",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_008",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00029",
+      "translations": {
+        "bn": "আজ তিনি লাইব্রেরিতে হেঁটে যাবেন।",
+        "ja": "彼女は今日図書館へ歩きます。",
+        "romaji": "kanojo ha kyou toshokan he aruki masu .",
+        "hiragana": "かのじょはきょうとしょかんへあるきます。"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_009",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V12_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_009",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00032",
+      "translations": {
+        "bn": "তারা লাইব্রেরিতে কিছু বই নিয়ে এসেছেন।",
+        "ja": "彼らは本を図書館に持ってきました。",
+        "romaji": "karera ha hon wo toshokan ni motsu tekimashita .",
+        "hiragana": "かれらはほんをとしょかんにもってきました。"
+      },
+      "linked_words": [
+        {
+          "guid": "N08_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_009",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V12_012",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_009",
+      "minimum_level": 2
+    },
+    {
+      "sentence_id": "S_00033",
+      "translations": {
+        "bn": "আজ আমরা জাদুঘরটি দেখতে যাচ্ছি।",
+        "ja": "私たちは今日博物館を訪れます。",
+        "romaji": "watashitachi ha kyou hakubutsukan wo otozure masu .",
+        "hiragana": "わたしたちはきょうはくぶつかんをおとずれます。"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_010",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00034",
+      "translations": {
+        "bn": "তিনি হেঁটে মিউজিয়ামে যান।",
+        "ja": "彼女は博物館へ歩いて行きます。",
+        "romaji": "kanojo ha hakubutsukan he arui te iki masu .",
+        "hiragana": "かのじょははくぶつかんへあるいていきます。"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_010",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V12_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00035",
+      "translations": {
+        "bn": "তারা জাদুঘরে কিছু চিত্রকর্ম দেখেছিলেন।",
+        "ja": "彼らは博物館で絵画を見た。",
+        "romaji": "karera ha hakubutsukan de kaiga wo mita .",
+        "hiragana": "かれらははくぶつかんでかいがをみた。"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_010",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N41_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V10_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00036",
+      "translations": {
+        "bn": "আমার একজন বন্ধু музеయంలో কাজ করে।",
+        "ja": "私の友達は博物館で働いています。",
+        "romaji": "watashi no tomodachi ha hakubutsukan de hatarai teimasu .",
+        "hiragana": "わたしのともだちははくぶつかんではたらいています。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_010",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_010",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00037",
+      "translations": {
+        "bn": "অগ্নিনির্বাপণ কেন্দ্রটি স্কুলের কাছাকাছি অবস্থিত।",
+        "ja": "消防署は学校の近くにあります。",
+        "romaji": "shoubousho ha gakkou no chikaku niarimasu .",
+        "hiragana": "しょうぼうしょはがっこうのちかくにあります。"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_011",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "R99_026",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_011",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00038",
+      "translations": {
+        "bn": "আমার একজন বন্ধু ফায়ার স্টেশনে কাজ করে।",
+        "ja": "私の友達は消防署で働いています。",
+        "romaji": "watashi no tomodachi ha shoubousho de hatarai teimasu .",
+        "hiragana": "わたしのともだちはしょうぼうしょではたらいています。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_011",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_007",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_011",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00039",
+      "translations": {
+        "bn": "তারা ফায়ার স্টেশনের পাশ দিয়ে গাড়ি চালিয়ে গেল।",
+        "ja": "彼らは車を運転して消防署の前を通り過ぎた。",
+        "romaji": "karera ha kuruma wo unten shite shoubousho no mae wo touri sugi ta .",
+        "hiragana": "かれらはくるまをうんてんしてしょうぼうしょのまえをとうりすぎた。"
+      },
+      "linked_words": [
+        {
+          "guid": "V12_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_011",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_011",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": "S_00041",
+      "translations": {
+        "bn": "তিনি প্রতিদিন সকালে তাজা রুটি কেনেন।",
+        "ja": "彼女は毎朝新鮮なパンを買います。",
+        "romaji": "kanojo ha maiasa shinsen na pan wo kai masu .",
+        "hiragana": "かのじょはまいあさしんせんなぱんをかいます。"
+      },
+      "linked_words": [
+        {
+          "guid": "N25_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A05_109",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_001",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": "S_00042",
+      "translations": {
+        "bn": "আমরা মাখন দিয়ে গরম রুটি খেলাম।",
+        "ja": "私たちはバターを塗った温かいパンを食べました。",
+        "romaji": "watashitachi ha bataa wo nutsu ta atatakai pan wo tabe mashita .",
+        "hiragana": "わたしたちはばたーをぬったあたたかいぱんをたべました。"
+      },
+      "linked_words": [
+        {
+          "guid": "N06_011",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A18_061",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_001",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00044",
+      "translations": {
+        "bn": "তিনি আমাকে এক টুকরো রুটি দিলেন।",
+        "ja": "彼は私にパンを一切れくれました。",
+        "romaji": "kareha watashi ni pan wo issai rekuremashita .",
+        "hiragana": "かれはわたしにぱんをいっさいれくれました。"
+      },
+      "linked_words": [
+        {
+          "guid": "N06_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N22_016",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_005",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_001",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00045",
+      "translations": {
+        "bn": "তিনি বাজারে মাংস কেনেন।",
+        "ja": "彼女は市場で肉を買います。",
+        "romaji": "kanojo ha shijou de niku wo kai masu .",
+        "hiragana": "かのじょはしじょうでにくをかいます。"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_028",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_007",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_007",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00046",
+      "translations": {
+        "bn": "তারা রাতের খাবারে মাংস খায়।",
+        "ja": "彼らは夕食に肉を食べます。",
+        "romaji": "karera ha yuushoku ni niku wo tabe masu .",
+        "hiragana": "かれらはゆうしょくににくをたべます。"
+      },
+      "linked_words": [
+        {
+          "guid": "N06_088",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_007",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_007",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00047",
+      "translations": {
+        "bn": "আমার বন্ধু মাংস পছন্দ করে না।",
+        "ja": "私の友達は肉が好きではありません。",
+        "romaji": "watashi no tomodachi ha niku ga suki dehaarimasen .",
+        "hiragana": "わたしのともだちはにくがすきではありません。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_007",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V05_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_007",
+      "minimum_level": 5
+    },
+    {
+      "sentence_id": "S_00049",
+      "translations": {
+        "bn": "তিনি তার চায়ের সাথে চিনি মেশান।",
+        "ja": "彼女はお茶に砂糖を加える。",
+        "romaji": "kanojo hao cha ni satou wo kuwae ru .",
+        "hiragana": "かのじょはおちゃにさとうをくわえる。"
+      },
+      "linked_words": [
+        {
+          "guid": "N42_003",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_012",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_055",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_012",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": "S_00050",
+      "translations": {
+        "bn": "আমরা দোকান থেকে চিনি কিনেছি।",
+        "ja": "私たちは店で砂糖を買いました。",
+        "romaji": "watashitachi ha mise de satou wo kai mashita .",
+        "hiragana": "わたしたちはみせでさとうをかいました。"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_012",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_012",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00052",
+      "translations": {
+        "bn": "তারা তাদের কফিতে চিনি পছন্দ করে।",
+        "ja": "彼らは自分のコーヒーに砂糖を入れたいです。",
+        "romaji": "karera ha jibun no koohii ni satou wo ire taidesu .",
+        "hiragana": "かれらはじぶんのこーひーにさとうをいれたいです。"
+      },
+      "linked_words": [
+        {
+          "guid": "N42_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_012",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_012",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00053",
+      "translations": {
+        "bn": "তিনি মাংসের উপর লবণ দেন।",
+        "ja": "彼女は肉に塩を置く。",
+        "romaji": "kanojo ha niku ni shio wo oku .",
+        "hiragana": "かのじょはにくにしおをおく。"
+      },
+      "linked_words": [
+        {
+          "guid": "N06_007",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_010",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00054",
+      "translations": {
+        "bn": "আমার স্যুপের জন্য লবণের প্রয়োজন।",
+        "ja": "スープに塩が必要です。",
+        "romaji": "suupu ni shio ga hitsuyou desu .",
+        "hiragana": "すーぷにしおがひつようです。"
+      },
+      "linked_words": [
+        {
+          "guid": "N06_021",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V04_010",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00055",
+      "translations": {
+        "bn": "তারা দোকান থেকে লবণ কিনেছিল।",
+        "ja": "彼らは店で塩を買いました。",
+        "romaji": "karera ha mise de shio wo kai mashita .",
+        "hiragana": "かれらはみせでしおをかいました。"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00056",
+      "translations": {
+        "bn": "আমার বন্ধু রুটিতে লবণ অনুভব করছে।",
+        "ja": "私の友達はパンに塩を味わう。",
+        "romaji": "watashi no tomodachi ha pan ni shio wo ajiwa u .",
+        "hiragana": "わたしのともだちはぱんにしおをあじわう。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_013",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V10_005",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_013",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": "S_00058",
+      "translations": {
+        "bn": "তারা বাজারে আলু কেনে।",
+        "ja": "彼らは市場でじゃがいもを買います。",
+        "romaji": "karera ha shijou dejagaimowo kai masu .",
+        "hiragana": "かれらはしじょうでじゃがいもをかいます。"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_028",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_014",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_014",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00061",
+      "translations": {
+        "bn": "সে প্রতিদিন একটি আপেল খায়।",
+        "ja": "彼女は毎日りんごを食べます。",
+        "romaji": "kanojo ha mainichi ringowo tabe masu .",
+        "hiragana": "かのじょはまいにちりんごをたべます。"
+      },
+      "linked_words": [
+        {
+          "guid": "T99_017",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_015",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_015",
+      "minimum_level": 13
+    },
+    {
+      "sentence_id": "S_00062",
+      "translations": {
+        "bn": "তিনি গতকাল তিনটি আপেল কিনেছিলেন।",
+        "ja": "彼は昨日りんごを三つ買いました。",
+        "romaji": "kareha kinou ringowo mittsu kai mashita .",
+        "hiragana": "かれはきのうりんごをみっつかいました。"
+      },
+      "linked_words": [
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_015",
+          "grammatical_form": null
+        },
+        {
+          "guid": "Z01_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_015",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": "S_00063",
+      "translations": {
+        "bn": "আমার একজন বন্ধু আমাকে একটি আপেল দিয়েছে।",
+        "ja": "私の友達が私にりんごを与えました。",
+        "romaji": "watashi no tomodachi ga watashi niringowo atae mashita .",
+        "hiragana": "わたしのともだちがわたしにりんごをあたえました。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_015",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_005",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_015",
+      "minimum_level": 5
+    },
+    {
+      "sentence_id": "S_00065",
+      "translations": {
+        "bn": "আমি প্রতিদিন সকালে একটি কলা খাই।",
+        "ja": "私は毎朝バナナを食べます。",
+        "romaji": "watashi ha maiasa banana wo tabe masu .",
+        "hiragana": "わたしはまいあさばななをたべます。"
+      },
+      "linked_words": [
+        {
+          "guid": "N06_016",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_016",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00068",
+      "translations": {
+        "bn": "আমরা বাজারে কলা কিনেছিলাম।",
+        "ja": "私たちは市場でバナナを買いました。",
+        "romaji": "watashitachi ha shijou de banana wo kai mashita .",
+        "hiragana": "わたしたちはしじょうでばななをかいました。"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_028",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_016",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_016",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00069",
+      "translations": {
+        "bn": "সে একটি তাজা টমেটো খাচ্ছে।",
+        "ja": "彼女は新鮮なトマトを食べます。",
+        "romaji": "kanojo ha shinsen na tomato wo tabe masu .",
+        "hiragana": "かのじょはしんせんなとまとをたべます。"
+      },
+      "linked_words": [
+        {
+          "guid": "A05_109",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_018",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_018",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00070",
+      "translations": {
+        "bn": "আমরা বাজারে টমেটো কিনেছি।",
+        "ja": "私たちは市場でトマトを買いました。",
+        "romaji": "watashitachi ha shijou de tomato wo kai mashita .",
+        "hiragana": "わたしたちはしじょうでとまとをかいました。"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_028",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_018",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_018",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00071",
+      "translations": {
+        "bn": "তিনি সালাদে একটি টমেটো যোগ করেন।",
+        "ja": "彼はトマトをサラダに置きます。",
+        "romaji": "kareha tomato wo sarada ni oki masu .",
+        "hiragana": "かれはとまとをさらだにおきます。"
+      },
+      "linked_words": [
+        {
+          "guid": "N06_018",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_028",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_010",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_018",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00073",
+      "translations": {
+        "bn": "সে প্রতিদিন ভাত খায়।",
+        "ja": "彼女は毎日米を食べます。",
+        "romaji": "kanojo ha mainichi kome wo tabe masu .",
+        "hiragana": "かのじょはまいにちこめをたべます。"
+      },
+      "linked_words": [
+        {
+          "guid": "N25_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_020",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_020",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00075",
+      "translations": {
+        "bn": "আমার বন্ধু আরও চাল চাইছে।",
+        "ja": "私の友達はもっとご飯が欲しいです。",
+        "romaji": "watashi no tomodachi hamottogo meshi ga hoshii desu .",
+        "hiragana": "わたしのともだちはもっとごめしがほしいです。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V05_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_020",
+      "minimum_level": 5
+    },
+    {
+      "sentence_id": "S_00079",
+      "translations": {
+        "bn": "তারা দুপুরের খাবারে টমেটোর স্যুপ কিনেছিল।",
+        "ja": "彼らは昼食にトマトスープを買いました。",
+        "romaji": "karera ha chuushoku ni tomatosuupu wo kai mashita .",
+        "hiragana": "かれらはちゅうしょくにとまとすーぷをかいました。"
+      },
+      "linked_words": [
+        {
+          "guid": "N06_087",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_018",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_021",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_021",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00080",
+      "translations": {
+        "bn": "আমার বন্ধু রুটির সাথে স্যুপ খেয়েছে।",
+        "ja": "私の友達はスープとパンを食べました。",
+        "romaji": "watashi no tomodachi ha suupu to pan wo tabe mashita .",
+        "hiragana": "わたしのともだちはすーぷとぱんをたべました。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_021",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_021",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00081",
+      "translations": {
+        "bn": "আমি বাজারে খাবার কিনে আনি।",
+        "ja": "私は市場で食べ物を買います。",
+        "romaji": "watashi ha shijou de tabemono wo kai masu .",
+        "hiragana": "わたしはしじょうでたべものをかいます。"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_028",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_092",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_092",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00083",
+      "translations": {
+        "bn": "তাদের ব্যাগে খাবার আছে।",
+        "ja": "彼らは自分の袋に食べ物を持っています。",
+        "romaji": "karera ha jibun no fukuro ni tabemono wo motsu teimasu .",
+        "hiragana": "かれらはじぶんのふくろにたべものをもっています。"
+      },
+      "linked_words": [
+        {
+          "guid": "N08_009",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_092",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_002",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_092",
+      "minimum_level": 2
+    },
+    {
+      "sentence_id": "S_00084",
+      "translations": {
+        "bn": "আপনি কি এই খাবারটি পছন্দ করছেন?",
+        "ja": "この食べ物は好きですか？",
+        "romaji": "kono tabemono ha suki desuka ？",
+        "hiragana": "このたべものはすきですか？"
+      },
+      "linked_words": [
+        {
+          "guid": "N06_092",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V05_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N06_092",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00085",
+      "translations": {
+        "bn": "আজ তিনি একটি পরিষ্কার শার্ট পরে আছেন।",
+        "ja": "彼は今日きれいなシャツを着ています。",
+        "romaji": "kareha kyou kireina shatsu wo kite imasu .",
+        "hiragana": "かれはきょうきれいなしゃつをきています。"
+      },
+      "linked_words": [
+        {
+          "guid": "A18_027",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_031",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_001",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00086",
+      "translations": {
+        "bn": "তিনি একটি নীল রঙের শার্ট কিনেছেন।",
+        "ja": "彼女は青いシャツを買いました。",
+        "romaji": "kanojo ha aoi shatsu wo kai mashita .",
+        "hiragana": "かのじょはあおいしゃつをかいました。"
+      },
+      "linked_words": [
+        {
+          "guid": "A02_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_001",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00088",
+      "translations": {
+        "bn": "তারা একটি নোংরা শার্ট খুঁজে পেয়েছে।",
+        "ja": "彼らは汚いシャツを見つけた。",
+        "romaji": "karera ha kitanai shatsu wo mitsu keta .",
+        "hiragana": "かれらはきたないしゃつをみつけた。"
+      },
+      "linked_words": [
+        {
+          "guid": "A18_070",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_009",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_001",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00089",
+      "translations": {
+        "bn": "আমি গতকাল নতুন প্যান্ট কিনেছি।",
+        "ja": "私は昨日新しいズボンを買いました。",
+        "romaji": "watashi ha kinou atarashii zubon wo kai mashita .",
+        "hiragana": "わたしはきのうあたらしいずぼんをかいました。"
+      },
+      "linked_words": [
+        {
+          "guid": "A05_035",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_002",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00091",
+      "translations": {
+        "bn": "আমার বন্ধু ভেজা প্যান্ট খুঁজে পেয়েছে।",
+        "ja": "私の友達は濡れたズボンを見つけた。",
+        "romaji": "watashi no tomodachi ha nure ta zubon wo mitsu keta .",
+        "hiragana": "わたしのともだちはぬれたずぼんをみつけた。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A18_011",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_009",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_002",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_00092",
+      "translations": {
+        "bn": "তাদের কাছে কি পরিষ্কার প্যান্ট আছে?",
+        "ja": "彼らはきれいなズボンを持っていますか？",
+        "romaji": "karera hakireina zubon wo motsu teimasuka ？",
+        "hiragana": "かれらはきれいなずぼんをもっていますか？"
+      },
+      "linked_words": [
+        {
+          "guid": "A18_027",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_002",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_002",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00093",
+      "translations": {
+        "bn": "আজ তিনি লাল রঙের একটি পোশাক পরেছেন।",
+        "ja": "彼女は今日赤いワンピースを着ています。",
+        "romaji": "kanojo ha kyou akai wanpiisu wo kite imasu .",
+        "hiragana": "かのじょはきょうあかいわんぴーすをきています。"
+      },
+      "linked_words": [
+        {
+          "guid": "A02_003",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_003",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_031",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_003",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00094",
+      "translations": {
+        "bn": "আমার একজন বন্ধু একটি নীল রঙের পোশাক কিনেছে।",
+        "ja": "私の友達は青いワンピースを買いました。",
+        "romaji": "watashi no tomodachi ha aoi wanpiisu wo kai mashita .",
+        "hiragana": "わたしのともだちはあおいわんぴーすをかいました。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A02_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_003",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_003",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00095",
+      "translations": {
+        "bn": "তারা দোকানে পোশাকটি দেখছে।",
+        "ja": "彼らは店でワンピースを見ます。",
+        "romaji": "karera ha mise de wanpiisu wo mima su .",
+        "hiragana": "かれらはみせでわんぴーすをみます。"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_003",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V10_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_003",
+      "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_00097",
+      "translations": {
+        "bn": "আজ তিনি একটি গরম জ্যাকেট পরেছেন।",
+        "ja": "彼は今日暖かいジャケットを着ています。",
+        "romaji": "kareha kyou atatakai jaketto wo kite imasu .",
+        "hiragana": "かれはきょうあたたかいじゃけっとをきています。"
+      },
+      "linked_words": [
+        {
+          "guid": "A18_061",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_031",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_005",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00098",
+      "translations": {
+        "bn": "সে গতকাল একটি নতুন জ্যাকেট কিনেছিল।",
+        "ja": "彼女は昨日新しいジャケットを買いました。",
+        "romaji": "kanojo ha kinou atarashii jaketto wo kai mashita .",
+        "hiragana": "かのじょはきのうあたらしいじゃけっとをかいました。"
+      },
+      "linked_words": [
+        {
+          "guid": "A05_035",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_005",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00100",
+      "translations": {
+        "bn": "তারা ভেজা জ্যাকেটটি বাইরে রেখে দিলেন।",
+        "ja": "彼らは濡れたジャケットを外に置きました。",
+        "romaji": "karera ha nure ta jaketto wo soto ni oki mashita .",
+        "hiragana": "かれらはぬれたじゃけっとをそとにおきました。"
+      },
+      "linked_words": [
+        {
+          "guid": "A18_011",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "D07_032",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_010",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_005",
+      "minimum_level": 9
+    },
+    {
+      "sentence_id": "S_00101",
+      "translations": {
+        "bn": "আমার জুতোটি দরজার পাশে রাখা আছে।",
+        "ja": "私の靴はドアのそばにあります。",
+        "romaji": "watashi no kutsu ha doa nosobaniarimasu .",
+        "hiragana": "わたしのくつはどあのそばにあります。"
+      },
+      "linked_words": [
+        {
+          "guid": "N09_006",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N47_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_006",
+      "minimum_level": 8
+    },
+    {
+      "sentence_id": "S_00102",
+      "translations": {
+        "bn": "সে একটি নতুন জুতো কিনেছে।",
+        "ja": "彼女は新しい靴を買った。",
+        "romaji": "kanojo ha atarashii kutsu wo katsu ta .",
+        "hiragana": "かのじょはあたらしいくつをかった。"
+      },
+      "linked_words": [
+        {
+          "guid": "N09_006",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_006",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00103",
+      "translations": {
+        "bn": "সে বাইরে একটি জুতা হারিয়ে ফেলেছে।",
+        "ja": "彼は外に靴を一つなくした。",
+        "romaji": "kareha soto ni kutsu wo hitotsu nakushita .",
+        "hiragana": "かれはそとにくつをひとつなくした。"
+      },
+      "linked_words": [
+        {
+          "guid": "D07_032",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_006",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_045",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_006",
+      "minimum_level": 17
+    },
+    {
+      "sentence_id": "S_00104",
+      "translations": {
+        "bn": "তারা একই ধরনের জুতো পরে।",
+        "ja": "彼らは同じ靴を履いている。",
+        "romaji": "karera ha onaji kutsu wo hai teiru .",
+        "hiragana": "かれらはおなじくつをはいている。"
+      },
+      "linked_words": [
+        {
+          "guid": "N09_006",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_031",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_006",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00106",
+      "translations": {
+        "bn": "সে একটি নীল মোজা হারিয়ে ফেলেছে।",
+        "ja": "彼女は青い靴下を一つなくした。",
+        "romaji": "kanojo ha aoi kutsushita wo hitotsu nakushita .",
+        "hiragana": "かのじょはあおいくつしたをひとつなくした。"
+      },
+      "linked_words": [
+        {
+          "guid": "A02_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_007",
+          "grammatical_form": null
+        },
+        {
+          "guid": "Z01_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_045",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_007",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": "S_00107",
+      "translations": {
+        "bn": "তারা একটি ভেজা মোজা খুঁজে পেয়েছে।",
+        "ja": "彼らは濡れた靴下を見つけました",
+        "romaji": "karera ha nure ta kutsushita wo mitsu kemashita",
+        "hiragana": "かれらはぬれたくつしたをみつけました"
+      },
+      "linked_words": [
+        {
+          "guid": "A18_011",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_007",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_009",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_007",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_00108",
+      "translations": {
+        "bn": "তিনি পরিষ্কার মোজা পরলেন।",
+        "ja": "彼はきれいな靴下を履いた。",
+        "romaji": "kareha kireina kutsushita wo hai ta .",
+        "hiragana": "かれはきれいなくつしたをはいた。"
+      },
+      "linked_words": [
+        {
+          "guid": "A18_027",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_007",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_010",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_007",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00109",
+      "translations": {
+        "bn": "আজ তিনি একটি কালো টুপি পরেছেন।",
+        "ja": "彼女は今日黒い帽子をかぶっています。",
+        "romaji": "kanojo ha kyou kuroi boushi wokabutteimasu .",
+        "hiragana": "かのじょはきょうくろいぼうしをかぶっています。"
+      },
+      "linked_words": [
+        {
+          "guid": "A02_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_008",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_008",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00110",
+      "translations": {
+        "bn": "তিনি তার টুপি খুলে ফেললেন।",
+        "ja": "彼は帽子を取った。",
+        "romaji": "kareha boushi wo totsu ta .",
+        "hiragana": "かれはぼうしをとった。"
+      },
+      "linked_words": [
+        {
+          "guid": "N09_008",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_006",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_008",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00112",
+      "translations": {
+        "bn": "আপনি কি আমার গরম টুপিটি নিতে চান?",
+        "ja": "私の暖かい帽子が欲しいですか？",
+        "romaji": "watashi no atatakai boushi ga hoshii desuka ？",
+        "hiragana": "わたしのあたたかいぼうしがほしいですか？"
+      },
+      "linked_words": [
+        {
+          "guid": "A18_061",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_008",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V05_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_008",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00113",
+      "translations": {
+        "bn": "তিনি একটি গ্লাভস পরেন।",
+        "ja": "彼女は手袋をはめます。",
+        "romaji": "kanojo ha tebukuro wohamemasu .",
+        "hiragana": "かのじょはてぶくろをはめます。"
+      },
+      "linked_words": [
+        {
+          "guid": "N09_009",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_010",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_009",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00115",
+      "translations": {
+        "bn": "আমার বন্ধু গরম হাতমোজা কিনেছে।",
+        "ja": "私の友達は暖かい手袋を買いました。",
+        "romaji": "watashi no tomodachi ha atatakai tebukuro wo kai mashita .",
+        "hiragana": "わたしのともだちはあたたかいてぶくろをかいました。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A18_061",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_009",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_009",
+      "minimum_level": 5
+    },
+    {
+      "sentence_id": "S_00116",
+      "translations": {
+        "bn": "আপনার কাছে কি গ্লাভস আছে?",
+        "ja": "手袋はありますか？",
+        "romaji": "tebukuro haarimasuka ？",
+        "hiragana": "てぶくろはありますか？"
+      },
+      "linked_words": [
+        {
+          "guid": "N09_009",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_002",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_009",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": "S_00117",
+      "translations": {
+        "bn": "আজ তিনি একটি নীল রঙের সোয়েটার পরেছেন।",
+        "ja": "彼女は今日青いセーターを着ています。",
+        "romaji": "kanojo ha kyou aoi seetaa wo kite imasu .",
+        "hiragana": "かのじょはきょうあおいせーたーをきています。"
+      },
+      "linked_words": [
+        {
+          "guid": "A02_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_011",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_031",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_011",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00118",
+      "translations": {
+        "bn": "আমার একজন বন্ধু গতকাল একটি সোয়েটার কিনেছিল।",
+        "ja": "私の友達は昨日セーターを買いました。",
+        "romaji": "watashi no tomodachi ha kinou seetaa wo kai mashita .",
+        "hiragana": "わたしのともだちはきのうせーたーをかいました。"
+      },
+      "linked_words": [
+        {
+          "guid": "N01_059",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_011",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_011",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00119",
+      "translations": {
+        "bn": "তারা সোয়েটারটি চেয়ারের উপরে রাখলেন।",
+        "ja": "彼らはセーターを椅子の上に置きました。",
+        "romaji": "karera ha seetaa wo isu no ueni oki mashita .",
+        "hiragana": "かれらはせーたーをいすのうえにおきました。"
+      },
+      "linked_words": [
+        {
+          "guid": "N09_011",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N39_001",
+          "grammatical_form": "preposition/base"
+        },
+        {
+          "guid": "V01_010",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_011",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00121",
+      "translations": {
+        "bn": "আমার আজ পরিষ্কার অন্তর্বাস দরকার।",
+        "ja": "今日はきれいな下着が必要です。",
+        "romaji": "konnichiha kireina shitagi ga hitsuyou desu .",
+        "hiragana": "こんにちはきれいなしたぎがひつようです。"
+      },
+      "linked_words": [
+        {
+          "guid": "D03_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A18_027",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_012",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V04_010",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_012",
+      "minimum_level": 10
+    },
+    {
+      "sentence_id": "S_00122",
+      "translations": {
+        "bn": "তিনি গতকাল নতুন অন্তর্বাস কিনেছেন।",
+        "ja": "彼女は昨日新しい下着を買いました。",
+        "romaji": "kanojo ha kinou atarashii shitagi wo kai mashita .",
+        "hiragana": "かのじょはきのうあたらしいしたぎをかいました。"
+      },
+      "linked_words": [
+        {
+          "guid": "D03_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_012",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_012",
+      "minimum_level": 4
+    },
+    {
+      "sentence_id": "S_00124",
+      "translations": {
+        "bn": "তারা তাদের শার্টের নিচে অন্তর্বাস পরে।",
+        "ja": "彼らはシャツの下に下着を着ています。",
+        "romaji": "karera ha shatsu no shitani shitagi wo kite imasu .",
+        "hiragana": "かれらはしゃつのしたにしたぎをきています。"
+      },
+      "linked_words": [
+        {
+          "guid": "N09_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N09_012",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_031",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N09_012",
+      "minimum_level": 1
+    }
+  ],
+  "source_language": "bn"
+}

@@ -1,0 +1,177 @@
+{
+  "version": 1,
+  "language": "italian",
+  "language_code": "it",
+  "generated_at": "2026-04-02T22:15:44Z",
+  "source_language": "kannada",
+  "source_language_code": "kn",
+  "config": {
+    "audio_prefix": "/staging",
+    "available_voices": [],
+    "default_voice": null,
+    "grammar": {
+      "conjugation": {
+        "tenses": [
+          {
+            "id": "past",
+            "label": "Passato",
+            "order": 1,
+            "has_persons": true,
+            "person_slots": [
+              "1s",
+              "2s",
+              "3s",
+              "1p",
+              "2p",
+              "3p"
+            ],
+            "description": "Simple past forms used in core conjugation activities."
+          },
+          {
+            "id": "pres",
+            "label": "Presente",
+            "order": 2,
+            "has_persons": true,
+            "person_slots": [
+              "1s",
+              "2s",
+              "3s",
+              "1p",
+              "2p",
+              "3p"
+            ],
+            "description": "Present indicative conjugations."
+          },
+          {
+            "id": "fut",
+            "label": "Futuro",
+            "order": 3,
+            "has_persons": true,
+            "person_slots": [
+              "1s",
+              "2s",
+              "3s",
+              "1p",
+              "2p",
+              "3p"
+            ],
+            "description": "Future tense conjugations."
+          }
+        ],
+        "person_labels": {
+          "1s": "io",
+          "2s": "tu",
+          "3s": "lui/lei",
+          "1p": "noi",
+          "2p": "voi",
+          "3p": "loro"
+        }
+      }
+    }
+  },
+  "word_files": [
+    {
+      "id": "levels_1_5",
+      "filename": "wireword_levels_1_5.json",
+      "display_name": "Levels 1-5",
+      "type": "words",
+      "md5": "c8a66ffa71ed5add6cb12b626e7fca84",
+      "levels": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "required": true,
+      "word_count": 186,
+      "groups": [
+        "Animals",
+        "Body Part",
+        "Building/Structure",
+        "Cardinal",
+        "Clothing/Accessory",
+        "Color",
+        "Communication",
+        "Directional Movement",
+        "Emotion",
+        "Food",
+        "Humans",
+        "Interjection Other",
+        "Occupation",
+        "Perception",
+        "Physical Action",
+        "Possession",
+        "Shape",
+        "Small Movable Object",
+        "Specific Time",
+        "Vehicle"
+      ]
+    },
+    {
+      "id": "levels_6_10",
+      "filename": "wireword_levels_6_10.json",
+      "display_name": "Levels 6-10",
+      "type": "words",
+      "md5": "2cc4790533adaa68549973b415669d93",
+      "levels": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "required": true,
+      "word_count": 255,
+      "groups": [
+        "Animals",
+        "Beverage",
+        "Body Part",
+        "Building Part",
+        "Building/Structure",
+        "Change",
+        "Clothing/Accessory",
+        "Communication",
+        "Conjunction Other",
+        "Country",
+        "Directional Movement",
+        "Electronic Device",
+        "Emotion",
+        "Emotional State",
+        "Existence",
+        "Food",
+        "Furniture",
+        "Location",
+        "Material/Substance",
+        "Mental State",
+        "Nationality",
+        "Ordinal",
+        "Personal Quality",
+        "Physical Action",
+        "Physical Property",
+        "Plant Part",
+        "Plants",
+        "Possession",
+        "Preposition Other",
+        "Pronoun Other",
+        "Quality",
+        "Sequence",
+        "Size",
+        "Small Movable Object",
+        "Technology Digital"
+      ]
+    }
+  ],
+  "sentence_files": [
+    {
+      "id": "sentences",
+      "filename": "wireword_sentences.json",
+      "display_name": "Practice Sentences",
+      "description": "Sentences for context-based learning",
+      "type": "sentences",
+      "md5": "2e60ad66558b1149a10b2298ffae709b",
+      "required": false
+    }
+  ],
+  "auxiliary_files": []
+}

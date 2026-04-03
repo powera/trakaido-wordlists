@@ -2,9 +2,120 @@
   "language": "it",
   "sentences": [
     {
+      "sentence_id": "S_00001",
+      "translations": {
+        "kn": "ಅವರು ಮನೆಯತ್ತ ನಡೆದುಕೊಂಡು ಹೋಗುತ್ತಾರೆ.",
+        "it": "Loro camminano verso la casa."
+      },
+      "linked_words": [
+        {
+          "guid": "V12_001",
+          "grammatical_form": "verb/it_3p_present"
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": "noun/it_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00002",
+      "translations": {
+        "kn": "ಅವರಿಗೆ ಒಂದು ಚಿಕ್ಕ ಮನೆ ಇದೆ.",
+        "it": "Lei ha una piccola casa."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_002",
+          "grammatical_form": "verb/it_3s_present"
+        },
+        {
+          "guid": "A01_002",
+          "grammatical_form": "adjective/it_singular_f"
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_00003",
+      "translations": {
+        "kn": "ನಾವು ಮನೆಯ ಬಾಗಿಲು ತೆರೆಯುತ್ತೇವೆ.",
+        "it": "Apriamo la porta di casa."
+      },
+      "linked_words": [
+        {
+          "guid": "V01_014",
+          "grammatical_form": "verb/it_1p_present"
+        },
+        {
+          "guid": "N47_001",
+          "grammatical_form": "noun/it_singular"
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": "noun/it_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00004",
+      "translations": {
+        "kn": "ಅವರು ಒಂದು ಹೊಸ ಮನೆಯನ್ನು ಖರೀದಿಸಿದರು.",
+        "it": "Lui ha comprato una casa nuova."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N07_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A05_035",
+          "grammatical_form": "adjective/it_singular_f"
+        }
+      ],
+      "source": "buivolas_guided_N07_001",
+      "minimum_level": 3
+    },
+    {
+      "sentence_id": "S_00005",
+      "translations": {
+        "kn": "ನನ್ನ ಮಗ ಶಾಲೆಗೆ ಹೋಗುತ್ತಾನೆ.",
+        "it": "Mio figlio va a scuola."
+      },
+      "linked_words": [
+        {
+          "guid": "N35_036",
+          "grammatical_form": "noun/it_singular"
+        },
+        {
+          "guid": "V12_004",
+          "grammatical_form": "verb/it_3s_present"
+        },
+        {
+          "guid": "N07_002",
+          "grammatical_form": "noun/it_singular"
+        }
+      ],
+      "source": "buivolas_guided_N07_002",
+      "minimum_level": 10
+    },
+    {
       "sentence_id": "S_00013",
       "translations": {
-        "kn": "ನಾನು ಅಂಗಡಿಯಲ್ಲಿ ರೊಟ್ಟೆ ಕೊಳ್ಳುತ್ತೇನೆ.",
+        "kn": "ನಾನು ಅಂಗಡಿಯಲ್ಲಿ ಬ್ರೆಡ್ ಖರೀದಿಸುತ್ತೇನೆ.",
         "it": "Compro il pane al negozio."
       },
       "linked_words": [

@@ -3750,6 +3750,26 @@
       "minimum_level": 5
     },
     {
+      "sentence_id": "S_00234",
+      "translations": {
+        "en": "We saw a pig at the fair.",
+        "zh": "我们在集市上看见了一只猪。",
+        "pinyin": "wǒ men zài jí shì shàng kàn jiàn le yī zhī zhū 。"
+      },
+      "linked_words": [
+        {
+          "guid": "V10_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N02_006",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N02_006",
+      "minimum_level": 3
+    },
+    {
       "sentence_id": "S_00239",
       "translations": {
         "en": "We saw chickens near the farm.",

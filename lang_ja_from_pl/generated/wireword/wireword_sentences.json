@@ -1,0 +1,31 @@
+{
+  "language": "ja",
+  "sentences": [
+    {
+      "sentence_id": "S_00013",
+      "translations": {
+        "pl": "Kupuję chleb w sklepie.",
+        "ja": "私は店でパンを買います。",
+        "romaji": "watashi ha mise de pan wo kai masu .",
+        "hiragana": "わたしはみせでぱんをかいます。"
+      },
+      "linked_words": [
+        {
+          "guid": "N07_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_004",
+          "grammatical_form": null
+        }
+      ],
+      "source": "buivolas_guided_N07_005",
+      "minimum_level": 1
+    }
+  ],
+  "source_language": "pl"
+}
