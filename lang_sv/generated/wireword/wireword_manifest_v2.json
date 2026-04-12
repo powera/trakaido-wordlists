@@ -2,7 +2,7 @@
   "version": 1,
   "language": "swedish",
   "language_code": "sv",
-  "generated_at": "2026-04-12T17:24:49Z",
+  "generated_at": "2026-04-12T17:33:14Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [],
@@ -151,11 +151,11 @@
   "sentence_files": [
     {
       "id": "sentences",
-      "filename": "0768a72bbf738a8ac4d368fcbb81620f.json",
+      "filename": "fc7f239a2c3862bcf877791ba837779b.json",
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "0768a72bbf738a8ac4d368fcbb81620f",
+      "md5": "fc7f239a2c3862bcf877791ba837779b",
       "required": false
     }
   ],

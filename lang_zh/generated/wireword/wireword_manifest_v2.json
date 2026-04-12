@@ -2,7 +2,7 @@
   "version": 1,
   "language": "chinese",
   "language_code": "zh",
-  "generated_at": "2026-04-12T17:24:34Z",
+  "generated_at": "2026-04-12T17:33:07Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -229,11 +229,11 @@
   "sentence_files": [
     {
       "id": "sentences",
-      "filename": "c22dcc15932b80cf0d75f6ba1c6079f0.json",
+      "filename": "eb19c0a4219fe8ea953b8c1ace3c38e6.json",
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "c22dcc15932b80cf0d75f6ba1c6079f0",
+      "md5": "eb19c0a4219fe8ea953b8c1ace3c38e6",
       "required": false
     }
   ],

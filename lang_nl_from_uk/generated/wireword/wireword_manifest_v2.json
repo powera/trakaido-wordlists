@@ -2,7 +2,7 @@
   "version": 1,
   "language": "dutch",
   "language_code": "nl",
-  "generated_at": "2026-04-12T17:25:07Z",
+  "generated_at": "2026-04-12T17:33:23Z",
   "source_language": "ukrainian",
   "source_language_code": "uk",
   "config": {
@@ -166,11 +166,11 @@
   "sentence_files": [
     {
       "id": "sentences",
-      "filename": "80e3c8c955db505b4aa5a441ca7ee831.json",
+      "filename": "b156e391afd2a9d83013345f32ac628b.json",
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "80e3c8c955db505b4aa5a441ca7ee831",
+      "md5": "b156e391afd2a9d83013345f32ac628b",
       "required": false
     }
   ],

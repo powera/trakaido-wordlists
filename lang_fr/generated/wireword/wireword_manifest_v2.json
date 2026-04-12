@@ -2,7 +2,7 @@
   "version": 1,
   "language": "french",
   "language_code": "fr",
-  "generated_at": "2026-04-12T17:24:39Z",
+  "generated_at": "2026-04-12T17:33:10Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -288,11 +288,11 @@
   "sentence_files": [
     {
       "id": "sentences",
-      "filename": "10a6e1827d248f1c25949103e731c882.json",
+      "filename": "2d14a39ed6c4d05614bb90fbb40588ab.json",
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "10a6e1827d248f1c25949103e731c882",
+      "md5": "2d14a39ed6c4d05614bb90fbb40588ab",
       "required": false
     }
   ],

@@ -2,7 +2,7 @@
   "version": 1,
   "language": "chinese_traditional",
   "language_code": "zh_Hant",
-  "generated_at": "2026-04-12T17:24:58Z",
+  "generated_at": "2026-04-12T17:33:18Z",
   "source_language": "ukrainian",
   "source_language_code": "uk",
   "config": {
@@ -231,11 +231,11 @@
   "sentence_files": [
     {
       "id": "sentences",
-      "filename": "e2b9b3935af968c725fae95eda1cca24.json",
+      "filename": "53c680552530e6c9eda0dba9465948f7.json",
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "e2b9b3935af968c725fae95eda1cca24",
+      "md5": "53c680552530e6c9eda0dba9465948f7",
       "required": false
     }
   ],

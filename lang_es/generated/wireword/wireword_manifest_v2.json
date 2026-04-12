@@ -2,7 +2,7 @@
   "version": 1,
   "language": "spanish",
   "language_code": "es",
-  "generated_at": "2026-04-12T17:24:41Z",
+  "generated_at": "2026-04-12T17:33:11Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [],
@@ -270,11 +270,11 @@
   "sentence_files": [
     {
       "id": "sentences",
-      "filename": "e7e75078e9bcd7e0042aac4ec7292e8d.json",
+      "filename": "b9f50f935db35a446ebc75cd6886eb14.json",
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "e7e75078e9bcd7e0042aac4ec7292e8d",
+      "md5": "b9f50f935db35a446ebc75cd6886eb14",
       "required": false
     }
   ],
