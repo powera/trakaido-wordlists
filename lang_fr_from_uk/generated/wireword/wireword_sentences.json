@@ -16636,6 +16636,16 @@
       ],
       "source": "buivolas_guided_N42_018",
       "minimum_level": 9
+    },
+    {
+      "sentence_id": "S_01250",
+      "translations": {
+        "uk": "О восьмій у четвер вранці Артур почувався не дуже добре.",
+        "fr": "Jeudi matin, à huit heures, Arthur ne se sentait pas très bien."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
     }
   ],
   "source_language": "uk"

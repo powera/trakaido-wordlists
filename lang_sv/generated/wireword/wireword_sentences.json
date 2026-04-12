@@ -12424,6 +12424,16 @@
       "linked_words": [],
       "source": "buivolas_guided_N42_018",
       "minimum_level": 12
+    },
+    {
+      "sentence_id": "S_01249",
+      "translations": {
+        "en": "He\nhad lived in it for about three years, ever since  he  had  moved  out  of\nLondon because it made him nervous and irritable.",
+        "sv": "Han hade bott där i ungefär tre år, ända sedan han hade flyttat ut från London eftersom det gjorde honom nervös och irriterad."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
     }
   ]
 }

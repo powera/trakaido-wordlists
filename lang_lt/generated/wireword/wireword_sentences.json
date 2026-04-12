@@ -17490,6 +17490,216 @@
       ],
       "source": "buivolas_guided_N42_018",
       "minimum_level": 9
+    },
+    {
+      "sentence_id": "S_01248",
+      "translations": {
+        "en": "The only person for whom the house was in any way special was  Arthur\nDent, and that was only because it happened to be the one he lived in.",
+        "lt": "Vienintelis žmogus, kuriam namas buvo bent kuo nors ypatingas, buvo Arthuras Dentas, ir tai buvo tik todėl, kad jis atsitiktinai gyveno būtent tame name."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01249",
+      "translations": {
+        "en": "He\nhad lived in it for about three years, ever since  he  had  moved  out  of\nLondon because it made him nervous and irritable.",
+        "lt": "Jis ten buvo gyvenęs apie trejus metus, nuo tada, kai išsikraustė iš Londono, nes tas miestas darė jį nervingą ir irzlų."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01250",
+      "translations": {
+        "en": "At eight o'clock on Thursday morning Arthur didn't feel very good.",
+        "lt": "Ketvirtadienio rytą aštuntą valandą Artūras jautėsi nelabai gerai."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01251",
+      "translations": {
+        "en": "He\nwoke up blearily, got up, wandered  blearily  round  his  room,  opened  a\nwindow, saw a bulldozer, found  his  slippers,  and  stomped  off  to  the\nbathroom to wash.",
+        "lt": "Jis miglotai prabudo, atsikėlė, miglotai vaikštinėjo po savo kambarį, atidarė langą, pamatė buldozerį, susirado šlepetes ir sunkiai nušlepsėjo į vonią praustis."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01252",
+      "translations": {
+        "en": "At eight o'clock on Thursday morning Arthur didn't feel very good.",
+        "lt": "Ketvirtadienį aštuntą valandą ryto Artūras nesijautė labai gerai."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01253",
+      "translations": {
+        "en": "Passing the bathroom he stopped to drink a large glass of water,  and\nanother.",
+        "lt": "Eidamas pro vonios kambarį, jis sustojo išgerti didelę stiklinę vandens, paskui dar vieną."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01254",
+      "translations": {
+        "en": "He began to suspect that he was hung over.",
+        "lt": "Jis pradėjo įtarti, kad jam pagirios."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01255",
+      "translations": {
+        "en": "He stood and thought.",
+        "lt": "Jis atsistojo ir pagalvojo."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01256",
+      "translations": {
+        "en": "The pub, he  thought.",
+        "lt": "„Užeiga“, pagalvojo jis."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01257",
+      "translations": {
+        "en": "Oh  dear,  the  pub.",
+        "lt": "O, Dieve, tas pub'as."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01258",
+      "translations": {
+        "en": "He\nvaguely  remembered  being  angry,  angry  about  something  that   seemed\nimportant.",
+        "lt": "Jis miglotai prisiminė, kad buvo supykęs, supykęs dėl kažko, kas atrodė svarbu."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01259",
+      "translations": {
+        "en": "Bypasses are devices which allow some people to drive from point A to\npoint B very fast whilst other people dash from point B to  point  A  very\nfast.",
+        "lt": "Aplinkkeliai yra įrenginiai, leidžiantys vieniems žmonėms labai greitai nuvažiuoti iš A taško į B tašką, o kitiems labai greitai nulėkti iš B taško į A tašką."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01260",
+      "translations": {
+        "en": "People living at point C, being a point  directly  in  between,  are\noften given to wonder what's so great about point A that so many people of\npoint B are so keen to get there, and what's so great about point  B  that\nso many people of point A are so keen to get there.",
+        "lt": "Žmonės, gyvenantys C taške, būdami tiesiogiai tarp jų esančiame taške, dažnai stebisi, kas gi tokio nuostabaus yra A taške, kad tiek daug B taško žmonių taip trokšta ten patekti, ir kas gi tokio nuostabaus yra B taške, kad tiek daug A taško žmonių taip trokšta ten patekti."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01261",
+      "translations": {
+        "en": "They often  wish  that\npeople would just once and for all work out where the hell they wanted  to\nbe.",
+        "lt": "Jie dažnai norėtų, kad žmonės pagaliau kartą ir visiems laikams išsiaiškintų, kur, po velnių, jie norėjo būti."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01262",
+      "translations": {
+        "en": "Mr Prosser wanted to be at  point  D.",
+        "lt": "Ponas Prosseris norėjo būti D taške."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01263",
+      "translations": {
+        "en": "\"But Mr Dent, the plans have been available  in  the  local  planning\noffice for the last nine month.\"\n     \"Oh yes, well as soon as I heard I went straight round to  see  them,\nyesterday afternoon.",
+        "lt": "„Bet, pone Denta, planus vietiniame planavimo skyriuje galima buvo gauti jau pastaruosius devynis mėnesius.“\n„O taip, na, vos tik apie tai išgirdau, iškart nuėjau jų pasižiūrėti — vakar popiet.“"
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01264",
+      "translations": {
+        "en": "You hadn't exactly gone  out  of  your  way  to  call\nattention to them had  you?",
+        "lt": "Tu tikrai nedėjai ypatingų pastangų atkreipti į juos dėmesį, ar ne?"
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01265",
+      "translations": {
+        "en": "I  mean  like  actually  telling  anybody  or\nanything.\"\n     \"But the plans were on display...\"\n     \"On display?",
+        "lt": "„Turiu omeny, ar tikrai ką nors kam nors sakyti ar dar ką nors.“\n     „Bet planai buvo iškabinti…“\n     „Iškabinti?“"
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01266",
+      "translations": {
+        "en": "I eventually had to go down to the cellar to find them.\"\n     \"That's the display department.\"\n     \"With a torch.\"\n     \"Ah, well the lights had probably gone.\"\n     \"So had the stairs.\"\n     \"But look, you found the notice didn't you?\"\n     \"Yes,\" said Arthur, \"yes I did.",
+        "lt": "Man galiausiai teko nusileisti į rūsį jų ieškoti.\n„Tai vitrinų skyrius.“\n„Su žibintuvėliu.“\n„A, na, tikriausiai šviesos jau buvo dingusios.“\n„Ir laiptai taip pat.“\n„Bet žiūrėkite, juk suradote skelbimą, ar ne?“\n„Taip“, tarė Artūras, „taip, suradau.“"
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01267",
+      "translations": {
+        "en": "A towel, it says,  is  about  the  most  massively  useful  thing  an\ninterstellar hitch hiker can have.",
+        "lt": "Sakoma, kad rankšluostis yra bene pats naudingiausias daiktas, kokį gali turėti tarpžvaigždinis autostopininkas."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01268",
+      "translations": {
+        "en": "Partly it has great practical  value  -\nyou can wrap it around you for warmth as you bound across the  cold  moons\nof Jaglan Beta; you can lie on it on the brilliant  marble-sanded  beaches\nof Santraginus V, inhaling the heady sea vapours; you can sleep  under  it\nbeneath the stars which shine so redly on the desert world  of  Kakrafoon;\nuse it to sail a mini raft down the slow heavy river Moth; wet it for  use\nin hand-tohand-combat; wrap it round your head to ward off  noxious  fumes\nor to avoid the  gaze  of  the  Ravenous  Bugblatter  Beast  of  Traal  (a\nmindboggingly stupid animal, it assumes that if you can't see it, it can't\nsee you - daft as a bush, but very ravenous); you can wave your  towel  in\nemergencies as a distress signal, and of course dry yourself off  with  it\nif it still seems to be clean enough.",
+        "lt": "Iš dalies jis turi didžiulę praktinę vertę – galite apsivynioti juo, kad būtų šilta, šuoliuodami per šaltus Jaglan Beta palydovus; galite ant jo atsigulti nuostabiuose marmuro smėlio Santraginus V paplūdimiuose, įkvėpdami svaiginančius jūros garus; galite po juo miegoti po žvaigždėmis, kurios taip raudonai švyti Kakrafoono dykumų pasaulyje; galite juo plukdyti mažą plaustą lėta, sunkiąja Moth upe; sudrėkinti jį artimajai kovai; apsivynioti juo galvą, kad apsisaugotumėte nuo kenksmingų garų arba išvengtumėte Ravingojo Traalio Bugblatterio Žvėries žvilgsnio (tai neįtikėtinai kvailas gyvūnas: jis mano, kad jei tu jo nematai, tai ir jis tavęs nemato — kvailas kaip krūmas, bet labai rijus); nelaimės atveju galite mojuoti savo rankšluosčiu kaip pagalbos signalu, ir, žinoma, nusisausinti juo, jei jis vis dar atrodo pakankamai švarus."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
     }
   ]
 }

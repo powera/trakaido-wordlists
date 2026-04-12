@@ -2,7 +2,7 @@
   "version": 1,
   "language": "french",
   "language_code": "fr",
-  "generated_at": "2026-04-02T22:15:56Z",
+  "generated_at": "2026-04-12T17:26:24Z",
   "source_language": "romanian",
   "source_language_code": "ro",
   "config": {
@@ -12,6 +12,7 @@
       "pierre"
     ],
     "default_voice": "marie",
+    "cdn_base": "https://wireword.trakaido.com",
     "grammar": {
       "conjugation": {
         "tenses": [
@@ -90,7 +91,7 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "wireword_levels_1_5.json",
+      "filename": "3972af9b8b96ea3cc91e61674c1eeb42.json",
       "display_name": "Levels 1-5",
       "type": "words",
       "md5": "3972af9b8b96ea3cc91e61674c1eeb42",
@@ -128,7 +129,7 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "wireword_levels_6_10.json",
+      "filename": "7207e013f1f5fab621d619eda180c04d.json",
       "display_name": "Levels 6-10",
       "type": "words",
       "md5": "7207e013f1f5fab621d619eda180c04d",
@@ -181,7 +182,7 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "wireword_levels_11_15.json",
+      "filename": "0601e0fc0fda4fba817be04e2ff7a756.json",
       "display_name": "Levels 11-15",
       "type": "words",
       "md5": "0601e0fc0fda4fba817be04e2ff7a756",
@@ -227,7 +228,7 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "wireword_levels_16_20.json",
+      "filename": "d2c079b5dd986422ad49db976caa9823.json",
       "display_name": "Levels 16-20",
       "type": "words",
       "md5": "d2c079b5dd986422ad49db976caa9823",
@@ -286,6 +287,16 @@
       ]
     }
   ],
-  "sentence_files": [],
+  "sentence_files": [
+    {
+      "id": "sentences",
+      "filename": "bc01c981ccd9fbe3c68005b4da225e4b.json",
+      "display_name": "Practice Sentences",
+      "description": "Sentences for context-based learning",
+      "type": "sentences",
+      "md5": "bc01c981ccd9fbe3c68005b4da225e4b",
+      "required": false
+    }
+  ],
   "auxiliary_files": []
 }

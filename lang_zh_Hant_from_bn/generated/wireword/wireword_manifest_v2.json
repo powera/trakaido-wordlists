@@ -2,7 +2,7 @@
   "version": 1,
   "language": "chinese_traditional",
   "language_code": "zh_Hant",
-  "generated_at": "2026-04-02T22:15:39Z",
+  "generated_at": "2026-04-12T17:25:19Z",
   "source_language": "bengali",
   "source_language_code": "bn",
   "config": {
@@ -12,6 +12,7 @@
       "zhiyuan"
     ],
     "default_voice": "meiling",
+    "cdn_base": "https://wireword.trakaido.com",
     "reading": {
       "style": "ruby",
       "default_system": "pinyin",
@@ -31,7 +32,7 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "wireword_levels_1_5.json",
+      "filename": "488a88c3d56cbf4a72814c9fcd251464.json",
       "display_name": "Levels 1-5",
       "type": "words",
       "md5": "488a88c3d56cbf4a72814c9fcd251464",
@@ -69,7 +70,7 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "wireword_levels_6_10.json",
+      "filename": "5fdd474e2842210f92c9feafba034c16.json",
       "display_name": "Levels 6-10",
       "type": "words",
       "md5": "5fdd474e2842210f92c9feafba034c16",
@@ -122,7 +123,7 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "wireword_levels_11_15.json",
+      "filename": "226b90c198c559befd8e17f2bb62e2d7.json",
       "display_name": "Levels 11-15",
       "type": "words",
       "md5": "226b90c198c559befd8e17f2bb62e2d7",
@@ -168,7 +169,7 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "wireword_levels_16_20.json",
+      "filename": "97c0b1dee2cc34b4ec1b6903d9d8daeb.json",
       "display_name": "Levels 16-20",
       "type": "words",
       "md5": "97c0b1dee2cc34b4ec1b6903d9d8daeb",
@@ -230,11 +231,11 @@
   "sentence_files": [
     {
       "id": "sentences",
-      "filename": "wireword_sentences.json",
+      "filename": "4e7909b8aa900119774d64e21adb5967.json",
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "7aebea0d2b1469c09dd11cc72915482c",
+      "md5": "4e7909b8aa900119774d64e21adb5967",
       "required": false
     }
   ],

@@ -2,7 +2,7 @@
   "version": 1,
   "language": "japanese",
   "language_code": "ja",
-  "generated_at": "2026-04-02T22:15:37Z",
+  "generated_at": "2026-04-12T17:25:12Z",
   "source_language": "ukrainian",
   "source_language_code": "uk",
   "config": {
@@ -12,6 +12,7 @@
       "haruto"
     ],
     "default_voice": "sakura",
+    "cdn_base": "https://wireword.trakaido.com",
     "reading": {
       "style": "ruby",
       "default_system": "hiragana",
@@ -40,7 +41,7 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "wireword_levels_1_5.json",
+      "filename": "67648142db5f582f743ca26bfd59cbfa.json",
       "display_name": "Levels 1-5",
       "type": "words",
       "md5": "67648142db5f582f743ca26bfd59cbfa",
@@ -78,7 +79,7 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "wireword_levels_6_10.json",
+      "filename": "6c67eea06971a49bf2ae1d3ec05cf034.json",
       "display_name": "Levels 6-10",
       "type": "words",
       "md5": "6c67eea06971a49bf2ae1d3ec05cf034",
@@ -128,6 +129,16 @@
       ]
     }
   ],
-  "sentence_files": [],
+  "sentence_files": [
+    {
+      "id": "sentences",
+      "filename": "e4361fe180475e675ceb1a97829bf5c1.json",
+      "display_name": "Practice Sentences",
+      "description": "Sentences for context-based learning",
+      "type": "sentences",
+      "md5": "e4361fe180475e675ceb1a97829bf5c1",
+      "required": false
+    }
+  ],
   "auxiliary_files": []
 }

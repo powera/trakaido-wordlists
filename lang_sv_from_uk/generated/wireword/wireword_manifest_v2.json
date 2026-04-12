@@ -2,13 +2,14 @@
   "version": 1,
   "language": "swedish",
   "language_code": "sv",
-  "generated_at": "2026-04-02T22:15:37Z",
+  "generated_at": "2026-04-12T17:25:10Z",
   "source_language": "ukrainian",
   "source_language_code": "uk",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [],
     "default_voice": null,
+    "cdn_base": "https://wireword.trakaido.com",
     "grammar": {
       "conjugation": {
         "tenses": [
@@ -59,7 +60,7 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "wireword_levels_1_5.json",
+      "filename": "9e4f9120c514d8eb517ad045bca1f226.json",
       "display_name": "Levels 1-5",
       "type": "words",
       "md5": "9e4f9120c514d8eb517ad045bca1f226",
@@ -97,7 +98,7 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "wireword_levels_6_10.json",
+      "filename": "f4fd1d2431b26f47a4232a94568d9c8c.json",
       "display_name": "Levels 6-10",
       "type": "words",
       "md5": "f4fd1d2431b26f47a4232a94568d9c8c",
@@ -152,11 +153,11 @@
   "sentence_files": [
     {
       "id": "sentences",
-      "filename": "wireword_sentences.json",
+      "filename": "1b3ad53f07f8da90db5b8683d40834ef.json",
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "8c42ca86a57a698c53bf69355898a235",
+      "md5": "1b3ad53f07f8da90db5b8683d40834ef",
       "required": false
     }
   ],

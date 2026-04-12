@@ -2,13 +2,14 @@
   "version": 1,
   "language": "swedish",
   "language_code": "sv",
-  "generated_at": "2026-04-02T22:15:45Z",
+  "generated_at": "2026-04-12T17:25:53Z",
   "source_language": "kannada",
   "source_language_code": "kn",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [],
     "default_voice": null,
+    "cdn_base": "https://wireword.trakaido.com",
     "grammar": {
       "conjugation": {
         "tenses": [
@@ -59,7 +60,7 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "wireword_levels_1_5.json",
+      "filename": "67808a19918717bdb3adbf8538253d2a.json",
       "display_name": "Levels 1-5",
       "type": "words",
       "md5": "67808a19918717bdb3adbf8538253d2a",
@@ -97,7 +98,7 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "wireword_levels_6_10.json",
+      "filename": "016629b7aa1cc8abf05091bb8e3f9de0.json",
       "display_name": "Levels 6-10",
       "type": "words",
       "md5": "016629b7aa1cc8abf05091bb8e3f9de0",
@@ -152,11 +153,11 @@
   "sentence_files": [
     {
       "id": "sentences",
-      "filename": "wireword_sentences.json",
+      "filename": "3d22281ed86b7fb3cd6925bc6f720a7a.json",
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "753adbbd6f82165185b01928ce774838",
+      "md5": "3d22281ed86b7fb3cd6925bc6f720a7a",
       "required": false
     }
   ],

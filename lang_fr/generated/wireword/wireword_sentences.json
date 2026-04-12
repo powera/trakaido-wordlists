@@ -16636,6 +16636,216 @@
       ],
       "source": "buivolas_guided_N42_018",
       "minimum_level": 9
+    },
+    {
+      "sentence_id": "S_01248",
+      "translations": {
+        "en": "The only person for whom the house was in any way special was  Arthur\nDent, and that was only because it happened to be the one he lived in.",
+        "fr": "La seule personne pour qui la maison avait la moindre importance était Arthur Dent, et ce n’était que parce qu’il se trouvait y vivre."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01249",
+      "translations": {
+        "en": "He\nhad lived in it for about three years, ever since  he  had  moved  out  of\nLondon because it made him nervous and irritable.",
+        "fr": "Il y avait vécu pendant environ trois ans, depuis qu’il avait quitté Londres, parce que cela le rendait nerveux et irritable."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01250",
+      "translations": {
+        "en": "At eight o'clock on Thursday morning Arthur didn't feel very good.",
+        "fr": "Jeudi matin, à huit heures, Arthur ne se sentait pas très bien."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01251",
+      "translations": {
+        "en": "He\nwoke up blearily, got up, wandered  blearily  round  his  room,  opened  a\nwindow, saw a bulldozer, found  his  slippers,  and  stomped  off  to  the\nbathroom to wash.",
+        "fr": "Il se réveilla en ayant les yeux brouillés, se leva, erra dans sa chambre d’un air encore embrumé, ouvrit une fenêtre, vit un bulldozer, retrouva ses pantoufles et s’en alla d’un pas lourd à la salle de bains pour se laver."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01252",
+      "translations": {
+        "en": "At eight o'clock on Thursday morning Arthur didn't feel very good.",
+        "fr": "Jeudi matin à huit heures, Arthur ne se sentait pas très bien."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01253",
+      "translations": {
+        "en": "Passing the bathroom he stopped to drink a large glass of water,  and\nanother.",
+        "fr": "En passant devant la salle de bains, il s’arrêta pour boire un grand verre d’eau, puis un autre."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01254",
+      "translations": {
+        "en": "He began to suspect that he was hung over.",
+        "fr": "Il a commencé à soupçonner qu’il avait la gueule de bois."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01255",
+      "translations": {
+        "en": "He stood and thought.",
+        "fr": "Il se leva et réfléchit."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01256",
+      "translations": {
+        "en": "The pub, he  thought.",
+        "fr": "Le pub, pensa-t-il."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01257",
+      "translations": {
+        "en": "Oh  dear,  the  pub.",
+        "fr": "Oh, mon Dieu, le pub."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01258",
+      "translations": {
+        "en": "He\nvaguely  remembered  being  angry,  angry  about  something  that   seemed\nimportant.",
+        "fr": "Il se rappelait vaguement avoir été en colère, en colère à propos de quelque chose qui semblait important."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01259",
+      "translations": {
+        "en": "Bypasses are devices which allow some people to drive from point A to\npoint B very fast whilst other people dash from point B to  point  A  very\nfast.",
+        "fr": "Les voies de contournement sont des dispositifs qui permettent à certaines personnes de conduire du point A au point B très vite, tandis que d’autres foncent du point B au point A très vite."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01260",
+      "translations": {
+        "en": "People living at point C, being a point  directly  in  between,  are\noften given to wonder what's so great about point A that so many people of\npoint B are so keen to get there, and what's so great about point  B  that\nso many people of point A are so keen to get there.",
+        "fr": "Les personnes vivant au point C, qui est un point directement entre les deux, se demandent souvent ce qu’il y a de si formidable au point A pour que tant de gens du point B aient tant envie d’y aller, et ce qu’il y a de si formidable au point B pour que tant de gens du point A aient tant envie d’y aller."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01261",
+      "translations": {
+        "en": "They often  wish  that\npeople would just once and for all work out where the hell they wanted  to\nbe.",
+        "fr": "Ils souhaitent souvent que les gens comprennent enfin, une bonne fois pour toutes, où diable ils voulaient être."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01262",
+      "translations": {
+        "en": "Mr Prosser wanted to be at  point  D.",
+        "fr": "M. Prosser voulait être au point D."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01263",
+      "translations": {
+        "en": "\"But Mr Dent, the plans have been available  in  the  local  planning\noffice for the last nine month.\"\n     \"Oh yes, well as soon as I heard I went straight round to  see  them,\nyesterday afternoon.",
+        "fr": "« Mais, Monsieur Dent, les plans sont disponibles au bureau local de l’urbanisme depuis neuf mois. »\n« Ah oui, eh bien, dès que je l’ai appris, je suis allé les voir tout de suite, hier après-midi. »"
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01264",
+      "translations": {
+        "en": "You hadn't exactly gone  out  of  your  way  to  call\nattention to them had  you?",
+        "fr": "Tu n’avais pas exactement fait tout ton possible pour attirer l’attention sur eux, n’est-ce pas ?"
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01265",
+      "translations": {
+        "en": "I  mean  like  actually  telling  anybody  or\nanything.\"\n     \"But the plans were on display...\"\n     \"On display?",
+        "fr": "« Je veux dire, genre, vraiment le dire à quelqu’un ou à quoi que ce soit. »\n     « Mais les plans étaient exposés… »\n     « Exposés ? »"
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01266",
+      "translations": {
+        "en": "I eventually had to go down to the cellar to find them.\"\n     \"That's the display department.\"\n     \"With a torch.\"\n     \"Ah, well the lights had probably gone.\"\n     \"So had the stairs.\"\n     \"But look, you found the notice didn't you?\"\n     \"Yes,\" said Arthur, \"yes I did.",
+        "fr": "J’ai fini par devoir descendre à la cave pour les trouver.\n« C’est le rayon des présentoirs. »\n« Avec une torche. »\n« Ah, eh bien, les lumières avaient sans doute disparu. »\n« Les escaliers aussi. »\n« Mais regardez, vous avez bien trouvé l’avis, n’est-ce pas ? »\n« Oui », dit Arthur, « oui, je l’ai trouvé. »"
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01267",
+      "translations": {
+        "en": "A towel, it says,  is  about  the  most  massively  useful  thing  an\ninterstellar hitch hiker can have.",
+        "fr": "Une serviette, dit-on, est à peu près la chose la plus immensément utile qu’un auto-stoppeur interstellaire puisse avoir."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01268",
+      "translations": {
+        "en": "Partly it has great practical  value  -\nyou can wrap it around you for warmth as you bound across the  cold  moons\nof Jaglan Beta; you can lie on it on the brilliant  marble-sanded  beaches\nof Santraginus V, inhaling the heady sea vapours; you can sleep  under  it\nbeneath the stars which shine so redly on the desert world  of  Kakrafoon;\nuse it to sail a mini raft down the slow heavy river Moth; wet it for  use\nin hand-tohand-combat; wrap it round your head to ward off  noxious  fumes\nor to avoid the  gaze  of  the  Ravenous  Bugblatter  Beast  of  Traal  (a\nmindboggingly stupid animal, it assumes that if you can't see it, it can't\nsee you - daft as a bush, but very ravenous); you can wave your  towel  in\nemergencies as a distress signal, and of course dry yourself off  with  it\nif it still seems to be clean enough.",
+        "fr": "En partie, il a une grande utilité pratique : vous pouvez vous l’enrouler autour de vous pour avoir chaud en traversant à grandes enjambées les froides lunes de Jaglan Beta ; vous pouvez vous y allonger sur les splendides plages de sable de marbre de Santraginus V, en respirant les enivrantes vapeurs marines ; vous pouvez dormir dessous sous les étoiles qui brillent si rougeoyant sur le monde désertique de Kakrafoon ; vous pouvez l’utiliser pour faire naviguer un petit radeau sur le lent et lourd fleuve Moth ; le mouiller pour le combat au corps à corps ; vous enrouler la tête dedans pour vous protéger des émanations nocives ou pour éviter le regard de la Bête Brouteuse Ravinante de Traal (un animal d’une stupidité confondante ; elle part du principe que si vous ne la voyez pas, elle ne peut pas vous voir — idiot comme une souche, mais très vorace) ; vous pouvez agiter votre serviette en cas d’urgence comme signal de détresse, et bien sûr vous en essuyer si elle vous semble encore assez propre."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
     }
   ]
 }

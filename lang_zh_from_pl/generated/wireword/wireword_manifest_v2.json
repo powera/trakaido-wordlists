@@ -2,7 +2,7 @@
   "version": 1,
   "language": "chinese",
   "language_code": "zh",
-  "generated_at": "2026-04-02T22:15:46Z",
+  "generated_at": "2026-04-12T17:25:59Z",
   "source_language": "polish",
   "source_language_code": "pl",
   "config": {
@@ -12,6 +12,7 @@
       "zhiyuan"
     ],
     "default_voice": "meiling",
+    "cdn_base": "https://wireword.trakaido.com",
     "reading": {
       "style": "ruby",
       "default_system": "pinyin",
@@ -31,7 +32,7 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "wireword_levels_1_5.json",
+      "filename": "eda5f4a9ec6a8203a18aeedc3f62e566.json",
       "display_name": "Levels 1-5",
       "type": "words",
       "md5": "eda5f4a9ec6a8203a18aeedc3f62e566",
@@ -69,7 +70,7 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "wireword_levels_6_10.json",
+      "filename": "59ed65822b2e89526751cddc78fb8230.json",
       "display_name": "Levels 6-10",
       "type": "words",
       "md5": "59ed65822b2e89526751cddc78fb8230",
@@ -122,7 +123,7 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "wireword_levels_11_15.json",
+      "filename": "59fe7b2a45678be63b32062db073a34b.json",
       "display_name": "Levels 11-15",
       "type": "words",
       "md5": "59fe7b2a45678be63b32062db073a34b",
@@ -168,7 +169,7 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "wireword_levels_16_20.json",
+      "filename": "8b7f08e3c747fc2e3ba6a0e2bc273102.json",
       "display_name": "Levels 16-20",
       "type": "words",
       "md5": "8b7f08e3c747fc2e3ba6a0e2bc273102",
@@ -227,6 +228,16 @@
       ]
     }
   ],
-  "sentence_files": [],
+  "sentence_files": [
+    {
+      "id": "sentences",
+      "filename": "5505fc0c4d5b6d04068120bb13746a5d.json",
+      "display_name": "Practice Sentences",
+      "description": "Sentences for context-based learning",
+      "type": "sentences",
+      "md5": "5505fc0c4d5b6d04068120bb13746a5d",
+      "required": false
+    }
+  ],
   "auxiliary_files": []
 }

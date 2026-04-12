@@ -1955,6 +1955,16 @@
       ],
       "source": "buivolas_guided_N09_012",
       "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_01249",
+      "translations": {
+        "en": "He\nhad lived in it for about three years, ever since  he  had  moved  out  of\nLondon because it made him nervous and irritable.",
+        "pt": "Ele morara lá havia cerca de três anos, desde que saíra de Londres porque isso o deixava nervoso e irritadiço."
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
     }
   ]
 }

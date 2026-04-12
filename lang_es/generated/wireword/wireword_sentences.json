@@ -16624,6 +16624,37 @@
       ],
       "source": "buivolas_guided_N42_018",
       "minimum_level": 9
+    },
+    {
+      "sentence_id": "S_01250",
+      "translations": {
+        "en": "At eight o'clock on Thursday morning Arthur didn't feel very good.",
+        "es": "A las ocho del jueves por la mañana, Arturo no se sintió muy bien."
+      },
+      "linked_words": [
+        {
+          "guid": "Z01_009",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N32_004",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "N25_004",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "V05_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "D01_036",
+          "grammatical_form": null
+        }
+      ],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
     }
   ]
 }

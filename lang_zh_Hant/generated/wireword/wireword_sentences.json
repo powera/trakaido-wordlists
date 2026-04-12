@@ -17267,6 +17267,237 @@
       ],
       "source": "buivolas_guided_N42_018",
       "minimum_level": 9
+    },
+    {
+      "sentence_id": "S_01248",
+      "translations": {
+        "en": "The only person for whom the house was in any way special was  Arthur\nDent, and that was only because it happened to be the one he lived in.",
+        "zh": "唯一觉得这所房子在任何意义上特别的人是阿瑟·登特，而这也只是因为碰巧那是他住的房子。",
+        "pinyin": "wéi yī jiào dé zhè suǒ fáng zi zài rèn hé yì yì shàng tè bié de rén shì ā sè · dēng tè ， ér zhè yě zhǐ shì yīn wèi pèng qiǎo nà shì tā zhù de fáng zi 。"
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01249",
+      "translations": {
+        "en": "He\nhad lived in it for about three years, ever since  he  had  moved  out  of\nLondon because it made him nervous and irritable.",
+        "zh": "自从他搬出伦敦以后，他已经在那里住了大约三年，因为伦敦让他感到神经紧张、易怒。",
+        "pinyin": "zì cóng tā bān chū lún dūn yǐ hòu ， tā yǐ jīng zài nà lǐ zhù le dà yuē sān nián ， yīn wèi lún dūn ràng tā gǎn dào shén jīng jǐn zhāng 、 yì nù 。"
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01250",
+      "translations": {
+        "en": "At eight o'clock on Thursday morning Arthur didn't feel very good.",
+        "zh": "星期四早上八点，亚瑟感觉不太好。",
+        "pinyin": "xīng qī sì zǎo shàng bā diǎn ， yà sè gǎn jué bù tài hǎo 。"
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01251",
+      "translations": {
+        "en": "He\nwoke up blearily, got up, wandered  blearily  round  his  room,  opened  a\nwindow, saw a bulldozer, found  his  slippers,  and  stomped  off  to  the\nbathroom to wash.",
+        "zh": "他迷迷糊糊地醒来，起了床，迷迷糊糊地在房间里转悠，打开一扇窗，看见一台推土机，找到了拖鞋，然后大步跺着脚朝浴室走去洗漱。",
+        "pinyin": "tā mí mí hū hū dì xǐng lái ， qǐ le chuáng ， mí mí hū hū dì zài fáng jiān lǐ zhuàn yōu ， dǎ kāi yī shàn chuāng ， kàn jiàn yī tái tuī tǔ jī ， zhǎo dào le tuō xié ， rán hòu dà bù duò zhe jiǎo cháo yù shì zǒu qù xǐ shù 。"
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01252",
+      "translations": {
+        "en": "At eight o'clock on Thursday morning Arthur didn't feel very good.",
+        "zh": "星期四早上八点，亚瑟感觉不太舒服。",
+        "pinyin": "xīng qī sì zǎo shàng bā diǎn ， yà sè gǎn jué bù tài shū fú 。"
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01253",
+      "translations": {
+        "en": "Passing the bathroom he stopped to drink a large glass of water,  and\nanother.",
+        "zh": "经过浴室时，他停下来喝了一大杯水，又喝了一杯。",
+        "pinyin": "jīng guò yù shì shí ， tā tíng xià lái hē le yī dà bēi shuǐ ， yòu hē le yī bēi 。"
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01254",
+      "translations": {
+        "en": "He began to suspect that he was hung over.",
+        "zh": "他开始怀疑自己宿醉了。",
+        "pinyin": "tā kāi shǐ huái yí zì jǐ sù zuì le 。"
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01255",
+      "translations": {
+        "en": "He stood and thought.",
+        "zh": "他站着思考。",
+        "pinyin": "tā zhàn zhe sī kǎo 。"
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01256",
+      "translations": {
+        "en": "The pub, he  thought.",
+        "zh": "酒馆，他想。",
+        "pinyin": "jiǔ guǎn ， tā xiǎng 。"
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01257",
+      "translations": {
+        "en": "Oh  dear,  the  pub.",
+        "zh": "哦，天哪，那家酒吧。",
+        "pinyin": "ó ， tiān nǎ ， nà jiā jiǔ bā 。"
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01258",
+      "translations": {
+        "en": "He\nvaguely  remembered  being  angry,  angry  about  something  that   seemed\nimportant.",
+        "zh": "他隐约记得自己曾很生气，为某件看起来很重要的事而生气。",
+        "pinyin": "tā yǐn yuē jì de zì jǐ céng hěn shēng qì ， wèi mǒu jiàn kàn qǐ lái hěn zhòng yào de shì ér shēng qì 。"
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01259",
+      "translations": {
+        "en": "Bypasses are devices which allow some people to drive from point A to\npoint B very fast whilst other people dash from point B to  point  A  very\nfast.",
+        "zh": "绕行道是一些装置，它们允许某些人非常快地从A点开到B点，而其他人则非常快地从B点冲到A点。",
+        "pinyin": "rào xíng dào shì yī xiē zhuāng zhì ， tā men yǔn xǔ mǒu xiē rén fēi cháng kuài dì cóng A diǎn kāi dào B diǎn ， ér qí tā rén zé fēi cháng kuài dì cóng B diǎn chōng dào A diǎn 。"
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01260",
+      "translations": {
+        "en": "People living at point C, being a point  directly  in  between,  are\noften given to wonder what's so great about point A that so many people of\npoint B are so keen to get there, and what's so great about point  B  that\nso many people of point A are so keen to get there.",
+        "zh": "住在C点的人，由于它是一个正好夹在中间的点，常常会纳闷A点到底有什么了不起，竟让那么多B点的人如此渴望前往那里；又会纳闷B点到底有什么了不起，竟让那么多A点的人如此渴望前往那里。",
+        "pinyin": "zhù zài C diǎn de rén ， yóu yú tā shì yí gè zhèng hǎo jiā zài zhōng jiān de diǎn ， cháng cháng huì nà mèn A diǎn dào dǐ yǒu shén me liǎo bù qǐ ， jìng ràng nà me duō B diǎn de rén rú cǐ kě wàng qián wǎng nà lǐ ； yòu huì nà mèn B diǎn dào dǐ yǒu shén me liǎo bù qǐ ， jìng ràng nà me duō A diǎn de rén rú cǐ kě wàng qián wǎng nà lǐ 。"
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01261",
+      "translations": {
+        "en": "They often  wish  that\npeople would just once and for all work out where the hell they wanted  to\nbe.",
+        "zh": "他们常常希望，人们能干脆一劳永逸地弄清楚自己到底想待在什么地方。",
+        "pinyin": "tā men cháng cháng xī wàng ， rén men néng gàn cuì yì láo yǒng yì dì nòng qīng chǔ zì jǐ dào dǐ xiǎng dài zài shén me dì fāng 。"
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01262",
+      "translations": {
+        "en": "Mr Prosser wanted to be at  point  D.",
+        "zh": "普罗瑟先生想要到达D点。",
+        "pinyin": "pǔ luó sè xiān shēng xiǎng yào dào dá D diǎn 。"
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01263",
+      "translations": {
+        "en": "\"But Mr Dent, the plans have been available  in  the  local  planning\noffice for the last nine month.\"\n     \"Oh yes, well as soon as I heard I went straight round to  see  them,\nyesterday afternoon.",
+        "zh": "“可是丹特先生，这些规划图在当地规划办公室已经可以查阅整整九个月了。”\n“哦，是的，嗯，我一听说就立刻赶过去看了，昨天下午。”",
+        "pinyin": "“ kě shì dān tè xiān shēng ， zhè xiē guī huà tú zài dāng dì guī huà bàn gōng shì yǐ jīng kě yǐ chá yuè zhěng zhěng jiǔ gè yuè le 。”\n“ ó ， shì de ， ń ， wǒ yī tīng shuō jiù lì kè gǎn guò qù kàn le ， zuó tiān xià wǔ 。”"
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01264",
+      "translations": {
+        "en": "You hadn't exactly gone  out  of  your  way  to  call\nattention to them had  you?",
+        "zh": "你并没有特意去引起人们对他们的注意，对吧？",
+        "pinyin": "nǐ bìng méi yǒu tè yì qù yǐn qǐ rén men duì tā men de zhù yì ， duì ba ？"
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01265",
+      "translations": {
+        "en": "I  mean  like  actually  telling  anybody  or\nanything.\"\n     \"But the plans were on display...\"\n     \"On display?",
+        "zh": "“我的意思是，像是真的告诉任何人或者什么的。”\n     “可是方案是公开展示的……”\n     “公开展示？”",
+        "pinyin": "“ wǒ de yì sī shì ， xiàng shì zhēn de gào sù rèn hé rén huò zhě shén me de 。”\n     “ kě shì fāng àn shì gōng kāi zhǎn shì de ……”\n     “ gōng kāi zhǎn shì ？”"
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01266",
+      "translations": {
+        "en": "I eventually had to go down to the cellar to find them.\"\n     \"That's the display department.\"\n     \"With a torch.\"\n     \"Ah, well the lights had probably gone.\"\n     \"So had the stairs.\"\n     \"But look, you found the notice didn't you?\"\n     \"Yes,\" said Arthur, \"yes I did.",
+        "zh": "我最终不得不下到地窖里去找它们。\n“那是陈列部。”\n“拿着手电筒。”\n“啊，嗯，灯大概已经熄了。”\n“楼梯也一样。”\n“不过你看，你还是找到告示了，不是吗？”\n“是的，”亚瑟说，“是的，我找到了。”",
+        "pinyin": "wǒ zuì zhōng bù dé bù xià dào dì jiào lǐ qù zhǎo tā men 。\n“ nà shì chén liè bù 。”\n“ ná zhuó shǒu diàn tǒng 。”\n“ a ， ń ， dēng dà gài yǐ jīng xī le 。”\n“ lóu tī yě yī yàng 。”\n“ bù guò nǐ kàn ， nǐ hái shì zhǎo dào gào shì le ， bú shì ma ？”\n“ shì de ，” yà sè shuō ，“ shì de ， wǒ zhǎo dào le 。”"
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01267",
+      "translations": {
+        "en": "A towel, it says,  is  about  the  most  massively  useful  thing  an\ninterstellar hitch hiker can have.",
+        "zh": "据说，一条毛巾几乎是星际搭便车者能拥有的最有用的东西。",
+        "pinyin": "jù shuō ， yī tiáo máo jīn jī hū shì xīng jì dā biàn chē zhě néng yōng yǒu de zuì yǒu yòng de dōng xī 。"
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01268",
+      "translations": {
+        "en": "Partly it has great practical  value  -\nyou can wrap it around you for warmth as you bound across the  cold  moons\nof Jaglan Beta; you can lie on it on the brilliant  marble-sanded  beaches\nof Santraginus V, inhaling the heady sea vapours; you can sleep  under  it\nbeneath the stars which shine so redly on the desert world  of  Kakrafoon;\nuse it to sail a mini raft down the slow heavy river Moth; wet it for  use\nin hand-tohand-combat; wrap it round your head to ward off  noxious  fumes\nor to avoid the  gaze  of  the  Ravenous  Bugblatter  Beast  of  Traal  (a\nmindboggingly stupid animal, it assumes that if you can't see it, it can't\nsee you - daft as a bush, but very ravenous); you can wave your  towel  in\nemergencies as a distress signal, and of course dry yourself off  with  it\nif it still seems to be clean enough.",
+        "zh": "在某种程度上，它确实具有极大的实际用途——你可以把它裹在身上取暖，在贾格兰·贝塔那些寒冷的卫星上大步前行；你可以把它铺在桑特拉金努斯 V 那些铺满灿烂大理石细沙的海滩上，吸入令人陶醉的海上蒸汽；你可以在卡克拉富恩这个沙漠世界上、那些把天空照得通红的星星下面盖着它睡觉；你可以用它把一只小筏子顺着缓慢而沉重的莫斯河漂下去；把它弄湿，用于徒手搏斗；把它裹在头上以抵挡有害烟雾，或避开特拉尔的贪食虫蠢兽的目光（这是一种蠢得令人发指的动物，它认为如果你看不见它，它也就看不见你——蠢得像一丛灌木，但又极其贪吃）；遇到紧急情况时，你可以挥舞你的毛巾作为求救信号；当然，如果它看起来还足够干净，你也可以用它把自己擦干。",
+        "pinyin": "zài mǒu zhǒng chéng dù shàng ， tā què shí jù yǒu jí dà de shí jì yòng tú —— nǐ kě yǐ bǎ tā guǒ zài shēn shàng qǔ nuǎn ， zài jiǎ gé lán · bèi tǎ nà xiē hán lěng de wèi xīng shàng dà bù qián xíng ； nǐ kě yǐ bǎ tā pù zài sāng tè lā jīn nǔ sī  V  nà xiē pù mǎn càn làn dà lǐ shí xì shā de hǎi tān shàng ， xī rù lìng rén táo zuì de hǎi shàng zhēng qì ； nǐ kě yǐ zài kǎ kè lā fù ēn zhè gè shā mò shì jiè shàng 、 nà xiē bǎ tiān kōng zhào dé tòng hóng de xīng xīng xià miàn gài zhe tā shuì jiào ； nǐ kě yǐ yòng tā bǎ yī zhī xiǎo fá zi shùn zhe huǎn màn ér chén zhòng de mò sī hé piāo xià qù ； bǎ tā nòng shī ， yòng yú tú shǒu bó dòu ； bǎ tā guǒ zài tóu shàng yǐ dǐ dǎng yǒu hài yān wù ， huò bì kāi tè lā ěr de tān shí chóng chǔn shòu de mù guāng （ zhè shì yī zhǒng chǔn dé lìng rén fà zhǐ de dòng wù ， tā rèn wéi rú guǒ nǐ kàn bú jiàn tā ， tā yě jiù kàn bú jiàn nǐ —— chǔn dé xiàng yī cóng guàn mù ， dàn yòu jí qí tān chī ）； yù dào jǐn jí qíng kuàng shí ， nǐ kě yǐ huī wǔ nǐ de máo jīn zuò wéi qiú jiù xìn hào ； dāng rán ， rú guǒ tā kàn qǐ lái hái zú gòu gān jìng ， nǐ yě kě yǐ yòng tā bǎ zì jǐ cā gàn 。"
+      },
+      "linked_words": [],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
     }
   ]
 }

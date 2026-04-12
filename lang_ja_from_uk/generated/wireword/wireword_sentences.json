@@ -2105,6 +2105,35 @@
       ],
       "source": "buivolas_guided_N09_012",
       "minimum_level": 1
+    },
+    {
+      "sentence_id": "S_01250",
+      "translations": {
+        "uk": "О восьмій у четвер вранці Артур почувався не дуже добре.",
+        "ja": "木曜日の朝八時に、アーサーはあまり気分が良くなかった。",
+        "romaji": "mokuyoubi no asa hachi tokini , aasaa haamari kibun ga yoku nakatta .",
+        "hiragana": "もくようびのあさはちときに、あーさーはあまりきぶんがよくなかった。"
+      },
+      "linked_words": [
+        {
+          "guid": "N32_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N25_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "Z01_009",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V05_005",
+          "grammatical_form": null
+        }
+      ],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
     }
   ],
   "source_language": "uk"

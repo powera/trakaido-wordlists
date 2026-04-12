@@ -2,7 +2,7 @@
   "version": 1,
   "language": "lithuanian",
   "language_code": "lt",
-  "generated_at": "2026-04-02T22:15:53Z",
+  "generated_at": "2026-04-12T17:26:17Z",
   "source_language": "romanian",
   "source_language_code": "ro",
   "config": {
@@ -12,6 +12,7 @@
       "jonas"
     ],
     "default_voice": "ruta",
+    "cdn_base": "https://wireword.trakaido.com",
     "grammar": {
       "conjugation": {
         "tenses": [
@@ -101,7 +102,7 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "wireword_levels_1_5.json",
+      "filename": "96c2b25b0356fdb8406409148aac33fd.json",
       "display_name": "Levels 1-5",
       "type": "words",
       "md5": "96c2b25b0356fdb8406409148aac33fd",
@@ -139,7 +140,7 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "wireword_levels_6_10.json",
+      "filename": "476f3ac3608fcde09e99d4ab33049eed.json",
       "display_name": "Levels 6-10",
       "type": "words",
       "md5": "476f3ac3608fcde09e99d4ab33049eed",
@@ -192,7 +193,7 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "wireword_levels_11_15.json",
+      "filename": "3b3f43c33ba51b3ab6af273b16ac6554.json",
       "display_name": "Levels 11-15",
       "type": "words",
       "md5": "3b3f43c33ba51b3ab6af273b16ac6554",
@@ -238,7 +239,7 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "wireword_levels_16_20.json",
+      "filename": "a4665d956f174f08fed0e759f0677a24.json",
       "display_name": "Levels 16-20",
       "type": "words",
       "md5": "a4665d956f174f08fed0e759f0677a24",
@@ -298,7 +299,7 @@
     },
     {
       "id": "levels_21_25",
-      "filename": "wireword_levels_21_25.json",
+      "filename": "b3450ea2fc5cd71673df96911f1b0597.json",
       "display_name": "Levels 21-25",
       "type": "words",
       "md5": "b3450ea2fc5cd71673df96911f1b0597",
@@ -362,7 +363,7 @@
     },
     {
       "id": "levels_26_30",
-      "filename": "wireword_levels_26_30.json",
+      "filename": "43261509308d2b7e2648b1677253d608.json",
       "display_name": "Levels 26-30",
       "type": "words",
       "md5": "43261509308d2b7e2648b1677253d608",
@@ -449,6 +450,16 @@
       ]
     }
   ],
-  "sentence_files": [],
+  "sentence_files": [
+    {
+      "id": "sentences",
+      "filename": "88d2e6fbb4e078d3c264e12df48f6032.json",
+      "display_name": "Practice Sentences",
+      "description": "Sentences for context-based learning",
+      "type": "sentences",
+      "md5": "88d2e6fbb4e078d3c264e12df48f6032",
+      "required": false
+    }
+  ],
   "auxiliary_files": []
 }

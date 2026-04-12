@@ -2,7 +2,7 @@
   "version": 1,
   "language": "chinese_traditional",
   "language_code": "zh_Hant",
-  "generated_at": "2026-04-02T22:15:55Z",
+  "generated_at": "2026-04-12T17:26:22Z",
   "source_language": "romanian",
   "source_language_code": "ro",
   "config": {
@@ -12,6 +12,7 @@
       "zhiyuan"
     ],
     "default_voice": "meiling",
+    "cdn_base": "https://wireword.trakaido.com",
     "reading": {
       "style": "ruby",
       "default_system": "pinyin",
@@ -31,7 +32,7 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "wireword_levels_1_5.json",
+      "filename": "548dc97d79702e23042475f359858804.json",
       "display_name": "Levels 1-5",
       "type": "words",
       "md5": "548dc97d79702e23042475f359858804",
@@ -69,7 +70,7 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "wireword_levels_6_10.json",
+      "filename": "c8caf80b9203196da0db497b34c49dca.json",
       "display_name": "Levels 6-10",
       "type": "words",
       "md5": "c8caf80b9203196da0db497b34c49dca",
@@ -122,7 +123,7 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "wireword_levels_11_15.json",
+      "filename": "db754b7a8380952a6cff7a177085ce38.json",
       "display_name": "Levels 11-15",
       "type": "words",
       "md5": "db754b7a8380952a6cff7a177085ce38",
@@ -168,7 +169,7 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "wireword_levels_16_20.json",
+      "filename": "6497361c530758a2ea4f7de481c931c3.json",
       "display_name": "Levels 16-20",
       "type": "words",
       "md5": "6497361c530758a2ea4f7de481c931c3",
@@ -227,6 +228,16 @@
       ]
     }
   ],
-  "sentence_files": [],
+  "sentence_files": [
+    {
+      "id": "sentences",
+      "filename": "f7747a9d722831474bd64edc3725e627.json",
+      "display_name": "Practice Sentences",
+      "description": "Sentences for context-based learning",
+      "type": "sentences",
+      "md5": "f7747a9d722831474bd64edc3725e627",
+      "required": false
+    }
+  ],
   "auxiliary_files": []
 }

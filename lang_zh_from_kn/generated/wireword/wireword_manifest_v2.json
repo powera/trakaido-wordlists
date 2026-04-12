@@ -2,7 +2,7 @@
   "version": 1,
   "language": "chinese",
   "language_code": "zh",
-  "generated_at": "2026-04-02T22:15:42Z",
+  "generated_at": "2026-04-12T17:25:39Z",
   "source_language": "kannada",
   "source_language_code": "kn",
   "config": {
@@ -12,6 +12,7 @@
       "zhiyuan"
     ],
     "default_voice": "meiling",
+    "cdn_base": "https://wireword.trakaido.com",
     "reading": {
       "style": "ruby",
       "default_system": "pinyin",
@@ -31,7 +32,7 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "wireword_levels_1_5.json",
+      "filename": "358e0d53e6020ca9ba315e5d297fe5c3.json",
       "display_name": "Levels 1-5",
       "type": "words",
       "md5": "358e0d53e6020ca9ba315e5d297fe5c3",
@@ -69,7 +70,7 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "wireword_levels_6_10.json",
+      "filename": "61c15efd3807045a6273affe043eff51.json",
       "display_name": "Levels 6-10",
       "type": "words",
       "md5": "61c15efd3807045a6273affe043eff51",
@@ -122,7 +123,7 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "wireword_levels_11_15.json",
+      "filename": "b466fa746fd6bb95d98780b9e30bd606.json",
       "display_name": "Levels 11-15",
       "type": "words",
       "md5": "b466fa746fd6bb95d98780b9e30bd606",
@@ -168,7 +169,7 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "wireword_levels_16_20.json",
+      "filename": "c8cdd2eaa46a943ae705927ca9e61b35.json",
       "display_name": "Levels 16-20",
       "type": "words",
       "md5": "c8cdd2eaa46a943ae705927ca9e61b35",
@@ -230,11 +231,11 @@
   "sentence_files": [
     {
       "id": "sentences",
-      "filename": "wireword_sentences.json",
+      "filename": "7e54a67e241ee37f9c77865174e727a8.json",
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "f5043c308b94006296b61c78c2ea218f",
+      "md5": "7e54a67e241ee37f9c77865174e727a8",
       "required": false
     }
   ],

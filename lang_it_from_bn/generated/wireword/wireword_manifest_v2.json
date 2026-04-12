@@ -2,13 +2,14 @@
   "version": 1,
   "language": "italian",
   "language_code": "it",
-  "generated_at": "2026-04-02T22:15:40Z",
+  "generated_at": "2026-04-12T17:25:28Z",
   "source_language": "bengali",
   "source_language_code": "bn",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [],
     "default_voice": null,
+    "cdn_base": "https://wireword.trakaido.com",
     "grammar": {
       "conjugation": {
         "tenses": [
@@ -72,7 +73,7 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "wireword_levels_1_5.json",
+      "filename": "5ec265de49aef77f5ef1b437fcf65ce9.json",
       "display_name": "Levels 1-5",
       "type": "words",
       "md5": "5ec265de49aef77f5ef1b437fcf65ce9",
@@ -110,7 +111,7 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "wireword_levels_6_10.json",
+      "filename": "ed23c33fed2e6e077f5428075c5a6e73.json",
       "display_name": "Levels 6-10",
       "type": "words",
       "md5": "ed23c33fed2e6e077f5428075c5a6e73",
@@ -165,11 +166,11 @@
   "sentence_files": [
     {
       "id": "sentences",
-      "filename": "wireword_sentences.json",
+      "filename": "bb033a27a4720cc62d508e3ec2e931f9.json",
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "19fbfc1953e16b410105f20fd328fff3",
+      "md5": "bb033a27a4720cc62d508e3ec2e931f9",
       "required": false
     }
   ],

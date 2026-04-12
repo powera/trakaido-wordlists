@@ -2,13 +2,14 @@
   "version": 1,
   "language": "portuguese",
   "language_code": "pt",
-  "generated_at": "2026-04-02T22:15:45Z",
+  "generated_at": "2026-04-12T17:25:52Z",
   "source_language": "kannada",
   "source_language_code": "kn",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [],
     "default_voice": null,
+    "cdn_base": "https://wireword.trakaido.com",
     "grammar": {
       "conjugation": {
         "tenses": [
@@ -72,7 +73,7 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "wireword_levels_1_5.json",
+      "filename": "e883620e81f67e62a00bb3c13396863f.json",
       "display_name": "Levels 1-5",
       "type": "words",
       "md5": "e883620e81f67e62a00bb3c13396863f",
@@ -110,7 +111,7 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "wireword_levels_6_10.json",
+      "filename": "5d1042e398284dd1eb235725046cc04e.json",
       "display_name": "Levels 6-10",
       "type": "words",
       "md5": "5d1042e398284dd1eb235725046cc04e",
@@ -165,11 +166,11 @@
   "sentence_files": [
     {
       "id": "sentences",
-      "filename": "wireword_sentences.json",
+      "filename": "6e90124dcd9bf8047a5b324756cff570.json",
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "bb6788e05bbf10b7e32e92781bd0580e",
+      "md5": "6e90124dcd9bf8047a5b324756cff570",
       "required": false
     }
   ],

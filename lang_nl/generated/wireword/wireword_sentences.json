@@ -12424,6 +12424,29 @@
       "linked_words": [],
       "source": "buivolas_guided_N42_018",
       "minimum_level": 12
+    },
+    {
+      "sentence_id": "S_01250",
+      "translations": {
+        "en": "At eight o'clock on Thursday morning Arthur didn't feel very good.",
+        "nl": "Om acht uur op donderdagochtend voelde Arthur zich niet erg goed."
+      },
+      "linked_words": [
+        {
+          "guid": "Z01_009",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V05_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "D01_036",
+          "grammatical_form": null
+        }
+      ],
+      "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
     }
   ]
 }

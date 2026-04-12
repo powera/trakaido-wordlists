@@ -2,13 +2,14 @@
   "version": 1,
   "language": "dutch",
   "language_code": "nl",
-  "generated_at": "2026-04-02T22:15:59Z",
+  "generated_at": "2026-04-12T17:26:31Z",
   "source_language": "romanian",
   "source_language_code": "ro",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [],
     "default_voice": null,
+    "cdn_base": "https://wireword.trakaido.com",
     "grammar": {
       "conjugation": {
         "tenses": [
@@ -72,7 +73,7 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "wireword_levels_1_5.json",
+      "filename": "4b5d3b1a705d9ac875df440d16010c2e.json",
       "display_name": "Levels 1-5",
       "type": "words",
       "md5": "4b5d3b1a705d9ac875df440d16010c2e",
@@ -110,7 +111,7 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "wireword_levels_6_10.json",
+      "filename": "4a44ee0fe0122a2ebdcc456cf2ae968e.json",
       "display_name": "Levels 6-10",
       "type": "words",
       "md5": "4a44ee0fe0122a2ebdcc456cf2ae968e",
@@ -162,6 +163,16 @@
       ]
     }
   ],
-  "sentence_files": [],
+  "sentence_files": [
+    {
+      "id": "sentences",
+      "filename": "0af95bc0713403c81d2949c20556774c.json",
+      "display_name": "Practice Sentences",
+      "description": "Sentences for context-based learning",
+      "type": "sentences",
+      "md5": "0af95bc0713403c81d2949c20556774c",
+      "required": false
+    }
+  ],
   "auxiliary_files": []
 }
