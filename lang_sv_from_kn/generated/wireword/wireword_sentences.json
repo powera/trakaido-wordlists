@@ -626,16 +626,6 @@
       "minimum_level": 1
     },
     {
-      "sentence_id": "S_00056",
-      "translations": {
-        "kn": "ನನ್ನ ಸ್ನೇಹಿತರು ಬ್ರೆಡ್‌ನಲ್ಲಿ ಉಪ್ಪನ್ನು ತಿಂದಿದ್ದಾರೆ.",
-        "sv": "Min vän smakar salt på brödet."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N06_013",
-      "minimum_level": 17
-    },
-    {
       "sentence_id": "S_00057",
       "translations": {
         "kn": "ಅವರು ರಾತ್ರಿಯ ಭೋಜನಕ್ಕೆ ಆಲೂಗಡ್ಡೆಯನ್ನು ಬೇಯಿಸಿದರು.",
@@ -976,16 +966,6 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": "S_00091",
-      "translations": {
-        "kn": "ನನ್ನ ಸ್ನೇಹಿತನಿಗೆ ತೇವಗೊಂಡ ಪ್ಯಾಂಟ್ ಸಿಕ್ಕಿತು.",
-        "sv": "Min vän hittade blöta byxor."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N09_002",
-      "minimum_level": 37
-    },
-    {
       "sentence_id": "S_00092",
       "translations": {
         "kn": "ಅವರಿಗೆ ಸ್ವಚ್ಛವಾದ ಪ್ಯಾಂಟ್‌ಗಳು ಇದೆಯೇ?",
@@ -1096,16 +1076,6 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": "S_00103",
-      "translations": {
-        "kn": "ಅವರು ಹೊರಗೆ ಒಂದು ಶೂವನ್ನು ಕಳೆದುಕೊಂಡರು.",
-        "sv": "Han tappade en sko utanför."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N09_006",
-      "minimum_level": 17
-    },
-    {
       "sentence_id": "S_00104",
       "translations": {
         "kn": "ಅವರು ಇಬ್ಬರೂ ಒಂದೇ ರೀತಿಯ ಶೂಗಳನ್ನು ಧರಿಸಿದ್ದಾರೆ.",
@@ -1134,16 +1104,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N09_007",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_00107",
-      "translations": {
-        "kn": "ಅವರು ಒಂದು ತೇವವಾದ ಚೀಲವನ್ನು ಕಂಡುಕೊಂಡರು.",
-        "sv": "De hittade en blöt socka."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N09_007",
-      "minimum_level": 37
     },
     {
       "sentence_id": "S_00108",
@@ -1296,26 +1256,6 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": "S_00123",
-      "translations": {
-        "kn": "ನನ್ನ ಸ್ನೇಹಿತರು ಒಂದು ಸೂಟ್‌ಕೇಸ್‌ನಲ್ಲಿ ಒಳಗಿನ ಬಟ್ಟೆಗಳನ್ನು ಕಂಡಿದ್ದಾರೆ.",
-        "sv": "Min vän hittade underkläder i en resväska."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N09_012",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_00124",
-      "translations": {
-        "kn": "ಅವರು ತಮ್ಮ ಶರ್ಟ್ ಗಳ ಕೆಳಗೆ ಒಳ ಉಡುಪುಗಳನ್ನು ಧರಿಸುತ್ತಾರೆ.",
-        "sv": "De bär underkläder under sina skjortor."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N09_012",
-      "minimum_level": 1
-    },
-    {
       "sentence_id": "S_00125",
       "translations": {
         "kn": "ನಾನು ಪ್ರತಿದಿನ ಬೆಳಗಿನ ಉಪಹಾರವನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತೇನೆ.",
@@ -1324,16 +1264,6 @@
       "linked_words": [],
       "source": "buivolas_guided_V01_001",
       "minimum_level": 13
-    },
-    {
-      "sentence_id": "S_00126",
-      "translations": {
-        "kn": "ಅವಳು ಈಗ ಒಂದು ಸೇಬು ತಿನ್ನುತ್ತಿದ್ದಾಳೆ.",
-        "sv": "Hon äter ett äpple just nu."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V01_001",
-      "minimum_level": 37
     },
     {
       "sentence_id": "S_00127",
@@ -2504,16 +2434,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N02_008",
       "minimum_level": 28
-    },
-    {
-      "sentence_id": "S_00244",
-      "translations": {
-        "kn": "ಅವರು ಆ ಮೌಸ್ ಅನ್ನು ಬಹಳ ಎಚ್ಚರಿಕೆಯಿಂದ ಮತ್ತೊಂದು ಕಡೆಗೆ ಸರಿಸಿದರು.",
-        "sv": "Hon flyttade försiktigt musen åt sidan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N02_008",
-      "minimum_level": 19
     },
     {
       "sentence_id": "S_00245",
@@ -4176,16 +4096,6 @@
       "minimum_level": 11
     },
     {
-      "sentence_id": "S_00411",
-      "translations": {
-        "kn": "ಅವರು ಭೇಟಿಯ ನಂತರ ಕೈ ಚಾಚಿಕೊಂಡರು.",
-        "sv": "De skakade hand när de träffades."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N03_014",
-      "minimum_level": 20
-    },
-    {
       "sentence_id": "S_00412",
       "translations": {
         "kn": "ಆ ಮಗು ತನ್ನ ಕೈಯನ್ನು ಮೇಲಕ್ಕೆ ಎತ್ತುವ ಮೂಲಕ ಪ್ರತಿಕ್ರಿಯಿಸಿತು.",
@@ -4556,16 +4466,6 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": "S_00450",
-      "translations": {
-        "kn": "ಅವರು ಶಾಲೆಯಲ್ಲಿ ಇದ್ದಾರೆ.",
-        "sv": "De är på skolan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V06_001",
-      "minimum_level": 1
-    },
-    {
       "sentence_id": "S_00451",
       "translations": {
         "kn": "ಕಳೆದ ವರ್ಷ ನಾನು ಶಿಕ್ಷಕಿಯಾಗಿದ್ದೆ.",
@@ -4584,16 +4484,6 @@
       "linked_words": [],
       "source": "buivolas_guided_V06_001",
       "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_00453",
-      "translations": {
-        "kn": "ನಾನು ನನ್ನ ನೀಲಿ ಬಟ್ಟೆ ಧರಿಸಿದ್ದೇನೆ.",
-        "sv": "Jag har på mig min blå skjorta."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V01_031",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00454",
@@ -5046,16 +4936,6 @@
       "minimum_level": 21
     },
     {
-      "sentence_id": "S_00501",
-      "translations": {
-        "kn": "ಅವರು ಸಮುದ್ರದ ತೀರದಲ್ಲಿ ಒಂದು ಶಂಖವನ್ನು ಹಿಡಿದಿದ್ದಾರೆ.",
-        "sv": "Hon håller en glassvaffel på stranden."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N37_009",
-      "minimum_level": 18
-    },
-    {
       "sentence_id": "S_00502",
       "translations": {
         "kn": "ಅವರು ಆ ಕ್ಲಾಸ್ಗಾಗಿ ಒಂದು ಶಂಕುವಿನ ಆಕಾರದ ರಚನೆಯನ್ನು ತಯಾರಿಸಿದರು.",
@@ -5496,16 +5376,6 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": "S_00546",
-      "translations": {
-        "kn": "ಅವರು ಶಾಲೆಯ ಬಳಿ ಒಬ್ಬ ಪೊಲೀಸ್ ಅಧಿಕಾರಿ ಇದ್ದುದನ್ನು ನೋಡಿದರು.",
-        "sv": "Hon såg en polisman i närheten av skolan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N36_019",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00547",
       "translations": {
         "kn": "ಅವರು ನಿನ್ನೆ ರಾತ್ರಿ ಪೊಲೀಸರನ್ನು ಸಂಪರ್ಕಿಸಿದರು.",
@@ -5796,16 +5666,6 @@
       "minimum_level": 5
     },
     {
-      "sentence_id": "S_00576",
-      "translations": {
-        "kn": "ಆ ವ್ಯಕ್ತಿ ಆ ಶಾಲೆಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತಾನೆ.",
-        "sv": "Den mannen arbetar på skolan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N01_055",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00577",
       "translations": {
         "kn": "ಆ ಮಹಿಳೆ ಕೆಲಸಕ್ಕೆ ಹೋಗಲು ನಡೆದುಕೊಂಡು ಹೋಗುತ್ತಾರೆ.",
@@ -5976,16 +5836,6 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": "S_00594",
-      "translations": {
-        "kn": "ಆ ವ್ಯಕ್ತಿ ಶಾಲೆಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದಾರೆ.",
-        "sv": "Den personen arbetar på skolan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N01_060",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00595",
       "translations": {
         "kn": "ನಾವು ಆ ಅಂಗಡಿಯಲ್ಲಿ ಇಬ್ಬರು ಜನರನ್ನು ನೋಡಿದ್ದೇವೆ.",
@@ -6044,16 +5894,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N01_062",
       "minimum_level": 5
-    },
-    {
-      "sentence_id": "S_00602",
-      "translations": {
-        "kn": "ಯಾರಿಗೇ ಬೇಕಾದವರಿಗೂ ಆ ನಾಯಿ ಕಾಣುತ್ತದೆ.",
-        "sv": "Alla kan se hunden."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N01_062",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00603",
@@ -6266,16 +6106,6 @@
       "minimum_level": 21
     },
     {
-      "sentence_id": "S_00625",
-      "translations": {
-        "kn": "ನನಗೆ ಕಪ್ಪು ಬಣ್ಣದ ಒಂದು ಶರ್ಟ್ ಬೇಕು.",
-        "sv": "Jag vill ha en svart tröja."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V05_004",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00626",
       "translations": {
         "kn": "ಅವಳಿಗೆ ಇನ್ನೂ ಸ್ವಲ್ಪ ರೊಟ್ಟಿ ಬೇಕಾಗಿತ್ತು.",
@@ -6284,16 +6114,6 @@
       "linked_words": [],
       "source": "buivolas_guided_V05_004",
       "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_00627",
-      "translations": {
-        "kn": "ಅವರು ಒಂದು ಸೈಕಲ್ ಖರೀದಿಸಲು ಬಯಸುತ್ತಾರೆ.",
-        "sv": "De vill köpa en cykel."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V05_004",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00628",
@@ -6334,16 +6154,6 @@
       "linked_words": [],
       "source": "buivolas_guided_V06_002",
       "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_00632",
-      "translations": {
-        "kn": "ಅವರಿಗೆ ಒಂದು ಬಿಳಿ ಬಣ್ಣದ ಮನೆ ಇದೆ.",
-        "sv": "De har ett vitt hus."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V06_002",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00633",
@@ -6394,16 +6204,6 @@
       "linked_words": [],
       "source": "buivolas_guided_V06_004",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_00638",
-      "translations": {
-        "kn": "ಅವರು ಒಂದು ಹೊಸ ಶರ್ಟ್ ಖರೀದಿಸುತ್ತಾರೆ.",
-        "sv": "Hon köper en ny skjorta."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V06_004",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00639",
@@ -6546,16 +6346,6 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": "S_00653",
-      "translations": {
-        "kn": "ನಾನು ಇಂದು ಶಾಲೆಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ.",
-        "sv": "Jag jobbar på skolan idag."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V01_007",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00654",
       "translations": {
         "kn": "ಅವರು ಪ್ರತಿದಿನ ಬೆಳಗಿನ ಸಮಯದಲ್ಲಿ ಅಡುಗೆಗೃಹದಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತಾರೆ.",
@@ -6586,30 +6376,10 @@
       "minimum_level": 5
     },
     {
-      "sentence_id": "S_00657",
-      "translations": {
-        "kn": "ನಾನು ಪ್ರತಿದಿನ ಬೆಳಿಗ್ಗೆ ನನ್ನ ಚಾವಿಗಳನ್ನು ಕಂಡುಕೊಳ್ಳುತ್ತೇನೆ.",
-        "sv": "Jag hittar alltid mina nycklar varje morgon."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V01_009",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00658",
       "translations": {
         "kn": "ಅವಳು ಶಾಲೆಯ ಬಳಿ ಒಂದು ಸಣ್ಣ ನಾಣ್ಯವನ್ನು ಕಂಡುಕೊಂಡಳು.",
         "sv": "Hon hittade en mynt nära skolan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V01_009",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_00659",
-      "translations": {
-        "kn": "ನಮಗೆ ಆ ನಾಯಿ ಪಾರ್ಕ್‌ನಲ್ಲಿ ಕಾಣಿಸಿಕೊಂಡಿತು.",
-        "sv": "Vi hittar hunden i parken."
       },
       "linked_words": [],
       "source": "buivolas_guided_V01_009",
@@ -6734,16 +6504,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N47_002",
       "minimum_level": 16
-    },
-    {
-      "sentence_id": "S_00672",
-      "translations": {
-        "kn": "ನಾವೇ ಕಿಟಕಿಯ ಬಳಿ ಪಕ್ಷಿಗಳನ್ನು ನೋಡಿದ್ದೇವೆ.",
-        "sv": "Vi såg fåglar vid fönstret."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N47_002",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00673",
@@ -6976,16 +6736,6 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": "S_00696",
-      "translations": {
-        "kn": "ಅವರು ಒಂದು ಕೆಂಪು ಬಣ್ಣದ ಗುಲಾಬನ್ನು ಕಂಡರು.",
-        "sv": "De såg en röd ros."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N05_005",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00697",
       "translations": {
         "kn": "ನಾವು ಭಾನುವಾರ ಚರ್ಚ್‌ಗೆ ನಡೆದುಕೊಂಡು ಹೋಗುತ್ತೇವೆ.",
@@ -7064,16 +6814,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N07_012",
       "minimum_level": 17
-    },
-    {
-      "sentence_id": "S_00705",
-      "translations": {
-        "kn": "ಅವರು ಬೇಕರಿಯಿಂದ ಬ್ರೆಡ್ ಖರೀದಿಸುತ್ತಾರೆ.",
-        "sv": "Hon köper bröd i bageriet."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N07_013",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00706",
@@ -7424,16 +7164,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N07_041",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00741",
-      "translations": {
-        "kn": "ಒಂದು ಎತ್ತರದ ಕಟ್ಟಡ ಸೂರ್ಯನ ಬೆಳಕನ್ನು ತಡೆಯುತ್ತದೆ.",
-        "sv": "En hög byggnad skymmer solen."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N07_046",
-      "minimum_level": 14
     },
     {
       "sentence_id": "S_00742",
@@ -8046,16 +7776,6 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": "S_00803",
-      "translations": {
-        "kn": "ಆ ಮಗು ತನ್ನ ಕೊಳೆಯದ ಮಣಿಕಟ್ಟನ್ನು ಒರೆಸಿತು.",
-        "sv": "Barnet torkade av sitt smutsiga lår."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N03_021",
-      "minimum_level": 14
-    },
-    {
       "sentence_id": "S_00804",
       "translations": {
         "kn": "ಅವರು ನೋವು ಇರುವ ತೊಡೆಯನ್ನು ಮಸಾಜ್ ಮಾಡಿದರು.",
@@ -8396,16 +8116,6 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": "S_00838",
-      "translations": {
-        "kn": "ಅವರು ವೈನ್‌ನ ಒಂದು ಬಾಟಲಿ ಖರೀದಿಸಿದರು.",
-        "sv": "Han köpte en flaska vin."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N42_005",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00839",
       "translations": {
         "kn": "ನಾವೆಲ್ಲರೂ ಕೆಲಸ ಮುಗಿದ ನಂತರ ವೈನ್ ಕುಡಿದಿದ್ದೇವೆ.",
@@ -8434,16 +8144,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N42_006",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00842",
-      "translations": {
-        "kn": "ಅವರು ಅಂಗಡಿಯಲ್ಲಿ ಹಾಲು ಖರೀದಿಸುತ್ತಾರೆ.",
-        "sv": "Hon köper mjölk i affären."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N42_006",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00843",
@@ -8584,16 +8284,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N09_010",
       "minimum_level": 16
-    },
-    {
-      "sentence_id": "S_00857",
-      "translations": {
-        "kn": "ಅವಳು ಇಂದು ನೀಲಿ ಬಣ್ಣದ ಒಂದು ಬಟ್ಟೆ ಧರಿಸಿದ್ದಾಳೆ.",
-        "sv": "Hon har en blå kjol på sig idag."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N09_013",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00858",
@@ -9286,16 +8976,6 @@
       "minimum_level": 12
     },
     {
-      "sentence_id": "S_00929",
-      "translations": {
-        "kn": "ಅವಳು ಇಂದು ಒಂದು ಕಾಟನ್ ಶರ್ಟ್ ಖರೀದಿಸುತ್ತಾಳೆ.",
-        "sv": "Hon köper en skjorta i bomull idag."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N14_014",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00930",
       "translations": {
         "kn": "ನನ್ನ ಸ್ನೇಹಿತನು ಕಣ್ಮಜಲುದಲ್ಲಿ ಹತ್ತಿ ಬೆಳೆಯನ್ನು ಕಂಡುಕೊಂಡನು.",
@@ -9404,26 +9084,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N14_016",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00941",
-      "translations": {
-        "kn": "ಅವರು ಇಂದು ಚರ್ಮದ ಜಾಕೆಟ್ ಧರಿಸಿದ್ದಾರೆ.",
-        "sv": "Han har en läderjacka på sig idag."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N14_017",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_00942",
-      "translations": {
-        "kn": "ಅವಳು ನಿನ್ನೆ ಚರ್ಮದ ಚೀಲವನ್ನು ಖರೀದಿಸಿದಳು.",
-        "sv": "Hon köpte en läderväska igår."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N14_017",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00943",
@@ -9594,16 +9254,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N14_021",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00960",
-      "translations": {
-        "kn": "ಅವಳು ಶಾಲೆಯ ಹತ್ತಿರ ಒಂದು ಇಟ್ಟಿಗೆಯನ್ನು ಕಂಡುಕೊಳ್ಳುತ್ತಾಳೆ.",
-        "sv": "Hon hittar en tegelsten nära skolan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N14_021",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00961",
@@ -10516,26 +10166,6 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": "S_01052",
-      "translations": {
-        "kn": "ಅವರು ಒಂದು ದೊಡ್ಡ ಟೋಪಿ ಕಂಡುಕೊಂಡರು.",
-        "sv": "Han hittade en bred hatt."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_A18_005",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_01053",
-      "translations": {
-        "kn": "ಇಂದು ಆ ಕೆರೆ ತುಂಬಾ ಆಳವಾಗಿದೆ.",
-        "sv": "Sjön är djup idag."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_A18_006",
-      "minimum_level": 18
-    },
-    {
       "sentence_id": "S_01054",
       "translations": {
         "kn": "ಅವನು ಒಂದು ಆಳವಾದ ಗುಂಡೆಯನ್ನು ಕಂಡುಕೊಂಡನು.",
@@ -10814,16 +10444,6 @@
       "linked_words": [],
       "source": "buivolas_guided_A15_011",
       "minimum_level": 17
-    },
-    {
-      "sentence_id": "S_01082",
-      "translations": {
-        "kn": "ಅವರು ಕೊನೆಯ ಬ್ರೆಡ್ ಅನ್ನು ತಿನ್ನಿದರು.",
-        "sv": "De åt det sista brödet."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_A15_011",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_01083",
@@ -11926,16 +11546,6 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": "S_01193",
-      "translations": {
-        "kn": "ನಾನು ಶಾಲೆಯ ಹತ್ತಿರ ಒಂದು ಹಾವು ಕಾಣಿಸಿಕೊಂಡಿತು.",
-        "sv": "Jag såg en orm nära skolan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N02_014",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_01194",
       "translations": {
         "kn": "ಅವಳಿಗೆ ಹಾವು ಭಯ.",
@@ -11994,16 +11604,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N02_015",
       "minimum_level": 9
-    },
-    {
-      "sentence_id": "S_01200",
-      "translations": {
-        "kn": "ಆನೆ ನಮ್ಮ ಮನೆಯ ಹತ್ತಿರ ನಡೆದುಕೊಂಡು ಹೋಗಿತ್ತು.",
-        "sv": "Elefanten gick nära vårt hus."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N02_015",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_01201",
@@ -12383,36 +11983,6 @@
       },
       "linked_words": [],
       "source": "buivolas_guided_N42_016",
-      "minimum_level": 9
-    },
-    {
-      "sentence_id": "S_01241",
-      "translations": {
-        "kn": "ಅವರು ನಿನ್ನೆ ಒಂದು ವಿಡಿಯೋ ಕ್ಯಾಮೆರಾ ಖರೀದಿಸಿದ್ದಾರೆ.",
-        "sv": "Hon köpte en videokamera igår."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N42_018",
-      "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_01242",
-      "translations": {
-        "kn": "ನಮಗೆ ಒಂದು ಚಿಕ್ಕದಾದ ವಿಡಿಯೋ ಕ್ಯಾಮೆರಾ ಇದೆ.",
-        "sv": "Vi har en liten videokamera."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N42_018",
-      "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_01243",
-      "translations": {
-        "kn": "ಅವರು ವಿಡಿಯೋ ಕ್ಯಾಮರಾವನ್ನು ಕೆಳಗೆಟ್ಟರು.",
-        "sv": "Han ställde ner videokameran."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N42_018",
       "minimum_level": 9
     },
     {

@@ -985,37 +985,6 @@
       }
     },
     {
-      "sentence_id": "S_00056",
-      "translations": {
-        "bn": "আমার বন্ধু রুটিতে লবণ অনুভব করছে।",
-        "lt": "Mano draugas ragauja druską ant duonos."
-      },
-      "linked_words": [
-        {
-          "guid": "N01_059",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
-          "guid": "V10_005",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "N06_013",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "N06_001",
-          "grammatical_form": "noun/lt_genitive_singular"
-        }
-      ],
-      "source": "buivolas_guided_N06_013",
-      "minimum_level": 17,
-      "audio": {
-        "ruta": "a16521514742d4fe327fc1f029d1d1c4",
-        "jonas": "9fb50426ae1a3bb51fecee904875d809"
-      }
-    },
-    {
       "sentence_id": "S_00058",
       "translations": {
         "bn": "তারা বাজারে আলু কেনে।",
@@ -1564,33 +1533,6 @@
       }
     },
     {
-      "sentence_id": "S_00091",
-      "translations": {
-        "bn": "আমার বন্ধু ভেজা প্যান্ট খুঁজে পেয়েছে।",
-        "lt": "Mano draugas rado šlapius kelnes."
-      },
-      "linked_words": [
-        {
-          "guid": "N01_059",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/lt_3s_past"
-        },
-        {
-          "guid": "A18_011",
-          "grammatical_form": "adjective/lt_accusative_plural_m"
-        },
-        {
-          "guid": "N09_002",
-          "grammatical_form": "noun/lt_accusative_plural"
-        }
-      ],
-      "source": "buivolas_guided_N09_002",
-      "minimum_level": 37
-    },
-    {
       "sentence_id": "S_00092",
       "translations": {
         "bn": "তাদের কাছে কি পরিষ্কার প্যান্ট আছে?",
@@ -1834,33 +1776,6 @@
       }
     },
     {
-      "sentence_id": "S_00103",
-      "translations": {
-        "bn": "সে বাইরে একটি জুতা হারিয়ে ফেলেছে।",
-        "lt": "Jis prarado vieną batą lauke."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_045",
-          "grammatical_form": "verb/lt_3s_past"
-        },
-        {
-          "guid": "N09_006",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "D07_032",
-          "grammatical_form": "noun/lt_locative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N09_006",
-      "minimum_level": 17,
-      "audio": {
-        "ruta": "5b51c262849a2ce63349b082ec5468e3",
-        "jonas": "85ae1c46dc4647d58a0ecac055239d01"
-      }
-    },
-    {
       "sentence_id": "S_00104",
       "translations": {
         "bn": "তারা একই ধরনের জুতো পরে।",
@@ -1912,29 +1827,6 @@
       "audio": {
         "jonas": "03faecf878db58aef56667137b8ac541"
       }
-    },
-    {
-      "sentence_id": "S_00107",
-      "translations": {
-        "bn": "তারা একটি ভেজা মোজা খুঁজে পেয়েছে।",
-        "lt": "Jie rado šlapią kojinę"
-      },
-      "linked_words": [
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/lt_3p_past"
-        },
-        {
-          "guid": "A18_011",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_007",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N09_007",
-      "minimum_level": 37
     },
     {
       "sentence_id": "S_00108",
@@ -2256,33 +2148,6 @@
       }
     },
     {
-      "sentence_id": "S_00124",
-      "translations": {
-        "bn": "তারা তাদের শার্টের নিচে অন্তর্বাস পরে।",
-        "lt": "Jie dėvi apatinius po marškiniais."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_031",
-          "grammatical_form": "verb/lt_3p_present"
-        },
-        {
-          "guid": "N09_012",
-          "grammatical_form": "noun/lt_accusative_plural"
-        },
-        {
-          "guid": "N09_001",
-          "grammatical_form": "noun/lt_instrumental_plural"
-        }
-      ],
-      "source": "buivolas_guided_N09_012",
-      "minimum_level": 1,
-      "audio": {
-        "ruta": "f15c42d7a653ab6d74035bff58379cd7",
-        "jonas": "43818809ce46e661e33e95648b6909ac"
-      }
-    },
-    {
       "sentence_id": "S_00125",
       "translations": {
         "bn": "আমি প্রতিদিন সকালে নাস্তা করি।",
@@ -2308,29 +2173,6 @@
         "ruta": "11797a5886f12110536141b65a2bb2ef",
         "jonas": "cde564d009742da466f58bda651ffe33"
       }
-    },
-    {
-      "sentence_id": "S_00126",
-      "translations": {
-        "bn": "সে এখন একটি আপেল খাচ্ছে।",
-        "lt": "Ji dabar valgo obuolį"
-      },
-      "linked_words": [
-        {
-          "guid": "D07_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_001",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "N06_015",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_V01_001",
-      "minimum_level": 37
     },
     {
       "sentence_id": "S_00127",
@@ -4370,37 +4212,6 @@
       "audio": {
         "ruta": "3f4c8902c30520db52409cb9a105604e",
         "jonas": "0934a4c5189c80d009a2394ab5f77443"
-      }
-    },
-    {
-      "sentence_id": "S_00244",
-      "translations": {
-        "bn": "তিনি খুব সাবধানে মাউসটি সরিয়ে নিলেন।",
-        "lt": "Ji švelniai nutempė pelę šalin."
-      },
-      "linked_words": [
-        {
-          "guid": "D01_023",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V12_009",
-          "grammatical_form": "verb/lt_3s_past"
-        },
-        {
-          "guid": "N02_008",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "D07_013",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N02_008",
-      "minimum_level": 19,
-      "audio": {
-        "ruta": "79a611441403db963d884942e80b5082",
-        "jonas": "d4d9d43ab256ea639bdb8e9d338d8343"
       }
     },
     {
@@ -7033,29 +6844,6 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": "S_00411",
-      "translations": {
-        "bn": "তাদের সাক্ষাতের পর তারা একে অপরের সাথে হাত মেলালেন।",
-        "lt": "Jie paspaudė rankas po susitikimo."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_036",
-          "grammatical_form": "verb/lt_3p_past"
-        },
-        {
-          "guid": "N03_014",
-          "grammatical_form": "noun/lt_accusative_plural"
-        },
-        {
-          "guid": "N24_024",
-          "grammatical_form": "noun/lt_genitive_singular"
-        }
-      ],
-      "source": "buivolas_guided_N03_014",
-      "minimum_level": 20
-    },
-    {
       "sentence_id": "S_00414",
       "translations": {
         "bn": "তিনি তার আঙুল দিয়ে কোনো কিছুর দিকে নির্দেশ করছেন।",
@@ -7527,21 +7315,6 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": "S_00450",
-      "translations": {
-        "bn": "তারা স্কুলে আছে।",
-        "lt": "Jie yra mokykloje."
-      },
-      "linked_words": [
-        {
-          "guid": "N07_002",
-          "grammatical_form": "noun/lt_locative_singular"
-        }
-      ],
-      "source": "buivolas_guided_V06_001",
-      "minimum_level": 1
-    },
-    {
       "sentence_id": "S_00452",
       "translations": {
         "bn": "রুটিটি গরম এবং তাজা।",
@@ -7563,29 +7336,6 @@
       ],
       "source": "buivolas_guided_V06_001",
       "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_00453",
-      "translations": {
-        "bn": "আমি আমার নীল রঙের শার্টটি পরি।",
-        "lt": "Aš dėviu savo mėlynus marškinius."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_031",
-          "grammatical_form": "verb/lt_1s_present"
-        },
-        {
-          "guid": "A02_004",
-          "grammatical_form": "adjective/lt_accusative_plural_m"
-        },
-        {
-          "guid": "N09_001",
-          "grammatical_form": "noun/lt_accusative_plural"
-        }
-      ],
-      "source": "buivolas_guided_V01_031",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00454",
@@ -8080,25 +7830,6 @@
       ],
       "source": "buivolas_guided_N37_008",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_00501",
-      "translations": {
-        "bn": "তিনি সৈকতে একটি শঙ্কু আকৃতির জিনিস ধরে রেখেছেন।",
-        "lt": "Ji laiko kūgį paplūdimyje."
-      },
-      "linked_words": [
-        {
-          "guid": "N37_009",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "N11_008",
-          "grammatical_form": "noun/lt_locative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N37_009",
-      "minimum_level": 18
     },
     {
       "sentence_id": "S_00503",
@@ -8660,33 +8391,6 @@
       "minimum_level": 5
     },
     {
-      "sentence_id": "S_00546",
-      "translations": {
-        "bn": "সে স্কুলের কাছে একজন পুলিশ অফিসারকে দেখতে পেয়েছিল।",
-        "lt": "Ji pamatė policijos pareigūną netoli mokyklos."
-      },
-      "linked_words": [
-        {
-          "guid": "V10_001",
-          "grammatical_form": "verb/lt_3s_past"
-        },
-        {
-          "guid": "N36_019",
-          "grammatical_form": "noun/lt_genitive_singular"
-        },
-        {
-          "guid": "N36_019",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "N07_002",
-          "grammatical_form": "noun/lt_genitive_singular"
-        }
-      ],
-      "source": "buivolas_guided_N36_019",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00547",
       "translations": {
         "bn": "তারা গতকাল রাতে একজন পুলিশ কর্মকর্তাকে খবর দিয়েছিলেন।",
@@ -9097,29 +8801,6 @@
       "minimum_level": 5
     },
     {
-      "sentence_id": "S_00576",
-      "translations": {
-        "bn": "ঐ লোকটি স্কুলে কাজ করে।",
-        "lt": "Tas vyras dirba mokykloje."
-      },
-      "linked_words": [
-        {
-          "guid": "N01_055",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
-          "guid": "V01_007",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "N07_002",
-          "grammatical_form": "noun/lt_locative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N01_055",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00578",
       "translations": {
         "bn": "একজন মহিলা জানালার পাশে বসে আছেন।",
@@ -9496,29 +9177,6 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": "S_00594",
-      "translations": {
-        "bn": "ঐ ব্যক্তিটি স্কুলে কাজ করেন।",
-        "lt": "Tas asmuo dirba mokykloje."
-      },
-      "linked_words": [
-        {
-          "guid": "N01_060",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
-          "guid": "V01_007",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "N07_002",
-          "grammatical_form": "noun/lt_locative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N01_060",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00595",
       "translations": {
         "bn": "আমরা দোকানে দুজন লোককে দেখেছি।",
@@ -9643,25 +9301,6 @@
       ],
       "source": "buivolas_guided_N01_062",
       "minimum_level": 5
-    },
-    {
-      "sentence_id": "S_00602",
-      "translations": {
-        "bn": "যে কেউ কুকুরটিকে দেখতে পারবে।",
-        "lt": "Bet kas gali pamatyti šunį."
-      },
-      "linked_words": [
-        {
-          "guid": "V10_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N02_001",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N01_062",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00603",
@@ -10007,29 +9646,6 @@
       "minimum_level": 21
     },
     {
-      "sentence_id": "S_00625",
-      "translations": {
-        "bn": "আমি একটি কালো রঙের শার্ট চাই।",
-        "lt": "Noriu juodų marškinių."
-      },
-      "linked_words": [
-        {
-          "guid": "V05_004",
-          "grammatical_form": "verb/lt_1s_present"
-        },
-        {
-          "guid": "A02_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_001",
-          "grammatical_form": "noun/lt_genitive_plural"
-        }
-      ],
-      "source": "buivolas_guided_V05_004",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00626",
       "translations": {
         "bn": "সে আরও রুটি চেয়েছিল।",
@@ -10051,29 +9667,6 @@
       ],
       "source": "buivolas_guided_V05_004",
       "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_00627",
-      "translations": {
-        "bn": "তারা একটি সাইকেল কিনতে চায়।",
-        "lt": "Jie nori nusipirkti dviratį."
-      },
-      "linked_words": [
-        {
-          "guid": "V05_004",
-          "grammatical_form": "verb/lt_3p_present"
-        },
-        {
-          "guid": "V06_004",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N40_007",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_V05_004",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00628",
@@ -10172,29 +9765,6 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": "S_00632",
-      "translations": {
-        "bn": "তাদের একটি সাদা রঙের বাড়ি আছে।",
-        "lt": "Jie turi baltą namą."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_002",
-          "grammatical_form": "verb/lt_3p_present"
-        },
-        {
-          "guid": "A02_002",
-          "grammatical_form": "adjective/lt_accusative_singular_m"
-        },
-        {
-          "guid": "N07_001",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_V06_002",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00633",
       "translations": {
         "bn": "বর্তমানে আমি ভালো রোজগার করছি।",
@@ -10239,29 +9809,6 @@
       ],
       "source": "buivolas_guided_V06_004",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_00638",
-      "translations": {
-        "bn": "সে একটি নতুন শার্ট কেনে।",
-        "lt": "Ji perka naują marškinius."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "A05_035",
-          "grammatical_form": "adjective/lt_accusative_singular_m"
-        },
-        {
-          "guid": "N09_001",
-          "grammatical_form": "noun/lt_accusative_plural"
-        }
-      ],
-      "source": "buivolas_guided_V06_004",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00640",
@@ -10413,29 +9960,6 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": "S_00653",
-      "translations": {
-        "bn": "আজ আমি স্কুলে কাজ করছি।",
-        "lt": "Aš šiandien dirbu mokykloje."
-      },
-      "linked_words": [
-        {
-          "guid": "D03_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_007",
-          "grammatical_form": "verb/lt_1s_present"
-        },
-        {
-          "guid": "N07_002",
-          "grammatical_form": "noun/lt_locative_singular"
-        }
-      ],
-      "source": "buivolas_guided_V01_007",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00654",
       "translations": {
         "bn": "তিনি প্রতিদিন সকালে রান্নাঘরে কাজ করেন।",
@@ -10480,52 +10004,6 @@
       ],
       "source": "buivolas_guided_V01_007",
       "minimum_level": 5
-    },
-    {
-      "sentence_id": "S_00657",
-      "translations": {
-        "bn": "আমি প্রতিদিন সকালে আমার चाবিগুলো খুঁজে পাই।",
-        "lt": "Aš randu savo raktus kiekvieną rytą."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/lt_1s_present"
-        },
-        {
-          "guid": "N08_006",
-          "grammatical_form": "noun/lt_accusative_plural"
-        },
-        {
-          "guid": "N25_004",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_V01_009",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_00659",
-      "translations": {
-        "bn": "আমরা পার্কে কুকুরটিকে খুঁজে পাই।",
-        "lt": "Mes randame šunį parke."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/lt_1p_present"
-        },
-        {
-          "guid": "N02_001",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "N07_050",
-          "grammatical_form": "noun/lt_locative_singular"
-        }
-      ],
-      "source": "buivolas_guided_V01_009",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00661",
@@ -10702,29 +10180,6 @@
       ],
       "source": "buivolas_guided_N47_002",
       "minimum_level": 17
-    },
-    {
-      "sentence_id": "S_00672",
-      "translations": {
-        "bn": "আমরা জানালায় পাখি দেখতে পেয়েছিলাম।",
-        "lt": "Mes pamatėme paukščius prie lango."
-      },
-      "linked_words": [
-        {
-          "guid": "V10_001",
-          "grammatical_form": "verb/lt_1p_past"
-        },
-        {
-          "guid": "N02_003",
-          "grammatical_form": "noun/lt_accusative_plural"
-        },
-        {
-          "guid": "N47_002",
-          "grammatical_form": "noun/lt_genitive_singular"
-        }
-      ],
-      "source": "buivolas_guided_N47_002",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00677",
@@ -10941,29 +10396,6 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": "S_00696",
-      "translations": {
-        "bn": "তারা একটি লাল গোলাপ দেখেছিল।",
-        "lt": "Jie pamatė raudoną rožę."
-      },
-      "linked_words": [
-        {
-          "guid": "V10_001",
-          "grammatical_form": "verb/lt_3p_past"
-        },
-        {
-          "guid": "A02_003",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N05_005",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N05_005",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00697",
       "translations": {
         "bn": "রবিবার আমরা হেঁটে গির্জায় যাই।",
@@ -11058,29 +10490,6 @@
       ],
       "source": "buivolas_guided_N07_012",
       "minimum_level": 17
-    },
-    {
-      "sentence_id": "S_00705",
-      "translations": {
-        "bn": "তিনি বেকারিতে রুটি কেনেন।",
-        "lt": "Ji perka duoną kepykloje."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "N06_001",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "N07_013",
-          "grammatical_form": "noun/lt_locative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N07_013",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00706",
@@ -12726,29 +12135,6 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": "S_00838",
-      "translations": {
-        "bn": "তিনি একটি বোতল ওয়াইন কিনেছেন।",
-        "lt": "Jis nupirko butelę vyno."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": "verb/lt_3s_past"
-        },
-        {
-          "guid": "N08_012",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "N42_005",
-          "grammatical_form": "noun/lt_genitive_singular"
-        }
-      ],
-      "source": "buivolas_guided_N42_005",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00840",
       "translations": {
         "bn": "তারা অনুষ্ঠানের জন্য ওয়াইন খুললেন।",
@@ -12793,29 +12179,6 @@
       ],
       "source": "buivolas_guided_N42_006",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00842",
-      "translations": {
-        "bn": "সে দোকান থেকে দুধ কেনে।",
-        "lt": "Ji perka pieną parduotuvėje."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "N42_006",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "N07_005",
-          "grammatical_form": "noun/lt_locative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N42_006",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00843",
@@ -13126,29 +12489,6 @@
       ],
       "source": "buivolas_guided_N09_010",
       "minimum_level": 16
-    },
-    {
-      "sentence_id": "S_00857",
-      "translations": {
-        "bn": "আজ তিনি একটি নীল স্কার্ট পরে আছেন।",
-        "lt": "Ji šiandien dėvi mėlyną sijoną."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_031",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "A02_004",
-          "grammatical_form": "adjective/lt_accusative_singular_m"
-        },
-        {
-          "guid": "N09_013",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N09_013",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00858",
@@ -13662,29 +13002,6 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": "S_00929",
-      "translations": {
-        "bn": "সে আজ একটি কটন শার্ট কিনছে।",
-        "lt": "Ji šiandien perka medvilninį marškinius."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "N14_014",
-          "grammatical_form": "adjective/lt_accusative_singular_m"
-        },
-        {
-          "guid": "N09_001",
-          "grammatical_form": "noun/lt_accusative_plural"
-        }
-      ],
-      "source": "buivolas_guided_N14_014",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00930",
       "translations": {
         "bn": "আমার বন্ধু ক্ষেতে তুলার সন্ধান পেয়েছে।",
@@ -13783,52 +13100,6 @@
       ],
       "source": "buivolas_guided_N14_016",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00941",
-      "translations": {
-        "bn": "আজ তিনি চামড়ার জ্যাকেট পরে আছেন।",
-        "lt": "Jis šiandien dėvi odinę striukę."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_031",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "N14_017",
-          "grammatical_form": "adjective/lt_accusative_singular_f"
-        },
-        {
-          "guid": "N09_005",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N14_017",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_00942",
-      "translations": {
-        "bn": "তিনি গতকাল একটি চামড়ার ব্যাগ কিনেছেন।",
-        "lt": "Ji vakar nusipirko odinį maišelį."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": "verb/lt_3s_past"
-        },
-        {
-          "guid": "N14_017",
-          "grammatical_form": "adjective/lt_accusative_singular_m"
-        },
-        {
-          "guid": "N08_009",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N14_017",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00945",
@@ -14028,29 +13299,6 @@
       ],
       "source": "buivolas_guided_N14_021",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00960",
-      "translations": {
-        "bn": "সে স্কুলের কাছাকাছি একটি ইটের সন্ধান পায়।",
-        "lt": "Ji randa plytą šalia mokyklos."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "N14_021",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "N07_002",
-          "grammatical_form": "noun/lt_genitive_singular"
-        }
-      ],
-      "source": "buivolas_guided_N14_021",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00964",
@@ -15106,48 +14354,6 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": "S_01052",
-      "translations": {
-        "bn": "তিনি একটি বড় আকারের টুপি খুঁজে পেলেন।",
-        "lt": "Jis rado platų skrybėlę."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/lt_3s_past"
-        },
-        {
-          "guid": "A18_005",
-          "grammatical_form": "adjective/lt_accusative_singular_m"
-        },
-        {
-          "guid": "N09_008",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_A18_005",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_01053",
-      "translations": {
-        "bn": "আজ হ্রদটি বেশ গভীর।",
-        "lt": "Ežeras šiandien yra gilus."
-      },
-      "linked_words": [
-        {
-          "guid": "N11_005",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
-          "guid": "A18_006",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_A18_006",
-      "minimum_level": 18
-    },
-    {
       "sentence_id": "S_01056",
       "translations": {
         "bn": "সে একটি গভীর কণ্ঠস্বর শুনতে পায়।",
@@ -15611,29 +14817,6 @@
       ],
       "source": "buivolas_guided_A18_012",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_01082",
-      "translations": {
-        "bn": "তারা শেষ রুটিটি খেয়ে ফেলেছে।",
-        "lt": "Jie suvalgė paskutinę duoną."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_001",
-          "grammatical_form": "verb/lt_3p_past"
-        },
-        {
-          "guid": "A15_011",
-          "grammatical_form": "adjective/lt_accusative_singular_f"
-        },
-        {
-          "guid": "N06_001",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_A15_011",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_01084",
@@ -16880,29 +16063,6 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": "S_01193",
-      "translations": {
-        "bn": "আমি স্কুলের কাছাকাছি একটি সাপ দেখেছিলাম।",
-        "lt": "Mačiau gyvatę prie mokyklos."
-      },
-      "linked_words": [
-        {
-          "guid": "V10_001",
-          "grammatical_form": "verb/lt_1s_past"
-        },
-        {
-          "guid": "N02_014",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "N07_002",
-          "grammatical_form": "noun/lt_genitive_singular"
-        }
-      ],
-      "source": "buivolas_guided_N02_014",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_01194",
       "translations": {
         "bn": "সে সাপের ভয় পায়।",
@@ -16947,29 +16107,6 @@
       ],
       "source": "buivolas_guided_N02_014",
       "minimum_level": 9
-    },
-    {
-      "sentence_id": "S_01200",
-      "translations": {
-        "bn": "হাতিটি আমাদের বাড়ির কাছাকাছি দিয়ে হেঁটে যাচ্ছিল।",
-        "lt": "Dramblys ėjo šalia mūsų namo."
-      },
-      "linked_words": [
-        {
-          "guid": "N02_015",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
-          "guid": "V12_001",
-          "grammatical_form": "verb/lt_3s_past"
-        },
-        {
-          "guid": "N07_001",
-          "grammatical_form": "noun/lt_genitive_singular"
-        }
-      ],
-      "source": "buivolas_guided_N02_015",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_01201",
@@ -17433,63 +16570,6 @@
       ],
       "source": "buivolas_guided_N42_016",
       "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_01241",
-      "translations": {
-        "bn": "তিনি গতকাল একটি ভিডিও ক্যামেরা কিনেছেন।",
-        "lt": "Ji vakar nupirko vaizdo kamerą."
-      },
-      "linked_words": [
-        {
-          "guid": "D03_002",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V06_004",
-          "grammatical_form": "verb/lt_3s_past"
-        }
-      ],
-      "source": "buivolas_guided_N42_018",
-      "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_01242",
-      "translations": {
-        "bn": "আমাদের কাছে একটি ছোট ভিডিও ক্যামেরা আছে।",
-        "lt": "Mes turime mažą vaizdo kamerą."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_002",
-          "grammatical_form": "verb/lt_1p_present"
-        },
-        {
-          "guid": "A01_002",
-          "grammatical_form": "adjective/lt_accusative_singular_m"
-        }
-      ],
-      "source": "buivolas_guided_N42_018",
-      "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_01243",
-      "translations": {
-        "bn": "তিনি ভিডিও ক্যামেরাটি নিচে রাখলেন।",
-        "lt": "Jis padėjo vaizdo kamerą žemyn."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_010",
-          "grammatical_form": "verb/lt_3s_past"
-        },
-        {
-          "guid": "D07_027",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N42_018",
-      "minimum_level": 9
     }
   ],
   "source_language": "bn"

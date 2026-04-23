@@ -626,16 +626,6 @@
       "minimum_level": 1
     },
     {
-      "sentence_id": "S_00056",
-      "translations": {
-        "bn": "আমার বন্ধু রুটিতে লবণ অনুভব করছে।",
-        "sv": "Min vän smakar salt på brödet."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N06_013",
-      "minimum_level": 17
-    },
-    {
       "sentence_id": "S_00057",
       "translations": {
         "bn": "তিনি রাতের খাবারের জন্য একটি আলু রান্না করেছিলেন।",
@@ -976,16 +966,6 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": "S_00091",
-      "translations": {
-        "bn": "আমার বন্ধু ভেজা প্যান্ট খুঁজে পেয়েছে।",
-        "sv": "Min vän hittade blöta byxor."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N09_002",
-      "minimum_level": 37
-    },
-    {
       "sentence_id": "S_00092",
       "translations": {
         "bn": "তাদের কাছে কি পরিষ্কার প্যান্ট আছে?",
@@ -1096,16 +1076,6 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": "S_00103",
-      "translations": {
-        "bn": "সে বাইরে একটি জুতা হারিয়ে ফেলেছে।",
-        "sv": "Han tappade en sko utanför."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N09_006",
-      "minimum_level": 17
-    },
-    {
       "sentence_id": "S_00104",
       "translations": {
         "bn": "তারা একই ধরনের জুতো পরে।",
@@ -1134,16 +1104,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N09_007",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_00107",
-      "translations": {
-        "bn": "তারা একটি ভেজা মোজা খুঁজে পেয়েছে।",
-        "sv": "De hittade en blöt socka."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N09_007",
-      "minimum_level": 37
     },
     {
       "sentence_id": "S_00108",
@@ -1296,26 +1256,6 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": "S_00123",
-      "translations": {
-        "bn": "আমার বন্ধু একটি স্যুটকেসের মধ্যে অন্তর্বাস খুঁজে পেয়েছে।",
-        "sv": "Min vän hittade underkläder i en resväska."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N09_012",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_00124",
-      "translations": {
-        "bn": "তারা তাদের শার্টের নিচে অন্তর্বাস পরে।",
-        "sv": "De bär underkläder under sina skjortor."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N09_012",
-      "minimum_level": 1
-    },
-    {
       "sentence_id": "S_00125",
       "translations": {
         "bn": "আমি প্রতিদিন সকালে নাস্তা করি।",
@@ -1324,16 +1264,6 @@
       "linked_words": [],
       "source": "buivolas_guided_V01_001",
       "minimum_level": 13
-    },
-    {
-      "sentence_id": "S_00126",
-      "translations": {
-        "bn": "সে এখন একটি আপেল খাচ্ছে।",
-        "sv": "Hon äter ett äpple just nu."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V01_001",
-      "minimum_level": 37
     },
     {
       "sentence_id": "S_00127",
@@ -2504,16 +2434,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N02_008",
       "minimum_level": 28
-    },
-    {
-      "sentence_id": "S_00244",
-      "translations": {
-        "bn": "তিনি খুব সাবধানে মাউসটি সরিয়ে নিলেন।",
-        "sv": "Hon flyttade försiktigt musen åt sidan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N02_008",
-      "minimum_level": 19
     },
     {
       "sentence_id": "S_00245",
@@ -4176,16 +4096,6 @@
       "minimum_level": 11
     },
     {
-      "sentence_id": "S_00411",
-      "translations": {
-        "bn": "তাদের সাক্ষাতের পর তারা একে অপরের সাথে হাত মেলালেন।",
-        "sv": "De skakade hand när de träffades."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N03_014",
-      "minimum_level": 20
-    },
-    {
       "sentence_id": "S_00412",
       "translations": {
         "bn": "শিশুটি তার হাত তুলল।",
@@ -4556,16 +4466,6 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": "S_00450",
-      "translations": {
-        "bn": "তারা স্কুলে আছে।",
-        "sv": "De är på skolan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V06_001",
-      "minimum_level": 1
-    },
-    {
       "sentence_id": "S_00451",
       "translations": {
         "bn": "গত বছর আমি একজন শিক্ষক ছিলাম।",
@@ -4584,16 +4484,6 @@
       "linked_words": [],
       "source": "buivolas_guided_V06_001",
       "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_00453",
-      "translations": {
-        "bn": "আমি আমার নীল রঙের শার্টটি পরি।",
-        "sv": "Jag har på mig min blå skjorta."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V01_031",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00454",
@@ -5046,16 +4936,6 @@
       "minimum_level": 21
     },
     {
-      "sentence_id": "S_00501",
-      "translations": {
-        "bn": "তিনি সৈকতে একটি শঙ্কু আকৃতির জিনিস ধরে রেখেছেন।",
-        "sv": "Hon håller en glassvaffel på stranden."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N37_009",
-      "minimum_level": 18
-    },
-    {
       "sentence_id": "S_00502",
       "translations": {
         "bn": "তারা ক্লাসের জন্য একটি শঙ্কু তৈরি করেছিল।",
@@ -5496,16 +5376,6 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": "S_00546",
-      "translations": {
-        "bn": "সে স্কুলের কাছে একজন পুলিশ অফিসারকে দেখতে পেয়েছিল।",
-        "sv": "Hon såg en polisman i närheten av skolan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N36_019",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00547",
       "translations": {
         "bn": "তারা গতকাল রাতে একজন পুলিশ কর্মকর্তাকে খবর দিয়েছিলেন।",
@@ -5796,16 +5666,6 @@
       "minimum_level": 5
     },
     {
-      "sentence_id": "S_00576",
-      "translations": {
-        "bn": "ঐ লোকটি স্কুলে কাজ করে।",
-        "sv": "Den mannen arbetar på skolan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N01_055",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00577",
       "translations": {
         "bn": "মহিলাটি কাজে যাওয়ার জন্য হেঁটে যাচ্ছেন।",
@@ -5976,16 +5836,6 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": "S_00594",
-      "translations": {
-        "bn": "ঐ ব্যক্তিটি স্কুলে কাজ করেন।",
-        "sv": "Den personen arbetar på skolan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N01_060",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00595",
       "translations": {
         "bn": "আমরা দোকানে দুজন লোককে দেখেছি।",
@@ -6044,16 +5894,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N01_062",
       "minimum_level": 5
-    },
-    {
-      "sentence_id": "S_00602",
-      "translations": {
-        "bn": "যে কেউ কুকুরটিকে দেখতে পারবে।",
-        "sv": "Alla kan se hunden."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N01_062",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00603",
@@ -6266,16 +6106,6 @@
       "minimum_level": 21
     },
     {
-      "sentence_id": "S_00625",
-      "translations": {
-        "bn": "আমি একটি কালো রঙের শার্ট চাই।",
-        "sv": "Jag vill ha en svart tröja."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V05_004",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00626",
       "translations": {
         "bn": "সে আরও রুটি চেয়েছিল।",
@@ -6284,16 +6114,6 @@
       "linked_words": [],
       "source": "buivolas_guided_V05_004",
       "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_00627",
-      "translations": {
-        "bn": "তারা একটি সাইকেল কিনতে চায়।",
-        "sv": "De vill köpa en cykel."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V05_004",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00628",
@@ -6334,16 +6154,6 @@
       "linked_words": [],
       "source": "buivolas_guided_V06_002",
       "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_00632",
-      "translations": {
-        "bn": "তাদের একটি সাদা রঙের বাড়ি আছে।",
-        "sv": "De har ett vitt hus."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V06_002",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00633",
@@ -6394,16 +6204,6 @@
       "linked_words": [],
       "source": "buivolas_guided_V06_004",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_00638",
-      "translations": {
-        "bn": "সে একটি নতুন শার্ট কেনে।",
-        "sv": "Hon köper en ny skjorta."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V06_004",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00639",
@@ -6546,16 +6346,6 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": "S_00653",
-      "translations": {
-        "bn": "আজ আমি স্কুলে কাজ করছি।",
-        "sv": "Jag jobbar på skolan idag."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V01_007",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00654",
       "translations": {
         "bn": "তিনি প্রতিদিন সকালে রান্নাঘরে কাজ করেন।",
@@ -6586,30 +6376,10 @@
       "minimum_level": 5
     },
     {
-      "sentence_id": "S_00657",
-      "translations": {
-        "bn": "আমি প্রতিদিন সকালে আমার चाবিগুলো খুঁজে পাই।",
-        "sv": "Jag hittar alltid mina nycklar varje morgon."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V01_009",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00658",
       "translations": {
         "bn": "সে স্কুলের কাছাকাছি একটি মুদ্রা খুঁজে পেয়েছিল।",
         "sv": "Hon hittade en mynt nära skolan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V01_009",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_00659",
-      "translations": {
-        "bn": "আমরা পার্কে কুকুরটিকে খুঁজে পাই।",
-        "sv": "Vi hittar hunden i parken."
       },
       "linked_words": [],
       "source": "buivolas_guided_V01_009",
@@ -6734,16 +6504,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N47_002",
       "minimum_level": 16
-    },
-    {
-      "sentence_id": "S_00672",
-      "translations": {
-        "bn": "আমরা জানালায় পাখি দেখতে পেয়েছিলাম।",
-        "sv": "Vi såg fåglar vid fönstret."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N47_002",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00673",
@@ -6976,16 +6736,6 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": "S_00696",
-      "translations": {
-        "bn": "তারা একটি লাল গোলাপ দেখেছিল।",
-        "sv": "De såg en röd ros."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N05_005",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00697",
       "translations": {
         "bn": "রবিবার আমরা হেঁটে গির্জায় যাই।",
@@ -7064,16 +6814,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N07_012",
       "minimum_level": 17
-    },
-    {
-      "sentence_id": "S_00705",
-      "translations": {
-        "bn": "তিনি বেকারিতে রুটি কেনেন।",
-        "sv": "Hon köper bröd i bageriet."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N07_013",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00706",
@@ -7424,16 +7164,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N07_041",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00741",
-      "translations": {
-        "bn": "একটি উঁচু ভবন সূর্যের আলো আটকে দিচ্ছে।",
-        "sv": "En hög byggnad skymmer solen."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N07_046",
-      "minimum_level": 14
     },
     {
       "sentence_id": "S_00742",
@@ -8046,16 +7776,6 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": "S_00803",
-      "translations": {
-        "bn": "শিশুটি তার নোংরা হয়ে যাওয়া উরু পরিষ্কার করলো।",
-        "sv": "Barnet torkade av sitt smutsiga lår."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N03_021",
-      "minimum_level": 14
-    },
-    {
       "sentence_id": "S_00804",
       "translations": {
         "bn": "তিনি তার ব্যথযুক্ত উরু부에 মালিশ করলেন।",
@@ -8396,16 +8116,6 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": "S_00838",
-      "translations": {
-        "bn": "তিনি একটি বোতল ওয়াইন কিনেছেন।",
-        "sv": "Han köpte en flaska vin."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N42_005",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00839",
       "translations": {
         "bn": "আমরা কাজ শেষে একসাথে ওয়াইন ভাগ করে পান করেছিলাম।",
@@ -8434,16 +8144,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N42_006",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00842",
-      "translations": {
-        "bn": "সে দোকান থেকে দুধ কেনে।",
-        "sv": "Hon köper mjölk i affären."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N42_006",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00843",
@@ -8584,16 +8284,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N09_010",
       "minimum_level": 16
-    },
-    {
-      "sentence_id": "S_00857",
-      "translations": {
-        "bn": "আজ তিনি একটি নীল স্কার্ট পরে আছেন।",
-        "sv": "Hon har en blå kjol på sig idag."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N09_013",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00858",
@@ -9286,16 +8976,6 @@
       "minimum_level": 12
     },
     {
-      "sentence_id": "S_00929",
-      "translations": {
-        "bn": "সে আজ একটি কটন শার্ট কিনছে।",
-        "sv": "Hon köper en skjorta i bomull idag."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N14_014",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00930",
       "translations": {
         "bn": "আমার বন্ধু ক্ষেতে তুলার সন্ধান পেয়েছে।",
@@ -9404,26 +9084,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N14_016",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00941",
-      "translations": {
-        "bn": "আজ তিনি চামড়ার জ্যাকেট পরে আছেন।",
-        "sv": "Han har en läderjacka på sig idag."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N14_017",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_00942",
-      "translations": {
-        "bn": "তিনি গতকাল একটি চামড়ার ব্যাগ কিনেছেন।",
-        "sv": "Hon köpte en läderväska igår."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N14_017",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00943",
@@ -9594,16 +9254,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N14_021",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00960",
-      "translations": {
-        "bn": "সে স্কুলের কাছাকাছি একটি ইটের সন্ধান পায়।",
-        "sv": "Hon hittar en tegelsten nära skolan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N14_021",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00961",
@@ -10516,26 +10166,6 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": "S_01052",
-      "translations": {
-        "bn": "তিনি একটি বড় আকারের টুপি খুঁজে পেলেন।",
-        "sv": "Han hittade en bred hatt."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_A18_005",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_01053",
-      "translations": {
-        "bn": "আজ হ্রদটি বেশ গভীর।",
-        "sv": "Sjön är djup idag."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_A18_006",
-      "minimum_level": 18
-    },
-    {
       "sentence_id": "S_01054",
       "translations": {
         "bn": "তিনি একটি গভীর গর্ত দেখতে পান।",
@@ -10814,16 +10444,6 @@
       "linked_words": [],
       "source": "buivolas_guided_A15_011",
       "minimum_level": 17
-    },
-    {
-      "sentence_id": "S_01082",
-      "translations": {
-        "bn": "তারা শেষ রুটিটি খেয়ে ফেলেছে।",
-        "sv": "De åt det sista brödet."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_A15_011",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_01083",
@@ -11926,16 +11546,6 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": "S_01193",
-      "translations": {
-        "bn": "আমি স্কুলের কাছাকাছি একটি সাপ দেখেছিলাম।",
-        "sv": "Jag såg en orm nära skolan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N02_014",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_01194",
       "translations": {
         "bn": "সে সাপের ভয় পায়।",
@@ -11994,16 +11604,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N02_015",
       "minimum_level": 9
-    },
-    {
-      "sentence_id": "S_01200",
-      "translations": {
-        "bn": "হাতিটি আমাদের বাড়ির কাছাকাছি দিয়ে হেঁটে যাচ্ছিল।",
-        "sv": "Elefanten gick nära vårt hus."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N02_015",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_01201",
@@ -12383,36 +11983,6 @@
       },
       "linked_words": [],
       "source": "buivolas_guided_N42_016",
-      "minimum_level": 9
-    },
-    {
-      "sentence_id": "S_01241",
-      "translations": {
-        "bn": "তিনি গতকাল একটি ভিডিও ক্যামেরা কিনেছেন।",
-        "sv": "Hon köpte en videokamera igår."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N42_018",
-      "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_01242",
-      "translations": {
-        "bn": "আমাদের কাছে একটি ছোট ভিডিও ক্যামেরা আছে।",
-        "sv": "Vi har en liten videokamera."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N42_018",
-      "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_01243",
-      "translations": {
-        "bn": "তিনি ভিডিও ক্যামেরাটি নিচে রাখলেন।",
-        "sv": "Han ställde ner videokameran."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N42_018",
       "minimum_level": 9
     },
     {

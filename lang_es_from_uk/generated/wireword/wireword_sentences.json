@@ -837,33 +837,6 @@
       "minimum_level": 1
     },
     {
-      "sentence_id": "S_00056",
-      "translations": {
-        "uk": "Мій друг відчуває солодкий присмак на хлібі.",
-        "es": "Mi amigo prueba sal en el pan."
-      },
-      "linked_words": [
-        {
-          "guid": "N01_059",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V10_005",
-          "grammatical_form": "verb/es_3s_present"
-        },
-        {
-          "guid": "N06_013",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N06_001",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N06_013",
-      "minimum_level": 17
-    },
-    {
       "sentence_id": "S_00058",
       "translations": {
         "uk": "Вони купують картоплю на ринку.",
@@ -1336,33 +1309,6 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": "S_00091",
-      "translations": {
-        "uk": "Мій друг знайшов мокрі штани.",
-        "es": "Mi amigo encontró los pantalones mojados."
-      },
-      "linked_words": [
-        {
-          "guid": "N01_059",
-          "grammatical_form": "noun/es_singular"
-        },
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/es_3s_past"
-        },
-        {
-          "guid": "N09_002",
-          "grammatical_form": "noun/es_plural"
-        },
-        {
-          "guid": "A18_011",
-          "grammatical_form": "adjective/es_plural_m"
-        }
-      ],
-      "source": "buivolas_guided_N09_002",
-      "minimum_level": 37
-    },
-    {
       "sentence_id": "S_00092",
       "translations": {
         "uk": "Чи у них є чисті штани?",
@@ -1570,29 +1516,6 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": "S_00103",
-      "translations": {
-        "uk": "Він втратив одне взуття, коли був зовні.",
-        "es": "Él perdió un zapato afuera."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_045",
-          "grammatical_form": "verb/es_3s_past"
-        },
-        {
-          "guid": "N09_006",
-          "grammatical_form": "noun/es_singular"
-        },
-        {
-          "guid": "D07_032",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N09_006",
-      "minimum_level": 17
-    },
-    {
       "sentence_id": "S_00104",
       "translations": {
         "uk": "Вони носять однакове взуття.",
@@ -1637,29 +1560,6 @@
       ],
       "source": "buivolas_guided_N09_007",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_00107",
-      "translations": {
-        "uk": "Вони знайшли мокрий шкарпеток.",
-        "es": "Encontraron un calcetín mojado"
-      },
-      "linked_words": [
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/es_3p_past"
-        },
-        {
-          "guid": "N09_007",
-          "grammatical_form": "noun/es_singular"
-        },
-        {
-          "guid": "A18_011",
-          "grammatical_form": "adjective/es_singular_m"
-        }
-      ],
-      "source": "buivolas_guided_N09_007",
-      "minimum_level": 37
     },
     {
       "sentence_id": "S_00108",
@@ -1938,29 +1838,6 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": "S_00124",
-      "translations": {
-        "uk": "Вони носять нижню білизну під сорочками.",
-        "es": "Ellos llevan ropa interior debajo de sus camisas."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_031",
-          "grammatical_form": "verb/es_3p_present"
-        },
-        {
-          "guid": "N09_012",
-          "grammatical_form": "noun/es_singular"
-        },
-        {
-          "guid": "N09_001",
-          "grammatical_form": "noun/es_plural"
-        }
-      ],
-      "source": "buivolas_guided_N09_012",
-      "minimum_level": 1
-    },
-    {
       "sentence_id": "S_00125",
       "translations": {
         "uk": "Я кожного ранку снідаю.",
@@ -1982,29 +1859,6 @@
       ],
       "source": "buivolas_guided_V01_001",
       "minimum_level": 13
-    },
-    {
-      "sentence_id": "S_00126",
-      "translations": {
-        "uk": "Вона зараз їсть яблуко.",
-        "es": "Ella come una manzana ahora"
-      },
-      "linked_words": [
-        {
-          "guid": "V01_001",
-          "grammatical_form": "verb/es_3s_present"
-        },
-        {
-          "guid": "N06_015",
-          "grammatical_form": null
-        },
-        {
-          "guid": "D07_001",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_V01_001",
-      "minimum_level": 37
     },
     {
       "sentence_id": "S_00127",
@@ -3750,29 +3604,6 @@
       ],
       "source": "buivolas_guided_N02_008",
       "minimum_level": 28
-    },
-    {
-      "sentence_id": "S_00244",
-      "translations": {
-        "uk": "Вона обережно відсунула мишку.",
-        "es": "Ella alejó al ratón suavemente."
-      },
-      "linked_words": [
-        {
-          "guid": "V12_009",
-          "grammatical_form": "verb/es_3s_past"
-        },
-        {
-          "guid": "N02_008",
-          "grammatical_form": "noun/es_singular"
-        },
-        {
-          "guid": "D01_023",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N02_008",
-      "minimum_level": 19
     },
     {
       "sentence_id": "S_00246",
@@ -6176,25 +6007,6 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": "S_00411",
-      "translations": {
-        "uk": "Вони потиснули один одному руки після знайомства.",
-        "es": "Se dieron la mano después de reunirse."
-      },
-      "linked_words": [
-        {
-          "guid": "N03_014",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N24_024",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N03_014",
-      "minimum_level": 20
-    },
-    {
       "sentence_id": "S_00414",
       "translations": {
         "uk": "Він показує пальцем.",
@@ -6666,21 +6478,6 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": "S_00450",
-      "translations": {
-        "uk": "Вони зараз у школі.",
-        "es": "Ellos están en la escuela."
-      },
-      "linked_words": [
-        {
-          "guid": "N07_002",
-          "grammatical_form": "noun/es_singular"
-        }
-      ],
-      "source": "buivolas_guided_V06_001",
-      "minimum_level": 1
-    },
-    {
       "sentence_id": "S_00452",
       "translations": {
         "uk": "Хліб теплий і свіжий.",
@@ -6702,29 +6499,6 @@
       ],
       "source": "buivolas_guided_V06_001",
       "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_00453",
-      "translations": {
-        "uk": "Я одягнена у свою синю сорочку.",
-        "es": "Llevo mi camisa azul."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_031",
-          "grammatical_form": "verb/es_1s_present"
-        },
-        {
-          "guid": "N09_001",
-          "grammatical_form": "noun/es_singular"
-        },
-        {
-          "guid": "A02_004",
-          "grammatical_form": "adjective/es_singular_m"
-        }
-      ],
-      "source": "buivolas_guided_V01_031",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00454",
@@ -7219,25 +6993,6 @@
       ],
       "source": "buivolas_guided_N37_008",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_00501",
-      "translations": {
-        "uk": "Вона тримає в руках морозиво у вафельному конусі на пляжі.",
-        "es": "Ella sostiene un cono en la playa."
-      },
-      "linked_words": [
-        {
-          "guid": "N37_009",
-          "grammatical_form": "noun/es_singular"
-        },
-        {
-          "guid": "N11_008",
-          "grammatical_form": "noun/es_singular"
-        }
-      ],
-      "source": "buivolas_guided_N37_009",
-      "minimum_level": 18
     },
     {
       "sentence_id": "S_00503",
@@ -7799,29 +7554,6 @@
       "minimum_level": 5
     },
     {
-      "sentence_id": "S_00546",
-      "translations": {
-        "uk": "Вона побачила поліцейського біля школи.",
-        "es": "Ella vio a un policía cerca de la escuela."
-      },
-      "linked_words": [
-        {
-          "guid": "V10_001",
-          "grammatical_form": "verb/es_3s_past"
-        },
-        {
-          "guid": "N36_019",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N07_002",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N36_019",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00547",
       "translations": {
         "uk": "Вони викликали поліцейського вчора ввечері.",
@@ -8228,29 +7960,6 @@
       "minimum_level": 5
     },
     {
-      "sentence_id": "S_00576",
-      "translations": {
-        "uk": "Цей чоловік працює в школі.",
-        "es": "Ese hombre trabaja en la escuela."
-      },
-      "linked_words": [
-        {
-          "guid": "N01_055",
-          "grammatical_form": "noun/es_singular"
-        },
-        {
-          "guid": "V01_007",
-          "grammatical_form": "verb/es_3s_present"
-        },
-        {
-          "guid": "N07_002",
-          "grammatical_form": "noun/es_singular"
-        }
-      ],
-      "source": "buivolas_guided_N01_055",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00578",
       "translations": {
         "uk": "Жінка сидить біля вікна.",
@@ -8627,29 +8336,6 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": "S_00594",
-      "translations": {
-        "uk": "Ця людина працює в школі.",
-        "es": "Esa persona trabaja en la escuela."
-      },
-      "linked_words": [
-        {
-          "guid": "N01_060",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_007",
-          "grammatical_form": "verb/es_3s_present"
-        },
-        {
-          "guid": "N07_002",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N01_060",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00595",
       "translations": {
         "uk": "Ми бачили двох людей у магазині.",
@@ -8774,25 +8460,6 @@
       ],
       "source": "buivolas_guided_N01_062",
       "minimum_level": 5
-    },
-    {
-      "sentence_id": "S_00602",
-      "translations": {
-        "uk": "Будь-хто може побачити собаку.",
-        "es": "Cualquiera puede ver al perro."
-      },
-      "linked_words": [
-        {
-          "guid": "V10_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N02_001",
-          "grammatical_form": "noun/es_singular"
-        }
-      ],
-      "source": "buivolas_guided_N01_062",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00603",
@@ -9138,29 +8805,6 @@
       "minimum_level": 21
     },
     {
-      "sentence_id": "S_00625",
-      "translations": {
-        "uk": "Я хочу чорну сорочку.",
-        "es": "Quiero una camisa negra."
-      },
-      "linked_words": [
-        {
-          "guid": "V05_004",
-          "grammatical_form": "verb/es_1s_present"
-        },
-        {
-          "guid": "N09_001",
-          "grammatical_form": "noun/es_singular"
-        },
-        {
-          "guid": "A02_001",
-          "grammatical_form": "adjective/es_singular_f"
-        }
-      ],
-      "source": "buivolas_guided_V05_004",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00626",
       "translations": {
         "uk": "Вона хотіла більше хліба.",
@@ -9182,29 +8826,6 @@
       ],
       "source": "buivolas_guided_V05_004",
       "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_00627",
-      "translations": {
-        "uk": "Вони хочуть купити велосипед.",
-        "es": "Quieren comprar una bicicleta."
-      },
-      "linked_words": [
-        {
-          "guid": "V05_004",
-          "grammatical_form": "verb/es_3p_present"
-        },
-        {
-          "guid": "V06_004",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N40_007",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_V05_004",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00628",
@@ -9303,29 +8924,6 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": "S_00632",
-      "translations": {
-        "uk": "У них є будинок білого кольору.",
-        "es": "Ellos tienen una casa blanca."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_002",
-          "grammatical_form": "verb/es_3p_present"
-        },
-        {
-          "guid": "N07_001",
-          "grammatical_form": "noun/es_singular"
-        },
-        {
-          "guid": "A02_002",
-          "grammatical_form": "adjective/es_singular_f"
-        }
-      ],
-      "source": "buivolas_guided_V06_002",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00633",
       "translations": {
         "uk": "Зараз я заробляю пристойні гроші.",
@@ -9370,29 +8968,6 @@
       ],
       "source": "buivolas_guided_V06_004",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_00638",
-      "translations": {
-        "uk": "Вона купує нову сорочку.",
-        "es": "Ella compra una camisa nueva."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": "verb/es_3s_present"
-        },
-        {
-          "guid": "N09_001",
-          "grammatical_form": "noun/es_singular"
-        },
-        {
-          "guid": "A05_035",
-          "grammatical_form": "adjective/es_singular_f"
-        }
-      ],
-      "source": "buivolas_guided_V06_004",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00640",
@@ -9544,29 +9119,6 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": "S_00653",
-      "translations": {
-        "uk": "Сьогодні я працюю в школі.",
-        "es": "Trabajo en la escuela hoy."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_007",
-          "grammatical_form": "verb/es_1s_present"
-        },
-        {
-          "guid": "N07_002",
-          "grammatical_form": null
-        },
-        {
-          "guid": "D03_001",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_V01_007",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00654",
       "translations": {
         "uk": "Вона працює щоранку на кухні.",
@@ -9611,52 +9163,6 @@
       ],
       "source": "buivolas_guided_V01_007",
       "minimum_level": 5
-    },
-    {
-      "sentence_id": "S_00657",
-      "translations": {
-        "uk": "Я щоранку знаходжу свої ключі.",
-        "es": "Encuentro mis llaves todas las mañanas."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/es_1s_present"
-        },
-        {
-          "guid": "N08_006",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N25_004",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_V01_009",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_00659",
-      "translations": {
-        "uk": "Ми знайшли собаку в парку.",
-        "es": "Encontramos al perro en el parque."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/es_1p_present"
-        },
-        {
-          "guid": "N02_001",
-          "grammatical_form": "noun/es_singular"
-        },
-        {
-          "guid": "N07_050",
-          "grammatical_form": "noun/es_singular"
-        }
-      ],
-      "source": "buivolas_guided_V01_009",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00661",
@@ -9833,29 +9339,6 @@
       ],
       "source": "buivolas_guided_N47_002",
       "minimum_level": 17
-    },
-    {
-      "sentence_id": "S_00672",
-      "translations": {
-        "uk": "Ми бачили птахів біля вікна.",
-        "es": "Vimos pájaros en la ventana."
-      },
-      "linked_words": [
-        {
-          "guid": "V10_001",
-          "grammatical_form": "verb/es_1p_past"
-        },
-        {
-          "guid": "N02_003",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N47_002",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N47_002",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00677",
@@ -10072,29 +9555,6 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": "S_00696",
-      "translations": {
-        "uk": "Вони побачили червону троянду.",
-        "es": "Ellos vieron una rosa roja."
-      },
-      "linked_words": [
-        {
-          "guid": "V10_001",
-          "grammatical_form": "verb/es_3p_past"
-        },
-        {
-          "guid": "N05_005",
-          "grammatical_form": null
-        },
-        {
-          "guid": "A02_003",
-          "grammatical_form": "adjective/es_singular_f"
-        }
-      ],
-      "source": "buivolas_guided_N05_005",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00697",
       "translations": {
         "uk": "Ми ходимо до церкви в неділю.",
@@ -10189,29 +9649,6 @@
       ],
       "source": "buivolas_guided_N07_012",
       "minimum_level": 17
-    },
-    {
-      "sentence_id": "S_00705",
-      "translations": {
-        "uk": "Вона купує хліб у пекарні.",
-        "es": "Ella compra pan en la panadería."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": "verb/es_3s_present"
-        },
-        {
-          "guid": "N06_001",
-          "grammatical_form": "noun/es_singular"
-        },
-        {
-          "guid": "N07_013",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N07_013",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00706",
@@ -11865,29 +11302,6 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": "S_00838",
-      "translations": {
-        "uk": "Він купив пляшку вина.",
-        "es": "Él compró una botella de vino."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": "verb/es_3s_past"
-        },
-        {
-          "guid": "N08_012",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N42_005",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N42_005",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00840",
       "translations": {
         "uk": "Вони відкрили вино для вечірки.",
@@ -11932,29 +11346,6 @@
       ],
       "source": "buivolas_guided_N42_006",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00842",
-      "translations": {
-        "uk": "Вона купує молоко в магазині.",
-        "es": "Ella compra leche en la tienda."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": "verb/es_3s_present"
-        },
-        {
-          "guid": "N42_006",
-          "grammatical_form": "noun/es_singular"
-        },
-        {
-          "guid": "N07_005",
-          "grammatical_form": "noun/es_singular"
-        }
-      ],
-      "source": "buivolas_guided_N42_006",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00843",
@@ -12269,29 +11660,6 @@
       ],
       "source": "buivolas_guided_N09_010",
       "minimum_level": 16
-    },
-    {
-      "sentence_id": "S_00857",
-      "translations": {
-        "uk": "Сьогодні вона одягнена в синю спідницю.",
-        "es": "Ella lleva una falda azul hoy."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_031",
-          "grammatical_form": "verb/es_3s_present"
-        },
-        {
-          "guid": "N09_013",
-          "grammatical_form": null
-        },
-        {
-          "guid": "A02_004",
-          "grammatical_form": "adjective/es_singular_m"
-        }
-      ],
-      "source": "buivolas_guided_N09_013",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00858",
@@ -12801,29 +12169,6 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": "S_00929",
-      "translations": {
-        "uk": "Вона сьогодні купує сорочку з бавовни.",
-        "es": "Ella compra una camisa de algodón hoy."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": "verb/es_3s_present"
-        },
-        {
-          "guid": "N09_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N14_014",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N14_014",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00930",
       "translations": {
         "uk": "Мій друг знайшов бавовну на полі.",
@@ -12922,52 +12267,6 @@
       ],
       "source": "buivolas_guided_N14_016",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00941",
-      "translations": {
-        "uk": "Сьогодні він одягнений у шкіряну куртку.",
-        "es": "Él lleva una chaqueta de cuero hoy."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_031",
-          "grammatical_form": "verb/es_3s_present"
-        },
-        {
-          "guid": "N09_005",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N14_017",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N14_017",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_00942",
-      "translations": {
-        "uk": "Вона купила шкіряну сумку вчора.",
-        "es": "Ella compró una bolsa de cuero ayer."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": "verb/es_3s_past"
-        },
-        {
-          "guid": "N08_009",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N14_017",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N14_017",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00945",
@@ -13175,29 +12474,6 @@
       ],
       "source": "buivolas_guided_N14_021",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00960",
-      "translations": {
-        "uk": "Вона знайшла цеглу неподалік школи.",
-        "es": "Ella encuentra un ladrillo cerca de la escuela."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/es_3s_present"
-        },
-        {
-          "guid": "N14_021",
-          "grammatical_form": "noun/es_singular"
-        },
-        {
-          "guid": "N07_002",
-          "grammatical_form": "noun/es_singular"
-        }
-      ],
-      "source": "buivolas_guided_N14_021",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00964",
@@ -14244,48 +13520,6 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": "S_01052",
-      "translations": {
-        "uk": "Він знайшов широкий капелюх.",
-        "es": "Él encontró un sombrero ancho."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/es_3s_past"
-        },
-        {
-          "guid": "N09_008",
-          "grammatical_form": null
-        },
-        {
-          "guid": "A18_005",
-          "grammatical_form": "adjective/es_singular_m"
-        }
-      ],
-      "source": "buivolas_guided_A18_005",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_01053",
-      "translations": {
-        "uk": "Сьогодні озеро дуже глибоке.",
-        "es": "El lago está profundo hoy."
-      },
-      "linked_words": [
-        {
-          "guid": "N11_005",
-          "grammatical_form": "noun/es_singular"
-        },
-        {
-          "guid": "A18_006",
-          "grammatical_form": "adjective/es_singular_m"
-        }
-      ],
-      "source": "buivolas_guided_A18_006",
-      "minimum_level": 18
-    },
-    {
       "sentence_id": "S_01056",
       "translations": {
         "uk": "Вона чує глибокий голос.",
@@ -14745,29 +13979,6 @@
       ],
       "source": "buivolas_guided_A18_012",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_01082",
-      "translations": {
-        "uk": "Вони з'їли останній шматок хліба.",
-        "es": "Ellos comieron el último pan."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_001",
-          "grammatical_form": "verb/es_3p_past"
-        },
-        {
-          "guid": "A15_011",
-          "grammatical_form": "adjective/es_singular_m"
-        },
-        {
-          "guid": "N06_001",
-          "grammatical_form": "noun/es_singular"
-        }
-      ],
-      "source": "buivolas_guided_A15_011",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_01084",
@@ -16014,29 +15225,6 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": "S_01193",
-      "translations": {
-        "uk": "Я бачив змію біля школи.",
-        "es": "Vi una serpiente cerca de la escuela."
-      },
-      "linked_words": [
-        {
-          "guid": "V10_001",
-          "grammatical_form": "verb/es_1s_past"
-        },
-        {
-          "guid": "N02_014",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N07_002",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N02_014",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_01194",
       "translations": {
         "uk": "Вона боїться змії.",
@@ -16081,29 +15269,6 @@
       ],
       "source": "buivolas_guided_N02_014",
       "minimum_level": 9
-    },
-    {
-      "sentence_id": "S_01200",
-      "translations": {
-        "uk": "Слон пройшов біля нашого будинку.",
-        "es": "El elefante caminó cerca de nuestra casa."
-      },
-      "linked_words": [
-        {
-          "guid": "N02_015",
-          "grammatical_form": "noun/es_singular"
-        },
-        {
-          "guid": "V12_001",
-          "grammatical_form": "verb/es_3s_past"
-        },
-        {
-          "guid": "N07_001",
-          "grammatical_form": "noun/es_singular"
-        }
-      ],
-      "source": "buivolas_guided_N02_015",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_01201",
@@ -16567,94 +15732,6 @@
       ],
       "source": "buivolas_guided_N42_016",
       "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_01241",
-      "translations": {
-        "uk": "Вона купила відеокамеру вчора.",
-        "es": "Ella compró una videocámara ayer."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": "verb/es_3s_past"
-        },
-        {
-          "guid": "D03_002",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N42_018",
-      "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_01242",
-      "translations": {
-        "uk": "У нас є невелика відеокамера.",
-        "es": "Tenemos una pequeña videocámara."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_002",
-          "grammatical_form": "verb/es_1p_present"
-        },
-        {
-          "guid": "A01_002",
-          "grammatical_form": "adjective/es_singular_f"
-        }
-      ],
-      "source": "buivolas_guided_N42_018",
-      "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_01243",
-      "translations": {
-        "uk": "Він поклав відеокамеру.",
-        "es": "Él puso la videocámara abajo."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_010",
-          "grammatical_form": "verb/es_3s_past"
-        },
-        {
-          "guid": "D07_027",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N42_018",
-      "minimum_level": 9
-    },
-    {
-      "sentence_id": "S_01250",
-      "translations": {
-        "uk": "О восьмій у четвер вранці Артур почувався не дуже добре.",
-        "es": "A las ocho del jueves por la mañana, Arturo no se sintió muy bien."
-      },
-      "linked_words": [
-        {
-          "guid": "Z01_009",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N32_004",
-          "grammatical_form": "noun/es_singular"
-        },
-        {
-          "guid": "N25_004",
-          "grammatical_form": "noun/es_singular"
-        },
-        {
-          "guid": "V05_005",
-          "grammatical_form": null
-        },
-        {
-          "guid": "D01_036",
-          "grammatical_form": null
-        }
-      ],
-      "source": "testdata_H2G2_test.txt",
-      "minimum_level": 37
     }
   ],
   "source_language": "uk"

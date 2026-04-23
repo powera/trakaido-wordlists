@@ -833,33 +833,6 @@
       "minimum_level": 1
     },
     {
-      "sentence_id": "S_00056",
-      "translations": {
-        "en": "My friend tastes salt on bread.",
-        "pt": "Meu amigo prova sal no pão."
-      },
-      "linked_words": [
-        {
-          "guid": "N01_059",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V10_005",
-          "grammatical_form": "verb/pt_3s_present"
-        },
-        {
-          "guid": "N06_013",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N06_001",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N06_013",
-      "minimum_level": 17
-    },
-    {
       "sentence_id": "S_00058",
       "translations": {
         "en": "They buy potatoes at the market.",
@@ -1332,33 +1305,6 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": "S_00091",
-      "translations": {
-        "en": "My friend found wet pants.",
-        "pt": "Meu amigo encontrou as calças molhadas."
-      },
-      "linked_words": [
-        {
-          "guid": "N01_059",
-          "grammatical_form": "noun/pt_singular"
-        },
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/pt_3s_past"
-        },
-        {
-          "guid": "N09_002",
-          "grammatical_form": "noun/pt_plural"
-        },
-        {
-          "guid": "A18_011",
-          "grammatical_form": "adjective/pt_plural_f"
-        }
-      ],
-      "source": "buivolas_guided_N09_002",
-      "minimum_level": 37
-    },
-    {
       "sentence_id": "S_00092",
       "translations": {
         "en": "Do they have clean pants?",
@@ -1566,29 +1512,6 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": "S_00103",
-      "translations": {
-        "en": "He lost one shoe outside.",
-        "pt": "Ele perdeu um sapato fora."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_045",
-          "grammatical_form": "verb/pt_3s_past"
-        },
-        {
-          "guid": "N09_006",
-          "grammatical_form": "noun/pt_singular"
-        },
-        {
-          "guid": "D07_032",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N09_006",
-      "minimum_level": 17
-    },
-    {
       "sentence_id": "S_00104",
       "translations": {
         "en": "They wear the same shoes.",
@@ -1633,29 +1556,6 @@
       ],
       "source": "buivolas_guided_N09_007",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_00107",
-      "translations": {
-        "en": "They found a wet sock",
-        "pt": "Eles encontraram uma meia molhada"
-      },
-      "linked_words": [
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/pt_3p_past"
-        },
-        {
-          "guid": "N09_007",
-          "grammatical_form": "noun/pt_singular"
-        },
-        {
-          "guid": "A18_011",
-          "grammatical_form": "adjective/pt_singular_f"
-        }
-      ],
-      "source": "buivolas_guided_N09_007",
-      "minimum_level": 37
     },
     {
       "sentence_id": "S_00108",
@@ -1932,39 +1832,6 @@
       ],
       "source": "buivolas_guided_N09_012",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_00124",
-      "translations": {
-        "en": "They wear underwear under their shirts.",
-        "pt": "Eles vestem roupa interior por baixo das suas camisas."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_031",
-          "grammatical_form": "verb/pt_3p_present"
-        },
-        {
-          "guid": "N09_012",
-          "grammatical_form": "noun/pt_singular"
-        },
-        {
-          "guid": "N09_001",
-          "grammatical_form": "noun/pt_plural"
-        }
-      ],
-      "source": "buivolas_guided_N09_012",
-      "minimum_level": 1
-    },
-    {
-      "sentence_id": "S_01249",
-      "translations": {
-        "en": "He\nhad lived in it for about three years, ever since  he  had  moved  out  of\nLondon because it made him nervous and irritable.",
-        "pt": "Ele morara lá havia cerca de três anos, desde que saíra de Londres porque isso o deixava nervoso e irritadiço."
-      },
-      "linked_words": [],
-      "source": "testdata_H2G2_test.txt",
-      "minimum_level": 37
     }
   ]
 }

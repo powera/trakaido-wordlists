@@ -985,37 +985,6 @@
       }
     },
     {
-      "sentence_id": "S_00056",
-      "translations": {
-        "kn": "ನನ್ನ ಸ್ನೇಹಿತರು ಬ್ರೆಡ್‌ನಲ್ಲಿ ಉಪ್ಪನ್ನು ತಿಂದಿದ್ದಾರೆ.",
-        "lt": "Mano draugas ragauja druską ant duonos."
-      },
-      "linked_words": [
-        {
-          "guid": "N01_059",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
-          "guid": "V10_005",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "N06_013",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "N06_001",
-          "grammatical_form": "noun/lt_genitive_singular"
-        }
-      ],
-      "source": "buivolas_guided_N06_013",
-      "minimum_level": 17,
-      "audio": {
-        "ruta": "a16521514742d4fe327fc1f029d1d1c4",
-        "jonas": "9fb50426ae1a3bb51fecee904875d809"
-      }
-    },
-    {
       "sentence_id": "S_00058",
       "translations": {
         "kn": "ಅವರು ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಆಲೂಗಡ್ಡೆಗಳನ್ನು ಖರೀದಿಸುತ್ತಾರೆ.",
@@ -1564,33 +1533,6 @@
       }
     },
     {
-      "sentence_id": "S_00091",
-      "translations": {
-        "kn": "ನನ್ನ ಸ್ನೇಹಿತನಿಗೆ ತೇವಗೊಂಡ ಪ್ಯಾಂಟ್ ಸಿಕ್ಕಿತು.",
-        "lt": "Mano draugas rado šlapius kelnes."
-      },
-      "linked_words": [
-        {
-          "guid": "N01_059",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/lt_3s_past"
-        },
-        {
-          "guid": "A18_011",
-          "grammatical_form": "adjective/lt_accusative_plural_m"
-        },
-        {
-          "guid": "N09_002",
-          "grammatical_form": "noun/lt_accusative_plural"
-        }
-      ],
-      "source": "buivolas_guided_N09_002",
-      "minimum_level": 37
-    },
-    {
       "sentence_id": "S_00092",
       "translations": {
         "kn": "ಅವರಿಗೆ ಸ್ವಚ್ಛವಾದ ಪ್ಯಾಂಟ್‌ಗಳು ಇದೆಯೇ?",
@@ -1834,33 +1776,6 @@
       }
     },
     {
-      "sentence_id": "S_00103",
-      "translations": {
-        "kn": "ಅವರು ಹೊರಗೆ ಒಂದು ಶೂವನ್ನು ಕಳೆದುಕೊಂಡರು.",
-        "lt": "Jis prarado vieną batą lauke."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_045",
-          "grammatical_form": "verb/lt_3s_past"
-        },
-        {
-          "guid": "N09_006",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "D07_032",
-          "grammatical_form": "noun/lt_locative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N09_006",
-      "minimum_level": 17,
-      "audio": {
-        "ruta": "5b51c262849a2ce63349b082ec5468e3",
-        "jonas": "85ae1c46dc4647d58a0ecac055239d01"
-      }
-    },
-    {
       "sentence_id": "S_00104",
       "translations": {
         "kn": "ಅವರು ಇಬ್ಬರೂ ಒಂದೇ ರೀತಿಯ ಶೂಗಳನ್ನು ಧರಿಸಿದ್ದಾರೆ.",
@@ -1912,29 +1827,6 @@
       "audio": {
         "jonas": "03faecf878db58aef56667137b8ac541"
       }
-    },
-    {
-      "sentence_id": "S_00107",
-      "translations": {
-        "kn": "ಅವರು ಒಂದು ತೇವವಾದ ಚೀಲವನ್ನು ಕಂಡುಕೊಂಡರು.",
-        "lt": "Jie rado šlapią kojinę"
-      },
-      "linked_words": [
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/lt_3p_past"
-        },
-        {
-          "guid": "A18_011",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_007",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N09_007",
-      "minimum_level": 37
     },
     {
       "sentence_id": "S_00108",
@@ -2256,33 +2148,6 @@
       }
     },
     {
-      "sentence_id": "S_00124",
-      "translations": {
-        "kn": "ಅವರು ತಮ್ಮ ಶರ್ಟ್ ಗಳ ಕೆಳಗೆ ಒಳ ಉಡುಪುಗಳನ್ನು ಧರಿಸುತ್ತಾರೆ.",
-        "lt": "Jie dėvi apatinius po marškiniais."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_031",
-          "grammatical_form": "verb/lt_3p_present"
-        },
-        {
-          "guid": "N09_012",
-          "grammatical_form": "noun/lt_accusative_plural"
-        },
-        {
-          "guid": "N09_001",
-          "grammatical_form": "noun/lt_instrumental_plural"
-        }
-      ],
-      "source": "buivolas_guided_N09_012",
-      "minimum_level": 1,
-      "audio": {
-        "ruta": "f15c42d7a653ab6d74035bff58379cd7",
-        "jonas": "43818809ce46e661e33e95648b6909ac"
-      }
-    },
-    {
       "sentence_id": "S_00125",
       "translations": {
         "kn": "ನಾನು ಪ್ರತಿದಿನ ಬೆಳಗಿನ ಉಪಹಾರವನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತೇನೆ.",
@@ -2308,29 +2173,6 @@
         "ruta": "11797a5886f12110536141b65a2bb2ef",
         "jonas": "cde564d009742da466f58bda651ffe33"
       }
-    },
-    {
-      "sentence_id": "S_00126",
-      "translations": {
-        "kn": "ಅವಳು ಈಗ ಒಂದು ಸೇಬು ತಿನ್ನುತ್ತಿದ್ದಾಳೆ.",
-        "lt": "Ji dabar valgo obuolį"
-      },
-      "linked_words": [
-        {
-          "guid": "D07_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_001",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "N06_015",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_V01_001",
-      "minimum_level": 37
     },
     {
       "sentence_id": "S_00127",
@@ -4370,37 +4212,6 @@
       "audio": {
         "ruta": "3f4c8902c30520db52409cb9a105604e",
         "jonas": "0934a4c5189c80d009a2394ab5f77443"
-      }
-    },
-    {
-      "sentence_id": "S_00244",
-      "translations": {
-        "kn": "ಅವರು ಆ ಮೌಸ್ ಅನ್ನು ಬಹಳ ಎಚ್ಚರಿಕೆಯಿಂದ ಮತ್ತೊಂದು ಕಡೆಗೆ ಸರಿಸಿದರು.",
-        "lt": "Ji švelniai nutempė pelę šalin."
-      },
-      "linked_words": [
-        {
-          "guid": "D01_023",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V12_009",
-          "grammatical_form": "verb/lt_3s_past"
-        },
-        {
-          "guid": "N02_008",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "D07_013",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N02_008",
-      "minimum_level": 19,
-      "audio": {
-        "ruta": "79a611441403db963d884942e80b5082",
-        "jonas": "d4d9d43ab256ea639bdb8e9d338d8343"
       }
     },
     {
@@ -7033,29 +6844,6 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": "S_00411",
-      "translations": {
-        "kn": "ಅವರು ಭೇಟಿಯ ನಂತರ ಕೈ ಚಾಚಿಕೊಂಡರು.",
-        "lt": "Jie paspaudė rankas po susitikimo."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_036",
-          "grammatical_form": "verb/lt_3p_past"
-        },
-        {
-          "guid": "N03_014",
-          "grammatical_form": "noun/lt_accusative_plural"
-        },
-        {
-          "guid": "N24_024",
-          "grammatical_form": "noun/lt_genitive_singular"
-        }
-      ],
-      "source": "buivolas_guided_N03_014",
-      "minimum_level": 20
-    },
-    {
       "sentence_id": "S_00414",
       "translations": {
         "kn": "ಅವರು ತಮ್ಮ ಬೆರಳಿನಿಂದ ಸೂಚಿಸುತ್ತಾರೆ.",
@@ -7527,21 +7315,6 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": "S_00450",
-      "translations": {
-        "kn": "ಅವರು ಶಾಲೆಯಲ್ಲಿ ಇದ್ದಾರೆ.",
-        "lt": "Jie yra mokykloje."
-      },
-      "linked_words": [
-        {
-          "guid": "N07_002",
-          "grammatical_form": "noun/lt_locative_singular"
-        }
-      ],
-      "source": "buivolas_guided_V06_001",
-      "minimum_level": 1
-    },
-    {
       "sentence_id": "S_00452",
       "translations": {
         "kn": "ಆ ಬ್ರೆಡ್ ತುಪ್ಪಳ ಮತ್ತು ತಾಜವಾಗಿರುತ್ತದೆ.",
@@ -7563,29 +7336,6 @@
       ],
       "source": "buivolas_guided_V06_001",
       "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_00453",
-      "translations": {
-        "kn": "ನಾನು ನನ್ನ ನೀಲಿ ಬಟ್ಟೆ ಧರಿಸಿದ್ದೇನೆ.",
-        "lt": "Aš dėviu savo mėlynus marškinius."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_031",
-          "grammatical_form": "verb/lt_1s_present"
-        },
-        {
-          "guid": "A02_004",
-          "grammatical_form": "adjective/lt_accusative_plural_m"
-        },
-        {
-          "guid": "N09_001",
-          "grammatical_form": "noun/lt_accusative_plural"
-        }
-      ],
-      "source": "buivolas_guided_V01_031",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00454",
@@ -8080,25 +7830,6 @@
       ],
       "source": "buivolas_guided_N37_008",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_00501",
-      "translations": {
-        "kn": "ಅವರು ಸಮುದ್ರದ ತೀರದಲ್ಲಿ ಒಂದು ಶಂಖವನ್ನು ಹಿಡಿದಿದ್ದಾರೆ.",
-        "lt": "Ji laiko kūgį paplūdimyje."
-      },
-      "linked_words": [
-        {
-          "guid": "N37_009",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "N11_008",
-          "grammatical_form": "noun/lt_locative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N37_009",
-      "minimum_level": 18
     },
     {
       "sentence_id": "S_00503",
@@ -8660,33 +8391,6 @@
       "minimum_level": 5
     },
     {
-      "sentence_id": "S_00546",
-      "translations": {
-        "kn": "ಅವರು ಶಾಲೆಯ ಬಳಿ ಒಬ್ಬ ಪೊಲೀಸ್ ಅಧಿಕಾರಿ ಇದ್ದುದನ್ನು ನೋಡಿದರು.",
-        "lt": "Ji pamatė policijos pareigūną netoli mokyklos."
-      },
-      "linked_words": [
-        {
-          "guid": "V10_001",
-          "grammatical_form": "verb/lt_3s_past"
-        },
-        {
-          "guid": "N36_019",
-          "grammatical_form": "noun/lt_genitive_singular"
-        },
-        {
-          "guid": "N36_019",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "N07_002",
-          "grammatical_form": "noun/lt_genitive_singular"
-        }
-      ],
-      "source": "buivolas_guided_N36_019",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00547",
       "translations": {
         "kn": "ಅವರು ನಿನ್ನೆ ರಾತ್ರಿ ಪೊಲೀಸರನ್ನು ಸಂಪರ್ಕಿಸಿದರು.",
@@ -9097,29 +8801,6 @@
       "minimum_level": 5
     },
     {
-      "sentence_id": "S_00576",
-      "translations": {
-        "kn": "ಆ ವ್ಯಕ್ತಿ ಆ ಶಾಲೆಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತಾನೆ.",
-        "lt": "Tas vyras dirba mokykloje."
-      },
-      "linked_words": [
-        {
-          "guid": "N01_055",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
-          "guid": "V01_007",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "N07_002",
-          "grammatical_form": "noun/lt_locative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N01_055",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00578",
       "translations": {
         "kn": "ಒಬ್ಬ ಮಹಿಳೆ ಕಿಟಕಿಯ ಬಳಿ ಕುಳಿತಿರುವುದು.",
@@ -9496,29 +9177,6 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": "S_00594",
-      "translations": {
-        "kn": "ಆ ವ್ಯಕ್ತಿ ಶಾಲೆಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದಾರೆ.",
-        "lt": "Tas asmuo dirba mokykloje."
-      },
-      "linked_words": [
-        {
-          "guid": "N01_060",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
-          "guid": "V01_007",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "N07_002",
-          "grammatical_form": "noun/lt_locative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N01_060",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00595",
       "translations": {
         "kn": "ನಾವು ಆ ಅಂಗಡಿಯಲ್ಲಿ ಇಬ್ಬರು ಜನರನ್ನು ನೋಡಿದ್ದೇವೆ.",
@@ -9643,25 +9301,6 @@
       ],
       "source": "buivolas_guided_N01_062",
       "minimum_level": 5
-    },
-    {
-      "sentence_id": "S_00602",
-      "translations": {
-        "kn": "ಯಾರಿಗೇ ಬೇಕಾದವರಿಗೂ ಆ ನಾಯಿ ಕಾಣುತ್ತದೆ.",
-        "lt": "Bet kas gali pamatyti šunį."
-      },
-      "linked_words": [
-        {
-          "guid": "V10_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N02_001",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N01_062",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00603",
@@ -10007,29 +9646,6 @@
       "minimum_level": 21
     },
     {
-      "sentence_id": "S_00625",
-      "translations": {
-        "kn": "ನನಗೆ ಕಪ್ಪು ಬಣ್ಣದ ಒಂದು ಶರ್ಟ್ ಬೇಕು.",
-        "lt": "Noriu juodų marškinių."
-      },
-      "linked_words": [
-        {
-          "guid": "V05_004",
-          "grammatical_form": "verb/lt_1s_present"
-        },
-        {
-          "guid": "A02_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_001",
-          "grammatical_form": "noun/lt_genitive_plural"
-        }
-      ],
-      "source": "buivolas_guided_V05_004",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00626",
       "translations": {
         "kn": "ಅವಳಿಗೆ ಇನ್ನೂ ಸ್ವಲ್ಪ ರೊಟ್ಟಿ ಬೇಕಾಗಿತ್ತು.",
@@ -10051,29 +9667,6 @@
       ],
       "source": "buivolas_guided_V05_004",
       "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_00627",
-      "translations": {
-        "kn": "ಅವರು ಒಂದು ಸೈಕಲ್ ಖರೀದಿಸಲು ಬಯಸುತ್ತಾರೆ.",
-        "lt": "Jie nori nusipirkti dviratį."
-      },
-      "linked_words": [
-        {
-          "guid": "V05_004",
-          "grammatical_form": "verb/lt_3p_present"
-        },
-        {
-          "guid": "V06_004",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N40_007",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_V05_004",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00628",
@@ -10172,29 +9765,6 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": "S_00632",
-      "translations": {
-        "kn": "ಅವರಿಗೆ ಒಂದು ಬಿಳಿ ಬಣ್ಣದ ಮನೆ ಇದೆ.",
-        "lt": "Jie turi baltą namą."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_002",
-          "grammatical_form": "verb/lt_3p_present"
-        },
-        {
-          "guid": "A02_002",
-          "grammatical_form": "adjective/lt_accusative_singular_m"
-        },
-        {
-          "guid": "N07_001",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_V06_002",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00633",
       "translations": {
         "kn": "ನಾನು ಈಗ ಉತ್ತಮ ಸಂಪಾದನೆ ಮಾಡುತ್ತಿದ್ದೇನೆ.",
@@ -10239,29 +9809,6 @@
       ],
       "source": "buivolas_guided_V06_004",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_00638",
-      "translations": {
-        "kn": "ಅವರು ಒಂದು ಹೊಸ ಶರ್ಟ್ ಖರೀದಿಸುತ್ತಾರೆ.",
-        "lt": "Ji perka naują marškinius."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "A05_035",
-          "grammatical_form": "adjective/lt_accusative_singular_m"
-        },
-        {
-          "guid": "N09_001",
-          "grammatical_form": "noun/lt_accusative_plural"
-        }
-      ],
-      "source": "buivolas_guided_V06_004",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00640",
@@ -10413,29 +9960,6 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": "S_00653",
-      "translations": {
-        "kn": "ನಾನು ಇಂದು ಶಾಲೆಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ.",
-        "lt": "Aš šiandien dirbu mokykloje."
-      },
-      "linked_words": [
-        {
-          "guid": "D03_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_007",
-          "grammatical_form": "verb/lt_1s_present"
-        },
-        {
-          "guid": "N07_002",
-          "grammatical_form": "noun/lt_locative_singular"
-        }
-      ],
-      "source": "buivolas_guided_V01_007",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00654",
       "translations": {
         "kn": "ಅವರು ಪ್ರತಿದಿನ ಬೆಳಗಿನ ಸಮಯದಲ್ಲಿ ಅಡುಗೆಗೃಹದಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತಾರೆ.",
@@ -10480,52 +10004,6 @@
       ],
       "source": "buivolas_guided_V01_007",
       "minimum_level": 5
-    },
-    {
-      "sentence_id": "S_00657",
-      "translations": {
-        "kn": "ನಾನು ಪ್ರತಿದಿನ ಬೆಳಿಗ್ಗೆ ನನ್ನ ಚಾವಿಗಳನ್ನು ಕಂಡುಕೊಳ್ಳುತ್ತೇನೆ.",
-        "lt": "Aš randu savo raktus kiekvieną rytą."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/lt_1s_present"
-        },
-        {
-          "guid": "N08_006",
-          "grammatical_form": "noun/lt_accusative_plural"
-        },
-        {
-          "guid": "N25_004",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_V01_009",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_00659",
-      "translations": {
-        "kn": "ನಮಗೆ ಆ ನಾಯಿ ಪಾರ್ಕ್‌ನಲ್ಲಿ ಕಾಣಿಸಿಕೊಂಡಿತು.",
-        "lt": "Mes randame šunį parke."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/lt_1p_present"
-        },
-        {
-          "guid": "N02_001",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "N07_050",
-          "grammatical_form": "noun/lt_locative_singular"
-        }
-      ],
-      "source": "buivolas_guided_V01_009",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00661",
@@ -10702,29 +10180,6 @@
       ],
       "source": "buivolas_guided_N47_002",
       "minimum_level": 17
-    },
-    {
-      "sentence_id": "S_00672",
-      "translations": {
-        "kn": "ನಾವೇ ಕಿಟಕಿಯ ಬಳಿ ಪಕ್ಷಿಗಳನ್ನು ನೋಡಿದ್ದೇವೆ.",
-        "lt": "Mes pamatėme paukščius prie lango."
-      },
-      "linked_words": [
-        {
-          "guid": "V10_001",
-          "grammatical_form": "verb/lt_1p_past"
-        },
-        {
-          "guid": "N02_003",
-          "grammatical_form": "noun/lt_accusative_plural"
-        },
-        {
-          "guid": "N47_002",
-          "grammatical_form": "noun/lt_genitive_singular"
-        }
-      ],
-      "source": "buivolas_guided_N47_002",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00677",
@@ -10941,29 +10396,6 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": "S_00696",
-      "translations": {
-        "kn": "ಅವರು ಒಂದು ಕೆಂಪು ಬಣ್ಣದ ಗುಲಾಬನ್ನು ಕಂಡರು.",
-        "lt": "Jie pamatė raudoną rožę."
-      },
-      "linked_words": [
-        {
-          "guid": "V10_001",
-          "grammatical_form": "verb/lt_3p_past"
-        },
-        {
-          "guid": "A02_003",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N05_005",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N05_005",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00697",
       "translations": {
         "kn": "ನಾವು ಭಾನುವಾರ ಚರ್ಚ್‌ಗೆ ನಡೆದುಕೊಂಡು ಹೋಗುತ್ತೇವೆ.",
@@ -11058,29 +10490,6 @@
       ],
       "source": "buivolas_guided_N07_012",
       "minimum_level": 17
-    },
-    {
-      "sentence_id": "S_00705",
-      "translations": {
-        "kn": "ಅವರು ಬೇಕರಿಯಿಂದ ಬ್ರೆಡ್ ಖರೀದಿಸುತ್ತಾರೆ.",
-        "lt": "Ji perka duoną kepykloje."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "N06_001",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "N07_013",
-          "grammatical_form": "noun/lt_locative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N07_013",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00706",
@@ -12726,29 +12135,6 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": "S_00838",
-      "translations": {
-        "kn": "ಅವರು ವೈನ್‌ನ ಒಂದು ಬಾಟಲಿ ಖರೀದಿಸಿದರು.",
-        "lt": "Jis nupirko butelę vyno."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": "verb/lt_3s_past"
-        },
-        {
-          "guid": "N08_012",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "N42_005",
-          "grammatical_form": "noun/lt_genitive_singular"
-        }
-      ],
-      "source": "buivolas_guided_N42_005",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00840",
       "translations": {
         "kn": "ಅವರು ಆ ಪಾರ್ಟಿಗೆ ಉಪಯೋಗಿಸಲು ವೈನ್ ಅನ್ನು ತೆರೆದರು.",
@@ -12793,29 +12179,6 @@
       ],
       "source": "buivolas_guided_N42_006",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00842",
-      "translations": {
-        "kn": "ಅವರು ಅಂಗಡಿಯಲ್ಲಿ ಹಾಲು ಖರೀದಿಸುತ್ತಾರೆ.",
-        "lt": "Ji perka pieną parduotuvėje."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "N42_006",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "N07_005",
-          "grammatical_form": "noun/lt_locative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N42_006",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00843",
@@ -13126,29 +12489,6 @@
       ],
       "source": "buivolas_guided_N09_010",
       "minimum_level": 16
-    },
-    {
-      "sentence_id": "S_00857",
-      "translations": {
-        "kn": "ಅವಳು ಇಂದು ನೀಲಿ ಬಣ್ಣದ ಒಂದು ಬಟ್ಟೆ ಧರಿಸಿದ್ದಾಳೆ.",
-        "lt": "Ji šiandien dėvi mėlyną sijoną."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_031",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "A02_004",
-          "grammatical_form": "adjective/lt_accusative_singular_m"
-        },
-        {
-          "guid": "N09_013",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N09_013",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00858",
@@ -13662,29 +13002,6 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": "S_00929",
-      "translations": {
-        "kn": "ಅವಳು ಇಂದು ಒಂದು ಕಾಟನ್ ಶರ್ಟ್ ಖರೀದಿಸುತ್ತಾಳೆ.",
-        "lt": "Ji šiandien perka medvilninį marškinius."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "N14_014",
-          "grammatical_form": "adjective/lt_accusative_singular_m"
-        },
-        {
-          "guid": "N09_001",
-          "grammatical_form": "noun/lt_accusative_plural"
-        }
-      ],
-      "source": "buivolas_guided_N14_014",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00930",
       "translations": {
         "kn": "ನನ್ನ ಸ್ನೇಹಿತನು ಕಣ್ಮಜಲುದಲ್ಲಿ ಹತ್ತಿ ಬೆಳೆಯನ್ನು ಕಂಡುಕೊಂಡನು.",
@@ -13783,52 +13100,6 @@
       ],
       "source": "buivolas_guided_N14_016",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00941",
-      "translations": {
-        "kn": "ಅವರು ಇಂದು ಚರ್ಮದ ಜಾಕೆಟ್ ಧರಿಸಿದ್ದಾರೆ.",
-        "lt": "Jis šiandien dėvi odinę striukę."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_031",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "N14_017",
-          "grammatical_form": "adjective/lt_accusative_singular_f"
-        },
-        {
-          "guid": "N09_005",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N14_017",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_00942",
-      "translations": {
-        "kn": "ಅವಳು ನಿನ್ನೆ ಚರ್ಮದ ಚೀಲವನ್ನು ಖರೀದಿಸಿದಳು.",
-        "lt": "Ji vakar nusipirko odinį maišelį."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": "verb/lt_3s_past"
-        },
-        {
-          "guid": "N14_017",
-          "grammatical_form": "adjective/lt_accusative_singular_m"
-        },
-        {
-          "guid": "N08_009",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N14_017",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00945",
@@ -14028,29 +13299,6 @@
       ],
       "source": "buivolas_guided_N14_021",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00960",
-      "translations": {
-        "kn": "ಅವಳು ಶಾಲೆಯ ಹತ್ತಿರ ಒಂದು ಇಟ್ಟಿಗೆಯನ್ನು ಕಂಡುಕೊಳ್ಳುತ್ತಾಳೆ.",
-        "lt": "Ji randa plytą šalia mokyklos."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "N14_021",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "N07_002",
-          "grammatical_form": "noun/lt_genitive_singular"
-        }
-      ],
-      "source": "buivolas_guided_N14_021",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00964",
@@ -15106,48 +14354,6 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": "S_01052",
-      "translations": {
-        "kn": "ಅವರು ಒಂದು ದೊಡ್ಡ ಟೋಪಿ ಕಂಡುಕೊಂಡರು.",
-        "lt": "Jis rado platų skrybėlę."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/lt_3s_past"
-        },
-        {
-          "guid": "A18_005",
-          "grammatical_form": "adjective/lt_accusative_singular_m"
-        },
-        {
-          "guid": "N09_008",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_A18_005",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_01053",
-      "translations": {
-        "kn": "ಇಂದು ಆ ಕೆರೆ ತುಂಬಾ ಆಳವಾಗಿದೆ.",
-        "lt": "Ežeras šiandien yra gilus."
-      },
-      "linked_words": [
-        {
-          "guid": "N11_005",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
-          "guid": "A18_006",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_A18_006",
-      "minimum_level": 18
-    },
-    {
       "sentence_id": "S_01056",
       "translations": {
         "kn": "ಅವಳಿಗೆ ಒಂದು ಗಂಭೀರ ಸ್ವರ ಕೇಳಿಸುತ್ತದೆ.",
@@ -15611,29 +14817,6 @@
       ],
       "source": "buivolas_guided_A18_012",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_01082",
-      "translations": {
-        "kn": "ಅವರು ಕೊನೆಯ ಬ್ರೆಡ್ ಅನ್ನು ತಿನ್ನಿದರು.",
-        "lt": "Jie suvalgė paskutinę duoną."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_001",
-          "grammatical_form": "verb/lt_3p_past"
-        },
-        {
-          "guid": "A15_011",
-          "grammatical_form": "adjective/lt_accusative_singular_f"
-        },
-        {
-          "guid": "N06_001",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_A15_011",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_01084",
@@ -16880,29 +16063,6 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": "S_01193",
-      "translations": {
-        "kn": "ನಾನು ಶಾಲೆಯ ಹತ್ತಿರ ಒಂದು ಹಾವು ಕಾಣಿಸಿಕೊಂಡಿತು.",
-        "lt": "Mačiau gyvatę prie mokyklos."
-      },
-      "linked_words": [
-        {
-          "guid": "V10_001",
-          "grammatical_form": "verb/lt_1s_past"
-        },
-        {
-          "guid": "N02_014",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "N07_002",
-          "grammatical_form": "noun/lt_genitive_singular"
-        }
-      ],
-      "source": "buivolas_guided_N02_014",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_01194",
       "translations": {
         "kn": "ಅವಳಿಗೆ ಹಾವು ಭಯ.",
@@ -16947,29 +16107,6 @@
       ],
       "source": "buivolas_guided_N02_014",
       "minimum_level": 9
-    },
-    {
-      "sentence_id": "S_01200",
-      "translations": {
-        "kn": "ಆನೆ ನಮ್ಮ ಮನೆಯ ಹತ್ತಿರ ನಡೆದುಕೊಂಡು ಹೋಗಿತ್ತು.",
-        "lt": "Dramblys ėjo šalia mūsų namo."
-      },
-      "linked_words": [
-        {
-          "guid": "N02_015",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
-          "guid": "V12_001",
-          "grammatical_form": "verb/lt_3s_past"
-        },
-        {
-          "guid": "N07_001",
-          "grammatical_form": "noun/lt_genitive_singular"
-        }
-      ],
-      "source": "buivolas_guided_N02_015",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_01201",
@@ -17433,63 +16570,6 @@
       ],
       "source": "buivolas_guided_N42_016",
       "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_01241",
-      "translations": {
-        "kn": "ಅವರು ನಿನ್ನೆ ಒಂದು ವಿಡಿಯೋ ಕ್ಯಾಮೆರಾ ಖರೀದಿಸಿದ್ದಾರೆ.",
-        "lt": "Ji vakar nupirko vaizdo kamerą."
-      },
-      "linked_words": [
-        {
-          "guid": "D03_002",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V06_004",
-          "grammatical_form": "verb/lt_3s_past"
-        }
-      ],
-      "source": "buivolas_guided_N42_018",
-      "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_01242",
-      "translations": {
-        "kn": "ನಮಗೆ ಒಂದು ಚಿಕ್ಕದಾದ ವಿಡಿಯೋ ಕ್ಯಾಮೆರಾ ಇದೆ.",
-        "lt": "Mes turime mažą vaizdo kamerą."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_002",
-          "grammatical_form": "verb/lt_1p_present"
-        },
-        {
-          "guid": "A01_002",
-          "grammatical_form": "adjective/lt_accusative_singular_m"
-        }
-      ],
-      "source": "buivolas_guided_N42_018",
-      "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_01243",
-      "translations": {
-        "kn": "ಅವರು ವಿಡಿಯೋ ಕ್ಯಾಮರಾವನ್ನು ಕೆಳಗೆಟ್ಟರು.",
-        "lt": "Jis padėjo vaizdo kamerą žemyn."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_010",
-          "grammatical_form": "verb/lt_3s_past"
-        },
-        {
-          "guid": "D07_027",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N42_018",
-      "minimum_level": 9
     }
   ],
   "source_language": "kn"

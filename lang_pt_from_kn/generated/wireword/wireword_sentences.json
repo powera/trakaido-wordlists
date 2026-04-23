@@ -833,33 +833,6 @@
       "minimum_level": 1
     },
     {
-      "sentence_id": "S_00056",
-      "translations": {
-        "kn": "ನನ್ನ ಸ್ನೇಹಿತರು ಬ್ರೆಡ್‌ನಲ್ಲಿ ಉಪ್ಪನ್ನು ತಿಂದಿದ್ದಾರೆ.",
-        "pt": "Meu amigo prova sal no pão."
-      },
-      "linked_words": [
-        {
-          "guid": "N01_059",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V10_005",
-          "grammatical_form": "verb/pt_3s_present"
-        },
-        {
-          "guid": "N06_013",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N06_001",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N06_013",
-      "minimum_level": 17
-    },
-    {
       "sentence_id": "S_00058",
       "translations": {
         "kn": "ಅವರು ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಆಲೂಗಡ್ಡೆಗಳನ್ನು ಖರೀದಿಸುತ್ತಾರೆ.",
@@ -1332,33 +1305,6 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": "S_00091",
-      "translations": {
-        "kn": "ನನ್ನ ಸ್ನೇಹಿತನಿಗೆ ತೇವಗೊಂಡ ಪ್ಯಾಂಟ್ ಸಿಕ್ಕಿತು.",
-        "pt": "Meu amigo encontrou as calças molhadas."
-      },
-      "linked_words": [
-        {
-          "guid": "N01_059",
-          "grammatical_form": "noun/pt_singular"
-        },
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/pt_3s_past"
-        },
-        {
-          "guid": "N09_002",
-          "grammatical_form": "noun/pt_plural"
-        },
-        {
-          "guid": "A18_011",
-          "grammatical_form": "adjective/pt_plural_f"
-        }
-      ],
-      "source": "buivolas_guided_N09_002",
-      "minimum_level": 37
-    },
-    {
       "sentence_id": "S_00092",
       "translations": {
         "kn": "ಅವರಿಗೆ ಸ್ವಚ್ಛವಾದ ಪ್ಯಾಂಟ್‌ಗಳು ಇದೆಯೇ?",
@@ -1566,29 +1512,6 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": "S_00103",
-      "translations": {
-        "kn": "ಅವರು ಹೊರಗೆ ಒಂದು ಶೂವನ್ನು ಕಳೆದುಕೊಂಡರು.",
-        "pt": "Ele perdeu um sapato fora."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_045",
-          "grammatical_form": "verb/pt_3s_past"
-        },
-        {
-          "guid": "N09_006",
-          "grammatical_form": "noun/pt_singular"
-        },
-        {
-          "guid": "D07_032",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N09_006",
-      "minimum_level": 17
-    },
-    {
       "sentence_id": "S_00104",
       "translations": {
         "kn": "ಅವರು ಇಬ್ಬರೂ ಒಂದೇ ರೀತಿಯ ಶೂಗಳನ್ನು ಧರಿಸಿದ್ದಾರೆ.",
@@ -1633,29 +1556,6 @@
       ],
       "source": "buivolas_guided_N09_007",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_00107",
-      "translations": {
-        "kn": "ಅವರು ಒಂದು ತೇವವಾದ ಚೀಲವನ್ನು ಕಂಡುಕೊಂಡರು.",
-        "pt": "Eles encontraram uma meia molhada"
-      },
-      "linked_words": [
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/pt_3p_past"
-        },
-        {
-          "guid": "N09_007",
-          "grammatical_form": "noun/pt_singular"
-        },
-        {
-          "guid": "A18_011",
-          "grammatical_form": "adjective/pt_singular_f"
-        }
-      ],
-      "source": "buivolas_guided_N09_007",
-      "minimum_level": 37
     },
     {
       "sentence_id": "S_00108",
@@ -1932,29 +1832,6 @@
       ],
       "source": "buivolas_guided_N09_012",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_00124",
-      "translations": {
-        "kn": "ಅವರು ತಮ್ಮ ಶರ್ಟ್ ಗಳ ಕೆಳಗೆ ಒಳ ಉಡುಪುಗಳನ್ನು ಧರಿಸುತ್ತಾರೆ.",
-        "pt": "Eles vestem roupa interior por baixo das suas camisas."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_031",
-          "grammatical_form": "verb/pt_3p_present"
-        },
-        {
-          "guid": "N09_012",
-          "grammatical_form": "noun/pt_singular"
-        },
-        {
-          "guid": "N09_001",
-          "grammatical_form": "noun/pt_plural"
-        }
-      ],
-      "source": "buivolas_guided_N09_012",
-      "minimum_level": 1
     }
   ],
   "source_language": "kn"

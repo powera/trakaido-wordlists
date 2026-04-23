@@ -2,7 +2,7 @@
   "version": 1,
   "language": "japanese",
   "language_code": "ja",
-  "generated_at": "2026-04-23T20:04:36Z",
+  "generated_at": "2026-04-23T20:19:30Z",
   "source_language": "kannada",
   "source_language_code": "kn",
   "config": {
@@ -132,11 +132,11 @@
   "sentence_files": [
     {
       "id": "sentences",
-      "filename": "b8cc27133527b6ea7f1ce462615d1a98.json",
+      "filename": "862efa705e51943e7e4170eae208a760.json",
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "b8cc27133527b6ea7f1ce462615d1a98",
+      "md5": "862efa705e51943e7e4170eae208a760",
       "required": false
     }
   ],

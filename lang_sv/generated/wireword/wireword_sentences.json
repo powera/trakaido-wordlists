@@ -626,16 +626,6 @@
       "minimum_level": 1
     },
     {
-      "sentence_id": "S_00056",
-      "translations": {
-        "en": "My friend tastes salt on bread.",
-        "sv": "Min vän smakar salt på brödet."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N06_013",
-      "minimum_level": 17
-    },
-    {
       "sentence_id": "S_00057",
       "translations": {
         "en": "She cooked a potato for dinner.",
@@ -976,16 +966,6 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": "S_00091",
-      "translations": {
-        "en": "My friend found wet pants.",
-        "sv": "Min vän hittade blöta byxor."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N09_002",
-      "minimum_level": 37
-    },
-    {
       "sentence_id": "S_00092",
       "translations": {
         "en": "Do they have clean pants?",
@@ -1096,16 +1076,6 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": "S_00103",
-      "translations": {
-        "en": "He lost one shoe outside.",
-        "sv": "Han tappade en sko utanför."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N09_006",
-      "minimum_level": 17
-    },
-    {
       "sentence_id": "S_00104",
       "translations": {
         "en": "They wear the same shoes.",
@@ -1134,16 +1104,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N09_007",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_00107",
-      "translations": {
-        "en": "They found a wet sock",
-        "sv": "De hittade en blöt socka."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N09_007",
-      "minimum_level": 37
     },
     {
       "sentence_id": "S_00108",
@@ -1296,26 +1256,6 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": "S_00123",
-      "translations": {
-        "en": "My friend found underwear in suitcase.",
-        "sv": "Min vän hittade underkläder i en resväska."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N09_012",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_00124",
-      "translations": {
-        "en": "They wear underwear under their shirts.",
-        "sv": "De bär underkläder under sina skjortor."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N09_012",
-      "minimum_level": 1
-    },
-    {
       "sentence_id": "S_00125",
       "translations": {
         "en": "I eat breakfast every morning.",
@@ -1324,16 +1264,6 @@
       "linked_words": [],
       "source": "buivolas_guided_V01_001",
       "minimum_level": 13
-    },
-    {
-      "sentence_id": "S_00126",
-      "translations": {
-        "en": "She eats an apple now",
-        "sv": "Hon äter ett äpple just nu."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V01_001",
-      "minimum_level": 37
     },
     {
       "sentence_id": "S_00127",
@@ -2504,16 +2434,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N02_008",
       "minimum_level": 28
-    },
-    {
-      "sentence_id": "S_00244",
-      "translations": {
-        "en": "She moved the mouse away gently.",
-        "sv": "Hon flyttade försiktigt musen åt sidan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N02_008",
-      "minimum_level": 19
     },
     {
       "sentence_id": "S_00245",
@@ -4176,16 +4096,6 @@
       "minimum_level": 11
     },
     {
-      "sentence_id": "S_00411",
-      "translations": {
-        "en": "They shook hands after meeting.",
-        "sv": "De skakade hand när de träffades."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N03_014",
-      "minimum_level": 20
-    },
-    {
       "sentence_id": "S_00412",
       "translations": {
         "en": "The child raised her hand.",
@@ -4556,16 +4466,6 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": "S_00450",
-      "translations": {
-        "en": "They are at the school.",
-        "sv": "De är på skolan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V06_001",
-      "minimum_level": 1
-    },
-    {
       "sentence_id": "S_00451",
       "translations": {
         "en": "I was a teacher last year.",
@@ -4584,16 +4484,6 @@
       "linked_words": [],
       "source": "buivolas_guided_V06_001",
       "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_00453",
-      "translations": {
-        "en": "I wear my blue shirt.",
-        "sv": "Jag har på mig min blå skjorta."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V01_031",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00454",
@@ -5046,16 +4936,6 @@
       "minimum_level": 21
     },
     {
-      "sentence_id": "S_00501",
-      "translations": {
-        "en": "She is holding a cone on the beach.",
-        "sv": "Hon håller en glassvaffel på stranden."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N37_009",
-      "minimum_level": 18
-    },
-    {
       "sentence_id": "S_00502",
       "translations": {
         "en": "They made a cone for class.",
@@ -5496,16 +5376,6 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": "S_00546",
-      "translations": {
-        "en": "She saw a police officer near the school.",
-        "sv": "Hon såg en polisman i närheten av skolan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N36_019",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00547",
       "translations": {
         "en": "They called a police officer last night.",
@@ -5796,16 +5666,6 @@
       "minimum_level": 5
     },
     {
-      "sentence_id": "S_00576",
-      "translations": {
-        "en": "That man works at the school.",
-        "sv": "Den mannen arbetar på skolan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N01_055",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00577",
       "translations": {
         "en": "The woman walks to work.",
@@ -5976,16 +5836,6 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": "S_00594",
-      "translations": {
-        "en": "That person works at the school.",
-        "sv": "Den personen arbetar på skolan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N01_060",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00595",
       "translations": {
         "en": "We saw two people at the store.",
@@ -6044,16 +5894,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N01_062",
       "minimum_level": 5
-    },
-    {
-      "sentence_id": "S_00602",
-      "translations": {
-        "en": "Anyone can see the dog.",
-        "sv": "Alla kan se hunden."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N01_062",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00603",
@@ -6266,16 +6106,6 @@
       "minimum_level": 21
     },
     {
-      "sentence_id": "S_00625",
-      "translations": {
-        "en": "I want a black shirt.",
-        "sv": "Jag vill ha en svart tröja."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V05_004",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00626",
       "translations": {
         "en": "She wanted more bread.",
@@ -6284,16 +6114,6 @@
       "linked_words": [],
       "source": "buivolas_guided_V05_004",
       "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_00627",
-      "translations": {
-        "en": "They want to buy a bicycle.",
-        "sv": "De vill köpa en cykel."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V05_004",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00628",
@@ -6334,16 +6154,6 @@
       "linked_words": [],
       "source": "buivolas_guided_V06_002",
       "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_00632",
-      "translations": {
-        "en": "They have a white house.",
-        "sv": "De har ett vitt hus."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V06_002",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00633",
@@ -6394,16 +6204,6 @@
       "linked_words": [],
       "source": "buivolas_guided_V06_004",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_00638",
-      "translations": {
-        "en": "She buys a new shirt.",
-        "sv": "Hon köper en ny skjorta."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V06_004",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00639",
@@ -6546,16 +6346,6 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": "S_00653",
-      "translations": {
-        "en": "I work at the school today.",
-        "sv": "Jag jobbar på skolan idag."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V01_007",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00654",
       "translations": {
         "en": "She works every morning in the kitchen.",
@@ -6586,30 +6376,10 @@
       "minimum_level": 5
     },
     {
-      "sentence_id": "S_00657",
-      "translations": {
-        "en": "I find my keys every morning.",
-        "sv": "Jag hittar alltid mina nycklar varje morgon."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V01_009",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00658",
       "translations": {
         "en": "She found a coin near school.",
         "sv": "Hon hittade en mynt nära skolan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V01_009",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_00659",
-      "translations": {
-        "en": "We find the dog in the park.",
-        "sv": "Vi hittar hunden i parken."
       },
       "linked_words": [],
       "source": "buivolas_guided_V01_009",
@@ -6734,16 +6504,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N47_002",
       "minimum_level": 16
-    },
-    {
-      "sentence_id": "S_00672",
-      "translations": {
-        "en": "We saw birds at the window.",
-        "sv": "Vi såg fåglar vid fönstret."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N47_002",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00673",
@@ -6976,16 +6736,6 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": "S_00696",
-      "translations": {
-        "en": "They saw a red rose.",
-        "sv": "De såg en röd ros."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N05_005",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00697",
       "translations": {
         "en": "We walk to church on Sunday.",
@@ -7064,16 +6814,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N07_012",
       "minimum_level": 17
-    },
-    {
-      "sentence_id": "S_00705",
-      "translations": {
-        "en": "She buys bread at the bakery.",
-        "sv": "Hon köper bröd i bageriet."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N07_013",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00706",
@@ -7424,16 +7164,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N07_041",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00741",
-      "translations": {
-        "en": "A tall building blocks the sun.",
-        "sv": "En hög byggnad skymmer solen."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N07_046",
-      "minimum_level": 14
     },
     {
       "sentence_id": "S_00742",
@@ -8046,16 +7776,6 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": "S_00803",
-      "translations": {
-        "en": "The child wiped his dirty thigh.",
-        "sv": "Barnet torkade av sitt smutsiga lår."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N03_021",
-      "minimum_level": 14
-    },
-    {
       "sentence_id": "S_00804",
       "translations": {
         "en": "He massaged the sore thigh.",
@@ -8396,16 +8116,6 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": "S_00838",
-      "translations": {
-        "en": "He bought a bottle of wine.",
-        "sv": "Han köpte en flaska vin."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N42_005",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00839",
       "translations": {
         "en": "We shared wine after work.",
@@ -8434,16 +8144,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N42_006",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00842",
-      "translations": {
-        "en": "She buys milk at the store.",
-        "sv": "Hon köper mjölk i affären."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N42_006",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00843",
@@ -8584,16 +8284,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N09_010",
       "minimum_level": 16
-    },
-    {
-      "sentence_id": "S_00857",
-      "translations": {
-        "en": "She is wearing a blue skirt today.",
-        "sv": "Hon har en blå kjol på sig idag."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N09_013",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00858",
@@ -9286,16 +8976,6 @@
       "minimum_level": 12
     },
     {
-      "sentence_id": "S_00929",
-      "translations": {
-        "en": "She buys a cotton shirt today.",
-        "sv": "Hon köper en skjorta i bomull idag."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N14_014",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00930",
       "translations": {
         "en": "My friend found cotton in the field.",
@@ -9404,26 +9084,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N14_016",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00941",
-      "translations": {
-        "en": "He is wearing a leather jacket today.",
-        "sv": "Han har en läderjacka på sig idag."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N14_017",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_00942",
-      "translations": {
-        "en": "She bought a leather bag yesterday.",
-        "sv": "Hon köpte en läderväska igår."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N14_017",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00943",
@@ -9594,16 +9254,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N14_021",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00960",
-      "translations": {
-        "en": "She finds a brick near the school.",
-        "sv": "Hon hittar en tegelsten nära skolan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N14_021",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00961",
@@ -10516,26 +10166,6 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": "S_01052",
-      "translations": {
-        "en": "He found a wide hat.",
-        "sv": "Han hittade en bred hatt."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_A18_005",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_01053",
-      "translations": {
-        "en": "The lake is deep today.",
-        "sv": "Sjön är djup idag."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_A18_006",
-      "minimum_level": 18
-    },
-    {
       "sentence_id": "S_01054",
       "translations": {
         "en": "He finds a deep hole.",
@@ -10814,16 +10444,6 @@
       "linked_words": [],
       "source": "buivolas_guided_A15_011",
       "minimum_level": 17
-    },
-    {
-      "sentence_id": "S_01082",
-      "translations": {
-        "en": "They ate the last bread.",
-        "sv": "De åt det sista brödet."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_A15_011",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_01083",
@@ -11926,16 +11546,6 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": "S_01193",
-      "translations": {
-        "en": "I saw a snake near the school.",
-        "sv": "Jag såg en orm nära skolan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N02_014",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_01194",
       "translations": {
         "en": "She is afraid of the snake.",
@@ -11994,16 +11604,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N02_015",
       "minimum_level": 9
-    },
-    {
-      "sentence_id": "S_01200",
-      "translations": {
-        "en": "The elephant walked near our house.",
-        "sv": "Elefanten gick nära vårt hus."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N02_015",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_01201",
@@ -12386,36 +11986,6 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": "S_01241",
-      "translations": {
-        "en": "She bought a video camera yesterday.",
-        "sv": "Hon köpte en videokamera igår."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N42_018",
-      "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_01242",
-      "translations": {
-        "en": "We have a small video camera.",
-        "sv": "Vi har en liten videokamera."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N42_018",
-      "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_01243",
-      "translations": {
-        "en": "He put the video camera down.",
-        "sv": "Han ställde ner videokameran."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N42_018",
-      "minimum_level": 9
-    },
-    {
       "sentence_id": "S_01244",
       "translations": {
         "en": "They use video cameras at work.",
@@ -12424,16 +11994,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N42_018",
       "minimum_level": 12
-    },
-    {
-      "sentence_id": "S_01249",
-      "translations": {
-        "en": "He\nhad lived in it for about three years, ever since  he  had  moved  out  of\nLondon because it made him nervous and irritable.",
-        "sv": "Han hade bott där i ungefär tre år, ända sedan han hade flyttat ut från London eftersom det gjorde honom nervös och irriterad."
-      },
-      "linked_words": [],
-      "source": "testdata_H2G2_test.txt",
-      "minimum_level": 37
     }
   ]
 }

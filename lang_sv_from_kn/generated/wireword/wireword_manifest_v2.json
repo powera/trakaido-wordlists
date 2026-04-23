@@ -2,7 +2,7 @@
   "version": 1,
   "language": "swedish",
   "language_code": "sv",
-  "generated_at": "2026-04-23T20:04:35Z",
+  "generated_at": "2026-04-23T20:19:29Z",
   "source_language": "kannada",
   "source_language_code": "kn",
   "config": {
@@ -153,11 +153,11 @@
   "sentence_files": [
     {
       "id": "sentences",
-      "filename": "3d22281ed86b7fb3cd6925bc6f720a7a.json",
+      "filename": "832f02a1bde622c5cc0c0504cc7823c4.json",
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "3d22281ed86b7fb3cd6925bc6f720a7a",
+      "md5": "832f02a1bde622c5cc0c0504cc7823c4",
       "required": false
     }
   ],

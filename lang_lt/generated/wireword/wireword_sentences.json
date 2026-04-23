@@ -985,37 +985,6 @@
       }
     },
     {
-      "sentence_id": "S_00056",
-      "translations": {
-        "en": "My friend tastes salt on bread.",
-        "lt": "Mano draugas ragauja druską ant duonos."
-      },
-      "linked_words": [
-        {
-          "guid": "N01_059",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
-          "guid": "V10_005",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "N06_013",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "N06_001",
-          "grammatical_form": "noun/lt_genitive_singular"
-        }
-      ],
-      "source": "buivolas_guided_N06_013",
-      "minimum_level": 17,
-      "audio": {
-        "ruta": "a16521514742d4fe327fc1f029d1d1c4",
-        "jonas": "9fb50426ae1a3bb51fecee904875d809"
-      }
-    },
-    {
       "sentence_id": "S_00058",
       "translations": {
         "en": "They buy potatoes at the market.",
@@ -1564,33 +1533,6 @@
       }
     },
     {
-      "sentence_id": "S_00091",
-      "translations": {
-        "en": "My friend found wet pants.",
-        "lt": "Mano draugas rado šlapius kelnes."
-      },
-      "linked_words": [
-        {
-          "guid": "N01_059",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/lt_3s_past"
-        },
-        {
-          "guid": "A18_011",
-          "grammatical_form": "adjective/lt_accusative_plural_m"
-        },
-        {
-          "guid": "N09_002",
-          "grammatical_form": "noun/lt_accusative_plural"
-        }
-      ],
-      "source": "buivolas_guided_N09_002",
-      "minimum_level": 37
-    },
-    {
       "sentence_id": "S_00092",
       "translations": {
         "en": "Do they have clean pants?",
@@ -1834,33 +1776,6 @@
       }
     },
     {
-      "sentence_id": "S_00103",
-      "translations": {
-        "en": "He lost one shoe outside.",
-        "lt": "Jis prarado vieną batą lauke."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_045",
-          "grammatical_form": "verb/lt_3s_past"
-        },
-        {
-          "guid": "N09_006",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "D07_032",
-          "grammatical_form": "noun/lt_locative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N09_006",
-      "minimum_level": 17,
-      "audio": {
-        "ruta": "5b51c262849a2ce63349b082ec5468e3",
-        "jonas": "85ae1c46dc4647d58a0ecac055239d01"
-      }
-    },
-    {
       "sentence_id": "S_00104",
       "translations": {
         "en": "They wear the same shoes.",
@@ -1912,29 +1827,6 @@
       "audio": {
         "jonas": "03faecf878db58aef56667137b8ac541"
       }
-    },
-    {
-      "sentence_id": "S_00107",
-      "translations": {
-        "en": "They found a wet sock",
-        "lt": "Jie rado šlapią kojinę"
-      },
-      "linked_words": [
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/lt_3p_past"
-        },
-        {
-          "guid": "A18_011",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_007",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N09_007",
-      "minimum_level": 37
     },
     {
       "sentence_id": "S_00108",
@@ -2256,33 +2148,6 @@
       }
     },
     {
-      "sentence_id": "S_00124",
-      "translations": {
-        "en": "They wear underwear under their shirts.",
-        "lt": "Jie dėvi apatinius po marškiniais."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_031",
-          "grammatical_form": "verb/lt_3p_present"
-        },
-        {
-          "guid": "N09_012",
-          "grammatical_form": "noun/lt_accusative_plural"
-        },
-        {
-          "guid": "N09_001",
-          "grammatical_form": "noun/lt_instrumental_plural"
-        }
-      ],
-      "source": "buivolas_guided_N09_012",
-      "minimum_level": 1,
-      "audio": {
-        "ruta": "f15c42d7a653ab6d74035bff58379cd7",
-        "jonas": "43818809ce46e661e33e95648b6909ac"
-      }
-    },
-    {
       "sentence_id": "S_00125",
       "translations": {
         "en": "I eat breakfast every morning.",
@@ -2308,29 +2173,6 @@
         "ruta": "11797a5886f12110536141b65a2bb2ef",
         "jonas": "cde564d009742da466f58bda651ffe33"
       }
-    },
-    {
-      "sentence_id": "S_00126",
-      "translations": {
-        "en": "She eats an apple now",
-        "lt": "Ji dabar valgo obuolį"
-      },
-      "linked_words": [
-        {
-          "guid": "D07_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_001",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "N06_015",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_V01_001",
-      "minimum_level": 37
     },
     {
       "sentence_id": "S_00127",
@@ -4370,37 +4212,6 @@
       "audio": {
         "ruta": "3f4c8902c30520db52409cb9a105604e",
         "jonas": "0934a4c5189c80d009a2394ab5f77443"
-      }
-    },
-    {
-      "sentence_id": "S_00244",
-      "translations": {
-        "en": "She moved the mouse away gently.",
-        "lt": "Ji švelniai nutempė pelę šalin."
-      },
-      "linked_words": [
-        {
-          "guid": "D01_023",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V12_009",
-          "grammatical_form": "verb/lt_3s_past"
-        },
-        {
-          "guid": "N02_008",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "D07_013",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N02_008",
-      "minimum_level": 19,
-      "audio": {
-        "ruta": "79a611441403db963d884942e80b5082",
-        "jonas": "d4d9d43ab256ea639bdb8e9d338d8343"
       }
     },
     {
@@ -7033,29 +6844,6 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": "S_00411",
-      "translations": {
-        "en": "They shook hands after meeting.",
-        "lt": "Jie paspaudė rankas po susitikimo."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_036",
-          "grammatical_form": "verb/lt_3p_past"
-        },
-        {
-          "guid": "N03_014",
-          "grammatical_form": "noun/lt_accusative_plural"
-        },
-        {
-          "guid": "N24_024",
-          "grammatical_form": "noun/lt_genitive_singular"
-        }
-      ],
-      "source": "buivolas_guided_N03_014",
-      "minimum_level": 20
-    },
-    {
       "sentence_id": "S_00414",
       "translations": {
         "en": "He points with his finger.",
@@ -7527,21 +7315,6 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": "S_00450",
-      "translations": {
-        "en": "They are at the school.",
-        "lt": "Jie yra mokykloje."
-      },
-      "linked_words": [
-        {
-          "guid": "N07_002",
-          "grammatical_form": "noun/lt_locative_singular"
-        }
-      ],
-      "source": "buivolas_guided_V06_001",
-      "minimum_level": 1
-    },
-    {
       "sentence_id": "S_00452",
       "translations": {
         "en": "The bread is warm and fresh.",
@@ -7563,29 +7336,6 @@
       ],
       "source": "buivolas_guided_V06_001",
       "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_00453",
-      "translations": {
-        "en": "I wear my blue shirt.",
-        "lt": "Aš dėviu savo mėlynus marškinius."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_031",
-          "grammatical_form": "verb/lt_1s_present"
-        },
-        {
-          "guid": "A02_004",
-          "grammatical_form": "adjective/lt_accusative_plural_m"
-        },
-        {
-          "guid": "N09_001",
-          "grammatical_form": "noun/lt_accusative_plural"
-        }
-      ],
-      "source": "buivolas_guided_V01_031",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00454",
@@ -8080,25 +7830,6 @@
       ],
       "source": "buivolas_guided_N37_008",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_00501",
-      "translations": {
-        "en": "She is holding a cone on the beach.",
-        "lt": "Ji laiko kūgį paplūdimyje."
-      },
-      "linked_words": [
-        {
-          "guid": "N37_009",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "N11_008",
-          "grammatical_form": "noun/lt_locative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N37_009",
-      "minimum_level": 18
     },
     {
       "sentence_id": "S_00503",
@@ -8660,33 +8391,6 @@
       "minimum_level": 5
     },
     {
-      "sentence_id": "S_00546",
-      "translations": {
-        "en": "She saw a police officer near the school.",
-        "lt": "Ji pamatė policijos pareigūną netoli mokyklos."
-      },
-      "linked_words": [
-        {
-          "guid": "V10_001",
-          "grammatical_form": "verb/lt_3s_past"
-        },
-        {
-          "guid": "N36_019",
-          "grammatical_form": "noun/lt_genitive_singular"
-        },
-        {
-          "guid": "N36_019",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "N07_002",
-          "grammatical_form": "noun/lt_genitive_singular"
-        }
-      ],
-      "source": "buivolas_guided_N36_019",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00547",
       "translations": {
         "en": "They called a police officer last night.",
@@ -9097,29 +8801,6 @@
       "minimum_level": 5
     },
     {
-      "sentence_id": "S_00576",
-      "translations": {
-        "en": "That man works at the school.",
-        "lt": "Tas vyras dirba mokykloje."
-      },
-      "linked_words": [
-        {
-          "guid": "N01_055",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
-          "guid": "V01_007",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "N07_002",
-          "grammatical_form": "noun/lt_locative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N01_055",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00578",
       "translations": {
         "en": "A woman sits by the window.",
@@ -9496,29 +9177,6 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": "S_00594",
-      "translations": {
-        "en": "That person works at the school.",
-        "lt": "Tas asmuo dirba mokykloje."
-      },
-      "linked_words": [
-        {
-          "guid": "N01_060",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
-          "guid": "V01_007",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "N07_002",
-          "grammatical_form": "noun/lt_locative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N01_060",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00595",
       "translations": {
         "en": "We saw two people at the store.",
@@ -9643,25 +9301,6 @@
       ],
       "source": "buivolas_guided_N01_062",
       "minimum_level": 5
-    },
-    {
-      "sentence_id": "S_00602",
-      "translations": {
-        "en": "Anyone can see the dog.",
-        "lt": "Bet kas gali pamatyti šunį."
-      },
-      "linked_words": [
-        {
-          "guid": "V10_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N02_001",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N01_062",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00603",
@@ -10007,29 +9646,6 @@
       "minimum_level": 21
     },
     {
-      "sentence_id": "S_00625",
-      "translations": {
-        "en": "I want a black shirt.",
-        "lt": "Noriu juodų marškinių."
-      },
-      "linked_words": [
-        {
-          "guid": "V05_004",
-          "grammatical_form": "verb/lt_1s_present"
-        },
-        {
-          "guid": "A02_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_001",
-          "grammatical_form": "noun/lt_genitive_plural"
-        }
-      ],
-      "source": "buivolas_guided_V05_004",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00626",
       "translations": {
         "en": "She wanted more bread.",
@@ -10051,29 +9667,6 @@
       ],
       "source": "buivolas_guided_V05_004",
       "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_00627",
-      "translations": {
-        "en": "They want to buy a bicycle.",
-        "lt": "Jie nori nusipirkti dviratį."
-      },
-      "linked_words": [
-        {
-          "guid": "V05_004",
-          "grammatical_form": "verb/lt_3p_present"
-        },
-        {
-          "guid": "V06_004",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N40_007",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_V05_004",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00628",
@@ -10172,29 +9765,6 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": "S_00632",
-      "translations": {
-        "en": "They have a white house.",
-        "lt": "Jie turi baltą namą."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_002",
-          "grammatical_form": "verb/lt_3p_present"
-        },
-        {
-          "guid": "A02_002",
-          "grammatical_form": "adjective/lt_accusative_singular_m"
-        },
-        {
-          "guid": "N07_001",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_V06_002",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00633",
       "translations": {
         "en": "I make good money now.",
@@ -10239,29 +9809,6 @@
       ],
       "source": "buivolas_guided_V06_004",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_00638",
-      "translations": {
-        "en": "She buys a new shirt.",
-        "lt": "Ji perka naują marškinius."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "A05_035",
-          "grammatical_form": "adjective/lt_accusative_singular_m"
-        },
-        {
-          "guid": "N09_001",
-          "grammatical_form": "noun/lt_accusative_plural"
-        }
-      ],
-      "source": "buivolas_guided_V06_004",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00640",
@@ -10413,29 +9960,6 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": "S_00653",
-      "translations": {
-        "en": "I work at the school today.",
-        "lt": "Aš šiandien dirbu mokykloje."
-      },
-      "linked_words": [
-        {
-          "guid": "D03_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_007",
-          "grammatical_form": "verb/lt_1s_present"
-        },
-        {
-          "guid": "N07_002",
-          "grammatical_form": "noun/lt_locative_singular"
-        }
-      ],
-      "source": "buivolas_guided_V01_007",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00654",
       "translations": {
         "en": "She works every morning in the kitchen.",
@@ -10480,52 +10004,6 @@
       ],
       "source": "buivolas_guided_V01_007",
       "minimum_level": 5
-    },
-    {
-      "sentence_id": "S_00657",
-      "translations": {
-        "en": "I find my keys every morning.",
-        "lt": "Aš randu savo raktus kiekvieną rytą."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/lt_1s_present"
-        },
-        {
-          "guid": "N08_006",
-          "grammatical_form": "noun/lt_accusative_plural"
-        },
-        {
-          "guid": "N25_004",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_V01_009",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_00659",
-      "translations": {
-        "en": "We find the dog in the park.",
-        "lt": "Mes randame šunį parke."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/lt_1p_present"
-        },
-        {
-          "guid": "N02_001",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "N07_050",
-          "grammatical_form": "noun/lt_locative_singular"
-        }
-      ],
-      "source": "buivolas_guided_V01_009",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00661",
@@ -10702,29 +10180,6 @@
       ],
       "source": "buivolas_guided_N47_002",
       "minimum_level": 17
-    },
-    {
-      "sentence_id": "S_00672",
-      "translations": {
-        "en": "We saw birds at the window.",
-        "lt": "Mes pamatėme paukščius prie lango."
-      },
-      "linked_words": [
-        {
-          "guid": "V10_001",
-          "grammatical_form": "verb/lt_1p_past"
-        },
-        {
-          "guid": "N02_003",
-          "grammatical_form": "noun/lt_accusative_plural"
-        },
-        {
-          "guid": "N47_002",
-          "grammatical_form": "noun/lt_genitive_singular"
-        }
-      ],
-      "source": "buivolas_guided_N47_002",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00677",
@@ -10941,29 +10396,6 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": "S_00696",
-      "translations": {
-        "en": "They saw a red rose.",
-        "lt": "Jie pamatė raudoną rožę."
-      },
-      "linked_words": [
-        {
-          "guid": "V10_001",
-          "grammatical_form": "verb/lt_3p_past"
-        },
-        {
-          "guid": "A02_003",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N05_005",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N05_005",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00697",
       "translations": {
         "en": "We walk to church on Sunday.",
@@ -11058,29 +10490,6 @@
       ],
       "source": "buivolas_guided_N07_012",
       "minimum_level": 17
-    },
-    {
-      "sentence_id": "S_00705",
-      "translations": {
-        "en": "She buys bread at the bakery.",
-        "lt": "Ji perka duoną kepykloje."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "N06_001",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "N07_013",
-          "grammatical_form": "noun/lt_locative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N07_013",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00706",
@@ -12726,29 +12135,6 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": "S_00838",
-      "translations": {
-        "en": "He bought a bottle of wine.",
-        "lt": "Jis nupirko butelę vyno."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": "verb/lt_3s_past"
-        },
-        {
-          "guid": "N08_012",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "N42_005",
-          "grammatical_form": "noun/lt_genitive_singular"
-        }
-      ],
-      "source": "buivolas_guided_N42_005",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00840",
       "translations": {
         "en": "They opened the wine for the party.",
@@ -12793,29 +12179,6 @@
       ],
       "source": "buivolas_guided_N42_006",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00842",
-      "translations": {
-        "en": "She buys milk at the store.",
-        "lt": "Ji perka pieną parduotuvėje."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "N42_006",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "N07_005",
-          "grammatical_form": "noun/lt_locative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N42_006",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00843",
@@ -13126,29 +12489,6 @@
       ],
       "source": "buivolas_guided_N09_010",
       "minimum_level": 16
-    },
-    {
-      "sentence_id": "S_00857",
-      "translations": {
-        "en": "She is wearing a blue skirt today.",
-        "lt": "Ji šiandien dėvi mėlyną sijoną."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_031",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "A02_004",
-          "grammatical_form": "adjective/lt_accusative_singular_m"
-        },
-        {
-          "guid": "N09_013",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N09_013",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00858",
@@ -13662,29 +13002,6 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": "S_00929",
-      "translations": {
-        "en": "She buys a cotton shirt today.",
-        "lt": "Ji šiandien perka medvilninį marškinius."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "N14_014",
-          "grammatical_form": "adjective/lt_accusative_singular_m"
-        },
-        {
-          "guid": "N09_001",
-          "grammatical_form": "noun/lt_accusative_plural"
-        }
-      ],
-      "source": "buivolas_guided_N14_014",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00930",
       "translations": {
         "en": "My friend found cotton in the field.",
@@ -13783,52 +13100,6 @@
       ],
       "source": "buivolas_guided_N14_016",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00941",
-      "translations": {
-        "en": "He is wearing a leather jacket today.",
-        "lt": "Jis šiandien dėvi odinę striukę."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_031",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "N14_017",
-          "grammatical_form": "adjective/lt_accusative_singular_f"
-        },
-        {
-          "guid": "N09_005",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N14_017",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_00942",
-      "translations": {
-        "en": "She bought a leather bag yesterday.",
-        "lt": "Ji vakar nusipirko odinį maišelį."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": "verb/lt_3s_past"
-        },
-        {
-          "guid": "N14_017",
-          "grammatical_form": "adjective/lt_accusative_singular_m"
-        },
-        {
-          "guid": "N08_009",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N14_017",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00945",
@@ -14028,29 +13299,6 @@
       ],
       "source": "buivolas_guided_N14_021",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00960",
-      "translations": {
-        "en": "She finds a brick near the school.",
-        "lt": "Ji randa plytą šalia mokyklos."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/lt_3s_present"
-        },
-        {
-          "guid": "N14_021",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "N07_002",
-          "grammatical_form": "noun/lt_genitive_singular"
-        }
-      ],
-      "source": "buivolas_guided_N14_021",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00964",
@@ -15106,48 +14354,6 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": "S_01052",
-      "translations": {
-        "en": "He found a wide hat.",
-        "lt": "Jis rado platų skrybėlę."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/lt_3s_past"
-        },
-        {
-          "guid": "A18_005",
-          "grammatical_form": "adjective/lt_accusative_singular_m"
-        },
-        {
-          "guid": "N09_008",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_A18_005",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_01053",
-      "translations": {
-        "en": "The lake is deep today.",
-        "lt": "Ežeras šiandien yra gilus."
-      },
-      "linked_words": [
-        {
-          "guid": "N11_005",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
-          "guid": "A18_006",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_A18_006",
-      "minimum_level": 18
-    },
-    {
       "sentence_id": "S_01056",
       "translations": {
         "en": "She hears a deep voice.",
@@ -15611,29 +14817,6 @@
       ],
       "source": "buivolas_guided_A18_012",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_01082",
-      "translations": {
-        "en": "They ate the last bread.",
-        "lt": "Jie suvalgė paskutinę duoną."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_001",
-          "grammatical_form": "verb/lt_3p_past"
-        },
-        {
-          "guid": "A15_011",
-          "grammatical_form": "adjective/lt_accusative_singular_f"
-        },
-        {
-          "guid": "N06_001",
-          "grammatical_form": "noun/lt_accusative_singular"
-        }
-      ],
-      "source": "buivolas_guided_A15_011",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_01084",
@@ -16880,29 +16063,6 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": "S_01193",
-      "translations": {
-        "en": "I saw a snake near the school.",
-        "lt": "Mačiau gyvatę prie mokyklos."
-      },
-      "linked_words": [
-        {
-          "guid": "V10_001",
-          "grammatical_form": "verb/lt_1s_past"
-        },
-        {
-          "guid": "N02_014",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "N07_002",
-          "grammatical_form": "noun/lt_genitive_singular"
-        }
-      ],
-      "source": "buivolas_guided_N02_014",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_01194",
       "translations": {
         "en": "She is afraid of the snake.",
@@ -16947,29 +16107,6 @@
       ],
       "source": "buivolas_guided_N02_014",
       "minimum_level": 9
-    },
-    {
-      "sentence_id": "S_01200",
-      "translations": {
-        "en": "The elephant walked near our house.",
-        "lt": "Dramblys ėjo šalia mūsų namo."
-      },
-      "linked_words": [
-        {
-          "guid": "N02_015",
-          "grammatical_form": "noun/lt_nominative_singular"
-        },
-        {
-          "guid": "V12_001",
-          "grammatical_form": "verb/lt_3s_past"
-        },
-        {
-          "guid": "N07_001",
-          "grammatical_form": "noun/lt_genitive_singular"
-        }
-      ],
-      "source": "buivolas_guided_N02_015",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_01201",
@@ -17433,283 +16570,6 @@
       ],
       "source": "buivolas_guided_N42_016",
       "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_01241",
-      "translations": {
-        "en": "She bought a video camera yesterday.",
-        "lt": "Ji vakar nupirko vaizdo kamerą."
-      },
-      "linked_words": [
-        {
-          "guid": "D03_002",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V06_004",
-          "grammatical_form": "verb/lt_3s_past"
-        }
-      ],
-      "source": "buivolas_guided_N42_018",
-      "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_01242",
-      "translations": {
-        "en": "We have a small video camera.",
-        "lt": "Mes turime mažą vaizdo kamerą."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_002",
-          "grammatical_form": "verb/lt_1p_present"
-        },
-        {
-          "guid": "A01_002",
-          "grammatical_form": "adjective/lt_accusative_singular_m"
-        }
-      ],
-      "source": "buivolas_guided_N42_018",
-      "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_01243",
-      "translations": {
-        "en": "He put the video camera down.",
-        "lt": "Jis padėjo vaizdo kamerą žemyn."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_010",
-          "grammatical_form": "verb/lt_3s_past"
-        },
-        {
-          "guid": "D07_027",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N42_018",
-      "minimum_level": 9
-    },
-    {
-      "sentence_id": "S_01248",
-      "translations": {
-        "en": "The only person for whom the house was in any way special was  Arthur\nDent, and that was only because it happened to be the one he lived in.",
-        "lt": "Vienintelis žmogus, kuriam namas buvo bent kuo nors ypatingas, buvo Arthuras Dentas, ir tai buvo tik todėl, kad jis atsitiktinai gyveno būtent tame name."
-      },
-      "linked_words": [],
-      "source": "testdata_H2G2_test.txt",
-      "minimum_level": 37
-    },
-    {
-      "sentence_id": "S_01249",
-      "translations": {
-        "en": "He\nhad lived in it for about three years, ever since  he  had  moved  out  of\nLondon because it made him nervous and irritable.",
-        "lt": "Jis ten buvo gyvenęs apie trejus metus, nuo tada, kai išsikraustė iš Londono, nes tas miestas darė jį nervingą ir irzlų."
-      },
-      "linked_words": [],
-      "source": "testdata_H2G2_test.txt",
-      "minimum_level": 37
-    },
-    {
-      "sentence_id": "S_01250",
-      "translations": {
-        "en": "At eight o'clock on Thursday morning Arthur didn't feel very good.",
-        "lt": "Ketvirtadienio rytą aštuntą valandą Artūras jautėsi nelabai gerai."
-      },
-      "linked_words": [],
-      "source": "testdata_H2G2_test.txt",
-      "minimum_level": 37
-    },
-    {
-      "sentence_id": "S_01251",
-      "translations": {
-        "en": "He\nwoke up blearily, got up, wandered  blearily  round  his  room,  opened  a\nwindow, saw a bulldozer, found  his  slippers,  and  stomped  off  to  the\nbathroom to wash.",
-        "lt": "Jis miglotai prabudo, atsikėlė, miglotai vaikštinėjo po savo kambarį, atidarė langą, pamatė buldozerį, susirado šlepetes ir sunkiai nušlepsėjo į vonią praustis."
-      },
-      "linked_words": [],
-      "source": "testdata_H2G2_test.txt",
-      "minimum_level": 37
-    },
-    {
-      "sentence_id": "S_01252",
-      "translations": {
-        "en": "At eight o'clock on Thursday morning Arthur didn't feel very good.",
-        "lt": "Ketvirtadienį aštuntą valandą ryto Artūras nesijautė labai gerai."
-      },
-      "linked_words": [],
-      "source": "testdata_H2G2_test.txt",
-      "minimum_level": 37
-    },
-    {
-      "sentence_id": "S_01253",
-      "translations": {
-        "en": "Passing the bathroom he stopped to drink a large glass of water,  and\nanother.",
-        "lt": "Eidamas pro vonios kambarį, jis sustojo išgerti didelę stiklinę vandens, paskui dar vieną."
-      },
-      "linked_words": [],
-      "source": "testdata_H2G2_test.txt",
-      "minimum_level": 37
-    },
-    {
-      "sentence_id": "S_01254",
-      "translations": {
-        "en": "He began to suspect that he was hung over.",
-        "lt": "Jis pradėjo įtarti, kad jam pagirios."
-      },
-      "linked_words": [],
-      "source": "testdata_H2G2_test.txt",
-      "minimum_level": 37
-    },
-    {
-      "sentence_id": "S_01255",
-      "translations": {
-        "en": "He stood and thought.",
-        "lt": "Jis atsistojo ir pagalvojo."
-      },
-      "linked_words": [],
-      "source": "testdata_H2G2_test.txt",
-      "minimum_level": 37
-    },
-    {
-      "sentence_id": "S_01256",
-      "translations": {
-        "en": "The pub, he  thought.",
-        "lt": "„Užeiga“, pagalvojo jis."
-      },
-      "linked_words": [],
-      "source": "testdata_H2G2_test.txt",
-      "minimum_level": 37
-    },
-    {
-      "sentence_id": "S_01257",
-      "translations": {
-        "en": "Oh  dear,  the  pub.",
-        "lt": "O, Dieve, tas pub'as."
-      },
-      "linked_words": [],
-      "source": "testdata_H2G2_test.txt",
-      "minimum_level": 37
-    },
-    {
-      "sentence_id": "S_01258",
-      "translations": {
-        "en": "He\nvaguely  remembered  being  angry,  angry  about  something  that   seemed\nimportant.",
-        "lt": "Jis miglotai prisiminė, kad buvo supykęs, supykęs dėl kažko, kas atrodė svarbu."
-      },
-      "linked_words": [],
-      "source": "testdata_H2G2_test.txt",
-      "minimum_level": 37
-    },
-    {
-      "sentence_id": "S_01259",
-      "translations": {
-        "en": "Bypasses are devices which allow some people to drive from point A to\npoint B very fast whilst other people dash from point B to  point  A  very\nfast.",
-        "lt": "Aplinkkeliai yra įrenginiai, leidžiantys vieniems žmonėms labai greitai nuvažiuoti iš A taško į B tašką, o kitiems labai greitai nulėkti iš B taško į A tašką."
-      },
-      "linked_words": [],
-      "source": "testdata_H2G2_test.txt",
-      "minimum_level": 37
-    },
-    {
-      "sentence_id": "S_01260",
-      "translations": {
-        "en": "People living at point C, being a point  directly  in  between,  are\noften given to wonder what's so great about point A that so many people of\npoint B are so keen to get there, and what's so great about point  B  that\nso many people of point A are so keen to get there.",
-        "lt": "Žmonės, gyvenantys C taške, būdami tiesiogiai tarp jų esančiame taške, dažnai stebisi, kas gi tokio nuostabaus yra A taške, kad tiek daug B taško žmonių taip trokšta ten patekti, ir kas gi tokio nuostabaus yra B taške, kad tiek daug A taško žmonių taip trokšta ten patekti."
-      },
-      "linked_words": [],
-      "source": "testdata_H2G2_test.txt",
-      "minimum_level": 37
-    },
-    {
-      "sentence_id": "S_01261",
-      "translations": {
-        "en": "They often  wish  that\npeople would just once and for all work out where the hell they wanted  to\nbe.",
-        "lt": "Jie dažnai norėtų, kad žmonės pagaliau kartą ir visiems laikams išsiaiškintų, kur, po velnių, jie norėjo būti."
-      },
-      "linked_words": [],
-      "source": "testdata_H2G2_test.txt",
-      "minimum_level": 37
-    },
-    {
-      "sentence_id": "S_01262",
-      "translations": {
-        "en": "Mr Prosser wanted to be at  point  D.",
-        "lt": "Ponas Prosseris norėjo būti D taške."
-      },
-      "linked_words": [],
-      "source": "testdata_H2G2_test.txt",
-      "minimum_level": 37
-    },
-    {
-      "sentence_id": "S_01263",
-      "translations": {
-        "en": "\"But Mr Dent, the plans have been available  in  the  local  planning\noffice for the last nine month.\"\n     \"Oh yes, well as soon as I heard I went straight round to  see  them,\nyesterday afternoon.",
-        "lt": "„Bet, pone Denta, planus vietiniame planavimo skyriuje galima buvo gauti jau pastaruosius devynis mėnesius.“\n„O taip, na, vos tik apie tai išgirdau, iškart nuėjau jų pasižiūrėti — vakar popiet.“"
-      },
-      "linked_words": [],
-      "source": "testdata_H2G2_test.txt",
-      "minimum_level": 37
-    },
-    {
-      "sentence_id": "S_01264",
-      "translations": {
-        "en": "You hadn't exactly gone  out  of  your  way  to  call\nattention to them had  you?",
-        "lt": "Tu tikrai nedėjai ypatingų pastangų atkreipti į juos dėmesį, ar ne?"
-      },
-      "linked_words": [],
-      "source": "testdata_H2G2_test.txt",
-      "minimum_level": 37
-    },
-    {
-      "sentence_id": "S_01265",
-      "translations": {
-        "en": "I  mean  like  actually  telling  anybody  or\nanything.\"\n     \"But the plans were on display...\"\n     \"On display?",
-        "lt": "„Turiu omeny, ar tikrai ką nors kam nors sakyti ar dar ką nors.“\n     „Bet planai buvo iškabinti…“\n     „Iškabinti?“"
-      },
-      "linked_words": [],
-      "source": "testdata_H2G2_test.txt",
-      "minimum_level": 37
-    },
-    {
-      "sentence_id": "S_01266",
-      "translations": {
-        "en": "I eventually had to go down to the cellar to find them.\"\n     \"That's the display department.\"\n     \"With a torch.\"\n     \"Ah, well the lights had probably gone.\"\n     \"So had the stairs.\"\n     \"But look, you found the notice didn't you?\"\n     \"Yes,\" said Arthur, \"yes I did.",
-        "lt": "Man galiausiai teko nusileisti į rūsį jų ieškoti.\n„Tai vitrinų skyrius.“\n„Su žibintuvėliu.“\n„A, na, tikriausiai šviesos jau buvo dingusios.“\n„Ir laiptai taip pat.“\n„Bet žiūrėkite, juk suradote skelbimą, ar ne?“\n„Taip“, tarė Artūras, „taip, suradau.“"
-      },
-      "linked_words": [],
-      "source": "testdata_H2G2_test.txt",
-      "minimum_level": 37
-    },
-    {
-      "sentence_id": "S_01267",
-      "translations": {
-        "en": "A towel, it says,  is  about  the  most  massively  useful  thing  an\ninterstellar hitch hiker can have.",
-        "lt": "Sakoma, kad rankšluostis yra bene pats naudingiausias daiktas, kokį gali turėti tarpžvaigždinis autostopininkas."
-      },
-      "linked_words": [],
-      "source": "testdata_H2G2_test.txt",
-      "minimum_level": 37
-    },
-    {
-      "sentence_id": "S_01268",
-      "translations": {
-        "en": "Partly it has great practical  value  -\nyou can wrap it around you for warmth as you bound across the  cold  moons\nof Jaglan Beta; you can lie on it on the brilliant  marble-sanded  beaches\nof Santraginus V, inhaling the heady sea vapours; you can sleep  under  it\nbeneath the stars which shine so redly on the desert world  of  Kakrafoon;\nuse it to sail a mini raft down the slow heavy river Moth; wet it for  use\nin hand-tohand-combat; wrap it round your head to ward off  noxious  fumes\nor to avoid the  gaze  of  the  Ravenous  Bugblatter  Beast  of  Traal  (a\nmindboggingly stupid animal, it assumes that if you can't see it, it can't\nsee you - daft as a bush, but very ravenous); you can wave your  towel  in\nemergencies as a distress signal, and of course dry yourself off  with  it\nif it still seems to be clean enough.",
-        "lt": "Iš dalies jis turi didžiulę praktinę vertę – galite apsivynioti juo, kad būtų šilta, šuoliuodami per šaltus Jaglan Beta palydovus; galite ant jo atsigulti nuostabiuose marmuro smėlio Santraginus V paplūdimiuose, įkvėpdami svaiginančius jūros garus; galite po juo miegoti po žvaigždėmis, kurios taip raudonai švyti Kakrafoono dykumų pasaulyje; galite juo plukdyti mažą plaustą lėta, sunkiąja Moth upe; sudrėkinti jį artimajai kovai; apsivynioti juo galvą, kad apsisaugotumėte nuo kenksmingų garų arba išvengtumėte Ravingojo Traalio Bugblatterio Žvėries žvilgsnio (tai neįtikėtinai kvailas gyvūnas: jis mano, kad jei tu jo nematai, tai ir jis tavęs nemato — kvailas kaip krūmas, bet labai rijus); nelaimės atveju galite mojuoti savo rankšluosčiu kaip pagalbos signalu, ir, žinoma, nusisausinti juo, jei jis vis dar atrodo pakankamai švarus."
-      },
-      "linked_words": [],
-      "source": "testdata_H2G2_test.txt",
-      "minimum_level": 37
-    },
-    {
-      "sentence_id": "S_01269",
-      "translations": {
-        "en": "It was a long time before he returned from the mission.",
-        "lt": "Prieš jam grįžtant iš misijos, praėjo nemažai laiko."
-      },
-      "linked_words": [],
-      "source": "bebras_import",
-      "minimum_level": 37
     }
   ]
 }

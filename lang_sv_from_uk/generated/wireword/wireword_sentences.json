@@ -626,16 +626,6 @@
       "minimum_level": 1
     },
     {
-      "sentence_id": "S_00056",
-      "translations": {
-        "uk": "Мій друг відчуває солодкий присмак на хлібі.",
-        "sv": "Min vän smakar salt på brödet."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N06_013",
-      "minimum_level": 17
-    },
-    {
       "sentence_id": "S_00057",
       "translations": {
         "uk": "Вона приготувала картоплю на вечерю.",
@@ -976,16 +966,6 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": "S_00091",
-      "translations": {
-        "uk": "Мій друг знайшов мокрі штани.",
-        "sv": "Min vän hittade blöta byxor."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N09_002",
-      "minimum_level": 37
-    },
-    {
       "sentence_id": "S_00092",
       "translations": {
         "uk": "Чи у них є чисті штани?",
@@ -1096,16 +1076,6 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": "S_00103",
-      "translations": {
-        "uk": "Він втратив одне взуття, коли був зовні.",
-        "sv": "Han tappade en sko utanför."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N09_006",
-      "minimum_level": 17
-    },
-    {
       "sentence_id": "S_00104",
       "translations": {
         "uk": "Вони носять однакове взуття.",
@@ -1134,16 +1104,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N09_007",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_00107",
-      "translations": {
-        "uk": "Вони знайшли мокрий шкарпеток.",
-        "sv": "De hittade en blöt socka."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N09_007",
-      "minimum_level": 37
     },
     {
       "sentence_id": "S_00108",
@@ -1296,26 +1256,6 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": "S_00123",
-      "translations": {
-        "uk": "Мій друг знайшов спідню білизну у валізі.",
-        "sv": "Min vän hittade underkläder i en resväska."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N09_012",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_00124",
-      "translations": {
-        "uk": "Вони носять нижню білизну під сорочками.",
-        "sv": "De bär underkläder under sina skjortor."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N09_012",
-      "minimum_level": 1
-    },
-    {
       "sentence_id": "S_00125",
       "translations": {
         "uk": "Я кожного ранку снідаю.",
@@ -1324,16 +1264,6 @@
       "linked_words": [],
       "source": "buivolas_guided_V01_001",
       "minimum_level": 13
-    },
-    {
-      "sentence_id": "S_00126",
-      "translations": {
-        "uk": "Вона зараз їсть яблуко.",
-        "sv": "Hon äter ett äpple just nu."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V01_001",
-      "minimum_level": 37
     },
     {
       "sentence_id": "S_00127",
@@ -2504,16 +2434,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N02_008",
       "minimum_level": 28
-    },
-    {
-      "sentence_id": "S_00244",
-      "translations": {
-        "uk": "Вона обережно відсунула мишку.",
-        "sv": "Hon flyttade försiktigt musen åt sidan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N02_008",
-      "minimum_level": 19
     },
     {
       "sentence_id": "S_00245",
@@ -4176,16 +4096,6 @@
       "minimum_level": 11
     },
     {
-      "sentence_id": "S_00411",
-      "translations": {
-        "uk": "Вони потиснули один одному руки після знайомства.",
-        "sv": "De skakade hand när de träffades."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N03_014",
-      "minimum_level": 20
-    },
-    {
       "sentence_id": "S_00412",
       "translations": {
         "uk": "Дитина підняла руку.",
@@ -4556,16 +4466,6 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": "S_00450",
-      "translations": {
-        "uk": "Вони зараз у школі.",
-        "sv": "De är på skolan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V06_001",
-      "minimum_level": 1
-    },
-    {
       "sentence_id": "S_00451",
       "translations": {
         "uk": "Минулого року я працював(ла) вчителем.",
@@ -4584,16 +4484,6 @@
       "linked_words": [],
       "source": "buivolas_guided_V06_001",
       "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_00453",
-      "translations": {
-        "uk": "Я одягнена у свою синю сорочку.",
-        "sv": "Jag har på mig min blå skjorta."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V01_031",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00454",
@@ -5046,16 +4936,6 @@
       "minimum_level": 21
     },
     {
-      "sentence_id": "S_00501",
-      "translations": {
-        "uk": "Вона тримає в руках морозиво у вафельному конусі на пляжі.",
-        "sv": "Hon håller en glassvaffel på stranden."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N37_009",
-      "minimum_level": 18
-    },
-    {
       "sentence_id": "S_00502",
       "translations": {
         "uk": "Вони виготовили конус для уроку.",
@@ -5496,16 +5376,6 @@
       "minimum_level": 13
     },
     {
-      "sentence_id": "S_00546",
-      "translations": {
-        "uk": "Вона побачила поліцейського біля школи.",
-        "sv": "Hon såg en polisman i närheten av skolan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N36_019",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00547",
       "translations": {
         "uk": "Вони викликали поліцейського вчора ввечері.",
@@ -5796,16 +5666,6 @@
       "minimum_level": 5
     },
     {
-      "sentence_id": "S_00576",
-      "translations": {
-        "uk": "Цей чоловік працює в школі.",
-        "sv": "Den mannen arbetar på skolan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N01_055",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00577",
       "translations": {
         "uk": "Жінка йде на роботу.",
@@ -5976,16 +5836,6 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": "S_00594",
-      "translations": {
-        "uk": "Ця людина працює в школі.",
-        "sv": "Den personen arbetar på skolan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N01_060",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00595",
       "translations": {
         "uk": "Ми бачили двох людей у магазині.",
@@ -6044,16 +5894,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N01_062",
       "minimum_level": 5
-    },
-    {
-      "sentence_id": "S_00602",
-      "translations": {
-        "uk": "Будь-хто може побачити собаку.",
-        "sv": "Alla kan se hunden."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N01_062",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00603",
@@ -6266,16 +6106,6 @@
       "minimum_level": 21
     },
     {
-      "sentence_id": "S_00625",
-      "translations": {
-        "uk": "Я хочу чорну сорочку.",
-        "sv": "Jag vill ha en svart tröja."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V05_004",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00626",
       "translations": {
         "uk": "Вона хотіла більше хліба.",
@@ -6284,16 +6114,6 @@
       "linked_words": [],
       "source": "buivolas_guided_V05_004",
       "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_00627",
-      "translations": {
-        "uk": "Вони хочуть купити велосипед.",
-        "sv": "De vill köpa en cykel."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V05_004",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00628",
@@ -6334,16 +6154,6 @@
       "linked_words": [],
       "source": "buivolas_guided_V06_002",
       "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_00632",
-      "translations": {
-        "uk": "У них є будинок білого кольору.",
-        "sv": "De har ett vitt hus."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V06_002",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00633",
@@ -6394,16 +6204,6 @@
       "linked_words": [],
       "source": "buivolas_guided_V06_004",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_00638",
-      "translations": {
-        "uk": "Вона купує нову сорочку.",
-        "sv": "Hon köper en ny skjorta."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V06_004",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00639",
@@ -6546,16 +6346,6 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": "S_00653",
-      "translations": {
-        "uk": "Сьогодні я працюю в школі.",
-        "sv": "Jag jobbar på skolan idag."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V01_007",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00654",
       "translations": {
         "uk": "Вона працює щоранку на кухні.",
@@ -6586,30 +6376,10 @@
       "minimum_level": 5
     },
     {
-      "sentence_id": "S_00657",
-      "translations": {
-        "uk": "Я щоранку знаходжу свої ключі.",
-        "sv": "Jag hittar alltid mina nycklar varje morgon."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V01_009",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00658",
       "translations": {
         "uk": "Вона знайшла монету поблизу школи.",
         "sv": "Hon hittade en mynt nära skolan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_V01_009",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_00659",
-      "translations": {
-        "uk": "Ми знайшли собаку в парку.",
-        "sv": "Vi hittar hunden i parken."
       },
       "linked_words": [],
       "source": "buivolas_guided_V01_009",
@@ -6734,16 +6504,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N47_002",
       "minimum_level": 16
-    },
-    {
-      "sentence_id": "S_00672",
-      "translations": {
-        "uk": "Ми бачили птахів біля вікна.",
-        "sv": "Vi såg fåglar vid fönstret."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N47_002",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00673",
@@ -6976,16 +6736,6 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": "S_00696",
-      "translations": {
-        "uk": "Вони побачили червону троянду.",
-        "sv": "De såg en röd ros."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N05_005",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00697",
       "translations": {
         "uk": "Ми ходимо до церкви в неділю.",
@@ -7064,16 +6814,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N07_012",
       "minimum_level": 17
-    },
-    {
-      "sentence_id": "S_00705",
-      "translations": {
-        "uk": "Вона купує хліб у пекарні.",
-        "sv": "Hon köper bröd i bageriet."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N07_013",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00706",
@@ -7424,16 +7164,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N07_041",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00741",
-      "translations": {
-        "uk": "Висока будівля закриває сонце.",
-        "sv": "En hög byggnad skymmer solen."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N07_046",
-      "minimum_level": 14
     },
     {
       "sentence_id": "S_00742",
@@ -8046,16 +7776,6 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": "S_00803",
-      "translations": {
-        "uk": "Дитина витер свій брудний стегно.",
-        "sv": "Barnet torkade av sitt smutsiga lår."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N03_021",
-      "minimum_level": 14
-    },
-    {
       "sentence_id": "S_00804",
       "translations": {
         "uk": "Він помасажував болять стегно.",
@@ -8396,16 +8116,6 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": "S_00838",
-      "translations": {
-        "uk": "Він купив пляшку вина.",
-        "sv": "Han köpte en flaska vin."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N42_005",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00839",
       "translations": {
         "uk": "Ми випили вина після роботи.",
@@ -8434,16 +8144,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N42_006",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00842",
-      "translations": {
-        "uk": "Вона купує молоко в магазині.",
-        "sv": "Hon köper mjölk i affären."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N42_006",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00843",
@@ -8584,16 +8284,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N09_010",
       "minimum_level": 16
-    },
-    {
-      "sentence_id": "S_00857",
-      "translations": {
-        "uk": "Сьогодні вона одягнена в синю спідницю.",
-        "sv": "Hon har en blå kjol på sig idag."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N09_013",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00858",
@@ -9286,16 +8976,6 @@
       "minimum_level": 12
     },
     {
-      "sentence_id": "S_00929",
-      "translations": {
-        "uk": "Вона сьогодні купує сорочку з бавовни.",
-        "sv": "Hon köper en skjorta i bomull idag."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N14_014",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00930",
       "translations": {
         "uk": "Мій друг знайшов бавовну на полі.",
@@ -9404,26 +9084,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N14_016",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00941",
-      "translations": {
-        "uk": "Сьогодні він одягнений у шкіряну куртку.",
-        "sv": "Han har en läderjacka på sig idag."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N14_017",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_00942",
-      "translations": {
-        "uk": "Вона купила шкіряну сумку вчора.",
-        "sv": "Hon köpte en läderväska igår."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N14_017",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00943",
@@ -9594,16 +9254,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N14_021",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00960",
-      "translations": {
-        "uk": "Вона знайшла цеглу неподалік школи.",
-        "sv": "Hon hittar en tegelsten nära skolan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N14_021",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00961",
@@ -10516,26 +10166,6 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": "S_01052",
-      "translations": {
-        "uk": "Він знайшов широкий капелюх.",
-        "sv": "Han hittade en bred hatt."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_A18_005",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_01053",
-      "translations": {
-        "uk": "Сьогодні озеро дуже глибоке.",
-        "sv": "Sjön är djup idag."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_A18_006",
-      "minimum_level": 18
-    },
-    {
       "sentence_id": "S_01054",
       "translations": {
         "uk": "Він натрапляє на глибоку яму.",
@@ -10814,16 +10444,6 @@
       "linked_words": [],
       "source": "buivolas_guided_A15_011",
       "minimum_level": 17
-    },
-    {
-      "sentence_id": "S_01082",
-      "translations": {
-        "uk": "Вони з'їли останній шматок хліба.",
-        "sv": "De åt det sista brödet."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_A15_011",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_01083",
@@ -11926,16 +11546,6 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": "S_01193",
-      "translations": {
-        "uk": "Я бачив змію біля школи.",
-        "sv": "Jag såg en orm nära skolan."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N02_014",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_01194",
       "translations": {
         "uk": "Вона боїться змії.",
@@ -11994,16 +11604,6 @@
       "linked_words": [],
       "source": "buivolas_guided_N02_015",
       "minimum_level": 9
-    },
-    {
-      "sentence_id": "S_01200",
-      "translations": {
-        "uk": "Слон пройшов біля нашого будинку.",
-        "sv": "Elefanten gick nära vårt hus."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N02_015",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_01201",
@@ -12383,36 +11983,6 @@
       },
       "linked_words": [],
       "source": "buivolas_guided_N42_016",
-      "minimum_level": 9
-    },
-    {
-      "sentence_id": "S_01241",
-      "translations": {
-        "uk": "Вона купила відеокамеру вчора.",
-        "sv": "Hon köpte en videokamera igår."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N42_018",
-      "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_01242",
-      "translations": {
-        "uk": "У нас є невелика відеокамера.",
-        "sv": "Vi har en liten videokamera."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N42_018",
-      "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_01243",
-      "translations": {
-        "uk": "Він поклав відеокамеру.",
-        "sv": "Han ställde ner videokameran."
-      },
-      "linked_words": [],
-      "source": "buivolas_guided_N42_018",
       "minimum_level": 9
     },
     {

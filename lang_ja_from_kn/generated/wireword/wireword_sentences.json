@@ -903,35 +903,6 @@
       "minimum_level": 1
     },
     {
-      "sentence_id": "S_00056",
-      "translations": {
-        "kn": "ನನ್ನ ಸ್ನೇಹಿತರು ಬ್ರೆಡ್‌ನಲ್ಲಿ ಉಪ್ಪನ್ನು ತಿಂದಿದ್ದಾರೆ.",
-        "ja": "私の友達はパンに塩を味わう。",
-        "romaji": "watashi no tomodachi ha pan ni shio wo ajiwa u .",
-        "hiragana": "わたしのともだちはぱんにしおをあじわう。"
-      },
-      "linked_words": [
-        {
-          "guid": "N01_059",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N06_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N06_013",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V10_005",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N06_013",
-      "minimum_level": 17
-    },
-    {
       "sentence_id": "S_00058",
       "translations": {
         "kn": "ಅವರು ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಆಲೂಗಡ್ಡೆಗಳನ್ನು ಖರೀದಿಸುತ್ತಾರೆ.",
@@ -1432,35 +1403,6 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": "S_00091",
-      "translations": {
-        "kn": "ನನ್ನ ಸ್ನೇಹಿತನಿಗೆ ತೇವಗೊಂಡ ಪ್ಯಾಂಟ್ ಸಿಕ್ಕಿತು.",
-        "ja": "私の友達は濡れたズボンを見つけた。",
-        "romaji": "watashi no tomodachi ha nure ta zubon wo mitsu keta .",
-        "hiragana": "わたしのともだちはぬれたずぼんをみつけた。"
-      },
-      "linked_words": [
-        {
-          "guid": "N01_059",
-          "grammatical_form": null
-        },
-        {
-          "guid": "A18_011",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_002",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_009",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N09_002",
-      "minimum_level": 37
-    },
-    {
       "sentence_id": "S_00092",
       "translations": {
         "kn": "ಅವರಿಗೆ ಸ್ವಚ್ಛವಾದ ಪ್ಯಾಂಟ್‌ಗಳು ಇದೆಯೇ?",
@@ -1686,31 +1628,6 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": "S_00103",
-      "translations": {
-        "kn": "ಅವರು ಹೊರಗೆ ಒಂದು ಶೂವನ್ನು ಕಳೆದುಕೊಂಡರು.",
-        "ja": "彼は外に靴を一つなくした。",
-        "romaji": "kareha soto ni kutsu wo hitotsu nakushita .",
-        "hiragana": "かれはそとにくつをひとつなくした。"
-      },
-      "linked_words": [
-        {
-          "guid": "D07_032",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_006",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_045",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N09_006",
-      "minimum_level": 17
-    },
-    {
       "sentence_id": "S_00104",
       "translations": {
         "kn": "ಅವರು ಇಬ್ಬರೂ ಒಂದೇ ರೀತಿಯ ಶೂಗಳನ್ನು ಧರಿಸಿದ್ದಾರೆ.",
@@ -1759,31 +1676,6 @@
       ],
       "source": "buivolas_guided_N09_007",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_00107",
-      "translations": {
-        "kn": "ಅವರು ಒಂದು ತೇವವಾದ ಚೀಲವನ್ನು ಕಂಡುಕೊಂಡರು.",
-        "ja": "彼らは濡れた靴下を見つけました",
-        "romaji": "karera ha nure ta kutsushita wo mitsu kemashita",
-        "hiragana": "かれらはぬれたくつしたをみつけました"
-      },
-      "linked_words": [
-        {
-          "guid": "A18_011",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_007",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_009",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N09_007",
-      "minimum_level": 37
     },
     {
       "sentence_id": "S_00108",
@@ -2080,31 +1972,6 @@
       ],
       "source": "buivolas_guided_N09_012",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_00124",
-      "translations": {
-        "kn": "ಅವರು ತಮ್ಮ ಶರ್ಟ್ ಗಳ ಕೆಳಗೆ ಒಳ ಉಡುಪುಗಳನ್ನು ಧರಿಸುತ್ತಾರೆ.",
-        "ja": "彼らはシャツの下に下着を着ています。",
-        "romaji": "karera ha shatsu no shitani shitagi wo kite imasu .",
-        "hiragana": "かれらはしゃつのしたにしたぎをきています。"
-      },
-      "linked_words": [
-        {
-          "guid": "N09_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_012",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_031",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N09_012",
-      "minimum_level": 1
     }
   ],
   "source_language": "kn"

@@ -2,7 +2,7 @@
   "version": 1,
   "language": "lithuanian",
   "language_code": "lt",
-  "generated_at": "2026-04-23T20:04:01Z",
+  "generated_at": "2026-04-23T20:19:03Z",
   "source_language": "bengali",
   "source_language_code": "bn",
   "config": {
@@ -453,11 +453,11 @@
   "sentence_files": [
     {
       "id": "sentences",
-      "filename": "46e6dae9323635f93b5aaba10278f117.json",
+      "filename": "81716cb853b9052fcbc37252c5f005e5.json",
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "46e6dae9323635f93b5aaba10278f117",
+      "md5": "81716cb853b9052fcbc37252c5f005e5",
       "required": false
     }
   ],

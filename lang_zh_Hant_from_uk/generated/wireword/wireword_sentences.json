@@ -862,34 +862,6 @@
       "minimum_level": 1
     },
     {
-      "sentence_id": "S_00056",
-      "translations": {
-        "uk": "Мій друг відчуває солодкий присмак на хлібі.",
-        "zh": "我的朋友在面包上尝盐。",
-        "pinyin": "wǒ de péng yǒu zài miàn bāo shàng cháng yán 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N01_059",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N06_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V10_005",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N06_013",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N06_013",
-      "minimum_level": 17
-    },
-    {
       "sentence_id": "S_00058",
       "translations": {
         "uk": "Вони купують картоплю на ринку.",
@@ -1382,34 +1354,6 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": "S_00091",
-      "translations": {
-        "uk": "Мій друг знайшов мокрі штани.",
-        "zh": "我的朋友找到了湿裤子。",
-        "pinyin": "wǒ de péng yǒu zhǎo dào le shī kù zi 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N01_059",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_009",
-          "grammatical_form": null
-        },
-        {
-          "guid": "A18_011",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_002",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N09_002",
-      "minimum_level": 37
-    },
-    {
       "sentence_id": "S_00092",
       "translations": {
         "uk": "Чи у них є чисті штани?",
@@ -1626,30 +1570,6 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": "S_00103",
-      "translations": {
-        "uk": "Він втратив одне взуття, коли був зовні.",
-        "zh": "他在外面丢失了一只鞋。",
-        "pinyin": "tā zài wài miàn diū shī le yī zhī xié 。"
-      },
-      "linked_words": [
-        {
-          "guid": "D07_032",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_045",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_006",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N09_006",
-      "minimum_level": 17
-    },
-    {
       "sentence_id": "S_00104",
       "translations": {
         "uk": "Вони носять однакове взуття.",
@@ -1696,30 +1616,6 @@
       ],
       "source": "buivolas_guided_N09_007",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_00107",
-      "translations": {
-        "uk": "Вони знайшли мокрий шкарпеток.",
-        "zh": "他们找到了一只湿的袜子",
-        "pinyin": "tā men zhǎo dào le yī zhī shī de wà zi"
-      },
-      "linked_words": [
-        {
-          "guid": "V01_009",
-          "grammatical_form": null
-        },
-        {
-          "guid": "A18_011",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_007",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N09_007",
-      "minimum_level": 37
     },
     {
       "sentence_id": "S_00108",
@@ -2010,30 +1906,6 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": "S_00124",
-      "translations": {
-        "uk": "Вони носять нижню білизну під сорочками.",
-        "zh": "他们在衬衫下面穿内衣。",
-        "pinyin": "tā men zài chèn shān xià miàn chuān nèi yī 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N09_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_031",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_012",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N09_012",
-      "minimum_level": 1
-    },
-    {
       "sentence_id": "S_00125",
       "translations": {
         "uk": "Я кожного ранку снідаю.",
@@ -2056,30 +1928,6 @@
       ],
       "source": "buivolas_guided_V01_001",
       "minimum_level": 13
-    },
-    {
-      "sentence_id": "S_00126",
-      "translations": {
-        "uk": "Вона зараз їсть яблуко.",
-        "zh": "她现在吃苹果",
-        "pinyin": "tā xiàn zài chī píng guǒ"
-      },
-      "linked_words": [
-        {
-          "guid": "D07_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N06_015",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_V01_001",
-      "minimum_level": 37
     },
     {
       "sentence_id": "S_00127",
@@ -3892,30 +3740,6 @@
       ],
       "source": "buivolas_guided_N02_008",
       "minimum_level": 28
-    },
-    {
-      "sentence_id": "S_00244",
-      "translations": {
-        "uk": "Вона обережно відсунула мишку.",
-        "zh": "她轻轻地把老鼠移开了。",
-        "pinyin": "tā qīng qīng dì bǎ lǎo shǔ yí kāi le 。"
-      },
-      "linked_words": [
-        {
-          "guid": "D01_023",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N02_008",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V12_009",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N02_008",
-      "minimum_level": 19
     },
     {
       "sentence_id": "S_00246",
@@ -6422,26 +6246,6 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": "S_00411",
-      "translations": {
-        "uk": "Вони потиснули один одному руки після знайомства.",
-        "zh": "他们见面后握手。",
-        "pinyin": "tā men jiàn miàn hòu wò shǒu 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N24_024",
-          "grammatical_form": "verb/zh_base"
-        },
-        {
-          "guid": "V01_036",
-          "grammatical_form": "verb/zh_base"
-        }
-      ],
-      "source": "buivolas_guided_N03_014",
-      "minimum_level": 20
-    },
-    {
       "sentence_id": "S_00414",
       "translations": {
         "uk": "Він показує пальцем.",
@@ -6934,22 +6738,6 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": "S_00450",
-      "translations": {
-        "uk": "Вони зараз у школі.",
-        "zh": "他们在学校。",
-        "pinyin": "tā men zài xué xiào 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N07_002",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_V06_001",
-      "minimum_level": 1
-    },
-    {
       "sentence_id": "S_00452",
       "translations": {
         "uk": "Хліб теплий і свіжий.",
@@ -6972,30 +6760,6 @@
       ],
       "source": "buivolas_guided_V06_001",
       "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_00453",
-      "translations": {
-        "uk": "Я одягнена у свою синю сорочку.",
-        "zh": "我穿着我的蓝色衬衫。",
-        "pinyin": "wǒ chuān zhe wǒ de lán sè chèn shān 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V01_031",
-          "grammatical_form": null
-        },
-        {
-          "guid": "A02_004",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_001",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_V01_031",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00454",
@@ -7512,26 +7276,6 @@
       ],
       "source": "buivolas_guided_N37_008",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_00501",
-      "translations": {
-        "uk": "Вона тримає в руках морозиво у вафельному конусі на пляжі.",
-        "zh": "她在海滩上拿着一个圆锥体。",
-        "pinyin": "tā zài hǎi tān shàng ná zhe yí gè yuán zhuī tǐ 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N11_008",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N37_009",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N37_009",
-      "minimum_level": 18
     },
     {
       "sentence_id": "S_00503",
@@ -8114,30 +7858,6 @@
       "minimum_level": 5
     },
     {
-      "sentence_id": "S_00546",
-      "translations": {
-        "uk": "Вона побачила поліцейського біля школи.",
-        "zh": "她在学校附近看见一名警察。",
-        "pinyin": "tā zài xué xiào fù jìn kàn jiàn yī míng jǐng chá 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N07_002",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V10_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N36_019",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N36_019",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00547",
       "translations": {
         "uk": "Вони викликали поліцейського вчора ввечері.",
@@ -8566,30 +8286,6 @@
       "minimum_level": 5
     },
     {
-      "sentence_id": "S_00576",
-      "translations": {
-        "uk": "Цей чоловік працює в школі.",
-        "zh": "那个男人在学校工作。",
-        "pinyin": "nà gè nán rén zài xué xiào gōng zuò 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N01_055",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N07_002",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_007",
-          "grammatical_form": "verb/zh_base"
-        }
-      ],
-      "source": "buivolas_guided_N01_055",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00578",
       "translations": {
         "uk": "Жінка сидить біля вікна.",
@@ -8982,30 +8678,6 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": "S_00594",
-      "translations": {
-        "uk": "Ця людина працює в школі.",
-        "zh": "那个人在学校工作。",
-        "pinyin": "nà gè rén zài xué xiào gōng zuò 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N01_060",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N07_002",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_007",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N01_060",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00595",
       "translations": {
         "uk": "Ми бачили двох людей у магазині.",
@@ -9136,26 +8808,6 @@
       ],
       "source": "buivolas_guided_N01_062",
       "minimum_level": 5
-    },
-    {
-      "sentence_id": "S_00602",
-      "translations": {
-        "uk": "Будь-хто може побачити собаку.",
-        "zh": "任何人都可以看见这只狗。",
-        "pinyin": "rèn hé rén dōu kě yǐ kàn jiàn zhè zhǐ gǒu 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V10_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N02_001",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N01_062",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00603",
@@ -9518,30 +9170,6 @@
       "minimum_level": 21
     },
     {
-      "sentence_id": "S_00625",
-      "translations": {
-        "uk": "Я хочу чорну сорочку.",
-        "zh": "我想要一件黑色的衬衫。",
-        "pinyin": "wǒ xiǎng yào yī jiàn hēi sè de chèn shān 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V05_004",
-          "grammatical_form": null
-        },
-        {
-          "guid": "A02_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_001",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_V05_004",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00626",
       "translations": {
         "uk": "Вона хотіла більше хліба.",
@@ -9564,30 +9192,6 @@
       ],
       "source": "buivolas_guided_V05_004",
       "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_00627",
-      "translations": {
-        "uk": "Вони хочуть купити велосипед.",
-        "zh": "他们想要买一辆自行车。",
-        "pinyin": "tā men xiǎng yào mǎi yī liàng zì xíng chē 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V05_004",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V06_004",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N40_007",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_V05_004",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00628",
@@ -9690,30 +9294,6 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": "S_00632",
-      "translations": {
-        "uk": "У них є будинок білого кольору.",
-        "zh": "他们有一所白色的房子。",
-        "pinyin": "tā men yǒu yī suǒ bái sè de fáng zi 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V06_002",
-          "grammatical_form": null
-        },
-        {
-          "guid": "A02_002",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N07_001",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_V06_002",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00633",
       "translations": {
         "uk": "Зараз я заробляю пристойні гроші.",
@@ -9756,30 +9336,6 @@
       ],
       "source": "buivolas_guided_V06_004",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_00638",
-      "translations": {
-        "uk": "Вона купує нову сорочку.",
-        "zh": "她买一件新的衬衫。",
-        "pinyin": "tā mǎi yī jiàn xīn de chèn shān 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": null
-        },
-        {
-          "guid": "A05_035",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_001",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_V06_004",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00640",
@@ -9938,30 +9494,6 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": "S_00653",
-      "translations": {
-        "uk": "Сьогодні я працюю в школі.",
-        "zh": "我今天在学校工作。",
-        "pinyin": "wǒ jīn tiān zài xué xiào gōng zuò 。"
-      },
-      "linked_words": [
-        {
-          "guid": "D03_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N07_002",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_007",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_V01_007",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00654",
       "translations": {
         "uk": "Вона працює щоранку на кухні.",
@@ -10008,54 +9540,6 @@
       ],
       "source": "buivolas_guided_V01_007",
       "minimum_level": 5
-    },
-    {
-      "sentence_id": "S_00657",
-      "translations": {
-        "uk": "Я щоранку знаходжу свої ключі.",
-        "zh": "我每天早上都能找到我的钥匙。",
-        "pinyin": "wǒ měi tiān zǎo shàng dōu néng zhǎo dào wǒ de yào shi 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N25_004",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/zh_base"
-        },
-        {
-          "guid": "N08_006",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_V01_009",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_00659",
-      "translations": {
-        "uk": "Ми знайшли собаку в парку.",
-        "zh": "我们在公园找到狗。",
-        "pinyin": "wǒ men zài gōng yuán zhǎo dào gǒu 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N07_050",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_009",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N02_001",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_V01_009",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00661",
@@ -10240,30 +9724,6 @@
       ],
       "source": "buivolas_guided_N47_002",
       "minimum_level": 17
-    },
-    {
-      "sentence_id": "S_00672",
-      "translations": {
-        "uk": "Ми бачили птахів біля вікна.",
-        "zh": "我们在窗户看见了鸟。",
-        "pinyin": "wǒ men zài chuāng hù kàn jiàn le niǎo 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N47_002",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V10_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N02_003",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N47_002",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00677",
@@ -10490,30 +9950,6 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": "S_00696",
-      "translations": {
-        "uk": "Вони побачили червону троянду.",
-        "zh": "他们看见了一朵红色的玫瑰。",
-        "pinyin": "tā men kàn jiàn le yī duǒ hóng sè de méi guī 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V10_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "A02_003",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N05_005",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N05_005",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00697",
       "translations": {
         "uk": "Ми ходимо до церкви в неділю.",
@@ -10612,30 +10048,6 @@
       ],
       "source": "buivolas_guided_N07_012",
       "minimum_level": 17
-    },
-    {
-      "sentence_id": "S_00705",
-      "translations": {
-        "uk": "Вона купує хліб у пекарні.",
-        "zh": "她在面包店买面包。",
-        "pinyin": "tā zài miàn bāo diàn mǎi miàn bāo 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N07_013",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V06_004",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N06_001",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N07_013",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00706",
@@ -12354,30 +11766,6 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": "S_00838",
-      "translations": {
-        "uk": "Він купив пляшку вина.",
-        "zh": "他买了一瓶葡萄酒。",
-        "pinyin": "tā mǎi le yī píng pú táo jiǔ 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N08_012",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N42_005",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N42_005",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00840",
       "translations": {
         "uk": "Вони відкрили вино для вечірки.",
@@ -12424,30 +11812,6 @@
       ],
       "source": "buivolas_guided_N42_006",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00842",
-      "translations": {
-        "uk": "Вона купує молоко в магазині.",
-        "zh": "她在商店买牛奶。",
-        "pinyin": "tā zài shāng diàn mǎi niú nǎi 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N07_005",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V06_004",
-          "grammatical_form": "verb/zh_base"
-        },
-        {
-          "guid": "N42_006",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N42_006",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00843",
@@ -12772,30 +12136,6 @@
       ],
       "source": "buivolas_guided_N09_010",
       "minimum_level": 16
-    },
-    {
-      "sentence_id": "S_00857",
-      "translations": {
-        "uk": "Сьогодні вона одягнена в синю спідницю.",
-        "zh": "她今天穿着蓝色的裙子。",
-        "pinyin": "tā jīn tiān chuān zhe lán sè de qún zi 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V01_031",
-          "grammatical_form": null
-        },
-        {
-          "guid": "A02_004",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_013",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N09_013",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00858",
@@ -13322,30 +12662,6 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": "S_00929",
-      "translations": {
-        "uk": "Вона сьогодні купує сорочку з бавовни.",
-        "zh": "她今天买一件棉衬衫。",
-        "pinyin": "tā jīn tiān mǎi yī jiàn mián chèn shān 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N14_014",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_001",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N14_014",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00930",
       "translations": {
         "uk": "Мій друг знайшов бавовну на полі.",
@@ -13448,54 +12764,6 @@
       ],
       "source": "buivolas_guided_N14_016",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00941",
-      "translations": {
-        "uk": "Сьогодні він одягнений у шкіряну куртку.",
-        "zh": "他今天穿皮革夹克。",
-        "pinyin": "tā jīn tiān chuān pí gé jiá kè 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V01_031",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N14_017",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_005",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N14_017",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_00942",
-      "translations": {
-        "uk": "Вона купила шкіряну сумку вчора.",
-        "zh": "她昨天买了一个皮革包。",
-        "pinyin": "tā zuó tiān mǎi le yí gè pí gé bāo 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N14_017",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N08_009",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N14_017",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00945",
@@ -13708,30 +12976,6 @@
       ],
       "source": "buivolas_guided_N14_021",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00960",
-      "translations": {
-        "uk": "Вона знайшла цеглу неподалік школи.",
-        "zh": "她在学校附近找到一块砖块。",
-        "pinyin": "tā zài xué xiào fù jìn zhǎo dào yī kuài zhuān kuài 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N07_002",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_009",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N14_021",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N14_021",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00964",
@@ -14805,50 +14049,6 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": "S_01052",
-      "translations": {
-        "uk": "Він знайшов широкий капелюх.",
-        "zh": "他找到了一顶宽的帽子。",
-        "pinyin": "tā zhǎo dào le yī dǐng kuān de mào zi 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V01_009",
-          "grammatical_form": null
-        },
-        {
-          "guid": "A18_005",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_008",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_A18_005",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_01053",
-      "translations": {
-        "uk": "Сьогодні озеро дуже глибоке.",
-        "zh": "湖今天很深。",
-        "pinyin": "hú jīn tiān hěn shēn 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N11_005",
-          "grammatical_form": null
-        },
-        {
-          "guid": "A18_006",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_A18_006",
-      "minimum_level": 18
-    },
-    {
       "sentence_id": "S_01056",
       "translations": {
         "uk": "Вона чує глибокий голос.",
@@ -15319,30 +14519,6 @@
       ],
       "source": "buivolas_guided_A18_012",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_01082",
-      "translations": {
-        "uk": "Вони з'їли останній шматок хліба.",
-        "zh": "他们吃了最后的面包。",
-        "pinyin": "tā men chī le zuì hòu de miàn bāo 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V01_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "A15_011",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N06_001",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_A15_011",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_01084",
@@ -16633,30 +15809,6 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": "S_01193",
-      "translations": {
-        "uk": "Я бачив змію біля школи.",
-        "zh": "我在学校附近看见了一条蛇。",
-        "pinyin": "wǒ zài xué xiào fù jìn kàn jiàn le yī tiáo shé 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N07_002",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V10_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N02_014",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N02_014",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_01194",
       "translations": {
         "uk": "Вона боїться змії.",
@@ -16703,30 +15855,6 @@
       ],
       "source": "buivolas_guided_N02_014",
       "minimum_level": 9
-    },
-    {
-      "sentence_id": "S_01200",
-      "translations": {
-        "uk": "Слон пройшов біля нашого будинку.",
-        "zh": "大象在我们房子附近走过。",
-        "pinyin": "dà xiàng zài wǒ men fáng zi fù jìn zǒu guò 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N02_015",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N07_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V12_001",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N02_015",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_01201",
@@ -17207,77 +16335,6 @@
       ],
       "source": "buivolas_guided_N42_016",
       "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_01241",
-      "translations": {
-        "uk": "Вона купила відеокамеру вчора.",
-        "zh": "她昨天买了摄影机。",
-        "pinyin": "tā zuó tiān mǎi le shè yǐng jī 。"
-      },
-      "linked_words": [
-        {
-          "guid": "D03_002",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V06_004",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N42_018",
-      "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_01242",
-      "translations": {
-        "uk": "У нас є невелика відеокамера.",
-        "zh": "我们有一台小的摄影机。",
-        "pinyin": "wǒ men yǒu yī tái xiǎo de shè yǐng jī 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V06_002",
-          "grammatical_form": null
-        },
-        {
-          "guid": "A01_002",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N42_018",
-      "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_01243",
-      "translations": {
-        "uk": "Він поклав відеокамеру.",
-        "zh": "他把摄影机放下。",
-        "pinyin": "tā bǎ shè yǐng jī fàng xià 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V01_010",
-          "grammatical_form": null
-        },
-        {
-          "guid": "D07_027",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N42_018",
-      "minimum_level": 9
-    },
-    {
-      "sentence_id": "S_01250",
-      "translations": {
-        "uk": "О восьмій у четвер вранці Артур почувався не дуже добре.",
-        "zh": "星期四早上八点，亚瑟感觉不太好。",
-        "pinyin": "xīng qī sì zǎo shàng bā diǎn ， yà sè gǎn jué bù tài hǎo 。"
-      },
-      "linked_words": [],
-      "source": "testdata_H2G2_test.txt",
-      "minimum_level": 37
     }
   ],
   "source_language": "uk"

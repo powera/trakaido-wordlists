@@ -862,34 +862,6 @@
       "minimum_level": 1
     },
     {
-      "sentence_id": "S_00056",
-      "translations": {
-        "bn": "আমার বন্ধু রুটিতে লবণ অনুভব করছে।",
-        "zh": "我的朋友在面包上尝盐。",
-        "pinyin": "wǒ de péng yǒu zài miàn bāo shàng cháng yán 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N01_059",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N06_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V10_005",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N06_013",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N06_013",
-      "minimum_level": 17
-    },
-    {
       "sentence_id": "S_00058",
       "translations": {
         "bn": "তারা বাজারে আলু কেনে।",
@@ -1382,34 +1354,6 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": "S_00091",
-      "translations": {
-        "bn": "আমার বন্ধু ভেজা প্যান্ট খুঁজে পেয়েছে।",
-        "zh": "我的朋友找到了湿裤子。",
-        "pinyin": "wǒ de péng yǒu zhǎo dào le shī kù zi 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N01_059",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_009",
-          "grammatical_form": null
-        },
-        {
-          "guid": "A18_011",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_002",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N09_002",
-      "minimum_level": 37
-    },
-    {
       "sentence_id": "S_00092",
       "translations": {
         "bn": "তাদের কাছে কি পরিষ্কার প্যান্ট আছে?",
@@ -1626,30 +1570,6 @@
       "minimum_level": 3
     },
     {
-      "sentence_id": "S_00103",
-      "translations": {
-        "bn": "সে বাইরে একটি জুতা হারিয়ে ফেলেছে।",
-        "zh": "他在外面丢失了一只鞋。",
-        "pinyin": "tā zài wài miàn diū shī le yī zhī xié 。"
-      },
-      "linked_words": [
-        {
-          "guid": "D07_032",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_045",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_006",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N09_006",
-      "minimum_level": 17
-    },
-    {
       "sentence_id": "S_00104",
       "translations": {
         "bn": "তারা একই ধরনের জুতো পরে।",
@@ -1696,30 +1616,6 @@
       ],
       "source": "buivolas_guided_N09_007",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_00107",
-      "translations": {
-        "bn": "তারা একটি ভেজা মোজা খুঁজে পেয়েছে।",
-        "zh": "他们找到了一只湿的袜子",
-        "pinyin": "tā men zhǎo dào le yī zhī shī de wà zi"
-      },
-      "linked_words": [
-        {
-          "guid": "V01_009",
-          "grammatical_form": null
-        },
-        {
-          "guid": "A18_011",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_007",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N09_007",
-      "minimum_level": 37
     },
     {
       "sentence_id": "S_00108",
@@ -2010,30 +1906,6 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": "S_00124",
-      "translations": {
-        "bn": "তারা তাদের শার্টের নিচে অন্তর্বাস পরে।",
-        "zh": "他们在衬衫下面穿内衣。",
-        "pinyin": "tā men zài chèn shān xià miàn chuān nèi yī 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N09_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_031",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_012",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N09_012",
-      "minimum_level": 1
-    },
-    {
       "sentence_id": "S_00125",
       "translations": {
         "bn": "আমি প্রতিদিন সকালে নাস্তা করি।",
@@ -2056,30 +1928,6 @@
       ],
       "source": "buivolas_guided_V01_001",
       "minimum_level": 13
-    },
-    {
-      "sentence_id": "S_00126",
-      "translations": {
-        "bn": "সে এখন একটি আপেল খাচ্ছে।",
-        "zh": "她现在吃苹果",
-        "pinyin": "tā xiàn zài chī píng guǒ"
-      },
-      "linked_words": [
-        {
-          "guid": "D07_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N06_015",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_V01_001",
-      "minimum_level": 37
     },
     {
       "sentence_id": "S_00127",
@@ -3892,30 +3740,6 @@
       ],
       "source": "buivolas_guided_N02_008",
       "minimum_level": 28
-    },
-    {
-      "sentence_id": "S_00244",
-      "translations": {
-        "bn": "তিনি খুব সাবধানে মাউসটি সরিয়ে নিলেন।",
-        "zh": "她轻轻地把老鼠移开了。",
-        "pinyin": "tā qīng qīng dì bǎ lǎo shǔ yí kāi le 。"
-      },
-      "linked_words": [
-        {
-          "guid": "D01_023",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N02_008",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V12_009",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N02_008",
-      "minimum_level": 19
     },
     {
       "sentence_id": "S_00246",
@@ -6422,26 +6246,6 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": "S_00411",
-      "translations": {
-        "bn": "তাদের সাক্ষাতের পর তারা একে অপরের সাথে হাত মেলালেন।",
-        "zh": "他们见面后握手。",
-        "pinyin": "tā men jiàn miàn hòu wò shǒu 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N24_024",
-          "grammatical_form": "verb/zh_base"
-        },
-        {
-          "guid": "V01_036",
-          "grammatical_form": "verb/zh_base"
-        }
-      ],
-      "source": "buivolas_guided_N03_014",
-      "minimum_level": 20
-    },
-    {
       "sentence_id": "S_00414",
       "translations": {
         "bn": "তিনি তার আঙুল দিয়ে কোনো কিছুর দিকে নির্দেশ করছেন।",
@@ -6934,22 +6738,6 @@
       "minimum_level": 4
     },
     {
-      "sentence_id": "S_00450",
-      "translations": {
-        "bn": "তারা স্কুলে আছে।",
-        "zh": "他们在学校。",
-        "pinyin": "tā men zài xué xiào 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N07_002",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_V06_001",
-      "minimum_level": 1
-    },
-    {
       "sentence_id": "S_00452",
       "translations": {
         "bn": "রুটিটি গরম এবং তাজা।",
@@ -6972,30 +6760,6 @@
       ],
       "source": "buivolas_guided_V06_001",
       "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_00453",
-      "translations": {
-        "bn": "আমি আমার নীল রঙের শার্টটি পরি।",
-        "zh": "我穿着我的蓝色衬衫。",
-        "pinyin": "wǒ chuān zhe wǒ de lán sè chèn shān 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V01_031",
-          "grammatical_form": null
-        },
-        {
-          "guid": "A02_004",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_001",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_V01_031",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00454",
@@ -7512,26 +7276,6 @@
       ],
       "source": "buivolas_guided_N37_008",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_00501",
-      "translations": {
-        "bn": "তিনি সৈকতে একটি শঙ্কু আকৃতির জিনিস ধরে রেখেছেন।",
-        "zh": "她在海滩上拿着一个圆锥体。",
-        "pinyin": "tā zài hǎi tān shàng ná zhe yí gè yuán zhuī tǐ 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N11_008",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N37_009",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N37_009",
-      "minimum_level": 18
     },
     {
       "sentence_id": "S_00503",
@@ -8114,30 +7858,6 @@
       "minimum_level": 5
     },
     {
-      "sentence_id": "S_00546",
-      "translations": {
-        "bn": "সে স্কুলের কাছে একজন পুলিশ অফিসারকে দেখতে পেয়েছিল।",
-        "zh": "她在学校附近看见一名警察。",
-        "pinyin": "tā zài xué xiào fù jìn kàn jiàn yī míng jǐng chá 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N07_002",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V10_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N36_019",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N36_019",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00547",
       "translations": {
         "bn": "তারা গতকাল রাতে একজন পুলিশ কর্মকর্তাকে খবর দিয়েছিলেন।",
@@ -8566,30 +8286,6 @@
       "minimum_level": 5
     },
     {
-      "sentence_id": "S_00576",
-      "translations": {
-        "bn": "ঐ লোকটি স্কুলে কাজ করে।",
-        "zh": "那个男人在学校工作。",
-        "pinyin": "nà gè nán rén zài xué xiào gōng zuò 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N01_055",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N07_002",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_007",
-          "grammatical_form": "verb/zh_base"
-        }
-      ],
-      "source": "buivolas_guided_N01_055",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00578",
       "translations": {
         "bn": "একজন মহিলা জানালার পাশে বসে আছেন।",
@@ -8982,30 +8678,6 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": "S_00594",
-      "translations": {
-        "bn": "ঐ ব্যক্তিটি স্কুলে কাজ করেন।",
-        "zh": "那个人在学校工作。",
-        "pinyin": "nà gè rén zài xué xiào gōng zuò 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N01_060",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N07_002",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_007",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N01_060",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00595",
       "translations": {
         "bn": "আমরা দোকানে দুজন লোককে দেখেছি।",
@@ -9136,26 +8808,6 @@
       ],
       "source": "buivolas_guided_N01_062",
       "minimum_level": 5
-    },
-    {
-      "sentence_id": "S_00602",
-      "translations": {
-        "bn": "যে কেউ কুকুরটিকে দেখতে পারবে।",
-        "zh": "任何人都可以看见这只狗。",
-        "pinyin": "rèn hé rén dōu kě yǐ kàn jiàn zhè zhǐ gǒu 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V10_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N02_001",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N01_062",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00603",
@@ -9518,30 +9170,6 @@
       "minimum_level": 21
     },
     {
-      "sentence_id": "S_00625",
-      "translations": {
-        "bn": "আমি একটি কালো রঙের শার্ট চাই।",
-        "zh": "我想要一件黑色的衬衫。",
-        "pinyin": "wǒ xiǎng yào yī jiàn hēi sè de chèn shān 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V05_004",
-          "grammatical_form": null
-        },
-        {
-          "guid": "A02_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_001",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_V05_004",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00626",
       "translations": {
         "bn": "সে আরও রুটি চেয়েছিল।",
@@ -9564,30 +9192,6 @@
       ],
       "source": "buivolas_guided_V05_004",
       "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_00627",
-      "translations": {
-        "bn": "তারা একটি সাইকেল কিনতে চায়।",
-        "zh": "他们想要买一辆自行车。",
-        "pinyin": "tā men xiǎng yào mǎi yī liàng zì xíng chē 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V05_004",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V06_004",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N40_007",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_V05_004",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00628",
@@ -9690,30 +9294,6 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": "S_00632",
-      "translations": {
-        "bn": "তাদের একটি সাদা রঙের বাড়ি আছে।",
-        "zh": "他们有一所白色的房子。",
-        "pinyin": "tā men yǒu yī suǒ bái sè de fáng zi 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V06_002",
-          "grammatical_form": null
-        },
-        {
-          "guid": "A02_002",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N07_001",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_V06_002",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00633",
       "translations": {
         "bn": "বর্তমানে আমি ভালো রোজগার করছি।",
@@ -9756,30 +9336,6 @@
       ],
       "source": "buivolas_guided_V06_004",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_00638",
-      "translations": {
-        "bn": "সে একটি নতুন শার্ট কেনে।",
-        "zh": "她买一件新的衬衫。",
-        "pinyin": "tā mǎi yī jiàn xīn de chèn shān 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": null
-        },
-        {
-          "guid": "A05_035",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_001",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_V06_004",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00640",
@@ -9938,30 +9494,6 @@
       "minimum_level": 6
     },
     {
-      "sentence_id": "S_00653",
-      "translations": {
-        "bn": "আজ আমি স্কুলে কাজ করছি।",
-        "zh": "我今天在学校工作。",
-        "pinyin": "wǒ jīn tiān zài xué xiào gōng zuò 。"
-      },
-      "linked_words": [
-        {
-          "guid": "D03_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N07_002",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_007",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_V01_007",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00654",
       "translations": {
         "bn": "তিনি প্রতিদিন সকালে রান্নাঘরে কাজ করেন।",
@@ -10008,54 +9540,6 @@
       ],
       "source": "buivolas_guided_V01_007",
       "minimum_level": 5
-    },
-    {
-      "sentence_id": "S_00657",
-      "translations": {
-        "bn": "আমি প্রতিদিন সকালে আমার चाবিগুলো খুঁজে পাই।",
-        "zh": "我每天早上都能找到我的钥匙。",
-        "pinyin": "wǒ měi tiān zǎo shàng dōu néng zhǎo dào wǒ de yào shi 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N25_004",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/zh_base"
-        },
-        {
-          "guid": "N08_006",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_V01_009",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_00659",
-      "translations": {
-        "bn": "আমরা পার্কে কুকুরটিকে খুঁজে পাই।",
-        "zh": "我们在公园找到狗。",
-        "pinyin": "wǒ men zài gōng yuán zhǎo dào gǒu 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N07_050",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_009",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N02_001",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_V01_009",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00661",
@@ -10240,30 +9724,6 @@
       ],
       "source": "buivolas_guided_N47_002",
       "minimum_level": 17
-    },
-    {
-      "sentence_id": "S_00672",
-      "translations": {
-        "bn": "আমরা জানালায় পাখি দেখতে পেয়েছিলাম।",
-        "zh": "我们在窗户看见了鸟。",
-        "pinyin": "wǒ men zài chuāng hù kàn jiàn le niǎo 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N47_002",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V10_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N02_003",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N47_002",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00677",
@@ -10490,30 +9950,6 @@
       "minimum_level": 17
     },
     {
-      "sentence_id": "S_00696",
-      "translations": {
-        "bn": "তারা একটি লাল গোলাপ দেখেছিল।",
-        "zh": "他们看见了一朵红色的玫瑰。",
-        "pinyin": "tā men kàn jiàn le yī duǒ hóng sè de méi guī 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V10_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "A02_003",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N05_005",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N05_005",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00697",
       "translations": {
         "bn": "রবিবার আমরা হেঁটে গির্জায় যাই।",
@@ -10612,30 +10048,6 @@
       ],
       "source": "buivolas_guided_N07_012",
       "minimum_level": 17
-    },
-    {
-      "sentence_id": "S_00705",
-      "translations": {
-        "bn": "তিনি বেকারিতে রুটি কেনেন।",
-        "zh": "她在面包店买面包。",
-        "pinyin": "tā zài miàn bāo diàn mǎi miàn bāo 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N07_013",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V06_004",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N06_001",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N07_013",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00706",
@@ -12354,30 +11766,6 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": "S_00838",
-      "translations": {
-        "bn": "তিনি একটি বোতল ওয়াইন কিনেছেন।",
-        "zh": "他买了一瓶葡萄酒。",
-        "pinyin": "tā mǎi le yī píng pú táo jiǔ 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N08_012",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N42_005",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N42_005",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00840",
       "translations": {
         "bn": "তারা অনুষ্ঠানের জন্য ওয়াইন খুললেন।",
@@ -12424,30 +11812,6 @@
       ],
       "source": "buivolas_guided_N42_006",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00842",
-      "translations": {
-        "bn": "সে দোকান থেকে দুধ কেনে।",
-        "zh": "她在商店买牛奶。",
-        "pinyin": "tā zài shāng diàn mǎi niú nǎi 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N07_005",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V06_004",
-          "grammatical_form": "verb/zh_base"
-        },
-        {
-          "guid": "N42_006",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N42_006",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00843",
@@ -12772,30 +12136,6 @@
       ],
       "source": "buivolas_guided_N09_010",
       "minimum_level": 16
-    },
-    {
-      "sentence_id": "S_00857",
-      "translations": {
-        "bn": "আজ তিনি একটি নীল স্কার্ট পরে আছেন।",
-        "zh": "她今天穿着蓝色的裙子。",
-        "pinyin": "tā jīn tiān chuān zhe lán sè de qún zi 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V01_031",
-          "grammatical_form": null
-        },
-        {
-          "guid": "A02_004",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_013",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N09_013",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00858",
@@ -13322,30 +12662,6 @@
       "minimum_level": 8
     },
     {
-      "sentence_id": "S_00929",
-      "translations": {
-        "bn": "সে আজ একটি কটন শার্ট কিনছে।",
-        "zh": "她今天买一件棉衬衫。",
-        "pinyin": "tā jīn tiān mǎi yī jiàn mián chèn shān 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N14_014",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_001",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N14_014",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_00930",
       "translations": {
         "bn": "আমার বন্ধু ক্ষেতে তুলার সন্ধান পেয়েছে।",
@@ -13448,54 +12764,6 @@
       ],
       "source": "buivolas_guided_N14_016",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00941",
-      "translations": {
-        "bn": "আজ তিনি চামড়ার জ্যাকেট পরে আছেন।",
-        "zh": "他今天穿皮革夹克。",
-        "pinyin": "tā jīn tiān chuān pí gé jiá kè 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V01_031",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N14_017",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_005",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N14_017",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_00942",
-      "translations": {
-        "bn": "তিনি গতকাল একটি চামড়ার ব্যাগ কিনেছেন।",
-        "zh": "她昨天买了一个皮革包。",
-        "pinyin": "tā zuó tiān mǎi le yí gè pí gé bāo 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N14_017",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N08_009",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N14_017",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00945",
@@ -13708,30 +12976,6 @@
       ],
       "source": "buivolas_guided_N14_021",
       "minimum_level": 8
-    },
-    {
-      "sentence_id": "S_00960",
-      "translations": {
-        "bn": "সে স্কুলের কাছাকাছি একটি ইটের সন্ধান পায়।",
-        "zh": "她在学校附近找到一块砖块。",
-        "pinyin": "tā zài xué xiào fù jìn zhǎo dào yī kuài zhuān kuài 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N07_002",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V01_009",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N14_021",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N14_021",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_00964",
@@ -14805,50 +14049,6 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": "S_01052",
-      "translations": {
-        "bn": "তিনি একটি বড় আকারের টুপি খুঁজে পেলেন।",
-        "zh": "他找到了一顶宽的帽子。",
-        "pinyin": "tā zhǎo dào le yī dǐng kuān de mào zi 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V01_009",
-          "grammatical_form": null
-        },
-        {
-          "guid": "A18_005",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N09_008",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_A18_005",
-      "minimum_level": 3
-    },
-    {
-      "sentence_id": "S_01053",
-      "translations": {
-        "bn": "আজ হ্রদটি বেশ গভীর।",
-        "zh": "湖今天很深。",
-        "pinyin": "hú jīn tiān hěn shēn 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N11_005",
-          "grammatical_form": null
-        },
-        {
-          "guid": "A18_006",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_A18_006",
-      "minimum_level": 18
-    },
-    {
       "sentence_id": "S_01056",
       "translations": {
         "bn": "সে একটি গভীর কণ্ঠস্বর শুনতে পায়।",
@@ -15319,30 +14519,6 @@
       ],
       "source": "buivolas_guided_A18_012",
       "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_01082",
-      "translations": {
-        "bn": "তারা শেষ রুটিটি খেয়ে ফেলেছে।",
-        "zh": "他们吃了最后的面包。",
-        "pinyin": "tā men chī le zuì hòu de miàn bāo 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V01_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "A15_011",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N06_001",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_A15_011",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_01084",
@@ -16633,30 +15809,6 @@
       "minimum_level": 9
     },
     {
-      "sentence_id": "S_01193",
-      "translations": {
-        "bn": "আমি স্কুলের কাছাকাছি একটি সাপ দেখেছিলাম।",
-        "zh": "我在学校附近看见了一条蛇。",
-        "pinyin": "wǒ zài xué xiào fù jìn kàn jiàn le yī tiáo shé 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N07_002",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V10_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N02_014",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N02_014",
-      "minimum_level": 3
-    },
-    {
       "sentence_id": "S_01194",
       "translations": {
         "bn": "সে সাপের ভয় পায়।",
@@ -16703,30 +15855,6 @@
       ],
       "source": "buivolas_guided_N02_014",
       "minimum_level": 9
-    },
-    {
-      "sentence_id": "S_01200",
-      "translations": {
-        "bn": "হাতিটি আমাদের বাড়ির কাছাকাছি দিয়ে হেঁটে যাচ্ছিল।",
-        "zh": "大象在我们房子附近走过。",
-        "pinyin": "dà xiàng zài wǒ men fáng zi fù jìn zǒu guò 。"
-      },
-      "linked_words": [
-        {
-          "guid": "N02_015",
-          "grammatical_form": null
-        },
-        {
-          "guid": "N07_001",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V12_001",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N02_015",
-      "minimum_level": 3
     },
     {
       "sentence_id": "S_01201",
@@ -17207,66 +16335,6 @@
       ],
       "source": "buivolas_guided_N42_016",
       "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_01241",
-      "translations": {
-        "bn": "তিনি গতকাল একটি ভিডিও ক্যামেরা কিনেছেন।",
-        "zh": "她昨天买了摄影机。",
-        "pinyin": "tā zuó tiān mǎi le shè yǐng jī 。"
-      },
-      "linked_words": [
-        {
-          "guid": "D03_002",
-          "grammatical_form": null
-        },
-        {
-          "guid": "V06_004",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N42_018",
-      "minimum_level": 4
-    },
-    {
-      "sentence_id": "S_01242",
-      "translations": {
-        "bn": "আমাদের কাছে একটি ছোট ভিডিও ক্যামেরা আছে।",
-        "zh": "我们有一台小的摄影机。",
-        "pinyin": "wǒ men yǒu yī tái xiǎo de shè yǐng jī 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V06_002",
-          "grammatical_form": null
-        },
-        {
-          "guid": "A01_002",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N42_018",
-      "minimum_level": 6
-    },
-    {
-      "sentence_id": "S_01243",
-      "translations": {
-        "bn": "তিনি ভিডিও ক্যামেরাটি নিচে রাখলেন।",
-        "zh": "他把摄影机放下。",
-        "pinyin": "tā bǎ shè yǐng jī fàng xià 。"
-      },
-      "linked_words": [
-        {
-          "guid": "V01_010",
-          "grammatical_form": null
-        },
-        {
-          "guid": "D07_027",
-          "grammatical_form": null
-        }
-      ],
-      "source": "buivolas_guided_N42_018",
-      "minimum_level": 9
     }
   ],
   "source_language": "bn"
