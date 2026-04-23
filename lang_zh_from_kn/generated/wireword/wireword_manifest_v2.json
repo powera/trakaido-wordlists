@@ -2,7 +2,7 @@
   "version": 1,
   "language": "chinese",
   "language_code": "zh",
-  "generated_at": "2026-04-23T20:19:19Z",
+  "generated_at": "2026-04-23T21:20:11Z",
   "source_language": "kannada",
   "source_language_code": "kn",
   "config": {
@@ -169,10 +169,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "8de633ec94c6dd6e712f92c4ca6ffaca.json",
+      "filename": "b00db37140acf6cbc4af411070940107.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "8de633ec94c6dd6e712f92c4ca6ffaca",
+      "md5": "b00db37140acf6cbc4af411070940107",
       "levels": [
         16,
         17,
@@ -231,11 +231,11 @@
   "sentence_files": [
     {
       "id": "sentences",
-      "filename": "9d51ee3b34c5bcc16a4c67df1cbf7544.json",
+      "filename": "fb0a3743665c60e2d45100337ce3f3ea.json",
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "9d51ee3b34c5bcc16a4c67df1cbf7544",
+      "md5": "fb0a3743665c60e2d45100337ce3f3ea",
       "required": false
     }
   ],
