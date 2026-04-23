@@ -2,7 +2,7 @@
   "version": 1,
   "language": "portuguese",
   "language_code": "pt",
-  "generated_at": "2026-04-12T17:33:54Z",
+  "generated_at": "2026-04-23T20:04:50Z",
   "source_language": "polish",
   "source_language_code": "pl",
   "config": {
@@ -73,10 +73,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "9573abfc40788668cfeaaefa4d101539.json",
+      "filename": "44bb48405766873e37f50cb67aeb5607.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "9573abfc40788668cfeaaefa4d101539",
+      "md5": "44bb48405766873e37f50cb67aeb5607",
       "levels": [
         1,
         2,
@@ -111,10 +111,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "3b7431210e3b9fb0a7c5c36d3ff236d1.json",
+      "filename": "909d1b7518f48e3e354f940290bb00b4.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "3b7431210e3b9fb0a7c5c36d3ff236d1",
+      "md5": "909d1b7518f48e3e354f940290bb00b4",
       "levels": [
         6,
         7,

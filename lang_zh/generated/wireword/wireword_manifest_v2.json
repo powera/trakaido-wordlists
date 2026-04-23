@@ -2,7 +2,7 @@
   "version": 1,
   "language": "chinese",
   "language_code": "zh",
-  "generated_at": "2026-04-12T17:33:07Z",
+  "generated_at": "2026-04-23T20:03:28Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -68,10 +68,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "f8b4500a4b7014465103220a938f3b67.json",
+      "filename": "84e374f3dac50ef6a74f0319f8182c14.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "f8b4500a4b7014465103220a938f3b67",
+      "md5": "84e374f3dac50ef6a74f0319f8182c14",
       "levels": [
         6,
         7,
@@ -121,10 +121,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "b5799535f70d147e625bc052293e80af.json",
+      "filename": "33fdd2e99d48b2091a9a28718d4ff191.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "b5799535f70d147e625bc052293e80af",
+      "md5": "33fdd2e99d48b2091a9a28718d4ff191",
       "levels": [
         11,
         12,
@@ -167,10 +167,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "96c7857703a8f25756df8b333e581acd.json",
+      "filename": "55ae9a5f162d55e85ee068d5a3f44a9c.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "96c7857703a8f25756df8b333e581acd",
+      "md5": "55ae9a5f162d55e85ee068d5a3f44a9c",
       "levels": [
         16,
         17,

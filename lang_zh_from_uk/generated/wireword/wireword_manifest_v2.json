@@ -2,7 +2,7 @@
   "version": 1,
   "language": "chinese",
   "language_code": "zh",
-  "generated_at": "2026-04-12T17:33:17Z",
+  "generated_at": "2026-04-23T20:03:45Z",
   "source_language": "ukrainian",
   "source_language_code": "uk",
   "config": {
@@ -70,10 +70,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "3de489108dbc6c18939b90e963259667.json",
+      "filename": "7a06fc6ef1d43da0f7fea1475acdb2f4.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "3de489108dbc6c18939b90e963259667",
+      "md5": "7a06fc6ef1d43da0f7fea1475acdb2f4",
       "levels": [
         6,
         7,
@@ -123,10 +123,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "bd3b250f7d12a217c1813694643adf3d.json",
+      "filename": "a157a94040bac85ab18e75a0eb5f6d5c.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "bd3b250f7d12a217c1813694643adf3d",
+      "md5": "a157a94040bac85ab18e75a0eb5f6d5c",
       "levels": [
         11,
         12,
@@ -169,10 +169,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "54e8f5a906cefcb616b69381436de95e.json",
+      "filename": "4907f4ff256b09b41ab2001de3b84d4e.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "54e8f5a906cefcb616b69381436de95e",
+      "md5": "4907f4ff256b09b41ab2001de3b84d4e",
       "levels": [
         16,
         17,

@@ -2,7 +2,7 @@
   "version": 1,
   "language": "dutch",
   "language_code": "nl",
-  "generated_at": "2026-04-12T17:33:13Z",
+  "generated_at": "2026-04-23T20:03:38Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [],
@@ -71,10 +71,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "96cd4d37a4738c32048b550296fd06ca.json",
+      "filename": "dc983db2f8b0783a0250c55172312633.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "96cd4d37a4738c32048b550296fd06ca",
+      "md5": "dc983db2f8b0783a0250c55172312633",
       "levels": [
         1,
         2,
@@ -109,10 +109,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "e3fe4da5dab24a76aa1d196f5b7cbd61.json",
+      "filename": "5365bb4d5b81cacc8aa57461e4904dc8.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "e3fe4da5dab24a76aa1d196f5b7cbd61",
+      "md5": "5365bb4d5b81cacc8aa57461e4904dc8",
       "levels": [
         6,
         7,

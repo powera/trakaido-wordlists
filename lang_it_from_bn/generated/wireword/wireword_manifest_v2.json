@@ -2,7 +2,7 @@
   "version": 1,
   "language": "italian",
   "language_code": "it",
-  "generated_at": "2026-04-12T17:33:32Z",
+  "generated_at": "2026-04-23T20:04:12Z",
   "source_language": "bengali",
   "source_language_code": "bn",
   "config": {
@@ -73,10 +73,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "5ec265de49aef77f5ef1b437fcf65ce9.json",
+      "filename": "37da81b0c5f2fedf2dadd36cc9b911a4.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "5ec265de49aef77f5ef1b437fcf65ce9",
+      "md5": "37da81b0c5f2fedf2dadd36cc9b911a4",
       "levels": [
         1,
         2,
@@ -111,10 +111,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "ed23c33fed2e6e077f5428075c5a6e73.json",
+      "filename": "0b57eb4a7c4a78133c0fc92bf98a6ddc.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "ed23c33fed2e6e077f5428075c5a6e73",
+      "md5": "0b57eb4a7c4a78133c0fc92bf98a6ddc",
       "levels": [
         6,
         7,

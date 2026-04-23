@@ -2,7 +2,7 @@
   "version": 1,
   "language": "italian",
   "language_code": "it",
-  "generated_at": "2026-04-12T17:33:12Z",
+  "generated_at": "2026-04-23T20:03:37Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [],
@@ -71,10 +71,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "d7601364e4226a652d499cc563cbecc2.json",
+      "filename": "605c0ae9d79403f48687348a03a487f9.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "d7601364e4226a652d499cc563cbecc2",
+      "md5": "605c0ae9d79403f48687348a03a487f9",
       "levels": [
         1,
         2,
@@ -109,10 +109,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "e19d0ccbc0ce3f3b70194b21c8ae6bf8.json",
+      "filename": "1dcf9ce99898022e0b060b2b3f819a84.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "e19d0ccbc0ce3f3b70194b21c8ae6bf8",
+      "md5": "1dcf9ce99898022e0b060b2b3f819a84",
       "levels": [
         6,
         7,

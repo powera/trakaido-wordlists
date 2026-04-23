@@ -2,7 +2,7 @@
   "version": 1,
   "language": "french",
   "language_code": "fr",
-  "generated_at": "2026-04-12T17:33:30Z",
+  "generated_at": "2026-04-23T20:04:07Z",
   "source_language": "bengali",
   "source_language_code": "bn",
   "config": {
@@ -129,10 +129,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "394434804ff2137aba0bde674a049726.json",
+      "filename": "75dccb4010c01726141b81ce58e0a113.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "394434804ff2137aba0bde674a049726",
+      "md5": "75dccb4010c01726141b81ce58e0a113",
       "levels": [
         6,
         7,
@@ -182,10 +182,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "30b78344590ec0047ce832cf2b983528.json",
+      "filename": "492b1239670ca133d142ede46607f270.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "30b78344590ec0047ce832cf2b983528",
+      "md5": "492b1239670ca133d142ede46607f270",
       "levels": [
         11,
         12,
@@ -228,10 +228,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "a9e0bd32d68b22caa7f06980227c562b.json",
+      "filename": "32367a70461649141dfbd3f3ff07ce35.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "a9e0bd32d68b22caa7f06980227c562b",
+      "md5": "32367a70461649141dfbd3f3ff07ce35",
       "levels": [
         16,
         17,

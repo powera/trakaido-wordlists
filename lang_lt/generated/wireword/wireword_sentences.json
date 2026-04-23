@@ -473,7 +473,7 @@
         }
       ],
       "source": "buivolas_guided_N07_009",
-      "minimum_level": 2,
+      "minimum_level": 17,
       "audio": {
         "ruta": "d1cbae759bd646121ac18eee2a2b3fe6",
         "jonas": "d21071b9f0ee792da50b5344ac8f4578"
@@ -2645,7 +2645,7 @@
         }
       ],
       "source": "buivolas_guided_N40_008",
-      "minimum_level": 17,
+      "minimum_level": 18,
       "audio": {
         "ruta": "19ba4972f02f3ad89356d42a1eda12cb",
         "jonas": "ce148ed8f9abb8e285de7dec015c3eae"
@@ -4366,7 +4366,7 @@
         }
       ],
       "source": "buivolas_guided_N02_008",
-      "minimum_level": 21,
+      "minimum_level": 28,
       "audio": {
         "ruta": "3f4c8902c30520db52409cb9a105604e",
         "jonas": "0934a4c5189c80d009a2394ab5f77443"
@@ -7635,7 +7635,7 @@
         }
       ],
       "source": "buivolas_guided_V01_031",
-      "minimum_level": 3
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00457",
@@ -7726,7 +7726,7 @@
         }
       ],
       "source": "buivolas_guided_V10_002",
-      "minimum_level": 3
+      "minimum_level": 29
     },
     {
       "sentence_id": "S_00467",
@@ -8347,7 +8347,7 @@
         }
       ],
       "source": "buivolas_guided_V12_001",
-      "minimum_level": 3
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00522",
@@ -8370,7 +8370,7 @@
         }
       ],
       "source": "buivolas_guided_V12_001",
-      "minimum_level": 3
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00523",
@@ -8573,7 +8573,7 @@
         }
       ],
       "source": "buivolas_guided_N36_014",
-      "minimum_level": 3
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00537",
@@ -9859,7 +9859,7 @@
         }
       ],
       "source": "buivolas_guided_V01_014",
-      "minimum_level": 3
+      "minimum_level": 11
     },
     {
       "sentence_id": "S_00616",
@@ -10119,7 +10119,7 @@
         }
       ],
       "source": "buivolas_guided_V06_002",
-      "minimum_level": 3
+      "minimum_level": 6
     },
     {
       "sentence_id": "S_00630",
@@ -10238,7 +10238,7 @@
         }
       ],
       "source": "buivolas_guided_V06_004",
-      "minimum_level": 3
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00638",
@@ -10896,7 +10896,7 @@
         }
       ],
       "source": "buivolas_guided_N05_003",
-      "minimum_level": 3
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00690",
@@ -12899,7 +12899,7 @@
         }
       ],
       "source": "buivolas_guided_N42_007",
-      "minimum_level": 3
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00847",
@@ -15080,7 +15080,7 @@
         }
       ],
       "source": "buivolas_guided_A18_005",
-      "minimum_level": 3
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01051",
@@ -15514,7 +15514,7 @@
         }
       ],
       "source": "buivolas_guided_A18_011",
-      "minimum_level": 3
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_01076",
@@ -17699,6 +17699,16 @@
       },
       "linked_words": [],
       "source": "testdata_H2G2_test.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01269",
+      "translations": {
+        "en": "It was a long time before he returned from the mission.",
+        "lt": "Prieš jam grįžtant iš misijos, praėjo nemažai laiko."
+      },
+      "linked_words": [],
+      "source": "bebras_import",
       "minimum_level": 37
     }
   ]

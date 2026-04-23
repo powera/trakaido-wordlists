@@ -1,29 +1,3 @@
 {
-  "language": "nl",
-  "sentences": [
-    {
-      "sentence_id": "S_00013",
-      "translations": {
-        "pl": "Kupuję chleb w sklepie.",
-        "nl": "Ik koop brood in de winkel."
-      },
-      "linked_words": [
-        {
-          "guid": "V06_004",
-          "grammatical_form": "verb/nl_1s_present"
-        },
-        {
-          "guid": "N06_001",
-          "grammatical_form": "noun/nl_singular"
-        },
-        {
-          "guid": "N07_005",
-          "grammatical_form": "noun/nl_singular"
-        }
-      ],
-      "source": "buivolas_guided_N07_005",
-      "minimum_level": 1
-    }
-  ],
-  "source_language": "pl"
+  "sentences": []
 }
