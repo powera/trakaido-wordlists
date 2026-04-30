@@ -2,7 +2,7 @@
   "version": 1,
   "language": "german",
   "language_code": "de",
-  "generated_at": "2026-04-23T20:18:43Z",
+  "generated_at": "2026-04-30T13:12:16Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [],
@@ -164,11 +164,11 @@
   "sentence_files": [
     {
       "id": "sentences",
-      "filename": "ee3007b4803aa56b1c2c4c8283867cd2.json",
+      "filename": "6079ad73204059254f87875dea822e8e.json",
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "ee3007b4803aa56b1c2c4c8283867cd2",
+      "md5": "6079ad73204059254f87875dea822e8e",
       "required": false
     }
   ],

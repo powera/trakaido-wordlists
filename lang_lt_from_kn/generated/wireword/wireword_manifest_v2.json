@@ -2,7 +2,7 @@
   "version": 1,
   "language": "lithuanian",
   "language_code": "lt",
-  "generated_at": "2026-04-23T20:19:17Z",
+  "generated_at": "2026-04-30T13:12:46Z",
   "source_language": "kannada",
   "source_language_code": "kn",
   "config": {
@@ -102,10 +102,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "2876d48839567174daa48e5c50139c89.json",
+      "filename": "7f33e23102d0b7d124105390af04a9bc.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "2876d48839567174daa48e5c50139c89",
+      "md5": "7f33e23102d0b7d124105390af04a9bc",
       "levels": [
         1,
         2,
@@ -140,10 +140,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "09c8e8f7a2be1aad9136552421e29485.json",
+      "filename": "9b8677cdd05ec16b6606c5a9e7e4181b.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "09c8e8f7a2be1aad9136552421e29485",
+      "md5": "9b8677cdd05ec16b6606c5a9e7e4181b",
       "levels": [
         6,
         7,
@@ -193,10 +193,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "adc6646ed98befaace65101e18919bfe.json",
+      "filename": "397a5ae437498deb674877676055ff30.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "adc6646ed98befaace65101e18919bfe",
+      "md5": "397a5ae437498deb674877676055ff30",
       "levels": [
         11,
         12,
@@ -453,11 +453,11 @@
   "sentence_files": [
     {
       "id": "sentences",
-      "filename": "0237473e72a388931ef53040beeec149.json",
+      "filename": "0535d0c13e265c83bfb1c0b77a00439a.json",
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "0237473e72a388931ef53040beeec149",
+      "md5": "0535d0c13e265c83bfb1c0b77a00439a",
       "required": false
     }
   ],

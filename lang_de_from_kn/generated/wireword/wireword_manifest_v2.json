@@ -2,7 +2,7 @@
   "version": 1,
   "language": "german",
   "language_code": "de",
-  "generated_at": "2026-04-23T20:19:25Z",
+  "generated_at": "2026-04-30T13:12:54Z",
   "source_language": "kannada",
   "source_language_code": "kn",
   "config": {
@@ -166,11 +166,11 @@
   "sentence_files": [
     {
       "id": "sentences",
-      "filename": "42a20761fb40674755d5895797cae98d.json",
+      "filename": "42bd9c3dcfa7e194c7e83a993ea81d26.json",
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "42a20761fb40674755d5895797cae98d",
+      "md5": "42bd9c3dcfa7e194c7e83a993ea81d26",
       "required": false
     }
   ],

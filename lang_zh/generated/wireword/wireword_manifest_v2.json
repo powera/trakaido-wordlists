@@ -2,7 +2,7 @@
   "version": 1,
   "language": "chinese",
   "language_code": "zh",
-  "generated_at": "2026-04-23T21:19:40Z",
+  "generated_at": "2026-04-30T13:12:11Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -30,10 +30,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "e39e94046ef63244fda307f47c6db8ed.json",
+      "filename": "973f502d8febf5264b99bd38a5665814.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "e39e94046ef63244fda307f47c6db8ed",
+      "md5": "973f502d8febf5264b99bd38a5665814",
       "levels": [
         1,
         2,

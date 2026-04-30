@@ -2,7 +2,7 @@
   "version": 1,
   "language": "french",
   "language_code": "fr",
-  "generated_at": "2026-04-23T20:19:08Z",
+  "generated_at": "2026-04-30T13:12:38Z",
   "source_language": "bengali",
   "source_language_code": "bn",
   "config": {
@@ -91,10 +91,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "4deee66c3380002cb45eddf89d1f025a.json",
+      "filename": "2697ba41887d307779ffe40543008cc5.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "4deee66c3380002cb45eddf89d1f025a",
+      "md5": "2697ba41887d307779ffe40543008cc5",
       "levels": [
         1,
         2,
@@ -228,10 +228,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "32367a70461649141dfbd3f3ff07ce35.json",
+      "filename": "959949f05851bde2955672c1729eda7e.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "32367a70461649141dfbd3f3ff07ce35",
+      "md5": "959949f05851bde2955672c1729eda7e",
       "levels": [
         16,
         17,
@@ -290,11 +290,11 @@
   "sentence_files": [
     {
       "id": "sentences",
-      "filename": "3590c2e83342b5ec610f4b54fb6888fc.json",
+      "filename": "5e10d1eb7248d576878f96a2078fa2de.json",
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "3590c2e83342b5ec610f4b54fb6888fc",
+      "md5": "5e10d1eb7248d576878f96a2078fa2de",
       "required": false
     }
   ],

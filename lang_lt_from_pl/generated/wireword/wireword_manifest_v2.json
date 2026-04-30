@@ -2,7 +2,7 @@
   "version": 1,
   "language": "lithuanian",
   "language_code": "lt",
-  "generated_at": "2026-04-23T20:19:31Z",
+  "generated_at": "2026-04-30T13:12:59Z",
   "source_language": "polish",
   "source_language_code": "pl",
   "config": {
@@ -102,10 +102,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "18bdd1e5edce54d685d364374a55abf1.json",
+      "filename": "4dae51c1ef85dd1a8cb24777bc24cbdc.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "18bdd1e5edce54d685d364374a55abf1",
+      "md5": "4dae51c1ef85dd1a8cb24777bc24cbdc",
       "levels": [
         1,
         2,
@@ -140,10 +140,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "a6fa41b906dfb3e761fe089875f651cb.json",
+      "filename": "137f24d2a3f622bb7a361ef080013c8e.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "a6fa41b906dfb3e761fe089875f651cb",
+      "md5": "137f24d2a3f622bb7a361ef080013c8e",
       "levels": [
         6,
         7,
@@ -193,10 +193,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "2d0f3be86598dda1746bc83ffff6986e.json",
+      "filename": "b61f5db4d83c983702743061abd0afd7.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "2d0f3be86598dda1746bc83ffff6986e",
+      "md5": "b61f5db4d83c983702743061abd0afd7",
       "levels": [
         11,
         12,

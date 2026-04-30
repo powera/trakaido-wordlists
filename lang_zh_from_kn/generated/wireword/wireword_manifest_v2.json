@@ -2,7 +2,7 @@
   "version": 1,
   "language": "chinese",
   "language_code": "zh",
-  "generated_at": "2026-04-23T21:20:11Z",
+  "generated_at": "2026-04-30T13:12:48Z",
   "source_language": "kannada",
   "source_language_code": "kn",
   "config": {
@@ -32,10 +32,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "358e0d53e6020ca9ba315e5d297fe5c3.json",
+      "filename": "8b7b33f77e5c42fe4bb1249a2b6f1211.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "358e0d53e6020ca9ba315e5d297fe5c3",
+      "md5": "8b7b33f77e5c42fe4bb1249a2b6f1211",
       "levels": [
         1,
         2,

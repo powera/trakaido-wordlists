@@ -2,7 +2,7 @@
   "version": 1,
   "language": "lithuanian",
   "language_code": "lt",
-  "generated_at": "2026-04-23T20:18:36Z",
+  "generated_at": "2026-04-30T13:12:08Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -100,10 +100,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "c826ab1be3a975e306fac46d914c56ac.json",
+      "filename": "714d3e4b262670a98e61b0b16cac5365.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "c826ab1be3a975e306fac46d914c56ac",
+      "md5": "714d3e4b262670a98e61b0b16cac5365",
       "levels": [
         1,
         2,
@@ -138,10 +138,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "74f97bc28ea4dcefe5e3c70b5f4f5ee0.json",
+      "filename": "632033763e813e418acd625a88266c83.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "74f97bc28ea4dcefe5e3c70b5f4f5ee0",
+      "md5": "632033763e813e418acd625a88266c83",
       "levels": [
         6,
         7,
@@ -191,10 +191,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "baf59e45f1e9701fc461564c661193fb.json",
+      "filename": "3be936c052eb9d74d5f6d369910e59c8.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "baf59e45f1e9701fc461564c661193fb",
+      "md5": "3be936c052eb9d74d5f6d369910e59c8",
       "levels": [
         11,
         12,
@@ -451,11 +451,11 @@
   "sentence_files": [
     {
       "id": "sentences",
-      "filename": "4b16ce6414980e0854cb8539c13ce3dd.json",
+      "filename": "2e733c8e5a1f9bbf58d48af6f9cee3ab.json",
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "4b16ce6414980e0854cb8539c13ce3dd",
+      "md5": "2e733c8e5a1f9bbf58d48af6f9cee3ab",
       "required": false
     }
   ],

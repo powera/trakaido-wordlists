@@ -2,7 +2,7 @@
   "version": 1,
   "language": "spanish",
   "language_code": "es",
-  "generated_at": "2026-04-23T20:19:24Z",
+  "generated_at": "2026-04-30T13:12:53Z",
   "source_language": "kannada",
   "source_language_code": "kn",
   "config": {
@@ -73,10 +73,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "40d671c4d25b6058436793f8b6d3a1e0.json",
+      "filename": "cc8c9e7f9139171a51ec5cc4e6605fdf.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "40d671c4d25b6058436793f8b6d3a1e0",
+      "md5": "cc8c9e7f9139171a51ec5cc4e6605fdf",
       "levels": [
         1,
         2,
@@ -111,10 +111,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "430136044553e7ce5bf6b843000f52c8.json",
+      "filename": "22563ba3c062541e09783cbd7b3926ff.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "430136044553e7ce5bf6b843000f52c8",
+      "md5": "22563ba3c062541e09783cbd7b3926ff",
       "levels": [
         6,
         7,
@@ -272,11 +272,11 @@
   "sentence_files": [
     {
       "id": "sentences",
-      "filename": "59fb50f33919fe5db036041a11475932.json",
+      "filename": "60b0415174870148a99fe807542ee37e.json",
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "59fb50f33919fe5db036041a11475932",
+      "md5": "60b0415174870148a99fe807542ee37e",
       "required": false
     }
   ],

@@ -2,7 +2,7 @@
   "version": 1,
   "language": "french",
   "language_code": "fr",
-  "generated_at": "2026-04-23T20:18:41Z",
+  "generated_at": "2026-04-30T13:12:13Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -89,10 +89,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "ada25d3a51979bc0d9d4b2bdb5cfa87d.json",
+      "filename": "a2fd1465689ec3b238443cbfc105a2e2.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "ada25d3a51979bc0d9d4b2bdb5cfa87d",
+      "md5": "a2fd1465689ec3b238443cbfc105a2e2",
       "levels": [
         1,
         2,
@@ -226,10 +226,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "590b012f6f2e13acedae8b099c52a47b.json",
+      "filename": "9719ff26284b50e84e17acfa295d9a88.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "590b012f6f2e13acedae8b099c52a47b",
+      "md5": "9719ff26284b50e84e17acfa295d9a88",
       "levels": [
         16,
         17,
@@ -288,11 +288,11 @@
   "sentence_files": [
     {
       "id": "sentences",
-      "filename": "3893d7007dd82c961a15358283506210.json",
+      "filename": "d9526b53703193938c1d7c45a9a3aa2e.json",
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "3893d7007dd82c961a15358283506210",
+      "md5": "d9526b53703193938c1d7c45a9a3aa2e",
       "required": false
     }
   ],

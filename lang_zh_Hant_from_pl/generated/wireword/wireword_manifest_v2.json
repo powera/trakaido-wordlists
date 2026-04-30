@@ -2,7 +2,7 @@
   "version": 1,
   "language": "chinese_traditional",
   "language_code": "zh_Hant",
-  "generated_at": "2026-04-23T21:20:23Z",
+  "generated_at": "2026-04-30T13:13:03Z",
   "source_language": "polish",
   "source_language_code": "pl",
   "config": {
@@ -32,10 +32,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "2dafd90962b4556494232192da847787.json",
+      "filename": "1d640192a8d2d859448910ae1c5f9c87.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "2dafd90962b4556494232192da847787",
+      "md5": "1d640192a8d2d859448910ae1c5f9c87",
       "levels": [
         1,
         2,
