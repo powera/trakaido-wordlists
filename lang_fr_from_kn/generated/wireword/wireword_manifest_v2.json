@@ -2,7 +2,7 @@
   "version": 1,
   "language": "french",
   "language_code": "fr",
-  "generated_at": "2026-04-30T13:12:51Z",
+  "generated_at": "2026-04-30T16:31:09Z",
   "source_language": "kannada",
   "source_language_code": "kn",
   "config": {
@@ -91,10 +91,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "e1eae8bba1ed8f5ac36a23387d14c68d.json",
+      "filename": "7584c7e33a718b8620f4f50240473c99.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "e1eae8bba1ed8f5ac36a23387d14c68d",
+      "md5": "7584c7e33a718b8620f4f50240473c99",
       "levels": [
         1,
         2,

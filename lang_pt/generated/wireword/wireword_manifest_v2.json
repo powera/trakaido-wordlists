@@ -2,7 +2,7 @@
   "version": 1,
   "language": "portuguese",
   "language_code": "pt",
-  "generated_at": "2026-04-30T13:12:19Z",
+  "generated_at": "2026-04-30T16:30:37Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [],
@@ -71,10 +71,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "10191745cd5e086a2ff57d718a836195.json",
+      "filename": "7ea383ac383cba4f185710ee5f967182.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "10191745cd5e086a2ff57d718a836195",
+      "md5": "7ea383ac383cba4f185710ee5f967182",
       "levels": [
         1,
         2,

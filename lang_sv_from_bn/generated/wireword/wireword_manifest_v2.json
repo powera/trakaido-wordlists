@@ -2,7 +2,7 @@
   "version": 1,
   "language": "swedish",
   "language_code": "sv",
-  "generated_at": "2026-04-30T13:12:45Z",
+  "generated_at": "2026-04-30T16:31:03Z",
   "source_language": "bengali",
   "source_language_code": "bn",
   "config": {
@@ -60,10 +60,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "d6ef2abcf4eb5a7a4c90381f3d9c06c9.json",
+      "filename": "0cfa8ae2df8a303f9ec6e11b79be16ab.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "d6ef2abcf4eb5a7a4c90381f3d9c06c9",
+      "md5": "0cfa8ae2df8a303f9ec6e11b79be16ab",
       "levels": [
         1,
         2,

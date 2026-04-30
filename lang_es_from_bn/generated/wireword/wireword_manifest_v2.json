@@ -2,7 +2,7 @@
   "version": 1,
   "language": "spanish",
   "language_code": "es",
-  "generated_at": "2026-04-30T13:12:40Z",
+  "generated_at": "2026-04-30T16:30:58Z",
   "source_language": "bengali",
   "source_language_code": "bn",
   "config": {
@@ -73,10 +73,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "66cd3c17a645c9a417d345a595efeb21.json",
+      "filename": "e4fb63249609afcdc329ff3227ff0535.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "66cd3c17a645c9a417d345a595efeb21",
+      "md5": "e4fb63249609afcdc329ff3227ff0535",
       "levels": [
         1,
         2,

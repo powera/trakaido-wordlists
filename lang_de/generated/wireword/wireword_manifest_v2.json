@@ -2,7 +2,7 @@
   "version": 1,
   "language": "german",
   "language_code": "de",
-  "generated_at": "2026-04-30T13:12:16Z",
+  "generated_at": "2026-04-30T16:30:34Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [],
@@ -71,10 +71,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "7c7e2dfe240d94e4a965f276c5770393.json",
+      "filename": "a073f35863706dffe8cbe4276b5e85c9.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "7c7e2dfe240d94e4a965f276c5770393",
+      "md5": "a073f35863706dffe8cbe4276b5e85c9",
       "levels": [
         1,
         2,

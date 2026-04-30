@@ -2,7 +2,7 @@
   "version": 1,
   "language": "french",
   "language_code": "fr",
-  "generated_at": "2026-04-30T13:12:38Z",
+  "generated_at": "2026-04-30T16:30:56Z",
   "source_language": "bengali",
   "source_language_code": "bn",
   "config": {
@@ -91,10 +91,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "2697ba41887d307779ffe40543008cc5.json",
+      "filename": "e94b2d8796a6591600527060d549b359.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "2697ba41887d307779ffe40543008cc5",
+      "md5": "e94b2d8796a6591600527060d549b359",
       "levels": [
         1,
         2,

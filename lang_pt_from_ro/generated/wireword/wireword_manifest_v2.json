@@ -2,7 +2,7 @@
   "version": 1,
   "language": "portuguese",
   "language_code": "pt",
-  "generated_at": "2026-04-30T13:13:22Z",
+  "generated_at": "2026-04-30T16:31:39Z",
   "source_language": "romanian",
   "source_language_code": "ro",
   "config": {
@@ -73,10 +73,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "a797b5f8b143596ada4cd468bbd26111.json",
+      "filename": "1df9913ef33e24d70fb0aa4972bba39c.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "a797b5f8b143596ada4cd468bbd26111",
+      "md5": "1df9913ef33e24d70fb0aa4972bba39c",
       "levels": [
         1,
         2,

@@ -2,7 +2,7 @@
   "version": 1,
   "language": "italian",
   "language_code": "it",
-  "generated_at": "2026-04-30T13:12:55Z",
+  "generated_at": "2026-04-30T16:31:12Z",
   "source_language": "kannada",
   "source_language_code": "kn",
   "config": {
@@ -73,10 +73,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "1dd214a8855010bc5904aa73895bd435.json",
+      "filename": "8635eb6edaa7734a5671c18aec9802bb.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "1dd214a8855010bc5904aa73895bd435",
+      "md5": "8635eb6edaa7734a5671c18aec9802bb",
       "levels": [
         1,
         2,

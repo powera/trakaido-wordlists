@@ -2,7 +2,7 @@
   "version": 1,
   "language": "german",
   "language_code": "de",
-  "generated_at": "2026-04-30T13:12:42Z",
+  "generated_at": "2026-04-30T16:30:59Z",
   "source_language": "bengali",
   "source_language_code": "bn",
   "config": {
@@ -73,10 +73,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "53caab2a2fb317ce05b346f6fe413897.json",
+      "filename": "0ba585089f15c4dd42473aff3ca73f87.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "53caab2a2fb317ce05b346f6fe413897",
+      "md5": "0ba585089f15c4dd42473aff3ca73f87",
       "levels": [
         1,
         2,

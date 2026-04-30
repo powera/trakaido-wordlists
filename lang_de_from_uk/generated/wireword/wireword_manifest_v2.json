@@ -2,7 +2,7 @@
   "version": 1,
   "language": "german",
   "language_code": "de",
-  "generated_at": "2026-04-30T13:12:29Z",
+  "generated_at": "2026-04-30T16:30:46Z",
   "source_language": "ukrainian",
   "source_language_code": "uk",
   "config": {
@@ -73,10 +73,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "a575d92e0b3084462577a4aba5c6f8eb.json",
+      "filename": "9c20cc51114ca2bbac81d104c42e605b.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "a575d92e0b3084462577a4aba5c6f8eb",
+      "md5": "9c20cc51114ca2bbac81d104c42e605b",
       "levels": [
         1,
         2,

@@ -2,7 +2,7 @@
   "version": 1,
   "language": "portuguese",
   "language_code": "pt",
-  "generated_at": "2026-04-30T13:12:57Z",
+  "generated_at": "2026-04-30T16:31:14Z",
   "source_language": "kannada",
   "source_language_code": "kn",
   "config": {
@@ -73,10 +73,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "6ed5de4ce9d4638e573c26d8f1020caa.json",
+      "filename": "9b7619092dee8604a806488ff48e16ba.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "6ed5de4ce9d4638e573c26d8f1020caa",
+      "md5": "9b7619092dee8604a806488ff48e16ba",
       "levels": [
         1,
         2,

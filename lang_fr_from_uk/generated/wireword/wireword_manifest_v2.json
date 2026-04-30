@@ -2,7 +2,7 @@
   "version": 1,
   "language": "french",
   "language_code": "fr",
-  "generated_at": "2026-04-30T13:12:26Z",
+  "generated_at": "2026-04-30T16:30:44Z",
   "source_language": "ukrainian",
   "source_language_code": "uk",
   "config": {
@@ -91,10 +91,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "797364f946e5f1e19545cc9ce283f766.json",
+      "filename": "5191c05fa673b8a881f078d7f81d8ae0.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "797364f946e5f1e19545cc9ce283f766",
+      "md5": "5191c05fa673b8a881f078d7f81d8ae0",
       "levels": [
         1,
         2,

@@ -2,7 +2,7 @@
   "version": 1,
   "language": "spanish",
   "language_code": "es",
-  "generated_at": "2026-04-30T13:12:53Z",
+  "generated_at": "2026-04-30T16:31:10Z",
   "source_language": "kannada",
   "source_language_code": "kn",
   "config": {
@@ -73,10 +73,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "cc8c9e7f9139171a51ec5cc4e6605fdf.json",
+      "filename": "51a451c435208a13baa9888864b13234.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "cc8c9e7f9139171a51ec5cc4e6605fdf",
+      "md5": "51a451c435208a13baa9888864b13234",
       "levels": [
         1,
         2,

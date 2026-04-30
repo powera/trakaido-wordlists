@@ -2,7 +2,7 @@
   "version": 1,
   "language": "lithuanian",
   "language_code": "lt",
-  "generated_at": "2026-04-30T13:12:08Z",
+  "generated_at": "2026-04-30T16:30:27Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -100,10 +100,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "714d3e4b262670a98e61b0b16cac5365.json",
+      "filename": "a09279aab33ae42af56736e6355dff9a.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "714d3e4b262670a98e61b0b16cac5365",
+      "md5": "a09279aab33ae42af56736e6355dff9a",
       "levels": [
         1,
         2,

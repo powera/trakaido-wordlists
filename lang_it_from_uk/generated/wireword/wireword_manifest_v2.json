@@ -2,7 +2,7 @@
   "version": 1,
   "language": "italian",
   "language_code": "it",
-  "generated_at": "2026-04-30T13:12:30Z",
+  "generated_at": "2026-04-30T16:30:47Z",
   "source_language": "ukrainian",
   "source_language_code": "uk",
   "config": {
@@ -73,10 +73,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "fb68e1bfce2288b98d3f3ee8ed2a46d4.json",
+      "filename": "9334d07528cb1be4019c107ca15537d1.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "fb68e1bfce2288b98d3f3ee8ed2a46d4",
+      "md5": "9334d07528cb1be4019c107ca15537d1",
       "levels": [
         1,
         2,

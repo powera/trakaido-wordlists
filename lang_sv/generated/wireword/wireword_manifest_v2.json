@@ -2,7 +2,7 @@
   "version": 1,
   "language": "swedish",
   "language_code": "sv",
-  "generated_at": "2026-04-30T13:12:19Z",
+  "generated_at": "2026-04-30T16:30:38Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [],
@@ -58,10 +58,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "f81d3248f6b48063f0d577788ddd6764.json",
+      "filename": "e0349bf1f14b215abe9b88d004cc7c8f.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "f81d3248f6b48063f0d577788ddd6764",
+      "md5": "e0349bf1f14b215abe9b88d004cc7c8f",
       "levels": [
         1,
         2,
