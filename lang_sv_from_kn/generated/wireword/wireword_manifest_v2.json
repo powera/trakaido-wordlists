@@ -2,7 +2,7 @@
   "version": 1,
   "language": "swedish",
   "language_code": "sv",
-  "generated_at": "2026-04-30T16:31:15Z",
+  "generated_at": "2026-05-04T15:00:33Z",
   "source_language": "kannada",
   "source_language_code": "kn",
   "config": {
@@ -60,10 +60,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "8487c1e58bb315e9397cdecaf912e460.json",
+      "filename": "ef06b53d01da66fb477a6e10d2386440.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "8487c1e58bb315e9397cdecaf912e460",
+      "md5": "ef06b53d01da66fb477a6e10d2386440",
       "levels": [
         1,
         2,
@@ -98,10 +98,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "13822c8c6407716e48c24db029147d54.json",
+      "filename": "f585a8191f932b7650c70fd5c2d55efd.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "13822c8c6407716e48c24db029147d54",
+      "md5": "f585a8191f932b7650c70fd5c2d55efd",
       "levels": [
         6,
         7,

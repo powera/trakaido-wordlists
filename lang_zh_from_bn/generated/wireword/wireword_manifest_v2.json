@@ -2,7 +2,7 @@
   "version": 1,
   "language": "chinese",
   "language_code": "zh",
-  "generated_at": "2026-04-30T16:30:54Z",
+  "generated_at": "2026-05-04T15:00:00Z",
   "source_language": "bengali",
   "source_language_code": "bn",
   "config": {
@@ -32,10 +32,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "33fba825b5b1c4f98238988e9b251abd.json",
+      "filename": "6181343c7ff2d2f717df6982eb6bf321.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "33fba825b5b1c4f98238988e9b251abd",
+      "md5": "6181343c7ff2d2f717df6982eb6bf321",
       "levels": [
         1,
         2,
@@ -70,10 +70,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "b7da94561be3889fb9b368f4175df77f.json",
+      "filename": "e93fa4f40e5b5d00ffd73de8d32e0363.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "b7da94561be3889fb9b368f4175df77f",
+      "md5": "e93fa4f40e5b5d00ffd73de8d32e0363",
       "levels": [
         6,
         7,
@@ -123,10 +123,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "d21cef80942fdf27a63c65ed36355b46.json",
+      "filename": "98ee6ca3cb5c5078c3772d616a7f0e69.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "d21cef80942fdf27a63c65ed36355b46",
+      "md5": "98ee6ca3cb5c5078c3772d616a7f0e69",
       "levels": [
         11,
         12,
@@ -169,10 +169,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "a3c0213e8b1cb9e1812dc84f0646a526.json",
+      "filename": "0bc12ebd409e1fba12040c8a3257c27e.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "a3c0213e8b1cb9e1812dc84f0646a526",
+      "md5": "0bc12ebd409e1fba12040c8a3257c27e",
       "levels": [
         16,
         17,

@@ -2,7 +2,7 @@
   "version": 1,
   "language": "french",
   "language_code": "fr",
-  "generated_at": "2026-04-30T16:30:31Z",
+  "generated_at": "2026-05-04T14:59:26Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -89,10 +89,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "497e831b230ffb2635f633e146e70cf6.json",
+      "filename": "bf21cc657edc55e6020ecb6842cb98e6.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "497e831b230ffb2635f633e146e70cf6",
+      "md5": "bf21cc657edc55e6020ecb6842cb98e6",
       "levels": [
         1,
         2,
@@ -127,10 +127,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "e95afbd273af53affe6c036c8dd07aee.json",
+      "filename": "5f76c3ae2eb30bc15417068d9c7f4ed7.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "e95afbd273af53affe6c036c8dd07aee",
+      "md5": "5f76c3ae2eb30bc15417068d9c7f4ed7",
       "levels": [
         6,
         7,
@@ -180,10 +180,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "b0a248bcc67eb7d25cb54fc4b4abef41.json",
+      "filename": "9ea520a5a9d5cebf9b071562848105cc.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "b0a248bcc67eb7d25cb54fc4b4abef41",
+      "md5": "9ea520a5a9d5cebf9b071562848105cc",
       "levels": [
         11,
         12,
@@ -226,10 +226,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "9719ff26284b50e84e17acfa295d9a88.json",
+      "filename": "e931e3a9ccdd63f526406c40f5d4770d.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "9719ff26284b50e84e17acfa295d9a88",
+      "md5": "e931e3a9ccdd63f526406c40f5d4770d",
       "levels": [
         16,
         17,

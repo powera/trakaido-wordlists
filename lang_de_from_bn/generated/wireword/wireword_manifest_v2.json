@@ -2,7 +2,7 @@
   "version": 1,
   "language": "german",
   "language_code": "de",
-  "generated_at": "2026-04-30T16:30:59Z",
+  "generated_at": "2026-05-04T15:00:09Z",
   "source_language": "bengali",
   "source_language_code": "bn",
   "config": {
@@ -73,10 +73,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "0ba585089f15c4dd42473aff3ca73f87.json",
+      "filename": "d4572c8e41ac0e3aa3f37967e16159f7.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "0ba585089f15c4dd42473aff3ca73f87",
+      "md5": "d4572c8e41ac0e3aa3f37967e16159f7",
       "levels": [
         1,
         2,
@@ -111,10 +111,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "f67df127778f709e0b002876dc3fce30.json",
+      "filename": "e2714bfdfc72512643b00d2636d623f9.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "f67df127778f709e0b002876dc3fce30",
+      "md5": "e2714bfdfc72512643b00d2636d623f9",
       "levels": [
         6,
         7,

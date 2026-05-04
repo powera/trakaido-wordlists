@@ -2,7 +2,7 @@
   "version": 1,
   "language": "japanese",
   "language_code": "ja",
-  "generated_at": "2026-04-30T16:31:16Z",
+  "generated_at": "2026-05-04T15:00:34Z",
   "source_language": "kannada",
   "source_language_code": "kn",
   "config": {
@@ -41,10 +41,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "c6e74bbdec66480ba9c352d2703d4b80.json",
+      "filename": "200b29d1696f363c7166eebdca0f4d9c.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "c6e74bbdec66480ba9c352d2703d4b80",
+      "md5": "200b29d1696f363c7166eebdca0f4d9c",
       "levels": [
         1,
         2,
@@ -79,10 +79,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "c209ae8050822db51118a4f6dffb55d5.json",
+      "filename": "83ea389c8e1cb2b10a5ea4de74621e3c.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "c209ae8050822db51118a4f6dffb55d5",
+      "md5": "83ea389c8e1cb2b10a5ea4de74621e3c",
       "levels": [
         6,
         7,

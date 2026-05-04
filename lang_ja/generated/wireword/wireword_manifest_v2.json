@@ -2,7 +2,7 @@
   "version": 1,
   "language": "japanese",
   "language_code": "ja",
-  "generated_at": "2026-04-30T16:30:39Z",
+  "generated_at": "2026-05-04T14:59:37Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -39,10 +39,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "807d22da70516f8db2334a6d1f77297e.json",
+      "filename": "679058b4d43881e2c63aeb54aaced0a1.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "807d22da70516f8db2334a6d1f77297e",
+      "md5": "679058b4d43881e2c63aeb54aaced0a1",
       "levels": [
         1,
         2,
@@ -77,10 +77,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "2b3646c7da708a2fea8641614dab3636.json",
+      "filename": "5246a96856f420888a04d324cfb3f77a.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "2b3646c7da708a2fea8641614dab3636",
+      "md5": "5246a96856f420888a04d324cfb3f77a",
       "levels": [
         6,
         7,
