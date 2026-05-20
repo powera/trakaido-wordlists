@@ -2,7 +2,7 @@
   "version": 1,
   "language": "lithuanian",
   "language_code": "lt",
-  "generated_at": "2026-05-04T15:00:17Z",
+  "generated_at": "2026-05-20T01:56:24Z",
   "source_language": "kannada",
   "source_language_code": "kn",
   "config": {
@@ -102,10 +102,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "0888c38c16ccd635188742f50efb858b.json",
+      "filename": "a0574770b45feb5357181ced9e4ef027.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "0888c38c16ccd635188742f50efb858b",
+      "md5": "a0574770b45feb5357181ced9e4ef027",
       "levels": [
         1,
         2,
@@ -140,10 +140,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "84a94bbdf4913538f42b6122e837a693.json",
+      "filename": "5238d890c5a40376595357b10bc0433f.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "84a94bbdf4913538f42b6122e837a693",
+      "md5": "5238d890c5a40376595357b10bc0433f",
       "levels": [
         6,
         7,
@@ -193,10 +193,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "9127e86450b8b0b2fc4ff6491f983a4b.json",
+      "filename": "91f9f301dffc177d962e85fc17e6ce03.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "9127e86450b8b0b2fc4ff6491f983a4b",
+      "md5": "91f9f301dffc177d962e85fc17e6ce03",
       "levels": [
         11,
         12,
@@ -239,10 +239,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "c35fadfd7d6bedf55943dab2c5a2b5c5.json",
+      "filename": "98d277833dabeac8adb3dd40f0985e6f.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "c35fadfd7d6bedf55943dab2c5a2b5c5",
+      "md5": "98d277833dabeac8adb3dd40f0985e6f",
       "levels": [
         16,
         17,
@@ -299,10 +299,10 @@
     },
     {
       "id": "levels_21_25",
-      "filename": "c9c3a93ee0f6169f702a5c8c45620164.json",
+      "filename": "a39ae83763ca399c08d8549d528eedae.json",
       "display_name": "Levels 21-25",
       "type": "words",
-      "md5": "c9c3a93ee0f6169f702a5c8c45620164",
+      "md5": "a39ae83763ca399c08d8549d528eedae",
       "levels": [
         21,
         22,
@@ -363,10 +363,10 @@
     },
     {
       "id": "levels_26_30",
-      "filename": "6f34d1dc0d71e1c07d0f10843c2ff525.json",
+      "filename": "2bbd2b6c66734d2ea20acd67ea58811a.json",
       "display_name": "Levels 26-30",
       "type": "words",
-      "md5": "6f34d1dc0d71e1c07d0f10843c2ff525",
+      "md5": "2bbd2b6c66734d2ea20acd67ea58811a",
       "levels": [
         26,
         27,
@@ -375,7 +375,7 @@
         30
       ],
       "required": true,
-      "word_count": 795,
+      "word_count": 801,
       "groups": [
         "Abstract Condition",
         "Activity",

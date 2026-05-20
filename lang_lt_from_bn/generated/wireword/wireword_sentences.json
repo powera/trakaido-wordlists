@@ -1144,7 +1144,7 @@
         }
       ],
       "source": "buivolas_guided_N06_016",
-      "minimum_level": 3,
+      "minimum_level": 8,
       "audio": {
         "ruta": "cf1cc23e75a74bf71e008ceb5a1dd951",
         "jonas": "cf756c48c4560acaba98cd06a5732cfc"
@@ -2322,7 +2322,7 @@
         }
       ],
       "source": "buivolas_guided_N40_006",
-      "minimum_level": 3,
+      "minimum_level": 20,
       "audio": {
         "ruta": "a2f41da8c5f101a2d3c5c08b118c51e0"
       }
@@ -2822,33 +2822,6 @@
       }
     },
     {
-      "sentence_id": "S_00166",
-      "translations": {
-        "bn": "আমি আমার ব্যাগে একটি চামচ খুঁজে পেয়েছি।",
-        "lt": "Aš radau šaukštą savo maišelyje."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/lt_1s_past"
-        },
-        {
-          "guid": "N08_002",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "N08_009",
-          "grammatical_form": "noun/lt_locative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N08_002",
-      "minimum_level": 2,
-      "audio": {
-        "ruta": "f69a89c3213b30a398f1311042f30019",
-        "jonas": "589889abf9c0a2d64b2d8d3e46143abb"
-      }
-    },
-    {
       "sentence_id": "S_00167",
       "translations": {
         "bn": "শিশুটি এখন একটি চামচ চাইছে।",
@@ -2900,7 +2873,7 @@
         }
       ],
       "source": "buivolas_guided_N08_002",
-      "minimum_level": 3,
+      "minimum_level": 12,
       "audio": {
         "ruta": "3f753aa72cbf7c4d5be89a3efe752a04",
         "jonas": "ccc418a15739e096c8c9bf00c0392d10"
@@ -4127,7 +4100,7 @@
         }
       ],
       "source": "buivolas_guided_N02_007",
-      "minimum_level": 8,
+      "minimum_level": 28,
       "audio": {
         "ruta": "a49e3c659c8ecffc3453b44d26255b8a",
         "jonas": "1fbdd984d9c90cad5ca8e69240c8e34e"
@@ -5808,7 +5781,7 @@
         }
       ],
       "source": "buivolas_guided_A19_008",
-      "minimum_level": 21,
+      "minimum_level": 30,
       "audio": {
         "ruta": "7dcdb4dad3e316d521f74e1a5f142e0c",
         "jonas": "ab231e5c3a3f6578eeaca422c189c514"
@@ -9243,7 +9216,7 @@
         }
       ],
       "source": "buivolas_guided_N01_061",
-      "minimum_level": 12
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_00598",
@@ -16570,6 +16543,732 @@
       ],
       "source": "buivolas_guided_N42_016",
       "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_01293",
+      "translations": {
+        "bn": "তার নাম রুডিস।",
+        "lt": "Jo vardas yra Rudis."
+      },
+      "linked_words": [
+        {
+          "guid": "N50_010",
+          "grammatical_form": "noun/lt_nominative_singular"
+        },
+        {
+          "guid": "V06_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01294",
+      "translations": {
+        "bn": "এটি বাদামী এবং নরম।",
+        "lt": "Jis yra rudos spalvos ir minkštas."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A02_007",
+          "grammatical_form": "adjective/lt_genitive_singular_f"
+        },
+        {
+          "guid": "C99_001",
+          "grammatical_form": "conjunction/base"
+        },
+        {
+          "guid": "A18_063",
+          "grammatical_form": "adjective/lt_nominative_singular_m"
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01295",
+      "translations": {
+        "bn": "রুডিস পুরো পরিবারকে খুব ভালোবাসে।",
+        "lt": "Rudis labai myli visą šeimą."
+      },
+      "linked_words": [
+        {
+          "guid": "D01_036",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V05_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N35_031",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01296",
+      "translations": {
+        "bn": "প্রতিদিন আমি আর বাবা তার সঙ্গে হাঁটতে যাই।",
+        "lt": "Kiekvieną dieną mano tėvas ir aš einame su juo pasivaikščioti."
+      },
+      "linked_words": [
+        {
+          "guid": "T99_017",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N25_002",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "N35_033",
+          "grammatical_form": "noun/lt_nominative_singular"
+        },
+        {
+          "guid": "C99_001",
+          "grammatical_form": "conjunction/base"
+        },
+        {
+          "guid": "V12_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "R99_004",
+          "grammatical_form": "preposition/base"
+        },
+        {
+          "guid": "V12_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01297",
+      "translations": {
+        "bn": "আমরা পার্কে গেলে রুডিস খুব খুশি হয়।",
+        "lt": "Kai einame į parką, Rudis būna labai laimingas."
+      },
+      "linked_words": [
+        {
+          "guid": "P99_004",
+          "grammatical_form": "conjunction/base"
+        },
+        {
+          "guid": "V12_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "R99_006",
+          "grammatical_form": "preposition/base"
+        },
+        {
+          "guid": "N07_050",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "V06_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "D01_036",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A19_001",
+          "grammatical_form": "adjective/lt_nominative_singular_m"
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01298",
+      "translations": {
+        "bn": "আমাদের বাড়ি সুন্দর এবং আরামদায়ক।",
+        "lt": "Mūsų namai yra gražūs ir jaukūs."
+      },
+      "linked_words": [
+        {
+          "guid": "N07_041",
+          "grammatical_form": "noun/lt_nominative_plural"
+        },
+        {
+          "guid": "V06_001",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "A18_007",
+          "grammatical_form": null
+        },
+        {
+          "guid": "C99_001",
+          "grammatical_form": "conjunction/base"
+        },
+        {
+          "guid": "A05_173",
+          "grammatical_form": null
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01299",
+      "translations": {
+        "bn": "সেখানে আপেলগাছ, নাশপাতিগাছ আর অনেক রঙিন ফুল বেড়ে উঠছিল।",
+        "lt": "Sode auga obelys, kriaušės ir daug spalvingų gėlių."
+      },
+      "linked_words": [
+        {
+          "guid": "N06_015",
+          "grammatical_form": "noun/lt_nominative_plural"
+        },
+        {
+          "guid": "C99_001",
+          "grammatical_form": "conjunction/base"
+        },
+        {
+          "guid": "T99_013",
+          "grammatical_form": "determiner/base"
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01301",
+      "translations": {
+        "bn": "কখনও কখনও প্রতিবেশীরা বেড়াতে আসে, আর আমরা সবাই মিলে চা খাই।",
+        "lt": "Kartais kaimynai ateina į svečius ir mes visi kartu geriame arbatą."
+      },
+      "linked_words": [],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01302",
+      "translations": {
+        "bn": "সন্ধ্যায় আমরা বড় টেবিলের চারপাশে বসে রাতের খাবার খাই।",
+        "lt": "Vakare mes susėdame prie didelio stalo ir valgome vakarienę."
+      },
+      "linked_words": [
+        {
+          "guid": "N25_005",
+          "grammatical_form": "noun/lt_instrumental_singular"
+        },
+        {
+          "guid": "V01_032",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A01_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N39_006",
+          "grammatical_form": "noun/lt_genitive_singular"
+        },
+        {
+          "guid": "C99_001",
+          "grammatical_form": "conjunction/base"
+        },
+        {
+          "guid": "N06_088",
+          "grammatical_form": null
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01303",
+      "translations": {
+        "bn": "মা প্রায়ই স্যুপ রান্না করেন অথবা আলুর সঙ্গে কাটলেট ভাজেন।",
+        "lt": "Mama dažnai verda sriubą arba kepa kotletus su bulvėmis."
+      },
+      "linked_words": [
+        {
+          "guid": "D07_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_021",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "C99_002",
+          "grammatical_form": "conjunction/base"
+        },
+        {
+          "guid": "R99_004",
+          "grammatical_form": "preposition/base"
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01304",
+      "translations": {
+        "bn": "আমরা খেতে খেতে আমাদের দিনের ঘটনাবলি নিয়ে কথা বলি।",
+        "lt": "Valgydami mes kalbame apie savo dienos įvykius."
+      },
+      "linked_words": [
+        {
+          "guid": "V09_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "R99_008",
+          "grammatical_form": "preposition/base"
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01305",
+      "translations": {
+        "bn": "বাবা মজার গল্প বলে, আর আমরা সবাই একসঙ্গে হাসি।",
+        "lt": "Tėtis pasakoja juokingas istorijas ir mes visi juokiamės kartu."
+      },
+      "linked_words": [
+        {
+          "guid": "A16_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "C99_001",
+          "grammatical_form": "conjunction/base"
+        },
+        {
+          "guid": "D01_009",
+          "grammatical_form": null
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01306",
+      "translations": {
+        "bn": "রাতের খাবারের পর আমি স্নান করি এবং শোবার ঘরে যাই।",
+        "lt": "Po vakarienės aš nusiprausu ir einu į miegamąjį."
+      },
+      "linked_words": [
+        {
+          "guid": "N06_088",
+          "grammatical_form": "noun/lt_genitive_singular"
+        },
+        {
+          "guid": "V01_060",
+          "grammatical_form": null
+        },
+        {
+          "guid": "C99_001",
+          "grammatical_form": "conjunction/base"
+        },
+        {
+          "guid": "V12_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "R99_006",
+          "grammatical_form": "preposition/base"
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01307",
+      "translations": {
+        "bn": "বাবা বা মা আমাকে শুভরাত্রি জানাতে আসে।",
+        "lt": "Tėtis arba mama ateina palinkėti man labos nakties."
+      },
+      "linked_words": [
+        {
+          "guid": "C99_002",
+          "grammatical_form": "conjunction/base"
+        },
+        {
+          "guid": "V04_014",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A05_015",
+          "grammatical_form": "adjective/lt_genitive_singular_f"
+        },
+        {
+          "guid": "N25_003",
+          "grammatical_form": "noun/lt_genitive_singular"
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01308",
+      "translations": {
+        "bn": "তারা আলো নিভিয়ে দেয়।",
+        "lt": "Jie užgesina šviesą."
+      },
+      "linked_words": [
+        {
+          "guid": "N08_084",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01309",
+      "translations": {
+        "bn": "আমি আগামীকালের কথা ভাবি এবং দ্রুত ঘুমিয়ে পড়ি।",
+        "lt": "Aš galvoju apie rytojų ir greitai užmiegu."
+      },
+      "linked_words": [
+        {
+          "guid": "R99_008",
+          "grammatical_form": "preposition/base"
+        },
+        {
+          "guid": "D03_003",
+          "grammatical_form": null
+        },
+        {
+          "guid": "C99_001",
+          "grammatical_form": "conjunction/base"
+        },
+        {
+          "guid": "D01_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01310",
+      "translations": {
+        "bn": "আমি আমার পরিবারকে খুব ভালোবাসি।",
+        "lt": "Aš labai myliu savo šeimą."
+      },
+      "linked_words": [
+        {
+          "guid": "D01_036",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V05_002",
+          "grammatical_form": "verb/lt_1s_present"
+        },
+        {
+          "guid": "N35_031",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01311",
+      "translations": {
+        "bn": "তার সঙ্গে আমি খুব ভালো এবং নিরাপদ বোধ করি।",
+        "lt": "Su jais man yra labai gera ir saugu."
+      },
+      "linked_words": [
+        {
+          "guid": "R99_004",
+          "grammatical_form": "preposition/base"
+        },
+        {
+          "guid": "D01_036",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A05_015",
+          "grammatical_form": "adjective/lt_nominative_singular_f"
+        },
+        {
+          "guid": "C99_001",
+          "grammatical_form": "conjunction/base"
+        },
+        {
+          "guid": "A18_017",
+          "grammatical_form": null
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01312",
+      "translations": {
+        "bn": "আমাদের বাড়ির কাছে একটি বড় পার্ক আছে।",
+        "lt": "Netoli mūsų namų yra didelis parkas."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01313",
+      "translations": {
+        "bn": "আমি ওখানে যেতে খুব পছন্দ করি।",
+        "lt": "Aš labai mėgstu ten eiti."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01314",
+      "translations": {
+        "bn": "পার্কে অনেক গাছ, ফুল এবং সবুজ গাছপালা আছে।",
+        "lt": "Parke yra daug medžių, gėlių ir žalumos."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01315",
+      "translations": {
+        "bn": "ওখানে বাতাস ফিসফিস করে আর পাখিরা কিচিরমিচির করে।",
+        "lt": "Ten ošia vėjas ir čiulba paukščiai."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01316",
+      "translations": {
+        "bn": "প্রতি শনিবার সকালে, মা অথবা বাবা আমাকে পার্কে নিয়ে যায়।",
+        "lt": "Kiekvieną šeštadienio rytą mama arba tėtis nuveda mane į parką."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01317",
+      "translations": {
+        "bn": "সেখানে আমি আমার বন্ধুদের সাথে দেখা করি।",
+        "lt": "Ten aš sutinku savo draugus."
+      },
+      "linked_words": [
+        {
+          "guid": "D07_007",
+          "grammatical_form": "adverb/lt_base"
+        },
+        {
+          "guid": "V01_042",
+          "grammatical_form": null
+        }
+      ],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01318",
+      "translations": {
+        "bn": "আমার সবচেয়ে ভালো বন্ধুরা হল জোনাস এবং মনিকা।",
+        "lt": "Mano geriausi draugai yra Jonas ir Monika."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "C99_001",
+          "grammatical_form": "conjunction/base"
+        }
+      ],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01319",
+      "translations": {
+        "bn": "আমরা একসঙ্গে বিভিন্ন খেলা খেলি।",
+        "lt": "Mes kartu žaidžiame įvairius žaidimus."
+      },
+      "linked_words": [
+        {
+          "guid": "D01_009",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_006",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N41_018",
+          "grammatical_form": "noun/lt_accusative_plural"
+        }
+      ],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01320",
+      "translations": {
+        "bn": "পার্কে একটি বড় খেলার মাঠ আছে।",
+        "lt": "Parke yra didelė žaidimų aikštelė."
+      },
+      "linked_words": [
+        {
+          "guid": "N07_050",
+          "grammatical_form": "noun/lt_locative_singular"
+        },
+        {
+          "guid": "V06_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A01_003",
+          "grammatical_form": null
+        }
+      ],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01321",
+      "translations": {
+        "bn": "দোলনা, একটি স্লাইড, এবং একটি মই আছে।",
+        "lt": "Yra sūpynės, čiuožykla ir kopėčios."
+      },
+      "linked_words": [
+        {
+          "guid": "D07_007",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "C99_001",
+          "grammatical_form": "conjunction/base"
+        },
+        {
+          "guid": "N12_051",
+          "grammatical_form": "noun/lt_nominative_plural"
+        }
+      ],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01322",
+      "translations": {
+        "bn": "আমি দোলনাই সবচেয়ে বেশি পছন্দ করি।",
+        "lt": "Man labiausiai patinka sūpuoklės."
+      },
+      "linked_words": [
+        {
+          "guid": "D09_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V05_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01323",
+      "translations": {
+        "bn": "ওগুলোর ওপর আমি খুব উঁচুতে দুলছি আর নিজেকে পাখির মতো মনে হচ্ছে।",
+        "lt": "Ant jų aš siūbuoju labai aukštai ir jaučiuosi kaip paukštis."
+      },
+      "linked_words": [
+        {
+          "guid": "D01_036",
+          "grammatical_form": null
+        },
+        {
+          "guid": "C99_001",
+          "grammatical_form": "conjunction/base"
+        },
+        {
+          "guid": "V05_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "P99_006",
+          "grammatical_form": "pronoun/lt_nominative"
+        },
+        {
+          "guid": "N02_003",
+          "grammatical_form": "noun/lt_nominative_singular"
+        }
+      ],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01324",
+      "translations": {
+        "bn": "জোনাস মই বেয়ে উঠতে পছন্দ করে।",
+        "lt": "Jonas mėgsta kopti kopėčiomis."
+      },
+      "linked_words": [
+        {
+          "guid": "V05_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V12_024",
+          "grammatical_form": null
+        },
+        {
+          "guid": "R99_012",
+          "grammatical_form": "preposition/base"
+        },
+        {
+          "guid": "N12_051",
+          "grammatical_form": "noun/lt_accusative_plural"
+        }
+      ],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01325",
+      "translations": {
+        "bn": "ওহ, মনিকা সবসময় স্কেটিং করতে চায়।",
+        "lt": "O Monika visada nori čiuožti čiuožykla."
+      },
+      "linked_words": [
+        {
+          "guid": "D07_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V05_004",
+          "grammatical_form": "verb/lt_3s_present"
+        }
+      ],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
     }
   ],
   "source_language": "bn"

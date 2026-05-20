@@ -1144,7 +1144,7 @@
         }
       ],
       "source": "buivolas_guided_N06_016",
-      "minimum_level": 3,
+      "minimum_level": 8,
       "audio": {
         "ruta": "cf1cc23e75a74bf71e008ceb5a1dd951",
         "jonas": "cf756c48c4560acaba98cd06a5732cfc"
@@ -2322,7 +2322,7 @@
         }
       ],
       "source": "buivolas_guided_N40_006",
-      "minimum_level": 3,
+      "minimum_level": 20,
       "audio": {
         "ruta": "a2f41da8c5f101a2d3c5c08b118c51e0"
       }
@@ -2822,33 +2822,6 @@
       }
     },
     {
-      "sentence_id": "S_00166",
-      "translations": {
-        "en": "I found a spoon in my bag.",
-        "lt": "Aš radau šaukštą savo maišelyje."
-      },
-      "linked_words": [
-        {
-          "guid": "V01_009",
-          "grammatical_form": "verb/lt_1s_past"
-        },
-        {
-          "guid": "N08_002",
-          "grammatical_form": "noun/lt_accusative_singular"
-        },
-        {
-          "guid": "N08_009",
-          "grammatical_form": "noun/lt_locative_singular"
-        }
-      ],
-      "source": "buivolas_guided_N08_002",
-      "minimum_level": 2,
-      "audio": {
-        "ruta": "f69a89c3213b30a398f1311042f30019",
-        "jonas": "589889abf9c0a2d64b2d8d3e46143abb"
-      }
-    },
-    {
       "sentence_id": "S_00167",
       "translations": {
         "en": "The child wants a spoon now.",
@@ -2900,7 +2873,7 @@
         }
       ],
       "source": "buivolas_guided_N08_002",
-      "minimum_level": 3,
+      "minimum_level": 12,
       "audio": {
         "ruta": "3f753aa72cbf7c4d5be89a3efe752a04",
         "jonas": "ccc418a15739e096c8c9bf00c0392d10"
@@ -4127,7 +4100,7 @@
         }
       ],
       "source": "buivolas_guided_N02_007",
-      "minimum_level": 8,
+      "minimum_level": 28,
       "audio": {
         "ruta": "a49e3c659c8ecffc3453b44d26255b8a",
         "jonas": "1fbdd984d9c90cad5ca8e69240c8e34e"
@@ -5808,7 +5781,7 @@
         }
       ],
       "source": "buivolas_guided_A19_008",
-      "minimum_level": 21,
+      "minimum_level": 30,
       "audio": {
         "ruta": "7dcdb4dad3e316d521f74e1a5f142e0c",
         "jonas": "ab231e5c3a3f6578eeaca422c189c514"
@@ -9243,7 +9216,7 @@
         }
       ],
       "source": "buivolas_guided_N01_061",
-      "minimum_level": 12
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_00598",
@@ -16570,6 +16543,1222 @@
       ],
       "source": "buivolas_guided_N42_016",
       "minimum_level": 6
+    },
+    {
+      "sentence_id": "S_01270",
+      "translations": {
+        "en": "My name is Lukas.",
+        "lt": "Mano vardas yra Lukas."
+      },
+      "linked_words": [],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01271",
+      "translations": {
+        "en": "I am eight years old.",
+        "lt": "Man yra aštuoneri metai."
+      },
+      "linked_words": [],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01272",
+      "translations": {
+        "en": "I live in a small house with my family.",
+        "lt": "Aš gyvenu mažame name su savo šeima."
+      },
+      "linked_words": [],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01273",
+      "translations": {
+        "en": "In our family there are four people: dad, mom, sister, and me.",
+        "lt": "Mūsų šeimoje yra keturi žmonės: tėtis, mama, sesuo ir aš."
+      },
+      "linked_words": [],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01274",
+      "translations": {
+        "en": "Dad is tall and strong.",
+        "lt": "Tėtis yra aukštas ir stiprus."
+      },
+      "linked_words": [],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01275",
+      "translations": {
+        "en": "He works in the city, at a large company.",
+        "lt": "Jis dirba mieste, didelėje įmonėje."
+      },
+      "linked_words": [],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01276",
+      "translations": {
+        "en": "Every morning, dad gets up early.",
+        "lt": "Kiekvieną rytą tėtis keliasi anksti."
+      },
+      "linked_words": [],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01277",
+      "translations": {
+        "en": "He drinks coffee and eats bread with cheese.",
+        "lt": "Jis geria kavą ir valgo duoną su sūriu."
+      },
+      "linked_words": [],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01278",
+      "translations": {
+        "en": "",
+        "lt": "Paskui jis išvažiuoja į darbą automobiliu."
+      },
+      "linked_words": [],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01279",
+      "translations": {
+        "en": "",
+        "lt": "Vakare, kai tėtis grįžta namo, mes visi džiaugiamės."
+      },
+      "linked_words": [],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01280",
+      "translations": {
+        "en": "",
+        "lt": "Mama yra graži ir labai rūpestinga."
+      },
+      "linked_words": [],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01281",
+      "translations": {
+        "en": "",
+        "lt": "Ji dirba mokykloje kaip mokytoja."
+      },
+      "linked_words": [],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01282",
+      "translations": {
+        "en": "",
+        "lt": "Mama labai myli savo mokinius."
+      },
+      "linked_words": [],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01283",
+      "translations": {
+        "en": "",
+        "lt": "Namuose ji viską tvarko."
+      },
+      "linked_words": [],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01284",
+      "translations": {
+        "en": "",
+        "lt": "Vakarais mama skaito mums knygas prieš miegą."
+      },
+      "linked_words": [],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01285",
+      "translations": {
+        "en": "",
+        "lt": "Jos balsas yra švelnus ir ramus."
+      },
+      "linked_words": [],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01286",
+      "translations": {
+        "en": "",
+        "lt": "Mano sesuo vadinasi Aistė."
+      },
+      "linked_words": [],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01287",
+      "translations": {
+        "en": "",
+        "lt": "Jai yra šešeri metai."
+      },
+      "linked_words": [],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01288",
+      "translations": {
+        "en": "",
+        "lt": "Ji dar lanko darželį."
+      },
+      "linked_words": [],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01289",
+      "translations": {
+        "en": "",
+        "lt": "Aistė yra maža mergaitė, bet labai judri ir linksma."
+      },
+      "linked_words": [],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01290",
+      "translations": {
+        "en": "",
+        "lt": "Ji mėgsta šokti ir dainuoti dainas."
+      },
+      "linked_words": [],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01291",
+      "translations": {
+        "en": "",
+        "lt": "Kartais mes kartu žaidžiame kieme arba žiūrime animacinius filmus."
+      },
+      "linked_words": [],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01292",
+      "translations": {
+        "en": "",
+        "lt": "Mes taip pat turime šunį."
+      },
+      "linked_words": [],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01293",
+      "translations": {
+        "en": "His name is Rudis.",
+        "lt": "Jo vardas yra Rudis."
+      },
+      "linked_words": [
+        {
+          "guid": "N50_010",
+          "grammatical_form": "noun/lt_nominative_singular"
+        },
+        {
+          "guid": "V06_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01294",
+      "translations": {
+        "en": "It is brown and soft.",
+        "lt": "Jis yra rudos spalvos ir minkštas."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A02_007",
+          "grammatical_form": "adjective/lt_genitive_singular_f"
+        },
+        {
+          "guid": "C99_001",
+          "grammatical_form": "conjunction/base"
+        },
+        {
+          "guid": "A18_063",
+          "grammatical_form": "adjective/lt_nominative_singular_m"
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01295",
+      "translations": {
+        "en": "Rudis loves the whole family very much.",
+        "lt": "Rudis labai myli visą šeimą."
+      },
+      "linked_words": [
+        {
+          "guid": "D01_036",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V05_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N35_031",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01296",
+      "translations": {
+        "en": "Every day my father and I go out to stroll with him.",
+        "lt": "Kiekvieną dieną mano tėvas ir aš einame su juo pasivaikščioti."
+      },
+      "linked_words": [
+        {
+          "guid": "T99_017",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N25_002",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "N35_033",
+          "grammatical_form": "noun/lt_nominative_singular"
+        },
+        {
+          "guid": "C99_001",
+          "grammatical_form": "conjunction/base"
+        },
+        {
+          "guid": "V12_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "R99_004",
+          "grammatical_form": "preposition/base"
+        },
+        {
+          "guid": "V12_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01297",
+      "translations": {
+        "en": "Rudis gets very happy when we go to the park.",
+        "lt": "Kai einame į parką, Rudis būna labai laimingas."
+      },
+      "linked_words": [
+        {
+          "guid": "P99_004",
+          "grammatical_form": "conjunction/base"
+        },
+        {
+          "guid": "V12_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "R99_006",
+          "grammatical_form": "preposition/base"
+        },
+        {
+          "guid": "N07_050",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "V06_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "D01_036",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A19_001",
+          "grammatical_form": "adjective/lt_nominative_singular_m"
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01298",
+      "translations": {
+        "en": "Our house is beautiful and cozy.",
+        "lt": "Mūsų namai yra gražūs ir jaukūs."
+      },
+      "linked_words": [
+        {
+          "guid": "N07_041",
+          "grammatical_form": "noun/lt_nominative_plural"
+        },
+        {
+          "guid": "V06_001",
+          "grammatical_form": "verb/lt_3s_present"
+        },
+        {
+          "guid": "A18_007",
+          "grammatical_form": null
+        },
+        {
+          "guid": "C99_001",
+          "grammatical_form": "conjunction/base"
+        },
+        {
+          "guid": "A05_173",
+          "grammatical_form": null
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01299",
+      "translations": {
+        "en": "Apples, pears, and many colorful flowers grew there.",
+        "lt": "Sode auga obelys, kriaušės ir daug spalvingų gėlių."
+      },
+      "linked_words": [
+        {
+          "guid": "N06_015",
+          "grammatical_form": "noun/lt_nominative_plural"
+        },
+        {
+          "guid": "C99_001",
+          "grammatical_form": "conjunction/base"
+        },
+        {
+          "guid": "T99_013",
+          "grammatical_form": "determiner/base"
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01300",
+      "translations": {
+        "en": "In the summer, we sit outside on a bench and eat ice cream.",
+        "lt": "Vasarą mes sėdime lauke ant suoliuko ir valgome ledus."
+      },
+      "linked_words": [],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01301",
+      "translations": {
+        "en": "Sometimes the neighbors come over to visit, and we all drink tea together.",
+        "lt": "Kartais kaimynai ateina į svečius ir mes visi kartu geriame arbatą."
+      },
+      "linked_words": [],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01302",
+      "translations": {
+        "en": "In the evening, we sit down at the big table and have dinner.",
+        "lt": "Vakare mes susėdame prie didelio stalo ir valgome vakarienę."
+      },
+      "linked_words": [
+        {
+          "guid": "N25_005",
+          "grammatical_form": "noun/lt_instrumental_singular"
+        },
+        {
+          "guid": "V01_032",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A01_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N39_006",
+          "grammatical_form": "noun/lt_genitive_singular"
+        },
+        {
+          "guid": "C99_001",
+          "grammatical_form": "conjunction/base"
+        },
+        {
+          "guid": "N06_088",
+          "grammatical_form": null
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01303",
+      "translations": {
+        "en": "Mom often cooks soup or fries cutlets with potatoes.",
+        "lt": "Mama dažnai verda sriubą arba kepa kotletus su bulvėmis."
+      },
+      "linked_words": [
+        {
+          "guid": "D07_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N06_021",
+          "grammatical_form": "noun/lt_accusative_singular"
+        },
+        {
+          "guid": "C99_002",
+          "grammatical_form": "conjunction/base"
+        },
+        {
+          "guid": "R99_004",
+          "grammatical_form": "preposition/base"
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01304",
+      "translations": {
+        "en": "While eating, we talk about the events of our day.",
+        "lt": "Valgydami mes kalbame apie savo dienos įvykius."
+      },
+      "linked_words": [
+        {
+          "guid": "V09_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "R99_008",
+          "grammatical_form": "preposition/base"
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01305",
+      "translations": {
+        "en": "Dad tells funny stories, and we all laugh together.",
+        "lt": "Tėtis pasakoja juokingas istorijas ir mes visi juokiamės kartu."
+      },
+      "linked_words": [
+        {
+          "guid": "A16_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "C99_001",
+          "grammatical_form": "conjunction/base"
+        },
+        {
+          "guid": "D01_009",
+          "grammatical_form": null
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01306",
+      "translations": {
+        "en": "After dinner, I wash up and go to the bedroom.",
+        "lt": "Po vakarienės aš nusiprausu ir einu į miegamąjį."
+      },
+      "linked_words": [
+        {
+          "guid": "N06_088",
+          "grammatical_form": "noun/lt_genitive_singular"
+        },
+        {
+          "guid": "V01_060",
+          "grammatical_form": null
+        },
+        {
+          "guid": "C99_001",
+          "grammatical_form": "conjunction/base"
+        },
+        {
+          "guid": "V12_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "R99_006",
+          "grammatical_form": "preposition/base"
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01307",
+      "translations": {
+        "en": "Dad or mom comes to wish me good night.",
+        "lt": "Tėtis arba mama ateina palinkėti man labos nakties."
+      },
+      "linked_words": [
+        {
+          "guid": "C99_002",
+          "grammatical_form": "conjunction/base"
+        },
+        {
+          "guid": "V04_014",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A05_015",
+          "grammatical_form": "adjective/lt_genitive_singular_f"
+        },
+        {
+          "guid": "N25_003",
+          "grammatical_form": "noun/lt_genitive_singular"
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01308",
+      "translations": {
+        "en": "They turn off the light.",
+        "lt": "Jie užgesina šviesą."
+      },
+      "linked_words": [
+        {
+          "guid": "N08_084",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01309",
+      "translations": {
+        "en": "I think about tomorrow and quickly fall asleep.",
+        "lt": "Aš galvoju apie rytojų ir greitai užmiegu."
+      },
+      "linked_words": [
+        {
+          "guid": "R99_008",
+          "grammatical_form": "preposition/base"
+        },
+        {
+          "guid": "D03_003",
+          "grammatical_form": null
+        },
+        {
+          "guid": "C99_001",
+          "grammatical_form": "conjunction/base"
+        },
+        {
+          "guid": "D01_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01310",
+      "translations": {
+        "en": "I love my family very much.",
+        "lt": "Aš labai myliu savo šeimą."
+      },
+      "linked_words": [
+        {
+          "guid": "D01_036",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V05_002",
+          "grammatical_form": "verb/lt_1s_present"
+        },
+        {
+          "guid": "N35_031",
+          "grammatical_form": "noun/lt_accusative_singular"
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01311",
+      "translations": {
+        "en": "With her, I feel very good and safe.",
+        "lt": "Su jais man yra labai gera ir saugu."
+      },
+      "linked_words": [
+        {
+          "guid": "R99_004",
+          "grammatical_form": "preposition/base"
+        },
+        {
+          "guid": "D01_036",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A05_015",
+          "grammatical_form": "adjective/lt_nominative_singular_f"
+        },
+        {
+          "guid": "C99_001",
+          "grammatical_form": "conjunction/base"
+        },
+        {
+          "guid": "A18_017",
+          "grammatical_form": null
+        }
+      ],
+      "source": "lithuanian_sample_reader",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01312",
+      "translations": {
+        "en": "There is a big park near our house.",
+        "lt": "Netoli mūsų namų yra didelis parkas."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01313",
+      "translations": {
+        "en": "I really like to go there.",
+        "lt": "Aš labai mėgstu ten eiti."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01314",
+      "translations": {
+        "en": "There are many trees, flowers, and greenery in the park.",
+        "lt": "Parke yra daug medžių, gėlių ir žalumos."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01315",
+      "translations": {
+        "en": "The wind rustles there and the birds chirp.",
+        "lt": "Ten ošia vėjas ir čiulba paukščiai."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01316",
+      "translations": {
+        "en": "Every Saturday morning, mom or dad takes me to the park.",
+        "lt": "Kiekvieną šeštadienio rytą mama arba tėtis nuveda mane į parką."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01317",
+      "translations": {
+        "en": "There I meet my friends.",
+        "lt": "Ten aš sutinku savo draugus."
+      },
+      "linked_words": [
+        {
+          "guid": "D07_007",
+          "grammatical_form": "adverb/lt_base"
+        },
+        {
+          "guid": "V01_042",
+          "grammatical_form": null
+        }
+      ],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01318",
+      "translations": {
+        "en": "My best friends are Jonas and Monika.",
+        "lt": "Mano geriausi draugai yra Jonas ir Monika."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "C99_001",
+          "grammatical_form": "conjunction/base"
+        }
+      ],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01319",
+      "translations": {
+        "en": "We play various games together.",
+        "lt": "Mes kartu žaidžiame įvairius žaidimus."
+      },
+      "linked_words": [
+        {
+          "guid": "D01_009",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_006",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N41_018",
+          "grammatical_form": "noun/lt_accusative_plural"
+        }
+      ],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01320",
+      "translations": {
+        "en": "There is a large playground in the park.",
+        "lt": "Parke yra didelė žaidimų aikštelė."
+      },
+      "linked_words": [
+        {
+          "guid": "N07_050",
+          "grammatical_form": "noun/lt_locative_singular"
+        },
+        {
+          "guid": "V06_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A01_003",
+          "grammatical_form": null
+        }
+      ],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01321",
+      "translations": {
+        "en": "There are swings, a slide, and a ladder.",
+        "lt": "Yra sūpynės, čiuožykla ir kopėčios."
+      },
+      "linked_words": [
+        {
+          "guid": "D07_007",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "C99_001",
+          "grammatical_form": "conjunction/base"
+        },
+        {
+          "guid": "N12_051",
+          "grammatical_form": "noun/lt_nominative_plural"
+        }
+      ],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01322",
+      "translations": {
+        "en": "I like swings the most.",
+        "lt": "Man labiausiai patinka sūpuoklės."
+      },
+      "linked_words": [
+        {
+          "guid": "D09_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V05_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01323",
+      "translations": {
+        "en": "On them, I sway very high and feel like a bird.",
+        "lt": "Ant jų aš siūbuoju labai aukštai ir jaučiuosi kaip paukštis."
+      },
+      "linked_words": [
+        {
+          "guid": "D01_036",
+          "grammatical_form": null
+        },
+        {
+          "guid": "C99_001",
+          "grammatical_form": "conjunction/base"
+        },
+        {
+          "guid": "V05_005",
+          "grammatical_form": null
+        },
+        {
+          "guid": "P99_006",
+          "grammatical_form": "pronoun/lt_nominative"
+        },
+        {
+          "guid": "N02_003",
+          "grammatical_form": "noun/lt_nominative_singular"
+        }
+      ],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01324",
+      "translations": {
+        "en": "Jonas likes climbing ladders.",
+        "lt": "Jonas mėgsta kopti kopėčiomis."
+      },
+      "linked_words": [
+        {
+          "guid": "V05_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V12_024",
+          "grammatical_form": null
+        },
+        {
+          "guid": "R99_012",
+          "grammatical_form": "preposition/base"
+        },
+        {
+          "guid": "N12_051",
+          "grammatical_form": "noun/lt_accusative_plural"
+        }
+      ],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01325",
+      "translations": {
+        "en": "Oh, Monika always wants to go ice skating.",
+        "lt": "O Monika visada nori čiuožti čiuožykla."
+      },
+      "linked_words": [
+        {
+          "guid": "D07_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V05_004",
+          "grammatical_form": "verb/lt_3s_present"
+        }
+      ],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01326",
+      "translations": {
+        "en": "",
+        "lt": "Parke taip pat yra didelis tvenkinys."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01327",
+      "translations": {
+        "en": "",
+        "lt": "Tvenkinyje plaukioja antys ir gulbės."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01328",
+      "translations": {
+        "en": "",
+        "lt": "Kartais mes atsinešame duonos ir maitiname paukščius."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01329",
+      "translations": {
+        "en": "",
+        "lt": "Antys drąsiai artinasi prie mūsų."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01330",
+      "translations": {
+        "en": "",
+        "lt": "Gulbės yra gražios ir baltos."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01331",
+      "translations": {
+        "en": "",
+        "lt": "Kai oras gražus, mes žaidžiame kamuoliu ant žolės."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01332",
+      "translations": {
+        "en": "",
+        "lt": "Paskui atsisėdame po dideliu medžiu ir ilsimės."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01333",
+      "translations": {
+        "en": "",
+        "lt": "Mama dažnai atneša sumuštinių ir sulčių."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01334",
+      "translations": {
+        "en": "",
+        "lt": "Mes valgome lauke ir kalbame apie viską."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01335",
+      "translations": {
+        "en": "",
+        "lt": "Pavasarį parke žydi medžiai."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01336",
+      "translations": {
+        "en": "",
+        "lt": "Obelys ir vyšnios tampa baltos ir rožinės."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01337",
+      "translations": {
+        "en": "",
+        "lt": "Pievoje auga geltonos kiaulpienės."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01338",
+      "translations": {
+        "en": "",
+        "lt": "Vasarą žolė yra žalia ir stora."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01339",
+      "translations": {
+        "en": "",
+        "lt": "Mes gulime ant žolės ir žiūrime į dangų."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01340",
+      "translations": {
+        "en": "",
+        "lt": "Rudenį lapai keičia spalvą ir tampa geltonais, oranžiniais ir raudonais."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01341",
+      "translations": {
+        "en": "",
+        "lt": "Man labai patinka bėgti per rudeninių lapų krūvas."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01342",
+      "translations": {
+        "en": "",
+        "lt": "Žiemą parke taip pat yra labai gražu."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01343",
+      "translations": {
+        "en": "",
+        "lt": "Sniegas yra baltas ir purus."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01344",
+      "translations": {
+        "en": "",
+        "lt": "Mes rogutėmis leidžiamės nuo kalniuko."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01345",
+      "translations": {
+        "en": "",
+        "lt": "Mama liepia apsivilkti šiltus drabužius."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01346",
+      "translations": {
+        "en": "",
+        "lt": "Grįžę namo geriame karštą arbatą su medumi."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01347",
+      "translations": {
+        "en": "",
+        "lt": "Parkas yra mano mėgstamiausia vieta."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01348",
+      "translations": {
+        "en": "",
+        "lt": "Ten aš jaučiuosi laisvas ir laimingas."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01349",
+      "translations": {
+        "en": "",
+        "lt": "Ten aš turiu geriausius draugus."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
+    },
+    {
+      "sentence_id": "S_01350",
+      "translations": {
+        "en": "",
+        "lt": "Tikiuosi, kad rytoj oras bus gražus ir mes galėsime vėl eiti į parką."
+      },
+      "linked_words": [],
+      "source": "lt_sample_02_parkas.txt",
+      "minimum_level": 37
     }
   ]
 }
