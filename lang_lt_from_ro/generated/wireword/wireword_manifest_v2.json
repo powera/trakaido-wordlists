@@ -2,7 +2,7 @@
   "version": 1,
   "language": "lithuanian",
   "language_code": "lt",
-  "generated_at": "2026-05-20T01:56:30Z",
+  "generated_at": "2026-05-22T18:17:17Z",
   "source_language": "romanian",
   "source_language_code": "ro",
   "config": {
@@ -102,10 +102,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "b1dc6c2fa4ceaaf4dca173efa6075a4b.json",
+      "filename": "8c0b1a1d09ca7ee59603bd6b5b0618a2.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "b1dc6c2fa4ceaaf4dca173efa6075a4b",
+      "md5": "8c0b1a1d09ca7ee59603bd6b5b0618a2",
       "levels": [
         1,
         2,
@@ -140,10 +140,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "a6d2af2a19e916d770d2b68a467bcad5.json",
+      "filename": "a5f82a9dea2d0be11dd5e5c02f2c1853.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "a6d2af2a19e916d770d2b68a467bcad5",
+      "md5": "a5f82a9dea2d0be11dd5e5c02f2c1853",
       "levels": [
         6,
         7,
@@ -188,15 +188,15 @@
         "Sequence",
         "Size",
         "Small Movable Object",
-        "Technology Digital"
+        "Technology/Digital"
       ]
     },
     {
       "id": "levels_11_15",
-      "filename": "249125d5926978b73b8af9f715e77434.json",
+      "filename": "96b63abba5c5ca1040ba1d89dbe2c5e1.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "249125d5926978b73b8af9f715e77434",
+      "md5": "96b63abba5c5ca1040ba1d89dbe2c5e1",
       "levels": [
         11,
         12,
@@ -239,10 +239,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "d5d59dd788e2c685b2006cc3233939f7.json",
+      "filename": "0529330b952cb946355415a194047931.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "d5d59dd788e2c685b2006cc3233939f7",
+      "md5": "0529330b952cb946355415a194047931",
       "levels": [
         16,
         17,
@@ -262,7 +262,7 @@
         "Change",
         "Chemical Compound",
         "Communication",
-        "Communication Information",
+        "Communication/Information",
         "Concept/Idea",
         "Conjunction Other",
         "Directional Movement",
@@ -299,10 +299,10 @@
     },
     {
       "id": "levels_21_25",
-      "filename": "2e4a8dc8df5d3a9e5c7625be87740f59.json",
+      "filename": "431bc2b98e715b824a10714df3853157.json",
       "display_name": "Levels 21-25",
       "type": "words",
-      "md5": "2e4a8dc8df5d3a9e5c7625be87740f59",
+      "md5": "431bc2b98e715b824a10714df3853157",
       "levels": [
         21,
         22,
@@ -327,7 +327,7 @@
         "City",
         "Clothing/Accessory",
         "Communication",
-        "Communication Information",
+        "Communication/Information",
         "Concept/Idea",
         "Creation Action",
         "Destruction Action",
@@ -363,10 +363,10 @@
     },
     {
       "id": "levels_26_30",
-      "filename": "d91e9005d14870a0c04c2eb3e1877fad.json",
+      "filename": "6ad890a0dd0de7cb1e4ba4158d156715.json",
       "display_name": "Levels 26-30",
       "type": "words",
-      "md5": "d91e9005d14870a0c04c2eb3e1877fad",
+      "md5": "6ad890a0dd0de7cb1e4ba4158d156715",
       "levels": [
         26,
         27,
@@ -391,7 +391,7 @@
         "Clothing/Accessory",
         "Color",
         "Communication",
-        "Communication Information",
+        "Communication/Information",
         "Completeness",
         "Concept/Idea",
         "Conjunction Other",
@@ -441,7 +441,7 @@
         "Social Institution",
         "Specific Time",
         "Style",
-        "Technology Digital",
+        "Technology/Digital",
         "Time Period",
         "Tool",
         "Unit of Measurement",

@@ -2,7 +2,7 @@
   "version": 1,
   "language": "lithuanian",
   "language_code": "lt",
-  "generated_at": "2026-05-20T01:56:24Z",
+  "generated_at": "2026-05-22T18:17:12Z",
   "source_language": "kannada",
   "source_language_code": "kn",
   "config": {
@@ -102,10 +102,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "a0574770b45feb5357181ced9e4ef027.json",
+      "filename": "830ee7eba5b8efd95dfb43362c119fdb.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "a0574770b45feb5357181ced9e4ef027",
+      "md5": "830ee7eba5b8efd95dfb43362c119fdb",
       "levels": [
         1,
         2,
@@ -140,10 +140,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "5238d890c5a40376595357b10bc0433f.json",
+      "filename": "c557729fec9bab34d350c302a718daf7.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "5238d890c5a40376595357b10bc0433f",
+      "md5": "c557729fec9bab34d350c302a718daf7",
       "levels": [
         6,
         7,
@@ -188,15 +188,15 @@
         "Sequence",
         "Size",
         "Small Movable Object",
-        "Technology Digital"
+        "Technology/Digital"
       ]
     },
     {
       "id": "levels_11_15",
-      "filename": "91f9f301dffc177d962e85fc17e6ce03.json",
+      "filename": "a2e54983fc056a65f475f22f5f514260.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "91f9f301dffc177d962e85fc17e6ce03",
+      "md5": "a2e54983fc056a65f475f22f5f514260",
       "levels": [
         11,
         12,
@@ -239,10 +239,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "98d277833dabeac8adb3dd40f0985e6f.json",
+      "filename": "1a65eac3770797d9189d98cd4500ff45.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "98d277833dabeac8adb3dd40f0985e6f",
+      "md5": "1a65eac3770797d9189d98cd4500ff45",
       "levels": [
         16,
         17,
@@ -262,7 +262,7 @@
         "Change",
         "Chemical Compound",
         "Communication",
-        "Communication Information",
+        "Communication/Information",
         "Concept/Idea",
         "Conjunction Other",
         "Directional Movement",
@@ -299,10 +299,10 @@
     },
     {
       "id": "levels_21_25",
-      "filename": "a39ae83763ca399c08d8549d528eedae.json",
+      "filename": "33c5720f9d97007c942a3ab63f2da7e4.json",
       "display_name": "Levels 21-25",
       "type": "words",
-      "md5": "a39ae83763ca399c08d8549d528eedae",
+      "md5": "33c5720f9d97007c942a3ab63f2da7e4",
       "levels": [
         21,
         22,
@@ -327,7 +327,7 @@
         "City",
         "Clothing/Accessory",
         "Communication",
-        "Communication Information",
+        "Communication/Information",
         "Concept/Idea",
         "Creation Action",
         "Destruction Action",
@@ -363,10 +363,10 @@
     },
     {
       "id": "levels_26_30",
-      "filename": "2bbd2b6c66734d2ea20acd67ea58811a.json",
+      "filename": "7b54b6b00fe619d9763b0105bdaf34ad.json",
       "display_name": "Levels 26-30",
       "type": "words",
-      "md5": "2bbd2b6c66734d2ea20acd67ea58811a",
+      "md5": "7b54b6b00fe619d9763b0105bdaf34ad",
       "levels": [
         26,
         27,
@@ -391,7 +391,7 @@
         "Clothing/Accessory",
         "Color",
         "Communication",
-        "Communication Information",
+        "Communication/Information",
         "Completeness",
         "Concept/Idea",
         "Conjunction Other",
@@ -441,7 +441,7 @@
         "Social Institution",
         "Specific Time",
         "Style",
-        "Technology Digital",
+        "Technology/Digital",
         "Time Period",
         "Tool",
         "Unit of Measurement",
@@ -453,11 +453,11 @@
   "sentence_files": [
     {
       "id": "sentences",
-      "filename": "0535d0c13e265c83bfb1c0b77a00439a.json",
+      "filename": "550fd6027303a42149c3048e937d078d.json",
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "0535d0c13e265c83bfb1c0b77a00439a",
+      "md5": "550fd6027303a42149c3048e937d078d",
       "required": false
     }
   ],
