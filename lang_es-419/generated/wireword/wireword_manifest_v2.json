@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "language": "spanish (latin america)",
+  "language_code": "es-419",
+  "generated_at": "2026-09-01T15:48:17Z",
+  "config": {
+    "audio_prefix": "/staging",
+    "available_voices": [],
+    "default_voice": null,
+    "cdn_base": "https://wireword.trakaido.com"
+  },
+  "word_files": [
+    {
+      "id": "levels_1_5",
+      "filename": "fa907946598c0a1db9174fe3813946b2.json",
+      "display_name": "Levels 1-5",
+      "type": "words",
+      "md5": "fa907946598c0a1db9174fe3813946b2",
+      "levels": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "required": true,
+      "word_count": 186,
+      "groups": [
+        "Animals",
+        "Body Part",
+        "Building/Structure",
+        "Cardinal",
+        "Clothing/Accessory",
+        "Color",
+        "Communication",
+        "Directional Movement",
+        "Emotion",
+        "Food",
+        "Humans",
+        "Interjection Other",
+        "Occupation",
+        "Perception",
+        "Physical Action",
+        "Possession",
+        "Shape",
+        "Small Movable Object",
+        "Specific Time",
+        "Vehicle"
+      ]
+    },
+    {
+      "id": "levels_6_10",
+      "filename": "395bfa274e83e5540687966df33482e7.json",
+      "display_name": "Levels 6-10",
+      "type": "words",
+      "md5": "395bfa274e83e5540687966df33482e7",
+      "levels": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "required": true,
+      "word_count": 16,
+      "groups": [
+        "Conjunction Other",
+        "Directional Movement",
+        "Intensity",
+        "Physical Action",
+        "Preposition Other",
+        "Quality",
+        "Quality/Attribute",
+        "Relative Time"
+      ]
+    },
+    {
+      "id": "levels_11_15",
+      "filename": "077d7191c44ef79630da642377d3ef53.json",
+      "display_name": "Levels 11-15",
+      "type": "words",
+      "md5": "077d7191c44ef79630da642377d3ef53",
+      "levels": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "required": true,
+      "word_count": 6,
+      "groups": [
+        "Region"
+      ]
+    },
+    {
+      "id": "levels_26_30",
+      "filename": "d24d3e186a9a5c4ff1d225782a6f04d4.json",
+      "display_name": "Levels 26-30",
+      "type": "words",
+      "md5": "d24d3e186a9a5c4ff1d225782a6f04d4",
+      "levels": [
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "required": true,
+      "word_count": 1,
+      "groups": [
+        "Sequence"
+      ]
+    }
+  ],
+  "sentence_files": [
+    {
+      "id": "sentences",
+      "filename": "77f1b1e4d3ff5d70a0366c11c83b5b92.json",
+      "display_name": "Practice Sentences",
+      "description": "Sentences for context-based learning",
+      "type": "sentences",
+      "md5": "77f1b1e4d3ff5d70a0366c11c83b5b92",
+      "required": false
+    }
+  ],
+  "auxiliary_files": []
+}

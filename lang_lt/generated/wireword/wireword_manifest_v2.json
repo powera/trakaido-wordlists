@@ -2,7 +2,7 @@
   "version": 1,
   "language": "lithuanian",
   "language_code": "lt",
-  "generated_at": "2026-05-22T19:37:49Z",
+  "generated_at": "2026-09-01T15:48:23Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -100,10 +100,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "81c4d056feecce7e1338b4a9cedf450d.json",
+      "filename": "1dfd17ba6a4458c7abc03d5663ceb95d.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "81c4d056feecce7e1338b4a9cedf450d",
+      "md5": "1dfd17ba6a4458c7abc03d5663ceb95d",
       "levels": [
         1,
         2,
@@ -138,10 +138,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "0e0d1142a7a76e0c39fb84fca671ea28.json",
+      "filename": "f48d72c66965a6ae8c8d9e8892d8f5ff.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "0e0d1142a7a76e0c39fb84fca671ea28",
+      "md5": "f48d72c66965a6ae8c8d9e8892d8f5ff",
       "levels": [
         6,
         7,
@@ -150,7 +150,7 @@
         10
       ],
       "required": true,
-      "word_count": 261,
+      "word_count": 276,
       "groups": [
         "Animals",
         "Beverage",
@@ -161,7 +161,6 @@
         "Clothing/Accessory",
         "Communication",
         "Conjunction Other",
-        "Country",
         "Directional Movement",
         "Electronic Device",
         "Emotion",
@@ -169,6 +168,7 @@
         "Existence",
         "Food",
         "Furniture",
+        "Intensity",
         "Location",
         "Material/Substance",
         "Mental State",
@@ -183,6 +183,9 @@
         "Preposition Other",
         "Pronoun Other",
         "Quality",
+        "Quality/Attribute",
+        "Region",
+        "Relative Time",
         "Sequence",
         "Size",
         "Small Movable Object",
@@ -191,10 +194,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "033df40ed41b96cffa0dda9da2063ffd.json",
+      "filename": "e2dbcaa95d4f6f51e7015308829ce4ab.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "033df40ed41b96cffa0dda9da2063ffd",
+      "md5": "e2dbcaa95d4f6f51e7015308829ce4ab",
       "levels": [
         11,
         12,
@@ -203,7 +206,7 @@
         15
       ],
       "required": true,
-      "word_count": 343,
+      "word_count": 344,
       "groups": [
         "Activity",
         "Animals",
@@ -214,7 +217,6 @@
         "City",
         "Clothing/Accessory",
         "Communication",
-        "Country",
         "Directional Movement",
         "Emotion/Feeling",
         "Emotional State",
@@ -229,6 +231,7 @@
         "Plant Part",
         "Plants",
         "Quality",
+        "Region",
         "Small Movable Object",
         "Style",
         "Temporal Name",
@@ -237,10 +240,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "d1a8ac81c8236fe921d6e42a41a93c0d.json",
+      "filename": "70ccc9b976f14594915202b01e87f19c.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "d1a8ac81c8236fe921d6e42a41a93c0d",
+      "md5": "70ccc9b976f14594915202b01e87f19c",
       "levels": [
         16,
         17,
@@ -297,10 +300,10 @@
     },
     {
       "id": "levels_21_25",
-      "filename": "61f957909a232779846a112ebeb6bcb0.json",
+      "filename": "b6608011429ce85d6a1126520f919808.json",
       "display_name": "Levels 21-25",
       "type": "words",
-      "md5": "61f957909a232779846a112ebeb6bcb0",
+      "md5": "b6608011429ce85d6a1126520f919808",
       "levels": [
         21,
         22,
@@ -361,10 +364,10 @@
     },
     {
       "id": "levels_26_30",
-      "filename": "274a9af527084ddbb961e401bf03f15c.json",
+      "filename": "5e61c0b217d5fbabc9478a4302ae5f90.json",
       "display_name": "Levels 26-30",
       "type": "words",
-      "md5": "274a9af527084ddbb961e401bf03f15c",
+      "md5": "5e61c0b217d5fbabc9478a4302ae5f90",
       "levels": [
         26,
         27,
@@ -373,11 +376,10 @@
         30
       ],
       "required": true,
-      "word_count": 801,
+      "word_count": 802,
       "groups": [
         "Abstract Condition",
         "Activity",
-        "Adverb Duration",
         "Adverb Other",
         "Animals",
         "Body Part",
@@ -401,6 +403,7 @@
         "Direction",
         "Directional Movement",
         "Disease/Condition",
+        "Duration",
         "Electronic Device",
         "Emotion",
         "Family Relation",
@@ -451,11 +454,11 @@
   "sentence_files": [
     {
       "id": "sentences",
-      "filename": "b24d7e13c1258eaf88dbfd20d1d885d3.json",
+      "filename": "89562a440b6fad2001f2b3bd039dc155.json",
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "b24d7e13c1258eaf88dbfd20d1d885d3",
+      "md5": "89562a440b6fad2001f2b3bd039dc155",
       "required": false
     }
   ],

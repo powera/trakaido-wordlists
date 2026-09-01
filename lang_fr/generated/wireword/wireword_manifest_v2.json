@@ -2,7 +2,7 @@
   "version": 1,
   "language": "french",
   "language_code": "fr",
-  "generated_at": "2026-05-04T14:59:26Z",
+  "generated_at": "2026-09-01T15:48:13Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -89,10 +89,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "bf21cc657edc55e6020ecb6842cb98e6.json",
+      "filename": "f9a750b298f1cbaf877989befbb8dd86.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "bf21cc657edc55e6020ecb6842cb98e6",
+      "md5": "f9a750b298f1cbaf877989befbb8dd86",
       "levels": [
         1,
         2,
@@ -127,10 +127,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "5f76c3ae2eb30bc15417068d9c7f4ed7.json",
+      "filename": "8d29aec15e65019403862b61bf4a7b51.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "5f76c3ae2eb30bc15417068d9c7f4ed7",
+      "md5": "8d29aec15e65019403862b61bf4a7b51",
       "levels": [
         6,
         7,
@@ -139,7 +139,7 @@
         10
       ],
       "required": true,
-      "word_count": 256,
+      "word_count": 271,
       "groups": [
         "Animals",
         "Beverage",
@@ -150,7 +150,6 @@
         "Clothing/Accessory",
         "Communication",
         "Conjunction Other",
-        "Country",
         "Directional Movement",
         "Electronic Device",
         "Emotion",
@@ -158,6 +157,7 @@
         "Existence",
         "Food",
         "Furniture",
+        "Intensity",
         "Location",
         "Material/Substance",
         "Mental State",
@@ -172,18 +172,21 @@
         "Preposition Other",
         "Pronoun Other",
         "Quality",
+        "Quality/Attribute",
+        "Region",
+        "Relative Time",
         "Sequence",
         "Size",
         "Small Movable Object",
-        "Technology Digital"
+        "Technology/Digital"
       ]
     },
     {
       "id": "levels_11_15",
-      "filename": "9ea520a5a9d5cebf9b071562848105cc.json",
+      "filename": "b9c5e553fb6affbcfc42044eeffbf1f4.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "9ea520a5a9d5cebf9b071562848105cc",
+      "md5": "b9c5e553fb6affbcfc42044eeffbf1f4",
       "levels": [
         11,
         12,
@@ -192,7 +195,7 @@
         15
       ],
       "required": true,
-      "word_count": 340,
+      "word_count": 341,
       "groups": [
         "Activity",
         "Animals",
@@ -203,7 +206,6 @@
         "City",
         "Clothing/Accessory",
         "Communication",
-        "Country",
         "Directional Movement",
         "Emotion/Feeling",
         "Emotional State",
@@ -218,6 +220,7 @@
         "Plant Part",
         "Plants",
         "Quality",
+        "Region",
         "Small Movable Object",
         "Style",
         "Temporal Name",
@@ -226,10 +229,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "e931e3a9ccdd63f526406c40f5d4770d.json",
+      "filename": "c8e6963a52aa3b6b5973d69d04fe38f6.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "e931e3a9ccdd63f526406c40f5d4770d",
+      "md5": "c8e6963a52aa3b6b5973d69d04fe38f6",
       "levels": [
         16,
         17,
@@ -249,7 +252,7 @@
         "Change",
         "Chemical Compound",
         "Communication",
-        "Communication Information",
+        "Communication/Information",
         "Concept/Idea",
         "Conjunction Other",
         "Directional Movement",
@@ -288,11 +291,11 @@
   "sentence_files": [
     {
       "id": "sentences",
-      "filename": "d9526b53703193938c1d7c45a9a3aa2e.json",
+      "filename": "b10728bae973c6b55b34b9e93ccd0568.json",
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "d9526b53703193938c1d7c45a9a3aa2e",
+      "md5": "b10728bae973c6b55b34b9e93ccd0568",
       "required": false
     }
   ],

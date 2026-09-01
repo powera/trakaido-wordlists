@@ -2,7 +2,7 @@
   "version": 1,
   "language": "chinese",
   "language_code": "zh",
-  "generated_at": "2026-05-04T14:59:22Z",
+  "generated_at": "2026-09-01T15:48:15Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -30,10 +30,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "a81d6197a2879cd734cb44e568ec2c08.json",
+      "filename": "12a6423fd9dcdc1f7b49287cf170c467.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "a81d6197a2879cd734cb44e568ec2c08",
+      "md5": "12a6423fd9dcdc1f7b49287cf170c467",
       "levels": [
         1,
         2,
@@ -42,7 +42,7 @@
         5
       ],
       "required": true,
-      "word_count": 187,
+      "word_count": 186,
       "groups": [
         "Animals",
         "Body Part",
@@ -68,10 +68,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "d8a23f3827dbc0e4f297a416d50c2379.json",
+      "filename": "d2b77951a900502e8283d49f583e557b.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "d8a23f3827dbc0e4f297a416d50c2379",
+      "md5": "d2b77951a900502e8283d49f583e557b",
       "levels": [
         6,
         7,
@@ -80,7 +80,7 @@
         10
       ],
       "required": true,
-      "word_count": 258,
+      "word_count": 273,
       "groups": [
         "Animals",
         "Beverage",
@@ -91,7 +91,6 @@
         "Clothing/Accessory",
         "Communication",
         "Conjunction Other",
-        "Country",
         "Directional Movement",
         "Electronic Device",
         "Emotion",
@@ -99,6 +98,7 @@
         "Existence",
         "Food",
         "Furniture",
+        "Intensity",
         "Location",
         "Material/Substance",
         "Mental State",
@@ -113,18 +113,21 @@
         "Preposition Other",
         "Pronoun Other",
         "Quality",
+        "Quality/Attribute",
+        "Region",
+        "Relative Time",
         "Sequence",
         "Size",
         "Small Movable Object",
-        "Technology Digital"
+        "Technology/Digital"
       ]
     },
     {
       "id": "levels_11_15",
-      "filename": "57703bf047ac5d9d77b67b45d43a3b85.json",
+      "filename": "2913042d64efe1a34600992d47d7c3af.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "57703bf047ac5d9d77b67b45d43a3b85",
+      "md5": "2913042d64efe1a34600992d47d7c3af",
       "levels": [
         11,
         12,
@@ -133,7 +136,7 @@
         15
       ],
       "required": true,
-      "word_count": 342,
+      "word_count": 343,
       "groups": [
         "Activity",
         "Animals",
@@ -144,7 +147,6 @@
         "City",
         "Clothing/Accessory",
         "Communication",
-        "Country",
         "Directional Movement",
         "Emotion/Feeling",
         "Emotional State",
@@ -159,6 +161,7 @@
         "Plant Part",
         "Plants",
         "Quality",
+        "Region",
         "Small Movable Object",
         "Style",
         "Temporal Name",
@@ -167,10 +170,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "7b9a807b943a630fb369ecc3081ca197.json",
+      "filename": "01ee744ce0b6d6da07e8d81c859c9be5.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "7b9a807b943a630fb369ecc3081ca197",
+      "md5": "01ee744ce0b6d6da07e8d81c859c9be5",
       "levels": [
         16,
         17,
@@ -190,7 +193,7 @@
         "Change",
         "Chemical Compound",
         "Communication",
-        "Communication Information",
+        "Communication/Information",
         "Concept/Idea",
         "Conjunction Other",
         "Directional Movement",
@@ -229,11 +232,11 @@
   "sentence_files": [
     {
       "id": "sentences",
-      "filename": "a4c16a97d8d8bbaee6f39cd449e88e13.json",
+      "filename": "fc88629af24e30f75e3895247791cf07.json",
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "a4c16a97d8d8bbaee6f39cd449e88e13",
+      "md5": "fc88629af24e30f75e3895247791cf07",
       "required": false
     }
   ],

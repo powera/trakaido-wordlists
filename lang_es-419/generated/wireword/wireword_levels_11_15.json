@@ -1,0 +1,8 @@
+[
+  {"guid": "N45_100", "base_target": "Europa", "base_english": "Europe", "cognate": true, "corpus": "WORDS4", "group": "Region", "level": 14, "word_type": "noun", "tags": ["region", "level_14"]},
+  {"guid": "N45_101", "base_target": "Asia", "base_english": "Asia", "cognate": true, "corpus": "WORDS4", "group": "Region", "level": 14, "word_type": "noun", "tags": ["region", "level_14"]},
+  {"guid": "N45_102", "base_target": "África", "base_english": "Africa", "cognate": true, "corpus": "WORDS4", "group": "Region", "level": 14, "word_type": "noun", "tags": ["region", "level_14"]},
+  {"guid": "N45_103", "base_target": "Norteamérica", "base_english": "North America", "cognate": true, "corpus": "WORDS4", "group": "Region", "level": 14, "word_type": "noun", "tags": ["region", "level_14"]},
+  {"guid": "N45_104", "base_target": "Sudamérica", "base_english": "South America", "cognate": false, "corpus": "WORDS4", "group": "Region", "level": 14, "word_type": "noun", "tags": ["region", "level_14"]},
+  {"guid": "N45_105", "base_target": "Antártida", "base_english": "Antarctica", "cognate": true, "corpus": "WORDS4", "group": "Region", "level": 14, "word_type": "noun", "tags": ["region", "level_14"]}
+]
