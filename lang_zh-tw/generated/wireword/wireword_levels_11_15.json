@@ -1,0 +1,7 @@
+[
+  {"guid": "N06_011", "base_target": "奶油", "base_english": "butter", "cognate": false, "corpus": "WORDS2", "group": "Food", "level": 11, "word_type": "noun", "target_pinyin": "nǎi yóu", "frequency_rank": 336, "emoji": "🧈", "tags": ["food", "level_11"]},
+  {"guid": "N06_043", "base_target": "萊姆", "base_english": "lime", "cognate": false, "corpus": "WORDS2", "group": "Food", "level": 11, "word_type": "noun", "target_pinyin": "lái mǔ", "frequency_rank": 2071, "tags": ["food", "level_11"]},
+  {"guid": "N06_062", "base_target": "萵苣", "base_english": "lettuce", "cognate": false, "corpus": "WORDS2", "group": "Food", "level": 11, "word_type": "noun", "target_pinyin": "wō jù", "frequency_rank": 2354, "tags": ["food", "level_11"]},
+  {"guid": "N06_079", "base_target": "鮭魚", "base_english": "salmon", "cognate": false, "corpus": "WORDS2", "group": "Food", "level": 11, "word_type": "noun", "target_pinyin": "guī yú", "frequency_rank": 4553, "tags": ["food", "level_11"]},
+  {"guid": "N06_080", "base_target": "鮪魚", "base_english": "tuna", "cognate": false, "corpus": "WORDS2", "group": "Food", "level": 11, "word_type": "noun", "target_pinyin": "wěi yú", "frequency_rank": 7487, "tags": ["food", "level_11"]}
+]

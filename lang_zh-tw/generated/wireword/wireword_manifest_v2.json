@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "language": "chinese (taiwan)",
+  "language_code": "zh-tw",
+  "generated_at": "2026-09-01T17:05:40Z",
+  "config": {
+    "audio_prefix": "/prod",
+    "available_voices": [],
+    "default_voice": null,
+    "reading": {
+      "style": "ruby",
+      "default_system": "pinyin",
+      "systems": [
+        {
+          "id": "pinyin",
+          "label": "Pinyin",
+          "word_field": "target_pinyin",
+          "grammatical_form_field": "target_pinyin",
+          "alternatives_field": "target_alternatives_pinyin",
+          "synonyms_field": "target_synonyms_pinyin",
+          "sentence_translation_field": "pinyin"
+        }
+      ]
+    }
+  },
+  "word_files": [
+    {
+      "id": "levels_1_5",
+      "filename": "wireword_levels_1_5.json",
+      "display_name": "Levels 1-5",
+      "type": "words",
+      "md5": "1bef553d9f8ba028b7adc5aecd39d91f",
+      "levels": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "required": true,
+      "word_count": 186,
+      "groups": [
+        "Animals",
+        "Body Part",
+        "Building/Structure",
+        "Cardinal",
+        "Clothing/Accessory",
+        "Color",
+        "Communication",
+        "Directional Movement",
+        "Emotion",
+        "Food",
+        "Humans",
+        "Interjection Other",
+        "Occupation",
+        "Perception",
+        "Physical Action",
+        "Possession",
+        "Shape",
+        "Small Movable Object",
+        "Specific Time",
+        "Vehicle"
+      ]
+    },
+    {
+      "id": "levels_6_10",
+      "filename": "wireword_levels_6_10.json",
+      "display_name": "Levels 6-10",
+      "type": "words",
+      "md5": "eeae74ba1ac1789a25d83c21bb81b0e6",
+      "levels": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "required": true,
+      "word_count": 6,
+      "groups": [
+        "Building/Structure",
+        "Material/Substance",
+        "Technology/Digital"
+      ]
+    },
+    {
+      "id": "levels_11_15",
+      "filename": "wireword_levels_11_15.json",
+      "display_name": "Levels 11-15",
+      "type": "words",
+      "md5": "75aab0c5a34e4fa0b4e6ea915da7cc4a",
+      "levels": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "required": true,
+      "word_count": 5,
+      "groups": [
+        "Food"
+      ]
+    }
+  ],
+  "sentence_files": [
+    {
+      "id": "sentences",
+      "filename": "wireword_sentences.json",
+      "display_name": "Practice Sentences",
+      "description": "Sentences for context-based learning",
+      "type": "sentences",
+      "md5": "77f1b1e4d3ff5d70a0366c11c83b5b92",
+      "required": false
+    }
+  ],
+  "auxiliary_files": []
+}

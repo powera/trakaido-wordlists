@@ -1,0 +1,8 @@
+[
+  {"guid": "N07_012", "base_target": "藥局", "base_english": "pharmacy", "cognate": false, "corpus": "WORDS2", "group": "Building/Structure", "level": 8, "word_type": "noun", "target_pinyin": "yào jú", "frequency_rank": 8420, "tags": ["building_structure", "level_8"]},
+  {"guid": "N14_009", "base_target": "塑膠", "base_english": "plastic", "cognate": false, "corpus": "WORDS3", "group": "Material/Substance", "level": 8, "word_type": "noun", "target_pinyin": "sù jiāo", "frequency_rank": 2997, "tags": ["material_substance", "level_8"]},
+  {"guid": "N52_001", "base_target": "網際網路", "base_english": "internet", "cognate": false, "corpus": "WORDS3", "group": "Technology/Digital", "level": 9, "word_type": "noun", "target_pinyin": "wǎng jì wǎng lù", "frequency_rank": 3958, "tags": ["technology_digital", "level_9"]},
+  {"guid": "N52_004", "base_target": "社群媒體", "base_english": "social media", "cognate": false, "corpus": "WORDS3", "group": "Technology/Digital", "level": 9, "word_type": "noun", "target_pinyin": "shè qún méi tǐ", "frequency_rank": 7884, "tags": ["technology_digital", "level_9"]},
+  {"guid": "N52_005", "base_target": "程式設計", "base_english": "programming", "cognate": false, "corpus": "WORDS3", "group": "Technology/Digital", "level": 9, "word_type": "noun", "target_pinyin": "chéng shì shè jì", "frequency_rank": 3145, "tags": ["technology_digital", "level_9"]},
+  {"guid": "N52_009", "base_target": "電玩遊戲", "base_english": "video game", "cognate": false, "corpus": "WORDS3", "group": "Technology/Digital", "level": 9, "word_type": "noun", "target_pinyin": "diàn wán yóu xì", "frequency_rank": 4558, "tags": ["technology_digital", "level_9"]}
+]
