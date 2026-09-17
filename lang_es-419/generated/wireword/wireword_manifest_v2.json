@@ -1,21 +1,82 @@
 {
   "version": 1,
-  "language": "spanish (latin america)",
+  "language": "spanish",
   "language_code": "es-419",
-  "generated_at": "2026-09-01T15:48:17Z",
+  "variant": "es-419",
+  "generated_at": "2026-09-17T02:55:35Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [],
     "default_voice": null,
-    "cdn_base": "https://wireword.trakaido.com"
+    "cdn_base": "https://wireword.trakaido.com",
+    "grammar": {
+      "conjugation": {
+        "tenses": [
+          {
+            "id": "past",
+            "label": "Past Tense",
+            "order": 1,
+            "has_persons": true,
+            "person_slots": [
+              "1s",
+              "2s",
+              "3s",
+              "1p",
+              "2p",
+              "3p"
+            ],
+            "description": "Simple past forms used in core conjugation activities. The 2p slot is the ustedes form, which is identical to the 3p form; Latin American Spanish has no vosotros."
+          },
+          {
+            "id": "pres",
+            "label": "Present Tense",
+            "order": 2,
+            "has_persons": true,
+            "person_slots": [
+              "1s",
+              "2s",
+              "3s",
+              "1p",
+              "2p",
+              "3p"
+            ],
+            "description": "Present indicative conjugations. The 2p slot is the ustedes form, which is identical to the 3p form; Latin American Spanish has no vosotros."
+          },
+          {
+            "id": "fut",
+            "label": "Future Tense",
+            "order": 3,
+            "has_persons": true,
+            "person_slots": [
+              "1s",
+              "2s",
+              "3s",
+              "1p",
+              "2p",
+              "3p"
+            ],
+            "description": "Future tense conjugations. The 2p slot is the ustedes form, which is identical to the 3p form; Latin American Spanish has no vosotros."
+          }
+        ],
+        "second_person_plural": "ustedes",
+        "person_labels": {
+          "1s": "yo",
+          "2s": "tú/usted",
+          "3s": "él/ella",
+          "1p": "nosotros/nosotras",
+          "2p": "ustedes",
+          "3p": "ellos/ellas"
+        }
+      }
+    }
   },
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "fa907946598c0a1db9174fe3813946b2.json",
+      "filename": "d3671699484a0be7d7b1e5de3f776e1a.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "fa907946598c0a1db9174fe3813946b2",
+      "md5": "d3671699484a0be7d7b1e5de3f776e1a",
       "levels": [
         1,
         2,
@@ -24,7 +85,7 @@
         5
       ],
       "required": true,
-      "word_count": 186,
+      "word_count": 206,
       "groups": [
         "Animals",
         "Body Part",
@@ -35,13 +96,13 @@
         "Communication",
         "Directional Movement",
         "Emotion",
+        "Family Relation",
         "Food",
         "Humans",
         "Interjection Other",
         "Occupation",
         "Perception",
         "Physical Action",
-        "Possession",
         "Shape",
         "Small Movable Object",
         "Specific Time",
@@ -50,10 +111,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "395bfa274e83e5540687966df33482e7.json",
+      "filename": "fb88a24bd1194200b5abff726e7364ba.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "395bfa274e83e5540687966df33482e7",
+      "md5": "fb88a24bd1194200b5abff726e7364ba",
       "levels": [
         6,
         7,
@@ -62,24 +123,32 @@
         10
       ],
       "required": true,
-      "word_count": 16,
+      "word_count": 226,
       "groups": [
+        "Adverb Other",
+        "Beverage",
+        "Building/Structure",
+        "Concept/Idea",
         "Conjunction Other",
-        "Directional Movement",
-        "Intensity",
+        "Creation Action",
+        "Determiner Other",
+        "Food",
+        "Interjection Other",
         "Physical Action",
         "Preposition Other",
-        "Quality",
-        "Quality/Attribute",
-        "Relative Time"
+        "Process/Event",
+        "Pronoun Other",
+        "Region",
+        "Relative Time",
+        "Time Period"
       ]
     },
     {
       "id": "levels_11_15",
-      "filename": "077d7191c44ef79630da642377d3ef53.json",
+      "filename": "8bd0141fe0503e11d94a96c9b3852787.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "077d7191c44ef79630da642377d3ef53",
+      "md5": "8bd0141fe0503e11d94a96c9b3852787",
       "levels": [
         11,
         12,
@@ -88,17 +157,94 @@
         15
       ],
       "required": true,
-      "word_count": 6,
+      "word_count": 228,
       "groups": [
-        "Region"
+        "Body Part",
+        "Building/Structure",
+        "Disease/Condition",
+        "Emotion",
+        "Emotion/Feeling",
+        "Emotional State",
+        "Food",
+        "Medication/Remedy",
+        "Mental State",
+        "Personal Quality",
+        "Physical Action",
+        "Physical Property",
+        "Quality",
+        "Quality/Attribute",
+        "Shape"
+      ]
+    },
+    {
+      "id": "levels_16_20",
+      "filename": "4b1c6964f409714e8dbdf74b1ebad1b5.json",
+      "display_name": "Levels 16-20",
+      "type": "words",
+      "md5": "4b1c6964f409714e8dbdf74b1ebad1b5",
+      "levels": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "required": true,
+      "word_count": 213,
+      "groups": [
+        "Disease/Condition",
+        "Food",
+        "Natural Feature",
+        "Personal Quality",
+        "Physical Action",
+        "Physical Property",
+        "Quality",
+        "Region",
+        "Size"
+      ]
+    },
+    {
+      "id": "levels_21_25",
+      "filename": "91e91c2594dd1f1bc5743e9d53d192ac.json",
+      "display_name": "Levels 21-25",
+      "type": "words",
+      "md5": "91e91c2594dd1f1bc5743e9d53d192ac",
+      "levels": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "required": true,
+      "word_count": 238,
+      "groups": [
+        "Appliance",
+        "Body Part",
+        "Building Part",
+        "Building/Structure",
+        "Clothing/Accessory",
+        "Color",
+        "Completeness",
+        "Destruction Action",
+        "Furniture",
+        "Intensity",
+        "Knowledge Domain",
+        "Material/Substance",
+        "Natural Feature",
+        "Process/Event",
+        "Quality",
+        "Small Movable Object",
+        "Style",
+        "Technology/Digital"
       ]
     },
     {
       "id": "levels_26_30",
-      "filename": "d24d3e186a9a5c4ff1d225782a6f04d4.json",
+      "filename": "d7248dad0ac61bc74f4b43e04943dec5.json",
       "display_name": "Levels 26-30",
       "type": "words",
-      "md5": "d24d3e186a9a5c4ff1d225782a6f04d4",
+      "md5": "d7248dad0ac61bc74f4b43e04943dec5",
       "levels": [
         26,
         27,
@@ -107,9 +253,25 @@
         30
       ],
       "required": true,
-      "word_count": 1,
+      "word_count": 226,
       "groups": [
-        "Sequence"
+        "Animal Grouping",
+        "Animals",
+        "Artwork/Artifact",
+        "Building/Structure",
+        "Concept/Idea",
+        "Creation Action",
+        "Directional Movement",
+        "Natural Feature",
+        "Plant Part",
+        "Plants",
+        "Possession",
+        "Quantitative Concept",
+        "Region",
+        "Shape",
+        "Small Movable Object",
+        "Technology/Digital",
+        "Time Period"
       ]
     }
   ],

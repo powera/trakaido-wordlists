@@ -18,7 +18,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 29
     },
     {
       "sentence_id": "S_00013",
@@ -33,7 +33,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 13
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_00014",
@@ -56,7 +56,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_00015",
@@ -75,7 +75,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 36
     },
     {
       "sentence_id": "S_00016",
@@ -94,7 +94,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 36
     },
     {
       "sentence_id": "S_00023",
@@ -117,7 +117,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 14
     },
     {
       "sentence_id": "S_00030",
@@ -140,7 +140,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00039",
@@ -163,7 +163,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 35
     },
     {
       "sentence_id": "S_00045",
@@ -182,7 +182,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 36
     },
     {
       "sentence_id": "S_00046",
@@ -205,7 +205,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00052",
@@ -266,7 +266,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 31
     },
     {
       "sentence_id": "S_00067",
@@ -289,7 +289,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 14
     },
     {
       "sentence_id": "S_00074",
@@ -312,7 +312,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 31
     },
     {
       "sentence_id": "S_00076",
@@ -331,7 +331,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00080",
@@ -350,7 +350,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 52
     },
     {
       "sentence_id": "S_00081",
@@ -369,7 +369,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 31
     },
     {
       "sentence_id": "S_00084",
@@ -392,7 +392,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 33
     },
     {
       "sentence_id": "S_00088",
@@ -421,7 +421,7 @@
         "pinyin": "wǒ jiào lú kǎ sī 。"
       },
       "linked_words": [],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00098",
@@ -431,7 +431,7 @@
         "pinyin": "wǒ bā suì le 。"
       },
       "linked_words": [],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00099",
@@ -441,7 +441,7 @@
         "pinyin": "wǒ zhù zài yī suǒ xiǎo fáng zi lǐ ， hé wǒ de jiā rén yì qǐ 。"
       },
       "linked_words": [],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00100",
@@ -451,7 +451,7 @@
         "pinyin": "wǒ men jiā yǒu sì kǒu rén ： bà bà 、 mā mā 、 jiě jiě hé wǒ 。"
       },
       "linked_words": [],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00101",
@@ -461,7 +461,7 @@
         "pinyin": "bà bà yòu gāo yòu qiáng zhuàng 。"
       },
       "linked_words": [],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00102",
@@ -471,7 +471,7 @@
         "pinyin": "tā zài chéng shì lǐ yī jiā dà gōng sī gōng zuò 。"
       },
       "linked_words": [],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00103",
@@ -481,7 +481,7 @@
         "pinyin": "měi tiān zǎo shàng ， bà bà dōu qǐ dé hěn zǎo 。"
       },
       "linked_words": [],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00104",
@@ -491,7 +491,7 @@
         "pinyin": "tā hē kā fēi ， chī miàn bāo hé nǎi lào 。"
       },
       "linked_words": [],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00120",
@@ -506,7 +506,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00121",
@@ -529,7 +529,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00122",
@@ -552,7 +552,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00123",
@@ -587,7 +587,7 @@
           "grammatical_form": "verb/zh_base"
         }
       ],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00124",
@@ -618,7 +618,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00125",
@@ -645,7 +645,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00126",
@@ -672,7 +672,7 @@
           "grammatical_form": "determiner/base"
         }
       ],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00127",
@@ -682,7 +682,7 @@
         "pinyin": "xià tiān ， wǒ men zuò zài wài miàn de zhǎng dèng shàng chī bīng qí lín 。"
       },
       "linked_words": [],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00128",
@@ -709,7 +709,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00129",
@@ -736,7 +736,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00130",
@@ -759,7 +759,7 @@
           "grammatical_form": "conjunction/base"
         }
       ],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00131",
@@ -778,7 +778,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00132",
@@ -805,7 +805,7 @@
           "grammatical_form": "conjunction/base"
         }
       ],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00133",
@@ -828,7 +828,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00134",
@@ -855,7 +855,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00135",
@@ -874,7 +874,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00136",
@@ -901,7 +901,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00137",
@@ -924,7 +924,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00138",
@@ -955,7 +955,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00139",
@@ -965,7 +965,7 @@
         "pinyin": "wǒ men jiā fù jìn yǒu yí gè dà gōng yuán 。"
       },
       "linked_words": [],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00140",
@@ -975,7 +975,7 @@
         "pinyin": "wǒ fēi cháng xǐ huān qù nà lǐ 。"
       },
       "linked_words": [],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00141",
@@ -985,7 +985,7 @@
         "pinyin": "gōng yuán lǐ yǒu hěn duō shù 、 huā hé lǜ zhí 。"
       },
       "linked_words": [],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00142",
@@ -995,7 +995,7 @@
         "pinyin": "nà lǐ fēng zài shā shā zuò xiǎng ， niǎo ér zài zhōu jiū 。"
       },
       "linked_words": [],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00143",
@@ -1005,7 +1005,7 @@
         "pinyin": "měi gè xīng qī liù zǎo chén ， mā mā huò zhě bà bà dài wǒ qù gōng yuán 。"
       },
       "linked_words": [],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00144",
@@ -1024,7 +1024,7 @@
           "grammatical_form": "verb/zh_base"
         }
       ],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00145",
@@ -1043,7 +1043,7 @@
           "grammatical_form": "conjunction/base"
         }
       ],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00146",
@@ -1066,7 +1066,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00147",
@@ -1093,7 +1093,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00148",
@@ -1120,7 +1120,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00149",
@@ -1139,7 +1139,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00150",
@@ -1166,7 +1166,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00151",
@@ -1189,7 +1189,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00152",
@@ -1212,7 +1212,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 37
+      "minimum_level": 101
     },
     {
       "sentence_id": "S_00184",
@@ -1227,7 +1227,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 41
     },
     {
       "sentence_id": "S_00186",
@@ -1246,7 +1246,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 41
     },
     {
       "sentence_id": "S_00187",
@@ -1269,7 +1269,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 29
     },
     {
       "sentence_id": "S_00188",
@@ -1292,7 +1292,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00189",
@@ -1311,7 +1311,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 41
     },
     {
       "sentence_id": "S_00191",
@@ -1334,7 +1334,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00192",
@@ -1353,7 +1353,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 54
     },
     {
       "sentence_id": "S_00197",
@@ -1380,7 +1380,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 21
     },
     {
       "sentence_id": "S_00198",
@@ -1399,7 +1399,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 41
     },
     {
       "sentence_id": "S_00199",
@@ -1422,7 +1422,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 4
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00200",
@@ -1445,7 +1445,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 14
     },
     {
       "sentence_id": "S_00205",
@@ -1495,7 +1495,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 4
+      "minimum_level": 25
     },
     {
       "sentence_id": "S_00208",
@@ -1518,7 +1518,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00219",
@@ -1591,7 +1591,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00224",
@@ -1610,7 +1610,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 14
     },
     {
       "sentence_id": "S_00225",
@@ -1633,7 +1633,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 14
     },
     {
       "sentence_id": "S_00226",
@@ -1652,7 +1652,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 46
     },
     {
       "sentence_id": "S_00229",
@@ -1671,7 +1671,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00231",
@@ -1740,7 +1740,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 7
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00236",
@@ -1809,7 +1809,7 @@
           "grammatical_form": "verb/zh_base"
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 14
     },
     {
       "sentence_id": "S_00240",
@@ -1901,7 +1901,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 7
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00249",
@@ -1989,7 +1989,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00259",
@@ -2012,7 +2012,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 5
+      "minimum_level": 7
     },
     {
       "sentence_id": "S_00261",
@@ -2031,7 +2031,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_00262",
@@ -2073,7 +2073,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 29
     },
     {
       "sentence_id": "S_00267",
@@ -2088,7 +2088,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 29
     },
     {
       "sentence_id": "S_00268",
@@ -2115,7 +2115,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_00269",
@@ -2138,7 +2138,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 24
     },
     {
       "sentence_id": "S_00276",
@@ -2165,7 +2165,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00277",
@@ -2184,7 +2184,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 29
     },
     {
       "sentence_id": "S_00278",
@@ -2203,7 +2203,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 36
     },
     {
       "sentence_id": "S_00279",
@@ -2222,7 +2222,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 35
     },
     {
       "sentence_id": "S_00280",
@@ -2241,7 +2241,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 29
     },
     {
       "sentence_id": "S_00281",
@@ -2264,7 +2264,7 @@
           "grammatical_form": "preposition/base"
         }
       ],
-      "minimum_level": 20
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00282",
@@ -2283,7 +2283,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 46
     },
     {
       "sentence_id": "S_00285",
@@ -2310,7 +2310,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 4
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_00286",
@@ -2375,7 +2375,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 33
     },
     {
       "sentence_id": "S_00292",
@@ -2532,7 +2532,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 14
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_00303",
@@ -2582,7 +2582,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 36
     },
     {
       "sentence_id": "S_00305",
@@ -2605,7 +2605,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 33
     },
     {
       "sentence_id": "S_00307",
@@ -2624,7 +2624,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 21
+      "minimum_level": 36
     },
     {
       "sentence_id": "S_00308",
@@ -2639,7 +2639,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 36
     },
     {
       "sentence_id": "S_00309",
@@ -2662,7 +2662,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00310",
@@ -2681,7 +2681,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 44
     },
     {
       "sentence_id": "S_00311",
@@ -2704,7 +2704,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 14
+      "minimum_level": 31
     },
     {
       "sentence_id": "S_00313",
@@ -2727,7 +2727,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 39
     },
     {
       "sentence_id": "S_00315",
@@ -2750,7 +2750,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00316",
@@ -2769,7 +2769,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 44
     },
     {
       "sentence_id": "S_00317",
@@ -2788,7 +2788,7 @@
           "grammatical_form": "verb/zh_base"
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 44
     },
     {
       "sentence_id": "S_00320",
@@ -2807,7 +2807,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00323",
@@ -2830,7 +2830,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 26
     },
     {
       "sentence_id": "S_00324",
@@ -2853,7 +2853,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 11
     },
     {
       "sentence_id": "S_00325",
@@ -2876,7 +2876,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 41
     },
     {
       "sentence_id": "S_00326",
@@ -2895,7 +2895,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 31
     },
     {
       "sentence_id": "S_00327",
@@ -2914,7 +2914,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 43
     },
     {
       "sentence_id": "S_00328",
@@ -2937,7 +2937,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 13
+      "minimum_level": 43
     },
     {
       "sentence_id": "S_00329",
@@ -2956,7 +2956,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 53
     },
     {
       "sentence_id": "S_00330",
@@ -2979,7 +2979,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 13
+      "minimum_level": 43
     },
     {
       "sentence_id": "S_00331",
@@ -2998,7 +2998,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 13
+      "minimum_level": 53
     },
     {
       "sentence_id": "S_00333",
@@ -3021,7 +3021,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 13
+      "minimum_level": 35
     },
     {
       "sentence_id": "S_00334",
@@ -3040,7 +3040,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 43
     },
     {
       "sentence_id": "S_00335",
@@ -3059,7 +3059,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 43
     },
     {
       "sentence_id": "S_00336",
@@ -3105,7 +3105,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 37
     },
     {
       "sentence_id": "S_00338",
@@ -3124,7 +3124,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 21
+      "minimum_level": 52
     },
     {
       "sentence_id": "S_00339",
@@ -3147,7 +3147,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_00340",
@@ -3170,7 +3170,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_00341",
@@ -3208,7 +3208,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00343",
@@ -3231,7 +3231,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00344",
@@ -3254,7 +3254,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_00345",
@@ -3277,7 +3277,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 1
     },
     {
       "sentence_id": "S_00346",
@@ -3365,7 +3365,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 14
     },
     {
       "sentence_id": "S_00353",
@@ -3411,7 +3411,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00360",
@@ -3476,7 +3476,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 2
     },
     {
       "sentence_id": "S_00367",
@@ -3575,7 +3575,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 13
+      "minimum_level": 31
     },
     {
       "sentence_id": "S_00373",
@@ -3644,7 +3644,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00376",
@@ -3690,7 +3690,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00380",
@@ -3759,7 +3759,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00385",
@@ -3782,7 +3782,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 23
     },
     {
       "sentence_id": "S_00386",
@@ -3805,7 +3805,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00387",
@@ -3824,7 +3824,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00388",
@@ -3847,7 +3847,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 23
     },
     {
       "sentence_id": "S_00390",
@@ -3866,7 +3866,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 13
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00391",
@@ -3885,7 +3885,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00392",
@@ -3908,7 +3908,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 5
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00393",
@@ -3954,7 +3954,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 5
+      "minimum_level": 11
     },
     {
       "sentence_id": "S_00395",
@@ -3973,7 +3973,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 5
+      "minimum_level": 11
     },
     {
       "sentence_id": "S_00397",
@@ -3996,7 +3996,7 @@
           "grammatical_form": "verb/zh_base"
         }
       ],
-      "minimum_level": 13
+      "minimum_level": 23
     },
     {
       "sentence_id": "S_00400",
@@ -4019,7 +4019,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 11
     },
     {
       "sentence_id": "S_00404",
@@ -4065,7 +4065,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 24
     },
     {
       "sentence_id": "S_00407",
@@ -4084,7 +4084,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 24
     },
     {
       "sentence_id": "S_00408",
@@ -4107,7 +4107,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 24
     },
     {
       "sentence_id": "S_00409",
@@ -4126,7 +4126,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 24
     },
     {
       "sentence_id": "S_00410",
@@ -4145,7 +4145,7 @@
           "grammatical_form": "verb/zh_base"
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00412",
@@ -4164,7 +4164,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 24
     },
     {
       "sentence_id": "S_00413",
@@ -4187,7 +4187,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 24
     },
     {
       "sentence_id": "S_00414",
@@ -4206,7 +4206,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 29
     },
     {
       "sentence_id": "S_00416",
@@ -4225,7 +4225,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 33
     },
     {
       "sentence_id": "S_00418",
@@ -4244,7 +4244,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 24
     },
     {
       "sentence_id": "S_00419",
@@ -4267,7 +4267,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 4
+      "minimum_level": 14
     },
     {
       "sentence_id": "S_00420",
@@ -4290,7 +4290,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 14
     },
     {
       "sentence_id": "S_00423",
@@ -4309,7 +4309,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 44
     },
     {
       "sentence_id": "S_00424",
@@ -4332,7 +4332,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 23
     },
     {
       "sentence_id": "S_00425",
@@ -4355,7 +4355,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 13
+      "minimum_level": 23
     },
     {
       "sentence_id": "S_00429",
@@ -4397,7 +4397,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 51
     },
     {
       "sentence_id": "S_00434",
@@ -4420,7 +4420,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00436",
@@ -4443,7 +4443,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 7
     },
     {
       "sentence_id": "S_00438",
@@ -4462,7 +4462,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00439",
@@ -4504,7 +4504,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 23
     },
     {
       "sentence_id": "S_00442",
@@ -4527,7 +4527,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 23
     },
     {
       "sentence_id": "S_00444",
@@ -4550,7 +4550,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00446",
@@ -4573,7 +4573,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00447",
@@ -4592,7 +4592,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 16
+      "minimum_level": 39
     },
     {
       "sentence_id": "S_00451",
@@ -4615,7 +4615,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 24
     },
     {
       "sentence_id": "S_00453",
@@ -4638,7 +4638,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 37
     },
     {
       "sentence_id": "S_00455",
@@ -4657,7 +4657,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 37
     },
     {
       "sentence_id": "S_00457",
@@ -4684,7 +4684,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 19
     },
     {
       "sentence_id": "S_00458",
@@ -4703,7 +4703,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 19
     },
     {
       "sentence_id": "S_00460",
@@ -4726,7 +4726,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 13
+      "minimum_level": 45
     },
     {
       "sentence_id": "S_00462",
@@ -4749,7 +4749,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_00465",
@@ -4768,7 +4768,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 23
     },
     {
       "sentence_id": "S_00466",
@@ -4787,7 +4787,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 20
     },
     {
       "sentence_id": "S_00467",
@@ -4797,7 +4797,7 @@
         "pinyin": "tā men wán dé hěn kāi xīn 。"
       },
       "linked_words": [],
-      "minimum_level": 9
+      "minimum_level": 28
     },
     {
       "sentence_id": "S_00469",
@@ -4824,7 +4824,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 18
+      "minimum_level": 28
     },
     {
       "sentence_id": "S_00472",
@@ -4847,7 +4847,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 13
+      "minimum_level": 18
     },
     {
       "sentence_id": "S_00473",
@@ -4870,7 +4870,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 28
     },
     {
       "sentence_id": "S_00474",
@@ -4897,7 +4897,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 28
     },
     {
       "sentence_id": "S_00475",
@@ -4943,7 +4943,7 @@
           "grammatical_form": "verb/zh_base"
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 36
     },
     {
       "sentence_id": "S_00477",
@@ -4966,7 +4966,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00478",
@@ -4989,7 +4989,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00479",
@@ -5012,7 +5012,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 33
     },
     {
       "sentence_id": "S_00480",
@@ -5035,7 +5035,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00481",
@@ -5058,7 +5058,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 18
+      "minimum_level": 28
     },
     {
       "sentence_id": "S_00483",
@@ -5081,7 +5081,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 14
+      "minimum_level": 21
     },
     {
       "sentence_id": "S_00485",
@@ -5104,7 +5104,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 12
     },
     {
       "sentence_id": "S_00486",
@@ -5127,7 +5127,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_00487",
@@ -5154,7 +5154,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_00488",
@@ -5177,7 +5177,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 31
     },
     {
       "sentence_id": "S_00489",
@@ -5196,7 +5196,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 54
     },
     {
       "sentence_id": "S_00491",
@@ -5215,7 +5215,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 21
+      "minimum_level": 56
     },
     {
       "sentence_id": "S_00493",
@@ -5234,7 +5234,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 36
     },
     {
       "sentence_id": "S_00498",
@@ -5257,7 +5257,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 19
     },
     {
       "sentence_id": "S_00499",
@@ -5276,7 +5276,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 31
     },
     {
       "sentence_id": "S_00500",
@@ -5295,7 +5295,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 37
     },
     {
       "sentence_id": "S_00502",
@@ -5322,7 +5322,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 52
     },
     {
       "sentence_id": "S_00503",
@@ -5341,7 +5341,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 16
+      "minimum_level": 55
     },
     {
       "sentence_id": "S_00504",
@@ -5364,7 +5364,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_00505",
@@ -5383,7 +5383,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 21
+      "minimum_level": 56
     },
     {
       "sentence_id": "S_00506",
@@ -5402,7 +5402,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 25
     },
     {
       "sentence_id": "S_00507",
@@ -5421,7 +5421,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00508",
@@ -5436,7 +5436,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 25
     },
     {
       "sentence_id": "S_00509",
@@ -5455,7 +5455,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 25
     },
     {
       "sentence_id": "S_00510",
@@ -5474,7 +5474,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 14
     },
     {
       "sentence_id": "S_00512",
@@ -5493,7 +5493,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 60
     },
     {
       "sentence_id": "S_00514",
@@ -5512,7 +5512,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 60
     },
     {
       "sentence_id": "S_00515",
@@ -5531,7 +5531,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 52
     },
     {
       "sentence_id": "S_00516",
@@ -5550,7 +5550,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 5
+      "minimum_level": 60
     },
     {
       "sentence_id": "S_00517",
@@ -5569,7 +5569,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 21
+      "minimum_level": 60
     },
     {
       "sentence_id": "S_00518",
@@ -5588,7 +5588,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 16
+      "minimum_level": 60
     },
     {
       "sentence_id": "S_00519",
@@ -5611,7 +5611,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 31
     },
     {
       "sentence_id": "S_00520",
@@ -5634,7 +5634,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 31
     },
     {
       "sentence_id": "S_00521",
@@ -5657,7 +5657,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 51
     },
     {
       "sentence_id": "S_00522",
@@ -5680,7 +5680,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_00523",
@@ -5703,7 +5703,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 35
     },
     {
       "sentence_id": "S_00524",
@@ -5726,7 +5726,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 29
     },
     {
       "sentence_id": "S_00527",
@@ -5745,7 +5745,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 21
+      "minimum_level": 55
     },
     {
       "sentence_id": "S_00528",
@@ -5764,7 +5764,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 14
     },
     {
       "sentence_id": "S_00529",
@@ -5810,7 +5810,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 33
     },
     {
       "sentence_id": "S_00532",
@@ -5833,7 +5833,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00534",
@@ -5856,7 +5856,7 @@
           "grammatical_form": "verb/zh_base"
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00535",
@@ -5879,7 +5879,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00536",
@@ -5902,7 +5902,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 14
     },
     {
       "sentence_id": "S_00539",
@@ -5925,7 +5925,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00543",
@@ -5948,7 +5948,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00548",
@@ -5967,7 +5967,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 46
     },
     {
       "sentence_id": "S_00550",
@@ -5986,7 +5986,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 33
     },
     {
       "sentence_id": "S_00553",
@@ -6036,7 +6036,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_00556",
@@ -6082,7 +6082,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00559",
@@ -6128,7 +6128,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00562",
@@ -6151,7 +6151,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 31
     },
     {
       "sentence_id": "S_00565",
@@ -6277,7 +6277,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 13
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00574",
@@ -6300,7 +6300,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 11
+      "minimum_level": 22
     },
     {
       "sentence_id": "S_00576",
@@ -6323,7 +6323,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 11
     },
     {
       "sentence_id": "S_00577",
@@ -6338,7 +6338,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_00579",
@@ -6357,7 +6357,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 21
+      "minimum_level": 56
     },
     {
       "sentence_id": "S_00581",
@@ -6380,7 +6380,7 @@
           "grammatical_form": "verb/zh_base"
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 31
     },
     {
       "sentence_id": "S_00582",
@@ -6399,7 +6399,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 21
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00586",
@@ -6422,7 +6422,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 11
     },
     {
       "sentence_id": "S_00588",
@@ -6445,7 +6445,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00589",
@@ -6468,7 +6468,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00590",
@@ -6487,7 +6487,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 12
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00591",
@@ -6510,7 +6510,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 11
     },
     {
       "sentence_id": "S_00594",
@@ -6533,7 +6533,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00595",
@@ -6556,7 +6556,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 11
     },
     {
       "sentence_id": "S_00596",
@@ -6579,7 +6579,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00600",
@@ -6602,7 +6602,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 14
+      "minimum_level": 11
     },
     {
       "sentence_id": "S_00602",
@@ -6625,7 +6625,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 11
     },
     {
       "sentence_id": "S_00603",
@@ -6648,7 +6648,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 11
     },
     {
       "sentence_id": "S_00604",
@@ -6671,7 +6671,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00606",
@@ -6694,7 +6694,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 11
     },
     {
       "sentence_id": "S_00607",
@@ -6717,7 +6717,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00608",
@@ -6740,7 +6740,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00613",
@@ -6763,7 +6763,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00615",
@@ -6782,7 +6782,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 33
     },
     {
       "sentence_id": "S_00617",
@@ -6801,7 +6801,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 11
     },
     {
       "sentence_id": "S_00621",
@@ -6843,7 +6843,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_00623",
@@ -6862,7 +6862,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_00625",
@@ -6885,7 +6885,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00626",
@@ -6912,7 +6912,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 14
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_00627",
@@ -6958,7 +6958,7 @@
           "grammatical_form": "verb/zh_base"
         }
       ],
-      "minimum_level": 12
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00630",
@@ -6981,7 +6981,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00631",
@@ -7004,7 +7004,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00632",
@@ -7031,7 +7031,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 4
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00633",
@@ -7054,7 +7054,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 21
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00635",
@@ -7077,7 +7077,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00637",
@@ -7104,7 +7104,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 14
     },
     {
       "sentence_id": "S_00638",
@@ -7127,7 +7127,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 13
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_00639",
@@ -7173,7 +7173,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00641",
@@ -7192,7 +7192,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 31
     },
     {
       "sentence_id": "S_00642",
@@ -7215,7 +7215,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_00644",
@@ -7265,7 +7265,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 4
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_00649",
@@ -7288,7 +7288,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 14
     },
     {
       "sentence_id": "S_00652",
@@ -7330,7 +7330,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00655",
@@ -7353,7 +7353,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00656",
@@ -7395,7 +7395,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00658",
@@ -7414,7 +7414,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 54
     },
     {
       "sentence_id": "S_00659",
@@ -7437,7 +7437,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00661",
@@ -7464,7 +7464,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 4
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00662",
@@ -7487,7 +7487,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 25
     },
     {
       "sentence_id": "S_00663",
@@ -7510,7 +7510,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_00665",
@@ -7560,7 +7560,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 14
     },
     {
       "sentence_id": "S_00668",
@@ -7606,7 +7606,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 14
     },
     {
       "sentence_id": "S_00670",
@@ -7629,7 +7629,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 14
     },
     {
       "sentence_id": "S_00672",
@@ -7675,7 +7675,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00675",
@@ -7717,7 +7717,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 15
+      "minimum_level": 40
     },
     {
       "sentence_id": "S_00677",
@@ -7736,7 +7736,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 5
+      "minimum_level": 31
     },
     {
       "sentence_id": "S_00678",
@@ -7759,7 +7759,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 11
+      "minimum_level": 21
     },
     {
       "sentence_id": "S_00681",
@@ -7778,7 +7778,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 15
+      "minimum_level": 40
     },
     {
       "sentence_id": "S_00683",
@@ -7801,7 +7801,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00684",
@@ -7824,7 +7824,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 25
     },
     {
       "sentence_id": "S_00685",
@@ -7847,7 +7847,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00691",
@@ -7870,7 +7870,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 21
     },
     {
       "sentence_id": "S_00692",
@@ -7893,7 +7893,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00693",
@@ -7916,7 +7916,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00694",
@@ -7943,7 +7943,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_00695",
@@ -7970,7 +7970,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 4
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00697",
@@ -7997,7 +7997,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 36
     },
     {
       "sentence_id": "S_00699",
@@ -8020,7 +8020,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 25
     },
     {
       "sentence_id": "S_00700",
@@ -8043,7 +8043,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00701",
@@ -8066,7 +8066,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 14
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_00703",
@@ -8089,7 +8089,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 21
+      "minimum_level": 31
     },
     {
       "sentence_id": "S_00705",
@@ -8112,7 +8112,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 25
     },
     {
       "sentence_id": "S_00706",
@@ -8131,7 +8131,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 14
+      "minimum_level": 40
     },
     {
       "sentence_id": "S_00707",
@@ -8154,7 +8154,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 36
     },
     {
       "sentence_id": "S_00708",
@@ -8177,7 +8177,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 25
     },
     {
       "sentence_id": "S_00709",
@@ -8200,7 +8200,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 25
     },
     {
       "sentence_id": "S_00711",
@@ -8227,7 +8227,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 25
     },
     {
       "sentence_id": "S_00712",
@@ -8250,7 +8250,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 25
     },
     {
       "sentence_id": "S_00714",
@@ -8273,7 +8273,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 4
+      "minimum_level": 36
     },
     {
       "sentence_id": "S_00716",
@@ -8296,7 +8296,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 12
+      "minimum_level": 40
     },
     {
       "sentence_id": "S_00717",
@@ -8319,7 +8319,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 40
     },
     {
       "sentence_id": "S_00719",
@@ -8338,7 +8338,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 13
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00721",
@@ -8361,7 +8361,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 36
     },
     {
       "sentence_id": "S_00722",
@@ -8380,7 +8380,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00724",
@@ -8399,7 +8399,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00726",
@@ -8422,7 +8422,7 @@
           "grammatical_form": "verb/zh_base"
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 14
     },
     {
       "sentence_id": "S_00730",
@@ -8445,7 +8445,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 4
+      "minimum_level": 36
     },
     {
       "sentence_id": "S_00732",
@@ -8460,7 +8460,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 25
     },
     {
       "sentence_id": "S_00733",
@@ -8483,7 +8483,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 15
+      "minimum_level": 39
     },
     {
       "sentence_id": "S_00734",
@@ -8506,7 +8506,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00735",
@@ -8525,7 +8525,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 38
     },
     {
       "sentence_id": "S_00736",
@@ -8548,7 +8548,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00737",
@@ -8571,7 +8571,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00738",
@@ -8594,7 +8594,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00739",
@@ -8617,7 +8617,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 36
     },
     {
       "sentence_id": "S_00744",
@@ -8640,7 +8640,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00747",
@@ -8667,7 +8667,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 22
     },
     {
       "sentence_id": "S_00748",
@@ -8690,7 +8690,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00750",
@@ -8709,7 +8709,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 38
     },
     {
       "sentence_id": "S_00751",
@@ -8732,7 +8732,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00752",
@@ -8751,7 +8751,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 12
     },
     {
       "sentence_id": "S_00753",
@@ -8770,7 +8770,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 31
     },
     {
       "sentence_id": "S_00754",
@@ -8797,7 +8797,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 35
     },
     {
       "sentence_id": "S_00755",
@@ -8820,7 +8820,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 12
     },
     {
       "sentence_id": "S_00756",
@@ -8870,7 +8870,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 13
+      "minimum_level": 39
     },
     {
       "sentence_id": "S_00758",
@@ -8897,7 +8897,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_00760",
@@ -8916,7 +8916,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 31
     },
     {
       "sentence_id": "S_00761",
@@ -8939,7 +8939,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00762",
@@ -8962,7 +8962,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_00764",
@@ -8985,7 +8985,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00765",
@@ -9031,7 +9031,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00768",
@@ -9123,7 +9123,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00774",
@@ -9150,7 +9150,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 13
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00775",
@@ -9200,7 +9200,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00778",
@@ -9223,7 +9223,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00779",
@@ -9246,7 +9246,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00780",
@@ -9269,7 +9269,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00781",
@@ -9292,7 +9292,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00783",
@@ -9315,7 +9315,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00787",
@@ -9342,7 +9342,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00788",
@@ -9365,7 +9365,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00790",
@@ -9407,7 +9407,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00792",
@@ -9430,7 +9430,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 13
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00793",
@@ -9453,7 +9453,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00795",
@@ -9476,7 +9476,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00796",
@@ -9499,7 +9499,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_00797",
@@ -9526,7 +9526,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 12
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00799",
@@ -9599,7 +9599,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00802",
@@ -9618,7 +9618,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_00803",
@@ -9637,7 +9637,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_00804",
@@ -9660,7 +9660,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_00805",
@@ -9683,7 +9683,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00808",
@@ -9702,7 +9702,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 5
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00809",
@@ -9725,7 +9725,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00810",
@@ -9744,7 +9744,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_00811",
@@ -9767,7 +9767,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00812",
@@ -9813,7 +9813,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 1
     },
     {
       "sentence_id": "S_00814",
@@ -9832,7 +9832,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 31
     },
     {
       "sentence_id": "S_00815",
@@ -9855,7 +9855,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00818",
@@ -9878,7 +9878,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00820",
@@ -9905,7 +9905,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_00821",
@@ -9928,7 +9928,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00823",
@@ -9947,7 +9947,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_00825",
@@ -9970,7 +9970,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00827",
@@ -9993,7 +9993,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_00828",
@@ -10016,7 +10016,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00829",
@@ -10062,7 +10062,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00832",
@@ -10089,7 +10089,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00833",
@@ -10112,7 +10112,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 14
     },
     {
       "sentence_id": "S_00838",
@@ -10131,7 +10131,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 12
+      "minimum_level": 9
     },
     {
       "sentence_id": "S_00839",
@@ -10154,7 +10154,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 4
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00842",
@@ -10177,7 +10177,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_00845",
@@ -10200,7 +10200,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00846",
@@ -10219,7 +10219,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 31
     },
     {
       "sentence_id": "S_00848",
@@ -10242,7 +10242,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 4
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_00849",
@@ -10261,7 +10261,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_00850",
@@ -10284,7 +10284,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00851",
@@ -10353,7 +10353,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_00855",
@@ -10376,7 +10376,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00856",
@@ -10422,7 +10422,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_00859",
@@ -10445,7 +10445,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_00860",
@@ -10472,7 +10472,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_00861",
@@ -10491,7 +10491,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 41
     },
     {
       "sentence_id": "S_00862",
@@ -10510,7 +10510,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 36
     },
     {
       "sentence_id": "S_00863",
@@ -10529,7 +10529,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00865",
@@ -10579,7 +10579,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00867",
@@ -10617,7 +10617,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 31
     },
     {
       "sentence_id": "S_00869",
@@ -10640,7 +10640,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00870",
@@ -10659,7 +10659,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00872",
@@ -10728,7 +10728,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00876",
@@ -10755,7 +10755,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00877",
@@ -10782,7 +10782,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 4
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_00878",
@@ -10878,7 +10878,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00882",
@@ -10905,7 +10905,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 19
     },
     {
       "sentence_id": "S_00883",
@@ -10932,7 +10932,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00884",
@@ -10959,7 +10959,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00885",
@@ -10986,7 +10986,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00886",
@@ -11013,7 +11013,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_00887",
@@ -11036,7 +11036,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 36
     },
     {
       "sentence_id": "S_00888",
@@ -11063,7 +11063,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 4
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00889",
@@ -11086,7 +11086,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00890",
@@ -11109,7 +11109,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00892",
@@ -11132,7 +11132,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 39
     },
     {
       "sentence_id": "S_00893",
@@ -11159,7 +11159,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00894",
@@ -11186,7 +11186,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 36
     },
     {
       "sentence_id": "S_00895",
@@ -11213,7 +11213,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 39
     },
     {
       "sentence_id": "S_00896",
@@ -11232,7 +11232,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 39
     },
     {
       "sentence_id": "S_00897",
@@ -11251,7 +11251,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 39
     },
     {
       "sentence_id": "S_00898",
@@ -11274,7 +11274,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 23
     },
     {
       "sentence_id": "S_00899",
@@ -11297,7 +11297,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 36
     },
     {
       "sentence_id": "S_00901",
@@ -11320,7 +11320,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 25
     },
     {
       "sentence_id": "S_00902",
@@ -11339,7 +11339,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 39
     },
     {
       "sentence_id": "S_00903",
@@ -11362,7 +11362,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 36
     },
     {
       "sentence_id": "S_00905",
@@ -11385,7 +11385,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 20
     },
     {
       "sentence_id": "S_00910",
@@ -11408,7 +11408,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 23
     },
     {
       "sentence_id": "S_00911",
@@ -11431,7 +11431,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00912",
@@ -11458,7 +11458,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 37
     },
     {
       "sentence_id": "S_00913",
@@ -11481,7 +11481,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00915",
@@ -11500,7 +11500,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_00916",
@@ -11523,7 +11523,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_00917",
@@ -11546,7 +11546,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_00919",
@@ -11565,7 +11565,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00920",
@@ -11588,7 +11588,7 @@
           "grammatical_form": "verb/zh_base"
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 20
     },
     {
       "sentence_id": "S_00922",
@@ -11676,7 +11676,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 25
     },
     {
       "sentence_id": "S_00929",
@@ -11726,7 +11726,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 13
+      "minimum_level": 31
     },
     {
       "sentence_id": "S_00932",
@@ -11776,7 +11776,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00934",
@@ -11799,7 +11799,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_00935",
@@ -11845,7 +11845,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 36
     },
     {
       "sentence_id": "S_00937",
@@ -11937,7 +11937,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 28
+      "minimum_level": 36
     },
     {
       "sentence_id": "S_00944",
@@ -11979,7 +11979,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 28
+      "minimum_level": 19
     },
     {
       "sentence_id": "S_00947",
@@ -12025,7 +12025,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00950",
@@ -12075,7 +12075,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 31
     },
     {
       "sentence_id": "S_00953",
@@ -12240,7 +12240,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00963",
@@ -12259,7 +12259,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_00964",
@@ -12374,7 +12374,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 29
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00970",
@@ -12397,7 +12397,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 4
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00972",
@@ -12489,7 +12489,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 31
     },
     {
       "sentence_id": "S_00976",
@@ -12508,7 +12508,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00977",
@@ -12531,7 +12531,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 20
     },
     {
       "sentence_id": "S_00978",
@@ -12554,7 +12554,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_00979",
@@ -12581,7 +12581,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_00981",
@@ -12604,7 +12604,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 14
     },
     {
       "sentence_id": "S_00982",
@@ -12623,7 +12623,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_00983",
@@ -12646,7 +12646,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_00985",
@@ -12673,7 +12673,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_00986",
@@ -12696,7 +12696,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_00989",
@@ -12719,7 +12719,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 11
     },
     {
       "sentence_id": "S_00990",
@@ -12742,7 +12742,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 21
     },
     {
       "sentence_id": "S_00991",
@@ -12761,7 +12761,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 27
     },
     {
       "sentence_id": "S_00996",
@@ -12784,7 +12784,7 @@
           "grammatical_form": "verb/zh_base"
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 26
     },
     {
       "sentence_id": "S_00998",
@@ -12807,7 +12807,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 26
     },
     {
       "sentence_id": "S_00999",
@@ -12826,7 +12826,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 21
+      "minimum_level": 26
     },
     {
       "sentence_id": "S_01001",
@@ -12853,7 +12853,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 26
     },
     {
       "sentence_id": "S_01005",
@@ -12876,7 +12876,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 27
     },
     {
       "sentence_id": "S_01008",
@@ -12899,7 +12899,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_01011",
@@ -12918,7 +12918,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 13
+      "minimum_level": 28
     },
     {
       "sentence_id": "S_01012",
@@ -12937,7 +12937,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 13
+      "minimum_level": 20
     },
     {
       "sentence_id": "S_01013",
@@ -12956,7 +12956,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 13
+      "minimum_level": 45
     },
     {
       "sentence_id": "S_01014",
@@ -12979,7 +12979,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 14
     },
     {
       "sentence_id": "S_01018",
@@ -13002,7 +13002,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 13
+      "minimum_level": 28
     },
     {
       "sentence_id": "S_01021",
@@ -13025,7 +13025,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 38
     },
     {
       "sentence_id": "S_01022",
@@ -13048,7 +13048,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_01023",
@@ -13071,7 +13071,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_01024",
@@ -13094,7 +13094,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 38
     },
     {
       "sentence_id": "S_01027",
@@ -13117,7 +13117,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 31
     },
     {
       "sentence_id": "S_01028",
@@ -13140,7 +13140,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 38
     },
     {
       "sentence_id": "S_01029",
@@ -13155,7 +13155,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 13
+      "minimum_level": 29
     },
     {
       "sentence_id": "S_01030",
@@ -13174,7 +13174,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 13
+      "minimum_level": 45
     },
     {
       "sentence_id": "S_01034",
@@ -13189,7 +13189,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 13
+      "minimum_level": 35
     },
     {
       "sentence_id": "S_01035",
@@ -13212,7 +13212,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 54
     },
     {
       "sentence_id": "S_01036",
@@ -13235,7 +13235,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 40
     },
     {
       "sentence_id": "S_01037",
@@ -13258,7 +13258,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 35
     },
     {
       "sentence_id": "S_01038",
@@ -13277,7 +13277,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 58
     },
     {
       "sentence_id": "S_01039",
@@ -13296,7 +13296,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_01040",
@@ -13319,7 +13319,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 25
     },
     {
       "sentence_id": "S_01041",
@@ -13342,7 +13342,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 54
     },
     {
       "sentence_id": "S_01042",
@@ -13361,7 +13361,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 21
+      "minimum_level": 40
     },
     {
       "sentence_id": "S_01043",
@@ -13384,7 +13384,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 14
     },
     {
       "sentence_id": "S_01045",
@@ -13407,7 +13407,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_01046",
@@ -13426,7 +13426,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 59
     },
     {
       "sentence_id": "S_01047",
@@ -13445,7 +13445,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 21
+      "minimum_level": 25
     },
     {
       "sentence_id": "S_01048",
@@ -13472,7 +13472,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 51
     },
     {
       "sentence_id": "S_01049",
@@ -13495,7 +13495,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 21
+      "minimum_level": 19
     },
     {
       "sentence_id": "S_01050",
@@ -13514,7 +13514,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 21
+      "minimum_level": 58
     },
     {
       "sentence_id": "S_01051",
@@ -13556,7 +13556,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_01054",
@@ -13579,7 +13579,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_01065",
@@ -13602,7 +13602,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_01069",
@@ -13629,7 +13629,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 36
     },
     {
       "sentence_id": "S_01073",
@@ -13652,7 +13652,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_01074",
@@ -13679,7 +13679,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 12
+      "minimum_level": 36
     },
     {
       "sentence_id": "S_01079",
@@ -13698,7 +13698,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 37
     },
     {
       "sentence_id": "S_01081",
@@ -13721,7 +13721,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 14
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_01082",
@@ -13744,7 +13744,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 37
     },
     {
       "sentence_id": "S_01088",
@@ -13955,7 +13955,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_01099",
@@ -13982,7 +13982,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_01102",
@@ -14009,7 +14009,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 5
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_01103",
@@ -14032,7 +14032,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 3
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_01104",
@@ -14086,7 +14086,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 5
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_01106",
@@ -14228,7 +14228,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 5
+      "minimum_level": 20
     },
     {
       "sentence_id": "S_01114",
@@ -14320,7 +14320,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 5
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_01119",
@@ -14339,7 +14339,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 7
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_01120",
@@ -14362,7 +14362,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 7
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_01121",
@@ -14389,7 +14389,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 7
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_01122",
@@ -14412,7 +14412,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 7
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_01124",
@@ -14435,7 +14435,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 7
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_01125",
@@ -14458,7 +14458,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 13
+      "minimum_level": 35
     },
     {
       "sentence_id": "S_01126",
@@ -14481,7 +14481,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 7
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_01127",
@@ -14508,7 +14508,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 31
     },
     {
       "sentence_id": "S_01128",
@@ -14527,7 +14527,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_01129",
@@ -14631,7 +14631,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_01136",
@@ -14650,7 +14650,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 5
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_01137",
@@ -14826,7 +14826,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_01148",
@@ -14849,7 +14849,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_01149",
@@ -14872,7 +14872,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_01150",
@@ -14983,7 +14983,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 5
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_01158",
@@ -15006,7 +15006,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 5
     },
     {
       "sentence_id": "S_01159",
@@ -15102,7 +15102,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 5
+      "minimum_level": 4
     },
     {
       "sentence_id": "S_01163",
@@ -15175,7 +15175,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 5
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_01166",
@@ -15267,7 +15267,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_01170",
@@ -15290,7 +15290,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_01171",
@@ -15309,7 +15309,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_01172",
@@ -15336,7 +15336,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 14
     },
     {
       "sentence_id": "S_01173",
@@ -15386,7 +15386,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 16
     },
     {
       "sentence_id": "S_01175",
@@ -15413,7 +15413,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_01177",
@@ -15436,7 +15436,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 25
     },
     {
       "sentence_id": "S_01179",
@@ -15486,7 +15486,7 @@
           "grammatical_form": "verb/zh_progressive"
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 33
     },
     {
       "sentence_id": "S_01182",
@@ -15532,7 +15532,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 24
     },
     {
       "sentence_id": "S_01184",
@@ -15582,7 +15582,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_01187",
@@ -15609,7 +15609,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 17
     },
     {
       "sentence_id": "S_01188",
@@ -15632,7 +15632,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 11
     },
     {
       "sentence_id": "S_01189",
@@ -15682,7 +15682,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_01195",
@@ -15709,7 +15709,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 11
     },
     {
       "sentence_id": "S_01198",
@@ -15736,7 +15736,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_01199",
@@ -15759,7 +15759,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 5
+      "minimum_level": 10
     },
     {
       "sentence_id": "S_01200",
@@ -15786,7 +15786,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 31
     },
     {
       "sentence_id": "S_01201",
@@ -15805,7 +15805,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 39
     },
     {
       "sentence_id": "S_01202",
@@ -15832,7 +15832,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 23
     },
     {
       "sentence_id": "S_01203",
@@ -15855,7 +15855,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 23
     },
     {
       "sentence_id": "S_01207",
@@ -15882,7 +15882,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 23
     },
     {
       "sentence_id": "S_01210",
@@ -15909,7 +15909,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 37
     },
     {
       "sentence_id": "S_01212",
@@ -15936,7 +15936,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 37
     },
     {
       "sentence_id": "S_01215",
@@ -15963,7 +15963,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 37
     },
     {
       "sentence_id": "S_01217",
@@ -15990,7 +15990,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 37
     },
     {
       "sentence_id": "S_01220",
@@ -16013,7 +16013,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 8
+      "minimum_level": 32
     },
     {
       "sentence_id": "S_01222",
@@ -16032,7 +16032,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_01223",
@@ -16055,7 +16055,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 19
     },
     {
       "sentence_id": "S_01224",
@@ -16082,7 +16082,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_01226",
@@ -16101,7 +16101,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 21
+      "minimum_level": 63
     },
     {
       "sentence_id": "S_01227",
@@ -16120,7 +16120,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_01228",
@@ -16147,7 +16147,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 12
     },
     {
       "sentence_id": "S_01229",
@@ -16174,7 +16174,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 15
     },
     {
       "sentence_id": "S_01230",
@@ -16197,7 +16197,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 6
+      "minimum_level": 8
     },
     {
       "sentence_id": "S_01231",
@@ -16220,7 +16220,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 19
     },
     {
       "sentence_id": "S_01232",
@@ -16239,7 +16239,7 @@
           "grammatical_form": "verb/zh_base"
         }
       ],
-      "minimum_level": 30
+      "minimum_level": 13
     },
     {
       "sentence_id": "S_01233",
@@ -16266,7 +16266,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 51
     },
     {
       "sentence_id": "S_01240",
@@ -16281,7 +16281,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 36
     },
     {
       "sentence_id": "S_01241",
@@ -16300,7 +16300,7 @@
           "grammatical_form": "numeral/zh_cardinal"
         }
       ],
-      "minimum_level": 4
+      "minimum_level": 36
     },
     {
       "sentence_id": "S_01243",
@@ -16315,7 +16315,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 36
     },
     {
       "sentence_id": "S_01252",
@@ -16338,7 +16338,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 31
     },
     {
       "sentence_id": "S_01271",
@@ -16353,7 +16353,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 9
+      "minimum_level": 3
     },
     {
       "sentence_id": "S_01273",
@@ -16368,7 +16368,7 @@
           "grammatical_form": "verb/zh_base"
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 52
     },
     {
       "sentence_id": "S_01274",
@@ -16383,7 +16383,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 10
+      "minimum_level": 52
     },
     {
       "sentence_id": "S_01277",
@@ -16398,7 +16398,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 31
     },
     {
       "sentence_id": "S_01278",
@@ -16413,7 +16413,7 @@
           "grammatical_form": null
         }
       ],
-      "minimum_level": 17
+      "minimum_level": 31
     }
   ]
 }

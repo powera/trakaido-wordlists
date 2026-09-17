@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "language": "chinese",
+  "default_variant": "zh",
+  "variants": [
+    {
+      "id": "zh",
+      "directory": "chinese",
+      "language_code": "zh-CN",
+      "speech_locale": "zh-CN",
+      "display_name": "Mainland China",
+      "native_name": "简体中文",
+      "description": "Simplified characters and vocabulary as used in mainland China.",
+      "flag": "🇨🇳",
+      "default_regions": [
+        "CN",
+        "SG"
+      ],
+      "source_languages": [
+        "en"
+      ]
+    },
+    {
+      "id": "zh-tw",
+      "directory": "chinese_tw",
+      "language_code": "zh-tw",
+      "speech_locale": "zh-TW",
+      "display_name": "Taiwan",
+      "native_name": "臺灣正體",
+      "description": "Traditional characters and vocabulary as used in Taiwan.",
+      "flag": "🇹🇼",
+      "default_regions": [
+        "TW"
+      ],
+      "source_languages": [
+        "en"
+      ]
+    }
+  ]
+}
