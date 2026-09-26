@@ -1,0 +1,6 @@
+[
+  {"guid": "V13_001", "base_target": "跳舞", "base_english": "dance", "cognate": false, "corpus": "VERBS", "group": "Manner Movement", "level": 445, "word_type": "verb", "target_pinyin": "tiào wǔ", "tags": ["manner_movement", "level_445"]},
+  {"guid": "V13_005", "base_target": "滑滑板", "base_english": "skateboard", "cognate": false, "corpus": "VERBS", "group": "Manner Movement", "level": 445, "word_type": "verb", "target_pinyin": "huá huá bǎn", "tags": ["manner_movement", "level_445"]},
+  {"guid": "V13_006", "base_target": "滑冰", "base_english": "skate", "cognate": false, "corpus": "VERBS", "group": "Manner Movement", "level": 445, "word_type": "verb", "target_pinyin": "huá bīng", "tags": ["manner_movement", "level_445"]},
+  {"guid": "V13_007", "base_target": "摆动", "base_english": "swing", "cognate": false, "corpus": "VERBS", "group": "Manner Movement", "level": 445, "word_type": "verb", "target_pinyin": "bǎi dòng", "tags": ["manner_movement", "level_445"]}
+]
