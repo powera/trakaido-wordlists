@@ -2,7 +2,7 @@
   "version": 1,
   "language": "spanish",
   "language_code": "es",
-  "generated_at": "2026-09-26T14:00:27Z",
+  "generated_at": "2026-10-01T03:17:47Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -69,15 +69,197 @@
           "3p": "ellos/ellas"
         }
       }
-    }
+    },
+    "levels": [
+      {
+        "level": 1,
+        "name": {
+          "en": "Basics: Food, Clothes and Places"
+        }
+      },
+      {
+        "level": 2,
+        "name": {
+          "en": "Basics: Objects, Animals and Vehicles"
+        }
+      },
+      {
+        "level": 3,
+        "name": {
+          "en": "Basics: Body, Colors and Feelings"
+        }
+      },
+      {
+        "level": 4,
+        "name": {
+          "en": "Numbers and Shapes"
+        }
+      },
+      {
+        "level": 5,
+        "name": {
+          "en": "People and Jobs"
+        }
+      },
+      {
+        "level": 6,
+        "name": {
+          "en": "Ordinals, Time and Everyday Words"
+        }
+      },
+      {
+        "level": 7,
+        "name": {
+          "en": "Food, Drink and Baking"
+        }
+      },
+      {
+        "level": 8,
+        "name": {
+          "en": "Body Parts and Everyday Verbs"
+        }
+      },
+      {
+        "level": 9,
+        "name": {
+          "en": "Wants and Feelings"
+        }
+      },
+      {
+        "level": 10,
+        "name": {
+          "en": "Buildings, Places and Everyday Words"
+        }
+      },
+      {
+        "level": 11,
+        "name": {
+          "en": "Describing People and Things"
+        }
+      },
+      {
+        "level": 12,
+        "name": {
+          "en": "Shape Words and Small Words"
+        }
+      },
+      {
+        "level": 13,
+        "name": {
+          "en": "More Feelings and Linking Words"
+        }
+      },
+      {
+        "level": 14,
+        "name": {
+          "en": "Everyday Adjectives"
+        }
+      },
+      {
+        "level": 15,
+        "name": {
+          "en": "Health, Body and More Foods"
+        }
+      },
+      {
+        "level": 16,
+        "name": {
+          "en": "Character and Feelings"
+        }
+      },
+      {
+        "level": 17,
+        "name": {
+          "en": "Size and Quality"
+        }
+      },
+      {
+        "level": 18,
+        "name": {
+          "en": "Pronouns, Position and Condition"
+        }
+      },
+      {
+        "level": 19,
+        "name": {
+          "en": "Adjectives, Greetings and Position Words"
+        }
+      },
+      {
+        "level": 20,
+        "name": {
+          "en": "Adjectives and Exclamations"
+        }
+      },
+      {
+        "level": 21,
+        "name": {
+          "en": "Days and Months"
+        }
+      },
+      {
+        "level": 22,
+        "name": {
+          "en": "Time of Day and Sequence"
+        }
+      },
+      {
+        "level": 23,
+        "name": {
+          "en": "Place and Degree Words"
+        }
+      },
+      {
+        "level": 24,
+        "name": {
+          "en": "Rooms of the House"
+        }
+      },
+      {
+        "level": 25,
+        "name": {
+          "en": "Furniture and Appliances"
+        }
+      },
+      {
+        "level": 26,
+        "name": {
+          "en": "Around Town"
+        }
+      },
+      {
+        "level": 27,
+        "name": {
+          "en": "Clothing"
+        }
+      },
+      {
+        "level": 28,
+        "name": {
+          "en": "Animals and Plants"
+        }
+      },
+      {
+        "level": 29,
+        "name": {
+          "en": "Activities and Everyday Objects"
+        }
+      },
+      {
+        "level": 30,
+        "name": {
+          "en": "Jobs"
+        }
+      }
+    ]
   },
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "141fe19389428e339e9d185dd7fc6b89.json",
+      "filename": "cc17b1a3356317f87e233b36567ba946.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "141fe19389428e339e9d185dd7fc6b89",
+      "md5": "cc17b1a3356317f87e233b36567ba946",
       "levels": [
         1,
         2,
@@ -86,7 +268,7 @@
         5
       ],
       "required": true,
-      "word_count": 188,
+      "word_count": 183,
       "groups": [
         "Animals",
         "Body Part",
@@ -94,7 +276,7 @@
         "Cardinal",
         "Clothing/Accessory",
         "Color",
-        "Communication",
+        "Communication/Information",
         "Directional Movement",
         "Emotion",
         "Emotional State",
@@ -106,19 +288,20 @@
         "Occupation",
         "Perception",
         "Physical Action",
+        "Physical Property",
         "Possession",
+        "Quality",
         "Shape",
         "Small Movable Object",
-        "Specific Time",
         "Vehicle"
       ]
     },
     {
       "id": "levels_6_10",
-      "filename": "e8ed579449ca9b549f9cb92db62e9507.json",
+      "filename": "5549b4f60d108f5fb931e2ee36c2de2f.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "e8ed579449ca9b549f9cb92db62e9507",
+      "md5": "5549b4f60d108f5fb931e2ee36c2de2f",
       "levels": [
         6,
         7,
@@ -127,41 +310,43 @@
         10
       ],
       "required": true,
-      "word_count": 168,
+      "word_count": 186,
       "groups": [
         "Beverage",
         "Body Part",
         "Building/Structure",
+        "Celestial Object",
         "Communication",
         "Conjunction Other",
         "Creation Action",
         "Determiner Other",
-        "Directional Movement",
         "Emotion",
         "Emotion/Feeling",
         "Emotional State",
         "Existence",
         "Family Relation",
         "Food",
-        "Medication/Remedy",
+        "Interjection Other",
         "Mental State",
         "Nationality",
+        "Natural Feature",
+        "Ordinal",
         "Perception",
         "Physical Action",
-        "Possession",
         "Preposition Other",
         "Pronoun Other",
         "Region",
         "Relative Time",
+        "Style",
         "Time Period"
       ]
     },
     {
       "id": "levels_11_15",
-      "filename": "19f9619ed15c21653bb294147770fd9f.json",
+      "filename": "67862505d887b05ddd7e83ecac02b654.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "19f9619ed15c21653bb294147770fd9f",
+      "md5": "67862505d887b05ddd7e83ecac02b654",
       "levels": [
         11,
         12,
@@ -170,34 +355,36 @@
         15
       ],
       "required": true,
-      "word_count": 159,
+      "word_count": 166,
       "groups": [
         "Adverb Other",
         "Body Part",
         "Conjunction Other",
         "Determiner Other",
+        "Directional Movement",
         "Disease/Condition",
         "Emotion",
         "Emotion/Feeling",
         "Emotional State",
         "Family Relation",
-        "Food",
+        "Medication/Remedy",
         "Mental State",
-        "Personal Quality",
+        "Natural Feature",
         "Physical Action",
         "Physical Property",
         "Preposition Other",
         "Pronoun Other",
         "Quality",
-        "Shape"
+        "Shape",
+        "Size"
       ]
     },
     {
       "id": "levels_16_20",
-      "filename": "d2a57497d5756fcd8219333168493665.json",
+      "filename": "051275fdadb8555730f2c4c6796aafd0.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "d2a57497d5756fcd8219333168493665",
+      "md5": "051275fdadb8555730f2c4c6796aafd0",
       "levels": [
         16,
         17,
@@ -206,37 +393,124 @@
         20
       ],
       "required": true,
-      "word_count": 186,
+      "word_count": 207,
       "groups": [
+        "Activity",
         "Adverb Other",
+        "Building Part",
+        "Building/Structure",
+        "Communication/Information",
+        "Concept/Idea",
         "Determiner Other",
         "Emotion/Feeling",
         "Emotional State",
         "Family Relation",
-        "Interjection Other",
+        "Food",
+        "Furniture",
+        "Humans",
+        "Knowledge Domain",
+        "Location",
+        "Material/Substance",
         "Mental State",
         "Nationality",
-        "Natural Feature",
+        "Occupation",
         "Personal Quality",
         "Physical Action",
         "Physical Property",
+        "Possession",
         "Preposition Other",
+        "Process/Event",
         "Pronoun Other",
         "Quality",
+        "Quantitative Concept",
         "Region",
-        "Shape",
-        "Size"
+        "Size",
+        "Small Movable Object",
+        "Style",
+        "Tool"
+      ]
+    },
+    {
+      "id": "levels_21_25",
+      "filename": "a56becc6894fae8204123272b2f86d41.json",
+      "display_name": "Levels 21-25",
+      "type": "words",
+      "md5": "a56becc6894fae8204123272b2f86d41",
+      "levels": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "required": true,
+      "word_count": 160,
+      "groups": [
+        "Appliance",
+        "Building Part",
+        "Building/Structure",
+        "Change",
+        "Completeness",
+        "Directional Movement",
+        "Duration",
+        "Existence",
+        "Furniture",
+        "Intensity",
+        "Location",
+        "Physical Action",
+        "Relative Time",
+        "Sequence",
+        "Specific Time",
+        "Temporal Name",
+        "Time Period"
+      ]
+    },
+    {
+      "id": "levels_26_30",
+      "filename": "e110bd781dfcd5da60248a736a9aa5a6.json",
+      "display_name": "Levels 26-30",
+      "type": "words",
+      "md5": "e110bd781dfcd5da60248a736a9aa5a6",
+      "levels": [
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "required": true,
+      "word_count": 144,
+      "groups": [
+        "Activity",
+        "Animals",
+        "Building/Structure",
+        "Change",
+        "Clothing/Accessory",
+        "Color",
+        "Communication",
+        "Concept/Idea",
+        "Development",
+        "Directional Movement",
+        "Manner Movement",
+        "Occupation",
+        "Path/Infrastructure",
+        "Physical Action",
+        "Place Name",
+        "Plant Part",
+        "Plants",
+        "Small Movable Object",
+        "Vehicle"
       ]
     }
   ],
   "sentence_files": [
     {
       "id": "sentences",
-      "filename": "53d76d8cca2e9018dd196adfdedb2b16.json",
+      "filename": "9618815b8c2d7d38b70d41f63637cd58.json",
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "53d76d8cca2e9018dd196adfdedb2b16",
+      "md5": "9618815b8c2d7d38b70d41f63637cd58",
       "required": false
     }
   ],

@@ -228,7 +228,7 @@
         },
         {
           "guid": "V12_001",
-          "grammatical_form": null
+          "grammatical_form": "verb/es_infinitive"
         }
       ],
       "minimum_level": 3
@@ -366,7 +366,7 @@
         },
         {
           "guid": "V01_041",
-          "grammatical_form": null
+          "grammatical_form": "verb/es_gerund"
         },
         {
           "guid": "D07_032",
@@ -1798,7 +1798,7 @@
         },
         {
           "guid": "V04_001",
-          "grammatical_form": null
+          "grammatical_form": "verb/es_infinitive"
         }
       ],
       "minimum_level": 150
@@ -1948,7 +1948,7 @@
         },
         {
           "guid": "V12_007",
-          "grammatical_form": null
+          "grammatical_form": "verb/es_infinitive"
         }
       ],
       "minimum_level": 470
@@ -2554,7 +2554,7 @@
         },
         {
           "guid": "V01_019",
-          "grammatical_form": null
+          "grammatical_form": "verb/es_infinitive"
         },
         {
           "guid": "N40_002",
@@ -4960,7 +4960,7 @@
       },
       "linked_words": [
         {
-          "guid": "N11_021",
+          "guid": "N64_001",
           "grammatical_form": "noun/es_singular"
         },
         {
@@ -5264,7 +5264,7 @@
           "grammatical_form": "verb/es_3s_past"
         },
         {
-          "guid": "N39_003",
+          "guid": "N39_023",
           "grammatical_form": "noun/es_singular"
         }
       ],
@@ -7751,7 +7751,7 @@
         },
         {
           "guid": "V06_004",
-          "grammatical_form": null
+          "grammatical_form": "verb/es_infinitive"
         },
         {
           "guid": "N08_008",
@@ -8351,7 +8351,7 @@
         },
         {
           "guid": "V06_004",
-          "grammatical_form": null
+          "grammatical_form": "verb/es_infinitive"
         },
         {
           "guid": "N42_006",
@@ -9229,7 +9229,7 @@
         },
         {
           "guid": "V01_001",
-          "grammatical_form": null
+          "grammatical_form": "verb/es_infinitive"
         },
         {
           "guid": "N06_021",
@@ -9895,7 +9895,7 @@
       "linked_words": [
         {
           "guid": "N06_088",
-          "grammatical_form": null
+          "grammatical_form": "verb/es_gerund"
         }
       ],
       "minimum_level": 175
@@ -11381,7 +11381,7 @@
         },
         {
           "guid": "V06_004",
-          "grammatical_form": null
+          "grammatical_form": "verb/es_infinitive"
         },
         {
           "guid": "N02_004",
@@ -11619,7 +11619,7 @@
         },
         {
           "guid": "V10_001",
-          "grammatical_form": null
+          "grammatical_form": "verb/es_infinitive"
         },
         {
           "guid": "N02_009",
@@ -13207,7 +13207,7 @@
         },
         {
           "guid": "V02_002",
-          "grammatical_form": null
+          "grammatical_form": "verb/es_infinitive"
         },
         {
           "guid": "N47_003",
@@ -13741,7 +13741,7 @@
         },
         {
           "guid": "V01_003",
-          "grammatical_form": null
+          "grammatical_form": "verb/es_infinitive"
         }
       ],
       "minimum_level": 8
@@ -14563,7 +14563,7 @@
         },
         {
           "guid": "V12_003",
-          "grammatical_form": null
+          "grammatical_form": "verb/es_infinitive"
         }
       ],
       "minimum_level": 5
@@ -15092,7 +15092,7 @@
           "grammatical_form": "verb/es_3s_present"
         },
         {
-          "guid": "N11_023",
+          "guid": "N64_004",
           "grammatical_form": null
         },
         {
@@ -15791,7 +15791,7 @@
       "linked_words": [
         {
           "guid": "V12_001",
-          "grammatical_form": null
+          "grammatical_form": "verb/es_infinitive"
         }
       ],
       "minimum_level": 3
@@ -15833,7 +15833,7 @@
       "linked_words": [
         {
           "guid": "V04_005",
-          "grammatical_form": null
+          "grammatical_form": "verb/es_gerund"
         }
       ],
       "minimum_level": 185
@@ -15851,6 +15851,99 @@
         }
       ],
       "minimum_level": 185
+    },
+    {
+      "sentence_id": "S_01899",
+      "translations": {
+        "en": "He had an episode of severe anxiety at work.",
+        "es": "Tuvo un episodio de ansiedad intensa en el trabajo."
+      },
+      "linked_words": [
+        {
+          "guid": "V06_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N24_118",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "N23_024",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "A05_025",
+          "grammatical_form": "adjective/es_singular_f"
+        },
+        {
+          "guid": "N17_118",
+          "grammatical_form": "noun/es_singular"
+        }
+      ],
+      "source": "add_word:episode",
+      "minimum_level": 9999
+    },
+    {
+      "sentence_id": "S_02743",
+      "translations": {
+        "en": "The court proceeding lasted three hours.",
+        "es": "El proceso judicial duró tres horas."
+      },
+      "linked_words": [
+        {
+          "guid": "N24_138",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "V11_011",
+          "grammatical_form": null
+        },
+        {
+          "guid": "Z01_004",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N25_010",
+          "grammatical_form": "noun/es_plural"
+        }
+      ],
+      "source": "add_word:proceeding",
+      "minimum_level": 9999
+    },
+    {
+      "sentence_id": "S_03126",
+      "translations": {
+        "en": "The bee's abdomen was covered with fine hairs.",
+        "es": "El abdomen de la abeja estaba cubierto de finos pelos."
+      },
+      "linked_words": [
+        {
+          "guid": "N03_082",
+          "grammatical_form": "noun/es_singular"
+        },
+        {
+          "guid": "N02_039",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V06_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A18_099",
+          "grammatical_form": "adjective/es_singular_m"
+        },
+        {
+          "guid": "A05_172",
+          "grammatical_form": "adjective/es_plural_m"
+        },
+        {
+          "guid": "N03_027",
+          "grammatical_form": null
+        }
+      ],
+      "source": "add_word:abdomen",
+      "minimum_level": 9999
     },
     {
       "sentence_id": "S_03294",
@@ -15878,6 +15971,72 @@
       ],
       "source": "add_word:flightless",
       "minimum_level": 1010
+    },
+    {
+      "sentence_id": "S_03587",
+      "translations": {
+        "en": "I replaced the empty ink cartridge in the printer.",
+        "es": "He sustituido el cartucho de tinta vacío de la impresora."
+      },
+      "linked_words": [
+        {
+          "guid": "V08_011",
+          "grammatical_form": "verb/es_past_participle"
+        },
+        {
+          "guid": "N08_145",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N14_042",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A05_047",
+          "grammatical_form": "adjective/es_singular_m"
+        },
+        {
+          "guid": "N57_001",
+          "grammatical_form": null
+        }
+      ],
+      "source": "add_word:cartridge",
+      "minimum_level": 9999
+    },
+    {
+      "sentence_id": "S_03958",
+      "translations": {
+        "en": "The punitive fine forced the small business to close.",
+        "es": "La multa punitiva obligó a la pequeña empresa a cerrar."
+      },
+      "linked_words": [
+        {
+          "guid": "N17_231",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A27_026",
+          "grammatical_form": null
+        },
+        {
+          "guid": "R99_006",
+          "grammatical_form": "preposition/base"
+        },
+        {
+          "guid": "A01_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N31_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_015",
+          "grammatical_form": null
+        }
+      ],
+      "source": "add_word:punitive",
+      "minimum_level": 9999
     }
   ]
 }

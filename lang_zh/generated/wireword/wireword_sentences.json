@@ -5092,7 +5092,7 @@
       },
       "linked_words": [
         {
-          "guid": "N11_021",
+          "guid": "N64_001",
           "grammatical_form": null
         },
         {
@@ -5394,7 +5394,7 @@
       },
       "linked_words": [
         {
-          "guid": "N39_003",
+          "guid": "N39_023",
           "grammatical_form": null
         },
         {
@@ -15628,7 +15628,7 @@
           "grammatical_form": null
         },
         {
-          "guid": "N11_023",
+          "guid": "N64_004",
           "grammatical_form": null
         }
       ],
@@ -16416,6 +16416,98 @@
       "minimum_level": 185
     },
     {
+      "sentence_id": "S_01899",
+      "translations": {
+        "en": "He had an episode of severe anxiety at work.",
+        "zh": "他在工作时经历了一次严重的焦虑发作。",
+        "pinyin": "tā zài gōng zuò shí jīng lì le yī cì yán zhòng de jiāo lǜ fā zuò 。"
+      },
+      "linked_words": [
+        {
+          "guid": "N17_118",
+          "grammatical_form": null
+        },
+        {
+          "guid": "Z01_002",
+          "grammatical_form": "numeral/zh_cardinal"
+        },
+        {
+          "guid": "A05_069",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N23_024",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N24_118",
+          "grammatical_form": null
+        }
+      ],
+      "source": "add_word:episode",
+      "minimum_level": 9999
+    },
+    {
+      "sentence_id": "S_02743",
+      "translations": {
+        "en": "The court proceeding lasted three hours.",
+        "zh": "庭审持续了三个小时。",
+        "pinyin": "tíng shěn chí xù le sān gè xiǎo shí 。"
+      },
+      "linked_words": [
+        {
+          "guid": "N24_138",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V11_011",
+          "grammatical_form": null
+        },
+        {
+          "guid": "Z01_004",
+          "grammatical_form": "numeral/zh_cardinal"
+        },
+        {
+          "guid": "N25_010",
+          "grammatical_form": null
+        }
+      ],
+      "source": "add_word:proceeding",
+      "minimum_level": 9999
+    },
+    {
+      "sentence_id": "S_03126",
+      "translations": {
+        "en": "The bee's abdomen was covered with fine hairs.",
+        "zh": "蜜蜂的腹部覆盖着细密的绒毛。",
+        "pinyin": "mì fēng de fù bù fù gài zhe xì mì de róng máo 。"
+      },
+      "linked_words": [
+        {
+          "guid": "N02_039",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N03_082",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_039",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A05_172",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N03_027",
+          "grammatical_form": null
+        }
+      ],
+      "source": "add_word:abdomen",
+      "minimum_level": 9999
+    },
+    {
       "sentence_id": "S_03294",
       "translations": {
         "en": "The kiwi is a flightless bird native to New Zealand.",
@@ -16446,6 +16538,66 @@
       ],
       "source": "add_word:flightless",
       "minimum_level": 1010
+    },
+    {
+      "sentence_id": "S_03587",
+      "translations": {
+        "en": "I replaced the empty ink cartridge in the printer.",
+        "zh": "我更换了打印机里空了的墨盒。",
+        "pinyin": "wǒ gēng huàn le dǎ yìn jī lǐ kōng le de mò hé 。"
+      },
+      "linked_words": [
+        {
+          "guid": "V08_011",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N57_001",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A05_047",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N08_145",
+          "grammatical_form": null
+        }
+      ],
+      "source": "add_word:cartridge",
+      "minimum_level": 9999
+    },
+    {
+      "sentence_id": "S_03958",
+      "translations": {
+        "en": "The punitive fine forced the small business to close.",
+        "zh": "这笔惩罚性罚款迫使这家小企业关门。",
+        "pinyin": "zhè bǐ chéng fá xìng fá kuǎn pò shǐ zhè jiā xiǎo qǐ yè guān mén 。"
+      },
+      "linked_words": [
+        {
+          "guid": "A27_026",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N17_231",
+          "grammatical_form": null
+        },
+        {
+          "guid": "A01_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "N31_002",
+          "grammatical_form": null
+        },
+        {
+          "guid": "V01_015",
+          "grammatical_form": null
+        }
+      ],
+      "source": "add_word:punitive",
+      "minimum_level": 9999
     }
   ]
 }
