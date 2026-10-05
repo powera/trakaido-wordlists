@@ -3,7 +3,7 @@
   "language": "spanish",
   "language_code": "es-419",
   "variant": "es-419",
-  "generated_at": "2026-10-01T03:17:51Z",
+  "generated_at": "2026-10-05T20:09:35Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [],
@@ -255,10 +255,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "861590b77f0aa2a12a40c159f2d070cc.json",
+      "filename": "758fdc39ad2765cc41b4c72919289850.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "861590b77f0aa2a12a40c159f2d070cc",
+      "md5": "758fdc39ad2765cc41b4c72919289850",
       "levels": [
         1,
         2,
@@ -297,10 +297,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "531ba2d51ea9e4705e8f80acb637646e.json",
+      "filename": "f1c6f88b8bded06dcddd89e1feabb6ff.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "531ba2d51ea9e4705e8f80acb637646e",
+      "md5": "f1c6f88b8bded06dcddd89e1feabb6ff",
       "levels": [
         6,
         7,
@@ -430,10 +430,10 @@
     },
     {
       "id": "levels_21_25",
-      "filename": "aed96d9a7ea99f966d72e68eae404e2e.json",
+      "filename": "e11a4303a2b926508667b302c31dbf1e.json",
       "display_name": "Levels 21-25",
       "type": "words",
-      "md5": "aed96d9a7ea99f966d72e68eae404e2e",
+      "md5": "e11a4303a2b926508667b302c31dbf1e",
       "levels": [
         21,
         22,
@@ -465,10 +465,10 @@
     },
     {
       "id": "levels_26_30",
-      "filename": "a281f7b56b8ca789fbe5b3398a418a50.json",
+      "filename": "594b7d77e67be92893456dabfec64ea4.json",
       "display_name": "Levels 26-30",
       "type": "words",
-      "md5": "a281f7b56b8ca789fbe5b3398a418a50",
+      "md5": "594b7d77e67be92893456dabfec64ea4",
       "levels": [
         26,
         27,
