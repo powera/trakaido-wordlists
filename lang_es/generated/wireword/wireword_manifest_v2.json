@@ -2,7 +2,7 @@
   "version": 1,
   "language": "spanish",
   "language_code": "es",
-  "generated_at": "2026-10-05T20:09:44Z",
+  "generated_at": "2026-10-09T00:00:03Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -256,10 +256,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "353eb229e9788e54f53828ece2a3e745.json",
+      "filename": "e1f1db28d30b4532bbc2709c823ddfda.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "353eb229e9788e54f53828ece2a3e745",
+      "md5": "e1f1db28d30b4532bbc2709c823ddfda",
       "levels": [
         1,
         2,
@@ -298,10 +298,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "8079389f825c6cfab0065d4c9dd9502c.json",
+      "filename": "36c59c6ef15adab3833d136b3804bb47.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "8079389f825c6cfab0065d4c9dd9502c",
+      "md5": "36c59c6ef15adab3833d136b3804bb47",
       "levels": [
         6,
         7,
@@ -343,10 +343,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "21c72814b7b706a098533ececf28f725.json",
+      "filename": "c0fef82aea6b905c51fed8f9ff978192.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "21c72814b7b706a098533ececf28f725",
+      "md5": "c0fef82aea6b905c51fed8f9ff978192",
       "levels": [
         11,
         12,
@@ -381,10 +381,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "d15188b05d09be0e078c8c7ebca18cc7.json",
+      "filename": "e0a5fcaf7c74518beb4298f72492565c.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "d15188b05d09be0e078c8c7ebca18cc7",
+      "md5": "e0a5fcaf7c74518beb4298f72492565c",
       "levels": [
         16,
         17,
@@ -432,10 +432,10 @@
     },
     {
       "id": "levels_21_25",
-      "filename": "dbf6d68be1905209550a1e442dcdc152.json",
+      "filename": "8f50f110f3d7a6e7f5ba2caf3660f789.json",
       "display_name": "Levels 21-25",
       "type": "words",
-      "md5": "dbf6d68be1905209550a1e442dcdc152",
+      "md5": "8f50f110f3d7a6e7f5ba2caf3660f789",
       "levels": [
         21,
         22,
@@ -444,7 +444,7 @@
         25
       ],
       "required": true,
-      "word_count": 160,
+      "word_count": 161,
       "groups": [
         "Appliance",
         "Building Part",
@@ -460,6 +460,7 @@
         "Physical Action",
         "Relative Time",
         "Sequence",
+        "Shape",
         "Specific Time",
         "Temporal Name",
         "Time Period"
@@ -467,10 +468,10 @@
     },
     {
       "id": "levels_26_30",
-      "filename": "473c5753a9923fd2e3343d73aa983de5.json",
+      "filename": "dc67c5b837708ca8b5bf01cd7f6e1265.json",
       "display_name": "Levels 26-30",
       "type": "words",
-      "md5": "473c5753a9923fd2e3343d73aa983de5",
+      "md5": "dc67c5b837708ca8b5bf01cd7f6e1265",
       "levels": [
         26,
         27,
