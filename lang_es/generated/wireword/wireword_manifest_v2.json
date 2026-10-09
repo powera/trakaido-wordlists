@@ -2,7 +2,7 @@
   "version": 1,
   "language": "spanish",
   "language_code": "es",
-  "generated_at": "2026-10-09T00:00:03Z",
+  "generated_at": "2026-10-09T20:10:56Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -74,192 +74,688 @@
       {
         "level": 1,
         "name": {
-          "en": "Basics: Food, Clothes and Places"
-        }
+          "en": "Basics: Food, Clothes and Places",
+          "de": "Grundlagen: Essen, Kleidung und Orte",
+          "es": "Lo básico: comida, ropa y lugares",
+          "es-419": "Lo básico: comida, ropa y lugares",
+          "fr": "Les bases : nourriture, vêtements et lieux",
+          "it": "Le basi: cibo, vestiti e luoghi",
+          "ja": "基本：食べ物、服、場所",
+          "ko": "기초: 음식, 옷, 장소",
+          "lt": "Pagrindai: maistas, drabužiai ir vietos",
+          "nl": "Basis: eten, kleding en plaatsen",
+          "pt": "Noções básicas: comida, roupa e lugares",
+          "pt-br": "Básico: comida, roupas e lugares",
+          "sv": "Grunderna: mat, kläder och platser",
+          "sw": "Misingi: chakula, nguo na maeneo",
+          "zh": "基础：食物、衣服和地点",
+          "zh-tw": "基礎：食物、衣服和地點"
+        },
+        "cefr": "A1"
       },
       {
         "level": 2,
         "name": {
-          "en": "Basics: Objects, Animals and Vehicles"
-        }
+          "en": "Basics: Objects, Animals and Vehicles",
+          "de": "Grundlagen: Gegenstände, Tiere und Fahrzeuge",
+          "es": "Conceptos básicos: objetos, animales y vehículos",
+          "es-419": "Conceptos básicos: objetos, animales y vehículos",
+          "fr": "Les bases : objets, animaux et véhicules",
+          "it": "Le basi: oggetti, animali e veicoli",
+          "ja": "基本：物、動物、乗り物",
+          "ko": "기초: 물건, 동물, 탈것",
+          "lt": "Pagrindai: daiktai, gyvūnai ir transportas",
+          "nl": "Basis: voorwerpen, dieren en voertuigen",
+          "pt": "Noções básicas: objetos, animais e veículos",
+          "pt-br": "Noções básicas: objetos, animais e veículos",
+          "sv": "Grunderna: föremål, djur och fordon",
+          "sw": "Misingi: vitu, wanyama na vyombo vya usafiri",
+          "zh": "基础：物品、动物和交通工具",
+          "zh-tw": "基礎：物品、動物和交通工具"
+        },
+        "cefr": "A1"
       },
       {
         "level": 3,
         "name": {
-          "en": "Basics: Body, Colors and Feelings"
-        }
+          "en": "Body, Colors, Feelings and Basic Verbs",
+          "de": "Körper, Farben, Gefühle und grundlegende Verben",
+          "es": "Cuerpo, colores, emociones y verbos básicos",
+          "es-419": "Cuerpo, colores, emociones y verbos básicos",
+          "fr": "Corps, couleurs, émotions et verbes de base",
+          "it": "Corpo, colori, emozioni e verbi di base",
+          "ja": "体、色、気持ち、基本動詞",
+          "ko": "신체, 색깔, 감정과 기본 동사",
+          "lt": "Kūnas, spalvos, jausmai ir pagrindiniai veiksmažodžiai",
+          "nl": "Lichaam, kleuren, gevoelens en basiswerkwoorden",
+          "pt": "Corpo, cores, emoções e verbos básicos",
+          "pt-br": "Corpo, cores, emoções e verbos básicos",
+          "sv": "Kropp, färger, känslor och grundläggande verb",
+          "sw": "Mwili, rangi, hisia na vitenzi vya msingi",
+          "zh": "身体、颜色、情绪和基本动词",
+          "zh-tw": "身體、顏色、情緒和基本動詞"
+        },
+        "cefr": "A1"
       },
       {
         "level": 4,
         "name": {
-          "en": "Numbers and Shapes"
-        }
+          "en": "Numbers and Shapes",
+          "de": "Zahlen und Formen",
+          "es": "Números y formas",
+          "es-419": "Números y formas",
+          "fr": "Nombres et formes",
+          "it": "Numeri e forme",
+          "ja": "数字と形",
+          "ko": "숫자와 도형",
+          "lt": "Skaičiai ir formos",
+          "nl": "Getallen en vormen",
+          "pt": "Números e formas",
+          "pt-br": "Números e formas",
+          "sv": "Tal och former",
+          "sw": "Nambari na maumbo",
+          "zh": "数字和形状",
+          "zh-tw": "數字和形狀"
+        },
+        "cefr": "A1"
       },
       {
         "level": 5,
         "name": {
-          "en": "People and Jobs"
-        }
+          "en": "People, Family and Everyday Actions",
+          "de": "Menschen, Familie und Alltagshandlungen",
+          "es": "Personas, familia y acciones cotidianas",
+          "es-419": "Personas, familia y acciones cotidianas",
+          "fr": "Personnes, famille et gestes du quotidien",
+          "it": "Persone, famiglia e azioni quotidiane",
+          "ja": "人々、家族、日常の動作",
+          "ko": "사람, 가족과 일상 동작",
+          "lt": "Žmonės, šeima ir kasdieniai veiksmai",
+          "nl": "Mensen, familie en dagelijkse handelingen",
+          "pt": "Pessoas, família e ações do dia a dia",
+          "pt-br": "Pessoas, família e ações do dia a dia",
+          "sv": "Människor, familj och vardagliga handlingar",
+          "sw": "Watu, familia na shughuli za kila siku",
+          "zh": "人物、家庭与日常活动",
+          "zh-tw": "人物、家庭與日常活動"
+        },
+        "cefr": "A1"
       },
       {
         "level": 6,
         "name": {
-          "en": "Ordinals, Time and Everyday Words"
-        }
+          "en": "Function Words, Time and Greetings",
+          "de": "Funktionswörter, Zeit und Begrüßungen",
+          "es": "Palabras funcionales, tiempo y saludos",
+          "es-419": "Palabras funcionales, tiempo y saludos",
+          "fr": "Mots grammaticaux, temps et salutations",
+          "it": "Parole funzionali, tempo e saluti",
+          "ja": "機能語・時間・あいさつ",
+          "ko": "기능어, 시간, 인사",
+          "lt": "Tarnybiniai žodžiai, laikas ir pasisveikinimai",
+          "nl": "Functiewoorden, tijd en begroetingen",
+          "pt": "Palavras funcionais, tempo e cumprimentos",
+          "pt-br": "Palavras funcionais, tempo e cumprimentos",
+          "sv": "Funktionsord, tid och hälsningsfraser",
+          "sw": "Maneno ya kisarufi, wakati na salamu",
+          "zh": "虚词、时间和问候语",
+          "zh-tw": "虛詞、時間和問候語"
+        },
+        "cefr": "A1"
       },
       {
         "level": 7,
         "name": {
-          "en": "Food, Drink and Baking"
-        }
+          "en": "Food, Drink and Cooking",
+          "de": "Essen, Trinken und Kochen",
+          "es": "Comida, bebida y cocina",
+          "es-419": "Comida, bebida y cocina",
+          "fr": "Alimentation et cuisine",
+          "it": "Cibo, bevande e cucina",
+          "ja": "食べ物・飲み物・料理",
+          "ko": "음식, 음료와 요리",
+          "lt": "Maistas, gėrimai ir maisto gaminimas",
+          "nl": "Eten, drinken en koken",
+          "pt": "Comida, bebidas e cozinha",
+          "pt-br": "Comida, bebida e culinária",
+          "sv": "Mat, dryck och matlagning",
+          "sw": "Chakula, vinywaji na kupika",
+          "zh": "食物、饮料和烹饪",
+          "zh-tw": "食物、飲料和烹飪"
+        },
+        "cefr": "A1"
       },
       {
         "level": 8,
         "name": {
-          "en": "Body Parts and Everyday Verbs"
-        }
+          "en": "Age, Body Parts and Everyday Verbs",
+          "de": "Alter, Körperteile und alltägliche Verben",
+          "es": "Edad, partes del cuerpo y verbos cotidianos",
+          "es-419": "Edad, partes del cuerpo y verbos cotidianos",
+          "fr": "Âge, parties du corps et verbes du quotidien",
+          "it": "Età, parti del corpo e verbi quotidiani",
+          "ja": "年齢・体の部位・日常動詞",
+          "ko": "나이, 신체 부위와 일상 동사",
+          "lt": "Amžius, kūno dalys ir kasdieniai veiksmažodžiai",
+          "nl": "Leeftijd, lichaamsdelen en alledaagse werkwoorden",
+          "pt": "Idade, partes do corpo e verbos do dia a dia",
+          "pt-br": "Idade, partes do corpo e verbos do dia a dia",
+          "sv": "Ålder, kroppsdelar och vardagsverb",
+          "sw": "Umri, sehemu za mwili na vitenzi vya kila siku",
+          "zh": "年龄、身体部位和日常动词",
+          "zh-tw": "年齡、身體部位和日常動詞"
+        },
+        "cefr": "A1"
       },
       {
         "level": 9,
         "name": {
-          "en": "Wants and Feelings"
-        }
+          "en": "Needs and Feelings",
+          "de": "Bedürfnisse und Gefühle",
+          "es": "Necesidades y emociones",
+          "es-419": "Necesidades y emociones",
+          "fr": "Besoins et émotions",
+          "it": "Bisogni ed emozioni",
+          "ja": "欲求と感情",
+          "ko": "욕구와 감정",
+          "lt": "Poreikiai ir jausmai",
+          "nl": "Behoeften en gevoelens",
+          "pt": "Necessidades e emoções",
+          "pt-br": "Necessidades e emoções",
+          "sv": "Behov och känslor",
+          "sw": "Mahitaji na hisia",
+          "zh": "需求与感受",
+          "zh-tw": "需求與感受"
+        },
+        "cefr": "A2"
       },
       {
         "level": 10,
         "name": {
-          "en": "Buildings, Places and Everyday Words"
-        }
+          "en": "Places, Communication and Location Words",
+          "de": "Orte, Kommunikation und Ortsangaben",
+          "es": "Lugares, comunicación y orientación",
+          "es-419": "Lugares, comunicación y orientación",
+          "fr": "Lieux, communication et repères",
+          "it": "Luoghi, comunicazione e indicazioni di luogo",
+          "ja": "場所・コミュニケーション・位置を表す言葉",
+          "ko": "장소, 의사소통 및 위치 표현",
+          "lt": "Vietos, bendravimas ir vietos žodžiai",
+          "nl": "Plaatsen, communicatie en plaatsaanduidingen",
+          "pt": "Lugares, comunicação e localização",
+          "pt-br": "Lugares, comunicação e localização",
+          "sv": "Platser, kommunikation och lägesord",
+          "sw": "Maeneo, mawasiliano na maneno ya mahali",
+          "zh": "地点、交流与方位词",
+          "zh-tw": "地點、溝通與方位詞"
+        },
+        "cefr": "A1"
       },
       {
         "level": 11,
         "name": {
-          "en": "Describing People and Things"
-        }
+          "en": "Descriptions, Questions and Linking Words",
+          "de": "Beschreibungen, Fragen und Verbindungswörter",
+          "es": "Descripciones, preguntas y palabras de enlace",
+          "es-419": "Descripciones, preguntas y palabras de enlace",
+          "fr": "Descriptions, questions et mots de liaison",
+          "it": "Descrizioni, domande e parole di collegamento",
+          "ja": "説明・質問・つなぎ言葉",
+          "ko": "묘사, 질문, 연결어",
+          "lt": "Apibūdinimai, klausimai ir jungiamieji žodžiai",
+          "nl": "Beschrijvingen, vragen en verbindingswoorden",
+          "pt": "Descrições, perguntas e palavras de ligação",
+          "pt-br": "Descrições, perguntas e palavras de ligação",
+          "sv": "Beskrivningar, frågor och sambandsord",
+          "sw": "Maelezo, maswali na maneno ya kuunganisha",
+          "zh": "描述、疑问词和连接词",
+          "zh-tw": "描述、疑問詞和連接詞"
+        },
+        "cefr": "A2"
       },
       {
         "level": 12,
         "name": {
-          "en": "Shape Words and Small Words"
-        }
+          "en": "Ordinals and Shapes",
+          "de": "Ordnungszahlen und Formen",
+          "es": "Números ordinales y formas",
+          "es-419": "Números ordinales y formas",
+          "fr": "Nombres ordinaux et formes",
+          "it": "Numeri ordinali e forme",
+          "ja": "序数と形",
+          "ko": "서수와 도형",
+          "lt": "Kelintiniai skaitvardžiai ir formos",
+          "nl": "Rangtelwoorden en vormen",
+          "pt": "Números ordinais e formas",
+          "pt-br": "Números ordinais e formas",
+          "sv": "Ordningstal och former",
+          "sw": "Nambari za mpangilio na maumbo",
+          "zh": "序数词和形状",
+          "zh-tw": "序數詞和形狀"
+        },
+        "cefr": "A2"
       },
       {
         "level": 13,
         "name": {
-          "en": "More Feelings and Linking Words"
-        }
+          "en": "Everyday Feelings",
+          "de": "Alltägliche Gefühle",
+          "es": "Emociones cotidianas",
+          "es-419": "Emociones cotidianas",
+          "fr": "Émotions du quotidien",
+          "it": "Emozioni quotidiane",
+          "ja": "日常の感情",
+          "ko": "일상적인 감정",
+          "lt": "Kasdienės emocijos",
+          "nl": "Alledaagse gevoelens",
+          "pt": "Emoções do dia a dia",
+          "pt-br": "Emoções do dia a dia",
+          "sv": "Vardagliga känslor",
+          "sw": "Hisia za kila siku",
+          "zh": "日常情绪",
+          "zh-tw": "日常情緒"
+        },
+        "cefr": "A2"
       },
       {
         "level": 14,
         "name": {
-          "en": "Everyday Adjectives"
-        }
+          "en": "Everyday Descriptions",
+          "de": "Alltägliche Beschreibungen",
+          "es": "Descripciones cotidianas",
+          "es-419": "Descripciones cotidianas",
+          "fr": "Descriptions du quotidien",
+          "it": "Descrizioni quotidiane",
+          "ja": "日常の描写",
+          "ko": "일상적인 묘사",
+          "lt": "Kasdieniai apibūdinimai",
+          "nl": "Alledaagse beschrijvingen",
+          "pt": "Descrições do dia a dia",
+          "pt-br": "Descrições do dia a dia",
+          "sv": "Vardagliga beskrivningar",
+          "sw": "Maelezo ya kila siku",
+          "zh": "日常描述",
+          "zh-tw": "日常描述"
+        },
+        "cefr": "A1.2"
       },
       {
         "level": 15,
         "name": {
-          "en": "Health, Body and More Foods"
-        }
+          "en": "Countries, Nationalities, Languages and Ethnicities",
+          "de": "Länder, Nationalitäten, Sprachen und ethnische Gruppen",
+          "es": "Países, nacionalidades, idiomas y etnias",
+          "es-419": "Países, nacionalidades, idiomas y etnias",
+          "fr": "Pays, nationalités, langues et ethnies",
+          "it": "Paesi, nazionalità, lingue ed etnie",
+          "ja": "国、国籍、言語、民族",
+          "ko": "국가, 국적, 언어 및 민족",
+          "lt": "Šalys, tautybės, kalbos ir etninės grupės",
+          "nl": "Landen, nationaliteiten, talen en etnische groepen",
+          "pt": "Países, nacionalidades, línguas e etnias",
+          "pt-br": "Países, nacionalidades, idiomas e etnias",
+          "sv": "Länder, nationaliteter, språk och etniska grupper",
+          "sw": "Nchi, mataifa, lugha na makabila",
+          "zh": "国家、国籍、语言和族群",
+          "zh-tw": "國家、國籍、語言和族群"
+        },
+        "cefr": "A1"
       },
       {
         "level": 16,
         "name": {
-          "en": "Character and Feelings"
-        }
+          "en": "Describing People",
+          "de": "Charaktereigenschaften",
+          "es": "Describir el carácter de las personas",
+          "es-419": "Describir el carácter de las personas",
+          "fr": "Décrire le caractère des personnes",
+          "it": "Descrivere il carattere delle persone",
+          "ja": "人の性格を表す",
+          "ko": "사람의 성격 묘사",
+          "lt": "Žmonių charakteris",
+          "nl": "Karaktereigenschappen",
+          "pt": "Descrever o caráter das pessoas",
+          "pt-br": "Descrever o caráter das pessoas",
+          "sv": "Personliga egenskaper",
+          "sw": "Tabia za watu",
+          "zh": "描述人的性格",
+          "zh-tw": "描述人的性格"
+        },
+        "cefr": "A2"
       },
       {
         "level": 17,
         "name": {
-          "en": "Size and Quality"
-        }
+          "en": "Size, Quality and Condition",
+          "de": "Größe, Qualität und Zustand",
+          "es": "Tamaño, calidad y estado",
+          "es-419": "Tamaño, calidad y estado",
+          "fr": "Taille, qualité et état",
+          "it": "Dimensioni, qualità e stato",
+          "ja": "大きさ・品質・状態",
+          "ko": "크기, 품질 및 상태",
+          "lt": "Dydis, kokybė ir būklė",
+          "nl": "Grootte, kwaliteit en toestand",
+          "pt": "Tamanho, qualidade e estado",
+          "pt-br": "Tamanho, qualidade e estado",
+          "sv": "Storlek, kvalitet och tillstånd",
+          "sw": "Ukubwa, ubora na hali",
+          "zh": "大小、质量和状态",
+          "zh-tw": "大小、品質和狀態"
+        },
+        "cefr": "A2"
       },
       {
         "level": 18,
         "name": {
-          "en": "Pronouns, Position and Condition"
-        }
+          "en": "Extended Family, Pronouns and Conditions",
+          "de": "Erweiterte Familie, Pronomen und Bedingungen",
+          "es": "Familia extensa, pronombres y condiciones",
+          "es-419": "Familia extendida, pronombres y condiciones",
+          "fr": "Famille élargie, pronoms et conditions",
+          "it": "Famiglia allargata, pronomi e condizioni",
+          "ja": "親族、代名詞、条件",
+          "ko": "대가족, 대명사와 조건",
+          "lt": "Giminaičiai, įvardžiai ir sąlygos",
+          "nl": "Uitgebreide familie, voornaamwoorden en voorwaarden",
+          "pt": "Família alargada, pronomes e condições",
+          "pt-br": "Família ampliada, pronomes e condições",
+          "sv": "Släkt, pronomen och villkor",
+          "sw": "Familia ya ukoo mpana, viwakilishi na masharti",
+          "zh": "大家庭、代词和条件",
+          "zh-tw": "大家庭、代名詞和條件"
+        },
+        "cefr": "A2"
       },
       {
         "level": 19,
         "name": {
-          "en": "Adjectives, Greetings and Position Words"
-        }
+          "en": "School and Learning",
+          "de": "Schule und Lernen",
+          "es": "La escuela y el aprendizaje",
+          "es-419": "La escuela y el aprendizaje",
+          "fr": "École et apprentissage",
+          "it": "Scuola e apprendimento",
+          "ja": "学校と学習",
+          "ko": "학교와 학습",
+          "lt": "Mokykla ir mokymasis",
+          "nl": "School en leren",
+          "pt": "Escola e aprendizagem",
+          "pt-br": "Escola e aprendizagem",
+          "sv": "Skola och lärande",
+          "sw": "Shule na kujifunza",
+          "zh": "学校与学习",
+          "zh-tw": "學校與學習"
+        },
+        "cefr": "A1"
       },
       {
         "level": 20,
         "name": {
-          "en": "Adjectives and Exclamations"
-        }
+          "en": "Shopping and Money",
+          "de": "Einkaufen und Geld",
+          "es": "Compras y dinero",
+          "es-419": "Compras y dinero",
+          "fr": "Achats et argent",
+          "it": "Shopping e denaro",
+          "ja": "買い物とお金",
+          "ko": "쇼핑과 돈",
+          "lt": "Apsipirkimas ir pinigai",
+          "nl": "Winkelen en geld",
+          "pt": "Compras e dinheiro",
+          "pt-br": "Compras e dinheiro",
+          "sv": "Shopping och pengar",
+          "sw": "Ununuzi na pesa",
+          "zh": "购物与金钱",
+          "zh-tw": "購物與金錢"
+        },
+        "cefr": "A1"
       },
       {
         "level": 21,
         "name": {
-          "en": "Days and Months"
-        }
+          "en": "Days and Months",
+          "de": "Tage und Monate",
+          "es": "Días y meses",
+          "es-419": "Días y meses",
+          "fr": "Jours et mois",
+          "it": "Giorni e mesi",
+          "ja": "曜日と月",
+          "ko": "요일과 월",
+          "lt": "Savaitės dienos ir mėnesiai",
+          "nl": "Dagen en maanden",
+          "pt": "Dias e meses",
+          "pt-br": "Dias e meses",
+          "sv": "Dagar och månader",
+          "sw": "Siku na miezi",
+          "zh": "星期和月份",
+          "zh-tw": "星期和月份"
+        },
+        "cefr": "A1"
       },
       {
         "level": 22,
         "name": {
-          "en": "Time of Day and Sequence"
-        }
+          "en": "Time, Seasons and Sequence",
+          "de": "Zeit, Jahreszeiten und Reihenfolge",
+          "es": "Tiempo, estaciones y secuencia",
+          "es-419": "Tiempo, estaciones y secuencia",
+          "fr": "Le temps, les saisons et l’ordre",
+          "it": "Tempo, stagioni e sequenza",
+          "ja": "時間・季節・順序",
+          "ko": "시간, 계절과 순서",
+          "lt": "Laikas, metų laikai ir seka",
+          "nl": "Tijd, seizoenen en volgorde",
+          "pt": "Tempo, estações e sequência",
+          "pt-br": "Tempo, estações e sequência",
+          "sv": "Tid, årstider och ordningsföljd",
+          "sw": "Wakati, majira na mfuatano",
+          "zh": "时间、季节与顺序",
+          "zh-tw": "時間、季節與順序"
+        },
+        "cefr": "A1.2"
       },
       {
         "level": 23,
         "name": {
-          "en": "Place and Degree Words"
-        }
+          "en": "Place, Frequency and Degree",
+          "de": "Ort, Häufigkeit und Grad",
+          "es": "Lugar, frecuencia y grado",
+          "es-419": "Lugar, frecuencia y grado",
+          "fr": "Lieu, fréquence et degré",
+          "it": "Luogo, frequenza e grado",
+          "ja": "場所・頻度・程度",
+          "ko": "장소, 빈도와 정도",
+          "lt": "Vieta, dažnumas ir laipsnis",
+          "nl": "Plaats, frequentie en graad",
+          "pt": "Lugar, frequência e grau",
+          "pt-br": "Lugar, frequência e grau",
+          "sv": "Plats, frekvens och grad",
+          "sw": "Mahali, marudio na kiwango",
+          "zh": "地点、频率与程度",
+          "zh-tw": "地點、頻率與程度"
+        },
+        "cefr": "A2",
+        "cefr_estimate_method": "manual_curriculum_review",
+        "cefr_estimate_rationale": "Working whole-unit vocabulary estimate; individual words and senses vary. A2 for everyday concrete vocabulary and basic movement; B1 for expanded topic vocabulary; B2 for the abstract thinking, evaluation and interpretation vocabulary at L150."
       },
       {
         "level": 24,
         "name": {
-          "en": "Rooms of the House"
-        }
+          "en": "Buildings, Rooms and Repairs",
+          "de": "Gebäude, Räume und Reparaturen",
+          "es": "Edificios, habitaciones y reparaciones",
+          "es-419": "Edificios, habitaciones y reparaciones",
+          "fr": "Bâtiments, pièces et réparations",
+          "it": "Edifici, stanze e riparazioni",
+          "ja": "建物・部屋・修理",
+          "ko": "건물, 방과 수리",
+          "lt": "Pastatai, kambariai ir remontas",
+          "nl": "Gebouwen, kamers en reparaties",
+          "pt": "Edifícios, divisões e reparações",
+          "pt-br": "Edifícios, cômodos e reparos",
+          "sv": "Byggnader, rum och reparationer",
+          "sw": "Majengo, vyumba na matengenezo",
+          "zh": "建筑、房间与维修",
+          "zh-tw": "建築、房間與維修"
+        },
+        "cefr": "A2",
+        "cefr_estimate_method": "manual_curriculum_review",
+        "cefr_estimate_rationale": "Working whole-unit vocabulary estimate; individual words and senses vary. A2 for everyday concrete vocabulary and basic movement; B1 for expanded topic vocabulary; B2 for the abstract thinking, evaluation and interpretation vocabulary at L150."
       },
       {
         "level": 25,
         "name": {
-          "en": "Furniture and Appliances"
-        }
+          "en": "Furniture, Appliances and Household Items",
+          "de": "Möbel, Geräte und Haushaltsgegenstände",
+          "es": "Muebles, aparatos y objetos del hogar",
+          "es-419": "Muebles, aparatos y objetos del hogar",
+          "fr": "Meubles, appareils et objets ménagers",
+          "it": "Mobili, apparecchi e oggetti domestici",
+          "ja": "家具・家電・日用品",
+          "ko": "가구, 가전제품과 생활용품",
+          "lt": "Baldai, prietaisai ir namų apyvokos daiktai",
+          "nl": "Meubels, apparaten en huishoudelijke voorwerpen",
+          "pt": "Móveis, aparelhos e objetos domésticos",
+          "pt-br": "Móveis, aparelhos e objetos domésticos",
+          "sv": "Möbler, apparater och hushållsföremål",
+          "sw": "Samani, vifaa na vitu vya nyumbani",
+          "zh": "家具、电器与家居用品",
+          "zh-tw": "家具、電器與家居用品"
+        },
+        "cefr": "A2",
+        "cefr_estimate_method": "manual_curriculum_review",
+        "cefr_estimate_rationale": "Working whole-unit vocabulary estimate; individual words and senses vary. A2 for everyday concrete vocabulary and basic movement; B1 for expanded topic vocabulary; B2 for the abstract thinking, evaluation and interpretation vocabulary at L150."
       },
       {
         "level": 26,
         "name": {
-          "en": "Around Town"
-        }
+          "en": "Around Town and Travel",
+          "de": "In der Stadt und auf Reisen",
+          "es": "Por la ciudad y de viaje",
+          "es-419": "Por la ciudad y de viaje",
+          "fr": "En ville et en voyage",
+          "it": "In città e in viaggio",
+          "ja": "街と旅行",
+          "ko": "도시와 여행",
+          "lt": "Mieste ir kelionėje",
+          "nl": "In de stad en op reis",
+          "pt": "Na cidade e em viagem",
+          "pt-br": "Na cidade e em viagem",
+          "sv": "I staden och på resa",
+          "sw": "Mjini na safarini",
+          "zh": "城镇生活与旅行",
+          "zh-tw": "城鎮生活與旅行"
+        },
+        "cefr": "A2",
+        "cefr_estimate_method": "manual_curriculum_review",
+        "cefr_estimate_rationale": "Working whole-unit vocabulary estimate; individual words and senses vary. A2 for everyday concrete vocabulary and basic movement; B1 for expanded topic vocabulary; B2 for the abstract thinking, evaluation and interpretation vocabulary at L150."
       },
       {
         "level": 27,
         "name": {
-          "en": "Clothing"
-        }
+          "en": "Clothing and Colors",
+          "de": "Kleidung und Farben",
+          "es": "Ropa y colores",
+          "es-419": "Ropa y colores",
+          "fr": "Vêtements et couleurs",
+          "it": "Abbigliamento e colori",
+          "ja": "衣服と色",
+          "ko": "옷과 색깔",
+          "lt": "Drabužiai ir spalvos",
+          "nl": "Kleding en kleuren",
+          "pt": "Roupa e cores",
+          "pt-br": "Roupas e cores",
+          "sv": "Kläder och färger",
+          "sw": "Mavazi na rangi",
+          "zh": "服装与颜色",
+          "zh-tw": "服裝與顏色"
+        },
+        "cefr": "A2",
+        "cefr_estimate_method": "manual_curriculum_review",
+        "cefr_estimate_rationale": "Working whole-unit vocabulary estimate; individual words and senses vary. A2 for everyday concrete vocabulary and basic movement; B1 for expanded topic vocabulary; B2 for the abstract thinking, evaluation and interpretation vocabulary at L150."
       },
       {
         "level": 28,
         "name": {
-          "en": "Animals and Plants"
-        }
+          "en": "Animals and Plants",
+          "de": "Tiere und Pflanzen",
+          "es": "Animales y plantas",
+          "es-419": "Animales y plantas",
+          "fr": "Animaux et plantes",
+          "it": "Animali e piante",
+          "ja": "動物と植物",
+          "ko": "동물과 식물",
+          "lt": "Gyvūnai ir augalai",
+          "nl": "Dieren en planten",
+          "pt": "Animais e plantas",
+          "pt-br": "Animais e plantas",
+          "sv": "Djur och växter",
+          "sw": "Wanyama na mimea",
+          "zh": "动物与植物",
+          "zh-tw": "動物與植物"
+        },
+        "cefr": "A2",
+        "cefr_estimate_method": "manual_curriculum_review",
+        "cefr_estimate_rationale": "Working whole-unit vocabulary estimate; individual words and senses vary. A2 for everyday concrete vocabulary and basic movement; B1 for expanded topic vocabulary; B2 for the abstract thinking, evaluation and interpretation vocabulary at L150."
       },
       {
         "level": 29,
         "name": {
-          "en": "Activities and Everyday Objects"
-        }
+          "en": "Activities and Everyday Objects",
+          "de": "Aktivitäten und Alltagsgegenstände",
+          "es": "Actividades y objetos cotidianos",
+          "es-419": "Actividades y objetos cotidianos",
+          "fr": "Activités et objets du quotidien",
+          "it": "Attività e oggetti quotidiani",
+          "ja": "活動と身近な物",
+          "ko": "활동과 일상 사물",
+          "lt": "Veikla ir kasdieniai daiktai",
+          "nl": "Activiteiten en alledaagse voorwerpen",
+          "pt": "Atividades e objetos do dia a dia",
+          "pt-br": "Atividades e objetos do dia a dia",
+          "sv": "Aktiviteter och vardagsföremål",
+          "sw": "Shughuli na vitu vya kila siku",
+          "zh": "活动与日常物品",
+          "zh-tw": "活動與日常物品"
+        },
+        "cefr": "A2",
+        "cefr_estimate_method": "manual_curriculum_review",
+        "cefr_estimate_rationale": "Working whole-unit vocabulary estimate; individual words and senses vary. A2 for everyday concrete vocabulary and basic movement; B1 for expanded topic vocabulary; B2 for the abstract thinking, evaluation and interpretation vocabulary at L150."
       },
       {
         "level": 30,
         "name": {
-          "en": "Jobs"
-        }
+          "en": "Jobs",
+          "de": "Berufe",
+          "es": "Profesiones",
+          "es-419": "Profesiones",
+          "fr": "Métiers",
+          "it": "Professioni",
+          "ja": "職業",
+          "ko": "직업",
+          "lt": "Profesijos",
+          "nl": "Beroepen",
+          "pt": "Profissões",
+          "pt-br": "Profissões",
+          "sv": "Yrken",
+          "sw": "Kazi na taaluma",
+          "zh": "职业",
+          "zh-tw": "職業"
+        },
+        "cefr": "A2",
+        "cefr_estimate_method": "manual_curriculum_review",
+        "cefr_estimate_rationale": "Working whole-unit vocabulary estimate; individual words and senses vary. A2 for everyday concrete vocabulary and basic movement; B1 for expanded topic vocabulary; B2 for the abstract thinking, evaluation and interpretation vocabulary at L150."
       }
     ]
   },
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "e1f1db28d30b4532bbc2709c823ddfda.json",
+      "filename": "99781a6e8192a0a0d2cf2ae3ae996d53.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "e1f1db28d30b4532bbc2709c823ddfda",
+      "md5": "99781a6e8192a0a0d2cf2ae3ae996d53",
       "levels": [
         1,
         2,
@@ -268,7 +764,7 @@
         5
       ],
       "required": true,
-      "word_count": 183,
+      "word_count": 181,
       "groups": [
         "Animals",
         "Body Part",
@@ -298,10 +794,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "36c59c6ef15adab3833d136b3804bb47.json",
+      "filename": "959f0631bab25fe7242869392d8c867d.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "36c59c6ef15adab3833d136b3804bb47",
+      "md5": "959f0631bab25fe7242869392d8c867d",
       "levels": [
         6,
         7,
@@ -310,8 +806,9 @@
         10
       ],
       "required": true,
-      "word_count": 186,
+      "word_count": 161,
       "groups": [
+        "Adverb Other",
         "Beverage",
         "Body Part",
         "Building/Structure",
@@ -320,22 +817,19 @@
         "Conjunction Other",
         "Creation Action",
         "Determiner Other",
-        "Emotion",
         "Emotion/Feeling",
         "Emotional State",
         "Existence",
-        "Family Relation",
         "Food",
         "Interjection Other",
         "Mental State",
-        "Nationality",
         "Natural Feature",
-        "Ordinal",
         "Perception",
         "Physical Action",
+        "Physical Property",
+        "Possession",
         "Preposition Other",
         "Pronoun Other",
-        "Region",
         "Relative Time",
         "Style",
         "Time Period"
@@ -343,10 +837,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "c0fef82aea6b905c51fed8f9ff978192.json",
+      "filename": "6f5e00c6158f6767cce722c79955f765.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "c0fef82aea6b905c51fed8f9ff978192",
+      "md5": "6f5e00c6158f6767cce722c79955f765",
       "levels": [
         11,
         12,
@@ -355,36 +849,34 @@
         15
       ],
       "required": true,
-      "word_count": 166,
+      "word_count": 155,
       "groups": [
         "Adverb Other",
-        "Body Part",
+        "Communication/Information",
         "Conjunction Other",
         "Determiner Other",
-        "Directional Movement",
-        "Disease/Condition",
         "Emotion",
         "Emotion/Feeling",
-        "Emotional State",
-        "Family Relation",
-        "Medication/Remedy",
-        "Mental State",
+        "Nationality",
         "Natural Feature",
+        "Ordinal",
+        "Origin",
         "Physical Action",
         "Physical Property",
         "Preposition Other",
         "Pronoun Other",
         "Quality",
+        "Region",
         "Shape",
         "Size"
       ]
     },
     {
       "id": "levels_16_20",
-      "filename": "e0a5fcaf7c74518beb4298f72492565c.json",
+      "filename": "24f671ce484df26009f808015b67fa36.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "e0a5fcaf7c74518beb4298f72492565c",
+      "md5": "24f671ce484df26009f808015b67fa36",
       "levels": [
         16,
         17,
@@ -393,7 +885,7 @@
         20
       ],
       "required": true,
-      "word_count": 207,
+      "word_count": 169,
       "groups": [
         "Activity",
         "Adverb Other",
@@ -402,17 +894,15 @@
         "Communication/Information",
         "Concept/Idea",
         "Determiner Other",
-        "Emotion/Feeling",
+        "Emotion",
         "Emotional State",
         "Family Relation",
-        "Food",
         "Furniture",
         "Humans",
         "Knowledge Domain",
         "Location",
         "Material/Substance",
         "Mental State",
-        "Nationality",
         "Occupation",
         "Personal Quality",
         "Physical Action",
@@ -423,7 +913,6 @@
         "Pronoun Other",
         "Quality",
         "Quantitative Concept",
-        "Region",
         "Size",
         "Small Movable Object",
         "Style",
@@ -432,10 +921,10 @@
     },
     {
       "id": "levels_21_25",
-      "filename": "8f50f110f3d7a6e7f5ba2caf3660f789.json",
+      "filename": "536856cec1eaa962ee1ad293d0c32971.json",
       "display_name": "Levels 21-25",
       "type": "words",
-      "md5": "8f50f110f3d7a6e7f5ba2caf3660f789",
+      "md5": "536856cec1eaa962ee1ad293d0c32971",
       "levels": [
         21,
         22,
@@ -444,8 +933,9 @@
         25
       ],
       "required": true,
-      "word_count": 161,
+      "word_count": 166,
       "groups": [
+        "Adverb Other",
         "Appliance",
         "Building Part",
         "Building/Structure",
@@ -458,9 +948,9 @@
         "Intensity",
         "Location",
         "Physical Action",
+        "Preposition Other",
         "Relative Time",
         "Sequence",
-        "Shape",
         "Specific Time",
         "Temporal Name",
         "Time Period"
@@ -468,10 +958,10 @@
     },
     {
       "id": "levels_26_30",
-      "filename": "dc67c5b837708ca8b5bf01cd7f6e1265.json",
+      "filename": "08daac5ccf45444e4df9cf7deacf5051.json",
       "display_name": "Levels 26-30",
       "type": "words",
-      "md5": "dc67c5b837708ca8b5bf01cd7f6e1265",
+      "md5": "08daac5ccf45444e4df9cf7deacf5051",
       "levels": [
         26,
         27,
@@ -480,7 +970,7 @@
         30
       ],
       "required": true,
-      "word_count": 144,
+      "word_count": 146,
       "groups": [
         "Activity",
         "Animals",
