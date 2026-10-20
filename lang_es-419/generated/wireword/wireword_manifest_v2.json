@@ -3,7 +3,7 @@
   "language": "spanish",
   "language_code": "es-419",
   "variant": "es-419",
-  "generated_at": "2026-10-09T20:11:22Z",
+  "generated_at": "2026-10-20T15:27:39Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [],
@@ -751,10 +751,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "645cfccd055db205ad06235fb5a5016c.json",
+      "filename": "6553c0fa008350deb323a77b9c54e94d.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "645cfccd055db205ad06235fb5a5016c",
+      "md5": "6553c0fa008350deb323a77b9c54e94d",
       "levels": [
         1,
         2,
@@ -763,7 +763,7 @@
         5
       ],
       "required": true,
-      "word_count": 181,
+      "word_count": 184,
       "groups": [
         "Animals",
         "Body Part",
@@ -779,6 +779,7 @@
         "Food",
         "Humans",
         "Interjection Other",
+        "Kitchenware",
         "Mental State",
         "Occupation",
         "Perception",
@@ -793,10 +794,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "5a97d8510a0db0e3771c52473625a7b4.json",
+      "filename": "21c883455f68882cb39a2027705ca65d.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "5a97d8510a0db0e3771c52473625a7b4",
+      "md5": "21c883455f68882cb39a2027705ca65d",
       "levels": [
         6,
         7,
@@ -805,41 +806,46 @@
         10
       ],
       "required": true,
-      "word_count": 161,
+      "word_count": 170,
       "groups": [
         "Adverb Other",
         "Beverage",
         "Body Part",
+        "Building Part",
         "Building/Structure",
         "Celestial Object",
         "Communication",
         "Conjunction Other",
         "Creation Action",
         "Determiner Other",
+        "Direction",
         "Emotion/Feeling",
         "Emotional State",
         "Existence",
         "Food",
+        "Furniture",
         "Interjection Other",
         "Mental State",
         "Natural Feature",
         "Perception",
         "Physical Action",
         "Physical Property",
+        "Place Name",
         "Possession",
         "Preposition Other",
         "Pronoun Other",
         "Relative Time",
+        "Specific Time",
         "Style",
         "Time Period"
       ]
     },
     {
       "id": "levels_11_15",
-      "filename": "686117f333e6e71ef08580df1f60ea5c.json",
+      "filename": "7027b2073bdf7349ec3c352c6fdfde84.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "686117f333e6e71ef08580df1f60ea5c",
+      "md5": "7027b2073bdf7349ec3c352c6fdfde84",
       "levels": [
         11,
         12,
@@ -848,14 +854,15 @@
         15
       ],
       "required": true,
-      "word_count": 147,
+      "word_count": 158,
       "groups": [
         "Adverb Other",
-        "Communication/Information",
+        "Communication",
         "Conjunction Other",
         "Determiner Other",
         "Emotion",
         "Emotion/Feeling",
+        "Language",
         "Nationality",
         "Natural Feature",
         "Ordinal",
@@ -872,10 +879,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "380c3eb2d75b484b163e6eba42b0ec35.json",
+      "filename": "b6edb982ae5e1d1476bccdf99d02eca7.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "380c3eb2d75b484b163e6eba42b0ec35",
+      "md5": "b6edb982ae5e1d1476bccdf99d02eca7",
       "levels": [
         16,
         17,
@@ -884,7 +891,7 @@
         20
       ],
       "required": true,
-      "word_count": 169,
+      "word_count": 166,
       "groups": [
         "Activity",
         "Adverb Other",
@@ -896,13 +903,16 @@
         "Emotion",
         "Emotional State",
         "Family Relation",
+        "Financial Ledger Entry",
         "Furniture",
         "Humans",
         "Knowledge Domain",
         "Location",
         "Material/Substance",
+        "Means of Payment",
         "Mental State",
         "Occupation",
+        "Pattern and texture",
         "Personal Quality",
         "Physical Action",
         "Physical Property",
@@ -920,10 +930,10 @@
     },
     {
       "id": "levels_21_25",
-      "filename": "3275d1cd458cbae1b50bfc17bd47a9be.json",
+      "filename": "9b20b4ef3c697c5fe00294b73e0035e4.json",
       "display_name": "Levels 21-25",
       "type": "words",
-      "md5": "3275d1cd458cbae1b50bfc17bd47a9be",
+      "md5": "9b20b4ef3c697c5fe00294b73e0035e4",
       "levels": [
         21,
         22,
@@ -932,10 +942,11 @@
         25
       ],
       "required": true,
-      "word_count": 166,
+      "word_count": 159,
       "groups": [
         "Adverb Other",
         "Appliance",
+        "Artwork/Artifact",
         "Building Part",
         "Building/Structure",
         "Change",
@@ -946,10 +957,13 @@
         "Furniture",
         "Intensity",
         "Location",
+        "Path/Infrastructure",
         "Physical Action",
+        "Place Name",
         "Preposition Other",
         "Relative Time",
         "Sequence",
+        "Small Movable Object",
         "Specific Time",
         "Temporal Name",
         "Time Period"
@@ -957,10 +971,10 @@
     },
     {
       "id": "levels_26_30",
-      "filename": "8c03717fcf24765f15bb15aeba9dbf6b.json",
+      "filename": "3cf51929a2ae5e5eb019be128f3486f1.json",
       "display_name": "Levels 26-30",
       "type": "words",
-      "md5": "8c03717fcf24765f15bb15aeba9dbf6b",
+      "md5": "3cf51929a2ae5e5eb019be128f3486f1",
       "levels": [
         26,
         27,
@@ -969,10 +983,11 @@
         30
       ],
       "required": true,
-      "word_count": 146,
+      "word_count": 149,
       "groups": [
         "Activity",
         "Animals",
+        "Artwork/Artifact",
         "Building/Structure",
         "Change",
         "Clothing/Accessory",
@@ -981,14 +996,18 @@
         "Concept/Idea",
         "Development",
         "Directional Movement",
+        "Geographic Place",
         "Manner Movement",
         "Occupation",
         "Path/Infrastructure",
         "Physical Action",
+        "Physical Property",
         "Place Name",
         "Plant Part",
         "Plants",
+        "Quantitative Concept",
         "Small Movable Object",
+        "Sports/Game Equipment",
         "Vehicle"
       ]
     }

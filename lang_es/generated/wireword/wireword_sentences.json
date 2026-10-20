@@ -601,7 +601,7 @@
           "grammatical_form": "preposition/base"
         },
         {
-          "guid": "N07_050",
+          "guid": "N30_085",
           "grammatical_form": "noun/es_singular"
         }
       ],
@@ -834,7 +834,7 @@
           "grammatical_form": "preposition/base"
         },
         {
-          "guid": "N07_032",
+          "guid": "N47_048",
           "grammatical_form": "noun/es_singular"
         }
       ],
@@ -1101,7 +1101,7 @@
           "grammatical_form": null
         },
         {
-          "guid": "N07_050",
+          "guid": "N30_085",
           "grammatical_form": "noun/es_singular"
         }
       ],
@@ -2797,7 +2797,7 @@
           "grammatical_form": null
         },
         {
-          "guid": "N07_049",
+          "guid": "N30_084",
           "grammatical_form": null
         }
       ],
@@ -3699,7 +3699,7 @@
           "grammatical_form": "adjective/es_plural_m"
         },
         {
-          "guid": "N07_050",
+          "guid": "N30_085",
           "grammatical_form": "noun/es_singular"
         }
       ],
@@ -3761,7 +3761,7 @@
           "grammatical_form": null
         },
         {
-          "guid": "N07_050",
+          "guid": "N30_085",
           "grammatical_form": null
         }
       ],
@@ -3867,7 +3867,7 @@
           "grammatical_form": "verb/es_1s_past"
         },
         {
-          "guid": "N07_049",
+          "guid": "N30_084",
           "grammatical_form": "noun/es_singular"
         }
       ],
@@ -3907,7 +3907,7 @@
           "grammatical_form": "noun/es_singular"
         },
         {
-          "guid": "N07_031",
+          "guid": "N47_050",
           "grammatical_form": "noun/es_singular"
         }
       ],
@@ -4369,7 +4369,7 @@
           "grammatical_form": "verb/es_3s_present"
         },
         {
-          "guid": "N07_049",
+          "guid": "N30_084",
           "grammatical_form": "noun/es_singular"
         },
         {
@@ -4391,7 +4391,7 @@
           "grammatical_form": "verb/es_1p_present"
         },
         {
-          "guid": "N07_050",
+          "guid": "N30_085",
           "grammatical_form": "noun/es_singular"
         }
       ],
@@ -4409,7 +4409,7 @@
           "grammatical_form": "verb/es_2s_present"
         },
         {
-          "guid": "N07_050",
+          "guid": "N30_085",
           "grammatical_form": "noun/es_singular"
         },
         {
@@ -4435,7 +4435,7 @@
           "grammatical_form": null
         },
         {
-          "guid": "N07_051",
+          "guid": "N47_046",
           "grammatical_form": null
         }
       ],
@@ -4475,7 +4475,7 @@
           "grammatical_form": null
         },
         {
-          "guid": "N07_034",
+          "guid": "N47_054",
           "grammatical_form": null
         }
       ],
@@ -4497,7 +4497,7 @@
           "grammatical_form": "noun/es_singular"
         },
         {
-          "guid": "N07_038",
+          "guid": "N47_052",
           "grammatical_form": null
         }
       ],
@@ -4595,7 +4595,7 @@
       },
       "linked_words": [
         {
-          "guid": "N07_049",
+          "guid": "N30_084",
           "grammatical_form": "noun/es_singular"
         },
         {
@@ -4647,7 +4647,7 @@
           "grammatical_form": "verb/es_1p_past"
         },
         {
-          "guid": "N07_035",
+          "guid": "N47_051",
           "grammatical_form": null
         }
       ],
@@ -4744,7 +4744,7 @@
           "grammatical_form": "adjective/es_singular_f"
         },
         {
-          "guid": "N11_047",
+          "guid": "N80_017",
           "grammatical_form": null
         }
       ],
@@ -4814,7 +4814,7 @@
           "grammatical_form": "noun/es_singular"
         },
         {
-          "guid": "N11_035",
+          "guid": "N80_015",
           "grammatical_form": null
         }
       ],
@@ -5038,7 +5038,7 @@
           "grammatical_form": "adjective/es_plural_m"
         },
         {
-          "guid": "N17_121",
+          "guid": "N80_009",
           "grammatical_form": "noun/es_singular"
         }
       ],
@@ -5060,7 +5060,7 @@
           "grammatical_form": "adjective/es_singular_f"
         },
         {
-          "guid": "N17_121",
+          "guid": "N80_009",
           "grammatical_form": null
         }
       ],
@@ -5078,7 +5078,7 @@
           "grammatical_form": "verb/es_2s_past"
         },
         {
-          "guid": "N17_121",
+          "guid": "N80_009",
           "grammatical_form": null
         }
       ],
@@ -5100,7 +5100,7 @@
           "grammatical_form": "adjective/es_singular_m"
         },
         {
-          "guid": "N17_046",
+          "guid": "N75_002",
           "grammatical_form": "noun/es_singular"
         }
       ],
@@ -5206,7 +5206,7 @@
           "grammatical_form": "adjective/es_singular_f"
         },
         {
-          "guid": "N17_046",
+          "guid": "N75_002",
           "grammatical_form": "noun/es_singular"
         }
       ],
@@ -5890,7 +5890,7 @@
           "grammatical_form": "verb/es_3s_past"
         },
         {
-          "guid": "N08_004",
+          "guid": "N71_019",
           "grammatical_form": null
         },
         {
@@ -5912,7 +5912,7 @@
           "grammatical_form": "verb/es_1s_past"
         },
         {
-          "guid": "N11_030",
+          "guid": "N14_096",
           "grammatical_form": "noun/es_singular"
         },
         {
@@ -6364,7 +6364,7 @@
           "grammatical_form": "verb/es_3p_past"
         },
         {
-          "guid": "N11_030",
+          "guid": "N14_096",
           "grammatical_form": "noun/es_singular"
         },
         {
@@ -6434,7 +6434,7 @@
           "grammatical_form": "noun/es_singular"
         },
         {
-          "guid": "N07_038",
+          "guid": "N47_052",
           "grammatical_form": "noun/es_singular"
         }
       ],
@@ -6734,11 +6734,11 @@
           "grammatical_form": "verb/es_3s_present"
         },
         {
-          "guid": "N08_001",
+          "guid": "N71_003",
           "grammatical_form": "noun/es_singular"
         },
         {
-          "guid": "N08_004",
+          "guid": "N71_019",
           "grammatical_form": "noun/es_singular"
         }
       ],
@@ -6756,7 +6756,7 @@
           "grammatical_form": "verb/es_3s_present"
         },
         {
-          "guid": "N08_001",
+          "guid": "N71_003",
           "grammatical_form": null
         },
         {
@@ -6778,7 +6778,7 @@
           "grammatical_form": "verb/es_3s_present"
         },
         {
-          "guid": "N08_002",
+          "guid": "N71_004",
           "grammatical_form": null
         },
         {
@@ -6804,7 +6804,7 @@
           "grammatical_form": "noun/es_singular"
         },
         {
-          "guid": "N08_003",
+          "guid": "N71_018",
           "grammatical_form": "noun/es_singular"
         }
       ],
@@ -6822,7 +6822,7 @@
           "grammatical_form": "verb/es_1s_past"
         },
         {
-          "guid": "N08_003",
+          "guid": "N71_018",
           "grammatical_form": "noun/es_singular"
         },
         {
@@ -6848,7 +6848,7 @@
           "grammatical_form": "verb/es_3s_past"
         },
         {
-          "guid": "N08_003",
+          "guid": "N71_018",
           "grammatical_form": null
         },
         {
@@ -6870,7 +6870,7 @@
           "grammatical_form": "verb/es_3s_past"
         },
         {
-          "guid": "N08_004",
+          "guid": "N71_019",
           "grammatical_form": null
         },
         {
@@ -6896,7 +6896,7 @@
           "grammatical_form": null
         },
         {
-          "guid": "N08_004",
+          "guid": "N71_019",
           "grammatical_form": "noun/es_plural"
         },
         {
@@ -7566,7 +7566,7 @@
           "grammatical_form": "verb/es_3s_past"
         },
         {
-          "guid": "N08_003",
+          "guid": "N71_018",
           "grammatical_form": "noun/es_singular"
         },
         {
@@ -7632,7 +7632,7 @@
           "grammatical_form": "verb/es_3s_past"
         },
         {
-          "guid": "N08_004",
+          "guid": "N71_019",
           "grammatical_form": "noun/es_singular"
         },
         {
@@ -7654,7 +7654,7 @@
           "grammatical_form": "verb/es_3s_present"
         },
         {
-          "guid": "N08_003",
+          "guid": "N71_018",
           "grammatical_form": null
         },
         {
@@ -7798,7 +7798,7 @@
           "grammatical_form": "verb/es_1p_present"
         },
         {
-          "guid": "N08_004",
+          "guid": "N71_019",
           "grammatical_form": null
         },
         {
@@ -8186,7 +8186,7 @@
           "grammatical_form": "verb/es_3s_past"
         },
         {
-          "guid": "N08_026",
+          "guid": "N71_009",
           "grammatical_form": "noun/es_singular"
         },
         {
@@ -9180,7 +9180,7 @@
           "grammatical_form": "verb/es_1s_past"
         },
         {
-          "guid": "N08_001",
+          "guid": "N71_003",
           "grammatical_form": "noun/es_singular"
         },
         {
@@ -9202,7 +9202,7 @@
           "grammatical_form": "verb/es_3p_past"
         },
         {
-          "guid": "N08_001",
+          "guid": "N71_003",
           "grammatical_form": "noun/es_plural"
         },
         {
@@ -9224,7 +9224,7 @@
           "grammatical_form": "verb/es_3p_past"
         },
         {
-          "guid": "N08_002",
+          "guid": "N71_004",
           "grammatical_form": "noun/es_plural"
         },
         {
@@ -11288,7 +11288,7 @@
           "grammatical_form": "verb/es_3s_present"
         },
         {
-          "guid": "N47_016",
+          "guid": "N13_033",
           "grammatical_form": "noun/es_singular"
         }
       ],
@@ -11512,7 +11512,7 @@
           "grammatical_form": null
         },
         {
-          "guid": "N07_044",
+          "guid": "N30_082",
           "grammatical_form": null
         }
       ],
@@ -11560,7 +11560,7 @@
           "grammatical_form": "verb/es_3s_past"
         },
         {
-          "guid": "N07_031",
+          "guid": "N47_050",
           "grammatical_form": "noun/es_singular"
         }
       ],
@@ -12120,7 +12120,7 @@
           "grammatical_form": "noun/es_singular"
         },
         {
-          "guid": "N07_050",
+          "guid": "N30_085",
           "grammatical_form": "noun/es_singular"
         }
       ],
@@ -12278,7 +12278,7 @@
           "grammatical_form": null
         },
         {
-          "guid": "N07_049",
+          "guid": "N30_084",
           "grammatical_form": null
         }
       ],
@@ -12406,7 +12406,7 @@
           "grammatical_form": null
         },
         {
-          "guid": "N11_046",
+          "guid": "N13_031",
           "grammatical_form": null
         }
       ],
@@ -14240,7 +14240,7 @@
           "grammatical_form": "verb/es_3s_present"
         },
         {
-          "guid": "N07_050",
+          "guid": "N30_085",
           "grammatical_form": "noun/es_singular"
         }
       ],
@@ -15066,7 +15066,7 @@
           "grammatical_form": "verb/es_3s_present"
         },
         {
-          "guid": "N07_049",
+          "guid": "N30_084",
           "grammatical_form": "noun/es_singular"
         },
         {
@@ -15140,7 +15140,7 @@
           "grammatical_form": "verb/es_3s_past"
         },
         {
-          "guid": "N08_002",
+          "guid": "N71_004",
           "grammatical_form": "noun/es_singular"
         },
         {
@@ -16011,7 +16011,7 @@
       },
       "linked_words": [
         {
-          "guid": "N17_231",
+          "guid": "N76_011",
           "grammatical_form": null
         },
         {
@@ -16027,7 +16027,7 @@
           "grammatical_form": null
         },
         {
-          "guid": "N31_002",
+          "guid": "N55_086",
           "grammatical_form": null
         },
         {

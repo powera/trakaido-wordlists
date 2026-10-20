@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "language": "spanish",
+  "default_variant": "es",
+  "variants": [
+    {
+      "id": "es",
+      "directory": "spanish",
+      "language_code": "es-ES",
+      "speech_locale": "es-ES",
+      "display_name": "Spain",
+      "native_name": "Español de España",
+      "description": "Vocabulary and pronunciation as used in Spain.",
+      "flag": "🇪🇸",
+      "default_regions": [
+        "ES"
+      ],
+      "source_languages": [
+        "en"
+      ]
+    },
+    {
+      "id": "es-419",
+      "directory": "spanish_419",
+      "language_code": "es-419",
+      "speech_locale": "es-MX",
+      "display_name": "Latin America",
+      "native_name": "Español de Latinoamérica",
+      "description": "Vocabulary and pronunciation as used in Mexico, Colombia, Argentina and the rest of Latin America.",
+      "flag": "🌎",
+      "default_regions": [
+        "MX",
+        "CO",
+        "AR",
+        "PE",
+        "VE",
+        "CL",
+        "EC",
+        "GT",
+        "CU",
+        "BO",
+        "DO",
+        "HN",
+        "PY",
+        "SV",
+        "NI",
+        "CR",
+        "PA",
+        "UY",
+        "PR",
+        "US"
+      ],
+      "source_languages": [
+        "en"
+      ]
+    }
+  ]
+}
