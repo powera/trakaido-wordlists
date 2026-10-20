@@ -2,7 +2,7 @@
   "version": 1,
   "language": "lithuanian",
   "language_code": "lt",
-  "generated_at": "2026-10-20T15:27:52Z",
+  "generated_at": "2026-10-20T16:03:58Z",
   "source_language": "chinese",
   "source_language_code": "zh",
   "config": {
@@ -3345,10 +3345,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "9246a605f42cd47ca02dc996fad28368.json",
+      "filename": "24593b1f399d2741c61670673c073d3f.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "9246a605f42cd47ca02dc996fad28368",
+      "md5": "24593b1f399d2741c61670673c073d3f",
       "levels": [
         1,
         2,
@@ -3388,10 +3388,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "501a3636a5753e898a7b1b2e04249976.json",
+      "filename": "edc0c8151f37fe94b22f0629dd9830d8.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "501a3636a5753e898a7b1b2e04249976",
+      "md5": "edc0c8151f37fe94b22f0629dd9830d8",
       "levels": [
         6,
         7,

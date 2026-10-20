@@ -3,7 +3,7 @@
   "language": "spanish",
   "language_code": "es-419",
   "variant": "es-419",
-  "generated_at": "2026-10-20T15:27:39Z",
+  "generated_at": "2026-10-20T15:55:58Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [],
@@ -751,10 +751,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "6553c0fa008350deb323a77b9c54e94d.json",
+      "filename": "cf8f0782348b7afc42b00893ea76be4b.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "6553c0fa008350deb323a77b9c54e94d",
+      "md5": "cf8f0782348b7afc42b00893ea76be4b",
       "levels": [
         1,
         2,
@@ -794,10 +794,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "21c883455f68882cb39a2027705ca65d.json",
+      "filename": "e6685e33523f5943ed0be1a47718ada9.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "21c883455f68882cb39a2027705ca65d",
+      "md5": "e6685e33523f5943ed0be1a47718ada9",
       "levels": [
         6,
         7,
