@@ -2,7 +2,7 @@
   "version": 1,
   "language": "lithuanian",
   "language_code": "lt",
-  "generated_at": "2026-10-20T16:03:58Z",
+  "generated_at": "2026-10-23T22:36:33Z",
   "source_language": "chinese",
   "source_language_code": "zh",
   "config": {
@@ -95,6 +95,119 @@
           "1p": "mes",
           "2p": "jūs",
           "3p": "jie/jos"
+        }
+      },
+      "form_labels": {
+        "1p_conditional": {
+          "en": "First person plural, conditional mood",
+          "lt": "Pirmasis asmuo daugiskaita, tariamoji nuosaka"
+        },
+        "1p_future": {
+          "en": "First person plural, future tense",
+          "lt": "Pirmasis asmuo daugiskaita, būsimasis laikas"
+        },
+        "1p_past": {
+          "en": "First person plural, past tense",
+          "lt": "Pirmasis asmuo daugiskaita, būtasis laikas"
+        },
+        "1p_present": {
+          "en": "First person plural, present tense",
+          "lt": "Pirmasis asmuo daugiskaita, esamasis laikas"
+        },
+        "1s_conditional": {
+          "en": "First person singular, conditional mood",
+          "lt": "Pirmasis asmuo vienaskaita, tariamoji nuosaka"
+        },
+        "1s_future": {
+          "en": "First person singular, future tense",
+          "lt": "Pirmasis asmuo vienaskaita, būsimasis laikas"
+        },
+        "1s_past": {
+          "en": "First person singular, past tense",
+          "lt": "Pirmasis asmuo vienaskaita, būtasis laikas"
+        },
+        "1s_present": {
+          "en": "First person singular, present tense",
+          "lt": "Pirmasis asmuo vienaskaita, esamasis laikas"
+        },
+        "2p_conditional": {
+          "en": "Second person plural, conditional mood",
+          "lt": "Antrasis asmuo daugiskaita, tariamoji nuosaka"
+        },
+        "2p_future": {
+          "en": "Second person plural, future tense",
+          "lt": "Antrasis asmuo daugiskaita, būsimasis laikas"
+        },
+        "2p_imperative": {
+          "en": "Second person plural, imperative",
+          "lt": "Antrasis asmuo daugiskaita, liepiamoji nuosaka"
+        },
+        "2p_past": {
+          "en": "Second person plural, past tense",
+          "lt": "Antrasis asmuo daugiskaita, būtasis laikas"
+        },
+        "2p_present": {
+          "en": "Second person plural, present tense",
+          "lt": "Antrasis asmuo daugiskaita, esamasis laikas"
+        },
+        "2s_conditional": {
+          "en": "Second person singular, conditional mood",
+          "lt": "Antrasis asmuo vienaskaita, tariamoji nuosaka"
+        },
+        "2s_future": {
+          "en": "Second person singular, future tense",
+          "lt": "Antrasis asmuo vienaskaita, būsimasis laikas"
+        },
+        "2s_imperative": {
+          "en": "Second person singular, imperative",
+          "lt": "Antrasis asmuo vienaskaita, liepiamoji nuosaka"
+        },
+        "2s_past": {
+          "en": "Second person singular, past tense",
+          "lt": "Antrasis asmuo vienaskaita, būtasis laikas"
+        },
+        "2s_present": {
+          "en": "Second person singular, present tense",
+          "lt": "Antrasis asmuo vienaskaita, esamasis laikas"
+        },
+        "3p_conditional": {
+          "en": "Third person plural, conditional mood",
+          "lt": "Trečiasis asmuo daugiskaita, tariamoji nuosaka"
+        },
+        "3p_future": {
+          "en": "Third person plural, future tense",
+          "lt": "Trečiasis asmuo daugiskaita, būsimasis laikas"
+        },
+        "3p_past": {
+          "en": "Third person plural, past tense",
+          "lt": "Trečiasis asmuo daugiskaita, būtasis laikas"
+        },
+        "3p_present": {
+          "en": "Third person plural, present tense",
+          "lt": "Trečiasis asmuo daugiskaita, esamasis laikas"
+        },
+        "3s_conditional": {
+          "en": "Third person singular, conditional mood",
+          "lt": "Trečiasis asmuo vienaskaita, tariamoji nuosaka"
+        },
+        "3s_future": {
+          "en": "Third person singular, future tense",
+          "lt": "Trečiasis asmuo vienaskaita, būsimasis laikas"
+        },
+        "3s_past": {
+          "en": "Third person singular, past tense",
+          "lt": "Trečiasis asmuo vienaskaita, būtasis laikas"
+        },
+        "3s_present": {
+          "en": "Third person singular, present tense",
+          "lt": "Trečiasis asmuo vienaskaita, esamasis laikas"
+        },
+        "habitual_past": {
+          "en": "Habitual past"
+        },
+        "infinitive": {
+          "en": "Infinitive",
+          "lt": "Bendratis"
         }
       }
     },
@@ -3345,10 +3458,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "24593b1f399d2741c61670673c073d3f.json",
+      "filename": "7128cd87d137e9939e61b3707845f652.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "24593b1f399d2741c61670673c073d3f",
+      "md5": "7128cd87d137e9939e61b3707845f652",
       "levels": [
         1,
         2,
@@ -3357,7 +3470,7 @@
         5
       ],
       "required": true,
-      "word_count": 184,
+      "word_count": 187,
       "groups": [
         "Interjection Other",
         "交流/信息",
@@ -3366,6 +3479,7 @@
         "动物",
         "厨具/餐具",
         "基数",
+        "存在",
         "家庭关系",
         "小物件",
         "建筑",
@@ -3388,10 +3502,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "edc0c8151f37fe94b22f0629dd9830d8.json",
+      "filename": "1a18ef317a1b6e4932b3d9924030a6a6.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "edc0c8151f37fe94b22f0629dd9830d8",
+      "md5": "1a18ef317a1b6e4932b3d9924030a6a6",
       "levels": [
         6,
         7,
@@ -3400,7 +3514,7 @@
         10
       ],
       "required": true,
-      "word_count": 170,
+      "word_count": 173,
       "groups": [
         "Adverb Other",
         "Conjunction Other",
@@ -3436,10 +3550,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "4678fd2f6d954c5e01b647735ee36084.json",
+      "filename": "a23aae1d94dc2a016d45204b83c1497b.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "4678fd2f6d954c5e01b647735ee36084",
+      "md5": "a23aae1d94dc2a016d45204b83c1497b",
       "levels": [
         11,
         12,
@@ -3448,7 +3562,7 @@
         15
       ],
       "required": true,
-      "word_count": 168,
+      "word_count": 171,
       "groups": [
         "Adverb Other",
         "Conjunction Other",
@@ -3473,10 +3587,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "c57e100187c8328a2f9d79a96fad926b.json",
+      "filename": "b952340b65b424a4abcef42edd7252c4.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "c57e100187c8328a2f9d79a96fad926b",
+      "md5": "b952340b65b424a4abcef42edd7252c4",
       "levels": [
         16,
         17,
@@ -3485,7 +3599,7 @@
         20
       ],
       "required": true,
-      "word_count": 166,
+      "word_count": 168,
       "groups": [
         "Adverb Other",
         "Determiner Other",
@@ -3524,10 +3638,10 @@
     },
     {
       "id": "levels_21_25",
-      "filename": "ec6b846e35d023e31d24dcaf841113d2.json",
+      "filename": "e0daf7106cc5da0c9abf72b86c7a9b84.json",
       "display_name": "Levels 21-25",
       "type": "words",
-      "md5": "ec6b846e35d023e31d24dcaf841113d2",
+      "md5": "e0daf7106cc5da0c9abf72b86c7a9b84",
       "levels": [
         21,
         22,
@@ -3536,7 +3650,7 @@
         25
       ],
       "required": true,
-      "word_count": 159,
+      "word_count": 161,
       "groups": [
         "Adverb Other",
         "Preposition Other",
@@ -3565,10 +3679,10 @@
     },
     {
       "id": "levels_26_30",
-      "filename": "69cab394b698c9c6d39e43608ca2d315.json",
+      "filename": "728937fc5f4ad31219348487b5a8064d.json",
       "display_name": "Levels 26-30",
       "type": "words",
-      "md5": "69cab394b698c9c6d39e43608ca2d315",
+      "md5": "728937fc5f4ad31219348487b5a8064d",
       "levels": [
         26,
         27,
@@ -3577,7 +3691,7 @@
         30
       ],
       "required": true,
-      "word_count": 149,
+      "word_count": 148,
       "groups": [
         "交流",
         "交通工具",
@@ -3607,10 +3721,10 @@
     },
     {
       "id": "levels_100_124",
-      "filename": "e893a3b7c5cbdbe3c595dcb16bee5aee.json",
+      "filename": "3d777a3a879dd961fb6fd5903360b4ca.json",
       "display_name": "Levels 100-124",
       "type": "words",
-      "md5": "e893a3b7c5cbdbe3c595dcb16bee5aee",
+      "md5": "3d777a3a879dd961fb6fd5903360b4ca",
       "levels": [
         100,
         101,
@@ -3904,10 +4018,10 @@
     },
     {
       "id": "levels_225_249",
-      "filename": "aa4b0088ceae301bd76606f6ff74e8a4.json",
+      "filename": "c4b56787845d8989bddd21f31bcdf43a.json",
       "display_name": "Levels 225-249",
       "type": "words",
-      "md5": "aa4b0088ceae301bd76606f6ff74e8a4",
+      "md5": "c4b56787845d8989bddd21f31bcdf43a",
       "levels": [
         225,
         226,
@@ -3936,9 +4050,10 @@
         249
       ],
       "required": true,
-      "word_count": 325,
+      "word_count": 329,
       "groups": [
         "Preposition Other",
+        "Pronoun Other",
         "交流",
         "发展",
         "国籍",
@@ -4022,10 +4137,10 @@
     },
     {
       "id": "levels_275_299",
-      "filename": "d0453d7b145f94e8af2bcaf3316686f6.json",
+      "filename": "6f1b4b575c90bcac87a2de98394bf284.json",
       "display_name": "Levels 275-299",
       "type": "words",
-      "md5": "d0453d7b145f94e8af2bcaf3316686f6",
+      "md5": "6f1b4b575c90bcac87a2de98394bf284",
       "levels": [
         275,
         276,
@@ -4054,7 +4169,7 @@
         299
       ],
       "required": true,
-      "word_count": 331,
+      "word_count": 332,
       "groups": [
         "交流",
         "交流/信息",
@@ -4082,16 +4197,17 @@
         "语言学概念",
         "财务账目",
         "身体动作",
+        "身体机能",
         "过程/事件",
         "食物"
       ]
     },
     {
       "id": "levels_300_324",
-      "filename": "69dbc82a91c4c54b0f8c3f26ee5c8810.json",
+      "filename": "793b2a9ada721aa0dfc30db2f1a578bc.json",
       "display_name": "Levels 300-324",
       "type": "words",
-      "md5": "69dbc82a91c4c54b0f8c3f26ee5c8810",
+      "md5": "793b2a9ada721aa0dfc30db2f1a578bc",
       "levels": [
         300,
         301,
@@ -4120,7 +4236,7 @@
         324
       ],
       "required": true,
-      "word_count": 389,
+      "word_count": 388,
       "groups": [
         "Conjunction Other",
         "不定频",
@@ -4492,10 +4608,10 @@
     },
     {
       "id": "levels_450_474",
-      "filename": "374ccd1c1a89f7075016299dda156ba5.json",
+      "filename": "97f5d5f44f9e3c7fb8cd769fc9cbfda3.json",
       "display_name": "Levels 450-474",
       "type": "words",
-      "md5": "374ccd1c1a89f7075016299dda156ba5",
+      "md5": "97f5d5f44f9e3c7fb8cd769fc9cbfda3",
       "levels": [
         450,
         451,
@@ -4524,7 +4640,7 @@
         474
       ],
       "required": true,
-      "word_count": 145,
+      "word_count": 150,
       "groups": [
         "交流",
         "交流/信息",

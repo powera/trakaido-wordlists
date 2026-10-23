@@ -2,7 +2,7 @@
   "version": 1,
   "language": "lithuanian",
   "language_code": "lt",
-  "generated_at": "2026-10-20T16:03:55Z",
+  "generated_at": "2026-10-23T22:36:43Z",
   "source_language": "french",
   "source_language_code": "fr",
   "config": {
@@ -95,6 +95,146 @@
           "1p": "mes",
           "2p": "jūs",
           "3p": "jie/jos"
+        }
+      },
+      "form_labels": {
+        "1p_conditional": {
+          "en": "First person plural, conditional mood",
+          "fr": "Première personne du pluriel, conditionnel",
+          "lt": "Pirmasis asmuo daugiskaita, tariamoji nuosaka"
+        },
+        "1p_future": {
+          "en": "First person plural, future tense",
+          "fr": "Première personne du pluriel, futur",
+          "lt": "Pirmasis asmuo daugiskaita, būsimasis laikas"
+        },
+        "1p_past": {
+          "en": "First person plural, past tense",
+          "fr": "Première personne du pluriel, passé",
+          "lt": "Pirmasis asmuo daugiskaita, būtasis laikas"
+        },
+        "1p_present": {
+          "en": "First person plural, present tense",
+          "fr": "Première personne du pluriel, présent",
+          "lt": "Pirmasis asmuo daugiskaita, esamasis laikas"
+        },
+        "1s_conditional": {
+          "en": "First person singular, conditional mood",
+          "fr": "Première personne du singulier, conditionnel",
+          "lt": "Pirmasis asmuo vienaskaita, tariamoji nuosaka"
+        },
+        "1s_future": {
+          "en": "First person singular, future tense",
+          "fr": "Première personne du singulier, futur",
+          "lt": "Pirmasis asmuo vienaskaita, būsimasis laikas"
+        },
+        "1s_past": {
+          "en": "First person singular, past tense",
+          "fr": "Première personne du singulier, passé",
+          "lt": "Pirmasis asmuo vienaskaita, būtasis laikas"
+        },
+        "1s_present": {
+          "en": "First person singular, present tense",
+          "fr": "Première personne du singulier, présent",
+          "lt": "Pirmasis asmuo vienaskaita, esamasis laikas"
+        },
+        "2p_conditional": {
+          "en": "Second person plural, conditional mood",
+          "fr": "Deuxième personne du pluriel, conditionnel",
+          "lt": "Antrasis asmuo daugiskaita, tariamoji nuosaka"
+        },
+        "2p_future": {
+          "en": "Second person plural, future tense",
+          "fr": "Deuxième personne du pluriel, futur",
+          "lt": "Antrasis asmuo daugiskaita, būsimasis laikas"
+        },
+        "2p_imperative": {
+          "en": "Second person plural, imperative",
+          "fr": "Deuxième personne du pluriel, impératif",
+          "lt": "Antrasis asmuo daugiskaita, liepiamoji nuosaka"
+        },
+        "2p_past": {
+          "en": "Second person plural, past tense",
+          "fr": "Deuxième personne du pluriel, passé",
+          "lt": "Antrasis asmuo daugiskaita, būtasis laikas"
+        },
+        "2p_present": {
+          "en": "Second person plural, present tense",
+          "fr": "Deuxième personne du pluriel, présent",
+          "lt": "Antrasis asmuo daugiskaita, esamasis laikas"
+        },
+        "2s_conditional": {
+          "en": "Second person singular, conditional mood",
+          "fr": "Deuxième personne du singulier, conditionnel",
+          "lt": "Antrasis asmuo vienaskaita, tariamoji nuosaka"
+        },
+        "2s_future": {
+          "en": "Second person singular, future tense",
+          "fr": "Deuxième personne du singulier, futur",
+          "lt": "Antrasis asmuo vienaskaita, būsimasis laikas"
+        },
+        "2s_imperative": {
+          "en": "Second person singular, imperative",
+          "fr": "Deuxième personne du singulier, impératif",
+          "lt": "Antrasis asmuo vienaskaita, liepiamoji nuosaka"
+        },
+        "2s_past": {
+          "en": "Second person singular, past tense",
+          "fr": "Deuxième personne du singulier, passé",
+          "lt": "Antrasis asmuo vienaskaita, būtasis laikas"
+        },
+        "2s_present": {
+          "en": "Second person singular, present tense",
+          "fr": "Deuxième personne du singulier, présent",
+          "lt": "Antrasis asmuo vienaskaita, esamasis laikas"
+        },
+        "3p_conditional": {
+          "en": "Third person plural, conditional mood",
+          "fr": "Troisième personne du pluriel, conditionnel",
+          "lt": "Trečiasis asmuo daugiskaita, tariamoji nuosaka"
+        },
+        "3p_future": {
+          "en": "Third person plural, future tense",
+          "fr": "Troisième personne du pluriel, futur",
+          "lt": "Trečiasis asmuo daugiskaita, būsimasis laikas"
+        },
+        "3p_past": {
+          "en": "Third person plural, past tense",
+          "fr": "Troisième personne du pluriel, passé",
+          "lt": "Trečiasis asmuo daugiskaita, būtasis laikas"
+        },
+        "3p_present": {
+          "en": "Third person plural, present tense",
+          "fr": "Troisième personne du pluriel, présent",
+          "lt": "Trečiasis asmuo daugiskaita, esamasis laikas"
+        },
+        "3s_conditional": {
+          "en": "Third person singular, conditional mood",
+          "fr": "Troisième personne du singulier, conditionnel",
+          "lt": "Trečiasis asmuo vienaskaita, tariamoji nuosaka"
+        },
+        "3s_future": {
+          "en": "Third person singular, future tense",
+          "fr": "Troisième personne du singulier, futur",
+          "lt": "Trečiasis asmuo vienaskaita, būsimasis laikas"
+        },
+        "3s_past": {
+          "en": "Third person singular, past tense",
+          "fr": "Troisième personne du singulier, passé",
+          "lt": "Trečiasis asmuo vienaskaita, būtasis laikas"
+        },
+        "3s_present": {
+          "en": "Third person singular, present tense",
+          "fr": "Troisième personne du singulier, présent",
+          "lt": "Trečiasis asmuo vienaskaita, esamasis laikas"
+        },
+        "habitual_past": {
+          "en": "Habitual past"
+        },
+        "infinitive": {
+          "en": "Infinitive",
+          "fr": "Infinitif",
+          "lt": "Bendratis"
         }
       }
     },
@@ -3345,10 +3485,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "2fa50bbabdea89bb09bf4e86441b1ff5.json",
+      "filename": "c80c96c8bb8a0c3e5793c7d35c494140.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "2fa50bbabdea89bb09bf4e86441b1ff5",
+      "md5": "c80c96c8bb8a0c3e5793c7d35c494140",
       "levels": [
         1,
         2,
@@ -3357,7 +3497,7 @@
         5
       ],
       "required": true,
-      "word_count": 184,
+      "word_count": 187,
       "groups": [
         "Action physique",
         "Animaux",
@@ -3365,6 +3505,7 @@
         "Cardinal",
         "Communication/Information",
         "Couleur",
+        "Existence",
         "Forme",
         "Interjection Other",
         "Lien familial",
@@ -3388,10 +3529,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "02de6b3f4edb6a6c73a96bfa023e45c2.json",
+      "filename": "f403a8950fb8c2f312cfde9fb80deb46.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "02de6b3f4edb6a6c73a96bfa023e45c2",
+      "md5": "f403a8950fb8c2f312cfde9fb80deb46",
       "levels": [
         6,
         7,
@@ -3400,7 +3541,7 @@
         10
       ],
       "required": true,
-      "word_count": 170,
+      "word_count": 173,
       "groups": [
         "Action physique",
         "Adverb Other",
@@ -3436,10 +3577,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "71632c633c60dfcf014d2c50bf10bd2a.json",
+      "filename": "7c9c9ec4a6e2d9ea1e256183f99ebcf7.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "71632c633c60dfcf014d2c50bf10bd2a",
+      "md5": "7c9c9ec4a6e2d9ea1e256183f99ebcf7",
       "levels": [
         11,
         12,
@@ -3448,7 +3589,7 @@
         15
       ],
       "required": true,
-      "word_count": 168,
+      "word_count": 171,
       "groups": [
         "Action physique",
         "Adverb Other",
@@ -3473,10 +3614,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "d6f0993fb6c16f1b2949232eee477d74.json",
+      "filename": "15ac259aad291bf2897a44e2ac19fdf0.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "d6f0993fb6c16f1b2949232eee477d74",
+      "md5": "15ac259aad291bf2897a44e2ac19fdf0",
       "levels": [
         16,
         17,
@@ -3485,7 +3626,7 @@
         20
       ],
       "required": true,
-      "word_count": 166,
+      "word_count": 168,
       "groups": [
         "Action physique",
         "Activité",
@@ -3524,10 +3665,10 @@
     },
     {
       "id": "levels_21_25",
-      "filename": "94ec657e50fce7435f33ce64b882cb28.json",
+      "filename": "d1e4179fc160b678e5469b831fc46203.json",
       "display_name": "Levels 21-25",
       "type": "words",
-      "md5": "94ec657e50fce7435f33ce64b882cb28",
+      "md5": "d1e4179fc160b678e5469b831fc46203",
       "levels": [
         21,
         22,
@@ -3536,7 +3677,7 @@
         25
       ],
       "required": true,
-      "word_count": 159,
+      "word_count": 161,
       "groups": [
         "Action physique",
         "Adverb Other",
@@ -3565,10 +3706,10 @@
     },
     {
       "id": "levels_26_30",
-      "filename": "5fdbd073d266d92a13a82c68aad24b2a.json",
+      "filename": "42a435056df485b99ca8e4d34f911356.json",
       "display_name": "Levels 26-30",
       "type": "words",
-      "md5": "5fdbd073d266d92a13a82c68aad24b2a",
+      "md5": "42a435056df485b99ca8e4d34f911356",
       "levels": [
         26,
         27,
@@ -3577,7 +3718,7 @@
         30
       ],
       "required": true,
-      "word_count": 149,
+      "word_count": 148,
       "groups": [
         "Action physique",
         "Activité",
@@ -3607,10 +3748,10 @@
     },
     {
       "id": "levels_100_124",
-      "filename": "8f1cae70653b09c63e81a4d96456a609.json",
+      "filename": "5248bab2395e793a627053cdac428721.json",
       "display_name": "Levels 100-124",
       "type": "words",
-      "md5": "8f1cae70653b09c63e81a4d96456a609",
+      "md5": "5248bab2395e793a627053cdac428721",
       "levels": [
         100,
         101,
@@ -3904,10 +4045,10 @@
     },
     {
       "id": "levels_225_249",
-      "filename": "c1dfbb8253134a76207d342245ee3cac.json",
+      "filename": "6cebf38f892c8f0a20619aba3141a634.json",
       "display_name": "Levels 225-249",
       "type": "words",
-      "md5": "c1dfbb8253134a76207d342245ee3cac",
+      "md5": "6cebf38f892c8f0a20619aba3141a634",
       "levels": [
         225,
         226,
@@ -3936,7 +4077,7 @@
         249
       ],
       "required": true,
-      "word_count": 325,
+      "word_count": 329,
       "groups": [
         "Action physique",
         "Communication",
@@ -3952,6 +4093,7 @@
         "Origine",
         "Perception",
         "Preposition Other",
+        "Pronoun Other",
         "Propriété physique",
         "Région",
         "Séquence",
@@ -4022,10 +4164,10 @@
     },
     {
       "id": "levels_275_299",
-      "filename": "f1f0f45c5e86ad9f2b610842dc37302a.json",
+      "filename": "15b98dd8f5f2af86f5dc73d76da81dda.json",
       "display_name": "Levels 275-299",
       "type": "words",
-      "md5": "f1f0f45c5e86ad9f2b610842dc37302a",
+      "md5": "15b98dd8f5f2af86f5dc73d76da81dda",
       "levels": [
         275,
         276,
@@ -4054,7 +4196,7 @@
         299
       ],
       "required": true,
-      "word_count": 331,
+      "word_count": 332,
       "groups": [
         "Action physique",
         "Activité",
@@ -4070,6 +4212,7 @@
         "Création",
         "Destruction",
         "Développement",
+        "Fonction corporelle",
         "Groupe d'animaux",
         "Institution sociale",
         "Matière/Substance",
@@ -4088,10 +4231,10 @@
     },
     {
       "id": "levels_300_324",
-      "filename": "0f19726981a0fe8f762af0efd2f7d4d7.json",
+      "filename": "2b97811d6cfdfc11238880e8d8a95cc7.json",
       "display_name": "Levels 300-324",
       "type": "words",
-      "md5": "0f19726981a0fe8f762af0efd2f7d4d7",
+      "md5": "2b97811d6cfdfc11238880e8d8a95cc7",
       "levels": [
         300,
         301,
@@ -4120,7 +4263,7 @@
         324
       ],
       "required": true,
-      "word_count": 389,
+      "word_count": 388,
       "groups": [
         "Action physique",
         "Changement",
@@ -4492,10 +4635,10 @@
     },
     {
       "id": "levels_450_474",
-      "filename": "708cea29aac1a37d5efbdfc1e7706c5c.json",
+      "filename": "ef8496d6aa5487465f41fd29023ff40c.json",
       "display_name": "Levels 450-474",
       "type": "words",
-      "md5": "708cea29aac1a37d5efbdfc1e7706c5c",
+      "md5": "ef8496d6aa5487465f41fd29023ff40c",
       "levels": [
         450,
         451,
@@ -4524,7 +4667,7 @@
         474
       ],
       "required": true,
-      "word_count": 145,
+      "word_count": 150,
       "groups": [
         "Action physique",
         "Collection d'objets",

@@ -3,7 +3,7 @@
   "language": "spanish",
   "language_code": "es-419",
   "variant": "es-419",
-  "generated_at": "2026-10-20T15:55:58Z",
+  "generated_at": "2026-10-23T22:36:51Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [],
@@ -66,6 +66,90 @@
           "1p": "nosotros/nosotras",
           "2p": "ustedes",
           "3p": "ellos/ellas"
+        }
+      },
+      "form_labels": {
+        "1p_future": {
+          "en": "First person plural, future tense",
+          "es-419": "Primera persona del plural, futuro"
+        },
+        "1p_past": {
+          "en": "First person plural, past tense",
+          "es-419": "Primera persona del plural, pasado"
+        },
+        "1p_present": {
+          "en": "First person plural, present tense",
+          "es-419": "Primera persona del plural, presente"
+        },
+        "1s_future": {
+          "en": "First person singular, future tense",
+          "es-419": "Primera persona del singular, futuro"
+        },
+        "1s_past": {
+          "en": "First person singular, past tense",
+          "es-419": "Primera persona del singular, pasado"
+        },
+        "1s_present": {
+          "en": "First person singular, present tense",
+          "es-419": "Primera persona del singular, presente"
+        },
+        "2p_future": {
+          "en": "Second person plural, future tense",
+          "es-419": "Segunda persona del plural, futuro"
+        },
+        "2p_past": {
+          "en": "Second person plural, past tense",
+          "es-419": "Segunda persona del plural, pasado"
+        },
+        "2p_present": {
+          "en": "Second person plural, present tense",
+          "es-419": "Segunda persona del plural, presente"
+        },
+        "2s_future": {
+          "en": "Second person singular, future tense",
+          "es-419": "Segunda persona del singular, futuro"
+        },
+        "2s_past": {
+          "en": "Second person singular, past tense",
+          "es-419": "Segunda persona del singular, pasado"
+        },
+        "2s_present": {
+          "en": "Second person singular, present tense",
+          "es-419": "Segunda persona del singular, presente"
+        },
+        "3p_future": {
+          "en": "Third person plural, future tense",
+          "es-419": "Tercera persona del plural, futuro"
+        },
+        "3p_past": {
+          "en": "Third person plural, past tense",
+          "es-419": "Tercera persona del plural, pasado"
+        },
+        "3p_present": {
+          "en": "Third person plural, present tense",
+          "es-419": "Tercera persona del plural, presente"
+        },
+        "3s_future": {
+          "en": "Third person singular, future tense",
+          "es-419": "Tercera persona del singular, futuro"
+        },
+        "3s_past": {
+          "en": "Third person singular, past tense",
+          "es-419": "Tercera persona del singular, pasado"
+        },
+        "3s_present": {
+          "en": "Third person singular, present tense",
+          "es-419": "Tercera persona del singular, presente"
+        },
+        "gerund": {
+          "en": "Gerund"
+        },
+        "infinitive": {
+          "en": "Infinitive",
+          "es-419": "Infinitivo"
+        },
+        "past_participle": {
+          "en": "Past participle"
         }
       }
     },
@@ -751,10 +835,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "cf8f0782348b7afc42b00893ea76be4b.json",
+      "filename": "486d052bf62987e11ed4bdcf4b9ed9d9.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "cf8f0782348b7afc42b00893ea76be4b",
+      "md5": "486d052bf62987e11ed4bdcf4b9ed9d9",
       "levels": [
         1,
         2,
@@ -763,7 +847,7 @@
         5
       ],
       "required": true,
-      "word_count": 184,
+      "word_count": 186,
       "groups": [
         "Animals",
         "Body Part",
@@ -775,6 +859,7 @@
         "Directional Movement",
         "Emotion",
         "Emotional State",
+        "Existence",
         "Family Relation",
         "Food",
         "Humans",
@@ -794,10 +879,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "e6685e33523f5943ed0be1a47718ada9.json",
+      "filename": "41f1cb94527c68af45b104abd6238b37.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "e6685e33523f5943ed0be1a47718ada9",
+      "md5": "41f1cb94527c68af45b104abd6238b37",
       "levels": [
         6,
         7,
@@ -806,7 +891,7 @@
         10
       ],
       "required": true,
-      "word_count": 170,
+      "word_count": 175,
       "groups": [
         "Adverb Other",
         "Beverage",
@@ -842,10 +927,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "7027b2073bdf7349ec3c352c6fdfde84.json",
+      "filename": "e346509738cc3d1b992965b67bbabe10.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "7027b2073bdf7349ec3c352c6fdfde84",
+      "md5": "e346509738cc3d1b992965b67bbabe10",
       "levels": [
         11,
         12,
@@ -854,7 +939,7 @@
         15
       ],
       "required": true,
-      "word_count": 158,
+      "word_count": 161,
       "groups": [
         "Adverb Other",
         "Communication",
@@ -879,10 +964,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "b6edb982ae5e1d1476bccdf99d02eca7.json",
+      "filename": "b9bebb386f14695539e3471a4e947210.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "b6edb982ae5e1d1476bccdf99d02eca7",
+      "md5": "b9bebb386f14695539e3471a4e947210",
       "levels": [
         16,
         17,
@@ -891,7 +976,7 @@
         20
       ],
       "required": true,
-      "word_count": 166,
+      "word_count": 168,
       "groups": [
         "Activity",
         "Adverb Other",
@@ -930,10 +1015,10 @@
     },
     {
       "id": "levels_21_25",
-      "filename": "9b20b4ef3c697c5fe00294b73e0035e4.json",
+      "filename": "7a848b236020d618aeab4344d38eafd0.json",
       "display_name": "Levels 21-25",
       "type": "words",
-      "md5": "9b20b4ef3c697c5fe00294b73e0035e4",
+      "md5": "7a848b236020d618aeab4344d38eafd0",
       "levels": [
         21,
         22,
@@ -942,7 +1027,7 @@
         25
       ],
       "required": true,
-      "word_count": 159,
+      "word_count": 161,
       "groups": [
         "Adverb Other",
         "Appliance",
@@ -971,10 +1056,10 @@
     },
     {
       "id": "levels_26_30",
-      "filename": "3cf51929a2ae5e5eb019be128f3486f1.json",
+      "filename": "f3ec5dec11aea73c880e758ed6cbba17.json",
       "display_name": "Levels 26-30",
       "type": "words",
-      "md5": "3cf51929a2ae5e5eb019be128f3486f1",
+      "md5": "f3ec5dec11aea73c880e758ed6cbba17",
       "levels": [
         26,
         27,
@@ -983,7 +1068,7 @@
         30
       ],
       "required": true,
-      "word_count": 149,
+      "word_count": 148,
       "groups": [
         "Activity",
         "Animals",
