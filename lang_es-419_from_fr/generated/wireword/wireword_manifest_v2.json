@@ -3,7 +3,7 @@
   "language": "spanish",
   "language_code": "es-419",
   "variant": "es-419",
-  "generated_at": "2026-10-24T15:36:15Z",
+  "generated_at": "2026-10-24T15:47:52Z",
   "source_language": "french",
   "source_language_code": "fr",
   "config": {
@@ -756,10 +756,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "0a2df0a7b5f5a80552855e161bb69917.json",
+      "filename": "3300673dc62f6116f4d21e334d0b3d8a.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "0a2df0a7b5f5a80552855e161bb69917",
+      "md5": "3300673dc62f6116f4d21e334d0b3d8a",
       "levels": [
         1,
         2,
@@ -801,10 +801,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "76e2913d6bf20d36c71ca2db7fe5efc2.json",
+      "filename": "15b85cb099e4baa0ac60f6ec825c83ae.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "76e2913d6bf20d36c71ca2db7fe5efc2",
+      "md5": "15b85cb099e4baa0ac60f6ec825c83ae",
       "levels": [
         6,
         7,
@@ -849,10 +849,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "96f566b0b1eea2ddb30c323d839439dc.json",
+      "filename": "117c6a83662ab3a9cf4a9786c0db57cf.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "96f566b0b1eea2ddb30c323d839439dc",
+      "md5": "117c6a83662ab3a9cf4a9786c0db57cf",
       "levels": [
         11,
         12,
@@ -886,10 +886,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "e64a81d18f5c1c8c81a6a3b96bf28b47.json",
+      "filename": "d3dd70d857ab586edad22c460946419d.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "e64a81d18f5c1c8c81a6a3b96bf28b47",
+      "md5": "d3dd70d857ab586edad22c460946419d",
       "levels": [
         16,
         17,
@@ -937,10 +937,10 @@
     },
     {
       "id": "levels_21_25",
-      "filename": "61e461a06e81d2b65b7416b9f70ff00f.json",
+      "filename": "78fdcc4f9b0c22c72ce947b09b8f1329.json",
       "display_name": "Levels 21-25",
       "type": "words",
-      "md5": "61e461a06e81d2b65b7416b9f70ff00f",
+      "md5": "78fdcc4f9b0c22c72ce947b09b8f1329",
       "levels": [
         21,
         22,
@@ -978,10 +978,10 @@
     },
     {
       "id": "levels_26_30",
-      "filename": "e628c2e26e6add174810f4cf9d4d5db7.json",
+      "filename": "f343cdf824319076272bd677bffa5eaa.json",
       "display_name": "Levels 26-30",
       "type": "words",
-      "md5": "e628c2e26e6add174810f4cf9d4d5db7",
+      "md5": "f343cdf824319076272bd677bffa5eaa",
       "levels": [
         26,
         27,
