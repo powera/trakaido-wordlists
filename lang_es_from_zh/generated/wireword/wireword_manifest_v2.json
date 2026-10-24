@@ -2,7 +2,7 @@
   "version": 1,
   "language": "spanish",
   "language_code": "es",
-  "generated_at": "2026-10-23T22:36:13Z",
+  "generated_at": "2026-10-24T15:36:00Z",
   "source_language": "chinese",
   "source_language_code": "zh",
   "config": {
@@ -69,90 +69,6 @@
           "1p": "nosotros/nosotras",
           "2p": "vosotros/vosotras",
           "3p": "ellos/ellas"
-        }
-      },
-      "form_labels": {
-        "1p_future": {
-          "en": "First person plural, future tense",
-          "es": "Primera persona del plural, futuro"
-        },
-        "1p_past": {
-          "en": "First person plural, past tense",
-          "es": "Primera persona del plural, pasado"
-        },
-        "1p_present": {
-          "en": "First person plural, present tense",
-          "es": "Primera persona del plural, presente"
-        },
-        "1s_future": {
-          "en": "First person singular, future tense",
-          "es": "Primera persona del singular, futuro"
-        },
-        "1s_past": {
-          "en": "First person singular, past tense",
-          "es": "Primera persona del singular, pasado"
-        },
-        "1s_present": {
-          "en": "First person singular, present tense",
-          "es": "Primera persona del singular, presente"
-        },
-        "2p_future": {
-          "en": "Second person plural, future tense",
-          "es": "Segunda persona del plural, futuro"
-        },
-        "2p_past": {
-          "en": "Second person plural, past tense",
-          "es": "Segunda persona del plural, pasado"
-        },
-        "2p_present": {
-          "en": "Second person plural, present tense",
-          "es": "Segunda persona del plural, presente"
-        },
-        "2s_future": {
-          "en": "Second person singular, future tense",
-          "es": "Segunda persona del singular, futuro"
-        },
-        "2s_past": {
-          "en": "Second person singular, past tense",
-          "es": "Segunda persona del singular, pasado"
-        },
-        "2s_present": {
-          "en": "Second person singular, present tense",
-          "es": "Segunda persona del singular, presente"
-        },
-        "3p_future": {
-          "en": "Third person plural, future tense",
-          "es": "Tercera persona del plural, futuro"
-        },
-        "3p_past": {
-          "en": "Third person plural, past tense",
-          "es": "Tercera persona del plural, pasado"
-        },
-        "3p_present": {
-          "en": "Third person plural, present tense",
-          "es": "Tercera persona del plural, presente"
-        },
-        "3s_future": {
-          "en": "Third person singular, future tense",
-          "es": "Tercera persona del singular, futuro"
-        },
-        "3s_past": {
-          "en": "Third person singular, past tense",
-          "es": "Tercera persona del singular, pasado"
-        },
-        "3s_present": {
-          "en": "Third person singular, present tense",
-          "es": "Tercera persona del singular, presente"
-        },
-        "gerund": {
-          "en": "Gerund"
-        },
-        "infinitive": {
-          "en": "Infinitive",
-          "es": "Infinitivo"
-        },
-        "past_participle": {
-          "en": "Past participle"
         }
       }
     },
@@ -838,10 +754,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "9f1e564df9f0079d7204ae8e5e2e7027.json",
+      "filename": "9efa2288e1e6266641c80bab6de614c7.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "9f1e564df9f0079d7204ae8e5e2e7027",
+      "md5": "9efa2288e1e6266641c80bab6de614c7",
       "levels": [
         1,
         2,
@@ -850,7 +766,7 @@
         5
       ],
       "required": true,
-      "word_count": 186,
+      "word_count": 189,
       "groups": [
         "Interjection Other",
         "交流/信息",
@@ -858,6 +774,7 @@
         "人类",
         "动物",
         "厨具/餐具",
+        "地名",
         "基数",
         "存在",
         "家庭关系",
@@ -882,10 +799,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "5b34e78a25d7c03510774088cc5089ef.json",
+      "filename": "52dd85481f1f7d14abe7d273fd03e1dc.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "5b34e78a25d7c03510774088cc5089ef",
+      "md5": "52dd85481f1f7d14abe7d273fd03e1dc",
       "levels": [
         6,
         7,
@@ -930,10 +847,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "349046ce35b9d5d81ea7c57cc6d8df9a.json",
+      "filename": "8a4a1df877fe0c53b3e68187afb82af7.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "349046ce35b9d5d81ea7c57cc6d8df9a",
+      "md5": "8a4a1df877fe0c53b3e68187afb82af7",
       "levels": [
         11,
         12,
@@ -967,10 +884,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "cbf326ff0249af2e852c5932ac052acd.json",
+      "filename": "0f2ca14b921a80c551964551ea68cbee.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "cbf326ff0249af2e852c5932ac052acd",
+      "md5": "0f2ca14b921a80c551964551ea68cbee",
       "levels": [
         16,
         17,
@@ -979,7 +896,7 @@
         20
       ],
       "required": true,
-      "word_count": 168,
+      "word_count": 166,
       "groups": [
         "Adverb Other",
         "Determiner Other",
@@ -1018,10 +935,10 @@
     },
     {
       "id": "levels_21_25",
-      "filename": "4502243771cab60c87d46bb930f5e874.json",
+      "filename": "bde12fdfda3fb65d1d1a0ab19cc3434f.json",
       "display_name": "Levels 21-25",
       "type": "words",
-      "md5": "4502243771cab60c87d46bb930f5e874",
+      "md5": "bde12fdfda3fb65d1d1a0ab19cc3434f",
       "levels": [
         21,
         22,
@@ -1059,10 +976,10 @@
     },
     {
       "id": "levels_26_30",
-      "filename": "7d35e75721a75bdcb37f1bd6f692a7ab.json",
+      "filename": "5432bb42019230b447978a4e4efd934b.json",
       "display_name": "Levels 26-30",
       "type": "words",
-      "md5": "7d35e75721a75bdcb37f1bd6f692a7ab",
+      "md5": "5432bb42019230b447978a4e4efd934b",
       "levels": [
         26,
         27,
@@ -1071,7 +988,7 @@
         30
       ],
       "required": true,
-      "word_count": 148,
+      "word_count": 146,
       "groups": [
         "交流",
         "交通工具",

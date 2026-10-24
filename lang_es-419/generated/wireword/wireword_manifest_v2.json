@@ -3,11 +3,14 @@
   "language": "spanish",
   "language_code": "es-419",
   "variant": "es-419",
-  "generated_at": "2026-10-23T22:36:51Z",
+  "generated_at": "2026-10-24T15:37:10Z",
   "config": {
     "audio_prefix": "/staging",
-    "available_voices": [],
-    "default_voice": null,
+    "available_voices": [
+      "maria",
+      "carlos"
+    ],
+    "default_voice": "maria",
     "cdn_base": "https://wireword.trakaido.com",
     "grammar": {
       "conjugation": {
@@ -66,90 +69,6 @@
           "1p": "nosotros/nosotras",
           "2p": "ustedes",
           "3p": "ellos/ellas"
-        }
-      },
-      "form_labels": {
-        "1p_future": {
-          "en": "First person plural, future tense",
-          "es-419": "Primera persona del plural, futuro"
-        },
-        "1p_past": {
-          "en": "First person plural, past tense",
-          "es-419": "Primera persona del plural, pasado"
-        },
-        "1p_present": {
-          "en": "First person plural, present tense",
-          "es-419": "Primera persona del plural, presente"
-        },
-        "1s_future": {
-          "en": "First person singular, future tense",
-          "es-419": "Primera persona del singular, futuro"
-        },
-        "1s_past": {
-          "en": "First person singular, past tense",
-          "es-419": "Primera persona del singular, pasado"
-        },
-        "1s_present": {
-          "en": "First person singular, present tense",
-          "es-419": "Primera persona del singular, presente"
-        },
-        "2p_future": {
-          "en": "Second person plural, future tense",
-          "es-419": "Segunda persona del plural, futuro"
-        },
-        "2p_past": {
-          "en": "Second person plural, past tense",
-          "es-419": "Segunda persona del plural, pasado"
-        },
-        "2p_present": {
-          "en": "Second person plural, present tense",
-          "es-419": "Segunda persona del plural, presente"
-        },
-        "2s_future": {
-          "en": "Second person singular, future tense",
-          "es-419": "Segunda persona del singular, futuro"
-        },
-        "2s_past": {
-          "en": "Second person singular, past tense",
-          "es-419": "Segunda persona del singular, pasado"
-        },
-        "2s_present": {
-          "en": "Second person singular, present tense",
-          "es-419": "Segunda persona del singular, presente"
-        },
-        "3p_future": {
-          "en": "Third person plural, future tense",
-          "es-419": "Tercera persona del plural, futuro"
-        },
-        "3p_past": {
-          "en": "Third person plural, past tense",
-          "es-419": "Tercera persona del plural, pasado"
-        },
-        "3p_present": {
-          "en": "Third person plural, present tense",
-          "es-419": "Tercera persona del plural, presente"
-        },
-        "3s_future": {
-          "en": "Third person singular, future tense",
-          "es-419": "Tercera persona del singular, futuro"
-        },
-        "3s_past": {
-          "en": "Third person singular, past tense",
-          "es-419": "Tercera persona del singular, pasado"
-        },
-        "3s_present": {
-          "en": "Third person singular, present tense",
-          "es-419": "Tercera persona del singular, presente"
-        },
-        "gerund": {
-          "en": "Gerund"
-        },
-        "infinitive": {
-          "en": "Infinitive",
-          "es-419": "Infinitivo"
-        },
-        "past_participle": {
-          "en": "Past participle"
         }
       }
     },
@@ -835,10 +754,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "486d052bf62987e11ed4bdcf4b9ed9d9.json",
+      "filename": "a2411e685418abb61f1bab970d349822.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "486d052bf62987e11ed4bdcf4b9ed9d9",
+      "md5": "a2411e685418abb61f1bab970d349822",
       "levels": [
         1,
         2,
@@ -847,7 +766,7 @@
         5
       ],
       "required": true,
-      "word_count": 186,
+      "word_count": 189,
       "groups": [
         "Animals",
         "Body Part",
@@ -870,6 +789,7 @@
         "Perception",
         "Physical Action",
         "Physical Property",
+        "Place Name",
         "Possession",
         "Quality",
         "Shape",
@@ -879,10 +799,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "41f1cb94527c68af45b104abd6238b37.json",
+      "filename": "46a0980c3af239260e10ab93dba15f40.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "41f1cb94527c68af45b104abd6238b37",
+      "md5": "46a0980c3af239260e10ab93dba15f40",
       "levels": [
         6,
         7,
@@ -927,10 +847,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "e346509738cc3d1b992965b67bbabe10.json",
+      "filename": "f54f6ee6a4388c552dcc3ea5ddc3c28f.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "e346509738cc3d1b992965b67bbabe10",
+      "md5": "f54f6ee6a4388c552dcc3ea5ddc3c28f",
       "levels": [
         11,
         12,
@@ -964,10 +884,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "b9bebb386f14695539e3471a4e947210.json",
+      "filename": "e6734b70a16bab81a1de791afa43c19f.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "b9bebb386f14695539e3471a4e947210",
+      "md5": "e6734b70a16bab81a1de791afa43c19f",
       "levels": [
         16,
         17,
@@ -976,7 +896,7 @@
         20
       ],
       "required": true,
-      "word_count": 168,
+      "word_count": 166,
       "groups": [
         "Activity",
         "Adverb Other",
@@ -1015,10 +935,10 @@
     },
     {
       "id": "levels_21_25",
-      "filename": "7a848b236020d618aeab4344d38eafd0.json",
+      "filename": "522866a4a62a2ea22960594ead8e44f5.json",
       "display_name": "Levels 21-25",
       "type": "words",
-      "md5": "7a848b236020d618aeab4344d38eafd0",
+      "md5": "522866a4a62a2ea22960594ead8e44f5",
       "levels": [
         21,
         22,
@@ -1056,10 +976,10 @@
     },
     {
       "id": "levels_26_30",
-      "filename": "f3ec5dec11aea73c880e758ed6cbba17.json",
+      "filename": "4bbe2d5715425870e3e4fbd448d707d0.json",
       "display_name": "Levels 26-30",
       "type": "words",
-      "md5": "f3ec5dec11aea73c880e758ed6cbba17",
+      "md5": "4bbe2d5715425870e3e4fbd448d707d0",
       "levels": [
         26,
         27,
@@ -1068,7 +988,7 @@
         30
       ],
       "required": true,
-      "word_count": 148,
+      "word_count": 146,
       "groups": [
         "Activity",
         "Animals",

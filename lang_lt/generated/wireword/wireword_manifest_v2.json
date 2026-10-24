@@ -2,7 +2,7 @@
   "version": 1,
   "language": "lithuanian",
   "language_code": "lt",
-  "generated_at": "2026-10-23T22:36:24Z",
+  "generated_at": "2026-10-24T15:37:15Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -93,119 +93,6 @@
           "1p": "mes",
           "2p": "jūs",
           "3p": "jie/jos"
-        }
-      },
-      "form_labels": {
-        "1p_conditional": {
-          "en": "First person plural, conditional mood",
-          "lt": "Pirmasis asmuo daugiskaita, tariamoji nuosaka"
-        },
-        "1p_future": {
-          "en": "First person plural, future tense",
-          "lt": "Pirmasis asmuo daugiskaita, būsimasis laikas"
-        },
-        "1p_past": {
-          "en": "First person plural, past tense",
-          "lt": "Pirmasis asmuo daugiskaita, būtasis laikas"
-        },
-        "1p_present": {
-          "en": "First person plural, present tense",
-          "lt": "Pirmasis asmuo daugiskaita, esamasis laikas"
-        },
-        "1s_conditional": {
-          "en": "First person singular, conditional mood",
-          "lt": "Pirmasis asmuo vienaskaita, tariamoji nuosaka"
-        },
-        "1s_future": {
-          "en": "First person singular, future tense",
-          "lt": "Pirmasis asmuo vienaskaita, būsimasis laikas"
-        },
-        "1s_past": {
-          "en": "First person singular, past tense",
-          "lt": "Pirmasis asmuo vienaskaita, būtasis laikas"
-        },
-        "1s_present": {
-          "en": "First person singular, present tense",
-          "lt": "Pirmasis asmuo vienaskaita, esamasis laikas"
-        },
-        "2p_conditional": {
-          "en": "Second person plural, conditional mood",
-          "lt": "Antrasis asmuo daugiskaita, tariamoji nuosaka"
-        },
-        "2p_future": {
-          "en": "Second person plural, future tense",
-          "lt": "Antrasis asmuo daugiskaita, būsimasis laikas"
-        },
-        "2p_imperative": {
-          "en": "Second person plural, imperative",
-          "lt": "Antrasis asmuo daugiskaita, liepiamoji nuosaka"
-        },
-        "2p_past": {
-          "en": "Second person plural, past tense",
-          "lt": "Antrasis asmuo daugiskaita, būtasis laikas"
-        },
-        "2p_present": {
-          "en": "Second person plural, present tense",
-          "lt": "Antrasis asmuo daugiskaita, esamasis laikas"
-        },
-        "2s_conditional": {
-          "en": "Second person singular, conditional mood",
-          "lt": "Antrasis asmuo vienaskaita, tariamoji nuosaka"
-        },
-        "2s_future": {
-          "en": "Second person singular, future tense",
-          "lt": "Antrasis asmuo vienaskaita, būsimasis laikas"
-        },
-        "2s_imperative": {
-          "en": "Second person singular, imperative",
-          "lt": "Antrasis asmuo vienaskaita, liepiamoji nuosaka"
-        },
-        "2s_past": {
-          "en": "Second person singular, past tense",
-          "lt": "Antrasis asmuo vienaskaita, būtasis laikas"
-        },
-        "2s_present": {
-          "en": "Second person singular, present tense",
-          "lt": "Antrasis asmuo vienaskaita, esamasis laikas"
-        },
-        "3p_conditional": {
-          "en": "Third person plural, conditional mood",
-          "lt": "Trečiasis asmuo daugiskaita, tariamoji nuosaka"
-        },
-        "3p_future": {
-          "en": "Third person plural, future tense",
-          "lt": "Trečiasis asmuo daugiskaita, būsimasis laikas"
-        },
-        "3p_past": {
-          "en": "Third person plural, past tense",
-          "lt": "Trečiasis asmuo daugiskaita, būtasis laikas"
-        },
-        "3p_present": {
-          "en": "Third person plural, present tense",
-          "lt": "Trečiasis asmuo daugiskaita, esamasis laikas"
-        },
-        "3s_conditional": {
-          "en": "Third person singular, conditional mood",
-          "lt": "Trečiasis asmuo vienaskaita, tariamoji nuosaka"
-        },
-        "3s_future": {
-          "en": "Third person singular, future tense",
-          "lt": "Trečiasis asmuo vienaskaita, būsimasis laikas"
-        },
-        "3s_past": {
-          "en": "Third person singular, past tense",
-          "lt": "Trečiasis asmuo vienaskaita, būtasis laikas"
-        },
-        "3s_present": {
-          "en": "Third person singular, present tense",
-          "lt": "Trečiasis asmuo vienaskaita, esamasis laikas"
-        },
-        "habitual_past": {
-          "en": "Habitual past"
-        },
-        "infinitive": {
-          "en": "Infinitive",
-          "lt": "Bendratis"
         }
       }
     },
@@ -3456,10 +3343,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "aad6fa8cb9c4b08134ab8c4f3451f6b2.json",
+      "filename": "d3e1883b3ccce3616985e05b9243335c.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "aad6fa8cb9c4b08134ab8c4f3451f6b2",
+      "md5": "d3e1883b3ccce3616985e05b9243335c",
       "levels": [
         1,
         2,
@@ -3468,7 +3355,7 @@
         5
       ],
       "required": true,
-      "word_count": 187,
+      "word_count": 189,
       "groups": [
         "Animals",
         "Body Part",
@@ -3491,6 +3378,7 @@
         "Perception",
         "Physical Action",
         "Physical Property",
+        "Place Name",
         "Possession",
         "Quality",
         "Shape",
@@ -3500,10 +3388,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "5133a30b23950c1113524594a76e3b23.json",
+      "filename": "13791a53641d2f0f974497fc57cbef5c.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "5133a30b23950c1113524594a76e3b23",
+      "md5": "13791a53641d2f0f974497fc57cbef5c",
       "levels": [
         6,
         7,
@@ -3548,10 +3436,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "c9e13818652c58923fabe36837575b16.json",
+      "filename": "8307490f86d1c516edf55f5de0740394.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "c9e13818652c58923fabe36837575b16",
+      "md5": "8307490f86d1c516edf55f5de0740394",
       "levels": [
         11,
         12,
@@ -3585,10 +3473,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "9da0efa489df994025c61a682a801cbb.json",
+      "filename": "f1bdebec2a5d07b759ceaf6019e95224.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "9da0efa489df994025c61a682a801cbb",
+      "md5": "f1bdebec2a5d07b759ceaf6019e95224",
       "levels": [
         16,
         17,
@@ -3597,7 +3485,7 @@
         20
       ],
       "required": true,
-      "word_count": 168,
+      "word_count": 166,
       "groups": [
         "Activity",
         "Adverb Other",
@@ -3636,10 +3524,10 @@
     },
     {
       "id": "levels_21_25",
-      "filename": "613c9550712eb9e37f1a5cd55e8c06d4.json",
+      "filename": "b247800e6eb30c33c71db6cc3e28d4f8.json",
       "display_name": "Levels 21-25",
       "type": "words",
-      "md5": "613c9550712eb9e37f1a5cd55e8c06d4",
+      "md5": "b247800e6eb30c33c71db6cc3e28d4f8",
       "levels": [
         21,
         22,
@@ -3677,10 +3565,10 @@
     },
     {
       "id": "levels_26_30",
-      "filename": "bd7eba4b1799fbf973fa473760d51783.json",
+      "filename": "f71a0c65eb7f68e856d840dc32e6ba01.json",
       "display_name": "Levels 26-30",
       "type": "words",
-      "md5": "bd7eba4b1799fbf973fa473760d51783",
+      "md5": "f71a0c65eb7f68e856d840dc32e6ba01",
       "levels": [
         26,
         27,
@@ -3689,7 +3577,7 @@
         30
       ],
       "required": true,
-      "word_count": 148,
+      "word_count": 146,
       "groups": [
         "Activity",
         "Animals",
@@ -3719,10 +3607,10 @@
     },
     {
       "id": "levels_100_124",
-      "filename": "45818c61925e4aa7fe1c786504d1c251.json",
+      "filename": "2e6d233d190fb3f99a201f8f115028be.json",
       "display_name": "Levels 100-124",
       "type": "words",
-      "md5": "45818c61925e4aa7fe1c786504d1c251",
+      "md5": "2e6d233d190fb3f99a201f8f115028be",
       "levels": [
         100,
         101,
@@ -3751,7 +3639,7 @@
         124
       ],
       "required": true,
-      "word_count": 203,
+      "word_count": 204,
       "groups": [
         "Adverb Other",
         "Appliance",
@@ -3783,10 +3671,10 @@
     },
     {
       "id": "levels_125_149",
-      "filename": "e56ca589cc0feee1d6a1950cf9599190.json",
+      "filename": "75fa39a29a1fe66145bddbffd311525e.json",
       "display_name": "Levels 125-149",
       "type": "words",
-      "md5": "e56ca589cc0feee1d6a1950cf9599190",
+      "md5": "75fa39a29a1fe66145bddbffd311525e",
       "levels": [
         125,
         126,
@@ -3839,10 +3727,10 @@
     },
     {
       "id": "levels_150_174",
-      "filename": "3a178926cfc50e7ea90c0f277e124c94.json",
+      "filename": "4e0543948ad698350394dbc72f6aa485.json",
       "display_name": "Levels 150-174",
       "type": "words",
-      "md5": "3a178926cfc50e7ea90c0f277e124c94",
+      "md5": "4e0543948ad698350394dbc72f6aa485",
       "levels": [
         150,
         151,
@@ -3893,10 +3781,10 @@
     },
     {
       "id": "levels_175_199",
-      "filename": "1e52e75b48e1c0711cd2537251a7d4e9.json",
+      "filename": "77806e26fba5b6761a8d6d43a323a106.json",
       "display_name": "Levels 175-199",
       "type": "words",
-      "md5": "1e52e75b48e1c0711cd2537251a7d4e9",
+      "md5": "77806e26fba5b6761a8d6d43a323a106",
       "levels": [
         175,
         176,
@@ -3952,10 +3840,10 @@
     },
     {
       "id": "levels_200_224",
-      "filename": "1d5eda63b323a81b15f48fce0bb38c66.json",
+      "filename": "d4dea3a375375630a6b3b224e17398f5.json",
       "display_name": "Levels 200-224",
       "type": "words",
-      "md5": "1d5eda63b323a81b15f48fce0bb38c66",
+      "md5": "d4dea3a375375630a6b3b224e17398f5",
       "levels": [
         200,
         201,
@@ -4017,10 +3905,10 @@
     },
     {
       "id": "levels_225_249",
-      "filename": "d846063a8351f61c4c3163414a08a5c9.json",
+      "filename": "3621d1995f9a6d23565d3045fdf0a9b7.json",
       "display_name": "Levels 225-249",
       "type": "words",
-      "md5": "d846063a8351f61c4c3163414a08a5c9",
+      "md5": "3621d1995f9a6d23565d3045fdf0a9b7",
       "levels": [
         225,
         226,
@@ -4077,10 +3965,10 @@
     },
     {
       "id": "levels_250_274",
-      "filename": "4054219266783176d7fd12a8040169cc.json",
+      "filename": "18ac83edaf6824ba5e13c693cebca4be.json",
       "display_name": "Levels 250-274",
       "type": "words",
-      "md5": "4054219266783176d7fd12a8040169cc",
+      "md5": "18ac83edaf6824ba5e13c693cebca4be",
       "levels": [
         250,
         251,
@@ -4136,10 +4024,10 @@
     },
     {
       "id": "levels_275_299",
-      "filename": "a540d9a2e076d4a872f5e5db7c6ae968.json",
+      "filename": "317acea7e82689036f4cf4669d68458b.json",
       "display_name": "Levels 275-299",
       "type": "words",
-      "md5": "a540d9a2e076d4a872f5e5db7c6ae968",
+      "md5": "317acea7e82689036f4cf4669d68458b",
       "levels": [
         275,
         276,
@@ -4203,10 +4091,10 @@
     },
     {
       "id": "levels_300_324",
-      "filename": "23a734cfebf770440975258937f626df.json",
+      "filename": "ef01122fb9f4d860ed6ca7ca6ac87b9a.json",
       "display_name": "Levels 300-324",
       "type": "words",
-      "md5": "23a734cfebf770440975258937f626df",
+      "md5": "ef01122fb9f4d860ed6ca7ca6ac87b9a",
       "levels": [
         300,
         301,
@@ -4235,7 +4123,7 @@
         324
       ],
       "required": true,
-      "word_count": 388,
+      "word_count": 389,
       "groups": [
         "Abstract Condition",
         "Change",
@@ -4269,10 +4157,10 @@
     },
     {
       "id": "levels_325_349",
-      "filename": "35ff2b56433665630239b2fc57b39d66.json",
+      "filename": "d2edff05ad132cb8de43356a189668e1.json",
       "display_name": "Levels 325-349",
       "type": "words",
-      "md5": "35ff2b56433665630239b2fc57b39d66",
+      "md5": "d2edff05ad132cb8de43356a189668e1",
       "levels": [
         325,
         326,
@@ -4607,10 +4495,10 @@
     },
     {
       "id": "levels_450_474",
-      "filename": "ff4988786ad8307a72a16404602e6a5f.json",
+      "filename": "2e209fb6a75fc5246cf2597afc37681d.json",
       "display_name": "Levels 450-474",
       "type": "words",
-      "md5": "ff4988786ad8307a72a16404602e6a5f",
+      "md5": "2e209fb6a75fc5246cf2597afc37681d",
       "levels": [
         450,
         451,
@@ -4672,10 +4560,10 @@
     },
     {
       "id": "levels_475_499",
-      "filename": "c14853f71a92a105ef707d6c375a1ce1.json",
+      "filename": "1c52c57794db5ce00bd61c70d0a27994.json",
       "display_name": "Levels 475-499",
       "type": "words",
-      "md5": "c14853f71a92a105ef707d6c375a1ce1",
+      "md5": "1c52c57794db5ce00bd61c70d0a27994",
       "levels": [
         475,
         476,

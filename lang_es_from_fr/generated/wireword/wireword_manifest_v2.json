@@ -2,7 +2,7 @@
   "version": 1,
   "language": "spanish",
   "language_code": "es",
-  "generated_at": "2026-10-23T22:36:18Z",
+  "generated_at": "2026-10-24T15:36:03Z",
   "source_language": "french",
   "source_language_code": "fr",
   "config": {
@@ -69,109 +69,6 @@
           "1p": "nosotros/nosotras",
           "2p": "vosotros/vosotras",
           "3p": "ellos/ellas"
-        }
-      },
-      "form_labels": {
-        "1p_future": {
-          "en": "First person plural, future tense",
-          "fr": "Première personne du pluriel, futur",
-          "es": "Primera persona del plural, futuro"
-        },
-        "1p_past": {
-          "en": "First person plural, past tense",
-          "fr": "Première personne du pluriel, passé",
-          "es": "Primera persona del plural, pasado"
-        },
-        "1p_present": {
-          "en": "First person plural, present tense",
-          "fr": "Première personne du pluriel, présent",
-          "es": "Primera persona del plural, presente"
-        },
-        "1s_future": {
-          "en": "First person singular, future tense",
-          "fr": "Première personne du singulier, futur",
-          "es": "Primera persona del singular, futuro"
-        },
-        "1s_past": {
-          "en": "First person singular, past tense",
-          "fr": "Première personne du singulier, passé",
-          "es": "Primera persona del singular, pasado"
-        },
-        "1s_present": {
-          "en": "First person singular, present tense",
-          "fr": "Première personne du singulier, présent",
-          "es": "Primera persona del singular, presente"
-        },
-        "2p_future": {
-          "en": "Second person plural, future tense",
-          "fr": "Deuxième personne du pluriel, futur",
-          "es": "Segunda persona del plural, futuro"
-        },
-        "2p_past": {
-          "en": "Second person plural, past tense",
-          "fr": "Deuxième personne du pluriel, passé",
-          "es": "Segunda persona del plural, pasado"
-        },
-        "2p_present": {
-          "en": "Second person plural, present tense",
-          "fr": "Deuxième personne du pluriel, présent",
-          "es": "Segunda persona del plural, presente"
-        },
-        "2s_future": {
-          "en": "Second person singular, future tense",
-          "fr": "Deuxième personne du singulier, futur",
-          "es": "Segunda persona del singular, futuro"
-        },
-        "2s_past": {
-          "en": "Second person singular, past tense",
-          "fr": "Deuxième personne du singulier, passé",
-          "es": "Segunda persona del singular, pasado"
-        },
-        "2s_present": {
-          "en": "Second person singular, present tense",
-          "fr": "Deuxième personne du singulier, présent",
-          "es": "Segunda persona del singular, presente"
-        },
-        "3p_future": {
-          "en": "Third person plural, future tense",
-          "fr": "Troisième personne du pluriel, futur",
-          "es": "Tercera persona del plural, futuro"
-        },
-        "3p_past": {
-          "en": "Third person plural, past tense",
-          "fr": "Troisième personne du pluriel, passé",
-          "es": "Tercera persona del plural, pasado"
-        },
-        "3p_present": {
-          "en": "Third person plural, present tense",
-          "fr": "Troisième personne du pluriel, présent",
-          "es": "Tercera persona del plural, presente"
-        },
-        "3s_future": {
-          "en": "Third person singular, future tense",
-          "fr": "Troisième personne du singulier, futur",
-          "es": "Tercera persona del singular, futuro"
-        },
-        "3s_past": {
-          "en": "Third person singular, past tense",
-          "fr": "Troisième personne du singulier, passé",
-          "es": "Tercera persona del singular, pasado"
-        },
-        "3s_present": {
-          "en": "Third person singular, present tense",
-          "fr": "Troisième personne du singulier, présent",
-          "es": "Tercera persona del singular, presente"
-        },
-        "gerund": {
-          "en": "Gerund"
-        },
-        "infinitive": {
-          "en": "Infinitive",
-          "fr": "Infinitif",
-          "es": "Infinitivo"
-        },
-        "past_participle": {
-          "en": "Past participle"
         }
       }
     },
@@ -857,10 +754,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "2e6e0cc159a6a813d16393f4dec7cb6e.json",
+      "filename": "fb5567cfbc918d3da4bc521d8fb434fb.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "2e6e0cc159a6a813d16393f4dec7cb6e",
+      "md5": "fb5567cfbc918d3da4bc521d8fb434fb",
       "levels": [
         1,
         2,
@@ -869,7 +766,7 @@
         5
       ],
       "required": true,
-      "word_count": 186,
+      "word_count": 189,
       "groups": [
         "Action physique",
         "Animaux",
@@ -882,6 +779,7 @@
         "Interjection Other",
         "Lien familial",
         "Mouvement directionnel",
+        "Nom de lieu",
         "Nourriture",
         "Partie du corps",
         "Perception",
@@ -901,10 +799,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "930b6cd4d58ed522010d0e3781aafb3e.json",
+      "filename": "18037a2cc769ddc766a5becd069586d1.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "930b6cd4d58ed522010d0e3781aafb3e",
+      "md5": "18037a2cc769ddc766a5becd069586d1",
       "levels": [
         6,
         7,
@@ -949,10 +847,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "37b761c428262abd7e929ed03d6a8f6b.json",
+      "filename": "a69390eefc1cd31236e4f8fe81f55294.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "37b761c428262abd7e929ed03d6a8f6b",
+      "md5": "a69390eefc1cd31236e4f8fe81f55294",
       "levels": [
         11,
         12,
@@ -986,10 +884,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "09a56b59ea790de0779c748f65a03098.json",
+      "filename": "5c5f9109035f675a2401f80c4b5c453b.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "09a56b59ea790de0779c748f65a03098",
+      "md5": "5c5f9109035f675a2401f80c4b5c453b",
       "levels": [
         16,
         17,
@@ -998,7 +896,7 @@
         20
       ],
       "required": true,
-      "word_count": 168,
+      "word_count": 166,
       "groups": [
         "Action physique",
         "Activité",
@@ -1037,10 +935,10 @@
     },
     {
       "id": "levels_21_25",
-      "filename": "1b5546fd2f7bfbdbcd567efdd5e015e5.json",
+      "filename": "3af0cd3f11d124e96d4e7faa48dfc656.json",
       "display_name": "Levels 21-25",
       "type": "words",
-      "md5": "1b5546fd2f7bfbdbcd567efdd5e015e5",
+      "md5": "3af0cd3f11d124e96d4e7faa48dfc656",
       "levels": [
         21,
         22,
@@ -1078,10 +976,10 @@
     },
     {
       "id": "levels_26_30",
-      "filename": "ccade72ca3df713360661463a0dae3f8.json",
+      "filename": "6d5c989c479e7f0ed7221b4dcf95fc13.json",
       "display_name": "Levels 26-30",
       "type": "words",
-      "md5": "ccade72ca3df713360661463a0dae3f8",
+      "md5": "6d5c989c479e7f0ed7221b4dcf95fc13",
       "levels": [
         26,
         27,
@@ -1090,7 +988,7 @@
         30
       ],
       "required": true,
-      "word_count": 148,
+      "word_count": 146,
       "groups": [
         "Action physique",
         "Activité",
