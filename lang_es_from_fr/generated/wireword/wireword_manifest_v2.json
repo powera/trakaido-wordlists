@@ -2,7 +2,7 @@
   "version": 1,
   "language": "spanish",
   "language_code": "es",
-  "generated_at": "2026-10-24T15:36:03Z",
+  "generated_at": "2026-10-25T16:16:55Z",
   "source_language": "french",
   "source_language_code": "fr",
   "config": {
@@ -754,10 +754,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "fb5567cfbc918d3da4bc521d8fb434fb.json",
+      "filename": "ca8e15162c3a2e5aa950c01a118aba73.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "fb5567cfbc918d3da4bc521d8fb434fb",
+      "md5": "ca8e15162c3a2e5aa950c01a118aba73",
       "levels": [
         1,
         2,
@@ -799,10 +799,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "18037a2cc769ddc766a5becd069586d1.json",
+      "filename": "f14afa671de1e4ad9d6768e04f220dc1.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "18037a2cc769ddc766a5becd069586d1",
+      "md5": "f14afa671de1e4ad9d6768e04f220dc1",
       "levels": [
         6,
         7,
@@ -847,10 +847,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "a69390eefc1cd31236e4f8fe81f55294.json",
+      "filename": "d2eddb5ffbcbc8f28272e6fbe1346ec7.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "a69390eefc1cd31236e4f8fe81f55294",
+      "md5": "d2eddb5ffbcbc8f28272e6fbe1346ec7",
       "levels": [
         11,
         12,
@@ -859,7 +859,7 @@
         15
       ],
       "required": true,
-      "word_count": 162,
+      "word_count": 153,
       "groups": [
         "Action physique",
         "Adverb Other",
@@ -870,7 +870,6 @@
         "Langue",
         "Nationalité",
         "Ordinal",
-        "Origine",
         "Preposition Other",
         "Pronoun Other",
         "Propriété physique",
@@ -884,10 +883,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "5c5f9109035f675a2401f80c4b5c453b.json",
+      "filename": "1aca0e0ba1aad2747cdb2f39949f3b81.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "5c5f9109035f675a2401f80c4b5c453b",
+      "md5": "1aca0e0ba1aad2747cdb2f39949f3b81",
       "levels": [
         16,
         17,
@@ -896,7 +895,7 @@
         20
       ],
       "required": true,
-      "word_count": 166,
+      "word_count": 167,
       "groups": [
         "Action physique",
         "Activité",
@@ -935,10 +934,10 @@
     },
     {
       "id": "levels_21_25",
-      "filename": "3af0cd3f11d124e96d4e7faa48dfc656.json",
+      "filename": "56fac4f59b344bd02f54c67d619f829a.json",
       "display_name": "Levels 21-25",
       "type": "words",
-      "md5": "3af0cd3f11d124e96d4e7faa48dfc656",
+      "md5": "56fac4f59b344bd02f54c67d619f829a",
       "levels": [
         21,
         22,
@@ -976,10 +975,10 @@
     },
     {
       "id": "levels_26_30",
-      "filename": "6d5c989c479e7f0ed7221b4dcf95fc13.json",
+      "filename": "c450b267cc933b39e166fd59bc6a54cf.json",
       "display_name": "Levels 26-30",
       "type": "words",
-      "md5": "6d5c989c479e7f0ed7221b4dcf95fc13",
+      "md5": "c450b267cc933b39e166fd59bc6a54cf",
       "levels": [
         26,
         27,

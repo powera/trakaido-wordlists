@@ -2,7 +2,7 @@
   "version": 1,
   "language": "spanish",
   "language_code": "es",
-  "generated_at": "2026-10-24T15:37:06Z",
+  "generated_at": "2026-10-25T16:16:50Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -752,10 +752,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "2405270bdd304cc480e8e5adf7595319.json",
+      "filename": "5cf8d912936dcafd21664262df7d90e8.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "2405270bdd304cc480e8e5adf7595319",
+      "md5": "5cf8d912936dcafd21664262df7d90e8",
       "levels": [
         1,
         2,
@@ -797,10 +797,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "2d1540b8a765444b0c0435a13327cce0.json",
+      "filename": "a5fc6c7648f8f4f1d0ccd3fbb59e6f56.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "2d1540b8a765444b0c0435a13327cce0",
+      "md5": "a5fc6c7648f8f4f1d0ccd3fbb59e6f56",
       "levels": [
         6,
         7,
@@ -845,10 +845,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "eff6ac5554c9734afa7a14c22c0ab397.json",
+      "filename": "0f7489b3e160f162e1f21b5897e1b6e7.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "eff6ac5554c9734afa7a14c22c0ab397",
+      "md5": "0f7489b3e160f162e1f21b5897e1b6e7",
       "levels": [
         11,
         12,
@@ -857,7 +857,7 @@
         15
       ],
       "required": true,
-      "word_count": 162,
+      "word_count": 153,
       "groups": [
         "Adverb Other",
         "Communication",
@@ -869,7 +869,6 @@
         "Nationality",
         "Natural Feature",
         "Ordinal",
-        "Origin",
         "Physical Action",
         "Physical Property",
         "Preposition Other",
@@ -882,10 +881,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "432647f0168b90aca5e1362eec7bbb3d.json",
+      "filename": "a621bedc9df5ac692f3d34a7a4fc863c.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "432647f0168b90aca5e1362eec7bbb3d",
+      "md5": "a621bedc9df5ac692f3d34a7a4fc863c",
       "levels": [
         16,
         17,
@@ -894,7 +893,7 @@
         20
       ],
       "required": true,
-      "word_count": 166,
+      "word_count": 167,
       "groups": [
         "Activity",
         "Adverb Other",
@@ -933,10 +932,10 @@
     },
     {
       "id": "levels_21_25",
-      "filename": "6ea3e98972b22d25387b8ee07d70f686.json",
+      "filename": "8f40656c307cccfe0db68ef2ac18338f.json",
       "display_name": "Levels 21-25",
       "type": "words",
-      "md5": "6ea3e98972b22d25387b8ee07d70f686",
+      "md5": "8f40656c307cccfe0db68ef2ac18338f",
       "levels": [
         21,
         22,
@@ -974,10 +973,10 @@
     },
     {
       "id": "levels_26_30",
-      "filename": "b124d02328a42db0dc0dfcf420f9c2a3.json",
+      "filename": "fc241027deaab1863472e2cd0ca7698a.json",
       "display_name": "Levels 26-30",
       "type": "words",
-      "md5": "b124d02328a42db0dc0dfcf420f9c2a3",
+      "md5": "fc241027deaab1863472e2cd0ca7698a",
       "levels": [
         26,
         27,

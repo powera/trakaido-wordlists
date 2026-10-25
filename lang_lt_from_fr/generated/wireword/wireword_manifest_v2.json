@@ -2,7 +2,7 @@
   "version": 1,
   "language": "lithuanian",
   "language_code": "lt",
-  "generated_at": "2026-10-24T15:36:31Z",
+  "generated_at": "2026-10-25T16:17:29Z",
   "source_language": "french",
   "source_language_code": "fr",
   "config": {
@@ -3438,10 +3438,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "7c9c9ec4a6e2d9ea1e256183f99ebcf7.json",
+      "filename": "8654899c951edd09ae2fc1fe2c043ca3.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "7c9c9ec4a6e2d9ea1e256183f99ebcf7",
+      "md5": "8654899c951edd09ae2fc1fe2c043ca3",
       "levels": [
         11,
         12,
@@ -3450,7 +3450,7 @@
         15
       ],
       "required": true,
-      "word_count": 171,
+      "word_count": 160,
       "groups": [
         "Action physique",
         "Adverb Other",
@@ -3461,7 +3461,6 @@
         "Langue",
         "Nationalité",
         "Ordinal",
-        "Origine",
         "Preposition Other",
         "Pronoun Other",
         "Propriété physique",
@@ -3475,10 +3474,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "1bd4a4c2f28d6b7feb6096d427b9afe3.json",
+      "filename": "b58a2d42eafe590f416bc0d2f13fcf5b.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "1bd4a4c2f28d6b7feb6096d427b9afe3",
+      "md5": "b58a2d42eafe590f416bc0d2f13fcf5b",
       "levels": [
         16,
         17,
@@ -3487,7 +3486,7 @@
         20
       ],
       "required": true,
-      "word_count": 166,
+      "word_count": 167,
       "groups": [
         "Action physique",
         "Activité",
@@ -3907,10 +3906,10 @@
     },
     {
       "id": "levels_225_249",
-      "filename": "6cebf38f892c8f0a20619aba3141a634.json",
+      "filename": "fb7997ca88be6fbde3271a6eb444e4fe.json",
       "display_name": "Levels 225-249",
       "type": "words",
-      "md5": "6cebf38f892c8f0a20619aba3141a634",
+      "md5": "fb7997ca88be6fbde3271a6eb444e4fe",
       "levels": [
         225,
         226,
@@ -3939,7 +3938,7 @@
         249
       ],
       "required": true,
-      "word_count": 329,
+      "word_count": 340,
       "groups": [
         "Action physique",
         "Communication",

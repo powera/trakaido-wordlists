@@ -2,7 +2,7 @@
   "version": 1,
   "language": "lithuanian",
   "language_code": "lt",
-  "generated_at": "2026-10-24T15:36:25Z",
+  "generated_at": "2026-10-25T16:17:36Z",
   "source_language": "chinese",
   "source_language_code": "zh",
   "config": {
@@ -3438,10 +3438,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "a23aae1d94dc2a016d45204b83c1497b.json",
+      "filename": "bf5f46651db93d33ccdfed242f6a7721.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "a23aae1d94dc2a016d45204b83c1497b",
+      "md5": "bf5f46651db93d33ccdfed242f6a7721",
       "levels": [
         11,
         12,
@@ -3450,7 +3450,7 @@
         15
       ],
       "required": true,
-      "word_count": 171,
+      "word_count": 160,
       "groups": [
         "Adverb Other",
         "Conjunction Other",
@@ -3465,7 +3465,6 @@
         "形状",
         "情感",
         "情绪",
-        "来源",
         "物理属性",
         "自然地貌",
         "语言",
@@ -3475,10 +3474,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "e25c75cd8917ddf5553296c64ad17360.json",
+      "filename": "659e5c48a1fd6db6018b019364a8932d.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "e25c75cd8917ddf5553296c64ad17360",
+      "md5": "659e5c48a1fd6db6018b019364a8932d",
       "levels": [
         16,
         17,
@@ -3487,7 +3486,7 @@
         20
       ],
       "required": true,
-      "word_count": 166,
+      "word_count": 167,
       "groups": [
         "Adverb Other",
         "Determiner Other",
@@ -3907,10 +3906,10 @@
     },
     {
       "id": "levels_225_249",
-      "filename": "c4b56787845d8989bddd21f31bcdf43a.json",
+      "filename": "cf9e2694d9ab27c66f90ebdbff80ab70.json",
       "display_name": "Levels 225-249",
       "type": "words",
-      "md5": "c4b56787845d8989bddd21f31bcdf43a",
+      "md5": "cf9e2694d9ab27c66f90ebdbff80ab70",
       "levels": [
         225,
         226,
@@ -3939,7 +3938,7 @@
         249
       ],
       "required": true,
-      "word_count": 329,
+      "word_count": 340,
       "groups": [
         "Preposition Other",
         "Pronoun Other",

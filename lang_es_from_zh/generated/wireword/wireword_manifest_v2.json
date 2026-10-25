@@ -2,7 +2,7 @@
   "version": 1,
   "language": "spanish",
   "language_code": "es",
-  "generated_at": "2026-10-24T15:36:00Z",
+  "generated_at": "2026-10-25T16:17:00Z",
   "source_language": "chinese",
   "source_language_code": "zh",
   "config": {
@@ -754,10 +754,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "9efa2288e1e6266641c80bab6de614c7.json",
+      "filename": "a078c73f643af97fc3fecfce1babbeb6.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "9efa2288e1e6266641c80bab6de614c7",
+      "md5": "a078c73f643af97fc3fecfce1babbeb6",
       "levels": [
         1,
         2,
@@ -799,10 +799,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "52dd85481f1f7d14abe7d273fd03e1dc.json",
+      "filename": "92b0c10c81749f0573a556760da4cb25.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "52dd85481f1f7d14abe7d273fd03e1dc",
+      "md5": "92b0c10c81749f0573a556760da4cb25",
       "levels": [
         6,
         7,
@@ -847,10 +847,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "8a4a1df877fe0c53b3e68187afb82af7.json",
+      "filename": "a19f2a9ae3ccfe93c122a2acba411d6b.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "8a4a1df877fe0c53b3e68187afb82af7",
+      "md5": "a19f2a9ae3ccfe93c122a2acba411d6b",
       "levels": [
         11,
         12,
@@ -859,7 +859,7 @@
         15
       ],
       "required": true,
-      "word_count": 162,
+      "word_count": 153,
       "groups": [
         "Adverb Other",
         "Conjunction Other",
@@ -874,7 +874,6 @@
         "形状",
         "情感",
         "情绪",
-        "来源",
         "物理属性",
         "自然地貌",
         "语言",
@@ -884,10 +883,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "0f2ca14b921a80c551964551ea68cbee.json",
+      "filename": "6eb2fb46ae49afc1edbada4a4501cd18.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "0f2ca14b921a80c551964551ea68cbee",
+      "md5": "6eb2fb46ae49afc1edbada4a4501cd18",
       "levels": [
         16,
         17,
@@ -896,7 +895,7 @@
         20
       ],
       "required": true,
-      "word_count": 166,
+      "word_count": 167,
       "groups": [
         "Adverb Other",
         "Determiner Other",
@@ -935,10 +934,10 @@
     },
     {
       "id": "levels_21_25",
-      "filename": "bde12fdfda3fb65d1d1a0ab19cc3434f.json",
+      "filename": "25c1b18b400ded01908ac89379975291.json",
       "display_name": "Levels 21-25",
       "type": "words",
-      "md5": "bde12fdfda3fb65d1d1a0ab19cc3434f",
+      "md5": "25c1b18b400ded01908ac89379975291",
       "levels": [
         21,
         22,
@@ -976,10 +975,10 @@
     },
     {
       "id": "levels_26_30",
-      "filename": "5432bb42019230b447978a4e4efd934b.json",
+      "filename": "af8effc7e453f0b465a9f201e1422e1e.json",
       "display_name": "Levels 26-30",
       "type": "words",
-      "md5": "5432bb42019230b447978a4e4efd934b",
+      "md5": "af8effc7e453f0b465a9f201e1422e1e",
       "levels": [
         26,
         27,

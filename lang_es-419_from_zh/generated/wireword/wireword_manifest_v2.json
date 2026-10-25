@@ -3,7 +3,7 @@
   "language": "spanish",
   "language_code": "es-419",
   "variant": "es-419",
-  "generated_at": "2026-10-24T15:47:53Z",
+  "generated_at": "2026-10-25T16:17:16Z",
   "source_language": "chinese",
   "source_language_code": "zh",
   "config": {
@@ -849,10 +849,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "610797c96a5122dc8fc2d1dca2379aa3.json",
+      "filename": "faabb0f30da5505d2c29858cd5fb5315.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "610797c96a5122dc8fc2d1dca2379aa3",
+      "md5": "faabb0f30da5505d2c29858cd5fb5315",
       "levels": [
         11,
         12,
@@ -861,7 +861,7 @@
         15
       ],
       "required": true,
-      "word_count": 161,
+      "word_count": 152,
       "groups": [
         "Adverb Other",
         "Conjunction Other",
@@ -876,7 +876,6 @@
         "形状",
         "情感",
         "情绪",
-        "来源",
         "物理属性",
         "自然地貌",
         "语言",
@@ -886,10 +885,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "9e1df84a2e6f8a723e9790ca45512708.json",
+      "filename": "ae4ea52c026b6b4fdabc7993aabbb376.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "9e1df84a2e6f8a723e9790ca45512708",
+      "md5": "ae4ea52c026b6b4fdabc7993aabbb376",
       "levels": [
         16,
         17,
@@ -898,7 +897,7 @@
         20
       ],
       "required": true,
-      "word_count": 166,
+      "word_count": 167,
       "groups": [
         "Adverb Other",
         "Determiner Other",
@@ -978,10 +977,10 @@
     },
     {
       "id": "levels_26_30",
-      "filename": "e4f9bae6621177a04469096ed69cd99c.json",
+      "filename": "1024c8b0936d72701c93ed93f84570b8.json",
       "display_name": "Levels 26-30",
       "type": "words",
-      "md5": "e4f9bae6621177a04469096ed69cd99c",
+      "md5": "1024c8b0936d72701c93ed93f84570b8",
       "levels": [
         26,
         27,

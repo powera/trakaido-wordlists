@@ -2,7 +2,7 @@
   "version": 1,
   "language": "lithuanian",
   "language_code": "lt",
-  "generated_at": "2026-10-24T15:37:15Z",
+  "generated_at": "2026-10-25T16:17:21Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -3436,10 +3436,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "8307490f86d1c516edf55f5de0740394.json",
+      "filename": "8c985a54b425de5043710b98564e58c7.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "8307490f86d1c516edf55f5de0740394",
+      "md5": "8c985a54b425de5043710b98564e58c7",
       "levels": [
         11,
         12,
@@ -3448,7 +3448,7 @@
         15
       ],
       "required": true,
-      "word_count": 171,
+      "word_count": 160,
       "groups": [
         "Adverb Other",
         "Communication",
@@ -3460,7 +3460,6 @@
         "Nationality",
         "Natural Feature",
         "Ordinal",
-        "Origin",
         "Physical Action",
         "Physical Property",
         "Preposition Other",
@@ -3473,10 +3472,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "f1bdebec2a5d07b759ceaf6019e95224.json",
+      "filename": "fc6a12e72705f4999d4c199471402ced.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "f1bdebec2a5d07b759ceaf6019e95224",
+      "md5": "fc6a12e72705f4999d4c199471402ced",
       "levels": [
         16,
         17,
@@ -3485,7 +3484,7 @@
         20
       ],
       "required": true,
-      "word_count": 166,
+      "word_count": 167,
       "groups": [
         "Activity",
         "Adverb Other",
@@ -3905,10 +3904,10 @@
     },
     {
       "id": "levels_225_249",
-      "filename": "3621d1995f9a6d23565d3045fdf0a9b7.json",
+      "filename": "39909031d1bf85cdde9128442b23fce6.json",
       "display_name": "Levels 225-249",
       "type": "words",
-      "md5": "3621d1995f9a6d23565d3045fdf0a9b7",
+      "md5": "39909031d1bf85cdde9128442b23fce6",
       "levels": [
         225,
         226,
@@ -3937,7 +3936,7 @@
         249
       ],
       "required": true,
-      "word_count": 329,
+      "word_count": 340,
       "groups": [
         "City",
         "Communication",

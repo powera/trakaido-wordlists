@@ -3,7 +3,7 @@
   "language": "spanish",
   "language_code": "es-419",
   "variant": "es-419",
-  "generated_at": "2026-10-24T15:47:51Z",
+  "generated_at": "2026-10-25T16:17:07Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -847,10 +847,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "a09d2f7ec8fde9f6c743a3f146506884.json",
+      "filename": "8b7bf574d45a38f573425c689654e5ea.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "a09d2f7ec8fde9f6c743a3f146506884",
+      "md5": "8b7bf574d45a38f573425c689654e5ea",
       "levels": [
         11,
         12,
@@ -859,7 +859,7 @@
         15
       ],
       "required": true,
-      "word_count": 161,
+      "word_count": 152,
       "groups": [
         "Adverb Other",
         "Communication",
@@ -871,7 +871,6 @@
         "Nationality",
         "Natural Feature",
         "Ordinal",
-        "Origin",
         "Physical Action",
         "Physical Property",
         "Preposition Other",
@@ -884,10 +883,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "11ee21967a1e11fc780479341f26e4f9.json",
+      "filename": "e74d10be09225f89671fcf2fc637d6a3.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "11ee21967a1e11fc780479341f26e4f9",
+      "md5": "e74d10be09225f89671fcf2fc637d6a3",
       "levels": [
         16,
         17,
@@ -896,7 +895,7 @@
         20
       ],
       "required": true,
-      "word_count": 166,
+      "word_count": 167,
       "groups": [
         "Activity",
         "Adverb Other",
@@ -976,10 +975,10 @@
     },
     {
       "id": "levels_26_30",
-      "filename": "28092646e01e08d55135782da43ad64b.json",
+      "filename": "c48b142db84b1c53ec42a4a50ae09a94.json",
       "display_name": "Levels 26-30",
       "type": "words",
-      "md5": "28092646e01e08d55135782da43ad64b",
+      "md5": "c48b142db84b1c53ec42a4a50ae09a94",
       "levels": [
         26,
         27,
