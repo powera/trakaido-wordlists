@@ -3,7 +3,7 @@
   "language": "spanish",
   "language_code": "es-419",
   "variant": "es-419",
-  "generated_at": "2026-10-25T16:17:16Z",
+  "generated_at": "2026-11-03T18:56:30Z",
   "source_language": "chinese",
   "source_language_code": "zh",
   "config": {
@@ -756,10 +756,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "dfb5ebda8529f45b711b6e8422f45edb.json",
+      "filename": "23aa142d1b74062f74a8de64e25776bf.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "dfb5ebda8529f45b711b6e8422f45edb",
+      "md5": "23aa142d1b74062f74a8de64e25776bf",
       "levels": [
         1,
         2,
@@ -768,7 +768,7 @@
         5
       ],
       "required": true,
-      "word_count": 189,
+      "word_count": 188,
       "groups": [
         "Interjection Other",
         "交流/信息",
@@ -801,10 +801,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "02dafe137feed7ea75fd6e6a5a8e44f1.json",
+      "filename": "3303427efd4c19651379056d18469925.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "02dafe137feed7ea75fd6e6a5a8e44f1",
+      "md5": "3303427efd4c19651379056d18469925",
       "levels": [
         6,
         7,
@@ -813,7 +813,7 @@
         10
       ],
       "required": true,
-      "word_count": 175,
+      "word_count": 173,
       "groups": [
         "Adverb Other",
         "Conjunction Other",
@@ -849,10 +849,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "faabb0f30da5505d2c29858cd5fb5315.json",
+      "filename": "c99a5fa68743a4d0c4a1765445432669.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "faabb0f30da5505d2c29858cd5fb5315",
+      "md5": "c99a5fa68743a4d0c4a1765445432669",
       "levels": [
         11,
         12,
@@ -861,7 +861,7 @@
         15
       ],
       "required": true,
-      "word_count": 152,
+      "word_count": 150,
       "groups": [
         "Adverb Other",
         "Conjunction Other",
@@ -885,10 +885,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "ae4ea52c026b6b4fdabc7993aabbb376.json",
+      "filename": "54be25157461e4a40f5841441d8fd5a0.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "ae4ea52c026b6b4fdabc7993aabbb376",
+      "md5": "54be25157461e4a40f5841441d8fd5a0",
       "levels": [
         16,
         17,
@@ -897,7 +897,7 @@
         20
       ],
       "required": true,
-      "word_count": 167,
+      "word_count": 163,
       "groups": [
         "Adverb Other",
         "Determiner Other",
@@ -936,10 +936,10 @@
     },
     {
       "id": "levels_21_25",
-      "filename": "39ded98d46459147cbd798f7cc328df8.json",
+      "filename": "0a32a9f0b12ec31974504cad23a8160c.json",
       "display_name": "Levels 21-25",
       "type": "words",
-      "md5": "39ded98d46459147cbd798f7cc328df8",
+      "md5": "0a32a9f0b12ec31974504cad23a8160c",
       "levels": [
         21,
         22,
@@ -964,6 +964,7 @@
         "建筑",
         "建筑部件",
         "持续时间",
+        "方向",
         "方向性移动",
         "时间名称",
         "时间段",
@@ -977,10 +978,10 @@
     },
     {
       "id": "levels_26_30",
-      "filename": "1024c8b0936d72701c93ed93f84570b8.json",
+      "filename": "2c23ded526518afb46c92ca27c6e2000.json",
       "display_name": "Levels 26-30",
       "type": "words",
-      "md5": "1024c8b0936d72701c93ed93f84570b8",
+      "md5": "2c23ded526518afb46c92ca27c6e2000",
       "levels": [
         26,
         27,
@@ -989,7 +990,7 @@
         30
       ],
       "required": true,
-      "word_count": 146,
+      "word_count": 141,
       "groups": [
         "交流",
         "交通工具",
@@ -1001,14 +1002,12 @@
         "地理地点",
         "小物件",
         "建筑",
-        "数量概念",
         "方向性移动",
         "服装/配饰",
         "植物",
         "植物部位",
         "概念/思想",
         "活动",
-        "物理属性",
         "移动方式",
         "职业",
         "艺术品/文物",

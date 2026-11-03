@@ -3,7 +3,7 @@
   "language": "spanish",
   "language_code": "es-419",
   "variant": "es-419",
-  "generated_at": "2026-10-25T16:17:12Z",
+  "generated_at": "2026-11-03T18:56:26Z",
   "source_language": "french",
   "source_language_code": "fr",
   "config": {
@@ -756,10 +756,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "3300673dc62f6116f4d21e334d0b3d8a.json",
+      "filename": "132bdda99975f65ccb59cd31a37b5853.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "3300673dc62f6116f4d21e334d0b3d8a",
+      "md5": "132bdda99975f65ccb59cd31a37b5853",
       "levels": [
         1,
         2,
@@ -768,7 +768,7 @@
         5
       ],
       "required": true,
-      "word_count": 189,
+      "word_count": 188,
       "groups": [
         "Action physique",
         "Animaux",
@@ -801,10 +801,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "15b85cb099e4baa0ac60f6ec825c83ae.json",
+      "filename": "d1e3be8240fb6f2e989c871a14d84c14.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "15b85cb099e4baa0ac60f6ec825c83ae",
+      "md5": "d1e3be8240fb6f2e989c871a14d84c14",
       "levels": [
         6,
         7,
@@ -813,7 +813,7 @@
         10
       ],
       "required": true,
-      "word_count": 175,
+      "word_count": 173,
       "groups": [
         "Action physique",
         "Adverb Other",
@@ -849,10 +849,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "2bba8bd64628dd99d580b8d70e93eaeb.json",
+      "filename": "0019055ec3b2bcef5c9517cb5bd620d6.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "2bba8bd64628dd99d580b8d70e93eaeb",
+      "md5": "0019055ec3b2bcef5c9517cb5bd620d6",
       "levels": [
         11,
         12,
@@ -861,7 +861,7 @@
         15
       ],
       "required": true,
-      "word_count": 152,
+      "word_count": 150,
       "groups": [
         "Action physique",
         "Adverb Other",
@@ -885,10 +885,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "3328dd0210a110b4e082178fdcfa43a7.json",
+      "filename": "026023f85753a3e77d81dbb26e7b4a77.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "3328dd0210a110b4e082178fdcfa43a7",
+      "md5": "026023f85753a3e77d81dbb26e7b4a77",
       "levels": [
         16,
         17,
@@ -897,7 +897,7 @@
         20
       ],
       "required": true,
-      "word_count": 167,
+      "word_count": 163,
       "groups": [
         "Action physique",
         "Activité",
@@ -936,10 +936,10 @@
     },
     {
       "id": "levels_21_25",
-      "filename": "78fdcc4f9b0c22c72ce947b09b8f1329.json",
+      "filename": "51f9ecf11c45daba23a46deb2560a2cb.json",
       "display_name": "Levels 21-25",
       "type": "words",
-      "md5": "78fdcc4f9b0c22c72ce947b09b8f1329",
+      "md5": "51f9ecf11c45daba23a46deb2560a2cb",
       "levels": [
         21,
         22,
@@ -955,6 +955,7 @@
         "Bâtiment",
         "Changement",
         "Complétude",
+        "Direction",
         "Durée",
         "Existence",
         "Intensité",
@@ -977,10 +978,10 @@
     },
     {
       "id": "levels_26_30",
-      "filename": "abe02f8dc5f125cdb80c0eae4dcf373c.json",
+      "filename": "13f49055373e776392d3bea266906533.json",
       "display_name": "Levels 26-30",
       "type": "words",
-      "md5": "abe02f8dc5f125cdb80c0eae4dcf373c",
+      "md5": "13f49055373e776392d3bea266906533",
       "levels": [
         26,
         27,
@@ -989,7 +990,7 @@
         30
       ],
       "required": true,
-      "word_count": 146,
+      "word_count": 141,
       "groups": [
         "Action physique",
         "Activité",
@@ -997,7 +998,6 @@
         "Bâtiment",
         "Changement",
         "Communication",
-        "Concept quantitatif",
         "Concept/Idée",
         "Couleur",
         "Développement",
@@ -1009,7 +1009,6 @@
         "Petit objet",
         "Plantes",
         "Profession",
-        "Propriété physique",
         "Voie/Infrastructure",
         "Véhicule",
         "Vêtement/Accessoire",

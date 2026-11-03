@@ -2,7 +2,7 @@
   "version": 1,
   "language": "spanish",
   "language_code": "es",
-  "generated_at": "2026-10-27T22:08:31Z",
+  "generated_at": "2026-11-03T18:56:07Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -752,10 +752,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "9706bfa15baa1d3573a5fd41400ec191.json",
+      "filename": "1c1b275455f4df16565f695a5f5735e4.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "9706bfa15baa1d3573a5fd41400ec191",
+      "md5": "1c1b275455f4df16565f695a5f5735e4",
       "levels": [
         1,
         2,
@@ -764,7 +764,7 @@
         5
       ],
       "required": true,
-      "word_count": 189,
+      "word_count": 188,
       "groups": [
         "Animals",
         "Body Part",
@@ -797,10 +797,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "a5fc6c7648f8f4f1d0ccd3fbb59e6f56.json",
+      "filename": "2d0d5a40edf6d6664e715a0d2559cc6b.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "a5fc6c7648f8f4f1d0ccd3fbb59e6f56",
+      "md5": "2d0d5a40edf6d6664e715a0d2559cc6b",
       "levels": [
         6,
         7,
@@ -809,7 +809,7 @@
         10
       ],
       "required": true,
-      "word_count": 175,
+      "word_count": 173,
       "groups": [
         "Adverb Other",
         "Beverage",
@@ -845,10 +845,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "7ceb969256740d051302b436391f5ef7.json",
+      "filename": "05c297728da3341571240d163bdc8ae4.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "7ceb969256740d051302b436391f5ef7",
+      "md5": "05c297728da3341571240d163bdc8ae4",
       "levels": [
         11,
         12,
@@ -857,7 +857,7 @@
         15
       ],
       "required": true,
-      "word_count": 153,
+      "word_count": 151,
       "groups": [
         "Adverb Other",
         "Communication",
@@ -881,10 +881,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "226eca0032d6a643f7a1900ca3641716.json",
+      "filename": "b6bacd7ab2ade890790416e405ed152b.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "226eca0032d6a643f7a1900ca3641716",
+      "md5": "b6bacd7ab2ade890790416e405ed152b",
       "levels": [
         16,
         17,
@@ -893,7 +893,7 @@
         20
       ],
       "required": true,
-      "word_count": 167,
+      "word_count": 163,
       "groups": [
         "Activity",
         "Adverb Other",
@@ -932,10 +932,10 @@
     },
     {
       "id": "levels_21_25",
-      "filename": "8f40656c307cccfe0db68ef2ac18338f.json",
+      "filename": "45cae72ed7d1b8abd5ee1d065620c632.json",
       "display_name": "Levels 21-25",
       "type": "words",
-      "md5": "8f40656c307cccfe0db68ef2ac18338f",
+      "md5": "45cae72ed7d1b8abd5ee1d065620c632",
       "levels": [
         21,
         22,
@@ -953,6 +953,7 @@
         "Building/Structure",
         "Change",
         "Completeness",
+        "Direction",
         "Directional Movement",
         "Duration",
         "Existence",
@@ -973,10 +974,10 @@
     },
     {
       "id": "levels_26_30",
-      "filename": "959c902873044143b2fc57e883d19038.json",
+      "filename": "37556df7373066d729baced9b8cbe8db.json",
       "display_name": "Levels 26-30",
       "type": "words",
-      "md5": "959c902873044143b2fc57e883d19038",
+      "md5": "37556df7373066d729baced9b8cbe8db",
       "levels": [
         26,
         27,
@@ -985,7 +986,7 @@
         30
       ],
       "required": true,
-      "word_count": 146,
+      "word_count": 141,
       "groups": [
         "Activity",
         "Animals",
@@ -1003,11 +1004,9 @@
         "Occupation",
         "Path/Infrastructure",
         "Physical Action",
-        "Physical Property",
         "Place Name",
         "Plant Part",
         "Plants",
-        "Quantitative Concept",
         "Small Movable Object",
         "Sports/Game Equipment",
         "Vehicle"
@@ -1017,11 +1016,11 @@
   "sentence_files": [
     {
       "id": "sentences",
-      "filename": "3c123ef6480925a2d4d9a809b8a55908.json",
+      "filename": "d057393a9e320ea677896cc0aa79ae1d.json",
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "3c123ef6480925a2d4d9a809b8a55908",
+      "md5": "d057393a9e320ea677896cc0aa79ae1d",
       "required": false
     }
   ],

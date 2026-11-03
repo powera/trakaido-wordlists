@@ -3,7 +3,7 @@
   "language": "spanish",
   "language_code": "es-419",
   "variant": "es-419",
-  "generated_at": "2026-10-27T22:08:32Z",
+  "generated_at": "2026-11-03T18:56:21Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -754,10 +754,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "0aadff6210b3234cc602b4c7d78d81eb.json",
+      "filename": "0c855498c7191ac20ab413a0147d69d0.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "0aadff6210b3234cc602b4c7d78d81eb",
+      "md5": "0c855498c7191ac20ab413a0147d69d0",
       "levels": [
         1,
         2,
@@ -766,7 +766,7 @@
         5
       ],
       "required": true,
-      "word_count": 189,
+      "word_count": 188,
       "groups": [
         "Animals",
         "Body Part",
@@ -799,10 +799,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "73c0728e5bf8617b590dfda7a59c40cd.json",
+      "filename": "e3511f151eb37b489644aa9fa3cb50b3.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "73c0728e5bf8617b590dfda7a59c40cd",
+      "md5": "e3511f151eb37b489644aa9fa3cb50b3",
       "levels": [
         6,
         7,
@@ -811,7 +811,7 @@
         10
       ],
       "required": true,
-      "word_count": 175,
+      "word_count": 173,
       "groups": [
         "Adverb Other",
         "Beverage",
@@ -847,10 +847,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "45cf1a46fdd7388117f24e9f96693aab.json",
+      "filename": "a5f7ae9c429882318d11ef99c3300892.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "45cf1a46fdd7388117f24e9f96693aab",
+      "md5": "a5f7ae9c429882318d11ef99c3300892",
       "levels": [
         11,
         12,
@@ -859,7 +859,7 @@
         15
       ],
       "required": true,
-      "word_count": 152,
+      "word_count": 150,
       "groups": [
         "Adverb Other",
         "Communication",
@@ -883,10 +883,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "85d0ee61573329b4ea760bab8d03452f.json",
+      "filename": "12bcdbe1e80878d41079796dffebe434.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "85d0ee61573329b4ea760bab8d03452f",
+      "md5": "12bcdbe1e80878d41079796dffebe434",
       "levels": [
         16,
         17,
@@ -895,7 +895,7 @@
         20
       ],
       "required": true,
-      "word_count": 167,
+      "word_count": 163,
       "groups": [
         "Activity",
         "Adverb Other",
@@ -934,10 +934,10 @@
     },
     {
       "id": "levels_21_25",
-      "filename": "34aed5e52370c5f3859430d2108b4905.json",
+      "filename": "c9a809c8e191694636c4daa327e9a05b.json",
       "display_name": "Levels 21-25",
       "type": "words",
-      "md5": "34aed5e52370c5f3859430d2108b4905",
+      "md5": "c9a809c8e191694636c4daa327e9a05b",
       "levels": [
         21,
         22,
@@ -955,6 +955,7 @@
         "Building/Structure",
         "Change",
         "Completeness",
+        "Direction",
         "Directional Movement",
         "Duration",
         "Existence",
@@ -975,10 +976,10 @@
     },
     {
       "id": "levels_26_30",
-      "filename": "2375642afb57be3176cf9b5367a2d9d3.json",
+      "filename": "80ee6f05f48161c4b8367c0b5936ebe4.json",
       "display_name": "Levels 26-30",
       "type": "words",
-      "md5": "2375642afb57be3176cf9b5367a2d9d3",
+      "md5": "80ee6f05f48161c4b8367c0b5936ebe4",
       "levels": [
         26,
         27,
@@ -987,7 +988,7 @@
         30
       ],
       "required": true,
-      "word_count": 146,
+      "word_count": 141,
       "groups": [
         "Activity",
         "Animals",
@@ -1005,11 +1006,9 @@
         "Occupation",
         "Path/Infrastructure",
         "Physical Action",
-        "Physical Property",
         "Place Name",
         "Plant Part",
         "Plants",
-        "Quantitative Concept",
         "Small Movable Object",
         "Sports/Game Equipment",
         "Vehicle"

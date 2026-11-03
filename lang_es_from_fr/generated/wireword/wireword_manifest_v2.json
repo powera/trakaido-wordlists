@@ -2,7 +2,7 @@
   "version": 1,
   "language": "spanish",
   "language_code": "es",
-  "generated_at": "2026-10-25T16:16:55Z",
+  "generated_at": "2026-11-03T18:56:12Z",
   "source_language": "french",
   "source_language_code": "fr",
   "config": {
@@ -754,10 +754,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "ca8e15162c3a2e5aa950c01a118aba73.json",
+      "filename": "3ec838cfb7d988347767adff88fbbb0e.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "ca8e15162c3a2e5aa950c01a118aba73",
+      "md5": "3ec838cfb7d988347767adff88fbbb0e",
       "levels": [
         1,
         2,
@@ -766,7 +766,7 @@
         5
       ],
       "required": true,
-      "word_count": 189,
+      "word_count": 188,
       "groups": [
         "Action physique",
         "Animaux",
@@ -799,10 +799,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "f14afa671de1e4ad9d6768e04f220dc1.json",
+      "filename": "903b936d2878a1ab999ecce2a5026670.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "f14afa671de1e4ad9d6768e04f220dc1",
+      "md5": "903b936d2878a1ab999ecce2a5026670",
       "levels": [
         6,
         7,
@@ -811,7 +811,7 @@
         10
       ],
       "required": true,
-      "word_count": 175,
+      "word_count": 173,
       "groups": [
         "Action physique",
         "Adverb Other",
@@ -847,10 +847,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "d2eddb5ffbcbc8f28272e6fbe1346ec7.json",
+      "filename": "53cc69efff2628d53b001f979b0210be.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "d2eddb5ffbcbc8f28272e6fbe1346ec7",
+      "md5": "53cc69efff2628d53b001f979b0210be",
       "levels": [
         11,
         12,
@@ -859,7 +859,7 @@
         15
       ],
       "required": true,
-      "word_count": 153,
+      "word_count": 151,
       "groups": [
         "Action physique",
         "Adverb Other",
@@ -883,10 +883,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "1aca0e0ba1aad2747cdb2f39949f3b81.json",
+      "filename": "09cea83bd0747119d5993fa6d9be0313.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "1aca0e0ba1aad2747cdb2f39949f3b81",
+      "md5": "09cea83bd0747119d5993fa6d9be0313",
       "levels": [
         16,
         17,
@@ -895,7 +895,7 @@
         20
       ],
       "required": true,
-      "word_count": 167,
+      "word_count": 163,
       "groups": [
         "Action physique",
         "Activité",
@@ -934,10 +934,10 @@
     },
     {
       "id": "levels_21_25",
-      "filename": "56fac4f59b344bd02f54c67d619f829a.json",
+      "filename": "d17033b240b6390ba78aa60f4082fb8d.json",
       "display_name": "Levels 21-25",
       "type": "words",
-      "md5": "56fac4f59b344bd02f54c67d619f829a",
+      "md5": "d17033b240b6390ba78aa60f4082fb8d",
       "levels": [
         21,
         22,
@@ -953,6 +953,7 @@
         "Bâtiment",
         "Changement",
         "Complétude",
+        "Direction",
         "Durée",
         "Existence",
         "Intensité",
@@ -975,10 +976,10 @@
     },
     {
       "id": "levels_26_30",
-      "filename": "c450b267cc933b39e166fd59bc6a54cf.json",
+      "filename": "de79226484b8b5639158c2083e99abe7.json",
       "display_name": "Levels 26-30",
       "type": "words",
-      "md5": "c450b267cc933b39e166fd59bc6a54cf",
+      "md5": "de79226484b8b5639158c2083e99abe7",
       "levels": [
         26,
         27,
@@ -987,7 +988,7 @@
         30
       ],
       "required": true,
-      "word_count": 146,
+      "word_count": 141,
       "groups": [
         "Action physique",
         "Activité",
@@ -995,7 +996,6 @@
         "Bâtiment",
         "Changement",
         "Communication",
-        "Concept quantitatif",
         "Concept/Idée",
         "Couleur",
         "Développement",
@@ -1007,7 +1007,6 @@
         "Petit objet",
         "Plantes",
         "Profession",
-        "Propriété physique",
         "Voie/Infrastructure",
         "Véhicule",
         "Vêtement/Accessoire",
@@ -1019,11 +1018,11 @@
   "sentence_files": [
     {
       "id": "sentences",
-      "filename": "09e3ca5c1bcf1974c7989c0ba877a28d.json",
+      "filename": "a7a05aedb5c78cd4e7f0427f40868190.json",
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "09e3ca5c1bcf1974c7989c0ba877a28d",
+      "md5": "a7a05aedb5c78cd4e7f0427f40868190",
       "required": false
     }
   ],

@@ -2,7 +2,7 @@
   "version": 1,
   "language": "spanish",
   "language_code": "es",
-  "generated_at": "2026-10-25T16:17:00Z",
+  "generated_at": "2026-11-03T18:56:16Z",
   "source_language": "chinese",
   "source_language_code": "zh",
   "config": {
@@ -754,10 +754,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "a078c73f643af97fc3fecfce1babbeb6.json",
+      "filename": "e9e9950e911c5f5384ac4a167dfd841b.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "a078c73f643af97fc3fecfce1babbeb6",
+      "md5": "e9e9950e911c5f5384ac4a167dfd841b",
       "levels": [
         1,
         2,
@@ -766,7 +766,7 @@
         5
       ],
       "required": true,
-      "word_count": 189,
+      "word_count": 188,
       "groups": [
         "Interjection Other",
         "交流/信息",
@@ -799,10 +799,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "92b0c10c81749f0573a556760da4cb25.json",
+      "filename": "42c197318963aabe61c70715626bdd41.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "92b0c10c81749f0573a556760da4cb25",
+      "md5": "42c197318963aabe61c70715626bdd41",
       "levels": [
         6,
         7,
@@ -811,7 +811,7 @@
         10
       ],
       "required": true,
-      "word_count": 175,
+      "word_count": 173,
       "groups": [
         "Adverb Other",
         "Conjunction Other",
@@ -847,10 +847,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "a19f2a9ae3ccfe93c122a2acba411d6b.json",
+      "filename": "707c7477187ff2848c141f78499dfcec.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "a19f2a9ae3ccfe93c122a2acba411d6b",
+      "md5": "707c7477187ff2848c141f78499dfcec",
       "levels": [
         11,
         12,
@@ -859,7 +859,7 @@
         15
       ],
       "required": true,
-      "word_count": 153,
+      "word_count": 151,
       "groups": [
         "Adverb Other",
         "Conjunction Other",
@@ -883,10 +883,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "6eb2fb46ae49afc1edbada4a4501cd18.json",
+      "filename": "d06c7b453e08da77e2a2f21a9aee98ce.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "6eb2fb46ae49afc1edbada4a4501cd18",
+      "md5": "d06c7b453e08da77e2a2f21a9aee98ce",
       "levels": [
         16,
         17,
@@ -895,7 +895,7 @@
         20
       ],
       "required": true,
-      "word_count": 167,
+      "word_count": 163,
       "groups": [
         "Adverb Other",
         "Determiner Other",
@@ -934,10 +934,10 @@
     },
     {
       "id": "levels_21_25",
-      "filename": "25c1b18b400ded01908ac89379975291.json",
+      "filename": "515995aa6b9bedc6bb0d8880e038ab49.json",
       "display_name": "Levels 21-25",
       "type": "words",
-      "md5": "25c1b18b400ded01908ac89379975291",
+      "md5": "515995aa6b9bedc6bb0d8880e038ab49",
       "levels": [
         21,
         22,
@@ -962,6 +962,7 @@
         "建筑",
         "建筑部件",
         "持续时间",
+        "方向",
         "方向性移动",
         "时间名称",
         "时间段",
@@ -975,10 +976,10 @@
     },
     {
       "id": "levels_26_30",
-      "filename": "af8effc7e453f0b465a9f201e1422e1e.json",
+      "filename": "e92615bb4a0e1b1f5bdade35a5c3d3a4.json",
       "display_name": "Levels 26-30",
       "type": "words",
-      "md5": "af8effc7e453f0b465a9f201e1422e1e",
+      "md5": "e92615bb4a0e1b1f5bdade35a5c3d3a4",
       "levels": [
         26,
         27,
@@ -987,7 +988,7 @@
         30
       ],
       "required": true,
-      "word_count": 146,
+      "word_count": 141,
       "groups": [
         "交流",
         "交通工具",
@@ -999,14 +1000,12 @@
         "地理地点",
         "小物件",
         "建筑",
-        "数量概念",
         "方向性移动",
         "服装/配饰",
         "植物",
         "植物部位",
         "概念/思想",
         "活动",
-        "物理属性",
         "移动方式",
         "职业",
         "艺术品/文物",
@@ -1019,11 +1018,11 @@
   "sentence_files": [
     {
       "id": "sentences",
-      "filename": "1c5b78d29df6b084842bfdcfcd6199c2.json",
+      "filename": "c482028afb5248752192a1b6451029a9.json",
       "display_name": "Practice Sentences",
       "description": "Sentences for context-based learning",
       "type": "sentences",
-      "md5": "1c5b78d29df6b084842bfdcfcd6199c2",
+      "md5": "c482028afb5248752192a1b6451029a9",
       "required": false
     }
   ],
