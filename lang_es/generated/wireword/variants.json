@@ -16,7 +16,14 @@
         "ES"
       ],
       "source_languages": [
-        "en"
+        "en",
+        "bn",
+        "fr",
+        "kn",
+        "pl",
+        "ro",
+        "uk",
+        "zh"
       ]
     },
     {
@@ -51,7 +58,9 @@
         "US"
       ],
       "source_languages": [
-        "en"
+        "en",
+        "fr",
+        "zh"
       ]
     }
   ]
