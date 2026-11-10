@@ -2,7 +2,7 @@
   "version": 1,
   "language": "spanish",
   "language_code": "es",
-  "generated_at": "2026-11-03T18:56:07Z",
+  "generated_at": "2026-11-10T02:26:41Z",
   "config": {
     "audio_prefix": "/staging",
     "available_voices": [
@@ -250,22 +250,22 @@
       {
         "level": 9,
         "name": {
-          "en": "Needs and Feelings",
-          "de": "Bedürfnisse und Gefühle",
-          "es": "Necesidades y emociones",
-          "es-419": "Necesidades y emociones",
-          "fr": "Besoins et émotions",
-          "it": "Bisogni ed emozioni",
-          "ja": "欲求と感情",
-          "ko": "욕구와 감정",
-          "lt": "Poreikiai ir jausmai",
-          "nl": "Behoeften en gevoelens",
-          "pt": "Necessidades e emoções",
-          "pt-br": "Necessidades e emoções",
-          "sv": "Behov och känslor",
-          "sw": "Mahitaji na hisia",
-          "zh": "需求与感受",
-          "zh-tw": "需求與感受"
+          "en": "Feelings, Jobs and Buildings",
+          "de": "Gefühle, Berufe und Gebäude",
+          "es": "Sentimientos, profesiones y edificios",
+          "es-419": "Sentimientos, profesiones y edificios",
+          "fr": "Sentiments, métiers et bâtiments",
+          "it": "Sentimenti, mestieri ed edifici",
+          "ja": "気持ち、仕事、建物",
+          "ko": "감정, 직업, 건물",
+          "lt": "Jausmai, profesijos ir pastatai",
+          "nl": "Gevoelens, beroepen en gebouwen",
+          "pt": "Sentimentos, profissões e edifícios",
+          "pt-br": "Sentimentos, profissões e prédios",
+          "sv": "Känslor, yrken och byggnader",
+          "sw": "Hisia, kazi na majengo",
+          "zh": "感受、职业和建筑",
+          "zh-tw": "感受、職業和建築"
         },
         "cefr": "A2"
       },
@@ -726,22 +726,22 @@
       {
         "level": 30,
         "name": {
-          "en": "Jobs",
-          "de": "Berufe",
-          "es": "Profesiones",
-          "es-419": "Profesiones",
-          "fr": "Métiers",
-          "it": "Professioni",
-          "ja": "職業",
-          "ko": "직업",
-          "lt": "Profesijos",
-          "nl": "Beroepen",
-          "pt": "Profissões",
-          "pt-br": "Profissões",
-          "sv": "Yrken",
-          "sw": "Kazi na taaluma",
-          "zh": "职业",
-          "zh-tw": "職業"
+          "en": "Jobs and Places in Town",
+          "de": "Berufe und Orte in der Stadt",
+          "es": "Profesiones y lugares de la ciudad",
+          "es-419": "Profesiones y lugares de la ciudad",
+          "fr": "Métiers et lieux en ville",
+          "it": "Mestieri e luoghi in città",
+          "ja": "仕事と街の場所",
+          "ko": "직업과 동네 장소",
+          "lt": "Profesijos ir vietos mieste",
+          "nl": "Beroepen en plaatsen in de stad",
+          "pt": "Profissões e lugares na cidade",
+          "pt-br": "Profissões e lugares na cidade",
+          "sv": "Yrken och platser i staden",
+          "sw": "Kazi na maeneo ya mjini",
+          "zh": "职业和城市场所",
+          "zh-tw": "職業和城市場所"
         },
         "cefr": "A2",
         "cefr_estimate_method": "manual_curriculum_review",
@@ -752,10 +752,10 @@
   "word_files": [
     {
       "id": "levels_1_5",
-      "filename": "1c1b275455f4df16565f695a5f5735e4.json",
+      "filename": "79e329f67246399f98d958ac2ab10e8c.json",
       "display_name": "Levels 1-5",
       "type": "words",
-      "md5": "1c1b275455f4df16565f695a5f5735e4",
+      "md5": "79e329f67246399f98d958ac2ab10e8c",
       "levels": [
         1,
         2,
@@ -764,7 +764,7 @@
         5
       ],
       "required": true,
-      "word_count": 188,
+      "word_count": 180,
       "groups": [
         "Animals",
         "Body Part",
@@ -783,7 +783,6 @@
         "Interjection Other",
         "Kitchenware",
         "Mental State",
-        "Occupation",
         "Perception",
         "Physical Action",
         "Physical Property",
@@ -797,10 +796,10 @@
     },
     {
       "id": "levels_6_10",
-      "filename": "2d0d5a40edf6d6664e715a0d2559cc6b.json",
+      "filename": "271830b76d3460e28cc545dbdb00780f.json",
       "display_name": "Levels 6-10",
       "type": "words",
-      "md5": "2d0d5a40edf6d6664e715a0d2559cc6b",
+      "md5": "271830b76d3460e28cc545dbdb00780f",
       "levels": [
         6,
         7,
@@ -809,7 +808,7 @@
         10
       ],
       "required": true,
-      "word_count": 173,
+      "word_count": 181,
       "groups": [
         "Adverb Other",
         "Beverage",
@@ -830,6 +829,7 @@
         "Interjection Other",
         "Mental State",
         "Natural Feature",
+        "Occupation",
         "Perception",
         "Physical Action",
         "Physical Property",
@@ -845,10 +845,10 @@
     },
     {
       "id": "levels_11_15",
-      "filename": "05c297728da3341571240d163bdc8ae4.json",
+      "filename": "f524ab89696c941323c4f73d238d1d6a.json",
       "display_name": "Levels 11-15",
       "type": "words",
-      "md5": "05c297728da3341571240d163bdc8ae4",
+      "md5": "f524ab89696c941323c4f73d238d1d6a",
       "levels": [
         11,
         12,
@@ -857,7 +857,7 @@
         15
       ],
       "required": true,
-      "word_count": 151,
+      "word_count": 150,
       "groups": [
         "Adverb Other",
         "Communication",
@@ -881,10 +881,10 @@
     },
     {
       "id": "levels_16_20",
-      "filename": "b6bacd7ab2ade890790416e405ed152b.json",
+      "filename": "5476e22d0731e9fa5a066a610ec88add.json",
       "display_name": "Levels 16-20",
       "type": "words",
-      "md5": "b6bacd7ab2ade890790416e405ed152b",
+      "md5": "5476e22d0731e9fa5a066a610ec88add",
       "levels": [
         16,
         17,
@@ -893,7 +893,7 @@
         20
       ],
       "required": true,
-      "word_count": 163,
+      "word_count": 160,
       "groups": [
         "Activity",
         "Adverb Other",
@@ -901,7 +901,6 @@
         "Building/Structure",
         "Communication/Information",
         "Concept/Idea",
-        "Determiner Other",
         "Emotion",
         "Emotional State",
         "Family Relation",
@@ -932,10 +931,10 @@
     },
     {
       "id": "levels_21_25",
-      "filename": "45cae72ed7d1b8abd5ee1d065620c632.json",
+      "filename": "f393488d834b15775c8b07fcc1daf683.json",
       "display_name": "Levels 21-25",
       "type": "words",
-      "md5": "45cae72ed7d1b8abd5ee1d065620c632",
+      "md5": "f393488d834b15775c8b07fcc1daf683",
       "levels": [
         21,
         22,
@@ -944,7 +943,7 @@
         25
       ],
       "required": true,
-      "word_count": 161,
+      "word_count": 167,
       "groups": [
         "Adverb Other",
         "Appliance",
@@ -953,6 +952,7 @@
         "Building/Structure",
         "Change",
         "Completeness",
+        "Determiner Other",
         "Direction",
         "Directional Movement",
         "Duration",
@@ -974,10 +974,10 @@
     },
     {
       "id": "levels_26_30",
-      "filename": "37556df7373066d729baced9b8cbe8db.json",
+      "filename": "869ceaf023ff9d4e7639a451315e8bb3.json",
       "display_name": "Levels 26-30",
       "type": "words",
-      "md5": "37556df7373066d729baced9b8cbe8db",
+      "md5": "869ceaf023ff9d4e7639a451315e8bb3",
       "levels": [
         26,
         27,
@@ -986,7 +986,7 @@
         30
       ],
       "required": true,
-      "word_count": 141,
+      "word_count": 149,
       "groups": [
         "Activity",
         "Animals",
